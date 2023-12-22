@@ -44,7 +44,6 @@ do
     echo Process ${ROUTE} PDF pages
     ./generate-txt.sh ${ROUTE}
     ./tabula.sh ${ROUTE}
-    find lattice -type f -size 0 -name \*.tsv -exec rm {} \;
 done
 
-
+./get-platform.py
