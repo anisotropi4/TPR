@@ -2,11 +2,11 @@
 A scrape of the Network Rail Timetable Planning Rules (TPR)
 
 ## The Rail Timetable Planning Rules (TPR) for the British rail network
-The Network Rail [Timetable Planning Rules](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/operational-rules/) are used to regulate the standard timings between stations and junctions together with other matters enabling trains to be scheduled into the working timetable for the various parts of the main rail network. However, as this consists of ~10 PDF file for each calendar yeary, their use is significantly restricted.
+The Network Rail [Timetable Planning Rules](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/operational-rules/) are used to regulate the standard timings between stations and junctions together with other matters enabling trains to be scheduled into the working timetable for the various parts of the main rail network. However, as this consists of ~10 PDF file for each calendar year, their use is significantly restricted. 
 
-This respository uses scripts in `shell`, `python` and the [`Tabula`](https://github.com/tabulapdf) project to liberate data and tables trapped inside these PDF files for a given year.
+This repository uses scripts in `shell`, `python` and the [`Tabula`](https://github.com/tabulapdf) project to liberate data and tables trapped inside these PDF files for a given year. 
 
-With all data extracted to unstructured text files and the tabular data into Tab Seperated Variable (TSV) files.
+With all data extracted to unstructured text files and the tabular data into Tab Separated Variable (TSV) files.
 
 ## Data Extract
 To extract the data
