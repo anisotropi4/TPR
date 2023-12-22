@@ -1,0 +1,41 @@
+|                                                                                                                |                                       |             |         |
+|:---------------------------------------------------------------------------------------------------------------|:--------------------------------------|:------------|:--------|
+| Bristol Temple Meads                                                                                           |                                       |             |         |
+| ‘Near’ refers to the platform at the nearest end of the station, to the direction of approach (even-numbered   |                                       |             |         |
+| platforms for Up services and odd-numbered platforms for Down services).                                       |                                       |             |         |
+|                                                                                                                |                                       |             |         |
+| ‘Far’ refers to the platform at the furthest end of the station from the direction of approach (odd-numbered   |                                       |             |         |
+| platforms for Up services and even-numbered platforms for Down services).                                      |                                       |             |         |
+| Restrictions relating to vehicle length                                                                        |                                       |             |         |
+| Refer to section 5.4 for Bristol Temple Meads Platform lengths                                                 |                                       |             |         |
+| Adjustments to Sectional Running Times (allowance to be shown approaching this location)                       |                                       |             |         |
+| Movement                                                                                                       | Reason                                | Timing Load | Value   |
+| From Bristol West Jn to Bristol Temple                                                                         | Acceleration from lower speed         | All traffic | + {1⁄2} |
+| Meads via the Carriage Lines                                                                                   | route                                 |             |         |
+| Overlap Restrictions                                                                                           |                                       |             |         |
+| First Movement                                                                                                 | Second Movement                       | Margin      |         |
+| Up train arrives Platform 3                                                                                    | Down train to Platform 1 passes /     | 11⁄2        |         |
+|                                                                                                                | departs Bristol East Junction         |             |         |
+| Train arrives or departs Platform 1                                                                            | Up train to Platform 3 departs        | 1           |         |
+|                                                                                                                | Bristol West Junction                 |             |         |
+| Train arrives or departs Platform 1                                                                            | Up train to Platform 3 passes Bristol | 2           |         |
+|                                                                                                                | West Junction                         |             |         |
+| Connectional Allowance                                                                                         | 10                                    |             |         |
+| Dwell Time                                                                                                     |                                       |             |         |
+| 80X / LH, 220 & 221                                                                                            | 3$                                    |             |         |
+| 15x to 170 & GWR Short                                                                                         | 2#                                    |             |         |
+| Form HST (HSTGW4)                                                                                              |                                       |             |         |
+| $ Increase to 10 minutes if watering is required.                                                              |                                       |             |         |
+| # Increase to 4 minutes if services reverse at Bristol Temple Meads.                                           |                                       |             |         |
+| Minimum allowance for reversals or run rounds en-route                                                         |                                       |             |         |
+| L/H                                                                                                            | 15                                    |             |         |
+| Platform Re-occupation                                                                                         |                                       |             |         |
+| Same direction                                                                                                 | 3                                     |             |         |
+| Opposite direction                                                                                             | 4                                     |             |         |
+| Attachment                                                                                                     |                                       |             |         |
+| Class 80x                                                                                                      | 8 (Including dwell)                   |             |         |
+| Margin between arrivals on adjacent                                                                            | 3^                                    |             |         |
+| platforms                                                                                                      |                                       |             |         |
+| ^ The simultaneous routing of trains to opposing mid-platform signals on the same through platform line is     |                                       |             |         |
+| prohibited. The first train must have arrived and be stopped before a second train is allowed to approach from |                                       |             |         |
+| the gantry signal at the opposite end of the station.                                                          |                                       |             |         |

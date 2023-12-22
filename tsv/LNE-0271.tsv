@@ -1,0 +1,51 @@
+|                                                                                                                     |                                            |                               |
+|:--------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:------------------------------|
+| Altofts Junction                                                                                                    |                                            |                               |
+| Adjustments to Sectional Running Times                                                                              |                                            |                               |
+| Movement Down                                                                                                       | Reason                                     | Value                         |
+| Trains from Calder Bridge going to                                                                                  | Approach Control                           | 3                             |
+| Europort                                                                                                            |                                            |                               |
+| Trains from Wakefield Kirkgate                                                                                      | Approach Control                           | 2                             |
+| going to Europort                                                                                                   |                                            |                               |
+| Movement Up                                                                                                         | Reason                                     | Value                         |
+| Trains coming from Europort                                                                                         | Acceleration from rest                     | 1 To be applied after Altofts |
+|                                                                                                                     |                                            | Junction                      |
+| Junction Margins                                                                                                    |                                            |                               |
+| First Movement                                                                                                      | Second Movement                            | Margin                        |
+| Pass to Whitwood Junction                                                                                           | Pass from Methley Junction                 | 3                             |
+| Pass to Whitwood Junction                                                                                           | Depart from Europort                       | 11⁄2                          |
+| Passenger pass from Methley Junction                                                                                | Pass to Whitwood Junction (not stopping    | 3                             |
+|                                                                                                                     | Normanton)                                 |                               |
+| Freight pass from Methley Junction                                                                                  | Pass to Whitwood Junction (not stopping at | 31⁄2                          |
+|                                                                                                                     | Normanton)                                 |                               |
+| Passenger pass from Methley Junction                                                                                | Pass to Whitwood Junction (Stopping at     | 2                             |
+|                                                                                                                     | Normanton)                                 |                               |
+| Freight pass from Methley Junction                                                                                  | Pass to Whitwood Junction (Stopping at     | 21⁄2                          |
+|                                                                                                                     | Normanton)                                 |                               |
+| Passenger pass from Methley                                                                                         | Pass to Europort                           | 2                             |
+| Junction/Whitwood Junction                                                                                          |                                            |                               |
+| Freight pass from Methley Junction/Whitwood                                                                         | Pass to Europort                           | 21⁄2                          |
+| Junction                                                                                                            |                                            |                               |
+| Pass from Europort                                                                                                  | Pass to Whitwood Junction (not stopping    | 4                             |
+|                                                                                                                     | Normanton)                                 |                               |
+| Pass from Europort                                                                                                  | Pass to Whitwood Junction (Stopping at     | 31⁄2                          |
+|                                                                                                                     | Normanton)                                 |                               |
+| Pass to Europort                                                                                                    | Pass from Methley Junction                 | 61⁄2                          |
+| Pass to Europort                                                                                                    | Pass from Whitwood Junction                | 51⁄2                          |
+| Pass to Europort                                                                                                    | Pass to Whitwood Junction (not stopping    | 61⁄2                          |
+|                                                                                                                     | Normanton)                                 |                               |
+| Pass to Europort                                                                                                    | Pass to Whitwood Junction (Stopping at     | 51⁄2                          |
+|                                                                                                                     | Normanton)                                 |                               |
+| Pass to Europort                                                                                                    | Pass to Methley Junction (not stopping     | 4                             |
+|                                                                                                                     | Normanton)                                 |                               |
+| Pass to Europort                                                                                                    | Pass to Methley Junction (Stopping at      | 4                             |
+|                                                                                                                     | Normanton)                                 |                               |
+| Restriction: Trains going to Europort block all lines when going into terminal, until train is completely ‘inside’  |                                            |                               |
+| terminal (except for trains going towards Methley Junction). This is reflected in margins, above                    |                                            |                               |
+| Note: Wakefield Europort has restricted capacity. If more than one train present, confirmation the further train(s) |                                            |                               |
+| can be accommodated should be obtained from the operator                                                            |                                            |                               |
+| Whitwood Junction                                                                                                   |                                            |                               |
+| Junction Margins                                                                                                    |                                            |                               |
+| First Movement                                                                                                      | Second Movement                            | Margin                        |
+| Pass Altofts Junction to Castleford                                                                                 | Pass to Methley Junction                   | 3                             |
+| Pass to Methley Junction                                                                                            | Pass Altofts Junction to Castleford        | 1                             |

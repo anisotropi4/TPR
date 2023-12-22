@@ -1,0 +1,33 @@
+|                                               |                                                                 |        |
+|:----------------------------------------------|:----------------------------------------------------------------|:-------|
+| Alnmouth for Alnwick (inc Wooden Gates loops) |                                                                 |        |
+| First Movement                                | Second Movement                                                 | Margin |
+| Up Passenger clear inside                     | Non-stop pass                                                   | 5      |
+| Up Freight clear inside                       | Non-stop pass                                                   | 6      |
+| Chathill                                      |                                                                 |        |
+| Dwell Time                                    |                                                                 |        |
+| DMU                                           | 1⁄2                                                             |        |
+| Belford (inc Crag Mill Loops)                 |                                                                 |        |
+| Junction Margins                              |                                                                 |        |
+| First Movement                                | Second Movement                                                 | Margin |
+| Down Passenger arrive loop                    | Down non-stop pass                                              | 5      |
+| Down Freight arrive loop                      | Non-stop pass                                                   | 6      |
+| Crag Mill Loops                               |                                                                 |        |
+| Junction Margins                              |                                                                 |        |
+| First Movement                                | Second Movement                                                 | Margin |
+| Up Passenger arrive loop                      | Non-stop passes Belford                                         | 5      |
+| Up Freight arrive loop                        | Non-stop passes Belford                                         | 6      |
+| Down Passenger pass Belford                   | Freight depart Down Loop                                        | 2      |
+| Up Passenger pass Belford                     | Freight depart Up Loop                                          | 1      |
+| Tweedmouth                                    |                                                                 |        |
+| Junction Margins                              |                                                                 |        |
+| First Movement                                | Second Movement                                                 | Margin |
+| Up Freight arrive loop                        | Non-stop passes Berwick from Scotland                           | 6      |
+| Berwick-upon-Tweed                            |                                                                 |        |
+| Dwell Time                                    |                                                                 |        |
+| TPE 802                                       | 11⁄2                                                            |        |
+| LNER all services                             | 2 May be reduced to 11⁄2 with prior agreement from the operator |        |
+| Junction Margins                              |                                                                 |        |
+| First Movement                                | Second Movement                                                 | Margin |
+| Down Freight arrive loop                      | Non-stop pass6                                                  |        |
+| Up Freight arrive loop                        | Non-stop pass6                                                  |        |

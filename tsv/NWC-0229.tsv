@@ -1,0 +1,40 @@
+|                                                                                                 |                                                               |        |
+|:------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-------|
+| Leamington Spa                                                                                  |                                                               |        |
+| Junction Margins                                                                                |                                                               |        |
+| First Movement                                                                                  | Second Movement                                               | Margin |
+| All conflicting moves (see below for exceptions)                                                |                                                               | 3      |
+| Freight pass Leamington Spa towards                                                             | Arrive/Pass Leamington Spa form Hatton                        | 4      |
+| Milverton Jn                                                                                    |                                                               |        |
+| Train passes from Milverton Jn towards Fenny                                                    | Train departs platform 4 towards Hatton                       | 1      |
+| Compton                                                                                         |                                                               |        |
+| Train arrives or passes Platform 3 or Up Main                                                   | Train departs from any platform, depot siding or              | 1      |
+| from Hatton                                                                                     | Down Main towards Milverton Jn                                |        |
+| Train arrives or passes Platform 3 or Up Main                                                   | Train pass from Down Main towards Milverton                   | 2      |
+| from Hatton                                                                                     | Jn                                                            |        |
+| Overlap Restrictions                                                                            |                                                               |        |
+| First Movement                                                                                  | Second Movement                                               | Margin |
+| Train departs platform 1 towards Hatton or                                                      | Train arrives platform 2 or Down Cherwell                     | 4      |
+| Milverton Jn                                                                                    | Valley from Fenny Compton                                     |        |
+| Train arrives platform 1 from Leamington Spa                                                    | Train arrives platform 2 or Down Cherwell                     | 3      |
+| signal 126                                                                                      | Valley from Fenny Compton                                     |        |
+| Train arrives platform 2 or Down Cherwell                                                       | Train arrives platform 1 from Leamington Spa                  | 3      |
+| Valley from Fenny Compton                                                                       | signal 126                                                    |        |
+| Planning Restriction                                                                            |                                                               |        |
+| Platform 1 is used for departures only. It is not signalled for loaded passenger train arrivals |                                                               |        |
+| Platform Reoccupation                                                                           |                                                               |        |
+| Platform 1                                                                                      |                                                               |        |
+| First Movement                                                                                  | Second Movement                                               | Margin |
+| Train departs towards Milverton Jn                                                              | ECS arrives from either LN126 or                              | 4      |
+|                                                                                                 | LN128 signals                                                 |        |
+| Platform 4                                                                                      |                                                               |        |
+| Reoccupation Margin                                                                             | 4, except as below                                            |        |
+| Train departs towards Milverton Jn                                                              | Train arrives from Milverton Jn                               | 6      |
+| Turnround Allowance                                                                             | 5 DMU without shunt                                           |        |
+|                                                                                                 | 12 DMU with shunt (reduced to 8 if shunting via signal LN113) |        |
+| Warwick                                                                                         |                                                               |        |
+| Dwell Time                                                                                      |                                                               |        |
+| LH                                                                                              | 1                                                             |        |
+| Adjustments to Sectional Running Times                                                          |                                                               |        |
+| Movement Down                                                                                   | Reason                                                        | Value  |
+| Train departing platform 2 towards Hatton                                                       | Slow speed crossover and running brake test                   | 1⁄2    |

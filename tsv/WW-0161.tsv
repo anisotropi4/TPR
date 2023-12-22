@@ -1,0 +1,44 @@
+|                                                                                                                 |                                           |               |       |
+|:----------------------------------------------------------------------------------------------------------------|:------------------------------------------|:--------------|:------|
+| Heathrow Terminal 5                                                                                             |                                           |               |       |
+| Turnround allowances                                                                                            |                                           |               |       |
+|                                                                                                                 | 387                                       | 387           |       |
+| From Paddington                                                                                                 | 7*                                        |               |       |
+| From Terminal 4 or Terminals 2,3                                                                                |                                           | 7*            |       |
+| * Can be reduced to 5 minutes for a 4 or 5 car train or for an 8 or 9 car train with a change of driver         |                                           |               |       |
+| Platform Re-occupation                                                                                          | 2                                         |               |       |
+| Platform End Conflict Margin                                                                                    |                                           |               |       |
+| First Movement                                                                                                  | Second Movement                           | Margin        |       |
+| Up departure from Platform 3                                                                                    | Down arrival into Platform 4              | 2             |       |
+| Down arrival                                                                                                    | Conflicting Up departure                  | 1             |       |
+| GW182 WEST DRAYTON TO COLNBROOK                                                                                 |                                           |               |       |
+| Colnbrook                                                                                                       |                                           |               |       |
+| Junction Margin                                                                                                 |                                           |               |       |
+| First Movement                                                                                                  | Second Movement                           | Margin        |       |
+| Train arrive at any terminal from West                                                                          | Train depart any terminal to West Drayton | 2             |       |
+| Drayton                                                                                                         |                                           |               |       |
+| Planning Restriction                                                                                            |                                           |               |       |
+| Consecutive down trains: The second train cannot depart West Drayton Loop until 2 minutes after the             |                                           |               |       |
+| preceeding train has passed T3502/T3503 signals. See entry at West Drayton under GW103 for restrictions. The    |                                           |               |       |
+| second train cannot pass T3502/T3503 signals until 2 minutes after the preceeding train has arrived and been    |                                           |               |       |
+| ‘locked in’ at a terminal.                                                                                      |                                           |               |       |
+|                                                                                                                 |                                           |               |       |
+| Consecutive up trains: The second train cannot depart a terminal until 2 minutes after the preceeding train has |                                           |               |       |
+| passed T3502/T3503 signals. The second train cannot pass T3502/T3503 signals until 2 minutes after the          |                                           |               |       |
+| preceeding train has arrived at West Drayton (if less than 71SLU) or departed West Drayton (if longer than      |                                           |               |       |
+| 71SLU)                                                                                                          |                                           |               |       |
+| GW185  MAIDENHEAD TO MARLOW                                                                                     |                                           |               |       |
+| Bourne End                                                                                                      |                                           |               |       |
+| Connectional Allowance                                                                                          | 3                                         |               |       |
+| Turnround Allowance                                                                                             | 4                                         |               |       |
+| Reversal Allowance to/from                                                                                      | 41⁄2                                      |               |       |
+| Marlow whereby the train guard                                                                                  |                                           |               |       |
+| operates token machine and                                                                                      |                                           |               |       |
+| pointwork.                                                                                                      |                                           |               |       |
+| GW200  DIDCOT TO HEYFORD (EXCL.)                                                                                |                                           |               |       |
+| Didcot North Jn                                                                                                 |                                           |               |       |
+| Adjustments to Sectional Running Times (allowance to be shown after this location)                              |                                           |               |       |
+| Movement                                                                                                        | Reason                                    | Timing Load   | Value |
+| Passing from Didcot Parkway station or                                                                          | Acceleration from slower                  | 22x, 769, 80x | {1⁄2} |
+| Foxhall Jn towards Kennington Jn                                                                                | route                                     |               |       |
+| 165/6                                                                                                           | {1⁄2}%                                    |               |       |

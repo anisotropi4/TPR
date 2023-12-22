@@ -1,0 +1,31 @@
+|                                   |       |      |      |                                             |                                                |
+|:----------------------------------|:------|:-----|:-----|:--------------------------------------------|:-----------------------------------------------|
+| EA1012 IPSWICH TO TROWSE JUNCTION |       |      |      |                                             |                                                |
+| TIMING POINT                      |       | DOWN | UP   | CODE                                        | NOTES                                          |
+| Lakenham                          |       |      | -    | X S                                         | Tiploc - TROWLKJ                               |
+|                                   |       |      |      |                                             | Timing point for Up Services crossing from bi- |
+|                                   |       |      |      |                                             | directional Down Line and for reversal moves   |
+|                                   |       |      |      |                                             | at GPL CO1747                                  |
+| Trowse Junction                   |       | -    | -    |                                             | Line code DM required for Up Services using    |
+|                                   |       |      | DM   |                                             | bi-directional Down Line to Lakenham           |
+|                                   |       |      |      |                                             | To/from Norwich – EA1013                       |
+| EA1013 TROWSE JUNCTION TO NORWICH |       |      |      |                                             |                                                |
+| TIMING POINT                      | DOWN  | UP   | CODE | NOTES                                       |                                                |
+| Trowse Junction                   | -     | -    |      | Line code DM required for Up Services using |                                                |
+|                                   |       | DM   |      | bi-directional Down Line to Lakenham        |                                                |
+|                                   |       |      |      | To/from Ipswich – EA1012                    |                                                |
+|                                   |       |      |      | To/from Ely – EA1580                        |                                                |
+| Norwich Victoria Sidings          | -     |      | S    |                                             |                                                |
+| Trowse Down & Up                  | -     | -    | S    | Tiploc - TROWSE                             |                                                |
+| Passenger Loop                    |       |      |      |                                             |                                                |
+| Trowse Yard                       |       | -    | F    | Tiplocs - TROWSEY, TROWFHH, TROWGBR         |                                                |
+| Trowse GPL CO1760                 |       | -    | S    | Timing point to be used for reversal moves  |                                                |
+| Trowse Swing Bridge               | C  D  | -    |      | To/from Crown Point Depot/Wensum Junction   |                                                |
+|                                   |       |      |      | via Through Siding – EA1470                 |                                                |
+| Norwich Thorpe Junction           | E C W | C D  |      | To/from Whitlingham Junction – EA1470       |                                                |
+| Norwich Goods Yard                |       | -    | F    | Tiplocs - NRCHTC & NRCHGBF                  |                                                |
+| Norwich Low Level Sidings         |       | -    | S    | Tiploc - NRCHLL                             |                                                |
+| Norwich Royal Dock                |       | -    | S    | Tiploc - NRCHDK                             |                                                |
+|                                   |       |      |      | Includes Short Dock, Long Dock, Royal Dock  |                                                |
+| Norwich Station Jubilee           |       | E    | S    | Only trains to/from CS                      |                                                |
+| Sidings                           |       |      |      | Tiploc - NRCHCSD                            |                                                |

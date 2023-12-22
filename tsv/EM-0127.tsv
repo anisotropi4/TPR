@@ -1,0 +1,37 @@
+|                                                           |      |       |    |    |                                             |
+|:----------------------------------------------------------|:-----|:------|:---|:---|:--------------------------------------------|
+| LN3601 KETTERING NORTH JUNCTION TO MANTON JUNCTION        |      |       |    |    |                                             |
+| Timing Section                                            | Type | FL/ML | SL | GL | Remarks                                     |
+| Down Sat – Mon                                            |      |       |    |    |                                             |
+| Approaching Manton Jn                                     | E    | 1     |    |    |                                             |
+| Up Sat – Mon                                              |      |       |    |    |                                             |
+| Approaching Corby North Jn                                | E    | 2     |    |    |                                             |
+| Approaching Kettering North Jn                            | E    | 1     |    |    |                                             |
+| LN3615 HELPSTON JUNCTION TO SYSTON SOUTH JUNCTION         |      |       |    |    |                                             |
+| Timing Section                                            | Type | FL/ML | SL | GL | Remarks                                     |
+| Down Sat – Mon                                            |      |       |    |    |                                             |
+| Approaching Syston East Jn                                | E    | 1     |    |    |                                             |
+| Up Sat – Mon                                              |      |       |    |    |                                             |
+| Approaching Helpston Jn                                   | E    | 1     |    |    |                                             |
+| LN3625 NOTTINGHAM EAST JUNCTION TO NEWARK FLAT CROSSING   |      |       |    |    |                                             |
+| (EXCLUSIVE)                                               |      |       |    |    |                                             |
+| Timing Section                                            | Type | FL/ML | SL | GL | Remarks                                     |
+| Down Sat – Mon                                            |      |       |    |    |                                             |
+| Approaching Newark Castle                                 | E    | 1     |    |    |                                             |
+| Up Sat – Mon                                              |      |       |    |    |                                             |
+| Approaching Newark                                        | E    | 1     |    |    |                                             |
+| Castle/Newark Flat Crossing East                          |      |       |    |    |                                             |
+| Junction                                                  |      |       |    |    |                                             |
+| Approaching Netherfield Jn                                | E    | 1     |    |    |                                             |
+| LN3635 ALLINGTON WEST JUNCTION (EXCLUSIVE) TO NETHERFIELD |      |       |    |    |                                             |
+| JUNCTION                                                  |      |       |    |    |                                             |
+| Timing Section                                            | Type | FL/ML | SL | GL | Remarks                                     |
+| Down Sat – Mon                                            |      |       |    |    |                                             |
+| Approaching Netherfield Jn                                | E    | 2     |    |    |                                             |
+| Up Sat – Mon                                              |      |       |    |    |                                             |
+| Approach Allington West Junction                          | E    | 2     |    |    |                                             |
+|                                                           | P    | 3*    |    |    | *Non–stop trains towards Peterborough       |
+|                                                           |      |       |    |    | only. May be reduced by the amount of       |
+|                                                           |      |       |    |    | any additional dwell time at Nottingham.    |
+|                                                           |      |       |    |    | For details of Nottingham dwell times refer |
+|                                                           |      |       |    |    | to Section 5.3.                             |

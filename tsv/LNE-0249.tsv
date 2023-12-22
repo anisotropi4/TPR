@@ -1,0 +1,32 @@
+|                                                             |                              |               |
+|:------------------------------------------------------------|:-----------------------------|:--------------|
+| LN806 TAPTON JUNCTION TO MASBOROUGH JUNCTION VIA ‘OLD ROAD’ |                              |               |
+| Barrow Hill South Junction                                  |                              |               |
+| Junction Margins                                            |                              |               |
+| First Movement                                              | Second Movement              | Margin        |
+| Pass to Branch                                              | Pass from Beighton Junction  | 4             |
+| Pass from Beighton Junction                                 | Pass to Branch               | 3             |
+| Barrow Hill North Junction                                  |                              |               |
+| Junction Margins                                            |                              |               |
+| First Movement                                              | Second Movement              | Margin        |
+| Pass from sidings                                           | Pass from Beighton Junction  | 4             |
+| Pass from Beighton Junction to Chesterfield                 | Pass from sidings            | 3             |
+| Foxlow Junction                                             |                              |               |
+| Junction Margins                                            |                              |               |
+| First Movement                                              | Second Movement              | Margin        |
+| Pass from Branch                                            | Pass to Chesterfield         | 4             |
+| Pass to Chesterfield                                        | Pass from Branch             | 3             |
+| Beighton Junction                                           |                              |               |
+| Adjustments to Sectional Running Times                      |                              |               |
+| Movement Down                                               | Reason                       | Value         |
+| Pass from Down Barrow Hill Line to                          | Approach Control             | 1⁄2 Passenger |
+| Woodhouse Junction                                          |                              | 1 Freight     |
+| Approaching Beighton Junction                               |                              |               |
+| Movement Up                                                 | Reason                       | Value         |
+| Pass from Woodhouse Junction to Up Barrow                   | Acceleration                 | 1⁄2 Passenger |
+| Hill Line.                                                  |                              | 1 Freight     |
+| Approaching Barrow Hill                                     |                              |               |
+| Junction Margins                                            |                              |               |
+| First Movement                                              | Second Movement              | Margin        |
+| Pass from Woodhouse Junction                                | Pass to Treeton Junction     | 4             |
+| Pass to Treeton Junction                                    | Pass from Woodhouse Junction | 4             |

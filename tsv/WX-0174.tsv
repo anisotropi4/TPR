@@ -1,0 +1,56 @@
+|                 |                        |     |                                    |
+|:----------------|:-----------------------|----:|:-----------------------------------|
+| Strawberry Hill | 1 - Down               | 204 |                                    |
+| Strawberry Hill | 2 - Up                 | 178 | Down direction                     |
+| Strawberry Hill | 2 - Up                 | 217 | Up direction                       |
+| Sunbury         | 1 - Up                 | 204 |                                    |
+| Sunbury         | 2 - Down               | 205 |                                    |
+| Sunningdale     | 1 - Up                 | 205 |                                    |
+| Sunningdale     | 2 - Down               | 207 |                                    |
+| Sunnymeads      | 1 - Up                 | 160 |                                    |
+| Sunnymeads      | 2 - Down               | 159 |                                    |
+| Surbiton        | 1 - Up Slow            | 243 |                                    |
+| Surbiton        | 2 - Up Fast            | 243 |                                    |
+| Surbiton        | 3 - Down Slow          | 243 |                                    |
+| Surbiton        | 4 - Down Hampton Court | 243 |                                    |
+| Swanwick        | 1 - Up                 | 159 |                                    |
+| Swanwick        | 2 - Down               | 159 |                                    |
+| Sway            | 1 - Up                 | 137 |                                    |
+| Sway            | 2 - Down               | 137 |                                    |
+| Swaythling      | 1 - Up                 |  92 |                                    |
+| Swaythling      | 2 - Down               |  92 |                                    |
+| Syon Lane       | 1 - Up                 | 166 |                                    |
+| Syon Lane       | 2 - Down               | 162 |                                    |
+| Teddington      | 1 - Down               | 207 |                                    |
+| Teddington      | 2 - Up                 | 203 |                                    |
+| Templecombe     | Single                 | 147 | Down direction.                    |
+| Templecombe     | Single                 | 147 | Up direction                       |
+| Thames Ditton   | 1 - Up                 | 203 |                                    |
+| Thames Ditton   | 2 - Down               | 205 | Down direction                     |
+| Thames Ditton   | 2 - Down               | 207 | Up direction                       |
+| Thornford       | Single                 |  45 | Down direction                     |
+| Thornford       | Single                 |  45 | Up direction                       |
+| Tisbury         | Single                 |  90 | Down direction                     |
+| Tisbury         | Single                 |  90 | Up direction                       |
+| Tolworth        | 1 - Up                 | 205 |                                    |
+| Tolworth        | 2 - Down               | 207 |                                    |
+| Totton          | 1 - Up                 | 128 |                                    |
+| Totton          | 2 - Down               | 128 |                                    |
+| Twickenham      | 2 - Up Bay             | 169 |                                    |
+| Twickenham      | 3 - Up Passenger Loop  | 207 | Trains can reverse in the Platform |
+| Twickenham      | 4 - Up                 | 207 | Trains can reverse in the Platform |
+| Twickenham      | 5 - Down               | 206 |                                    |
+| Upper Halliford | 1 - Up                 | 206 |                                    |
+| Upper Halliford | 2 - Down               | 203 |                                    |
+| Upwey           | 1 - Up                 | 127 |                                    |
+| Upwey           | 2 - Down               | 127 |                                    |
+| Vauxhall        | 1 - Windsor Reversible | 209 | Down direction                     |
+| Vauxhall        | 1 - Windsor Reversible | 209 | Up direction                       |
+| Vauxhall        | 2 - Up Windsor         | 209 |                                    |
+| Vauxhall        | 3 - Down Windsor Fast  | 209 |                                    |
+| Vauxhall        | 4 - Down Windsor Slow  | 209 |                                    |
+| Vauxhall        | 5 - Up Main Fast       | 191 |                                    |
+| Vauxhall        | 6 - Down Main Fast     | 191 |                                    |
+| Vauxhall        | 7 - Up Main Slow       | 206 |                                    |
+| Vauxhall        | 8 - Down Main Slow     | 204 |                                    |
+| Virginia Water  | 1 - Up                 | 205 |                                    |

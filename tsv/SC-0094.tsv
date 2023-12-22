@@ -1,0 +1,52 @@
+|                                                                                                            |                                              |         |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------|:--------|
+| Shawfield, Polmadie Clydesdale and Polmadie (East End)                                                     |                                              |         |
+| Pass Up Slow to Rutherglen Central                                                                         | Depart Polmadie Up / Down Clydesdale to Up   | 2       |
+|                                                                                                            | Slow going to Rutherglen Central             |         |
+| Pass Up Slow from Larkfield                                                                                | Pass to Polmadie CMD                         | 2       |
+| Pass Up Slow from Clydesdale Lines                                                                         | Pass to Polmadie CMD                         | 21⁄2    |
+| Pass to Polmadie CMD                                                                                       | Pass Up Slow from Larkfield                  | 4       |
+| Pass to Polmadie CMD                                                                                       | Pass Up Slow from Polmadie Up / Down         | 41⁄2    |
+|                                                                                                            | Clydesdale                                   |         |
+| Pass Up Slow                                                                                               | Depart Polmadie G818                         | 2       |
+| Restriction                                                                                                |                                              |         |
+| Trains routed onto the Polmadie Up Clydesdale Line in the Down direction can only be done so for run round |                                              |         |
+| movements or trains to change ends heading back towards Shawfield no through traffic is permitted          |                                              |         |
+| Larkfield Junction and Polmadie West End                                                                   |                                              |         |
+| Adjustments to Sectional Running Times                                                                     |                                              |         |
+| Movement Down                                                                                              | Reason                                       | Value   |
+| Down trains from Down Fast to Down                                                                         | Approach Control signal                      | 1⁄2     |
+| Clydesdale                                                                                                 |                                              |         |
+| Down trains from Down Slow to Down                                                                         | Approach Control signal                      | 1⁄2     |
+| Clydesdale / Down Fast                                                                                     |                                              |         |
+| Movement Up                                                                                                | Reason                                       | Value   |
+| Up train from Up fast going to Up Slow                                                                     | Approach Control                             | 1       |
+|                                                                                                            | Acceleration allowance approaching Shawfield | 1⁄2     |
+| Up train from Up fast going to Polmadie Up /                                                               | Approach Control                             | 1       |
+| Down Clydesdale / Polmadie CMD                                                                             |                                              |         |
+| Junction Margins                                                                                           |                                              |         |
+| First Movement                                                                                             | Second Movement                              | Margin  |
+| Pass Up Slow / Down Slow                                                                                   | Depart Polmadie G779/781                     | 2       |
+| Depart Polmadie G779                                                                                       | Pass Up Slow from Eglinton Street            | 3       |
+| Depart Polmadie G779                                                                                       | Pass Up Slow from Up Clydesdale              | 31⁄2 MU |
+|                                                                                                            |                                              | 4 LH    |
+| Pass Down Slow                                                                                             | Pass Up Fast to Up Slow                      | 2       |
+| Pass Up Fast to Up Slow                                                                                    | Pass Down Slow                               | 3       |
+| Pass Up Fast                                                                                               | Pass Up Clydesdale to Up Slow                | 3 MU    |
+|                                                                                                            |                                              | 31⁄2 LH |
+| Pass Up Fast                                                                                               | Pass Up Slow to Up Clydesdale                | 2       |
+| Pass Up Fast                                                                                               | Pass Down Slow to Down Clydesdale            | 2       |
+| Pass Up Fast                                                                                               | Down depart Polmadie Up / Down Clydesdale    | 1       |
+|                                                                                                            | to Down Slow                                 |         |
+| Pass Up Fast                                                                                               | Depart G779/G781 to Down Fast                | 1       |
+| Pass Up Clydesdale to Up Slow                                                                              | Pass Up Fast                                 | 4       |
+| Pass Up Slow to Up Clydesdale                                                                              | Pass Up Fast                                 | 4       |
+| Pass Down Slow to Down Clydesdale                                                                          | Pass Up Fast                                 | 4       |
+| Pass Down Clydesdale to Down Slow                                                                          | Pass Up Fast                                 | 4       |
+| Pass Down Fast                                                                                             | Pass Up Clydesdale to Up Slow                | 3 MU    |
+|                                                                                                            |                                              | 31⁄2 LH |
+| Pass Down Fast                                                                                             | Pass Up Slow to Up Clydesdale                | 3       |
+| Pass Down Fast                                                                                             | Pass Down Slow to Down Clydesdale            | 2       |
+| Pass Down Fast                                                                                             | Depart Polmadie Up / Down Clydesdale to      | 1       |
+|                                                                                                            | Down Slow                                    |         |
+| Pass Down Fast                                                                                             | Depart G779/G781 to Down Fast                | 2       |

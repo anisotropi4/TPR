@@ -1,0 +1,37 @@
+|                                                                                                                       |                                  |             |
+|:----------------------------------------------------------------------------------------------------------------------|:---------------------------------|:------------|
+| Oakenshaw Junction                                                                                                    |                                  |             |
+| Junction Margins                                                                                                      |                                  |             |
+| First Movement                                                                                                        | Second Movement                  | Margin      |
+| Pass to Crofton West Junction                                                                                         | Pass to Oakenshaw South Junction | 3           |
+| Pass to Oakenshaw South Junction                                                                                      | Pass to Oakenshaw South Junction | 4           |
+| Crofton West Junction                                                                                                 |                                  |             |
+| Adjustments to Sectional Running Times                                                                                |                                  |             |
+| Movement Down                                                                                                         | Reason                           | Value       |
+| Trains to Hare Park                                                                                                   | Approach Control                 | 1⁄2         |
+| approaching Crofton West Junction                                                                                     |                                  |             |
+| Junction Margins                                                                                                      |                                  |             |
+| First Movement                                                                                                        | Second Movement                  | Margin      |
+| Pass to Hare Park Junction                                                                                            | Pass from Crofton East Junction  | 4           |
+| Pass from Crofton East Junction                                                                                       | Pass to Hare Park Junction       | 3           |
+| Crofton East Junction                                                                                                 |                                  |             |
+| Adjustments to Sectional Running Times                                                                                |                                  |             |
+| Movement Down                                                                                                         | Reason                           | Value       |
+| Pass to Crofton East Spur                                                                                             | Deceleration                     | 1 XC 22x    |
+| Movement Up                                                                                                           | Reason                           | Value       |
+| Pass from Crofton East Spur                                                                                           | Acceleration                     | 1⁄2* XC 22x |
+| * Approaching next timing point                                                                                       |                                  |             |
+| Junction Margins                                                                                                      |                                  |             |
+| First Movement                                                                                                        | Second Movement                  | Margin      |
+| Pass to Oakenshaw South Junction                                                                                      | Pass from Crofton West Junction  | 3           |
+| Pass from Crofton West Junction                                                                                       | Pass to Oakenshaw South Junction | 3           |
+| Crofton Depot                                                                                                         |                                  |             |
+| Departure margin                                                                                                      |                                  |             |
+| Second train cannot depart Crofton Depot until 1 minute after the first train has passed or arrived (if reversing) at |                                  |             |
+| Crofton East Junction                                                                                                 |                                  |             |
+| Arrival margin                                                                                                        |                                  |             |
+| Second train cannot pass/depart Crofton East Junction until 1 minute after the first train has arrived at Crofton     |                                  |             |
+| Depot                                                                                                                 |                                  |             |
+| Crofton East Spur                                                                                                     |                                  |             |
+| Minimum Reversal                                                                                                      |                                  |             |
+| Grand Central 180                                                                                                     | 7                                |             |

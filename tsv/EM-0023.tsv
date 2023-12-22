@@ -1,0 +1,40 @@
+|                                                             |          |        |      |                                            |
+|:------------------------------------------------------------|:---------|:-------|:-----|:-------------------------------------------|
+| LN3207 TRENT EAST JUNCTION TO CLAY CROSS NORTH JUNCTION     |          |        |      |                                            |
+| TIMING POINT                                                | DOWN     | UP     | CODE | NOTES                                      |
+| Trent East Jn                                               | -        |        |      | To/from Sheet Stores Jn – LN3228           |
+|                                                             |          |        |      | To/from Trent South Jn – LN3204            |
+| Long Eaton Jn                                               | FL DTG   | -      |      | To/from Toton North Yard via Reception     |
+| Toton South Jn                                              | SL       | HL SL  |      | To/from Meadow Lane Jn – LN3261            |
+|                                                             |          |        |      | Referred to as Toton Jn                    |
+|                                                             |          |        |      | Timing point for all trains on Up Slow and |
+|                                                             |          |        |      | to/from Meadow Lane Jn                     |
+| Toton North Yard                                            | -        | -      | S    |                                            |
+| Toton Centre                                                | FL SL    | FL SL  |      | To/from Toton North Yard                   |
+|                                                             | DTG -    | DTG    |      |                                            |
+| Toton TMD                                                   | -        | -      | S    |                                            |
+| Toton Up Yard                                               | -        | -      | S    |                                            |
+| Stapleford & Sandiacre CCE Sdgs                             | -        |        | S    |                                            |
+| Toton North Jn                                              | FL SL    | FL SL  | X    | To Toton Up Yard/Toton North Yard/TMD      |
+|                                                             | MGB      | DTG -  |      | Referred to as Stapleford & Sandiacre      |
+|                                                             |          |        |      | (Tiploc STAPLFD)                           |
+| Stanton Gate                                                | -        | MGB    | F    | To/from Stanton & Staveley Works           |
+| Trowell Jn                                                  | FL SL    | FL SL  |      | To/from Radford Jn – LN3252                |
+| Ilkeston Jn                                                 | UDS      | SL     |      | Timing point for all trains on the UDS/SL  |
+| Ilkeston                                                    | FL       | FL     | S    |                                            |
+| Langley Mill                                                | FL UDS   | FL UDS |      |                                            |
+| Codnor Park Jn                                              | UDS FL - | FL UDS | X    | To/from Swanwick (Midland Railway Trust)   |
+| Ironville Jn                                                | –        | FL UDS |      | To/from Pinxton – LN3273                   |
+| Alfreton                                                    | –        | –      |      |                                            |
+| Blackwell South Jn                                          | UDV      | –      | X    |                                            |
+| Blackwell Siding                                            | –        | –      | S    |                                            |
+| Blackwell Signal 4727                                       | UDV      |        | S    |                                            |
+| Morton Jn                                                   | –        | – UDV  | X    |                                            |
+| Clay Cross North Jn                                         | ML EL    | –      |      | To/from Chesterfield South Jn – LN3201     |
+| LN3210 JUNCTION ROAD JUNCTION TO CARLTON ROAD JUNCTION      |          |        |      |                                            |
+| (TOTTENHAM LINES)                                           |          |        |      |                                            |
+| TIMING POINT                                                | DOWN     | UP     | CODE | NOTES                                      |
+| Junction Road Jn                                            | –        | –      |      | To/from Upper Holloway – EA1370            |
+| Carlton Road Jn                                             | FL SL    | –      |      | To/from West Hampstead Thameslink –        |
+|                                                             |          |        |      | LN3201                                     |
+| LN3213 FARRINGDON TO KENTISH TOWN JUNCTION (MOORGATE LINES) |          |        |      |                                            |

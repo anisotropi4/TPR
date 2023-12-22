@@ -1,0 +1,56 @@
+|                     |          |        |                                          |
+|:--------------------|:---------|:-------|:-----------------------------------------|
+| STATION             | PLATFORM | LENGTH | NOTES                                    |
+| Harrow & Wealdstone | 5        | 246    | Down Slow                                |
+| Harrow & Wealdstone | 6        | 270    | Up Slow                                  |
+| Hartford (Cheshire) | Down     | 249    |                                          |
+| Hartford (Cheshire) | Up       | 243    |                                          |
+| Hartlebury          | 1        | 92 101 |                                          |
+| Hartlebury          | 2        | 92 101 |                                          |
+| Hatch End           | Down     | 137    |                                          |
+| Hatch End           | Up       | 137    |                                          |
+| Hathersage          | 1        | 95     |                                          |
+| Hathersage          | 2        | 99     |                                          |
+| Hattersley          | Down     | 170    |                                          |
+| Hattersley          | Up       | 170    |                                          |
+| Hatton              | 1 Up     | 130    |                                          |
+| Hatton              | 2 Down   | 132    |                                          |
+| Hatton              | 3 DPL    | 134    |                                          |
+| Hazel Grove         | 1        | 171    | Bi–directional                           |
+| Hazel Grove         | 2        | 171    | Bi–directional                           |
+| Headbolt Lane       | 1        | 139    |                                          |
+| Headbolt Lane       | 2        | 139    |                                          |
+| Headbolt Lane       | 3        | 150    |                                          |
+| Headstone Lane      | Down     | 128    |                                          |
+| Headstone Lane      | Up       | 128    |                                          |
+| Heald Green         | Down     | 143    | Additional 40m OOU                       |
+| Heald Green         | Up       | 143    | Additional 40m OOU                       |
+| Heaton Chapel       | Down     | 165    |                                          |
+| Heaton Chapel       | Up       | 170    |                                          |
+| Hednesford          | Down     | 79     |                                          |
+| Hednesford          | Up       | 80     |                                          |
+| Hellifield          | Down     | 133    |                                          |
+| Hellifield          | Up       | 104    |                                          |
+| Helsby              | 1        | 139    |                                          |
+| Helsby              | 2        | 84     |                                          |
+| Helsby              | 3        | 95     |                                          |
+| Helsby              | 4        | 94     |                                          |
+| Hemel Hempstead     | 1        | 246    | Down Fast                                |
+| Hemel Hempstead     | 2        | 246    | Up Fast                                  |
+| Hemel Hempstead     | 3        | 246    | Down Slow                                |
+| Hemel Hempstead     | 4        | 246    | Up Slow                                  |
+| Henley In Arden     | Down     | 153    |                                          |
+| Henley In Arden     | Up       | 153    |                                          |
+| Heswall             | Down     | 56     |                                          |
+| Heswall             | Up       | 56     |                                          |
+| Heyford             | Down     | 70     |                                          |
+| Heyford             | Up       | 70     |                                          |
+| Heysham Port        | Single   | 86     |                                          |
+| Hightown            | 1        | 127    | Up line. Additional 10m OOU              |
+| Hightown            | 2        | 125    | Down line                                |
+| High Wycombe        | 1        | 145    | Bay                                      |
+| High Wycombe        | 2        | 176    | Bi–Directional (Down 176m to ME151 sig.) |
+| High Wycombe        | 3        | 169    | Up DOO                                   |
+| Hillside            | 1        | 138    | Up line                                  |
+| Hillside            | 2        | 138    | Down line                                |
+| Hindley             | 2        | 120    |                                          |

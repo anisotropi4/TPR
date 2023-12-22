@@ -1,0 +1,55 @@
+|                                        |            |           |      |                                                 |
+|:---------------------------------------|:-----------|:----------|:-----|:------------------------------------------------|
+| EA1010 LIVERPOOL STREET TO SEVEN KINGS |            |           |      |                                                 |
+| TIMING POINT                           | DOWN       | UP        | CODE | NOTES                                           |
+| Manor Park                             | ML  EL  IL | ML  EL    | S  X | Timing point for trains using Ilford Down       |
+|                                        |            |           |      | Passenger Avoiding Line                         |
+| Aldersbrook Signal L337/354            | -          |           | S    | Tiploc – ALDB337                                |
+| Aldersbrook Sidings                    |            | IL  IE    | S    |                                                 |
+| Ilford Signal L341                     | IL         |           | S    | Tiploc – ILFE341. Timing point for services     |
+|                                        |            |           |      | requiring to recess on the Down Passenger       |
+|                                        |            |           |      | Avoiding Line approaching Ilford                |
+| Ilford Signal L5087                    | -          |           | S    | Tiploc – ILFE507. Timing point for reverse      |
+|                                        |            |           |      | moves to Ilford platform 4 from the Up Electric |
+|                                        |            |           |      | Line                                            |
+| Ilford                                 | ML  EL     | ML  EL    |      | Services using Up Passenger Avoiding Line to    |
+|                                        |            | IL IE     |      | use line code IL if routed via Manor Park       |
+|                                        |            |           |      | Platform 1 or otherwise use line code IE to     |
+|                                        |            |           |      | Forest Gate Junction                            |
+| Ilford Depot London End                | EL         | ML  EL    | X    | Tiploc – ILFELEJ                                |
+| Junction                               | -   to     | DEL       |      |                                                 |
+|                                        | Ilford     |           |      |                                                 |
+|                                        | EMUD       |           |      |                                                 |
+| Ilford EMUD                            | -          | -         |      | Tiploc – ILFEMUD Only trains to/from EMUD       |
+| Seven Kings                            | ML  EL     | ML  EL    | S  X | Timing point for trains to/from Ilford EMUD     |
+|                                        |            | -         |      | To/from Gidea Park – EA1011                     |
+|                                        |            | to Ilford |      |                                                 |
+|                                        |            | EMUD      |      |                                                 |
+| EA1011 SEVEN KINGS TO IPSWICH          |            |           |      |                                                 |
+| TIMING POINT                           | DOWN       | UP        | CODE | NOTES                                           |
+| Seven Kings                            | ML  EL     | ML  EL    | S  X | Timing point for Down Electric Line trains      |
+|                                        |            | -         |      | using Seven Kings Country End Crossovers        |
+|                                        |            | to Ilford |      | towards Down Main Line                          |
+|                                        |            | EMUD      |      | To/from Ilford – EA1010                         |
+| Seven Kings Country End                |            |           |      |                                                 |
+| Crossovers                             |            |           |      |                                                 |
+| Goodmayes                              | ML  EL     | ML  EL    | S  X | Timing point for Up Main Line trains using      |
+|                                        |            |           |      | Seven Kings Country End Crossovers towards      |
+|                                        |            |           |      | Up Electric Line                                |
+| Chadwell Heath                         | ML  EL     | ML  EL    | S  X | Timing point for trains crossing to/from        |
+|                                        |            |           |      | Chadwell Heath Turnback                         |
+| Chadwell Heath Turnback                |            | -         | S    | Tiploc – CHDWHTT                                |
+| Romford Signal L438                    | -          |           | S    | For trains reversing on the Up Main             |
+| Romford Signal L5107                   | - UML      |           | S    | TIPLOC - ROMF107                                |
+|                                        |            |           |      | For trains reversing to or from the Upminster   |
+|                                        |            |           |      | Branch                                          |
+| Romford Engineers Sidings              | -          |           | S    |                                                 |
+| Romford Signal L440/Signal             | EL         |           | S    | For trains reversing on the Up Electric         |
+| L5109                                  |            |           |      |                                                 |
+| Romford                                | ML  EL     | ML  EL    | S  X | To/from Upminster – EA1040                      |
+| Gidea Park                             | ML  EL     | ML  EL    |      |                                                 |
+|                                        | -   to     |           |      |                                                 |
+|                                        | Gidea      |           |      |                                                 |
+|                                        | Park CS.   |           |      |                                                 |
+| Gidea Park Stabling Lines              | -          | -         | S    | Platform detail must be shown as siding         |
+|                                        |            |           |      | number is required for routing purposes.        |

@@ -1,0 +1,45 @@
+|                                                                                             |                                                |          |
+|:--------------------------------------------------------------------------------------------|:-----------------------------------------------|:---------|
+| Hertford North                                                                              |                                                |          |
+| Junction Margins                                                                            |                                                |          |
+| First Movement                                                                              | Second Movement                                | Margin   |
+| Pass Platform 1                                                                             | Depart Platform 3                              | 3        |
+| Depart / Pass Platform 1                                                                    | Arrive Platform 1 from Down Hertford           | 4        |
+| Arrive Platform 3                                                                           | Arrive/Pass Platform 2 from Down Hertford      | 4        |
+|                                                                                             | northbound                                     |          |
+| Arrive Platforms 1-3 from Down Hertford                                                     | ECS arrive into Platform 2-3 from Hertford Up  | 3        |
+|                                                                                             | Sidings                                        |          |
+| Arrive Platforms 2-3 from Down Hertford                                                     | ECS arrive into Platform 1 from Hertford Up    | Parallel |
+|                                                                                             | Sidings                                        |          |
+| Arrive Platform 3                                                                           | Depart Platform 2 to Up Hertford               | 1        |
+| Arrive Platform 2                                                                           | Depart Platform 3                              | 1        |
+| Depart Platforms 1-3 to Up Hertford                                                         | ECS arrive into Platform 1-3 from Hertford Up  | 3        |
+|                                                                                             | Sidings                                        |          |
+| Depart Platform 2 to Up Hertford southbound                                                 | Arrive Platform 3                              | 4        |
+| Depart Platform 3                                                                           | Arrive/Pass Platform 2 from Down Hertford      | 31⁄2     |
+|                                                                                             | northbound                                     |          |
+| Depart Platform 3                                                                           | Arrive Platform 1 from the South               | 4        |
+| Depart to Up Hertford not calling Bayford                                                   | Depart to Up Hertford calling Bayford          | 4        |
+| Depart to Up Hertford southbound                                                            | Depart to Up Carriage Sidings                  | 3        |
+| Arrive Platform 1 from Down Hertford                                                        | Depart platform 2 to Up Hertford southbound    | 1        |
+| Arrive Platform 1 from Down Hertford                                                        | Depart platform 3 to Up Hertford               | 1        |
+| Depart Platform 2 to Up Hertford southbound                                                 | Pass/arrive Platform 2 from Down Hertford      | 3        |
+|                                                                                             | northbound                                     |          |
+| Depart Platform 2 to Up Hertford southbound                                                 | Arrive platform 1 from Down Hertford           | 4        |
+| Hertford North Up Sidings Capability                                                        |                                                |          |
+| No 1 Sidings 12 Cars but not currently in use due to lack of suitable lighting and walkways |                                                |          |
+| No 2 Sidings 6 Cars                                                                         |                                                |          |
+| No 3 Sidings 6 Cars                                                                         |                                                |          |
+| No 4 Sidings 3 Cars                                                                         |                                                |          |
+| Molewood Junction                                                                           |                                                |          |
+| Junction Margins                                                                            |                                                |          |
+| First Movement                                                                              | Second Movement                                | Margin   |
+| Up Hertford to Down Hertford in Up direction                                                | Pass Up Hertford in Down direction –           | 3        |
+|                                                                                             | passenger                                      |          |
+| Up Hertford to Up Hertford in Up direction                                                  | Down Hertford to Up Hertford in Down direction | 3        |
+|                                                                                             | – passenger                                    |          |
+| Up Hertford to Down Hertford in Up direction                                                | Pass Up Hertford in Down direction – freight   | 31⁄2     |
+| Up Hertford to Up Hertford in Up direction                                                  | Down Hertford to Up Hertford in Down direction | 31⁄2     |
+|                                                                                             | – freight                                      |          |
+| Bragbury Junction                                                                           |                                                |          |
+| Junction Margins                                                                            |                                                |          |

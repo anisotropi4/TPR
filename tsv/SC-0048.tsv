@@ -1,0 +1,44 @@
+|                                                                   |      |    |      |                                            |
+|:------------------------------------------------------------------|:-----|:---|:-----|:-------------------------------------------|
+| SC173 INVERKEITHING CENTRAL JUNCTION TO THORNTON NORTH JUNCTION   |      |    |      |                                            |
+| (VIA COWDENBEATH)                                                 |      |    |      |                                            |
+| TIMING POINT                                                      | DOWN | UP | CODE | NOTES                                      |
+| Inverkeithing Central Junction                                    | –    | –  | S    | To/from Inverkeithing - SC171              |
+| Inverkeithing G.L.                                                | –    | –  | S    | To/from Inverkeithing – SC171              |
+| Inverkeithing C.E.                                                | –    | –  | S    |                                            |
+| Inverkeithing North Junction                                      | –    | –  | X    | To/from Inverkeithing – SC171              |
+|                                                                   |      |    |      | To/from Inverkeithing East Junction –      |
+|                                                                   |      |    |      | SC171                                      |
+| Rosyth                                                            | –    | –  | S    |                                            |
+| Charlestown Junction                                              | –    | –  | X    | To/from Stirling – SC119                   |
+| Dunfermline City                                                  | –    | –  |      | Platform detail must be shown              |
+| Dunfermline Queen Margaret                                        | –    | –  | S    | Platform detail must be shown              |
+| Townhill DGL                                                      | –    | –  | S    |                                            |
+| Cowdenbeath                                                       | –    | –  |      | Platform detail must be shown              |
+| Lochgelly                                                         | –    | –  | S    |                                            |
+| Cardenden                                                         | –    | –  | S    |                                            |
+| Clunybridge Junction                                              | –    | –  | X    | To/from Thornton Yard                      |
+| Redford Junction                                                  | –    | –  | X    | To/from Thornton Yard                      |
+| Glenrothes with Thornton                                          | –    | –  |      | Platform detail must be shown              |
+|                                                                   |      |    |      | To/from Thornton South Junction – SC171    |
+| Thornton North Signal ET567                                       | –    |    | S    | Reversal location for trains to/from Leven |
+| Thornton North Junction                                           | –    | –  |      | To/from Thornton North Junction - SC171    |
+| SC175 ROSYTH DOCKYARD TO INVERKEITHING SOUTH JUNCTION (GOODS      |      |    |      |                                            |
+| LINE)                                                             |      |    |      |                                            |
+| TIMING POINT                                                      | DOWN | UP | CODE | NOTES                                      |
+| Rosyth Dockyard                                                   | –    | –  | F    |                                            |
+| Inverkeithing South Junction                                      | –    | –  | F    | To/from Inverkeithing – SC171              |
+| SC176 INVERKEITHING NORTH JUNCTION TO INVERKEITHING EAST JUNCTION |      |    |      |                                            |
+| TIMING POINT                                                      | DOWN | UP | CODE | NOTES                                      |
+| Inverkeithing North Junction                                      | –    | –  | X    | To/from Inverkeithing – SC171              |
+| Inverkeithing East Junction                                       | –    | –  | X    |                                            |
+| SC177 THORNTON NORTH JUNCTION TO LEVEN                            |      |    |      |                                            |
+| TIMING POINT                                                      | DOWN | UP | CODE | NOTES                                      |
+| Thornton North Junction                                           | –    | –  |      | To/from Glenrothes with Thornton –         |
+|                                                                   |      |    |      | SC173                                      |
+|                                                                   |      |    |      | To/from Kirkcaldy - SC171                  |
+| Earlseat Junction                                                 | –    | –  |      |                                            |
+| Earlseat Jn signal ETL577                                         | –    |    | S    | Holding location                           |
+| Cameron Bridge                                                    | –    | –  | S    |                                            |
+| Leven signal ETL585                                               | –    |    | S    | Reversal location                          |
+| Leven                                                             |      | –  |      |                                            |

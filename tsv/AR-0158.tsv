@@ -1,0 +1,52 @@
+|                   |                   |           |                                                |
+|:------------------|:------------------|:----------|:-----------------------------------------------|
+| Station           | Platform          | Effective | Notes                                          |
+|                   |                   | Length m  |                                                |
+| Brimsdown         | 1 (Up)            | 162.5     | 10-car 720 permitted with ASDO operation       |
+| Brimsdown         | 2 (Down)          | 181.5     | 10-car 720 permitted with ASDO operation       |
+| Brondesbury       | 1 (Westbound)     | 107       |                                                |
+| Brondesbury       | 2 (Eastbound)     | 109       |                                                |
+| Brondesbury Park  | 1 (Westbound)     | 106       |                                                |
+| Brondesbury Park  | 2 (Eastbound)     | 126       |                                                |
+| Broxbourne        | 1                 | 244       |                                                |
+| Broxbourne        | 2                 | 245       |                                                |
+| Broxbourne        | 3                 | 245       |                                                |
+| Broxbourne        | 4                 | 244       |                                                |
+| Bruce Grove       | 1 (Up)            | 187.1     |                                                |
+| Bruce Grove       | 2 (Down)          | 182.7     |                                                |
+| Brundall          | 1 (Up)            | 159       | (118m in operational use)                      |
+| Brundall          | 2 (Down)          | 143       | (98m in operational use)                       |
+| Brundall Gardens  | 1 (Up)            | 58        | 4-car 755 permitted with ASDO operation        |
+| Brundall Gardens  | 2 (Down)          | 58        | 4-car 755 permitted with ASDO operation        |
+| Buckenham         | 1 (Up)            | 60        | 3/4-car 755 permitted with ASDO operation      |
+| Buckenham         | 2 (Down)          | 135       | (52m in operational use)                       |
+|                   |                   |           | 3/4-car 755 permitted with ASDO operation      |
+| Bures             | Single            | 82        | TAWS fitted 3-car Class 755 units only         |
+| Burnham-on-Crouch | Single            | 169       | 10-car 720 permitted with ASDO operation       |
+| Bury St Edmunds   | 1 (Up)            | 102.4     |                                                |
+| Bury St Edmunds   | 2 (Down)          | 115.8     |                                                |
+| Bush Hill Park    | 1 (Up)            | 188.5     |                                                |
+| Bush Hill Park    | 2 (Down)          | 188.9     |                                                |
+| Caledonian Road & | 2 (Westbound)     | 107       |                                                |
+| Barnsbury         |                   |           |                                                |
+| Caledonian Road & | 3 (Eastbound)     | 124       |                                                |
+| Barnsbury         |                   |           |                                                |
+| Cambridge         | 1                 | 255       | 12-car capacity                                |
+| Cambridge         | 2                 | 207       |                                                |
+| Cambridge         | 3                 | 166       |                                                |
+| Cambridge         | 4                 | 260       | 12-car Class 387 permitted in down direction   |
+|                   |                   |           | only                                           |
+| Cambridge         | 5                 | 121       | Class 720s are not permitted to use Platform 5 |
+| Cambridge         | 6                 | 145       | Maximum 4-car EMU/BMU plus 2-car Class         |
+|                   |                   |           | 158/170 DMU, or 6-car Class 158/170            |
+| Cambridge         | 7                 | 270       |                                                |
+| Cambridge         | 8                 | 270       |                                                |
+| Cambridge Heath   | 1 (Up)            | 183.8     | Suburban Line only                             |
+| Cambridge Heath   | 2 (Down)          | 179.3     | Suburban Line only                             |
+| Cambridge North   | 1 (Up)            | 254       |                                                |
+| Cambridge North   | 2 (Down)          | 254       |                                                |
+| Cambridge North   | 3 (Bay)           | 254       |                                                |
+| Camden Road       | 1 (Westbound)     | 109       |                                                |
+| Camden Road       | 2 (Eastbound)     | 121       |                                                |
+| Canonbury         | 3 (Westbound) NLL | 106       |                                                |
+| Canonbury         | 4 (Eastbound) NLL | 124       |                                                |

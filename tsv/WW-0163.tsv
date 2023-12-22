@@ -1,0 +1,40 @@
+|                                                                                    |                  |                 |                      |
+|:-----------------------------------------------------------------------------------|:-----------------|:----------------|:---------------------|
+| Entry into Down Goods Loop from Didcot                                             | Approach control | All traffic     | {1}                  |
+| direction                                                                          |                  |                 |                      |
+| From Up Oxford towards Cowley                                                      | Approach control | All traffic     | {1}                  |
+| Adjustments to Sectional Running Times (allowance to be shown after this location) |                  |                 |                      |
+| Movement                                                                           | Reason           | Timing Load     | Value                |
+| From Kennington Up Goods Loop                                                      | Accleration      | Class 6 freight | {1⁄2}                |
+|                                                                                    |                  | 600-800t / TR40 |                      |
+|                                                                                    |                  | Class 6 freight | {1}                  |
+|                                                                                    |                  | 1000t / TR55    |                      |
+|                                                                                    |                  | Class 6 freight | {11⁄2}               |
+|                                                                                    |                  | 1200t / TR70    |                      |
+|                                                                                    |                  | Class 6 freight | {2}                  |
+|                                                                                    |                  | 1400-1600t /    |                      |
+|                                                                                    |                  | TR85            |                      |
+|                                                                                    |                  | Class 6 freight | {21⁄2}               |
+|                                                                                    |                  | 1800-2000t /    |                      |
+|                                                                                    |                  | TR100/115       |                      |
+|                                                                                    |                  | Class 6 freight | {3}                  |
+|                                                                                    |                  | 2200t           |                      |
+|                                                                                    |                  | Class 6 freight | {31⁄2}               |
+|                                                                                    |                  | 2400t / TR130   |                      |
+|                                                                                    |                  | Class 4 freight | {1⁄2}                |
+|                                                                                    |                  | 400t            |                      |
+|                                                                                    |                  | Class 4 freight | {1}                  |
+|                                                                                    |                  | 600t            |                      |
+|                                                                                    |                  | Class 4 freight | {11⁄2}               |
+|                                                                                    |                  | 800t            |                      |
+|                                                                                    |                  | Class 4 freight | {2}                  |
+|                                                                                    |                  | 1000-1600t      |                      |
+| From Cowley to Down or Up Oxford                                                   | Acceleration     | All traffic     | {1}                  |
+| Hinksey North Junction                                                             |                  |                 |                      |
+| Adjustments to Sectional Running Times                                             |                  |                 |                      |
+| Movement                                                                           | Reason           | Timing Load     | Value                |
+| Pass from Kennington Jn on Down Oxford                                             | Approach Control | All             | {1}                  |
+| to Up Oxford or Up Oxford Relief                                                   |                  |                 |                      |
+| Pass Oxford to Hinksey Reception Lines or                                          | Approach Control | All             | {1⁄2} and also {1⁄2} |
+| Hinksey Yard                                                                       |                  |                 | approaching          |
+|                                                                                    |                  |                 | Oxford               |

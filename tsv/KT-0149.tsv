@@ -1,0 +1,32 @@
+|                                                                   |                                                  |        |
+|:------------------------------------------------------------------|:-------------------------------------------------|:-------|
+| Southfleet Junction                                               |                                                  |        |
+| Movement Down                                                     | Reason                                           | Value  |
+| Down Eurostar Class 373/374 train that                            | Speed differential after Ebbsfleet International | 1      |
+| stopped at Ebbsfleet International                                | East Junction                                    |        |
+| Junction Margins                                                  | Margin                                           |        |
+| All conflicting moves                                             | 3                                                |        |
+| Southfleet Crossover                                              |                                                  |        |
+| Junction Margins                                                  | Margin                                           |        |
+| All conflicting moves                                             | 3                                                |        |
+| Singlewell Loop                                                   |                                                  |        |
+| Loop Re-Occupation Rules – to allow for ETCS to operate correctly |                                                  |        |
+| First Move                                                        | Second Move                                      | Margin |
+| Train departs Loop                                                | Train arrives into the loop                      | 4      |
+| Singlewell Crossover                                              |                                                  |        |
+| Junction Margins                                                  | Margin                                           |        |
+| All conflicting moves                                             | 3                                                |        |
+| Nashenden Crossover                                               |                                                  |        |
+| Adjustments to Sectional Running Times                            |                                                  |        |
+| Movement Down                                                     | Reason                                           | Value  |
+| Down Eurostar Class 373/374 train that                            | Speed differential approaching Nashenden         | 1⁄2    |
+| stopped at Ebbsfleet International                                | Crossover                                        |        |
+| Junction Margins                                                  | Margin                                           |        |
+| All conflicting moves                                             | 3                                                |        |
+| Crismill Crossover                                                |                                                  |        |
+| Junction Margins                                                  | Margin                                           |        |
+| All conflicting moves                                             | 3                                                |        |
+| Lenham Loop                                                       |                                                  |        |
+| Loop Re-Occupation – to allow for ETCS to operate correctly       |                                                  |        |
+| First Move                                                        | Second Move                                      | Margin |
+| Train departs Loop                                                | Train arrives into the loop                      | 4      |

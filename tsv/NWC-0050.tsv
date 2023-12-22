@@ -1,0 +1,55 @@
+|                                                           |        |        |      |                                           |
+|:----------------------------------------------------------|:-------|:-------|:-----|:------------------------------------------|
+| MD301 RUGBY TRENT VALLEY JN TO PENKRIDGE (VIA BIRMINGHAM) |        |        |      |                                           |
+| TIMING POINT                                              | DOWN   | UP     | CODE | NOTES                                     |
+| Rugby Trent Valley Jn                                     | – UCL  | SL FL  |      | UCL applies to trains running in the Down |
+|                                                           |        | UGL    |      | direction on the Up Coventry              |
+|                                                           |        | UNL    |      | DCL applies to trains running in the Up   |
+|                                                           |        | DCL    |      | direction on the Down Coventry            |
+|                                                           |        |        |      | To/from Rugby – MD101                     |
+| Rugby Long Lawford Jn                                     | –      | DM UM  | X    |                                           |
+| Coventry South Jn                                         |        |        |      | To/from Gibbet Hill Jn – MD405            |
+| Coventry                                                  | –      | –      |      | Platform detail must be shown             |
+| Coventry North Jn                                         |        |        |      | To/from Coundon Road – MD410              |
+| Canley                                                    | –      | –      | S    |                                           |
+| Tile Hill                                                 | –      | –      | S    |                                           |
+| Berkswell                                                 | –      | –      |      |                                           |
+| Hampton In Arden                                          | –      | –      | S    |                                           |
+| Birmingham International                                  | –      | –      |      | Platform detail must be shown             |
+| Marston Green                                             | –      | –      | S    |                                           |
+| Lea Hall                                                  | –      | –      | S    | Platform detail must be shown             |
+| Stechford                                                 | –      | –      |      | From Aston – MD315                        |
+| Stechford North Jn                                        |        |        |      | To Aston – MD315                          |
+| Adderley Park                                             | –      | –      | S    |                                           |
+| Grand Jn                                                  | –      | –      |      | To/from Landor St Jn – MD501              |
+|                                                           |        |        |      | To/from St. Andrew’s Jn – MD575           |
+|                                                           |        |        |      | Timing point can be omitted from a ‘150   |
+|                                                           |        |        |      | TIPLOC’ schedule                          |
+| Proof House Jn                                            | WL DEL | –      |      | To/from Grand Jn – MD501                  |
+|                                                           |        |        |      | To/from Aston – MD320                     |
+| Birmingham New Street                                     | –      | WL DEL |      | Platform detail must be shown             |
+|                                                           |        |        |      | To/from Five Ways – MD306                 |
+| Monument Lane Up Through                                  |        | –      | S    | Recessed trains only                      |
+| Siding                                                    |        |        |      |                                           |
+| Soho South Jn                                             | –      | –      |      | To/from Soho East Jn – MD325              |
+| Soho LMD                                                  |        |        | S    |                                           |
+| Soho Curve North Jn                                       | –      | –      | X    | For planning purpose this location is     |
+|                                                           |        |        |      | known as Soho North Jn                    |
+|                                                           |        |        |      | Trains using the Down Goods Loop to       |
+|                                                           |        |        |      | show track code DTS                       |
+|                                                           |        |        |      | To/from Soho East Jn – MD330              |
+| Smethwick Rolfe Street                                    | –      | –      | S    |                                           |
+| Galton Jn                                                 | –      | –      |      | To/from Smethwick Jn – MD435              |
+| Smethwick Galton Bridge Low                               | –      | –      | S    |                                           |
+| Level                                                     |        |        |      |                                           |
+| Sandwell and Dudley                                       | –      | –      | S    |                                           |
+| Dudley Port                                               | –      | –      |      |                                           |
+| Watery Lane (Down/Up Stour                                | –      | –      | S    | Recessed trains only                      |
+| Goods)                                                    |        |        |      |                                           |
+| Tipton                                                    | –      | –      | S    |                                           |
+| Coseley                                                   | –      | –      | S    |                                           |
+| Monmore Green                                             | –      | –      | X    | To/from Wolverhampton Steel Terminal      |
+| Wolverhampton Steel Terminal                              |        | –      | S    |                                           |
+| Wolverhampton Signal BW1273                               | –      | –      | S    | Shunt moves only – signal on Up Stour     |
+| Wolverhampton Crane Street Jn                             |        |        |      | To/from Portobello Jn – MD365             |
+| Wolverhampton                                             | –      | –      |      | Platform detail must be shown             |

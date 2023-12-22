@@ -1,0 +1,57 @@
+|                 |                                                                                       |
+|:----------------|:--------------------------------------------------------------------------------------|
+| Reporting       | Description                                                                           |
+| number          |                                                                                       |
+| 1Rxx            | Glasgow Queen Street to Edinburgh (both directions)                                   |
+| 1Sxx            | Long distance trains to Scotland originating in another route                         |
+| 1Txx            | Aberdeen to Glasgow Queen Street (via Montrose, Dundee, Perth & Stirling)             |
+| [Low numbered]  | N.B. 1T08 is not to be used on the Scotland Route                                     |
+| 1Txx            | Inverness to Glasgow Queen Street (via Aviemore, Perth & Stirling)                    |
+| [High numbered] |                                                                                       |
+| 1Txx            | Glasgow Central to Largs                                                              |
+|                 | N.B. 1T08 is not to be used on the Scotland Route                                     |
+| 1Vxx            | Locations on Western Region                                                           |
+| 1Wxx            | Glasgow Central to Wemyss Bay                                                         |
+| 1Wxx            | London Kings Cross / Leeds to Aberdeen & Inverness                                    |
+| 1Yxx            | Glasgow Queen Street to Oban & Mallaig (both directions)                              |
+| 1Yxx            | Glasgow Central to Edinburgh (via Shotts)                                             |
+| 1Zxx            | Special traffic additional trains                                                     |
+|                 | Must NOT be used for WTT services                                                     |
+| Class 2         |                                                                                       |
+| 2Axx            | Glasgow Central to Barrhead, Kilmarnock, Dumfries, Girvan (via Kilmarnock) and        |
+|                 | Stranraer (via Kilamrnock)                                                            |
+| 2Axx            | Aberdeen to Inverurie & Dyce                                                          |
+| 2Bxx            | Glasgow Central to Motherwell and Lanark                                              |
+| 2Cxx            | Milngavie to Cumbernauld / Motherwell (via Hamilton Central)                          |
+| 2Dxx            | Edinburgh to Dunber (both directions)                                                 |
+| 2Dxx            | Glasgow Central to Paisley Canal                                                      |
+| 2Exx            | Airdrie to Balloch via Westerton (both directions)                                    |
+| 2Fxx            | Cumbernauld / Motherwell to Dalmuir (via Hamilton Central & Yoker)                    |
+| 2Fxx            | Glasgow Central to Ardrossan Town and Ardrossan Harbour                               |
+| 2Gxx            | Edinburgh to Glenrothes with Thornton / Leven (via Cardenden – both directions)       |
+| 2Gxx            | Glasgow Central to Gourock                                                            |
+| 2Hxx            | Inverness to Wick / Kyle of Lochalsh                                                  |
+| 2Hxx            | Edinburgh to Helensburgh (both directions)                                            |
+| 2Ixx            | Glasgow Central to Glasgow Central via Inner Circle (Cathcart Circle in Down          |
+|                 | direction)                                                                            |
+| 2Jxx            | Glasgow Central to East Kilbride                                                      |
+| 2Jxx            | Glasgow Queen Street to Edinburgh (via Cumbernauld & Falkirk Grahamston)              |
+| 2Kxx            | Edinburgh to Glenrothes with Thornton / Leven (via Kirkcaldy – both directions)       |
+| 2Kxx            | Glasgow Central to Ayr and Stranraer (via Paisley Gilmour Street)                     |
+| 2Lxx            | Larkhall to Milngavie                                                                 |
+| 2Lxx            | Dalmuir to Larkhall (via Westerton)                                                   |
+| 2Mxx            | Edinburgh to Milngavie (both directions)                                              |
+| 2Mxx            | Glasgow Central to Newton (via Maxwell Park)                                          |
+| 2Nxx            | Glasgow Queen Street to Dunblane (both directions)                                    |
+| [Low numbered]  |                                                                                       |
+| 2Nxx            | Glasgow Queen Street to Alloa (both directions)                                       |
+| [High numbered] |                                                                                       |
+| 2Nxx            | Glasgow Central to Neilston                                                           |
+| 2Oxx            | Glasgow Central to Glasgow Central via Outer Circle (Cathcart Circle in Up direction) |
+| 2Pxx            | Glasgow Central to Newton (via Crosshill)                                             |
+| 2Pxx            | Edinburgh to Dunblane (both directions)                                               |
+| 2Qxx            | Network Rail test train (TRU recording at less than 75mph)                            |
+| 2Rxx            | Dalmuir to Whifflet (via Yoker)                                                       |
+| 2Sxx            | Whifflet / Motherwell to Dalmuir (via Westerton)                                      |
+| 2Txx            | Edinburgh to Tweedbank (both direction)                                               |
+| 2Txx            | Glasgow Central to Largs                                                              |

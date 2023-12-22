@@ -1,0 +1,58 @@
+|                                                                  |                                   |        |                                |
+|:-----------------------------------------------------------------|:----------------------------------|:-------|:-------------------------------|
+| Exeter St Davids                                                 |                                   |        |                                |
+| Warren                                                           |                                   |        |                                |
+| Depart Platform 1, 2 or 3,                                       | Depart to New Yard                | 21⁄2   |                                |
+| or Hyde Park Siding to                                           |                                   |        |                                |
+| Cowley Bridge Jn or E664                                         |                                   |        |                                |
+| Signal                                                           |                                   |        |                                |
+| Depart/pass to Cowley                                            | Depart to E664 signal             | 3^$    | ^ Increase to 4 if first train |
+| Bridge Jn                                                        |                                   |        | is routed to Crediton          |
+|                                                                  |                                   |        | $ If first train has pathing   |
+|                                                                  |                                   |        | time at Cowley Bridge Jn       |
+|                                                                  |                                   |        | increase margin by same        |
+|                                                                  |                                   |        | amount                         |
+| Arrive Exeter St Davids                                          | Conflicting shunt move departs    | 11⁄2   |                                |
+| from Cowley Bridge Jn                                            | E664 signal                       |        |                                |
+| Arrive from E664 signal                                          | Conflicting arrival from Cowley   | 3      |                                |
+|                                                                  | Bridge Jn                         |        |                                |
+| Depart/pass to Cowley                                            | Depart Riverside Yard to Exeter   | 2      |                                |
+| Bridge Jn                                                        | St Davids                         |        |                                |
+| Exeter St Davids Shunting Margins – E35, E677, E679 & Exeter TMD |                                   |        |                                |
+| First Movement                                                   | Second Movement                   | Margin | Notes                          |
+| Depart/pass to Dawlish                                           | Conflicting shunt move to E35     | 21⁄2   | There is no signalled route    |
+| Warren                                                           | signal departs Platform 4, 5 or 6 |        | from Platform 1 or 3 to E35    |
+|                                                                  | or Exeter TMD                     |        | signal.                        |
+| Shunt move to E35 signal                                         | Conflicting departure from        | 3      |                                |
+| departs Exeter St Davids                                         | Exeter St Davids or Exeter TMD    |        |                                |
+| or Exeter TMD                                                    | toDawlish Warren                  |        |                                |
+| Shunt move to E35 signal                                         | Conflicting shunt move to E679    | 3      | A train at E679 signal         |
+| departs Platform 4, 5 or 6,                                      | signal departs Exeter St Davids   |        | prevents a shunt from          |
+| or Exeter TMD                                                    | or Exeter TMD                     |        | Platform 4 to E35 signal, or   |
+|                                                                  |                                   |        | a departure to Dawlish         |
+|                                                                  |                                   |        | Warren.                        |
+| Shunt move from E35 or                                           | Arrival from Dawlish Warren       | 3      |                                |
+| E677 signal arrives                                              | that does not call at Exeter St   |        |                                |
+| Exeter St Davids or                                              | Thomas                            |        |                                |
+| Exeter TMD                                                       |                                   |        |                                |
+| Shunt move from E35 or                                           | Train departs Exeter St Thomas    | 1      | Train cannot depart Exeter     |
+| E677 signal arrives                                              | to Exeter St Davids or Exeter     |        | St Thomas while shunting       |
+| Exeter St Davids or                                              | TMD                               |        | to/from E35 or E677            |
+| Exeter TMD                                                       |                                   |        | signals.                       |
+| Shunt move from E35                                              | Conflicting shunt move to         | 11⁄2   |                                |
+| signal arrives Platform 5                                        | Exeter St Davids or Exeter TMD    |        |                                |
+| or 6                                                             | departs E679 signal               |        |                                |
+| Shunt move to E679                                               | Conflicting shunt move to E35     | 3      |                                |
+| signal departs Platform 5                                        | signal departs Platform 5 or 6,   |        |                                |
+| or 6, or Exeter TMD                                              | or Exeter TMD                     |        |                                |
+| Depart/pass to Dawlish                                           | Shunt move to E679 signal         | 3      |                                |
+| Warren (does not call at                                         | departs Exeter St Davids or       |        |                                |
+| Exeter St Thomas)                                                | Exeter TMD                        |        |                                |
+| Depart Exeter St Thomas                                          | Shunt move to E679 signal         | 1      | E679 Signal and Exeter St      |
+| to Dawlish Warren                                                | departs Exeter St Davids or       |        | Thomas Platform 1 are          |
+|                                                                  | Exeter TMD                        |        | located within the same        |
+|                                                                  |                                   |        | signal section.                |
+| Shunt move from E679                                             | Conflicting arrival at Exeter St  | 21⁄2   | A train at E679 signal         |
+| Signal arrives Exeter St                                         | Davids or Exeter TMD from         |        | prevents an arrival from       |
+| Davids or Exeter TMD                                             | Dawlish Warren                    |        | Dawlish Warren or E35          |
+|                                                                  |                                   |        | signal into Exeter St Davids   |

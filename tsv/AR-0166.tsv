@@ -1,0 +1,55 @@
+|                  |                   |           |                                              |
+|:-----------------|:------------------|:----------|:---------------------------------------------|
+| Station          | Platform          | Effective | Notes                                        |
+|                  |                   | Length m  |                                              |
+| Saxmundham       | 1 (Up)            | 113       |                                              |
+| Saxmundham       | 2 (Down)          | 72        | 4-car 755 permitted with ASDO operation      |
+| Seven Kings      | 1 (Up Main)       | 180       | 9-car 345 permitted with ASDO operation      |
+|                  |                   |           | 10-car 720 permitted with ASDO operation     |
+| Seven Kings      | 2 (Down Main)     | 180       | 9-car 345 permitted with ASDO operation      |
+|                  |                   |           | 10-car 720 permitted with ASDO operation     |
+| Seven Kings      | 3 (Up Electric)   | 187       | 9-car 345 permitted with ASDO operation      |
+|                  |                   |           | 10-car 720 permitted with ASDO operation     |
+| Seven Kings      | 4 (Down Electric) | 187       | 9-car 345 permitted with ASDO operation      |
+|                  |                   |           | 10-car 720 permitted with ASDO operation     |
+| Seven Sisters    | 1 (Up)            | 188.3     | 10-car 720 permitted with ASDO operation     |
+|                  |                   |           | 12-car 745 permitted with ASDO operation     |
+| Seven Sisters    | 2 (Down)          | 185.1     | 10-car 720 permitted with ASDO operation     |
+|                  |                   |           | 12-car 745 permitted with ASDO operation     |
+| Shelford         | 1 (Up)            | 180       | 10-car 720 permitted with ASDO operation     |
+| Shelford         | 2 (Down)          | 180       | 10-car 720 permitted with ASDO operation     |
+| Shenfield        | 1                 | 249       |                                              |
+| Shenfield        | 2                 | 249       |                                              |
+| Shenfield        | 3                 | 255       |                                              |
+| Shenfield        | 4                 | 249       |                                              |
+| Shenfield        | 5                 | 245       |                                              |
+| Shenfield        | 6                 | 209       |                                              |
+| Shepreth         | 1 (Up)            | 97        | Trains longer than 4 cars can call providing |
+|                  |                   |           | they are equipped with SDO (Selective Door   |
+|                  |                   |           | Opening) equipment                           |
+| Shepreth         | 2 (Down)          | 171       |                                              |
+| Sheringham       | Single            | 80        |                                              |
+| Shippea Hill     | 1 (Down)          | 147       | (85m in operational use)                     |
+| Shippea Hill     | 2 (Up)            | 132       | (89m in operational use)                     |
+| Shoeburyness     | 1                 | 255       |                                              |
+| Shoeburyness     | 2                 | 264       |                                              |
+| Shoeburyness     | 3                 | 181       |                                              |
+| Silver Street    | 2 (Down)          | 188.9     |                                              |
+| Silver Street    | 1 (Up)            | 189.1     |                                              |
+| Soham            | Single            | 99        |                                              |
+| Somerleyton      | 2 (Down)          | 148       |                                              |
+| Somerleyton      | 1 (Up)            | 127       |                                              |
+| South Acton      | 1 (Westbound)     | 116       |                                              |
+| South Acton      | 2 (Eastbound)     | 106       |                                              |
+| South Tottenham  | 1 (Up)            | 78.7      |                                              |
+| South Tottenham  | 2 (Down)          | 72.5      |                                              |
+| Southbury        | 1 (Up)            | 187.2     |                                              |
+| Southbury        | 2 (Down)          | 187.5     |                                              |
+| Southend Airport | 1 (Up)            | 250       |                                              |
+| Southend Airport | 2 (Down)          | 250       |                                              |
+| Southend Central | 1                 | 248       |                                              |
+| Southend Central | 2                 | 251       |                                              |
+| Southend Central | 3                 | 276       |                                              |
+| Southend Central | 4                 | 248       |                                              |
+| Southend East    | 1 (Up)            | 246       |                                              |
+| Southend East    | 2 (Down)          | 246       |                                              |

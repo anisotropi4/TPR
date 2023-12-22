@@ -1,0 +1,11 @@
+|                           |                      |        |
+|:--------------------------|:---------------------|:-------|
+| Inverurie                 |                      |        |
+| Dwell Time                | 1                    |        |
+| Junction Margins          |                      |        |
+| First Movement            | Second Movement      | Margin |
+| Pass from Insch           | Pass to Insch        | 1      |
+| Arrive from Turnback Line | Depart to Insch      | 1⁄2    |
+| Depart to Insch           | Depart Turnback Line | 41⁄2   |
+| Pass to Insch             | Depart Turnback Line | 3      |
+| Inverurie Turnback Siding |                      |        |

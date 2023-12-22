@@ -1,0 +1,9 @@
+|                             |                                                |       |
+|:----------------------------|:-----------------------------------------------|:------|
+| Junction Margins            |                                                |       |
+| First movement              | Second Movement                                | Value |
+| Down pass/arrive platform 2 | Up arrive platform 1, to any conflicting route | 2     |
+|                             | after Patchway                                 |       |
+| Dwell Time                  |                                                |       |
+| 158/16x/387                 | 1                                              |       |
+| Signalling Restriction      |                                                |       |

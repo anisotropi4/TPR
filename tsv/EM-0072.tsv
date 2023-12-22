@@ -1,0 +1,44 @@
+|                                                                                                 |                                                                                |                  |
+|:------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|:-----------------|
+| Leicester South Junction                                                                        |                                                                                |                  |
+| Junction Margins                                                                                |                                                                                |                  |
+| First Movement                                                                                  | Second Movement                                                                | Margin           |
+| Pass/Depart Leicester to Up Fast                                                                | Down Main to Up/Down Slow                                                      | 21⁄2             |
+| Down Main to Up/Down Slow                                                                       | Pass/Depart Leicester to Up Fast                                               | 3                |
+| Leicester                                                                                       |                                                                                |                  |
+| Adjustments to Sectional Running Times                                                          |                                                                                |                  |
+| Movement Down                                                                                   | Reason                                                                         | Value            |
+| Up Fast to Platform 3 or 4                                                                      | Speed differential – 15mph approach                                            | 1⁄2              |
+| Movement Up                                                                                     | Reason                                                                         | Value            |
+| Up Fast and Up Slow to Platforms 1, 2 and 4                                                     | Approach Control                                                               | 1 all services   |
+| Platform 1. 2 or 4 to Up Fast                                                                   | Junction speed differential and running brake                                  | 1⁄2 170*         |
+|                                                                                                 | test                                                                           |                  |
+|                                                                                                 |                                                                                | *not required    |
+|                                                                                                 |                                                                                | when reversing   |
+|                                                                                                 |                                                                                | at Signals LR397 |
+|                                                                                                 |                                                                                | and LR399        |
+| Dwell Time                                                                                      |                                                                                |                  |
+| DMU                                                                                             | 1 Local                                                                        |                  |
+|                                                                                                 | 11⁄2 Express                                                                   |                  |
+| 180/222                                                                                         | 11⁄2  2 minutes for services arriving into/departing out of London St. Pancras |                  |
+|                                                                                                 | in the SX Up morning/Down evening peak                                         |                  |
+| XC Services (170 & 22x)                                                                         | 2*                                                                             |                  |
+| .* Dwell time of XC Class 170 may be reduced to 11⁄2 minutes after discussion with the operator |                                                                                |                  |
+| Junction Margins                                                                                |                                                                                |                  |
+| All conflicting moves except those listed below:                                                | 4                                                                              |                  |
+| Platform End Conflicts                                                                          |                                                                                |                  |
+| First Movement                                                                                  | Second Movement                                                                | Margin           |
+| Arrive Platform 3 from North via Up Fast                                                        | Arrive Platform 4 from North via Up/Down                                       | 3                |
+|                                                                                                 | Slow                                                                           |                  |
+| Arrive Platform 4 from North via Up/Down Slow                                                   | Arrive Platform 3 from North via Up Fast                                       | 3                |
+| Arrive into platform                                                                            | Conflicting departure in opposing direction                                    | 1                |
+| Converging/Diverging Headway                                                                    |                                                                                |                  |
+| First Movement                                                                                  | Second Movement                                                                | Value            |
+| Depart Platform 3 towards Market Harborough                                                     | Depart Platform 1 to towards Hinckley via                                      | 3                |
+| via Up Fast                                                                                     | Up Fast                                                                        |                  |
+| Minimum Turnround                                                                               |                                                                                |                  |
+| Under 30-minute journey                                                                         | 6 Total Ivanhoe Line turnround to equate to 12 minutes by adding both ends     |                  |
+| 30 to 60-minute journey                                                                         | 10                                                                             |                  |
+| Over 60-minute journey                                                                          | 15                                                                             |                  |
+| Minimum Reversal                                                                                | 7 for 170/180/222 operated by East Midlands Railway                            |                  |
+| Platform Reoccupation                                                                           |                                                                                |                  |

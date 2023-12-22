@@ -1,0 +1,45 @@
+|           |          |                                                                              |
+|:----------|:---------|:-----------------------------------------------------------------------------|
+| Second    | Third    | Route and/or Destination                                                     |
+| Character | and      |                                                                              |
+|           | Fourth   |                                                                              |
+|           | Number   |                                                                              |
+|           | odd (91- | Euston to Crewe via FL to Hanslope Jn, Northampton, Birmingham New           |
+|           | 99)      | Street, Wolverhampton and Stoke (via Stafford NOT Madeley)                   |
+|           |          | Walsall via Birmingham New Street to Wolverhampton                           |
+|           |          | From Stratford-upon-Avon via Dorridge to all destinations                    |
+|           |          | Marylebone to High Wycombe                                                   |
+|           |          | Cardiff Central to Shrewsbury & stations beyond to Crewe / Manchester        |
+|           |          | Piccadilly / Llandudno Junction / Holyhead)                                  |
+|           |          | Alderley Edge/Stalybridge/Manchester to Wigan/Southport via Bolton           |
+|           |          | Southport/Wigan to Stalybridge via Bolton                                    |
+|           |          | Merseyrail trains to West Kirby                                              |
+|           |          | ECS to Oxley CMD                                                             |
+| X         |          | Exceptional load trains requiring to travel under RT3973EXL conditions       |
+| Y         | odd      | Euston to Birmingham New Street via Northampton                              |
+|           | odd (51- | Euston to Birmingham New Street via FL to Ledburn Jn, Northampton            |
+|           | 59)      |                                                                              |
+|           | even     | Birmingham New Street to Euston via Northampton/Birmingham New Street        |
+|           | (00-     | to Northampton                                                               |
+|           | 70,80-   |                                                                              |
+|           | 98)      |                                                                              |
+|           |          | Euston to Birmingham New Street or Crewe via Stoke                           |
+|           | 81, 83,  | Euston to Liverpool via FL to Ledburn Jn, Northampton, Birmingham New        |
+|           | 85       | Street, Wolverhampton, Madeley & Crewe                                       |
+|           | odd (05- | Euston to Crewe via FL to Ledburn Jn, Northampton, Birmingham New            |
+|           | 29)      | Street, Wolverhampton and Stoke                                              |
+|           | odd (93- | Euston to Crewe via FL to Ledburn Jn, Northampton, Birmingham New            |
+|           | 99)      | Street, Wolverhampton and Madeley                                            |
+|           |          | Class 1 or Class 2 Oxford to Marylebone                                      |
+|           |          | Class 5 Chiltern Railways service terminating at Oxford or shunt move in the |
+|           |          | Oxford area                                                                  |
+|           |          | Class 5 Chiltern Railways service terminating at Wembley LMD having          |
+|           |          | reversed in the turnback siding at Wembley Stadium                           |
+|           |          | Class 2 trains Great Malvern/Worcester to Weston-super-Mare                  |
+|           | 5x/6x    | Class 1 trains Blackpool to Manchester Airport                               |
+|           | 9x       | Class 2 trains Manchester Victoria to Stalybridge                            |
+|           |          | Morecambe/Heysham/Lancaster to Leeds via Settle                              |
+|           |          | Merseyrail trains to Ellesmere Port                                          |
+| Z         |          | Special Traffic Trains                                                       |
+|           |          | Must NOT be used for WTT services                                            |
+|           |          | STP additional trains not conforming to any route code                       |

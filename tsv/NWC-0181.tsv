@@ -1,0 +1,45 @@
+|                                                                                                         |                                              |              |
+|:--------------------------------------------------------------------------------------------------------|:---------------------------------------------|:-------------|
+| Bourne End Jn (Herts)                                                                                   |                                              |              |
+| Adjustments to Sectional Running Times                                                                  |                                              |              |
+| Movement Down                                                                                           | Reason                                       | Value        |
+| Down Fast to Down Slow                                                                                  | Differential Junction speed                  | 1⁄2 EMU and  |
+|                                                                                                         |                                              | Class 4      |
+|                                                                                                         |                                              | 1 All except |
+|                                                                                                         |                                              | EMU and      |
+|                                                                                                         |                                              | Class 4      |
+| Down Slow to Down Fast                                                                                  | Differential Junction speed                  | 1⁄2 EMU and  |
+|                                                                                                         |                                              | Class 4      |
+|                                                                                                         |                                              | 1 All except |
+|                                                                                                         |                                              | EMU and      |
+|                                                                                                         |                                              | Class 4      |
+| Movement Up                                                                                             | Reason                                       | Value        |
+| Up Fast to Up Slow                                                                                      | Differential Junction speed                  | 1⁄2 EMU and  |
+|                                                                                                         |                                              | Class 4      |
+|                                                                                                         |                                              | 1 All except |
+|                                                                                                         |                                              | EMU          |
+| Up Slow to Up Fast                                                                                      | Differential Junction speed                  | 1⁄2 EMU and  |
+|                                                                                                         |                                              | Class 4      |
+|                                                                                                         |                                              | 1 All except |
+|                                                                                                         |                                              | EMU          |
+| Down direction and Up direction adjustments do not apply to Class 6 or 7 trains                         |                                              |              |
+| Berkhamsted                                                                                             |                                              |              |
+| Connectional Allowance                                                                                  | 5                                            |              |
+|                                                                                                         | 10 if a bus service                          |              |
+| Dwell Time                                                                                              |                                              |              |
+| Class 350 EMU                                                                                           | 1                                            |              |
+| Tring                                                                                                   |                                              |              |
+| Adjustments to Sectional Running Times                                                                  |                                              |              |
+| Movement Down                                                                                           | Reason                                       | Value        |
+| Trains terminating in Platform 4                                                                        | Approach control signalling                  | 1            |
+| Dwell Time                                                                                              |                                              |              |
+| Class 350 EMU                                                                                           | 1                                            |              |
+| Minimum Turnround Time – Trains changing direction at end of journey                                    |                                              |              |
+| EMU up to 4 car                                                                                         | 5                                            |              |
+| EMU 6 to 8 car                                                                                          | 6                                            |              |
+| EMU 9 to 12 car                                                                                         | 8                                            |              |
+| Trains entering or leaving passenger service and continuing in same direction (inclusive of Dwell Time) |                                              |              |
+| West Midlands Trains entering                                                                           | 2                                            |              |
+| service                                                                                                 |                                              |              |
+| West Midlands Trains leaving                                                                            | 3 (4-car EMU), 6 (8 car EMU), 9 (12 car EMU) |              |
+| service                                                                                                 |                                              |              |

@@ -1,0 +1,50 @@
+|                                            |                                            |                          |           |
+|:-------------------------------------------|:-------------------------------------------|:-------------------------|:----------|
+| Manningtree                                |                                            |                          |           |
+| Adjustments to Sectional Running Times     |                                            |                          |           |
+| Movement                                   | Timing Load                                | Reason                   | Allowance |
+| Down direction non-stop trains             | Passenger & ECS                            | Via slow speed crossover | {1}       |
+| routed towards Harwich                     |                                            |                          |           |
+| Branch                                     |                                            |                          |           |
+|                                            | Freight                                    | Speed differential       | {11⁄2}    |
+| Applicable to timing loads                 | Passenger & ECS                            | Via slow speed crossover | {1}       |
+| shown for Up direction trains              |                                            |                          |           |
+| passing from the Harwich                   |                                            |                          |           |
+| Line, to be applied                        |                                            |                          |           |
+| approaching the next timing                |                                            |                          |           |
+| point                                      |                                            |                          |           |
+|                                            | Class 6 under 600t                         | Speed Differential       | {1⁄2}     |
+|                                            | Class 6 600t/TR35 to 999t                  | Speed Differential       | {1}       |
+|                                            | inclusive                                  |                          |           |
+|                                            | Class 6 1000t/TR55 to 1199t                | Speed Differential       | {11⁄2}    |
+|                                            | inclusive                                  |                          |           |
+|                                            | Class 6 1200t/TR60 to                      | Speed Differential       | {2}       |
+|                                            | 1399t/TR70 inclusive                       |                          |           |
+|                                            | Class 6 1400t/TR80 to                      | Speed Differential       | {21⁄2}    |
+|                                            | 2000t/TR115 inclusive                      |                          |           |
+|                                            | Class 6 over 2000t/TR115                   | Speed Differential       | {3}       |
+| Connectional Allowance                     | 2                                          |                          |           |
+| Dwell Time                                 | 1                                          |                          |           |
+| Manningtree North Junction                 |                                            |                          |           |
+| Junction Margins                           |                                            |                          |           |
+| First Movement                             | Second Movement                            | Value                    |           |
+| Departing Manningtree to Ipswich           | Passing Manningtree North from Manningtree | 4                        |           |
+|                                            | East Jn                                    |                          |           |
+| Passing Manningtree to Ipswich             | Passing Manningtree North from Manningtree | 3                        |           |
+|                                            | East Jn                                    |                          |           |
+| Arriving Manningtree from Ipswich          | Passing Manningtree North from Manningtree | Simultaneous             |           |
+|                                            | East Jn                                    |                          |           |
+| Passing Manningtree from Ipswich           | Passing Manningtree North from Manningtree | 1                        |           |
+|                                            | East Jn                                    |                          |           |
+| Passing Manningtree North from Manningtree | Departing Manningtree to Ipswich           | 2                        |           |
+| East Jn                                    |                                            |                          |           |
+| Passing Manningtree North from Manningtree | Passing Manningtree to Ipswich             | 21⁄2                     |           |
+| East Jn                                    |                                            |                          |           |
+| Freight Passing Manningtree North from     | Arriving Manningtree from Ipswich          | 5                        |           |
+| Manningtree East Jn                        |                                            |                          |           |
+| Passenger/ECS Passing Manningtree North    | Arriving Manningtree from Ipswich          | 41⁄2                     |           |
+| from Manningtree East Jn                   |                                            |                          |           |
+| Freight Passing Manningtree North from     | Passing Manningtree from Ipswich           | 4                        |           |
+| Manningtree East Jn                        |                                            |                          |           |
+| Passenger/ECS Passing Manningtree North    | Passing Manningtree from Ipswich           | 31⁄2                     |           |
+| from Manningtree East Jn                   |                                            |                          |           |

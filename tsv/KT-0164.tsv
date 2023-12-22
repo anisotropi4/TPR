@@ -1,0 +1,44 @@
+|                   |                       |        |                |
+|:------------------|:----------------------|:-------|:---------------|
+| STATION           | PLATFORM              | USABLE | NOTES          |
+|                   |                       | LENGTH |                |
+| Tunbridge Wells   | 1 - Up Hastings       | 232    | Down direction |
+| Tunbridge Wells   | 1 - Up Hastings       | 232    | Up direction   |
+| Tunbridge Wells   | 2 - Down Hastings     | 228    | Down direction |
+| Tunbridge Wells   | 2 - Down Hastings     | 228    | Up direction   |
+| Wadhurst          | 1 - Up Hastings       | 168    |                |
+| Wadhurst          | 2 - Down Hastings     | 166    |                |
+| Walmer            | 1 - Up Deal           | 166    |                |
+| Walmer            | 2 - Down Deal         | 165    |                |
+| Wandsworth Road   | 1 - Up Atlantic       | 110    |                |
+| Wandsworth Road   | 2 - Down Atlantic     | 86     |                |
+| Wateringbury      | 1 - Up Maidstone      | 85     |                |
+| Wateringbury      | 2 - Down Maidstone    | 84     |                |
+| Welling           | 1 - Up Bexleyheath    | 287    |                |
+| Welling           | 2 - Down Bexleyheath  | 284    |                |
+| West Dulwich      | 1 - Up Chatham Main   | 169    |                |
+| West Dulwich      | 2 - Down Chatham Main | 167    |                |
+| West Malling      | 1 - Up Maidstone      | 167    |                |
+| West Malling      | 2 - Down Maidstone    | 167    |                |
+| West St Leonards  | 1 - Up Hastings       | 174    |                |
+| West St Leonards  | 2 - Down Hastings     | 211    |                |
+| West Wickham      | 1 - Up Mid Kent       | 286    |                |
+| West Wickham      | 2 - Down Mid Kent     | 299    |                |
+| Westcombe Park    | 1 - Up Greenwich      | 241    |                |
+| Westcombe Park    | 2 - Down Greenwich    | 241    |                |
+| Westenhanger      | 1 - Up Main           | 109    | Down direction |
+| Westenhanger      | 1 - Up Main           | 109    | Up direction   |
+| Westenhanger      | 2 - Down Main         | 171    | Down direction |
+| Westenhanger      | 2 - Down Main         | 171    | Up direction   |
+| Westgate-on-Sea   | 1 - Up Main           | 254    |                |
+| Westgate-on-Sea   | 2 - Down Main         | 255    |                |
+| Whitstable        | 1 – Up                | 246    |                |
+| Whitstable        | 2 – Down              | 247    |                |
+| Woolwich Arsenal  | 1 - Up North Kent     | 248    |                |
+| Woolwich Arsenal  | 2 - Down North Kent   | 248    |                |
+| Woolwich Dockyard | 1 - Up North Kent     | 224    |                |
+| Woolwich Dockyard | 2 - Down North Kent   | 224    |                |
+| Wye               | 1 - Up Branch         | 124    |                |
+| Wye               | 2 - Down Branch       | 120    |                |
+| Yalding           | 1 - Up Maidstone      | 86     |                |
+| Yalding           | 2 - Down Maidstone    | 86     |                |

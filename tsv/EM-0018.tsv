@@ -1,0 +1,56 @@
+|                                            |          |          |      |                                           |
+|:-------------------------------------------|:---------|:---------|:-----|:------------------------------------------|
+| LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY) |          |          |      |                                           |
+| TIMING POINT                               | DOWN     | UP       | CODE | NOTES                                     |
+| St Pancras International                   | UFL      |          |      | Platform detail must be shown             |
+|                                            | DFL      |          |      |                                           |
+| Churchyard Sidings                         | –        |          | F    |                                           |
+| Dock Jn South                              | FL UDS   | UFL      |      |                                           |
+|                                            |          | DFL      |      |                                           |
+| Dock Jn North                              | FL UDS   | FL UDS   |      |                                           |
+|                                            | UDR      |          |      |                                           |
+| Kentish Town                               | FL SL    | FL UDR   |      | Platform detail must be shown             |
+|                                            |          | UDS      |      |                                           |
+| Kentish Town North Jn                      | SL       | FL       | X    |                                           |
+| Carlton Road Jn                            | FL SL    | FL SL    |      | To/from Junction Road Jn – LN3210         |
+|                                            |          | DSL –    |      |                                           |
+| West Hampstead South Jn                    | FL SL    | FL SL    | X    | Also mandatory on the Up Fast and Down    |
+|                                            | DHL      |          |      | Slow lines                                |
+| West Hampstead Thameslink                  | FL SL    | FL SL    |      | Platform detail must be shown             |
+|                                            | DHL      |          |      |                                           |
+| West Hampstead North Jn                    | DHL      | FL       | X    |                                           |
+| West Hampstead Down Carriage               | SL       | SL       | S    |                                           |
+| Loop                                       |          |          |      |                                           |
+| Cricklewood South Jn                       | FL SL    | DHL UHL  |      | Timing point for all trains on the Hendon |
+|                                            | DHL      |          |      | lines                                     |
+|                                            |          |          |      | TIPLOC CRKLWSJ                            |
+| Cricklewood                                | –  FL SL | FL SL    |      | Platform detail must be shown             |
+|                                            | DER      |          |      | TIPLOC CRKLWD                             |
+| Cricklewood Depot Exit Road                |          |          |      |                                           |
+| Cricklewood Curve Jn                       | DHL      | UHL      | X    | To/from Dudding Hill Jn – LN3219          |
+|                                            |          |          |      | TIPLOC CRKLWCJ                            |
+| Cricklewood U.G.L.                         | –        | – SL     | S    | Line detail must be shown                 |
+|                                            |          | DER      |      | There is no access from Cricklewood UGL   |
+|                                            |          |          |      | to Cricklewood South Sidings or A-E.      |
+| Cricklewood Wash Line                      | –        | – DER    | S    | TIPLOC CRKLWRL                            |
+| Cricklewood South Sidings                  | –        | – DER    | S    | TIPLOC CRKLDPS                            |
+|                                            |          |          |      | Sidings 1-5, GTR leased area/LMD          |
+| Cricklewood Departure Road                 | –        | DER      | S    |                                           |
+| South                                      |          |          |      |                                           |
+| Cricklewood Tamper Siding                  | –        | DER      | S    |                                           |
+| Cricklewood Departure Road                 | –        | –        |      |                                           |
+| North                                      |          |          |      |                                           |
+| Cricklewood Fuel Road                      | –        | DER      |      | TIPLOC CRKLFRD                            |
+| Cricklewood South Sidings A-E              | –        | DER      | S    | TIPLOC CRKLDAE                            |
+|                                            |          |          |      | Siding detail to be shown for GTR rolling |
+|                                            |          |          |      | stock stabled at this location.           |
+| Cricklewood Depot Jn                       |          |          |      |                                           |
+| Brent Cross West                           | SL FL    | SL FL GL | S X  | TIPLOC BRENTX                             |
+|                                            |          |          |      | Platform detail must be shown             |
+|                                            |          |          |      | Timing point for movements to/from        |
+|                                            |          |          |      | Cricklewood Up Goods Loops                |
+| Cricklewood North Reception                | –        | GL –     | S    | TIPLOC CRKLREC                            |
+| Roads                                      |          |          |      | Line detail must be shown (1 or 2)        |
+|                                            |          |          |      | Maximum standage 247m                     |
+| Cricklewood Depot North Junction           | SL       | –        | X    | TIPLOC CRKLDNJ                            |
+| Cricklewood North End Siding               | –        | –        | S    | TIPLOC CRKLNES1                           |

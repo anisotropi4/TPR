@@ -1,0 +1,41 @@
+|                                   |           |               |        |                                                 |
+|:----------------------------------|:----------|:--------------|:-------|:------------------------------------------------|
+| EA1011 SEVEN KINGS TO IPSWICH     |           |               |        |                                                 |
+| LOCATION                          | DIRECTION | USABLE LENGTH | NOTES  |                                                 |
+|                                   |           | SLU           | METRES |                                                 |
+| Shenfield Up Passenger Loop       | Up        | 74            | 473    | Can be used for reversals towards               |
+|                                   |           |               |        | Shenfield                                       |
+|                                   |           |               |        | Length extends to 140 SLUs / 890m for          |
+|                                   |           |               |        | Up Passenger Loop plus Shenfield                |
+|                                   |           |               |        | Platform 1                                      |
+| Ingatestone Down Passenger        | Down      | 68            | 436    |                                                 |
+| Loop                              |           |               |        |                                                 |
+| Chelmsford Down Passenger         | Down      | 40            | 256    |                                                 |
+| Loop                              |           |               |        |                                                 |
+| Witham Down Passenger             | Down      | 42            | 269    | Length extends to 103 SLUs / 659m for           |
+| Loop                              |           |               |        | Down Passenger Loop plus Witham                 |
+|                                   |           |               |        | Platform 4 (n.b. this will be fouling Braintree |
+|                                   |           |               |        | branch)                                         |
+| Witham Up Passenger Loop          | Up        | 41            | 263    | Length extends to 113 SLUs / 723m for Up        |
+|                                   |           |               |        | Passenger Loop plus Witham Platform 1           |
+| Marks Tey Up Passenger            | Up        | 73            | 468    |                                                 |
+| Loop                              |           |               |        |                                                 |
+| Colchester Down Goods Loop        | Down      | 38            | 243    | CO1051 signal clear of 3044 points              |
+|                                   | Down      | 119           | 762    | CO1051 signal clear of 3040 points              |
+| Colchester Up Goods Loop          | Up        | 99            | 637    | CO1028 signal clear of 3048 points              |
+|                                   | Up        | 55            | 352    | CO1036 signal clear of 3048 points              |
+|                                   | Down      | 99            | 637    | CO1055 signal clear of 3041 points              |
+|                                   | Down      | 52            | 337    | CO1055 signal clear of 3043 points              |
+|                                   | Down      | 26            | 169    | CO1023 signal clear of 3041 points              |
+| Colchester Up Passenger           | Up        | 60            | 384    |                                                 |
+| Loop                              |           |               |        |                                                 |
+| EA1012 IPSWICH TO TROWSE JUNCTION |           |               |        |                                                 |
+| LOCATION                          | DIRECTION | USABLE LENGTH | NOTES  |                                                 |
+|                                   |           | SLU           | METRES |                                                 |
+| Claydon Down Goods Loop           | Down      | 42            | 269    |                                                 |
+| Stowmarket Down & Up              | Both      | 84            | 538    |                                                 |
+| Goods Loop                        |           |               |        |                                                 |
+| EA1013 TROWSE JUNCTION TO NORWICH |           |               |        |                                                 |
+| LOCATION                          | DIRECTION | USABLE LENGTH | NOTES  |                                                 |
+|                                   |           | SLU           | METRES |                                                 |
+| Trowse Down & Up Loop             | Both      | 44            | 285    |                                                 |

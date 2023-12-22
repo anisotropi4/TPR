@@ -1,0 +1,46 @@
+|                                                                                                                         |                                          |                           |
+|:------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|:--------------------------|
+| Syston North Junction                                                                                                   |                                          |                           |
+| Up trains.  There are no signals between Syston North and Syston East Junctions, the Up North Curve.                    |                                          |                           |
+| Therefore, do not time Up trains to stand at Syston East Junction.  Also, do not include pathing time between           |                                          |                           |
+| Syston North and Syston East Junctions.  When it is necessary for a train routed via the Up North Curve to follow       |                                          |                           |
+| another Up train over Syston East Junction the second train cannot pass Syston North Junction until the first train     |                                          |                           |
+| is 1 minute beyond Syston East Junction if the first train is a passenger train and 2 minutes if it is a freight train. |                                          |                           |
+| There are no signals between Syston North and Syston South Junctions.  Therefore, do not time trains to stand at        |                                          |                           |
+| Syston South Junction.  Also, do not include pathing time between Syston North and South Junctions.                     |                                          |                           |
+|                                                                                                                         |                                          |                           |
+| Down trains.  There is limited standage between Syston East and North Junctions, the Down North Curve.                  |                                          |                           |
+| Therefore, it is advisable to avoid timing trains to stand at Syston North Junction unless they consist of either a     |                                          |                           |
+| light locomotive or a two or three–car dmu.  Longer trains would, if stood at Syston North Junction, block Syston       |                                          |                           |
+| East Junction.                                                                                                          |                                          |                           |
+| Adjustments to Sectional Running Times                                                                                  |                                          |                           |
+| Syston East Junction to Down Slow                                                                                       | Acceleration – to be applied approaching | Freight                   |
+|                                                                                                                         | next timing point                        | 1 < 1,000t                |
+|                                                                                                                         |                                          | 11⁄2 1,200t – 1,600t      |
+|                                                                                                                         |                                          | 2 1,800t – 2,000t         |
+|                                                                                                                         |                                          | 21⁄2 2,200t – 2,800t      |
+|                                                                                                                         |                                          | 3 > 3,000t                |
+| Junction Margins                                                                                                        |                                          |                           |
+| First Movement                                                                                                          | Second Movement                          | Margin                    |
+| Up Slow to Up Slow                                                                                                      | Down North Curve to Down Slow            | 5                         |
+| Down North Curve to Down Slow                                                                                           | Up Slow to Up Slow                       | 5                         |
+| Sileby Junction                                                                                                         |                                          |                           |
+| Adjustments to Sectional Running Times                                                                                  |                                          |                           |
+| Movement Down                                                                                                           | Reason                                   | Value                     |
+| DS to DF (Sileby Jn to Loughborough                                                                                     |                                          | 1⁄2                       |
+| excluding DMUs)                                                                                                         |                                          |                           |
+| UF to US (Loughborough to Sileby Jn                                                                                     |                                          | 1⁄2                       |
+| excluding DMUs)                                                                                                         |                                          |                           |
+| Junction Margins                                                                                                        |                                          |                           |
+| First Movement                                                                                                          | Second Movement                          | Margin                    |
+| Down Fast to Down Fast                                                                                                  | Mountsorrel Sidings to Up Fast or Up     | Depart Mountsorrel 3      |
+|                                                                                                                         | Slow                                     | mins after 1st train      |
+|                                                                                                                         |                                          | passes Sileby Jn          |
+| Up Fast to Up Fast                                                                                                      | Down Slow to Mountsorrel Sidings         | 2                         |
+| Down Slow/Down Fast to Mountsorrel Sidings                                                                              | Down Fast to Down Fast                   | 71⁄2                      |
+| Down Slow to Mountsorrel Sidings                                                                                        | Up Fast to Up Fast                       | 5*                        |
+|                                                                                                                         |                                          | *4 if up train calling at |
+|                                                                                                                         |                                          | Loughborough              |
+| Mountsorrel Sidings to Up Slow                                                                                          | Down Slow to Down Slow                   | 5                         |
+| Down Slow to Down Slow                                                                                                  | Mountsorrel Sidings to Up Slow           | 3                         |
+| Up Fast to Up Slow                                                                                                      | Down Slow to Down Slow                   | 5                         |

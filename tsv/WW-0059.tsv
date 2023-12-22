@@ -1,0 +1,47 @@
+|                                                               |       |       |      |                                        |
+|:--------------------------------------------------------------|:------|:------|:-----|:---------------------------------------|
+| GW874 BRIDGEND LLYNFI JUNCTION TO MAESTEG                     |       |       |      |                                        |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                                  |
+| Bridgend Llynfi Junction                                      |       |       |      | To/from Pontyclun – GW900              |
+| Bridgend PT3462                                               |       | –     | S    | For shunt moves only                   |
+| Wildmill                                                      | –     | –     | S    |                                        |
+| Sarn                                                          | –     | –     | S    |                                        |
+| Tondu                                                         | –     | –     |      | To/from Margam Abbey Works East        |
+|                                                               |       |       |      | Junction – GW877                       |
+|                                                               |       |       |      |                                        |
+|                                                               |       |       |      | To/from Garw Loop – GW875              |
+| Llynfi Goods Loop                                             | –     | –     | S    |                                        |
+| Garth                                                         | –     | –     | S    |                                        |
+| Maesteg Ewenny Road                                           | –     | –     | S    |                                        |
+| Maesteg                                                       | –     | –     |      |                                        |
+| GW875 TONDU JUNCTION TO GARW LOOP                             |       |       |      |                                        |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                                  |
+| Tondu                                                         | –     | –     |      | To/from Maesteg – GW874                |
+|                                                               |       |       |      | To/from Margam Abbey Works East        |
+|                                                               |       |       |      | Junction – GW877                       |
+| Tondu Garw Loop                                               | –     | –     |      |                                        |
+| GW877 TONDU TO PORT TALBOT DOCKS (OGMORE VALE EXTENSION LINE) |       |       |      |                                        |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                                  |
+| Tondu                                                         | –     | –     |      | To/from Maesteg – GW874/GW875          |
+| Parc Slip Celtic Energy                                       | –     | –     | S    |                                        |
+| Margam LIP                                                    | –     | –     | S    |                                        |
+| Margam Abbey Works East                                       | – OVE | –     | S    | Token Exchange Point – Trains to/from  |
+| Junction                                                      |       |       |      | direction of Tondu MUST stop           |
+|                                                               |       |       |      | To / from Margam Moors Jn –GW900       |
+| Margam TC (Knuckle Yard)                                      | –     | –     | S    |                                        |
+| Port Talbot Grange Siding                                     | –     | –     | S    | –                                      |
+| Margam Abbey Works West                                       | OVE   | – OVE | S    |                                        |
+| Junction                                                      |       |       |      |                                        |
+| Margam East Junction                                          | – OVE | – OVE | X    |                                        |
+| Margam Yard Junction                                          | –     | OVE   | X    | To/from Port Talbot – GW900            |
+| Port Talbot Docks                                             |       | –     |      |                                        |
+| GW890 COURT SART JUNCTION / BRITON FERRY WEST JUNCTION TO     |       |       |      |                                        |
+| MORLAIS JUNCTION (SWANSEA DISTRICT LINE)                      |       |       |      |                                        |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                                  |
+| Briton Ferry West Jn                                          |       | –     |      | To Port Talbot – GW900                 |
+|                                                               |       |       |      | Timing point for all Up trains         |
+| Court Sart Jn                                                 | –     |       |      | From Port Talbot – GW900               |
+|                                                               |       |       |      | Timing point for all Down trains       |
+| Dynevor Junction                                              | –     | –     |      | To/from Jersey Marine Jn South –       |
+|                                                               |       |       |      | GW8901                                 |
+| Jersey Marine Jn North                                        | –     | –     |      | To/from Jersey Marine Jn South – GW894 |

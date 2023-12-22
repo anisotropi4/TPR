@@ -1,0 +1,44 @@
+|                    |                       |        |       |
+|:-------------------|:----------------------|:-------|:------|
+| STATION            | PLATFORM              | USABLE | NOTES |
+|                    |                       | LENGTH |       |
+| Bickley            | 1 - Up Chatham Fast   | 184    |       |
+| Bickley            | 2 - Down Chatham Fast | 183    |       |
+| Bickley            | 3 - Up Chatham Slow   | 184    |       |
+| Bickley            | 4 - Down Chatham Slow | 184    |       |
+| Birchington on Sea | 1 – Up                | 247    |       |
+| Birchington on Sea | 2 – Down              | 247    |       |
+| Blackheath         | 1 - Up North Kent     | 269    |       |
+| Blackheath         | 2 - Down North Kent   | 242    |       |
+| Borough Green and  | 1 - Up Maidstone      | 167    |       |
+| Wrotham            |                       |        |       |
+| Borough Green and  | 2 - Down Maidstone    | 167    |       |
+| Wrotham            |                       |        |       |
+| Brixton            | 1 – Up                | 164    |       |
+| Brixton            | 2 – Down              | 165    |       |
+| Broadstairs        | 1 - Up Main           | 247    |       |
+| Broadstairs        | 2 - Down Main         | 248    |       |
+| Bromley North      | 1 – Up                | 179    |       |
+| Bromley North      | 2 – Down              | 179    |       |
+| Bromley South      | 1 - Up Chatham Fast   | 264    |       |
+| Bromley South      | 2 - Down Chatham Fast | 264    |       |
+| Bromley South      | 3 - Up Chatham Slow   | 264    |       |
+| Bromley South      | 4 - Down Chatham Slow | 264    |       |
+| Canterbury East    | 1 - Up Main           | 164    |       |
+| Canterbury East    | 2 - Down Main         | 166    |       |
+| Canterbury West    | 1 - Up Main           | 159    |       |
+| Canterbury West    | 2 - Down Main         | 166    |       |
+| Catford            | 1 - Up Catford Loop   | 164    |       |
+| Catford            | 2 - Down Catford Loop | 162    |       |
+| Catford Bridge     | 1 - Up Mid Kent       | 300    |       |
+| Catford Bridge     | 2 - Down Mid Kent     | 316    |       |
+| Charing            | 1 - Up Maidstone      | 124    |       |
+| Charing            | 2 - Down Maidstone    | 124    |       |
+| Charlton           | 1 - Up North Kent     | 242    |       |
+| Charlton           | 2 - Down North Kent   | 243    |       |
+| Chartham           | 1 - Up Main           | 130    |       |
+| Chartham           | 2 - Down Main         | 121    |       |
+| Chatham            | 1 - Up Main           | 249    |       |
+| Chatham            | 2 - Down Main         | 249    |       |
+| Chelsfield         | 1 - Up Main           | 249    |       |
+| Chelsfield         | 2 - Down Main         | 244    |       |

@@ -1,0 +1,41 @@
+|                                                                                                                     |                                         |             |
+|:--------------------------------------------------------------------------------------------------------------------|:----------------------------------------|:------------|
+| EA1395 RIPPLE LANE WEST JUNCTION TO BARKING RIVERSIDE                                                               |                                         |             |
+| Barking Riverside                                                                                                   |                                         |             |
+| Platform End Conflicts                                                                                              |                                         |             |
+| First Movement                                                                                                      | Second Movement                         | Margin      |
+| Arrive Platform 2                                                                                                   | Depart Platform 1                       | 1           |
+| Depart to Barking                                                                                                   | Conflicting arrival                     | 21⁄2        |
+| Platform Reoccupation                                                                                               | 21⁄2                                    |             |
+| EA1410 UPMINSTER TO WEST THURROCK JUNCTION                                                                          |                                         |             |
+| Ockendon                                                                                                            |                                         |             |
+| Adjustments to Sectional Running Times                                                                              |                                         |             |
+| Movement                                                                                                            | Reason                                  | Value       |
+| Pass through Platform 2 (Up & Down Loop)                                                                            | Approach control                        | {1⁄2}       |
+| Pass through Platform 2 (Up & Down Loop)                                                                            | Acceleration                            | {1⁄2}       |
+|                                                                                                                     |                                         | approaching |
+|                                                                                                                     |                                         | next timing |
+|                                                                                                                     |                                         | point       |
+| Junction Margins                                                                                                    |                                         |             |
+| First Movement                                                                                                      | Second Movement                         | Margin      |
+| Passenger arrives from Upminster                                                                                    | Passenger departs to Upminster          | 1⁄2         |
+| Passenger arrives from Grays                                                                                        | Passenger departs to Grays              | 0           |
+| Passenger departs Ockendon                                                                                          | Passenger departs in opposite direction | 0           |
+| Freight passes Ockendon                                                                                             | Passenger departs in opposite direction | 1           |
+| Overlap Restrictions                                                                                                |                                         |             |
+| First Movement                                                                                                      | Second Movement                         | Margin      |
+| Down train arrive Ockendon                                                                                          | Up train arrive/pass Ockendon           | 2           |
+| Up train arrive Ockendon                                                                                            | Down train arrive/pass Ockendon         | 2           |
+| Operating Restrictions                                                                                              |                                         |             |
+|                                                                                                                     |                                         |             |
+| When not crossing another train (ie passing or being passed by another train), trains normally use Platform 1 in    |                                         |             |
+| either direction (Up & Down Ockendon).                                                                              |                                         |             |
+|                                                                                                                     |                                         |             |
+| Down stopping passenger services should be routed via Platform 1 where possible. Should no other timetabling        |                                         |             |
+| solution be available, the planner must inform the TOC that Platform 2 is being used. This is due to there being no |                                         |             |
+| DOO equipment at the country end of Platform 2, requiring dispatch staff to be provided.                            |                                         |             |
+|                                                                                                                     |                                         |             |
+| Crossing trains cannot arrive from opposite directions simultaneously; trains must arrive at least 2 minutes apart. |                                         |             |
+|                                                                                                                     |                                         |             |
+| A train exceeding 312 metres / 48 SLU (down direction) or 484 metres / 75 SLU (up direction) may pass another       |                                         |             |
+| train. The second train must not exceed these lengths.                                                              |                                         |             |

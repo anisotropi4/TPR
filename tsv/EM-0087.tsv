@@ -1,0 +1,41 @@
+|                                                                                                                   |                                                   |                   |
+|:------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|:------------------|
+|                                                                                                                   |                                                   | passes Trent East |
+| Attenborough                                                                                                      |                                                   |                   |
+| Dwell Time                                                                                                        |                                                   |                   |
+| 170                                                                                                               | 1⁄2                                               |                   |
+| Beeston                                                                                                           |                                                   |                   |
+| Dwell Time                                                                                                        |                                                   |                   |
+| DMU                                                                                                               | 1⁄2                                               |                   |
+| XC 22x                                                                                                            | 1                                                 |                   |
+| 180/222                                                                                                           | 11⁄2                                              |                   |
+| Beeston South Junction                                                                                            |                                                   |                   |
+| Adjustments to Sectional Running Times                                                                            |                                                   |                   |
+| Movement Down                                                                                                     | Reason                                            | Value             |
+| Down Main to Down or Up Nottingham Slow                                                                           | Flashing yellow approach to Signal TN4917         | 1⁄2               |
+| Movement Up                                                                                                       | Reason                                            | Value             |
+| Down or Up Nottingham Slow to Up Main                                                                             | Differential junction speed – to be applied after | 1⁄2               |
+| stopping at Beeston                                                                                               | Beeston South Junction                            |                   |
+| Down or Up Nottingham Slow to Up Main not                                                                         | Acceleration – to be applied after Beeston        | 1                 |
+| stopping at Beeston                                                                                               | South Junction                                    |                   |
+| Mansfield Junction                                                                                                |                                                   |                   |
+| Junction Margins                                                                                                  |                                                   |                   |
+| First Movement                                                                                                    | Second Movement                                   | Margin            |
+| Pass from Trent East Jn to Nottingham                                                                             | Conflicting move from Nottingham to Trent East Jn | 21⁄2              |
+| Pass from Trent East Jn to Nottingham                                                                             | Conflicting move from Nottingham to Radford Jn    | 3                 |
+| Pass to Trent East Jn                                                                                             | Conflicting move to Radford Jn                    | 3                 |
+| Pass to Trent East Jn                                                                                             | Conflicting move from Trent East Jn               | 21⁄2              |
+|                                                                                                                   |                                                   | 5 if 1st train is |
+|                                                                                                                   |                                                   | freight           |
+| Pass to Radford Jn                                                                                                | Conflicting move to Trent Jns                     | 21⁄2              |
+| Pass to Radford Jn                                                                                                | Conflicting move from Trent Jns on Down Fast      | 21⁄2              |
+| Pass to Radford Jn                                                                                                | Conflicting move from Trent Jns on Down Slow      | 3                 |
+| Planning Notes                                                                                                    |                                                   |                   |
+| Down direction (Eastbound)                                                                                        |                                                   |                   |
+| A train exceeding 200m in length will foul Mansfield Junction when pathing time is applied between Mansfield      |                                                   |                   |
+| Junction and Nottingham. Therefore, junction margins must be based on trains’ arrival/pass time at Nottingham.    |                                                   |                   |
+|                                                                                                                   |                                                   |                   |
+| Up direction (Westbound)                                                                                          |                                                   |                   |
+| A train exceeding 200m in length will foul Nottingham West Junction if held at Mansfield Junction or when pathing |                                                   |                   |
+| time is applied between Nottingham and Mansfield Junction. Therefore, junction margins must be based on trains’   |                                                   |                   |
+| pass/departure time at Mansfield Junction.                                                                        |                                                   |                   |

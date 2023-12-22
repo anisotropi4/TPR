@@ -1,0 +1,38 @@
+|                                                                                                                   |                                       |           |
+|:------------------------------------------------------------------------------------------------------------------|:--------------------------------------|:----------|
+| St. Andrew’s Jn                                                                                                   |                                       |           |
+| Junction Margins                                                                                                  |                                       |           |
+| First Movement                                                                                                    | Second Movement                       | Margin    |
+| All conflicting moves                                                                                             |                                       | 3 before/ |
+|                                                                                                                   |                                       | 3 after   |
+| Planning Notes                                                                                                    |                                       |           |
+| A train cannot pass Landor Street Jn (and stand at SY88 signal) when headed toward St. Andrew’s Jn, if a train is |                                       |           |
+| occupying the Up Camp Hill Curve – due to St. Andrew’s Jn being in the overlap of SY88 signal.                    |                                       |           |
+| Trains standing at signal LL4772 signal on the Up St. Andrew’s that are longer than 454 meters/71SLUs (exclusive  |                                       |           |
+| of stand-back allowance) will foul St. Andrew’s Jn. Therefore, junction margins at St. Andrew’s Jn must be based  |                                       |           |
+| on trains’ departure time at Landor Street Jn if over length.                                                     |                                       |           |
+| Bordesley Jn                                                                                                      |                                       |           |
+| See entry under route MD401 Heyford to Bordesley Jn                                                               |                                       |           |
+| Lifford East Jn                                                                                                   |                                       |           |
+| Adjustments to Sectional Running Times                                                                            |                                       |           |
+| Movement Down                                                                                                     | Reason                                | Value     |
+| Classes 15x/170/22x and HST from Down                                                                             | Junction differential                 | 1 Before  |
+| Camp Hill to Down Lifford Curve (pass to pass)                                                                    |                                       |           |
+| Movement Up                                                                                                       | Reason                                | Value     |
+| Classes 15x/170/22x and HST from Up Lifford                                                                       | Junction differential                 | 1 After   |
+| Curve to Up Camp Hill (pass to pass)                                                                              |                                       |           |
+| Junction Margins                                                                                                  |                                       |           |
+| First Movement                                                                                                    | Second Movement                       | Margin    |
+| All conflicting moves                                                                                             |                                       | 4 before/ |
+|                                                                                                                   |                                       | 3 after   |
+| Planning Constraint when routed to Lifford West Jn via Lifford Curve MD580                                        |                                       |           |
+| Due to the signalling constraints, a train routed along the Down Lifford Curve cannot be brought to a stand at    |                                       |           |
+| Lifford West Jn SY45 signal and must therefore be held on the Down Camp Hill at Lifford East Jn.                  |                                       |           |
+| Kings Norton                                                                                                      |                                       |           |
+| See entry under route MD306 Birmingham New Street to Ashchurch (exclusive)                                        |                                       |           |
+| MD701 MARYLEBONE TO AYNHO JN                                                                                      |                                       |           |
+| London Marylebone                                                                                                 |                                       |           |
+| Adjustments to Sectional Running Times                                                                            |                                       |           |
+| Movement Up                                                                                                       | Reason                                | Value     |
+| Into an occupied platform                                                                                         | Approach Control                      | 1         |
+| Train having reversed at Neasden South Jn                                                                         | Not at line speed at Neasden South Jn | 1⁄2       |

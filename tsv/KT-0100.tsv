@@ -1,0 +1,44 @@
+|                                                                                                       |                                                  |                                             |
+|:------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:--------------------------------------------|
+| Ramsgate                                                                                              |                                                  |                                             |
+| Permissive Working for attaching/detaching and platform sharing is authorised as shown below:         |                                                  |                                             |
+| Platform 1                                                                                            | Up Passenger Loop                                | Attaching/Detaching and Platform Sharing in |
+|                                                                                                       |                                                  | Both directions                             |
+| Platform 2                                                                                            | Up Main                                          | Attaching/Detaching and Platform Sharing in |
+|                                                                                                       |                                                  | Both directions                             |
+| Platform 3                                                                                            | Down Main                                        | Attaching/Detaching and Platform Sharing in |
+|                                                                                                       |                                                  | Both directions                             |
+| Platform 4                                                                                            | Down Passenger Loop                              | Attaching/Detaching and Platform Sharing in |
+|                                                                                                       |                                                  | Both directions                             |
+| A second train must arrive in an occupied platform before the first train is allowed to depart        |                                                  |                                             |
+| Shunt Limits                                                                                          |                                                  |                                             |
+| Standage between EK4985 and EK4968 on the Up Stour is 8 cars                                          |                                                  |                                             |
+| Standage between EK4981 and the Limit of Shunt (EK4966) on the Down Stour is 12 cars                  |                                                  |                                             |
+| Standage on both EK5143 (Down Thanet) and EK5145 (Up Thanet) at Margate end of Ramsgate station is 12 |                                                  |                                             |
+| cars                                                                                                  |                                                  |                                             |
+| Overlap Restrictions                                                                                  |                                                  |                                             |
+| First Movement                                                                                        | Second Movement                                  | Value                                       |
+| Train arrives Platform 3 from Minster direction                                                       | Train departs from Platform 4 towards Margate    | 2                                           |
+| Train arrives Platform 4 from Minster direction                                                       | Train departs from Platform 3 towards Margate    | 2                                           |
+| Train departs from Platform 4 towards Margate                                                         | Train arrives Platform 3 from Minster direction  | 2                                           |
+| Train departs from Platform 3 towards Margate                                                         | Train arrives Platform 4 from Minster direction  | 2                                           |
+| Train arrives Platform 3 from Minster direction                                                       | Train arrives Platform 4 from Margate direction  | 2                                           |
+| Train arrives Platform 4 from Minster direction                                                       | Train arrives Platform 3 from Margate direction  | 2                                           |
+| Train arrives Platform 3 from Margate direction                                                       | Train arrives Platform 4 from Minster direction  | 2                                           |
+| Train arrives Platform 4 from Margate direction                                                       | Train arrives Platform 3 from Minster direction  | 2                                           |
+| Train arrives Platform 1 from Margate direction                                                       | Train departs from Platform 2 towards Minster    | 2                                           |
+| Train arrives Platform 1 from Margate direction                                                       | Train arrives Platform 2 from Minster direction  | 2                                           |
+| Train arrives Platform 2 from Margate direction                                                       | Train arrives Platform 1 from Minster direction  | 2                                           |
+| Train arrives Platform 1 from Minster direction                                                       | Train arrives Platform 2 from Margate direction  | 2                                           |
+| Train arrives Platform 2 from Minster direction                                                       | Train arrives Platform 1 from Margate direction  | 2                                           |
+| Train arrives Platform 1 or 2 from Minster direction                                                  | Train departs Roads 1-6 towards Minster          | 2                                           |
+| Train departs from Platform 1 or 2 towards Margate                                                    | Train arrives Platform 2 from Minster direction  | 2                                           |
+| Train departs on the Up Thanet towards Dumpton                                                        | Train departs from Ramsgate or the Depot on      | 2                                           |
+| Park                                                                                                  | the Up Thanet to behind EK5143 signal crossing   |                                             |
+|                                                                                                       | using 2330 points                                |                                             |
+| Train departs on the Up Stour towards Minster                                                         | Train departs from Ramsgate or the Depot         | 2                                           |
+|                                                                                                       | Reception West to arrive at either EK4985 on the |                                             |
+|                                                                                                       | Up Stour or EK4981 on the Down Stour             |                                             |
+| SO110B GILLINGHAM TO CHATHAM DOCKYARD                                                                 |                                                  |                                             |
+| Gillingham                                                                                            |                                                  |                                             |
+| See entry under route – S0110                                                                         |                                                  |                                             |

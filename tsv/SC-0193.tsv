@@ -1,0 +1,19 @@
+|                                                                                                               |                           |        |
+|:--------------------------------------------------------------------------------------------------------------|:--------------------------|:-------|
+| Dalwhinnie                                                                                                    |                           |        |
+| Adjustments to Sectional Running Times                                                                        |                           |        |
+| Movement Down                                                                                                 | Reason                    | Value  |
+| Down train using Up platform.  Approaching                                                                    | Slow speed Junction       | 2      |
+| Dalwhinnie                                                                                                    |                           |        |
+| Junction Margins                                                                                              |                           |        |
+| First Movement                                                                                                | Second Movement           | Margin |
+| Down Arrive Down Platform                                                                                     | Up Arrive Up platform     | 3      |
+| Down Arrive Down Platform                                                                                     | Up Pass Up platform       | 4      |
+| Up Arrive/pass                                                                                                | Down Arrive Down platform | 3      |
+| Up Pass                                                                                                       | Down Arrive Up platform   | 5      |
+| Up Arrive/pass                                                                                                | Down Pass                 | 4      |
+| Up Arrive/pass                                                                                                | Down Depart               | 1      |
+| Operating Instructions                                                                                        |                           |        |
+| Down trains may ‘overtake’ another Down train. When the train being overtaken stands at the Down platform the |                           |        |
+| following margin applies to the overtaking train.                                                             |                           |        |
+| First Movement                                                                                                | Second Movement           | Margin |

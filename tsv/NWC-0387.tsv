@@ -1,0 +1,56 @@
+|                          |             |        |                                       |
+|:-------------------------|:------------|:-------|:--------------------------------------|
+| STATION                  | PLATFORM    | LENGTH | NOTES                                 |
+| Birmingham New Street    | 11B         | 285    | BM5111 to BM6411                      |
+| Birmingham New Street    | 11          | 335    | BM5111 to BM6211                      |
+| Birmingham New Street    | 12A         | 116    | BM5512 to South Ramp                  |
+| Birmingham New Street    | 12B         | 121    | BM6612 to North Ramp                  |
+| Birmingham New Street    | 12          | 249    | Ramp to Ramp                          |
+| Birmingham New Street    | No.1 Siding | 228    | BM8241 to BM7321                      |
+| Birmingham New Street    | No.2 Siding | 160    | BM8441 to BM7322                      |
+| Birmingham New Street    | No.3 Siding | 156    | BM8643 to BM7323                      |
+| Birmingham New Street    | No.3 Siding | 81     | BM8843 to BM7323                      |
+| Birmingham Snow Hill     | 1           | 270    | Down: 229m to SY198/Up: 236m to SY193 |
+| Birmingham Snow Hill     | 2           | 272    | Down:270m to SY200/Up:237m to SY195   |
+| Birmingham Snow Hill     | 3           | 273    | Down:263m to SY202/Up:240m to SY197   |
+| Blackburn                | 1           | 217    | Bi–directional                        |
+| Blackburn                | 2           | 225    | Bi–directional                        |
+| Blackburn                | 3           | 72     | Bay to Preston                        |
+| Blackburn                | 4           | 100    | Bi–directional                        |
+| Blackpool North          | 1           | 277    |                                       |
+| Blackpool North          | 2           | 277    |                                       |
+| Blackpool North          | 3           | 217    |                                       |
+| Blackpool North          | 4           | 205    |                                       |
+| Blackpool North          | 5           | 203    |                                       |
+| Blackpool North          | 6           | 205    |                                       |
+| Blackpool Pleasure Beach | Single      | 98     |                                       |
+| Blackpool South          | Single      | 100    |                                       |
+| Blackrod                 | 1           | 144    | Down line                             |
+| Blackrod                 | 2           | 114    | Up line                               |
+| Blake Street             | 2           | 147    |                                       |
+| Blake Street             | 1           | 146    |                                       |
+| Blakedown                | Down        | 122    |                                       |
+| Blakedown                | Up          | 119    |                                       |
+| Bletchley                | 1           | 253    | Down Fast                             |
+| Bletchley                | 2           | 253    | Up Fast                               |
+| Bletchley                | 3           | 253    | Down Slow                             |
+| Bletchley                | 4           | 262    | Up Slow                               |
+| Bletchley                | 5           | 262    | Bletchley Relief 2                    |
+| Bletchley                | 6           | 129    | Up Vale                               |
+| Bletchley High Level     | 7           | 106    | East West Rail                        |
+| Bletchley High Level     | 8           | 106    | East West Rail                        |
+| Bloxwich                 | Down        | 72     |                                       |
+| Bloxwich                 | Up          | 72     |                                       |
+| Bloxwich North           | Down        | 77     |                                       |
+| Bloxwich North           | Up          | 77     |                                       |
+| Blundellsands & Crosby   | 1           | 127    | Up line. Additional 24m OOU           |
+| Blundellsands & Crosby   | 2           | 135    | Down line                             |
+| Bolton                   | 1           | 124    | In down direction                     |
+| Bolton                   | 1           | 187    | In Up direction                       |
+| Bolton                   | 2           | 113    |                                       |
+| Bolton                   | 3           | 222    | In Down direction.                    |
+| Bolton                   | 3           | 305    | In Up direction                       |
+| Bolton                   | 4           | 252    | Bi–directional                        |
+| Bolton                   | 5           | 271    |                                       |
+| Bootle (Cumbria)         | Down        | 47     | Additional 71.4m OOU                  |
+| Bootle (Cumbria)         | Up          | 50     | Additional 71.8m OOU                  |

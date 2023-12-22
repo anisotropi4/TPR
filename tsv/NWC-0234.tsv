@@ -1,0 +1,29 @@
+|                                                                                                          |                                            |       |
+|:---------------------------------------------------------------------------------------------------------|:-------------------------------------------|:------|
+| MD405 LEAMINGTON SPA JN TO COVENTRY SOUTH JN                                                             |                                            |       |
+| Milverton Jn                                                                                             |                                            |       |
+| Junction Margins                                                                                         |                                            |       |
+| First Movement                                                                                           | Second Movement                            | Value |
+| Up train passes from Kenilworth Loop                                                                     | Down train passes towards Kenilworth Loop  | 4 *   |
+| Up train passes from Kenilworth Loop                                                                     | Down train departs towards Kenilworth Loop | 2     |
+| * Margin is increased by 1 minute where both movements are freight                                       |                                            |       |
+| Planning Note                                                                                            |                                            |       |
+| The maximum standage at signal LN52 on the Up Kenilworth (clear of 236 points at Milverton Jn) is        |                                            |       |
+| 624meters/97SLUs to avoid fouling the single line to/from Kenilworth. This standage excludes stand-back  |                                            |       |
+| allowance.                                                                                               |                                            |       |
+|                                                                                                          |                                            |       |
+| The maximum standage at signal LN51 on the Down Kenilworth (clear of Leamington Spa North Jn) is         |                                            |       |
+| 731meters/114SLUs to avoid fouling Leamington Spa North Jn. This standage excludes stand-back allowance. |                                            |       |
+| Kenilworth Loop                                                                                          |                                            |       |
+| Junction Margins                                                                                         |                                            |       |
+| First Movement                                                                                           | Second Movement                            | Value |
+| Train from Gibbet Hill Jn arrives in the Up and                                                          | Passenger train passes from Milverton Jn   | 21⁄2  |
+| Down Loop                                                                                                |                                            |       |
+| Train from Gibbet Hill Jn arrives in the Up and                                                          | Freight train passes from Milverton Jn     | 31⁄2  |
+| Down Loop                                                                                                |                                            |       |
+| Train passes from Milverton Jn                                                                           | Train departs from the Up & Down Loop      | 1     |
+|                                                                                                          | towards Milverton Jn                       |       |
+| Train from Milverton Jn arrives in the Up and                                                            | Passenger train passes from Gibbet Hill Jn | 21⁄2  |
+| Down Loop                                                                                                |                                            |       |
+| Train from Milverton Jn arrives in the Up and                                                            | Freight train passes from Gibbet Hill Jn   | 31⁄2  |
+| Down Loop                                                                                                |                                            |       |

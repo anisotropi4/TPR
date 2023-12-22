@@ -1,0 +1,43 @@
+|                                                                                                      |                                     |                |
+|:-----------------------------------------------------------------------------------------------------|:------------------------------------|:---------------|
+| Lichfield North Jn                                                                                   |                                     |                |
+| Adjustments to Sectional Running Times                                                               |                                     |                |
+| Movement Down                                                                                        | Reason                              | Value          |
+| All Down trains crossing Down Slow to Down                                                           | Acceleration                        | 1⁄2 before 1⁄2 |
+| Fast not stopping at Lichfield Trent Valley Low                                                      |                                     | after*         |
+| Level                                                                                                |                                     |                |
+| *Does not apply to Class 0,4, 6 or 7 or passenger traction timed at 75mph or less                    |                                     |                |
+| Down train from Lichfield Trent Valley Chord towards Rugeley North Jn (not at Linespeed by Lichfield |                                     |                |
+| North Jn. Applies approaching next timing point after Lichfield North Jn)                            |                                     |                |
+| Passenger traction timed up to and including                                                         | Acceleration Allowance              | 11⁄2           |
+| 110 mph (includes XC 22x)                                                                            |                                     |                |
+| Passenger traction timed over 110mph and                                                             | Acceleration Allowance              | 2              |
+| Class 4 up to 600t (inclusive)                                                                       |                                     |                |
+| Class 4 over 800t                                                                                    | Acceleration Allowance              | 21⁄2           |
+| Class 6 up to 600t (inclusive)                                                                       | Acceleration Allowance              | 1              |
+| Class 6 800t                                                                                         | Acceleration Allowance              | 11⁄2           |
+| Class 6 1000t (inclusive) up to 1300t (inclusive)                                                    | Acceleration Allowance              | 2              |
+| Class 6 1300t (exclusive) up to 1800t                                                                | Acceleration Allowance              | 21⁄2           |
+| (inclusive)                                                                                          |                                     |                |
+| Class 6 over 1800t                                                                                   | Acceleration Allowance              | 3              |
+| Movement Up                                                                                          | Reason                              | Value          |
+| Up trains crossing Up Fast to Up Slow or                                                             | Approach Control                    | 1              |
+| routed towards the Lichfield Trent Valley Chord                                                      |                                     |                |
+| MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)                                                         |                                     |                |
+| Hanslope Jn                                                                                          |                                     |                |
+| See entry under route MD101 Euston to Armitage Jn (exclusive)                                        |                                     |                |
+| Courteenhall Jn                                                                                      |                                     |                |
+| Movement Down                                                                                        | Reason                              | Value          |
+| Pass to Northampton Gateway                                                                          | Flashing Yellow Aspects             | 1              |
+| Movement Up                                                                                          | Reason                              | Value          |
+| Trains that have passed from Northampton Gateway (applies approaching next timing point)             |                                     |                |
+| Freight up to 1235t (inclusive)                                                                      | Acceleration and running brake test | 3 #            |
+| Freight 1400t to 2000t                                                                               | Acceleration and running brake test | 21⁄2           |
+| Freight 2200t or greater                                                                             | Acceleration and running brake test | 11⁄2           |
+| All other timing loads                                                                               | Acceleration and running brake test | 1⁄2            |
+| # Additional {1⁄2} to be applied approaching next timing point after Hanslope Jn                     |                                     |                |
+| Junction Margins                                                                                     |                                     |                |
+| First Movement                                                                                       | Second Movement                     | Margin         |
+| Train to Northampton Gateway                                                                         | Pass to Hanslope Jn                 | 4              |
+| Pass to Hanslope Jn                                                                                  | Train to Northampton Gateway        | 5 # $          |
+| $ Reduced to 3 when the second movement has {1} (1) adjustment included                              |                                     |                |

@@ -1,0 +1,36 @@
+|                                               |                                                |               |
+|:----------------------------------------------|:-----------------------------------------------|:--------------|
+| Reading                                       |                                                |               |
+| A down train from Platform 12 towards Reading | An Up train from Down Feeder Relief towards    | 41⁄2 minutes  |
+| West Jn on Down Relief                        | Platform 15                                    |               |
+| A down train from Platform 13 towards Reading | An up train from Reading West Jn arriving at   | 4 minutes     |
+| West Jn                                       | Platforms 12/13                                |               |
+| A down train from Platform 14 towards Reading | An up train from Reading West Jn arriving at   | 4 minutes     |
+| West Jn                                       | Platforms 12 -14                               |               |
+| A down train from Platform 15 towards Reading | An up train from Reading West Jn arriving at   | 4 minutes     |
+| West Jn                                       | Platforms 12 -15                               |               |
+| A down train from Platforms 13-15 to Reading  | An up train from Reading West Jn to Platforms  | 4 minutes     |
+| Traincare Depot                               | 13-15                                          |               |
+| An up train from Platforms 12-15 towards      | A down train from Kennet Bridge Jn to Platform | Standard Jn   |
+| Kennet Bridge Jn                              | 15                                             | Margin matrix |
+|                                               |                                                | to apply at   |
+|                                               |                                                | Kennet        |
+|                                               |                                                | Bridge Jn     |
+| An up train from Platforms 15 towards Kennet  | A down train from Reading Southern Jn to       | 4 minutes     |
+| Bridge Jn                                     | Platforms 13-15                                |               |
+| An up train from Platforms 14 towards Kennet  | A down train from Kennet Bridge Jn to          | 4 minutes     |
+| Bridge Jn via Up Relief Line                  | Platforms 14/15 or Reading Southern Jn to      |               |
+|                                               | Platforms 13-15                                |               |
+| An up train from Platforms 13 towards Kennet  | A down train from Kennet Bridge Jn or Reading  | 4 minutes     |
+| Bridge Jn via Up Relief Line                  | Southern Jn to Platforms 13-15                 |               |
+| An up train from Platforms 12 towards Kennet  | A down train from Kennet Bridge Jn to Platform | Standard Jn   |
+| Bridge Jn                                     | 12                                             | Margin matrix |
+|                                               |                                                | to apply at   |
+|                                               |                                                | Kennet        |
+|                                               |                                                | Bridge Jn     |
+| An up train from Platforms 13-15 towards      | A down train from Kennet Bridge Jn to Platform | 4 minutes     |
+| Reading Southern Jn                           | 15                                             |               |
+| An up train from Platforms 13/14 towards      | A down train from Kennet Bridge Jn to Platform | 4 minutes     |
+| Reading Southern Jn                           | 14                                             |               |
+| A down train from Kennet Bridge Jn to         | An up train from Platform 12 to Kennet Bridge  | 1 minute      |
+| Platforms 13/14 via Down Relief               | Jn                                             |               |

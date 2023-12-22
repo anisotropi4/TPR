@@ -1,0 +1,41 @@
+|                                                                |           |        |       |                                    |
+|:---------------------------------------------------------------|:----------|:-------|:------|:-----------------------------------|
+| SO110 LONDON VICTORIA TO RAMSGATE (VIA HERNE HILL AND CHATHAM) |           |        |       |                                    |
+| LOCATION                                                       | DIRECTION | USABLE | NOTES |                                    |
+|                                                                |           | LENGTH |       |                                    |
+| SLU                                                            | METRES    |        |       |                                    |
+| Herne Hill Down Passenger Loop                                 | Down      | 27     | 173   |                                    |
+| Herne Hill Up Passenger Loop                                   | Up        | 28     | 179   |                                    |
+| Kent House Down Passenger Loop                                 | Down      | 56     | 358   |                                    |
+| Kent House Up Passenger Loop                                   | Up        | 62     | 397   |                                    |
+| Down Rochester Loop                                            | Down      | 116    | 745   |                                    |
+| Up Rochester Loop                                              | Up        | 51     | 328   |                                    |
+| Sittingbourne Down Platform Loop                               | Down      | 29     | 186   |                                    |
+| Sittingbourne Down Goods Loop                                  | Down      | 54     | 346   |                                    |
+| Faversham Down Passenger Loop                                  | Down      | 33     | 212   |                                    |
+| Faversham Up Passenger Loop                                    | Up        | 33     | 212   |                                    |
+| Margate Down Thanet Loop                                       | Down      | 40     | 256   |                                    |
+| Ramsgate Platform Loop                                         | Down      | 35     | 224   |                                    |
+| Ramsgate Platform Loop                                         | Up        | 35     | 224   |                                    |
+| SO130 LONDON CHARING CROSS TO DOVER (VIA TONBRIDGE)            |           |        |       |                                    |
+| LOCATION                                                       | DIRECTIO  | USABLE | NOTES |                                    |
+|                                                                | N         | LENGTH |       |                                    |
+| SLU                                                            | METRES    |        |       |                                    |
+| Hither Green Arrival Road (DGL)                                | Down      | 28     | 180   |                                    |
+| Hither Green Departure Road (UGL)                              | Up        | 33     | 212   |                                    |
+| Paddock Wood Down Passenger Loop                               | Down      | 37     | 237   |                                    |
+| Paddock Wood Up Passenger Loop                                 | Up        | 83     | 532   |                                    |
+| Tonbridge Down Loop                                            | Down      | 121    | 776   | Channel Tunnel Freight Traffic may |
+|                                                                |           |        |       | recess at this location            |
+| Tonbridge Up Fast                                              | Up        | 41     | 264   | Behind AD150 signal clear of       |
+|                                                                |           |        |       | Tonbridge East Junction            |
+| Tonbridge Up Fast                                              | Up        | 70     | 448   | Behind AD134 signal clear of       |
+|                                                                |           |        |       | Tonbridge East Junction            |
+| Tonbridge Up Loop                                              | Up        | 121    | 776   | Channel Tunnel Freight Traffic may |
+|                                                                |           |        |       | recess at this location            |
+| Cranmore Down Loop                                             | Down      | 117    | 749   | Channel Tunnel Freight Traffic may |
+|                                                                |           |        |       | recess at this location            |
+| Headcorn Up Goods Loop                                         | Up        | 117    | 749   | Channel Tunnel Freight Traffic may |
+|                                                                |           |        |       | recess at this location            |
+| Ashford Maidstone Loop                                         | Up/Down   | 114    | 728   | Clear of AD856 and AD857 via       |
+|                                                                |           |        |       | AD855 signals                      |

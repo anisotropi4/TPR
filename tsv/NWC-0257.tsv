@@ -1,0 +1,47 @@
+|                                                                                                                      |                                                 |               |
+|:---------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:--------------|
+| Princes Risborough                                                                                                   |                                                 |               |
+| Movement Up                                                                                                          | Reason                                          | Value         |
+| Pass Platform 2 (Up Princes Risborough Loop)                                                                         | Differential Junction speed                     | 2* Freight    |
+| to Up Main                                                                                                           |                                                 | 1* DMU        |
+| Pass from Down Main to Up Main                                                                                       | Differential Junction speed                     | 1⁄2           |
+| Arrive Platform 2 (Up Princes Risborough                                                                             | Approaching a red signal at Princes             | 1 Passenger   |
+| Loop) from Haddenham & Thame Parkway                                                                                 | Risborough                                      |               |
+| direction to be overtaken on Up Main or                                                                              |                                                 |               |
+| reverse to Aylesbury branch                                                                                          |                                                 |               |
+| Train terminating in platform 1 (bay platform)                                                                       | Slow turnout speed and approach to buffer stop  | 1⁄2           |
+| * Applies approaching next timing point after Princes Risborough                                                     |                                                 |               |
+| Connectional Allowance                                                                                               | 2                                               |               |
+| Junction Margins                                                                                                     |                                                 |               |
+| First Movement                                                                                                       | Second Movement                                 | Margin        |
+| Down train to Aylesbury branch                                                                                       | Up non-stop                                     | 31⁄2          |
+| Up train from Aylesbury branch                                                                                       | Up non-stop                                     | 31⁄2          |
+| Up train departing Platform 2 or train from                                                                          | Down train to Platform 2 or Aylesbury branch    | 4             |
+| Aylesbury branch                                                                                                     |                                                 |               |
+| Up non-stop                                                                                                          | Down train to Platform 2 or Aylesbury branch    | 31⁄2          |
+| Up non-stop                                                                                                          | Up train from Platform 2 or Aylesbury branch    | 2             |
+| Minimum Turnround Time – Trains changing direction at end of journey                                                 |                                                 |               |
+| Standard                                                                                                             | 3                                               |               |
+| Platform Reoccupation                                                                                                |                                                 |               |
+|                                                                                                                      | 4 Opposite                                      |               |
+| Planning Note                                                                                                        |                                                 |               |
+| For a train to be routed reversibly onto the Up Main the line must be clear to signal ME2029 at Bicester South Jn. A |                                                 |               |
+| subsequent train cannot be routed from Bicester South Jn onto the Up Main until the line is clear throughout to      |                                                 |               |
+| Princes Risborough.                                                                                                  |                                                 |               |
+|                                                                                                                      |                                                 |               |
+| A train is unable to leave Aylesbury towards Princes Risborough if a train is shunting between the bay platform      |                                                 |               |
+| and platform 2 and vice versa.                                                                                       |                                                 |               |
+| Haddenham and Thame Parkway                                                                                          |                                                 |               |
+| Adjustments to Sectional Running Times                                                                               |                                                 |               |
+| Movement Down                                                                                                        | Reason                                          | Value         |
+| Departing platform 2 at Princes Risborough                                                                           | Slow speed crossover north of Princes           | 1⁄2           |
+|                                                                                                                      | Risborough                                      |               |
+| Movement Up                                                                                                          | Reason                                          | Value         |
+| Departing Bicester Turnback siding and not                                                                           | Not passing Bicester North at line speed        | 1             |
+| stopping at Bicester North                                                                                           |                                                 |               |
+| Depart from Bicester North                                                                                           | Not passing Bicester South Jn at line speed     | 1⁄2 Class 168 |
+| Train that has come from Bicester Village                                                                            | Not passing Bicester South Jn at line speed     | 1             |
+| direction and passed Bicester South Jn                                                                               |                                                 |               |
+| Train that has come from Bicester Village                                                                            | Departing Bicester South Jn from standing start | 2             |
+| direction and stopped or been pathed                                                                                 |                                                 |               |
+| approaching Bicester South Jn                                                                                        |                                                 |               |

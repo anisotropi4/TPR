@@ -1,0 +1,51 @@
+|                                               |      |     |      |                                          |
+|:----------------------------------------------|:-----|:----|:-----|:-----------------------------------------|
+| NW1007 NANTWICH (EXCLUSIVE) TO CREWE SOUTH JN |      |     |      |                                          |
+| TIMING POINT                                  | DOWN | UP  | CODE | NOTES                                    |
+| Nantwich                                      | –    | –   |      | To/from Wrenbury – GW735 Refer to        |
+|                                               |      |     |      | Western and Wales Timetable Planning     |
+|                                               |      |     |      | Rules                                    |
+| Route Boundary: Wales/NW&C                    |      |     |      | 2 miles 60 chains                        |
+| Gresty Green Sidings Neck                     |      | –   | S    | TIPLOC: CREWGUN (TBC)                    |
+| Gresty Green West Jn                          | –    | –   |      | DTS – Down Through Siding                |
+| Gresty Green West Jn                          | DTS  |     |      | DSA – Down Siding Arrival                |
+|                                               | DSA  |     |      |                                          |
+| Gresty Green Sidings                          | –    | –   | S    | TIPLOC: CREWGGN                          |
+| Crewe PAD Gresty Lane Down                    | –    | –   | S    | TIPLOC: CREWPAD                          |
+| Sidings                                       |      |     |      |                                          |
+| Gresty Green Through Siding                   |      | –   | S    | To/from Gresty Green Sidings and Gresty  |
+|                                               |      |     |      | Green Sidings Neck                       |
+|                                               |      |     |      | TIPLOC: CREWGUL                          |
+| Gresty Green East Jn                          | –    | –   | X    | To/from Gresty Green Through Siding      |
+| Gresty Green East Jn                          |      |     |      | Timing point for all trains to Crewe PAD |
+|                                               |      |     |      | Platform detail must be shown            |
+|                                               |      |     |      | TIPLOC: CREWGGE                          |
+| Gresty Lane Signal GL9014                     | DTS  | DTS | S    | Timing point for moves between Gresty    |
+|                                               |      | DSA |      | Green Down Sidings East Junction on      |
+|                                               |      |     |      | DTS Platform & Crewe PAD Gresty Lane     |
+|                                               |      |     |      | Down Sidings                             |
+|                                               |      |     |      | TIPLOC: CREW914 (TBC)                    |
+| Gresty Lane Reception                         | DTA  | DSA | S    | Timing point for moves between Gresty    |
+|                                               |      |     |      | Green East Junction on DTA Platform      |
+|                                               |      |     |      | To/from Gresty Green Down Siding Arrival |
+|                                               |      |     |      | & Crewe PAD Gresty Lane Down Sidings     |
+|                                               |      |     |      | TIPLOC: CREWGLR                          |
+| Crewe Signal GL9021                           | –    |     | S    | Shunt signal for reverse moves           |
+|                                               |      |     |      | From Gresty Lane Down Sidings            |
+| Crewe Signal GL9023                           | –    |     | S    | To/From Gresty Road Western Sidings -    |
+|                                               |      |     |      | NW1013                                   |
+|                                               |      |     |      | Can be used for reverse moves from       |
+|                                               |      |     |      | Crewe D.H.S                              |
+| Gresty Lane Jn                                | –    | –   |      | To/from Crewe Pway Shops Yard            |
+|                                               |      |     |      | To/from Crewe Sorting Siding North SB –  |
+|                                               |      |     |      | NW1013                                   |
+|                                               |      |     |      | To/from Salop Goods Jn SB – NW1011       |
+| Crewe Pway Shops Yard                         | –    | –   | S    | TIPLOC: CREWPWS                          |
+| Crewe Signal GL9042                           |      | –   | S    | From Crewe D.H.S - NW1001                |
+| Down Salop Goods Loop                         | –    |     | S    | To/from Crewe D.H.S. – NW1001            |
+|                                               |      |     |      | TIPLOC: CREWEDL                          |
+| Crewe Signal CE110                            | –    | –   | S    | To/from Crewe D.H.S. – NW1001            |
+|                                               |      |     |      | TIPLOC: CREW110                          |
+| Crewe Signal CE551                            | –    |     | S    | To/from Crewe – NW1001                   |
+|                                               |      |     |      | TIPLOC: CREW551                          |
+| Crewe South Jn                                |      |     |      | To/from Crewe – NW1001                   |

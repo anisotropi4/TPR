@@ -1,0 +1,57 @@
+|                               |       |       |      |                                            |
+|:------------------------------|:------|:------|:-----|:-------------------------------------------|
+| GW103 PADDINGTON TO UFFINGTON |       |       |      |                                            |
+| TIMING POINT                  | DOWN  | UP    | CODE | NOTES                                      |
+| Maidenhead                    | ML RL | ML RL |      | Platform detail must be shown.             |
+|                               |       |       |      | To/from Bourne End – GW185                 |
+| Maidenhead Turnback Line      |       | URL   | S    |                                            |
+|                               |       | DRL   |      |                                            |
+| Maidenhead Carriage Sidings   |       | RL    | S    |                                            |
+| Ruscombe                      | RL    | ML    | X    |                                            |
+| Twyford Signal T1635          | RL    | RL    | S    | Shunting moves only                        |
+| Twyford                       | ML RL | RL ML |      | URL - To Twyford West                      |
+|                               | URL – |       |      | – Services going to Henley–on– Thames      |
+|                               |       |       |      | only                                       |
+|                               |       |       |      | Platform detail must be shown              |
+|                               |       |       |      | To/from Henley–on–Thames – GW187           |
+| Twyford West                  | ML RL | RL    | X    |                                            |
+| Kennet Bridge Loop            | RL    |       | S    |                                            |
+| Kennet Bridge Jn              | DML   | ML    |      | * Services going to Kennet Bridge Loop to  |
+|                               | DRL   | RL    |      | reverse                                    |
+|                               | URL   | DRL*  |      |                                            |
+| Reading New Jn                | DML   | –     | X    | To/from Reading Spur Jn GW190              |
+| Reading East Jn               |       |       |      | To/from Reading Southern Jn - GW195        |
+| Reading                       | ML RL | URL,  |      | Platform detail must be shown.             |
+|                               | – *   | DRL,  |      |                                            |
+|                               | WL    | UML,  |      | * Services going to Reading Train Care     |
+|                               | UFM   | DML   |      | Depot (direct or via Entrance C)           |
+|                               | DFR   | – $   |      | $ Services towards Reading Southern Jn     |
+|                               | FVL   |       |      | To/From Oxford Road Jn – GW500             |
+|                               | UPL   |       |      |                                            |
+| Reading Caversham Road Jn     |       |       |      | To/from Oxford Road Jn – GW225             |
+| Reading Signal T1732          |       | RL    | X    | Up Services on the Up Passenger Loop       |
+|                               |       |       |      | from direction of Reading West Jn or       |
+|                               |       |       |      | Reading Traincare Depot Entrance C to be   |
+|                               |       |       |      | timed here                                 |
+| Reading Train Care Depot      | –     | UPL   | S X  | Services to and from Reading Train Care    |
+| Entrance A                    |       |       |      | Depot to be timed here when entering or    |
+|                               |       |       |      | leaving the Depot using Entrance A         |
+| Reading Train Care Depot      | –     | UPL   | S X  | Services to and from Reading Train Care    |
+| Entrance C                    |       |       |      | Depot to be timed here when entering or    |
+|                               |       |       |      | leaving the Depot using Entrance C         |
+| Reading Train Care Depot      | –     | –     |      |                                            |
+| Reading High Level Jn         | ML    | ML    |      | Timing point on the Main Lines and         |
+|                               | FVL   | DML*  |      | Festival Line                              |
+|                               |       | FVL   |      | *Up trains via the down main to Platform 8 |
+|                               |       |       |      | or 9                                       |
+| Reading West Junction         | UPL   | UPL   |      | Timing point on the Relief Lines, Festival |
+|                               | RL    | RL    |      | Line and Up Passenger Loop                 |
+|                               |       | FVL   |      | To/from Oxford Road Jn  – GW220            |
+| Scours Lane                   | URL   | UPL   | X    | Trains crossing to/from the Up Passenger   |
+|                               |       |       |      | Loop and Reading Traincare Depot via       |
+|                               |       |       |      | Entrance ‘A’                               |
+| Tilehurst East Junction       | ML RL | RL    | X    |                                            |
+| Tilehurst                     | ML RL | ML RL | S    |                                            |
+| Pangbourne                    | RL    | RL    | S    |                                            |
+| Goring & Streatley            | ML RL | ML RL |      |                                            |
+| Cholsey                       | ML RL | ML RL | S    |                                            |

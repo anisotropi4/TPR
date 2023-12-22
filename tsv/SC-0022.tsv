@@ -1,0 +1,57 @@
+|                                                         |      |     |      |                                          |
+|:--------------------------------------------------------|:-----|:----|:-----|:-----------------------------------------|
+| SC001 GRETNA JUNCTION TO GLASGOW CENTRAL (VIA BEATTOCK) |      |     |      |                                          |
+| TIMING POINT                                            | DOWN | UP  | CODE | NOTES                                    |
+| Gretna Junction                                         | –    | –   |      | To/from Carlisle Refer to North West &   |
+|                                                         |      |     |      | Central Timetable Planning Rules  -      |
+|                                                         |      |     |      | NW4001                                   |
+|                                                         |      |     |      | To/from Annan – SC031                    |
+| Quintinshill                                            | –    | –   | S    | Up and Down Loops                        |
+| Route Boundary: NW&C/Scotland                           |      |     |      | 12 miles 30 chains                       |
+| Kirkpatrick Signal MC863                                | –    |     |      | Applies only in the DOWN direction       |
+| Cove Signal MC862                                       |      | –   |      | Applies only in the UP direction         |
+| Lockerbie DPL                                           | –    |     | S    |                                          |
+| Lockerbie                                               | –    | –   |      | Platform / line detail must be shown     |
+| Beattock                                                | –    | –   |      | Platform / line detail must be shown     |
+| Beattock Summit                                         | –    | –   |      | Platform / line detail must be shown     |
+| Abington                                                | –    | –   |      | Platform / line detail must be shown     |
+| Carstairs Signal GMC437                                 | –    |     | S    | Reversal location only                   |
+| Carstairs South Junction                                | –    | –   |      | To/from Carstairs East Junction – SC003  |
+| Carstairs                                               | –    | –   |      | To/from Carstairs East Junction – SC005  |
+|                                                         | PL   |     |      | Platform detail must be shown            |
+|                                                         | UPL  |     |      | Only trains routed through Carstairs     |
+|                                                         |      |     |      | platforms must be timed here             |
+| Carstairs Engine Line                                   | –    |     | S    |                                          |
+| Carstairs Engineering Sidings                           | –    |     | S    |                                          |
+| Carstairs Signal GMC420                                 |      | –   | S    | Reversal location for access to/from     |
+|                                                         |      |     |      | Engineering Siding or Engine Line only   |
+| Carstairs Signal GMC408                                 |      | –   | S    | Reversal location only                   |
+| Carstairs U.P.L.                                        |      | –   | S    |                                          |
+| Carstairs Down Siding                                   | –    |     | S    |                                          |
+| Carstairs D.P.L.                                        | –    | –   | S    |                                          |
+| Carstairs North Junction                                | –    | –   |      | To/from Carstairs East Junction – SC005  |
+|                                                         |      | PL  |      |                                          |
+|                                                         |      | UPL |      |                                          |
+| Carstairs Signal GMC412                                 |      | –   | S    | Reversal location only                   |
+| Carstairs Signal GMC410                                 | –    |     | S    | Reversing point                          |
+| Ravenstruther Terminal                                  | –    | –   | F    |                                          |
+| Lanark Junction                                         | –    | –   |      | To/From Lanark SC009                     |
+| Carluke                                                 | –    | –   | S    |                                          |
+| Law Jn D.P.L.                                           | –    |     | S    |                                          |
+| Law Jn U.P.L.                                           |      | –   | S    | Access from SC011 only                   |
+|                                                         |      |     |      | Trains timed here should not be timed at |
+|                                                         |      |     |      | Law Junction                             |
+| Law Junction                                            |      |     |      | To/from Wishaw SC011                     |
+| Shieldmuir Royal Mail Terminal                          | –    | –   | S    |                                          |
+| Shieldmuir                                              | –    | –   |      | To/from Wishaw Central Junction SC013    |
+|                                                         |      |     |      | Platform detail must be shown            |
+| Dalzell B.S.C.                                          | –    | –   | F    |                                          |
+| Motherwell UGL (Dalzell)                                | –    | –   | F    |                                          |
+| Motherwell                                              | –    | –   |      | To/from Airbles – SC023                  |
+|                                                         |      |     |      | To/from Mossend South Junction – SC093   |
+|                                                         |      |     |      | Platform detail must be shown            |
+| Uddingston Junction                                     | –    | –   |      | To/from Mossend West Junction SC011      |
+| Uddingston                                              | –    | –   | S    |                                          |
+| Newton East Junction                                    | –    | –   |      |                                          |
+| Newton West Junction                                    | –    | –   |      |                                          |
+| Cambuslang                                              | –    | –   | S    |                                          |

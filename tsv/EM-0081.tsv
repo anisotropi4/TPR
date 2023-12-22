@@ -1,0 +1,48 @@
+|                                                |                                                                                        |                                    |
+|:-----------------------------------------------|:---------------------------------------------------------------------------------------|:-----------------------------------|
+| Derby                                          |                                                                                        |                                    |
+| Adjustment to Sectional Running Times          |                                                                                        |                                    |
+| Movement                                       | Reason                                                                                 | Value                              |
+| Entering an occupied platform                  | Approach control                                                                       | 1*                                 |
+|                                                |                                                                                        | *to be applied approaching Way &   |
+|                                                |                                                                                        | Works Junction if approaching from |
+|                                                |                                                                                        | Spondon direction                  |
+| Attachment/detachment of Locomotives/Units     |                                                                                        |                                    |
+| EMR DMU/222                                    | 5 detach rear                                                                          |                                    |
+|                                                | 6 attach rear                                                                          |                                    |
+|                                                | 10 attach/detach front                                                                 |                                    |
+| Connectional Allowance                         | 6                                                                                      |                                    |
+| Dwell Time                                     |                                                                                        |                                    |
+| Without reversing                              |                                                                                        |                                    |
+| DMU                                            | 11⁄2                                                                                   |                                    |
+| 22x                                            | 2                                                                                      |                                    |
+| With reversing                                 |                                                                                        |                                    |
+| EMR DMU                                        | 4                                                                                      |                                    |
+| 222                                            | 7                                                                                      |                                    |
+| Minimum Turnround                              |                                                                                        |                                    |
+| From Matlock                                   | 6 Subject to a total round-trip allowance of 15 minutes. This may be reduced to 12     |                                    |
+|                                                | minutes providing that it is not applied to successive round trips in the same diagram |                                    |
+| Under 45 miles journey                         | 10                                                                                     |                                    |
+| Over 45 miles journey                          | 20                                                                                     |                                    |
+| CrossCountry and EMR                           | 15 Single unit of less than 7 vehicles                                                 |                                    |
+| from Barton-under-                             | 20 Single or multiple units in excess of 7 vehicles                                    |                                    |
+| Needwood CMD, EMR                              |                                                                                        |                                    |
+| from Derby Etches Park                         |                                                                                        |                                    |
+| Platform End Conflicts                         |                                                                                        |                                    |
+| First Movement                                 | Second Movement                                                                        | Margin                             |
+| Arrive from Spondon direction                  | Arrive from L & NW Jn direction                                                        | 2                                  |
+| Arrive from L & NW Jn direction                | Arrive from Spondon direction                                                          | 2                                  |
+| Arrive into Platform 3 from L & NW Jn          | Arrive into Platform 4 from Way & Works Jn via                                         | Parallel                           |
+|                                                | UML                                                                                    |                                    |
+| Arrive into Platform 4 from Way & Works Jn via | Arrive into Platform 3 from L & NW Jn                                                  | Parallel                           |
+| UML                                            |                                                                                        |                                    |
+| Depart towards Spondon                         | Arrive from Spondon direction (conflicting at                                          | 4                                  |
+|                                                | London Road Jn)                                                                        |                                    |
+| Depart towards Spondon                         | Arrive from L & NW Jn direction                                                        | 4                                  |
+| Depart towards L & NW Jn                       | Arrive from L & NW Jn direction                                                        | 4                                  |
+| Depart towards L & NW Jn                       | Arrive from Spondon direction                                                          | 4                                  |
+| Depart towards St Mary’s South Jn              | Arrive from St Mary’s South Jn direction                                               | 3                                  |
+| Depart towards Spondon                         | Depart towards L & NW Jn                                                               | 2                                  |
+| Depart towards L & NW Jn                       | Depart towards Spondon                                                                 | 2                                  |
+| Arrival from Spondon direction or              | Arrival from St Mary’s South Jn direction into                                         | 5                                  |
+| L & NW Jn direction into Platform 3 or 4       | Platform 3 or 4                                                                        |                                    |

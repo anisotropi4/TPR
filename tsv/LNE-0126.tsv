@@ -1,0 +1,42 @@
+|                                       |                                                  |              |
+|:--------------------------------------|:-------------------------------------------------|:-------------|
+| Potters Bar                           |                                                  |              |
+| Movement Down                         | Reason                                           | Value        |
+| Alexandra Palace to Potters Bar       | DF to DS pass to pass and pass to stop;          | 1⁄2          |
+|                                       | approach control and differential junction speed |              |
+|                                       | DS to DF pass to pass and pass to stop;          | 1⁄2 EMU      |
+|                                       | approach control and differential junction speed | 1HST/LH/     |
+|                                       |                                                  | 180 /225/80X |
+| Potters Bar to Welwyn Garden City     | DF to DS pass to pass and pass to stop           | 1            |
+|                                       | DS to DF pass to pass                            | 1 EMU/180    |
+|                                       |                                                  | 11⁄2 HST/LH/ |
+|                                       |                                                  | 225/80X      |
+| Movement Up                           | Reason                                           | Value        |
+| Welwyn Garden City to Potters Bar     | UF to US pass to pass; approach control and      | 1            |
+|                                       | differential junction speed                      |              |
+|                                       | US to UF pass to pass; approach control and      | 1            |
+|                                       | differential junction speed                      |              |
+| Potters Bar to Alexandra Palace       | UF to US pass to pass                            | 1            |
+|                                       | US to UF pass to pass                            | 1⁄2 EMU/180  |
+|                                       |                                                  | 1 HST/LH/    |
+|                                       |                                                  | 225/80X      |
+| Junction Margins                      |                                                  |              |
+| First Movement                        | Second Movement                                  | Margin       |
+| Down train to cross to SL             | Before next fast train passes Down Fast          | 21⁄2         |
+| Up train cross UFL to USL             | Before next fast train passes                    | 21⁄2         |
+| Pass UFL                              | Depart USL to UFL                                | 11⁄2         |
+| Pass UFL                              | Pass USL to UFL                                  | 21⁄2         |
+| Pass DFL                              | Depart DSL to DFL                                | 11⁄2         |
+| Pass DFL                              | Pass DSL to DFL                                  | 2            |
+| Marshmoor Crossover                   |                                                  |              |
+| Junction Margins                      |                                                  |              |
+| First Movement                        | Second Movement                                  | Margin       |
+| Up train arrive Welham Green          | Pass USL to UFL                                  | 3            |
+| Up Fast Potters Bar                   | Pass USL to UFL                                  | Same time    |
+| Hatfield                              |                                                  |              |
+| Junction Margins                      |                                                  |              |
+| First Movement                        | Second Movement                                  | Margin       |
+| Cross to USL at Hatfield North        | Before next train passes Welwyn Garden City      | 11⁄2         |
+| Down fast pass Welwyn G.C.            | Pass DSL to DFL                                  | 1            |
+| Welwyn Garden City                    |                                                  |              |
+| Adjustment to sectional running times |                                                  |              |

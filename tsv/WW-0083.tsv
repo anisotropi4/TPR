@@ -1,0 +1,49 @@
+|                                 |       |        |                                                      |
+|:--------------------------------|:------|:-------|:-----------------------------------------------------|
+| GW108 FORDGATE TO PENZANCE      |       |        |                                                      |
+| Burngullow to Grampound Road    | AB+1  |        |                                                      |
+| Signal CL5883                   |       |        |                                                      |
+| Grampound Road Signal CL5883    | AB+1  |        |                                                      |
+| to Buckshead Tunnel Signal      |       |        |                                                      |
+| CL5893                          |       |        |                                                      |
+| Buckshead Tunnel Signal CL5893  | AB+1* |        | *Based on preceding train arrive/pass Truro          |
+| to Truro                        |       |        |                                                      |
+| Truro to Penwithers Junction    | AB+1  |        |                                                      |
+| Penwithers Jn to Chacewater     | AB+2  |        |                                                      |
+| Signal R31                      |       |        |                                                      |
+| Chacewater Signal R31 to        | AB+2  |        |                                                      |
+| Redruth Signal R27              |       |        |                                                      |
+| Redruth Signal R27 to Camborne  | AB+2* |        | *Based on preceding train arrive/pass Camborne       |
+| Camborne to Hayle Signal R19    | AB+2  |        |                                                      |
+| Hayle Signal R19 to St Erth     | AB+2* |        | *Based on preceding train depart/pass St Erth        |
+| St. Erth to Penzance            | AB+2  |        |                                                      |
+| Penzance to Long Rock           |       | AB+2   | At Long Rock it is possible for an up train to clear |
+|                                 |       |        | the single line standing at signal PZ64.             |
+| Long Rock to St. Erth           |       | AB+2   | Absolute Block to apply based on departure from      |
+|                                 |       |        | St. Erth.                                            |
+| St Erth to Gwinear Road Signal  |       | AB+2   |                                                      |
+| R6                              |       |        |                                                      |
+| Gwinear Road Signal R6 to       |       | AB+2   | Absolute Block to apply based on departure from      |
+| Camborne                        |       |        | Camborne                                             |
+| Camborne to Redruth Signal R10  |       | AB+2   |                                                      |
+| Redruth Signal R10 to           |       | AB+2   |                                                      |
+| Chacewater Signal R14           |       |        |                                                      |
+| Chacewater Sig R14 to           |       | AB+1   |                                                      |
+| Penwithers Jn                   |       |        |                                                      |
+| Penwithers Jn to Truro          |       | AB+2*  | *Based on preceding train depart/pass Truro          |
+| Truro to Probus Signal CL5884   |       | AB+1   |                                                      |
+| Probus Signal CL5884 to         |       | AB+1⁄2 |                                                      |
+| Burngullow Junction             |       |        |                                                      |
+| Burngullow Jn to St Austell     |       | AB+1*  | *Based on preceding train depart/pass St Austell     |
+| St Austell to Par               |       | AB+1*  | *Based on preceding train arrive/pass Par            |
+| Par to Lostwithiel              |       | 4*     | *5 minutes following freight                         |
+| Lostwithiel to Bodmin Parkway   |       | AB+0   | *Based on preceding train depart/pass Bodmin         |
+|                                 |       |        | Parkway                                              |
+| Bodmin Parkway to Largin Jn     |       | AB+1   |                                                      |
+| Largin Jn to Liskeard           |       | AB+2*  | *Based on preceding train depart/pass Liskeard       |
+| Liskeard to Menheniot Signal    |       | AB+2   |                                                      |
+| UM259                           |       |        |                                                      |
+| Menheniot Signal UM259 to St.   |       | AB+2   |                                                      |
+| Germans                         |       |        |                                                      |
+| St. Germans to Saltash          |       | AB+2   |                                                      |
+| Saltash to St. Budeaux Junction |       | AB+2   | Single line                                          |

@@ -1,0 +1,44 @@
+|                                                                                                               |                                                |                   |
+|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------|
+| Par                                                                                                           |                                                |                   |
+| Down arrive/pass platform 3                                                                                   | Up arrive platform 2                           | 3                 |
+| Platform Reoccupation                                                                                         | 4                                              |                   |
+| Dwell Time                                                                                                    |                                                |                   |
+| 80x                                                                                                           | 11⁄2                                           |                   |
+| Class 15x                                                                                                     | 1                                              |                   |
+| Class 22x                                                                                                     | 11⁄2                                           |                   |
+| St. Austell                                                                                                   |                                                |                   |
+| Adjustment to Sectional Running Time                                                                          |                                                |                   |
+| Movement                                                                                                      | Reason                                         | Value             |
+| Up train arrive with section ahead occupied                                                                   | Cautionary signal aspect                       | {1}               |
+| Dwell Time                                                                                                    |                                                |                   |
+| Class 15x                                                                                                     | 1                                              |                   |
+| Class 22x / 80x Class 1 services                                                                              | 11⁄2                                           |                   |
+| Burngullow Junction                                                                                           |                                                |                   |
+| Adjustment to Sectional Running Times                                                                         |                                                |                   |
+| Movement                                                                                                      | Reason                                         | Value             |
+| Down pass to Burngullow Yard or                                                                               | Approach control                               | {1}               |
+| Treviscoe                                                                                                     |                                                |                   |
+| Up pass from Burngullow Yard or Treviscoe                                                                     | Acceleration                                   | {1} approaching   |
+|                                                                                                               |                                                | next timing point |
+| Truro                                                                                                         |                                                |                   |
+| Adjustment to Sectional Running Times                                                                         |                                                |                   |
+| Movement                                                                                                      | Reason                                         | Value             |
+| Up arrive platform 1 or platform 2 from                                                                       | Slow speed crossover                           | {1⁄2}             |
+| Penwithers Jn                                                                                                 |                                                |                   |
+| Up arrive/pass platform 3 via Down Main from                                                                  | Slow speed crossover                           | {1⁄2}             |
+| Penwithers Jn                                                                                                 |                                                |                   |
+| Platform end conflicts                                                                                        |                                                |                   |
+| First Movement                                                                                                | Second Movement                                | Margin            |
+| Train arriving or departing from Falmouth into                                                                | Down Train arriving/passing through platform 2 | 3                 |
+| the down bay (platform 1).                                                                                    | (Down main)                                    |                   |
+| Platform Re-occupation                                                                                        | 4                                              |                   |
+| Dwell Time                                                                                                    |                                                |                   |
+| 80x                                                                                                           | 2                                              |                   |
+| Class 15x                                                                                                     | 1                                              |                   |
+| Class 22x                                                                                                     | 2                                              |                   |
+| Maximum Dwell Time                                                                                            |                                                |                   |
+| Up direction - 3 minutes*^                                                                                    |                                                |                   |
+| *To minimise level crossing barrier down time Up trains stopping at Truro are to be advertised earlier by the |                                                |                   |
+| amount of recovery / pathing allowances between the previous stop and Truro.                                  |                                                |                   |
+| ^Does not apply to terminating services.                                                                      |                                                |                   |

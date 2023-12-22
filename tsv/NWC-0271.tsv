@@ -1,0 +1,23 @@
+|                                              |                                              |               |
+|:---------------------------------------------|:---------------------------------------------|:--------------|
+| Colwich Jn                                   |                                              |               |
+| Adjustments to Sectional Running Times       |                                              |               |
+| Movement Down                                | Reason                                       | Value         |
+| Down train towards Stone                     | Approach Control                             | 1⁄2 Class 390 |
+|                                              |                                              | 1 All except  |
+|                                              |                                              | Class 390     |
+| Stafford Trent Valley Jn                     |                                              |               |
+| Adjustments to Sectional Running Times       |                                              |               |
+| Movement Down                                | Reason                                       | Value         |
+| Down Slow or Down Penkridge to Platform 6    | Approach Control                             | 1 approach    |
+|                                              |                                              | Stafford TVJ  |
+| Movement Up                                  | Reason                                       | Value         |
+| Stafford Goods Loop or platform 6 to Up Slow | Acceleration                                 | 1⁄2 approach  |
+| or Up Penkridge                              |                                              | Stafford TVJ  |
+| Stafford South Jn                            |                                              |               |
+| Junction Margins                             |                                              |               |
+| First movement                               | Second movement                              | Value         |
+| Train crosses Down Slow to Down Fast at      | Train crosses Up Fast to Up Slow at Stafford | 21⁄2          |
+| Stafford South Jn                            | South Jn                                     |               |
+| Train crosses Down Slow to Down Fast at      | Pass / depart Stafford platform 4 towards    | 1             |
+| Stafford South Jn                            | Colwich or Penkridge                         |               |

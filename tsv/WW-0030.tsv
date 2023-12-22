@@ -1,0 +1,55 @@
+|                                   |      |    |      |                                         |
+|:----------------------------------|:-----|:---|:-----|:----------------------------------------|
+| GW108 FORDGATE TO PENZANCE        |      |    |      |                                         |
+| TIMING POINT                      | DOWN | UP | CODE | NOTES                                   |
+|                                   |      |    |      | Platform detail must be shown           |
+| Lipson Junction                   | –    | –  |      | To/from Mount Gould Jn – GW630          |
+| Plymouth                          | –    | –  |      | Platform detail must be shown.          |
+| Devonport                         | –    | –  | S    | Platform detail must be shown.          |
+| Dockyard                          | –    | –  | S    | Platform detail must be shown.          |
+| Keyham                            | –    | –  | S    | Platform detail must be shown.          |
+| Dockyard Junction                 |      |    |      |                                         |
+| St. Budeaux Junction              | –    | –  |      | To/from St Budeaux Victoria Road –      |
+|                                   |      |    |      | GW637                                   |
+| St. Budeaux Ferry Road            | –    | –  | S    | Platform detail must be shown.          |
+| Saltash                           | –    | –  |      | Platform detail must be shown.          |
+| St Germans                        | –    | –  |      | Platform detail must be shown.          |
+|                                   |      |    |      | Timing point can be omitted from a ‘150 |
+|                                   |      |    |      | TIPLOC’ schedule                        |
+| Menheniot Signal UM259            |      | –  |      | Timing point in up direction            |
+|                                   |      |    |      | Timing point can be omitted from a ‘150 |
+|                                   |      |    |      | TIPLOC’ schedule                        |
+| Menheniot Signal DM260            | –    |    |      | Timing point in down direction          |
+|                                   |      |    |      | Timing point can be omitted from a ‘150 |
+|                                   |      |    |      | TIPLOC’ schedule                        |
+| Menheniot                         | –    | –  | S    | Platform detail must be shown.          |
+| Liskeard                          | –    | –  |      | To/from Coombe No.1 GF – GW640          |
+|                                   |      |    |      | Platform detail must be shown           |
+| Liskeard Signal 9                 |      | –  | S    |                                         |
+| St Pinnock Jn                     | –    | –  |      |                                         |
+| Largin Jn                         | –    | –  |      |                                         |
+| Bodmin Parkway                    | –    | –  |      | Platform detail must be shown           |
+| Lostwithiel Down Goods Loop       | –    | –  | S    |                                         |
+| Lostwithiel Up Goods Loop         | –    | –  | S    |                                         |
+| Lostwithiel                       | –    | –  |      | Platform detail must be shown.          |
+| Lostwithiel Fowey Branch Junction |      |    |      | To/from Fowey Dock – GW650              |
+| Par Down Loop                     | –    |    | S    |                                         |
+| Par Signal CL7627                 | –    |    | S    |                                         |
+| Par Liner Siding                  |      | –  | S    |                                         |
+| Par                               | –    | –  |      | To/from St Blazey SB – GW660            |
+|                                   |      |    |      | Platform detail must be shown.          |
+| Par Chapel Siding                 |      | –  | S    |                                         |
+| Par Signal CL7626                 |      | –  | S    |                                         |
+| St. Austell Signal CL5855         | –    |    | S    |                                         |
+| St. Austell                       | –    | –  |      | Platform detail must be shown           |
+| Burngullow Junction               | –    | –  |      | To/from Parkandillack – GW672           |
+| Grampound Road Signal             | –    |    |      | Timing point in down direction          |
+| CL5883                            |      |    |      |                                         |
+| Probus Signal CL5884              |      | –  |      | Timing point in up direction            |
+| Buckshead Tunnel Signal           | –    |    |      | Timing point in down direction          |
+| CL5893                            |      |    |      |                                         |
+| Truro Signal CL5895               | –    |    | S    |                                         |
+| Truro                             | –    | –  |      | Platform detail must be shown           |
+| Truro Yard                        | –    |    | S    |                                         |
+| Truro Signal CL5908               |      | –  | S    |                                         |
+| Truro Signal CL5910               |      | –  | S    |                                         |

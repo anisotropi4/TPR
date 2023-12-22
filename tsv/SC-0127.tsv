@@ -1,0 +1,42 @@
+|                                                                                                                  |                                             |        |
+|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------|:-------|
+| SC087 NEWTON JUNCTION TO MAUCHLINE (GOODS LINE)                                                                  |                                             |        |
+| Annbank                                                                                                          |                                             |        |
+| Junction Margins                                                                                                 |                                             |        |
+| First Movement                                                                                                   | Second Movement                             | Margin |
+| Train arrives at Ayr Signal 334/Mauchline                                                                        | Train from Killoch Colliery departs Annbank | 10     |
+| Train departs to Killoch Colliery*                                                                               | Second train departs to Killoch Colliery    | 46     |
+| Train arrives from Killoch Colliery*                                                                             | Second train departs from Killoch Colliery  | 66     |
+| Train departs to Newton Junction*                                                                                | Second train departs from Killoch Colliery  | 66     |
+| * These times reflect a trial Method of Working on the Killoch Branch (until further notice)                     |                                             |        |
+| Operating Stop                                                                                                   |                                             |        |
+| 8 minutes.  Trains running to/from Killoch Colliery for purposes of token exchange and ground frame operation.   |                                             |        |
+| Restriction                                                                                                      |                                             |        |
+| Trains from Killoch Colliery cannot proceed on to the Mauchline to Newton Junction branch until previous trains  |                                             |        |
+| to/from Newton Junction/Mauchline have run clear of the branch and handed in their token, i.e. 2 minutes after   |                                             |        |
+| departure of the first train at Signal PA334/Mauchline.  Also, trains cannot proceed from Newton Junction or     |                                             |        |
+| Mauchline toward Annbank if a train to/from Killoch Colliery is in the section between Annbank and Newton        |                                             |        |
+| Junction                                                                                                         |                                             |        |
+| Ayr Signal PA335/PA334 (Mauchline to Newton Junction Branch)                                                     |                                             |        |
+| Operating Stop                                                                                                   |                                             |        |
+| 2 minutes.  Trains running to/from Mauchline for purposes of token exchange.                                     |                                             |        |
+| Restriction                                                                                                      |                                             |        |
+| Trains travelling from Newton Junction towards Annbank/Mauchline must not be allowed on to the Branch to stand   |                                             |        |
+| at Signal PA335, awaiting acceptance from Mauchline SB.  Trains standing at Signal PA335 for the purposes of     |                                             |        |
+| operating the token instrument must not be planned to exceed the 2 minutes allowed for this activity.            |                                             |        |
+| Trains travelling to Killoch Colliery must not be allowed on to the Branch until the previous train to Mauchline |                                             |        |
+| Junction has run clear of the Branch and handed in the token, i.e. 2 minutes after arrival of the first train at |                                             |        |
+| Mauchline.                                                                                                       |                                             |        |
+| SC089 ANNBANK TO KILLOCH COLLIERY                                                                                |                                             |        |
+| Killoch                                                                                                          |                                             |        |
+| Note: These times reflect a trial Method of Working on the Killoch Branch (until further notice)                 |                                             |        |
+| Junction Margins                                                                                                 |                                             |        |
+| First Movement                                                                                                   | Second Movement                             | Margin |
+| Train arrives from Annbank                                                                                       | Second train departs from Annbank           | 46     |
+| Train arrives from Annbank                                                                                       | Train departs from Killoch to Annbank       | 16     |
+| Train departs to Annbank                                                                                         | Second train departs to Annbank             | 112    |
+| Operating Stop                                                                                                   |                                             |        |
+| 8 minutes.  Trains running to/from Annbank for purposes of token exchange and ground frame operation.            |                                             |        |
+| Restriction                                                                                                      |                                             |        |
+| See Sectional Appendix SC089 for Local Instructions regarding trains working the Killoch Branch                  |                                             |        |
+| Terminal Time                                                                                                    | 3 hrs                                       |        |

@@ -1,0 +1,31 @@
+|                                                        |                                                                          |           |
+|:-------------------------------------------------------|:-------------------------------------------------------------------------|:----------|
+| Baldock                                                |                                                                          |           |
+| Dwell Time                                             |                                                                          |           |
+| EMU                                                    | 1 Up peak trains arriving St Pancras Low Level / King’s Cross / Moorgate |           |
+|                                                        | between 0700 –0959 SX which run non-stop between Hitchin or Stevenage    |           |
+|                                                        | and Finsbury Park                                                        |           |
+| Junction Margins                                       |                                                                          |           |
+| First Movement                                         | Second Movement                                                          | Margin    |
+| Depart Up platform                                     | Arrive up platform from Down                                             | 31⁄2      |
+| Up fast pass Letchworth                                | Arrive up platform from Down                                             | 1⁄2       |
+| Up fast arrive Letchworth                              | Arrive up platform from Down                                             | same time |
+| Royston                                                |                                                                          |           |
+| Dwell Time                                             |                                                                          |           |
+| EMU                                                    | 1                                                                        |           |
+| Junction Margins                                       |                                                                          |           |
+| First Movement                                         | Second Movement                                                          | Margin    |
+| All crossing margins at south end                      |                                                                          | 31⁄2      |
+| All crossing margins at north end                      |                                                                          | 4         |
+| Arrive Platform 2 from Cambridge                       | Depart Platform 1 to Cambridge                                           | 1         |
+| Arrive Platform 1 from Letchworth Garden City          | Depart Platform 2 to Letchworth Garden City                              | 1         |
+| Pass/Depart Up not calling at Ashwell                  | Depart Up calling at Ashwell                                             | 3         |
+| Platform Re-occupation in the same direction 3 minutes |                                                                          |           |
+| Adjustments to Sectional Running Times                 |                                                                          |           |
+| Movement Up                                            | Reason                                                                   | Value     |
+| Shepreth Branch Junction to Royston                    | Arrive from Up Cambridge into platform 2 or                              | 1⁄2       |
+|                                                        | attaching to unit already in platform 1;                                 |           |
+|                                                        | approach control                                                         |           |
+| Movement Down                                          | Reason                                                                   | Value     |
+| Royston to Shepreth Branch Junction                    | Platform 1 to Down Cambridge;                                            | 1⁄2       |
+|                                                        | differential junction speed                                              |           |

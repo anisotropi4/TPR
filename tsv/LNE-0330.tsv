@@ -1,0 +1,50 @@
+|                                                                  |      |     |    |         |                                       |
+|:-----------------------------------------------------------------|:-----|:----|:---|:--------|:--------------------------------------|
+| LN170 WERRINGTON JUNCTION TO FLYOVER EAST JUNCTION (VIA LINCOLN) |      |     |    |         |                                       |
+| Timing Section                                                   | Type | LH  | MU | Freight | Remarks                               |
+|                                                                  |      | HST | LL |         |                                       |
+|                                                                  |      | 80X |    |         |                                       |
+|                                                                  |      | EPU |    |         |                                       |
+|                                                                  |      | 22X |    |         |                                       |
+| Down – Weekdays                                                  |      |     |    |         |                                       |
+| Approach Spalding                                                | E    | 1   | 1  | 1       | Terminating trains only               |
+| Approach Sleaford South Jn                                       | E    | 1   | 1  | 1       |                                       |
+| Approach Pelham Street Jn                                        | E    | 1   | 1  | 1       |                                       |
+| Approach Gainsborough Trent Jn                                   | E    | 1   | 1  | 1       | Trains to Doncaster only              |
+| Approach Bessacarr Junction                                      | E    | 1   | 1  | 1       |                                       |
+| Up – Weekdays                                                    |      |     |    |         |                                       |
+| Approach Gainsborough Trent Jn                                   | E    | 1   | 1  | 1       |                                       |
+| Approach Lincoln Pyewipe Jn                                      | P    |     | 1  |         | Trains from Sheffield route direction |
+|                                                                  | E    | 1   | 1  | 1       |                                       |
+| Approach Sleaford North Jn                                       | E    | 1   | 1  | 1       |                                       |
+| Approach Spalding                                                | E    | 1   | 1  | 1       |                                       |
+| Approach Glinton Junction                                        | E    | 1   | 1  | 1       |                                       |
+| LN185 ALLINGTON WEST JUNCTION TO SKEGNESS                        |      |     |    |         |                                       |
+| Timing Section                                                   | Type | LH  | MU | Freight | Remarks                               |
+|                                                                  |      | HST | LL |         |                                       |
+|                                                                  |      | EPU |    |         |                                       |
+|                                                                  |      | 22X |    |         |                                       |
+| Down – Weekdays                                                  |      |     |    |         |                                       |
+| Approach Skegness                                                | E    | 1   | 1  | 1       |                                       |
+| Up – Weekdays                                                    |      |     |    |         |                                       |
+| Approach Sleaford                                                | E    | 1   | 1  | 1       | Trains from Boston direction          |
+| LN200 WRAWBY JUNCTION TO PELHAM STREET JUNCTION                  |      |     |    |         |                                       |
+| Timing Section                                                   | Type | LH  | MU | Freight | Remarks                               |
+|                                                                  |      | HST | LL |         |                                       |
+|                                                                  |      | EPU |    |         |                                       |
+|                                                                  |      | 22X |    |         |                                       |
+| Down – Weekdays                                                  |      |     |    |         |                                       |
+| Approach Pelham Street Junction                                  | E    | 1   | 1  | 1       |                                       |
+| Up – Weekdays                                                    |      |     |    |         |                                       |
+| Approach Wrawby Junction                                         | E    | 1   | 1  | 1       |                                       |
+| LN206 NEWARK FLAT CROSSING (INCLUSIVE) TO WEST HOLMES JUNCTION   |      |     |    |         |                                       |
+| Timing Section                                                   | Type | LH  | MU | Freight | Remarks                               |
+|                                                                  |      | HST | LL |         |                                       |
+|                                                                  |      | 80X |    |         |                                       |
+|                                                                  |      | EPU |    |         |                                       |
+|                                                                  |      | 22X |    |         |                                       |
+| Down – Weekdays                                                  |      |     |    |         |                                       |
+| Approach Boultham Junction                                       | E    | 1   | 1  | 1       |                                       |
+| Up – Weekdays                                                    |      |     |    |         |                                       |
+| Approach Newark Crossing East                                    | E    | 1   | 1  | 1       |                                       |
+| Junction                                                         |      |     |    |         |                                       |

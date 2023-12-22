@@ -1,0 +1,37 @@
+|                                                                               |                                      |                       |       |
+|:------------------------------------------------------------------------------|:-------------------------------------|:----------------------|:------|
+| Holyhead Rio Tinto Sidings                                                    |                                      |                       |       |
+| Access is only available from the Up Mainline i.e. Down trains RR in Holyhead |                                      |                       |       |
+| Holyhead dep                                                                  | XX.00                                | Rio Tinto Sidings dep | XX.00 |
+| Holyhead Signal 107 arr                                                       | XXOP06#                              | Valley                | XX/11 |
+| Holyhead Signal 107 dep                                                       | XXOP10                               |                       |       |
+| Rio Tinto Sidings arr                                                         | XX.15                                |                       |       |
+| # Stops and sets back into yard                                               |                                      |                       |       |
+| Holyhead                                                                      |                                      |                       |       |
+| Connectional Allowance                                                        | 30*                                  |                       |       |
+| * - between train and shipping services only.                                 |                                      |                       |       |
+| Platform End Conflicts                                                        | 4 Between departure and next arrival |                       |       |
+| Train Watering Points                                                         | Fixed watering point available       |                       |       |
+| NW3015 LLANDUDNO JUNCTION TO BLAENAU FFESTINIOG                               |                                      |                       |       |
+| Llandudno Junction                                                            |                                      |                       |       |
+| See entry under NW3001 – SHOTTON (LOW LEVEL) TO HOLYHEAD                      |                                      |                       |       |
+| Glan Conwy                                                                    |                                      |                       |       |
+| Dwell Time                                                                    |                                      |                       |       |
+| LH                                                                            | -                                    |                       |       |
+| Power                                                                         | 0                                    |                       |       |
+| Tal-y-Cafn                                                                    |                                      |                       |       |
+| Dwell Time                                                                    |                                      |                       |       |
+| LH                                                                            | -                                    |                       |       |
+| Power                                                                         | 1                                    |                       |       |
+| Dolgarrog                                                                     |                                      |                       |       |
+| Dwell Time                                                                    |                                      |                       |       |
+| LH                                                                            | -                                    |                       |       |
+| Power                                                                         | 0                                    |                       |       |
+| Llanrwst North                                                                |                                      |                       |       |
+| Dwell Time                                                                    |                                      |                       |       |
+| LH                                                                            | 1                                    |                       |       |
+| Power                                                                         | 0                                    |                       |       |
+| Pont-y-Pant                                                                   |                                      |                       |       |
+| Dwell Time                                                                    |                                      |                       |       |
+| LH                                                                            | -                                    |                       |       |
+| Power                                                                         | 0                                    |                       |       |

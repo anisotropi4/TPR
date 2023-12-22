@@ -1,0 +1,35 @@
+|                                        |      |       |       |                                             |
+|:---------------------------------------|:-----|:------|:------|:--------------------------------------------|
+| EA1010 LIVERPOOL STREET TO SEVEN KINGS |      |       |       |                                             |
+| Approaching Location                   | Type | Value | Value | Remarks                                     |
+|                                        |      | Down  | Up    |                                             |
+| Bow Jn                                 | E    |       | 1     | All ML and EL trains                        |
+|                                        |      |       | 2*    | * Applies on Sundays or to trains which     |
+|                                        |      |       |       | have run ML to Ilford/Stratford then EL     |
+| Stratford                              | E    |       | 1     | ML trains towards Bow Jn                    |
+| EA1011 SEVEN KINGS TO IPSWICH          |      |       |       |                                             |
+| Approaching Location                   | Type | Value | Value | Remarks                                     |
+|                                        |      | Down  | Up    |                                             |
+| Gidea Park                             | E    | 1     | 1     | EL trains                                   |
+|                                        | P    |       | 1     | All ML trains arriving at Liverpool Street  |
+|                                        |      |       |       | between 07:00 and 09:59 SX (except Bank     |
+|                                        |      |       |       | Holidays)                                   |
+| Shenfield                              | E    | 1*    | 1     | * Allowance to be applied at Shenfield      |
+|                                        |      |       |       | London End Jn for ML trains running to      |
+|                                        |      |       |       | Platforms 5/6 at Shenfield or to Platform 4 |
+|                                        |      |       |       | if using 2250 points                        |
+| Chelmsford                             | E    |       | 1     | Allowance to be applied approaching         |
+|                                        |      |       |       | Chelmsford during construction of           |
+|                                        |      |       |       | Beaulieu station                            |
+| Witham                                 | E    | 1     | 1*    | * Terminating trains only                   |
+| Colchester                             | E    | 1^    | 1^    | * Terminating services                      |
+|                                        |      | 2*    |       | ^ Allowance to be applied approaching       |
+|                                        |      |       |       | Colchester Goods Loop, TC or CS as          |
+|                                        |      |       |       | appropriate if calling or terminating at    |
+|                                        |      |       |       | those locations                             |
+| Halifax Jn                             | E    | 1     |       |                                             |
+| For Bi-directional working             |      |       |       |                                             |
+| Shenfield                              | E    |       | 6     | See Engineering Access Statement for        |
+|                                        |      |       |       | detailed timings                            |
+| Colchester                             | E    | 6     |       | See Engineering Access Statement for        |
+|                                        |      |       |       | detailed timings                            |

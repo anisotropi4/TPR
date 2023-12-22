@@ -1,0 +1,119 @@
+|                                                                            |       |
+|:---------------------------------------------------------------------------|:------|
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	SC001 GRETNA JUNCTION TO GLASGOW CENTRAL (VIA BEATTOCK)                 |       |
+| ""                                                                         |       |
+| ""	TIMING POINT		DOWN		UP		CODE		NOTES                                     |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Rutherglen East Junction		FL SL		–				To/from Carmyle – SC099           |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Rutherglen Central Junction		SL –		FL SL		X		To/from Rutherglen – SC025 |       |
+| ""                                                                         |       |
+| ""	Rutherglen West Junction		SL		–		X		To/from Rutherglen North Junction – | SC027 |
+| ""                                                                         |       |
+| ""	Shawfield		"FL SL                                                       |       |
+| CDL"		FL SL                                                                |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Polmadie Down Clydesdale		CDL				S                                      |       |
+| ""                                                                         |       |
+| ""	Polmadie Up Clydesdale				FL SL		S                                      |       |
+| ""                                                                         |       |
+| ""	Polmadie G818		SL		–		S                                                 |       |
+| ""                                                                         |       |
+| ""	Polmadie		–		–		S                                                       |       |
+| ""                                                                         |       |
+| ""	Polmadie G779		–		SL		S                                                 |       |
+| ""                                                                         |       |
+| ""	Larkfield Junction		FL SL		"FL SL                                       |       |
+| CDL"				"To/from Terminus Junction – SC029                                 |       |
+| To/from Muirhouse South Junction – SC047"                                  |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Eglinton Street Junction		2 3		–                                        |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Bridge Street Junction		"6                                              |       |
+| 2A 2B 3A                                                                   |       |
+| 3B 3C                                                                      |       |
+| 4B 4C                                                                      |       |
+| 4D 5C                                                                      |       |
+| 5D 6D 8                                                                    |       |
+| 8D"		1U 3				"To/from Shields Junction – SC059                             |       |
+| To/from Muirhouse North Junction – SC031"                                  |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Glasgow Central Gantry A		"304 312                                      |       |
+| 313 314                                                                    |       |
+| 315 316                                                                    |       |
+| 320 321                                                                    |       |
+| 322 323"		"6 7                                                             |       |
+| A1 A3 B3                                                                   |       |
+| B4 C3                                                                      |       |
+| C4 C5                                                                      |       |
+| D4 D5                                                                      |       |
+| D6 D7"		X                                                                  |       |
+| ""                                                                         |       |
+| ""	Glasgow Central		–		"6 7                                                |       |
+| A1 A3 B3                                                                   |       |
+| B4 C3                                                                      |       |
+| C4 C5                                                                      |       |
+| D4 D5                                                                      |       |
+| D6 D7                                                                      |       |
+| 304 312                                                                    |       |
+| 313 314                                                                    |       |
+| 315 316                                                                    |       |
+| 320 321                                                                    |       |
+| 322 323                                                                    |       |
+| 343 H7"				"Platform detail must be shown                                  |       |
+| Route codes 304 to 343 to only be used                                     |       |
+| when crossing at alternative routes between                                |       |
+| Glasgow Central and Glasgow Central                                        |       |
+| Gantry A timing point                                                      |       |
+| Line code H7 refers to 347pts"                                             |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| Rutherglen East Junction                                                   |       |
+| ""                                                                         |       |
+| Shawfield                                                                  |       |
+| ""                                                                         |       |
+| Larkfield Junction                                                         |       |
+| ""                                                                         |       |
+| Eglinton Street Junction                                                   |       |
+| ""                                                                         |       |
+| Bridge Street Junction                                                     |       |
+| ""                                                                         |       |
+| Glasgow Central                                                            |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	SC003 CARSTAIRS SOUTH JUNCTION TO HAYMARKET EAST JUNCTION               |       |
+| ""                                                                         |       |
+| ""	TIMING POINT		DOWN		UP		CODE		NOTES                                     |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Carstairs South Junction		–		–				To/from Abington – SC001              |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Carstairs Signal GMC428				–		S		Reversal location only                 |       |
+| ""                                                                         |       |
+| ""	Carstairs East Junction		–		–				To/from Carstairs – SC005              |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Auchengray		–		–                                                        |       |
+| ""                                                                         |       |
+| ""                                                                         |       |
+| ""	Cobbinshaw Sig EJ712				–				For Up trains                              |       |
+| ""                                                                         |       |
+| ""	Cobbinshaw Sig EJ713		–						For Down trains                            |       |
+| ""                                                                         |       |
+| Carstairs South Junction                                                   |       |
+| ""                                                                         |       |
+| Carstairs East Junction                                                    |       |
+| ""                                                                         |       |
+| Auchengray                                                                 |       |
+| ""                                                                         |       |

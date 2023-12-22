@@ -1,0 +1,58 @@
+|                                            |         |         |      |                                            |
+|:-------------------------------------------|:--------|:--------|:-----|:-------------------------------------------|
+| LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY) |         |         |      |                                            |
+| TIMING POINT                               | DOWN    | UP      | CODE | NOTES                                      |
+| Bedford Wash Road                          | –       |         | S    | TIPLOC BEDFDWR                             |
+| Bedford                                    | DFL DSL | FL      |      | Platform detail must be shown.             |
+|                                            | USL     | DSL USL |      | To/from Bedford St Johns – LN3140          |
+| Bedford North End Siding                   |         | –       | S    | TIPLOC BEDFDNS                             |
+| Bedford North Jn                           | DFL DSL | FL DSL  |      |                                            |
+|                                            |         | USL     |      |                                            |
+| Sharnbrook Jn                              | DFL DSL | UFL USL |      |                                            |
+| Wellingborough South Jn                    |         | UFL DSL | X    |                                            |
+| Wellingborough                             | DFL DSL | UFL USL |      |                                            |
+|                                            |         | DSL     |      |                                            |
+| Wellingborough Down Goods                  | DFL     | DFL     | S    |                                            |
+| Loop                                       |         |         |      |                                            |
+| Wellingborough Signal BK6065               | DSL     |         | S    | TIPLOC WLNG065                             |
+|                                            |         |         |      | For shunt moves between Down Slow and      |
+|                                            |         |         |      | Wellingborough Neilson and Up Sidings      |
+| Wellingborough Signal LR607                | -       |         | S    | TIPLOC WLNG607                             |
+|                                            |         |         |      | For shunt moves between Up Fast and        |
+|                                            |         |         |      | Wellingborough Neilson and Up Sidings      |
+| Wellingborough North Jn                    | DSL USL | UFL DFL | X    |                                            |
+|                                            |         | DSL     |      |                                            |
+| Wellingborough Signal BK6069               | -       |         | S    | TIPLOC WLNG069                             |
+|                                            |         |         |      | Only for shunt moves between Up Slow       |
+|                                            |         |         |      | and Wellingborough Neilson and Up          |
+|                                            |         |         |      | Sidings                                    |
+| Wellingborough Signal BK6070               | -       | USL -   | X    | TIPLOC WLNG070                             |
+|                                            |         |         |      | For access to/from Wellingborough          |
+|                                            |         |         |      | Neilson and Up Sidings                     |
+| Wellingborough Neilson Sidings             | -       | -       | S    | TIPLOC WLNGBNS                             |
+|                                            |         |         |      | Sidings 1-6 and Rail Recovery Train Siding |
+| Wellingborough Up Siding                   |         | -       | S    | TIPLOC WLNGUPS                             |
+| Harrowden Jn                               | DFL UFL | UFL USL |      |                                            |
+|                                            | DSL     | DSL     |      |                                            |
+| Kettering South Jn                         | DFL UFL | UFL DFL |      |                                            |
+|                                            | DSL USL | USL DSL |      |                                            |
+| Kettering Signal BK6094                    | -       | USL     | X    | TIPLOC KETR094                             |
+|                                            |         |         |      | For access to/from Kettering Engineering   |
+|                                            |         |         |      | Sidings and Stabling Sidings Depot         |
+| Kettering Engineering Sidings              | -       | -       | S    | TIPLOC KETRENG                             |
+|                                            |         |         |      | Sidings 1-2                                |
+| Kettering Stabling Sidings Depot           |         | -       | S    | TIPLOC KETRSSD                             |
+|                                            |         |         |      | Depot Sidings 1-4 – all 254m in length     |
+| Kettering                                  | DFL UFL | UFL DFL |      |                                            |
+|                                            | DSL USL | USL DSL |      |                                            |
+| Kettering North Jn                         | DFL UFL | UFL DFL |      | To/from Corby – LN3601                     |
+|                                            | DSL     | USL DSL |      |                                            |
+| Market Harborough                          | DFL UFL | UFL DFL |      |                                            |
+| Market Harborough Jn                       | DFL UFL | UFL DFL | X    |                                            |
+| Kilby Bridge Jn                            | SL DFL  | UFL DFL |      |                                            |
+|                                            | UFL     |         |      |                                            |
+| Wigston South Jn                           | SL      | SL      | X    | To/from Glen Parva – LN3231                |
+| Wigston North Jn                           | DFL UFL | UFL SL  |      | To/from Croft – LN3232                     |
+|                                            | GL      |         |      |                                            |
+| Knighton Jn                                | DFL UFL | UFL DFL | X    | To Leicester Signal 327 – LN3525           |
+|                                            |         | GL      |      | From Bagworth – LN3525                     |

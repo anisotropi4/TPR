@@ -1,0 +1,35 @@
+|                                            |                                               |        |
+|:-------------------------------------------|:----------------------------------------------|:-------|
+| Junction Margins                           |                                               |        |
+| First Movement                             | Second Movement                               | Value  |
+| Down train depart/pass Platform 4 towards  | Up train arrive/pass Platform 3 from Seven    | 3      |
+| Clapton                                    | Sisters. (Trains which have called at Rectory |        |
+|                                            | Road can be planned at a 2 minute margin).    |        |
+| Up train arrive/pass Platform 3 from Seven | Down train depart/pass Platform 4 towards     | 1      |
+| Sisters direction                          | Clapton Junction                              |        |
+| Coppermill Junction                        |                                               |        |
+| Junction Margins                           |                                               |        |
+| First Movement                             | Second Movement                               | Margin |
+| Down train from Temple Mills East Junction | Up train towards Clapton Junction             | 3      |
+| direction                                  |                                               |        |
+| Up train towards Clapton Junction          | Down train from Temple Mills East Junction    | 3      |
+|                                            | direction                                     |        |
+| Tottenham South Junction                   |                                               |        |
+| Junction Margins                           |                                               |        |
+| Movement                                   |                                               | Margin |
+| Fouling move except as below               |                                               | 3      |
+| Before divergence of following move        |                                               | 3      |
+| After merge                                |                                               | 3      |
+| First Movement                             | Second Movement                               |        |
+| Passenger train on Down Cambridge Line     | Freight train from South Tottenham            | 21⁄2   |
+| towards Tottenham Hale                     |                                               |        |
+| Tottenham Hale                             |                                               |        |
+| Adjustments to Sectional Running Times     |                                               |        |
+| Movement                                   | Reason                                        | Value  |
+| All Up trains departing from Down platform | Via slow speed crossover                      | {1⁄2}  |
+| Dwell Time                                 | 1                                             |        |
+| Minimum Turnround Time                     | For EMUs                                      | 6      |
+| Platform Reoccupation                      | Minimum time allowed between one train        | 2      |
+|                                            | departing and another arriving in the same    |        |
+|                                            | platform including conflicting movements      |        |
+|                                            | towards platforms. Subject to future review   |        |

@@ -1,0 +1,35 @@
+|                                                                                                                       |                                           |                   |
+|:----------------------------------------------------------------------------------------------------------------------|:------------------------------------------|:------------------|
+| Keymer Junction                                                                                                       |                                           |                   |
+| All trains that have not stopped at                                                                                   | Approach Control                          | {1⁄2}             |
+| Wivelsfield and are routed towards Lewes                                                                              |                                           |                   |
+| Up trains from Lewes not stopping at                                                                                  | Speed differential due to 20mph speed     | {1⁄2} approaching |
+| Wivelsfield                                                                                                           | limit over Keymer Junction                | Haywards Heath    |
+| Junction Margins                                                                                                      |                                           |                   |
+| First Movement                                                                                                        | Second Movement                           | Value             |
+| Train converging from Up Lewes to                                                                                     | Train following on Up Main                | 3                 |
+| Up Main                                                                                                               |                                           |                   |
+| Planning Note                                                                                                         |                                           |                   |
+| Pathing time must not be shown between Keymer Junction and Wivelsfield as there is no protecting signal               |                                           |                   |
+| between these locations. This applies in both directions and is irrespective of whether the train is travelling to or |                                           |                   |
+| from the Brighton direction or Lewes direction.                                                                       |                                           |                   |
+| If pathing time is shown approaching Keymer Junction, please refer to the Overlap Restrictions table at Burgess       |                                           |                   |
+| Hill                                                                                                                  |                                           |                   |
+| Burgess Hill                                                                                                          |                                           |                   |
+| Connectional Allowances                                                                                               |                                           |                   |
+| All Services                                                                                                          | 4                                         |                   |
+| Dwell Times                                                                                                           |                                           |                   |
+| All Services (Peak Only)                                                                                              | 1                                         |                   |
+| Junction Margins                                                                                                      |                                           |                   |
+| First Movement                                                                                                        | Second Movement                           | Margin            |
+| Up train pass Keymer Junction with pathing time after                                                                 | Up stopping train arrives at Burgess Hill | 21⁄2*             |
+| Burgess Hill                                                                                                          |                                           |                   |
+| Up train pass Keymer Junction with pathing time after                                                                 | Up train pass Burgess Hill Platform 1     | 2*                |
+| Burgess Hill                                                                                                          |                                           |                   |
+| *A 41⁄2 minute headway would still apply to the second train if the first train calls at both Burgess Hill and        |                                           |                   |
+| Wivelsfield                                                                                                           |                                           |                   |
+| Hassocks                                                                                                              |                                           |                   |
+| Connectional Allowances                                                                                               |                                           |                   |
+| All Services                                                                                                          | 4                                         |                   |
+| Dwell Times                                                                                                           |                                           |                   |
+| All Services (Peak Only)                                                                                              | 1                                         |                   |

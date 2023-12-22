@@ -1,0 +1,44 @@
+|                                                                                                                       |                                                  |             |
+|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:------------|
+| Cheshunt                                                                                                              |                                                  |             |
+| Adjustments to Sectional Running Times                                                                                |                                                  |             |
+| Movement                                                                                                              | Reason                                           | Value       |
+| All trains to Bay Platform 3                                                                                          | Via slow speed crossover                         | {1⁄2}       |
+| All trains from Bay Platform 3                                                                                        | Via slow speed crossover                         | {1⁄2}       |
+|                                                                                                                       |                                                  | approaching |
+|                                                                                                                       |                                                  | next timing |
+|                                                                                                                       |                                                  | point       |
+| All trains via Southbury                                                                                              | Crossing Main Line to Southbury Loop             | {1⁄2}       |
+| Dwell Time                                                                                                            | 1 AM peak Cambridge services                     |             |
+| Junction Margins                                                                                                      |                                                  |             |
+| Movement                                                                                                              |                                                  | Margin      |
+| Fouling move                                                                                                          |                                                  | 2           |
+| Before divergence of following move                                                                                   |                                                  | 3           |
+| After merge                                                                                                           |                                                  | 2           |
+| First movement                                                                                                        | Second movement                                  | Margin      |
+| Down train from Lea Valley arrives into                                                                               | Up train departs Cheshunt platform 1 towards     | 1           |
+| Cheshunt platform 2                                                                                                   | Southbury                                        |             |
+| Depart Platform 2 via preferred route (route                                                                          | Arrive/Pass Platform 2 or 3 from Bury Street     | 4           |
+| code DS) towards Bury Street Junction                                                                                 | Junction (not having stopped at Cheshunt         |             |
+|                                                                                                                       | Junction Signal L1395)                           |             |
+| Depart Platform 3                                                                                                     | Arrive/Pass Platform 2 from Bury Street          | 4           |
+|                                                                                                                       | Junction (not having stopped at Cheshunt         |             |
+|                                                                                                                       | Junction Signal L1395)                           |             |
+| Depart Platform 3                                                                                                     | Arrive Platform 3 (not having stopped at         | 4           |
+|                                                                                                                       | Cheshunt Junction Signal L1395)                  |             |
+| Depart Platform 2 via preferred route (route                                                                          | Arrive/Pass Platform 2 or Arrive Platform 3 from | 3           |
+| code DS) towards Bury Street Junction or                                                                              | stop at Cheshunt Junction Signal L1395           |             |
+| Depart Platform 3                                                                                                     |                                                  |             |
+| Overlap Restrictions                                                                                                  |                                                  |             |
+| If a train is starting from Platform 2 and routed via the preferred route (line code DS) towards Bury Street Junction |                                                  |             |
+| this will conflict with the overlap of signal L1395 on the Down Southbury approaching Cheshunt, so it is not          |                                                  |             |
+| possible for a train to depart from Theobalds Grove towards L1395. This also applies to a departure from Platform     |                                                  |             |
+| 3 (see margins above).                                                                                                |                                                  |             |
+|                                                                                                                       |                                                  |             |
+| If a train is starting from Platform 2 and routed via the non-preferred route (line code UC) towards Bury Street      |                                                  |             |
+| Junction that this will conflicts with the overlap of signal L1060 on Platform 1.                                     |                                                  |             |
+| First movement                                                                                                        | Second movement                                  | Margin      |
+| Depart Platform 2 via non-preferred route                                                                             | Arrive Platform 1 from Broxbourne direction      | 2           |
+| (route code UC) towards Bury Street Junction                                                                          |                                                  |             |
+| Depart Platform 2 via non-preferred route                                                                             | Pass Platform 1 from Broxbourne direction        | 3           |
+| (route code UC) towards Bury Street Junction                                                                          |                                                  |             |

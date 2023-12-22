@@ -1,0 +1,49 @@
+|                                                                                                                 |                                            |        |
+|:----------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:-------|
+| Northam Junction                                                                                                |                                            |        |
+| Between all movements                                                                                           |                                            | 2      |
+| Down freight towards Southampton Central                                                                        | Up train passes from Eastern Docks         | 3#     |
+| Down train passes towards Southampton                                                                           | Departure from Signal E842 towards Northam | 1$     |
+| Central                                                                                                         | Junction                                   |        |
+| Down train from Southampton Up Yard towards                                                                     | Conflicting Down or Up train               | 3      |
+| Depot Arrival/Departure Line or Eastern Docks                                                                   |                                            |        |
+| Up ECS from Signal E842/Down Main crossing                                                                      | Conflicting Down train                     | 3      |
+| to Up Fast/Up Slow/Northam Depot No. 1                                                                          |                                            |        |
+| Reception                                                                                                       |                                            |        |
+| Up train from Signal E842 towards                                                                               | Conflicting Down train                     | 31⁄2   |
+| Southampton Up Yard                                                                                             |                                            |        |
+| Up freight crossing from Eastern Docks/Down                                                                     | Conflicting Down train                     | 31⁄2   |
+| Main to Up Slow/Up Fast                                                                                         |                                            |        |
+| Up freight crossing from Eastern Docks to Up                                                                    | Up train passing to Up Fast                | 4      |
+| Slow                                                                                                            |                                            |        |
+| # Increase to 31⁄2 minutes if first train is longer than 84 SLU / 540m.                                         |                                            |        |
+| $ Increase to 2 minutes if the first movement is longer than 39 SLU / 250m.                                     |                                            |        |
+| Length Restriction                                                                                              |                                            |        |
+| The maximum standage behind E840 signal clear of Chapel Road Level Crossing is 87 SLU / 560m. Longer trains     |                                            |        |
+| from Eastern Docks booked to stop at Northam Junction will instead need to stop behind E838 signal to clear the |                                            |        |
+| level crossing – this will block 580A points, preventing any movements between Northam Junction and the Depot   |                                            |        |
+| Arrival/Departure Line (Signal E842).                                                                           |                                            |        |
+| Northam Depot                                                                                                   |                                            |        |
+| Acceptance and Dispatch of Trains                                                                               |                                            |        |
+| Minimum interval between two                                                                                    | 15                                         |        |
+| departures, two arrivals, or                                                                                    |                                            |        |
+| departure following arrival                                                                                     |                                            |        |
+| Minimum interval between arrival                                                                                | 5                                          |        |
+| following departure                                                                                             |                                            |        |
+| Trains reversing at E842 Signal                                                                                 |                                            |        |
+| Minimum reversal time at E842                                                                                   | Standard turnaround plus 2 minutes         |        |
+| signal                                                                                                          |                                            |        |
+| Southampton Central                                                                                             |                                            |        |
+| Adjustment to Sectional Running Times                                                                           |                                            |        |
+| Down trains approaching Southampton do not require the standard {1⁄2} for crossing over at the London end       |                                            |        |
+| crossovers as it is already included in the SRT’s.                                                              |                                            |        |
+| Movements                                                                                                       | Reason                                     | Value  |
+| Down trains crossing from Platforms 1,2 or 3 to                                                                 | Speed differential                         | {1⁄2}* |
+| Down Fast                                                                                                       |                                            |        |
+| Down trains crossing from Platforms 1, 2 or 4 to                                                                | Speed differential                         | {1⁄2}* |
+| Down Slow                                                                                                       |                                            |        |
+| * Applies approaching next timing point.                                                                        |                                            |        |
+| Connectional Allowances                                                                                         |                                            |        |
+| All Services except as below                                                                                    | 5                                          |        |
+| SWR Services                                                                                                    | 4                                          |        |
+| Dwell Times                                                                                                     |                                            |        |

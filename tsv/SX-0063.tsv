@@ -1,0 +1,50 @@
+|                                                                                                                    |                                             |           |           |           |
+|:-------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|:----------|:----------|:----------|
+| SO500 LONDON VICTORIA TO BRIGHTON                                                                                  |                                             |           |           |           |
+| UP DIRECTION (FOLLOWING CLASS 0, 1, 2, 3, 5, 9 + SEASONAL CLASS 8)                                                 |                                             |           |           |           |
+|                                                                                                                    | SLOW LINE                                   | FAST LINE |           |           |
+| TIMING POINT                                                                                                       | FOLLOWING                                   | FOLLOWING | FOLLOWING | FOLLOWING |
+| First location is inclusive and second                                                                             | NON-                                        | STOPPING  | NON-      | STOPPING  |
+| location is exclusive (unless otherwise                                                                            | STOPPING                                    |           | STOPPING  |           |
+| stated below)                                                                                                      |                                             |           |           |           |
+| Brighton - Preston Park (inclusive of                                                                              | 3                                           | 3         | 3*        | 3*        |
+| Preston Park station)                                                                                              |                                             |           |           |           |
+| Preston Park (exclusive of Preston Park                                                                            | 2                                           | 3         | 2         | 3         |
+| station) – Balcombe Tunnel Junction                                                                                |                                             |           |           |           |
+| Balcombe Tunnel Junction – Three                                                                                   | 2                                           | 31⁄2**    | 2         | 31⁄2**    |
+| Bridges                                                                                                            |                                             |           |           |           |
+| Three Bridges – Gatwick Airport                                                                                    | 21⁄2                                        |           |           |           |
+| Gatwick Airport – Earlswood                                                                                        | 2                                           |           |           |           |
+| Earlswood – Stoats Nest Junction (via                                                                              | 2                                           | 3         |           |           |
+| Redhill Lines)                                                                                                     |                                             |           |           |           |
+| Earlswood – Stoats Nest Junction (via                                                                              |                                             |           | 21⁄2†     |           |
+| Quarry Lines)                                                                                                      |                                             |           |           |           |
+| Stoats Nest Junction – East Croydon                                                                                | 2                                           | 3**       | 2         | 3**       |
+| East Croydon – Windmill Bridge Junction                                                                            | 21⁄2                                        |           |           |           |
+| Windmill Bridge Junction – Selhurst                                                                                | 3                                           |           |           |           |
+| Selhurst – Clapham Junction                                                                                        | 2                                           |           |           |           |
+| Clapham Junction – Battersea Park                                                                                  | 3                                           |           |           |           |
+| (inclusive of Battersea Park)                                                                                      |                                             |           |           |           |
+| Battersea Park (exclusive of Battersea                                                                             | 2                                           | 2         | 2         | 2         |
+| Park) – London Victoria                                                                                            |                                             |           |           |           |
+| * A 2 minute headway may be applied if the second train departing on the Up main is an ECS for Lovers Walk         |                                             |           |           |           |
+| Sidings                                                                                                            |                                             |           |           |           |
+| ** The “Following Non-Stopping” headway can also be applied to consecutive arrivals at:                            |                                             |           |           |           |
+| East Croydon where the previous stations call has been either Purley, Coulsdon South, Redhill, Gatwick Airport,    |                                             |           |           |           |
+| Sanderstead or Oxted providing the second train arrives in a different platform and the correct headway has been   |                                             |           |           |           |
+| applied at the previous timing point; and at Gatwick Airport where the previous stations call has been Haywards    |                                             |           |           |           |
+| Heath or Three Bridges providing the second train arrives in a different platform and the correct headway has been |                                             |           |           |           |
+| applied at the previous timing point                                                                               |                                             |           |           |           |
+| † A 2 minute headway may be applied between no more than two consecutive trains                                    |                                             |           |           |           |
+| FOLLOWING CLASS 4, 6, 7 + NON-SEASONAL CLASS 8                                                                     |                                             |           |           |           |
+| TIMING POINT                                                                                                       | DOWN                                        | UP        |           |           |
+| London Victoria – Brighton                                                                                         | 3                                           | 3         |           |           |
+| Exceptions:                                                                                                        |                                             |           |           |           |
+| Freight Headway at Clapham Junction                                                                                |                                             |           |           |           |
+| First Movement                                                                                                     | Second Movement                             | Value     |           |           |
+| Train Class 4, 6, 7 or non-seasonal Class 8                                                                        | Train departs/passes Platform 15            | 41⁄2      |           |           |
+| departs Platform 17                                                                                                |                                             |           |           |           |
+| Train Class 4, 6, 7 or non-seasonal Class 8                                                                        | Train departs/passes Platform 15            | 4         |           |           |
+| passes Platform 17                                                                                                 |                                             |           |           |           |
+| Passenger Train departs Platform 15 Down                                                                           | Train Class 4, 6, 7 or non-seasonal Class 8 | 21⁄2      |           |           |
+| Slow                                                                                                               | from standing start Platform 17             |           |           |           |

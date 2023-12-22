@@ -1,0 +1,50 @@
+|                                                                                                                 |                                               |                 |
+|:----------------------------------------------------------------------------------------------------------------|:----------------------------------------------|:----------------|
+| Kingsbury Jn                                                                                                    |                                               |                 |
+| Train from Whitacre Jn                                                                                          | All trains except Class 6 from Tamworth       | 3               |
+|                                                                                                                 | towards Water Orton                           |                 |
+| Train from Whitacre Jn                                                                                          | Class 6 from Tamworth towards Water Orton     | 4               |
+| All trains except Class 6 from Water Orton                                                                      | Train from Whitacre Jn direction              | 2               |
+| Class 6 from Water Orton                                                                                        | Train from Whitacre Jn direction              | 3               |
+| Passenger pass from Water Orton towards                                                                         | Freight departs from Whitacre Jn direction    | 11⁄2            |
+| Tamworth                                                                                                        | towards Kingsbury Reception Sidings           |                 |
+| Train from Tamworth towards Water Orton                                                                         | Train from Whitacre Jn direction              | 2               |
+| Train pass from Tamworth                                                                                        | Train passing Kingsbury Branch Jn crossing to | 2$              |
+|                                                                                                                 | Kingsbury Reception Sidings                   |                 |
+| Train pass from Tamworth                                                                                        | Train departing Kingsbury Branch Jn crossing  | 1$              |
+|                                                                                                                 | to Kingsbury Reception Sidings                |                 |
+| Train from Tamworth towards Whitacre Jn                                                                         | Train from Tamworth towards Water Orton       | 3               |
+| % Can be reduced to 1 should the second train be a passenger and have (11⁄2) or greater pathing approaching     |                                               |                 |
+| Kingsbury Jn                                                                                                    |                                               |                 |
+| # Can be reduced to 2 should the second train be a class 4,6 or 7 and have (2.5) or greater pathing approaching |                                               |                 |
+| Kingsbury Jn                                                                                                    |                                               |                 |
+| $ If second train has come from Whitacre Jn, junction margins at Kingsbury Jn must be maintained                |                                               |                 |
+| Water Orton                                                                                                     |                                               |                 |
+| Adjustments to Sectional Running Times                                                                          |                                               |                 |
+| Movement Down                                                                                                   | Reason                                        | Value           |
+| All non-stop Down trains from Kingsbury Jn (via                                                                 | Junction differential                         | 1               |
+| Down Derby) crossing to Park Lane Jn or UDS                                                                     |                                               |                 |
+| at Water Orton West Jn                                                                                          |                                               |                 |
+| All non-stop Down trains from Coleshill Parkway                                                                 | Junction differential                         | 1               |
+| towards Castle Bromwich Jn on the ML                                                                            |                                               | approaching     |
+|                                                                                                                 |                                               | next timing     |
+|                                                                                                                 |                                               | point*          |
+| *11⁄2 when Class 170 is using the Down Whitacre                                                                 |                                               |                 |
+| Movement Up                                                                                                     | Reason                                        | Value           |
+| All non-stop trains from Castle Bromwich Jn on                                                                  | Junction differential                         | 1 for           |
+| the ML towards Coleshill Parkway                                                                                |                                               | passenger       |
+|                                                                                                                 |                                               | and ECS         |
+|                                                                                                                 |                                               | 1⁄2 for freight |
+| All stopping trains towards Coleshill Parkway                                                                   | Junction differential                         | 1⁄2             |
+| All non-stop trains from Park Lane Jn or UDS                                                                    | Acceleration Allowance from lower speed route | 1               |
+| towards Kingsbury Jn (via Up Derby)                                                                             |                                               | approaching     |
+|                                                                                                                 |                                               | next timing     |
+|                                                                                                                 |                                               | point           |
+| Dwell time                                                                                                      |                                               |                 |
+| Class 170                                                                                                       | 1⁄2                                           |                 |
+| Junction Margins                                                                                                |                                               |                 |
+| First Movement                                                                                                  | Second Movement                               | Margin          |
+| Pass/depart Platform 1 from Coleshill Parkway                                                                   | Pass/arrive Platform 1 towards Coleshill      | 4*              |
+|                                                                                                                 | Parkway                                       |                 |
+| Passenger pass direct from Kingsbury Jn                                                                         | Pass/arrive Platform 1 towards Coleshill      | 3*              |
+|                                                                                                                 | Parkway                                       |                 |

@@ -1,0 +1,34 @@
+|                                                                                                                |                                 |                             |
+|:---------------------------------------------------------------------------------------------------------------|:--------------------------------|:----------------------------|
+| Bedford North Junction                                                                                         |                                 |                             |
+| Down or Up Slow Line to Down Fast                                                                              | Differential junction speed     | 1⁄2 approaching             |
+|                                                                                                                |                                 | Sharnbrook Junction         |
+| Down Fast to Down Slow                                                                                         | Differential junction speed     | 1                           |
+| East Midlands Railway services calling at                                                                      | Acceleration from a stop        | 1⁄2 approaching             |
+| Bedford Platform 4                                                                                             |                                 | Sharnbrook Junction         |
+| Movement Up                                                                                                    | Reason                          | Value                       |
+| Up Fast to Down or Up Slow                                                                                     | Differential Junction speed     | 1⁄2 180/222*                |
+|                                                                                                                |                                 | 1 all others#               |
+|                                                                                                                |                                 | *only applies if calling at |
+|                                                                                                                |                                 | Bedford                     |
+|                                                                                                                |                                 | #does not apply to Class    |
+|                                                                                                                |                                 | 360 where allowance is      |
+|                                                                                                                |                                 | included in SRT             |
+| Junction Margins                                                                                               |                                 |                             |
+| First Movement                                                                                                 | Second Movement                 | Margin                      |
+| All conflicting moves                                                                                          |                                 | 5 before                    |
+|                                                                                                                |                                 | 3 after                     |
+| Up Slow (Pfm 1) to Down Slow                                                                                   | Up Slow to Down Slow (Pfm 2) or | 5                           |
+|                                                                                                                | Up & Down Platform Loop (Pfm 3) |                             |
+| Down Slow (Pfm 2) or Up & Down Platform                                                                        | Up Fast to Up Slow (Pfm 1)      | 5                           |
+| Loop (Pfm 3) to Down Slow                                                                                      |                                 |                             |
+| Down Slow (Pfm 2) or Up & Down Platform                                                                        | Up Fast to Up Fast              | 3                           |
+| Loop (Pfm 3) to Down Fast                                                                                      |                                 |                             |
+| Down Slow (Pfm 2) or Up & Down Platform                                                                        | Up Fast to Up Slow (Platform 1) | These are not conflicting   |
+| Loop (Pfm 3) to Down Fast                                                                                      |                                 | movements                   |
+| Converging Headway                                                                                             |                                 |                             |
+| First Movement                                                                                                 | Second Movement                 | Value                       |
+| Up Slow – Up Fast                                                                                              | Up Fast – Up Fast               | 31⁄2                        |
+| Planning Note                                                                                                  |                                 |                             |
+| No timing allowances should be applied between Bedford North Junction and Bedford as there are no intermediate |                                 |                             |
+| signals                                                                                                        |                                 |                             |

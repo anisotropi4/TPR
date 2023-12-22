@@ -1,0 +1,57 @@
+|                   |          |        |                                        |
+|:------------------|:---------|:-------|:---------------------------------------|
+| STATION           | PLATFORM | USABLE | NOTES                                  |
+|                   |          | LENGTH |                                        |
+| Corrour           |          | 41     | Single Platform                        |
+| Cowdenbeath       | 1        | 156    | Up Platform                            |
+| Cowdenbeath       | 2        | 153    | Down Platform                          |
+| Craigendoran      |          | 170    | Single Platform                        |
+| Crianlarich       | 1        | 149    | Up Platform                            |
+| Crianlarich       | 2        | 151    | Down Platform                          |
+| Croftfoot         | 1 & 2    | 183    | Down Platform 1 / Up Platform 2        |
+| Crookston         |          | 109    | Single Platform                        |
+| Crosshill         | 1        | 151    | Down Platform                          |
+| Crosshill         | 2        | 154    | Up Platform                            |
+| Crossmyloof       | 1        | 151    | Down Platform                          |
+| Crossmyloof       | 2        | 151    | Up Platform                            |
+| Croy              | 1 & 2    | 195    | Up Platform 1 / Down Platform 2        |
+| Culrain           |          | 96     | Single Platform                        |
+| Cumbernauld       | 1        | 129    | Up Platform                            |
+| Cumbernauld       | 2        | 132    | Down Platform                          |
+| Cupar             | 1 & 2    | 182    | Up Platform 1 / Down Platform 2        |
+| Curriehill        | Down/Up  | 121    | Up Platform 1 / Down Platform 2        |
+| Dalmally          | 1        | 137    | Up Platform                            |
+| Dalmally          | 2        | 118    | Down Platform                          |
+| Dalgety Bay       | 1 & 2    | 147    | Up Platform 1 / Down Platform 2        |
+| Dalmarnock        | 1 & 2    | 128    | Down Platform 1 / Up Platform 2        |
+| Dalmeny           | 1        | 192    | Up Platform                            |
+| Dalmeny           | 2        | 175    | Down Platform                          |
+| Dalmuir           | 1        | 153    | Down Platform                          |
+| Dalmuir           | 2        | 145    | Up Platform                            |
+| Dalmuir           | 3        | 140    | Down Platform                          |
+| Dalmuir           | 4        | 128    | Up Platform                            |
+| Dalmuir           | 5        | 128    | Bay Platform                           |
+| Dalreoch          | 1 & 2    | 134    | Up Platform 1 / Down Platform 2        |
+| Dalry             | 1 & 2    | 132    | Up Platform 1 / Down Platform 2        |
+| Dalwhinnie        | 1        | 100    | Up Platform - Bi-Directional           |
+| Dalwhinnie        | 2        | 180    | Down Platform                          |
+| Dingwall          | 1        | 174    | Down Platform                          |
+| Dingwall          | 2        | 218    | Up Platform                            |
+| Drem              | 1        | 123    | Up Platform                            |
+| Drem              | 2        | 135    | Down Platform                          |
+| Drumchapel        | 1        | 120    | Up Platform                            |
+| Drumchapel        | 2        | 169    | Down Platform                          |
+| Drumfrochar       |          | 124    | Single Platform                        |
+| Drumgelloch       | 1 & 2    | 150    | Down Platform 1 / Up Platform 2        |
+| Drumry            | 1 & 2    | 153    | Up Platform 1 / Down Platform 2        |
+| Duirinish         |          | 89     | Single Platform                        |
+| Duke Street       | 1        | 156    | Down Platform                          |
+| Duke Street       | 2        | 177    | Up Platform                            |
+| Dumbarton Central | 1 & 2    | 189    | Up Platform 1 / Down Platform 2        |
+| Dumbarton Central | 3        | 183    | Up & Down Bi-Directional Loop Platform |
+| Dumbarton East    | 1 & 2    | 164    | Up Platform 1 / Down Platform 2        |
+| Dumbreck          | 1 & 2    | 108    | Up Platform 1 / Down Platform 2        |
+| Dumfries          | 1        | 290    | Down Platform                          |
+| Dumfries          | 2        | 251    | Up Platform                            |
+| Dunbar            | 1        | 256    | Up & Down Bi-Directional Loop Platform |
+| Dunbar            | 2        | 271    | Down Platform                          |

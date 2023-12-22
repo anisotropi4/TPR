@@ -1,0 +1,35 @@
+|                                                              |      |     |     |     |                                         |
+|:-------------------------------------------------------------|:-----|:----|:----|:----|:----------------------------------------|
+| SC031 GRETNA JUNCTION TO GLASGOW BRIDGE STREET JUNCTION (VIA |      |     |     |     |                                         |
+| KILMARNOCK)                                                  |      |     |     |     |                                         |
+| Timing Section                                               | Type | LH  | MU# | FRT | Remarks                                 |
+|                                                              |      | HST |     |     |                                         |
+|                                                              |      | 22X |     |     |                                         |
+| Down – Weekdays                                              |      |     |     |     |                                         |
+| Approaching Dumfries                                         | E    | 1   | 1   | 1   |                                         |
+| Approaching Mauchline                                        | E    |     |     | 1   |                                         |
+| Approaching Kilmarnock                                       | E    | 1   | 1   | 1*  | Trains via Barrhead                     |
+| Approaching Muirhouse South                                  | E    | 1   | 1   | 1   |                                         |
+| Junction                                                     |      |     |     |     |                                         |
+| Up – Weekdays                                                |      |     |     |     |                                         |
+| Approaching Kilmarnock                                       | E    | 1   | 1   |     | Trains from Barrhead only               |
+| Approaching Dumfries                                         | E    | 1   | 1   | 2   |                                         |
+| Approaching Gretna Junction                                  | E    | 1   | 1   | 2   | May be applied approaching Gretna Green |
+|                                                              |      |     |     |     | for stopping services                   |
+| # See note regarding EMUs at the beginning of Section 5.5    |      |     |     |     |                                         |
+| * Applies to All Freight Services                            |      |     |     |     |                                         |
+| SC035 BANK JUNCTION TO KNOCKSHINNOCK                         |      |     |     |     |                                         |
+| Timing Section                                               | Type | LH  | MU# | FRT | Remarks                                 |
+|                                                              |      | HST |     |     |                                         |
+|                                                              |      | 22X |     |     |                                         |
+| Down – Weekdays                                              |      |     |     |     |                                         |
+| Up – Weekdays                                                |      |     |     |     |                                         |
+| Bank Junction – Knockshinnoch                                | E    |     |     | 2   |                                         |
+| # See note regarding EMUs at the beginning of Section 5.5    |      |     |     |     |                                         |
+| SC039 KILMARNOCK TO BARASSIE                                 |      |     |     |     |                                         |
+| Timing Section                                               | Type | LH  | MU# | FRT | Remarks                                 |
+|                                                              |      | HST |     |     |                                         |
+|                                                              |      | 22X |     |     |                                         |
+| Down – Weekdays                                              |      |     |     |     |                                         |
+| Up – Weekdays                                                |      |     |     |     |                                         |
+| Approaching Kilmarnock                                       | E    |     | 1   | 1   | Trains from Barassie Junction only      |

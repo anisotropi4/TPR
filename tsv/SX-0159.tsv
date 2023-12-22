@@ -1,0 +1,54 @@
+|                        |                         |        |                                            |
+|:-----------------------|:------------------------|:-------|:-------------------------------------------|
+| STATION                | PLATFORM AND LINE       | USABLE | NOTES                                      |
+|                        |                         | LENGTH |                                            |
+| Purley                 | 2 - Down Fast           | 247    |                                            |
+| Purley                 | 3 - Up Slow             | 247    |                                            |
+| Purley                 | 4 - Down Slow           | 246    | Down direction                             |
+| Purley                 | 4 - Down Slow           | 246    | Up direction                               |
+| Purley                 | 5 - Up Caterham         | 224    | Down direction                             |
+| Purley                 | 5 - Up Caterham         | 224    | Up direction                               |
+| Purley                 | 6 - Down Caterham       | 208    |                                            |
+| Purley Oaks            | 1 - Up Fast             | 168    |                                            |
+| Purley Oaks            | 2 - Down Fast           | 168    |                                            |
+| Purley Oaks            | 3 - Up Slow             | 168    |                                            |
+| Purley Oaks            | 4 - Down Slow           | 168    |                                            |
+| Queens Road Peckham    | 1 - Up South London     | 167    |                                            |
+| Queens Road Peckham    | 2 - Down South London   | 167    |                                            |
+| Redhill                | 0 – Up Loop No0         | 282    | Down direction (See Section 5.4.1 for full |
+|                        |                         |        | loop capacity)                             |
+| Redhill                | 0 – Up Loop No0         | 282    | Up direction (See Section 5.4.1 for full   |
+|                        |                         |        | loop capacity)                             |
+| Redhill                | 1                       | 174    |                                            |
+| Redhill                | 2(A&B) - Up Passenger   | 246    | Down direction                             |
+|                        | Loop No2                |        |                                            |
+| Redhill                | 2(A&B) - Up Passenger   | 246    | Up direction                               |
+|                        | Loop No2                |        |                                            |
+| Redhill                | 3(A&B) - Down           | 246    | Trains can reverse in the platform         |
+|                        | Passenger Loop          |        |                                            |
+| Reedham                | 1 - Up Tattenham        | 165    |                                            |
+| Reedham                | 2 - Down Tattenham      | 165    |                                            |
+| Reigate                | 1 - Up Reading          | 171    |                                            |
+| Reigate                | 2 - Down Reading        | 85     |                                            |
+| Riddlesdown            | 1 - Up East Grinstead   | 182    |                                            |
+| Riddlesdown            | 2 - Down East Grinstead | 182    |                                            |
+| Rotherhithe            | 1 – Up                  | 73     |                                            |
+| Rotherhithe            | 1 – Down                | 73     |                                            |
+| Rye                    | 1 - Up                  | 98     |                                            |
+| Rye                    | 2 - Down                | 75     |                                            |
+| Salfords               | 1 - Up Slow             | 158    |                                            |
+| Salfords               | 2 - Down Slow           | 158    |                                            |
+| Sanderstead            | 1 - Up East Grinstead   | 245    | 12 Cars                                    |
+| Sanderstead            | 2 - Down East Grinstead | 245    | 12 Cars                                    |
+| Seaford                | Seaford Single          | 95     |                                            |
+| Selhurst               | 1 - Down Slow           | 203    |                                            |
+| Selhurst               | 2 - Up Slow             | 203    |                                            |
+| Selhurst               | 3 - Down Fast           | 159    |                                            |
+| Selhurst               | 4 - Up Fast             | 191    |                                            |
+| Shadwell               | 1 – Up                  | 80     |                                            |
+| Shadwell               | 2 – Down                | 80     |                                            |
+| Shepherds Bush         | 1 – Up West London      | 163    |                                            |
+| Shepherds Bush         | 2 – Down West London    | 207    |                                            |
+| Shoreditch High Street | 1 – Up                  | 91     |                                            |
+| Shoreditch High Street | 2 – Down                | 91     |                                            |
+| Shoreham-by-Sea        | 1 - Up Brighton         | 249    |                                            |

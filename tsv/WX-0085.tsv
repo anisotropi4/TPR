@@ -1,0 +1,16 @@
+|                                                                            |                                                 |       |    |
+|:---------------------------------------------------------------------------|:------------------------------------------------|:------|:---|
+| Wimbledon West Junction                                                    |                                                 |       |    |
+| Up train crossing from Up Fast to Up St. Helier                            | Down train departs Wimbledon to Down            |       | 1* |
+| passes Wimbledon West Junction                                             | Fast/Down Slow                                  |       |    |
+| Up train crossing from Up Fast to Up St. Helier                            | Down train passes Wimbledon to Down             |       | 2* |
+| passes Wimbledon West Junction                                             | Fast/Down Slow                                  |       |    |
+| Down train passes/departs Wimbledon to Down                                | Up train crossing from Up Fast to Up St. Helier |       | 3  |
+| Fast/Down Slow                                                             | passes Wimbledon West Junction                  |       |    |
+| * Increase margin by 1⁄2 minute if the first movement is a freight service |                                                 |       |    |
+| Raynes Park                                                                |                                                 |       |    |
+| Adjustment to Sectional Running Times                                      |                                                 |       |    |
+| Movement                                                                   | Reason                                          | Value |    |
+| Down trains towards Motspur Park passing                                   | Speed Differential                              | {1⁄2} |    |
+| Raynes Park                                                                |                                                 |       |    |
+| Connectional Allowances                                                    |                                                 |       |    |

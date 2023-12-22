@@ -1,0 +1,46 @@
+|                                                     |                                               |           |
+|:----------------------------------------------------|:----------------------------------------------|:----------|
+| Feltham Signal BEF2157                              |                                               |           |
+| Junction Margins                                    |                                               |           |
+| First Movement                                      | Second Movement                               | Margin    |
+| Down train departs Signal BEF2157 towards           | Up train passes/departs Feltham towards       | 21⁄2 *    |
+| Feltham/Feltham Depot                               | Feltham Junction                              |           |
+| * Based on time of second train at Feltham          |                                               |           |
+| Feltham Depot Arrival Road London End               |                                               |           |
+| Junction Margins                                    |                                               |           |
+| First Movement                                      | Second Movement                               | Margin    |
+| Down train from Feltham Junction                    | Up train departs Depot Arrival Road towards   | Same time |
+| passes/arrives Feltham                              | Feltham Junction                              | *         |
+| Down train arrives into Depot Arrival Road          | Down train passes Feltham Junction towards    | 1 $       |
+| London End from Feltham Junction/Signal             | Feltham                                       |           |
+| BEF2157                                             |                                               |           |
+| Up train passes Feltham Junction from Feltham       | Up train departs Depot Arrival Road towards   | 1 £       |
+|                                                     | Feltham Junction                              |           |
+| Up train departs Depot Arrival Road towards         | Down train passes Feltham Junction towards    | 4 $       |
+| Feltham Junction                                    | Feltham                                       |           |
+| * Based on time of first train at Feltham           |                                               |           |
+| $ Based on time of second train at Feltham Junction |                                               |           |
+| £ Based on time of first train at Feltham Junction  |                                               |           |
+| Simultaneous Moves Not Permitted                    |                                               |           |
+| Train arrives at Arrival Road Country End           | Down train arrives at Arrival Road London End |           |
+| Train departs Arrival Road Country End towards      | Down train arrives at Arrival Road London End |           |
+| Feltham Depot                                       |                                               |           |
+| Feltham Depot Arrival Road Country End              |                                               |           |
+| Junction Margins                                    |                                               |           |
+| First Movement                                      | Second Movement                               | Margin    |
+| Train arrives at Arrival Road Country End from      | Down train arrives at Arrival Road London     | 3         |
+| Feltham station or Feltham Depot                    | End from Feltham Junction                     |           |
+| Train departs Arrival Road Country End towards      | Down train arrives at Arrival Road London     | 6         |
+| Feltham Depot                                       | End from Feltham Junction                     |           |
+| Train arrives at Arrival Road London End from       | Up train arrives at Arrival Road Country End  | 3         |
+| Feltham Junction                                    | from Feltham                                  |           |
+| Train arrives at Arrival Road London End from       | Train departs from Feltham Depot towards      | 1         |
+| Feltham Junction                                    | Arrival Road Country End                      |           |
+| Simultaneous Moves Not Permitted                    |                                               |           |
+| Train arrives at Arrival Road Country End           | Down train arrives at Arrival Road London End |           |
+| Train departs Arrival Road Country End towards      | Down train arrives at Arrival Road London End |           |
+| Feltham Depot                                       |                                               |           |
+| Feltham                                             |                                               |           |
+| Dwell Times                                         |                                               |           |
+| All Services                                        | 1                                             |           |
+| Junction Margins                                    |                                               |           |

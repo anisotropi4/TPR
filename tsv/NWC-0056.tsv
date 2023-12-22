@@ -1,0 +1,57 @@
+|                               |      |       |      |                                             |
+|:------------------------------|:-----|:------|:-----|:--------------------------------------------|
+| MD401 HEYFORD TO BORDESLEY JN |      |       |      |                                             |
+| TIMING POINT                  | DOWN | UP    | CODE | NOTES                                       |
+| Route Boundary: Western/NW&C  |      |       |      | 75 miles 0 chains                           |
+| Heyford                       | –    | –     |      | To/from Wolvercot Jn – GW200 - Refer to     |
+|                               |      |       |      | Western and Wales Timetable Planning        |
+|                               |      |       |      | Rules                                       |
+| Aynho Up Goods Loop           |      | –     | S    |                                             |
+| Aynho Jn                      | –    | –     |      | To/from Bicester North – MD701              |
+| Aynho Jn signal BS5002        | –    |       | S    | For reversal from Down Main to Up           |
+|                               |      |       |      | direction                                   |
+| Kings Sutton                  | –    | –     | S    |                                             |
+| Banbury Depot Jn              | –    | –     |      | Timing point in Down Direction for all      |
+|                               |      |       |      | trains and in Up direction for reversing    |
+|                               |      |       |      | moves and crossing to Banbury Depot         |
+|                               |      |       |      | Reception                                   |
+| Banbury Depot                 |      |       | S    |                                             |
+| Banbury South Jn              |      |       |      |                                             |
+| Banbury Depot Reception       | –    | –     |      | For ECS moves to/from the Depot             |
+| Banbury                       | DCV  | DCV – |      | Platform detail must be shown including     |
+|                               | DGL  |       |      | UBL for Up Banbury Loop                     |
+|                               |      |       |      | DCV line code only applies for trains to    |
+|                               |      |       |      | Banbury Depot Jn                            |
+| Banbury North Jn              | DCV  |       | S    | For reversing moves                         |
+|                               | DGL  |       |      |                                             |
+| Banbury Down Goods Loop       | DGL  | –     | S    |                                             |
+| Banbury Signal OL7134         |      | UBL   | S    | Intermediate signal on the Up Banbury       |
+|                               |      |       |      | Loop.                                       |
+|                               |      |       |      | timing point for a second train onto the    |
+|                               |      |       |      | Loop.                                       |
+| Reservoir Jn                  | –    | UCV   |      |                                             |
+|                               |      | UBL   |      |                                             |
+|                               |      | DCV   |      |                                             |
+|                               |      | DGL   |      |                                             |
+| Banbury Aggregate Sidings     | –    |       | S    | See Section 5.3 for specific rules          |
+|                               |      |       |      | applicable to trains to/from this location. |
+|                               |      |       |      | TIPLOC BNBRYRA                              |
+| Reservoir Engineers Sidings   | –    |       | S    | Track Code must be shown                    |
+|                               |      |       |      | TIPLOC BNBRRS                               |
+| Reservoir Neck                |      | –     | S    | For trains to/from Banbury Aggregate        |
+|                               |      |       |      | Sidings and Reservoir Engineers Sidings     |
+| Fenny Compton South Jn        |      |       |      | For planning purposes trains are timed at   |
+|                               |      |       |      | Fenny Compton                               |
+| Fenny Compton                 | –    | –     |      | Trains using the Goods Loops to show        |
+|                               |      |       |      | track codes DGL or UGL as appropriate       |
+| Kineton Jn                    |      |       |      | To/from Kineton MOD – MD460                 |
+| Fenny Compton Middle Jn       |      |       |      | For planning purposes trains are timed at   |
+|                               |      |       |      | Fenny Compton                               |
+| Fenny Compton North Jn        |      |       |      | For planning purposes trains are timed at   |
+|                               |      |       |      | Fenny Compton                               |
+| Leamington Spa South Jn       |      |       |      |                                             |
+| Leamington Spa LN113          | –    |       | S    | For reversing moves                         |
+| Leamington Spa                | –    | –     |      | Platform detail (including through lines)   |
+|                               |      |       |      | must be shown.                              |
+| Leamington Spa North Jn       |      |       |      | To/from Milverton Jn – MD405                |
+| Leamington Spa Signal LN126   | –    | –     | S    | For reversing moves                         |

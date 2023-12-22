@@ -1,0 +1,52 @@
+|                          |                   |           |                                               |
+|:-------------------------|:------------------|:----------|:----------------------------------------------|
+| Station                  | Platform          | Effective | Notes                                         |
+|                          |                   | Length m  |                                               |
+| Hatfield Peverel         | 1 (Up)            | 250       |                                               |
+| Hatfield Peverel         | 2 (Down)          | 250       |                                               |
+| Hertford East            | 1                 | 249       |                                               |
+| Hertford East            | 2                 | 249       |                                               |
+| Highams Park             | 1 (Up)            | 187.3     |                                               |
+| Highams Park             | 2 (Down)          | 186.3     |                                               |
+| Highbury & Islington NLL | 7 (Westbound)     | 111       |                                               |
+| Highbury & Islington NLL | 8 (Eastbound)     | 113       |                                               |
+| Hockley                  | 1 (Up)            | 250       |                                               |
+| Hockley                  | 2 (Down)          | 250       |                                               |
+| Homerton                 | 1 (Westbound)     | 106       |                                               |
+| Homerton                 | 2 (Eastbound)     | 106       |                                               |
+| Hoveton & Wroxham        | 1 (Up)            | 110       |                                               |
+| Hoveton & Wroxham        | 2 (Down)          | 114       |                                               |
+| Hythe                    | 1 Up              | 250       |                                               |
+| Hythe                    | 2 Down            | 272       |                                               |
+| Ilford                   | 1 (Up Main)       | 226       |                                               |
+| Ilford                   | 2 (Down Main)     | 221       |                                               |
+| Ilford                   | 3 (Up Electric)   | 233       |                                               |
+| Ilford                   | 4 (Down Electric) | 227       |                                               |
+| Ingatestone              | 1 (Up)            | 248       |                                               |
+| Ingatestone              | 2 (Down)          | 250       |                                               |
+| Ipswich                  | 1 (Bay)           | 135       | Bi-mode units only able to use Country End as |
+|                          |                   |           | per Local Instruction.                        |
+| Ipswich                  | 2 (Up)            | 245       |                                               |
+| Ipswich                  | 3 (Down)          | 255       |                                               |
+| Ipswich                  | 4 (Down Loop)     | 254       |                                               |
+| Kelvedon                 | 1 (Up)            | 249       |                                               |
+| Kelvedon                 | 2 (Down)          | 257       |                                               |
+| Kennett                  | 1 (Down)          | 69        | 4-car 755 permitted with ASDO operation       |
+| Kennett                  | 2 (Up)            | 62        | 4-car 755 permitted with ASDO operation       |
+| Kensal Rise              | 1 (Westbound)     | 106       |                                               |
+| Kensal Rise              | 2 (Eastbound)     | 122       |                                               |
+| Kentish Town West        | 1 (Westbound)     | 109       |                                               |
+| Kentish Town West        | 2 (Eastbound)     | 109       |                                               |
+| Kew Gardens              | 1 (Eastbound)     | 112       |                                               |
+| Kew Gardens              | 2 (Westbound)     | 158       |                                               |
+| King’s Lynn              | 1                 | 227       |                                               |
+| King’s Lynn              | 2                 | 183       |                                               |
+| Kirby Cross              | 1 (Up)            | 168       |                                               |
+| Kirby Cross              | 2 (Down)          | 168       |                                               |
+| Laindon                  | 1                 | 249       |                                               |
+| Laindon                  | 2                 | 249       |                                               |
+| Laindon                  | 3                 | 249       |                                               |
+| Lakenheath               | 1 (Down)          | 149       |                                               |
+| Lakenheath               | 2 (Up)            | 119       |                                               |
+| Lea Bridge               | 1 (Up)            | 172       | 10-car 720 permitted with ASDO operation      |
+| Lea Bridge               | 2 (Down)          | 176       | 10-car 720 permitted with ASDO operation      |

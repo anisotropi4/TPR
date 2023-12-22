@@ -1,0 +1,35 @@
+|                                                |                                                |        |              |
+|:-----------------------------------------------|:-----------------------------------------------|:-------|:-------------|
+| Bragbury Junction                              |                                                |        |              |
+| First Movement                                 | Second Movement                                | Margin |              |
+| Up Hertford to Down Hertford in Down direction | Pass Up Hertford in Up direction – passenger   | 21⁄2   |              |
+| Up Hertford to Down Hertford in Down direction | Pass Up Hertford in Up direction – freight     | 3      |              |
+| Up Hertford to Down Hertford in Down direction | Depart Up Hertford (Signal WL1968) in Up       | 1      |              |
+|                                                | direction                                      |        |              |
+| Down Hertford to Up Hertford in Up direction   | Pass Down Hertford in Down direction –         | 21⁄2   |              |
+|                                                | passenger                                      |        |              |
+| Down Hertford to Up Hertford in Up direction   | Pass Down Hertford in Down direction – freight | 3      |              |
+| Langley South Junction                         |                                                |        |              |
+| Adjustment to Sectional Running Times          |                                                |        |              |
+| Movement Down                                  | Reason                                         |        | Margin       |
+| Up Hertford crossing to Down Hertford          | Acceleration                                   |        | 1⁄2 after    |
+|                                                |                                                |        | Langley      |
+|                                                |                                                |        | South Jn     |
+| Movement Up                                    | Reason                                         |        | Margin       |
+| Down Hertford crossing to Up Hertford          | Approach control                               |        | 1⁄2          |
+|                                                |                                                |        | approaching  |
+|                                                |                                                |        | Langley      |
+|                                                |                                                |        | South Jn and |
+|                                                |                                                |        | 1⁄2          |
+|                                                |                                                |        | approaching  |
+|                                                |                                                |        | Bragbury Jn  |
+| Junction Margins                               |                                                |        |              |
+| First Movement                                 | Second Movement                                | Margin |              |
+| Down Hertford to Up Hertford in Up direction   | Pass Down Hertford in Down direction           | 3      |              |
+| Langley Junction                               |                                                |        |              |
+| Junction Margins                               |                                                |        |              |
+| First Movement                                 | Second Movement                                | Margin |              |
+| Pass to Stevenage Platform 5                   | Pass from Down Slow towards Molewood           | 3      |              |
+|                                                | Junction                                       |        |              |
+| Pass to Stevenage Down Slow                    | Pass from Stevenage Platform 5 to Molewood     | 3      |              |
+|                                                | Junction                                       |        |              |

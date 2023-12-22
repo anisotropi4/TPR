@@ -1,0 +1,53 @@
+|                                |         |          |      |                                             |
+|:-------------------------------|:--------|:---------|:-----|:--------------------------------------------|
+| MD166 NORTH POLE JN TO WEMBLEY |         |          |      |                                             |
+| TIMING POINT                   | DOWN    | UP       | CODE | NOTES                                       |
+| Route Boundary: South          |         |          |      | 5 miles 65 chains                           |
+| East/NW&C                      |         |          |      |                                             |
+| Mitre Bridge Jn                | – SW    | UWL      |      | To/from Kensington Olympia – Refer to       |
+|                                |         | DWL      |      | Sussex Timetable Planning Rules –           |
+|                                |         |          |      | SO250                                       |
+|                                |         |          |      | To/from Willesden High Level Jn – MD160     |
+|                                |         |          |      | To/from Willesden South West Sidings via    |
+|                                |         |          |      | SW– MD167                                   |
+| Willesden West London Jn       | – FL SL | – FL SL  |      | Timing point for all trains not using the   |
+|                                | DR UR   |          |      | SW lines.                                   |
+|                                |         |          |      | To/from Camden Jn – MD101                   |
+|                                |         |          |      | To/from Wembley Central – MD101             |
+|                                |         |          |      | To/from Acton Wells Jn (South West          |
+|                                |         |          |      | Lines) – MD167                              |
+| Willesden Euroterminal         | –       | –        | S    | Timing point for trains to/from Willesden   |
+|                                |         |          |      | Euroterminal                                |
+| Acton Lane Reception Sidings   | –       | –        | S    | Timing point for trains to/from Acton Lane  |
+|                                |         |          |      | Reception Sidings                           |
+| Willesden Jn                   |         |          |      | For timing purposes this location is shown  |
+|                                |         |          |      | as Willesden No.7                           |
+| Willesden No.7                 | FL DR   | UR DR –  | X    | Timing point for all trains on relief lines |
+|                                | UR      |          |      | and crossing moves                          |
+|                                |         |          |      | To/from Acton Canal Wharf Jn –MD170         |
+| Brent New Jn                   | –       | DR       | S    | Timing point for trains reversing or        |
+|                                |         |          |      | to/from Willesden F Sidings                 |
+| Willesden F Sidings            |         | –        | F    |                                             |
+| Wembley Yard South Jn          | DR UR – | UR DR    |      | To/from Wembley C Sidings via HLG           |
+|                                |         | HLG      |      | To/from Wembley Receptions (Reception       |
+|                                |         |          |      | & Departure Lines 1-7) via ‘–‘              |
+|                                |         |          |      | To/from Wembley DBC Fan A & B via ‘–‘       |
+|                                |         |          |      | To/From Wembley Receptions (Reception       |
+|                                |         |          |      | & Departure Lines 1-7) via ‘-‘              |
+| Sudbury Jn                     | SL –    | UR DR    |      | Timing point for all trains not passing     |
+|                                | UDR     | –        |      | on the slow lines To/from Loco Holding      |
+|                                |         |          |      | Sidings and Wembley Receptions 1-7 via      |
+|                                |         |          |      | ‘–‘                                         |
+|                                |         |          |      | To/from Wembley Central via SL – MD101      |
+|                                |         |          |      | To/from Brent Reception & Departure Line    |
+|                                |         |          |      | or Up & Down Goods via ‘–‘ – MD101          |
+| Willesden Up & Down Relief     | –       | –        |      | Track code must be shown                    |
+| Lines                          |         |          |      | TIPLOC: WLSDUDR                             |
+| Wembley Central Jn             |         |          |      | For timing purposes this location is shown  |
+|                                |         |          |      | as Wembley Central                          |
+| Wembley Central                | FL SL   | FL SL CL |      | Platform detail must be shown               |
+|                                |         | –        |      | To Willesden Up/Down Relief via ‘UDR‘       |
+|                                |         | UDR      |      | To Wembley ICD via CL                       |
+|                                |         |          |      | To Wembley Receptions (Reception &          |
+|                                |         |          |      | Departure Lines 1-7) via ‘-‘                |
+|                                |         |          |      | TIPLOC WMBY                                 |

@@ -1,0 +1,35 @@
+|                                                             |        |    |      |                                                |
+|:------------------------------------------------------------|:-------|:---|:-----|:-----------------------------------------------|
+| SW120A ALDERSHOT NORTH JUNCTION TO ALDERSHOT SOUTH JUNCTION |        |    |      |                                                |
+| TIMING POINT                                                | DOWN   | UP | CODE | NOTES                                          |
+| Aldershot North Junction                                    | -      | -  |      | To/from Aldershot - SW120                      |
+| Aldershot South Junction                                    | -      | -  |      | To/from Ash - SW265                            |
+| SW125 SOUTHCOTE JUNCTION TO BASINGSTOKE                     |        |    |      |                                                |
+| TIMING POINT                                                | DOWN   | UP | CODE | NOTES                                          |
+| Southcote Junction                                          | -      | -  |      | Regional handover timing point.                |
+|                                                             |        |    |      | Great Western Region timing point              |
+|                                                             |        |    |      | To/from Oxford Road Junction – Refer to        |
+|                                                             |        |    |      | Western & Wales Timetable Planning             |
+|                                                             |        |    |      | Rules – GW500.                                 |
+| Reading Green Park                                          | -      | -  | S    |                                                |
+| Mortimer                                                    | -      | -  | S    |                                                |
+| Bramley                                                     | -      | -  |      |                                                |
+| Basingstoke Signal BE541                                    | UR     |    | X    | Timing point for Down trains via 2606A/B       |
+|                                                             |        |    |      | points and bi-directional Up Reading           |
+| Basingstoke Signal BE547                                    | -      |    | S    |                                                |
+| Basingstoke Signal BE549                                    | -      |    | S    |                                                |
+| Basingstoke North Yard                                      |        | -  | S    |                                                |
+| Basingstoke                                                 | FL  SL | -  |      | Platform detail must be shown.                 |
+|                                                             |        |    |      | To/from Worting Junction - SW105               |
+| SW130 EASTLEIGH EAST JUNCTION TO ROMSEY                     |        |    |      |                                                |
+| TIMING POINT                                                | DOWN   | UP | CODE | NOTES                                          |
+| Eastleigh East Junction                                     | -      | -  | S  X | Timing point for all trains to/from Romsey.    |
+|                                                             |        |    |      | To/from Eastleigh - SW105                      |
+| Eastleigh Signal E228                                       |        | -  | S    |                                                |
+| Eastleigh Single Line Junction                              | -      | -  |      |                                                |
+| Chandlers Ford                                              | -      | -  | S    |                                                |
+| Romsey Single Line Junction                                 | -      | -  |      |                                                |
+| Romsey Signal E883                                          | -      |    | S    | Timing point for all trains which stop at this |
+|                                                             |        |    |      | signal                                         |
+| Romsey                                                      | -      | -  |      | Platform detail must be shown.                 |
+|                                                             |        |    |      | To/from Mottisfont  - SW150                    |

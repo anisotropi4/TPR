@@ -1,0 +1,38 @@
+|                                                           |      |    |      |                                     |
+|:----------------------------------------------------------|:-----|:---|:-----|:------------------------------------|
+| LN914 HULL TO SEAMER WEST JUNCTION                        |      |    |      |                                     |
+| TIMING POINT                                              | DOWN | UP | CODE | NOTES                               |
+| Hull                                                      | –    |    |      | Platform detail must be shown       |
+| West Parade Junction                                      |      |    |      | To/from Anlaby Road Jn – LN898      |
+| West Parade North Junction                                | –    | –  | X    | To/from Anlaby Road Jn – LN920      |
+| Walton St. Junction                                       | –    | –  | X    | To/from Springbank North Jn – LN918 |
+| Cottingham                                                | –    | –  | S    |                                     |
+| Beverley                                                  | –    | –  |      |                                     |
+| Arram                                                     | –    | –  | S    |                                     |
+| Hutton Cranswick                                          | –    | –  | S    |                                     |
+| Driffield                                                 | –    | –  |      |                                     |
+| Nafferton                                                 | –    | –  | S    |                                     |
+| Bridlington                                               | –    | –  |      | Platform detail must be shown       |
+| Bempton                                                   | –    | –  | S    |                                     |
+| Hunmanby                                                  | –    | –  |      |                                     |
+| Filey                                                     | –    | –  |      |                                     |
+| Seamer West Junction                                      |      |    |      | To/from Scarborough – LN880         |
+| LN916 HESSLE ROAD JUNCTION TO SALTEND                     |      |    |      |                                     |
+| TIMING POINT                                              | DOWN | UP | CODE | NOTES                               |
+| Hessle Road Junction                                      |      | –  |      | To/from Brough – LN898              |
+| Springbank South Junction                                 | –    | –  |      |                                     |
+| Springbank North Junction                                 | –    | –  |      | To/from Walton St. Jn – LN918       |
+| Bridges Junction                                          | –    | –  |      |                                     |
+| Hull Dock Security Gates                                  | –    | –  |      |                                     |
+| Hedon Road Sdgs                                           | –    | –  |      |                                     |
+| Hull Coal Terminal                                        |      | –  | F    |                                     |
+| Kingston Bulk Terminal                                    |      | –  | F    |                                     |
+| Hull Saltend BP                                           |      | –  | F    |                                     |
+| LN918 SPRINGBANK NORTH JUNCTION TO WALTON STREET JUNCTION |      |    |      |                                     |
+| TIMING POINT                                              | DOWN | UP | CODE | NOTES                               |
+| Springbank North Jn                                       | –    | –  |      | To/from Hessle Road Jn – LN916      |
+| Walton Street Jn                                          | –    | –  | X    | To/from Hull – LN914                |
+| LN920 ANLABY ROAD JUNCTION TO WEST PARADE NORTH JUNCTION  |      |    |      |                                     |
+| TIMING POINT                                              | DOWN | UP | CODE | NOTES                               |
+| Anlaby Road Jn                                            | –    | –  | X    | To/from Hessle Road Jn – LN898      |
+| West Parade North Jn                                      | –    | –  | X    | To/from Beverley – LN914            |

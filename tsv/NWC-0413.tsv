@@ -1,0 +1,53 @@
+|                                                            |            |               |        |                                           |
+|:-----------------------------------------------------------|:-----------|:--------------|:-------|:------------------------------------------|
+| MD166 NORTH POLE JN TO WEMBLEY                             |            |               |        |                                           |
+| LOCATION                                                   | DIRECTION  | USABLE LENGTH | NOTES  |                                           |
+|                                                            |            | SLU           | METRES |                                           |
+| Down Willesden Relief                                      | Up & Down  | 69            | 443    | Between signals WM829 and WM827           |
+| Up Willesden Relief                                        | Up & Down  | 69            | 443    | Between signals WM931 and WM929           |
+| MD736 OXFORD NORTH JUNCTION TO DENBIGH HALL SOUTH JUNCTION |            |               |        |                                           |
+| LOCATION                                                   | DIRECTION  | USABLE LENGTH | NOTES  |                                           |
+|                                                            |            | SLU           | METRES |                                           |
+| Claydon Down Loop                                          | Down       | 135           | 862    |                                           |
+| MD301 RUGBY TRENT VALLEY JN TO PENKRIDGE (VIA BIRMINGHAM)  |            |               |        |                                           |
+| LOCATION                                                   | DIRECTION  | USABLE LENGTH | NOTES  |                                           |
+|                                                            |            | SLU           | METRES |                                           |
+| Coventry                                                   | Up Slow    | 46            | 294    | Between CB6044 and RC9055 signals         |
+|                                                            | Platform 1 |               |        |                                           |
+| Coventry                                                   | Up Fast    | 46            | 294    | Between CB4046 and RC9053 signals         |
+|                                                            | Platform 2 |               |        |                                           |
+| Coventry                                                   | Up and     | 30            | 195    | Between signal CB6057 and clear of        |
+|                                                            | Down Slow  |               |        | platform 4                                |
+| Coventry                                                   | Platform 3 | 51            | 331    | Between RC4051 and CB9048 signals         |
+|                                                            | Down Fast  |               |        |                                           |
+| Coventry                                                   | Platform 4 | 38            | 247    | Between RC6049 and CB9050 signals         |
+|                                                            | Up and     |               |        |                                           |
+|                                                            | Down Slow  |               |        |                                           |
+| Birmingham International                                   | Platform 1 | 64            | 416    | Between CB8101 and clear of axle          |
+|                                                            | (Down)     |               |        | counter section CBRA                      |
+| Birmingham International                                   | Platform 1 | 64            | 413    | Between CB9108 and clear of axle          |
+|                                                            | (Up)       |               |        | counter section CBRG                      |
+| Birmingham International                                   | Platform 2 | 64            | 416    | Between CB8103 and clear of axle          |
+|                                                            | (Down)     |               |        | counter section CBRA                      |
+| Birmingham International                                   | Platform 2 | 64            | 413    | Between CB9106 and clear of axle          |
+|                                                            | (Up)       |               |        | counter section CBRG                      |
+| Birmingham International                                   | Platform 3 | 90            | 580    | Between CB4105 and clear of axle          |
+|                                                            | (Down)     |               |        | counter section CBEG                      |
+| Birmingham International                                   | Platform 3 | 117           | 753    | Between CB9104 and clear of axle          |
+|                                                            | (Up)       |               |        | counter section CBES                      |
+| Birmingham International                                   | Platform 4 | 87            | 559    | Between CB9107 and clear of axle          |
+|                                                            | (Down)     |               |        | counter section CBUV                      |
+| Birmingham International                                   | Platform 4 | 60            | 386    | Between CB4102 and clear of axle          |
+|                                                            | (Up)       |               |        | counter section CBUK                      |
+|                                                            |            |               |        |                                           |
+|                                                            |            |               |        | 91 SLU/585 metres available clear of axle |
+|                                                            |            |               |        | counter section CBUJ but foul of          |
+|                                                            |            |               |        | CB175B/A points to platform 3             |
+| Birmingham International                                   | Platform 5 | 99            | 638    | Between CB9109 and clear of axle          |
+|                                                            | (Down)     |               |        | counter section CBUV                      |
+| Birmingham International                                   | Platform 5 | 99            | 638    | Between CB7100 and clear of axle          |
+|                                                            | (Up)       |               |        | counter section CBUJ                      |
+| Monument Lane                                              | Down       | 86            | 554    | Standage at Signal BW9189                 |
+| Monument Lane                                              | Up         | 102           | 654    | Standage at Signal BW7186                 |
+| Soho North Jn – Down Soho                                  | Down       | 42            | 270    | Between signals BW8207 and BW7202         |
+| Goods Loop                                                 |            |               |        |                                           |

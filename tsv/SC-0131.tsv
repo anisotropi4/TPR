@@ -1,0 +1,44 @@
+|                                                                                                               |                                            |        |
+|:--------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:-------|
+| Mossend North Junction                                                                                        |                                            |        |
+| Adjustments to Sectional Running Times                                                                        |                                            |        |
+| Movement Down                                                                                                 | Reason                                     | Value  |
+| Down train into Up Yard, Down Yard, LHS,                                                                      | Approach Control                           | 1      |
+| Euroterminal                                                                                                  |                                            |        |
+| Movement Up                                                                                                   | Reason                                     | Value  |
+| Up train from Up Yard, Down Yard, LHS,                                                                        | Acceleration approaching Mossend East      | 1      |
+| Euroterminal                                                                                                  | Junction                                   |        |
+| Up train from Up Yard, Down Yard, LHS,                                                                        | Acceleration approaching Mossend South     | 2      |
+| Euroterminal                                                                                                  | Junction                                   |        |
+| Up train from Mossend Euroterminal, Down                                                                      | Acceleration approaching next timing point | 21⁄2   |
+| Yard or Up Yard with a length of 60 SLU to 95                                                                 |                                            |        |
+| SLU                                                                                                           |                                            |        |
+| Up train from Mossend Euroterminal, Down                                                                      | Acceleration approaching next timing point | 31⁄2   |
+| Yard or Up Yard with a length of 95 SLU +                                                                     |                                            |        |
+| Junction Margins                                                                                              |                                            |        |
+| First Movement                                                                                                | Second Movement                            | Margin |
+| Down pass                                                                                                     | Up depart Down Yard                        | 1      |
+| Up depart Down Yard                                                                                           | Down pass from Mossend South Junction      | 6      |
+| Pass from Mossend East Junction                                                                               | Depart Up Yard/LHS to Mossend South        | 1      |
+|                                                                                                               | Junction                                   |        |
+| Pass from Mossend East Junction                                                                               | Pass from Up Coatbridge                    | 4      |
+| Pass from Mossend East Junction to Up Goods                                                                   | Pass from Up Coatbridge                    | 5      |
+| Pass to Mossend South Junction                                                                                | Pass from Mossend East Junction            | 4      |
+| Pass from Up Coatbridge to Mossend East                                                                       | Depart from Up Yard/Down Yard/LHS to       | 4      |
+| Junction                                                                                                      | Mossend East Junction                      |        |
+| Pass from Up Coatbridge to Mossend East                                                                       | Depart from Up Yard/Down Yard/LHS to       | 2      |
+| Junction                                                                                                      | Mossend South Junction                     |        |
+| Pass from Up Coatbridge to Mossend South                                                                      | Depart from Up Yard/Down Yard/LHS to       | 3      |
+| Junction                                                                                                      | Mossend South Junction                     |        |
+| Passenger from Mossend East Junction                                                                          | Pass to Mossend South Jn                   | 31⁄2   |
+| Freight from Mossend East Junction                                                                            | Pass to Mossend South Jn                   | 41⁄2   |
+| Overlap Restrictions                                                                                          |                                            |        |
+| Passenger services on the Down Coatbridge must not have pathing time inserted approaching Mossend North       |                                            |        |
+| Junction if a train is crossing ahead of GMY325 signal to / from Mossend East Junction and Mossend Down Yard. |                                            |        |
+| Pathing time must be inserted approaching Mossend South Junction in this scenario.                            |                                            |        |
+| Note                                                                                                          |                                            |        |
+| No pathing time should be inserted between Mossend Yards, LHS, Euroterminal, Down Goods Loop and Mossend      |                                            |        |
+| North Junction in both directions due to no signals between these locations.                                  |                                            |        |
+|                                                                                                               |                                            |        |
+| Pathing time cannot be applied between Mossend North Junction and Mossend East Junction due to overlap        |                                            |        |
+| restrictions                                                                                                  |                                            |        |

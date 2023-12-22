@@ -1,0 +1,55 @@
+|                                   |          |        |      |                                                 |
+|:----------------------------------|:---------|:-------|:-----|:------------------------------------------------|
+| EA1011 SEVEN KINGS TO IPSWICH     |          |        |      |                                                 |
+| TIMING POINT                      | DOWN     | UP     | CODE | NOTES                                           |
+| Manningtree South Junction        |          |        |      | To/from Harwich Town – EA1120                   |
+| Manningtree Down Refuge           | -        |        | S    | Tiploc – MANNGDS                                |
+| Siding                            |          |        |      |                                                 |
+| Manningtree Signal CO750          |          | -      | S    | Tiploc – CLCH750. For trains required to shunt  |
+|                                   |          |        |      | to and from Down Refuge Siding with an RM in    |
+|                                   |          |        |      | the Location Activity field                     |
+| Manningtree North Junction        | -        | -      | X    | To/from Harwich Town – EA1120                   |
+|                                   |          |        |      | Also required for Down trains starting from     |
+|                                   |          |        |      | Platform 2 at Manningtree                       |
+| Manningtree Signal CO268          |          | -      | S    | Tiploc – MANN268. Trains towards                |
+|                                   |          |        |      | Manningtree East Junction, and which exceed     |
+|                                   |          |        |      | the standage on the North Curve, are to be      |
+|                                   |          |        |      | held at this location, if required. For ARS     |
+|                                   |          |        |      | regulating purposes an Arr and Dep time are     |
+|                                   |          |        |      | to be shown, and NOT pathing ( ) time, with an  |
+|                                   |          |        |      | A in the Location Activity field                |
+| Halifax Junction                  | UL DL    | -      |      |                                                 |
+| Ipswich                           | - DUL UM | UL  DL |      | Platform detail must be shown                   |
+|                                   |          |        |      | To/from East Suffolk Junction – EA1012          |
+| EA1012 IPSWICH TO TROWSE JUNCTION |          |        |      |                                                 |
+| TIMING POINT                      | DOWN     | UP     | CODE | NOTES                                           |
+| Ipswich                           | - DUL UM | UL  DL |      | Platform detail must be shown                   |
+|                                   |          |        |      | To/from Halifax Junction – EA1011               |
+| Ipswich HS                        | -        | -      | S    | Tiploc - IPSWCHS                                |
+| Ipswich Signal CO822              | -        | -      | S    | Timing point for shunt moves to/from down       |
+|                                   |          |        |      | side station sidings and Ipswich Station        |
+| Ipswich Signal CO326              |          |        | S    | Required for shunting movements                 |
+| Ipswich Signal CO328              |          |        | S    | Required for shunting movements                 |
+| Ipswich Down & Up Goods           | -        | -      | S    | Tiploc - IPSWUDG                                |
+| Ipswich Reception                 | -        | -      | F    | Tiploc - IPSWSS                                 |
+| Freightliner                      |          |        |      |                                                 |
+| Ipswich Reception GBRF            | -        | -      | F    | Tiploc - IPSWYGB                                |
+| Ipswich Reception DB Cargo        | -        | -      | F    | Tiploc - IPSWFDS                                |
+| East Suffolk Junction             | -        | UM DUL |      | To/from Westerfield – EA1430                    |
+| Europa Junction                   | -        | -      |      | Tiploc - IPSWEPJ                                |
+|                                   |          |        |      | To/from Boss Hall Junction via Bacon Factory    |
+|                                   |          |        |      | Curve – EA1744                                  |
+| Claydon                           | -        | -      | S P  | Mandatory for passenger services                |
+| Barham Sidings                    |          |        | S    |                                                 |
+| Barham Ground Signal              |          |        | S    | Timing point to be used for services from the   |
+| CO1379                            |          |        |      | Stowmarket direction required to propel (PR)    |
+|                                   |          |        |      | into Barham Sidings                             |
+| Needham Market                    | -        | -      | S    |                                                 |
+| Stowmarket Down & Up              | -        | -      | S    | D&UGL                                           |
+| Goods Loop                        |          |        |      |                                                 |
+| Stowmarket                        | -        | -      |      |                                                 |
+| Haughley Junction                 | -        | -      |      | To/from Bury St Edmunds – EA1530                |
+| Cow Green Crossover               | -        | -      | X    | Timing point to be used for Single Line working |
+| Diss                              | -        | -      |      |                                                 |
+| Diss Reception                    | -        | -      | S    |                                                 |
+| Flordon                           | -        | -      |      | Tiploc - TROWFLR                                |

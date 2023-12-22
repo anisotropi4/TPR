@@ -1,0 +1,16 @@
+|                                                                                                |
+|:-----------------------------------------------------------------------------------------------|
+| Nuneaton                                                                                       |
+| Platform End Conflicts                                                                         |
+| Non-stop Down train preceding an arrival from Abbey Jn must have 3 minutes clear               |
+| Non-stop Down train following an arrival from Abbey Jn must have 3 minutes clear               |
+| Non-stop Up train preceding an arrival from Coventry/ Abbey Jn must have 2 minutes clear       |
+| Non-stop Up train following an arrival from Coventry/ Abbey Jn must have 4 minutes clear       |
+| Stopping Down train preceding an arrival from Coventry must have 3 minutes clear               |
+| Stopping Down train preceding an arrival from Abbey Jn must have 2 minutes clear               |
+| Stopping Down train following an arrival from Coventry must have 4 minutes clear               |
+| Stopping Down train following an arrival from Abbey Jn must have 3 minutes clear               |
+| Stopping Up train preceding an arrival from Coventry/ Abbey Jn must have 2 minutes clear       |
+| Stopping Up train following an arrival from Coventry/ Abbey Jn must have 3 minutes clear       |
+| Conflicting move departures/arrivals to/from same origin/destination must have 5 minutes clear |
+| Minimum Turnround Time – Trains changing direction at end of journey                           |

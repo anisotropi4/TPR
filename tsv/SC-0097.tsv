@@ -1,0 +1,35 @@
+|                                                                                   |                                                         |            |
+|:----------------------------------------------------------------------------------|:--------------------------------------------------------|:-----------|
+| SC003 CARSTAIRS SOUTH JUNCTION TO HAYMARKET EAST JUNCTION                         |                                                         |            |
+| Carstairs East Junction                                                           |                                                         |            |
+| Junction Margins                                                                  |                                                         |            |
+| First Movement                                                                    | Second Movement                                         | Margin     |
+| Pass from Midcalder Jn to Carstairs                                               | Pass from Carstairs North Jn (not stopping at           | 51⁄2       |
+|                                                                                   | Carstairs)                                              |            |
+| Pass from Midcalder Jn to Carstairs/Carstairs                                     | Pass from Carstairs South Jn                            | 31⁄2       |
+| North Jn                                                                          |                                                         |            |
+| Restriction                                                                       |                                                         |            |
+| Standage at GMC418 (SC005) signal is 276m without fouling Carstairs East Junction |                                                         |            |
+| The standage between GMC418 and GMC427 signals (SC005) is 179m                    |                                                         |            |
+| Midcalder Junction                                                                |                                                         |            |
+| Adjustments to Sectional Running Times                                            |                                                         |            |
+| Movement                                                                          | Reason                                                  | Value      |
+| Trains to Shotts Line                                                             | Deceleration of trains capable of 90mph or              | 1⁄2 before |
+|                                                                                   | above, not stopping at Kirknewton and                   | Midcalder  |
+|                                                                                   | Livingston South                                        | Junction   |
+| Trains from Shotts Line                                                           | Acceleration of trains capable of 90mph or              | 1⁄2 after  |
+|                                                                                   | above, not stopping at Kirknewton and                   | Midcalder  |
+|                                                                                   | Livingston South                                        | Junction   |
+| Trains departing from Midcalder Junction                                          | Acceleration between Midcalder Junction and             | 2 MU       |
+| (USH) towards Slateford                                                           | Slateford                                               | 2 LH       |
+| Junction Margins                                                                  |                                                         |            |
+| First Movement                                                                    | Second Movement                                         | Margin     |
+| Pass to Shotts                                                                    | Pass from Shotts using Down Shotts Line                 | 4          |
+| Pass to Slateford using Down Shotts Line                                          | Pass to Shotts                                          | 3          |
+| Pass to Shotts                                                                    | Pass from Carstairs                                     | 3          |
+| Kirknewton                                                                        |                                                         |            |
+| Dwell Time                                                                        |                                                         |            |
+| MU                                                                                | 1 Up direction only, in order to operate Level Crossing |            |
+| Kingsknowe                                                                        |                                                         |            |
+| Dwell Time                                                                        |                                                         |            |
+| MU                                                                                | 1 Up direction only, in order to operate Level Crossing |            |

@@ -1,0 +1,45 @@
+|                                              |                                            |             |
+|:---------------------------------------------|:-------------------------------------------|:------------|
+| Broxbourne                                   |                                            |             |
+| Adjustments to Sectional Running Times       |                                            |             |
+| Movement                                     | Reason                                     | Value       |
+| All Up trains departing from Platform 4      | Via slow speed crossover                   | {1⁄2}       |
+| Up trains routed via Platform 1 from Harlow  | Via slow speed crossover                   | {1}         |
+| Town direction                               |                                            |             |
+| Down trains from Platform 4 towards Harlow   | Via slow speed crossover                   | {1⁄2}       |
+| Town                                         |                                            | approaching |
+|                                              |                                            | next timing |
+|                                              |                                            | point       |
+| Dwell Time                                   | 1 AM/PM                                    |             |
+|                                              | peak                                       |             |
+|                                              | Cambridge                                  |             |
+|                                              | services                                   |             |
+| Junction Margins                             |                                            |             |
+| First Movement                               | Second Movement                            | Margin      |
+| Arrive platform 1                            | Pass platform 2                            | 2           |
+| Arrive platform 4 or pass platform 4 to down | Pass platform 3                            | 2           |
+| goods loop                                   |                                            |             |
+| Down passenger pass/arrive platform 3        | Up train depart platform 4                 | 1           |
+| Down freight pass platform 3                 | Up train depart platform 4                 | 2           |
+| Down train pass platform 3                   | Down train depart platform 4               | 2           |
+| Up train pass platform 2                     | Up train depart platform 1 or 4            | 2           |
+| Up train passes platform 2                   | Up freight departs Up Goods Loop           | 11⁄2        |
+| Broxbourne Junction                          |                                            |             |
+| Adjustments to Sectional Running Times       |                                            |             |
+| Movement                                     | Reason                                     | Value       |
+| Down trains towards Hertford East            | Via slow speed crossover                   | {1⁄2}       |
+| Up trains from Hertford East direction       | Via slow speed crossover                   | {1}         |
+|                                              |                                            | approaching |
+|                                              |                                            | next timing |
+|                                              |                                            | point       |
+| Junction Margins                             |                                            |             |
+| First Movement                               | Second Movement                            | Margin      |
+| Down direction train towards Harlow Town     | Up direction train from Hertford Branch    | 2           |
+| Up direction train from Hertford Branch      | Down direction train towards Harlow Town   | 21⁄2        |
+| Up pass from Harlow Town towards             | Up train from Hertford Branch towards      | 2           |
+| Broxbourne                                   | Broxbourne                                 |             |
+| Down direction train towards Hertford East   | Down direction train towards Harlow Town   | 2           |
+| Down direction train towards Harlow Town     | Down direction train towards Hertford East | 2           |
+| Harlow Town                                  |                                            |             |
+| Dwell Time                                   |                                            | 1 AM/PM     |
+|                                              |                                            | peak        |

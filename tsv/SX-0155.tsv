@@ -1,0 +1,51 @@
+|                 |                          |        |                |
+|:----------------|:-------------------------|:-------|:---------------|
+| STATION         | PLATFORM AND LINE        | USABLE | NOTES          |
+|                 |                          | LENGTH |                |
+| Fishersgate     | 1 - Up Brighton          | 84     |                |
+| Fishersgate     | 2 - Down Brighton        | 84     |                |
+| Ford            | 1 - Up Brighton          | 162    |                |
+| Ford            | 2 - Down Brighton        | 162    |                |
+| Forest Hill     | 1 - Up Slow              | 179    |                |
+| Forest Hill     | 2 - Down Slow            | 185    |                |
+| Gatwick Airport | 1 – Up Platform Loop     | 246    | Down direction |
+| Gatwick Airport | 1 - Up Platform Loop     | 246    | Up direction   |
+| Gatwick Airport | 2 - Up Slow              | 246    | Down direction |
+| Gatwick Airport | 2 - Up Slow              | 246    | Up direction   |
+| Gatwick Airport | 3 - Down Slow            | 246    | Down direction |
+| Gatwick Airport | 3 - Down Slow            | 246    | Up direction   |
+| Gatwick Airport | 4 - Up Fast              | 246    |                |
+| Gatwick Airport | 5 - Down Fast            | 246    | Down direction |
+| Gatwick Airport | 5 - Down Fast            | 246    | Up direction   |
+| Gatwick Airport | 6 – Down Platform Loop 2 | 246    | Down direction |
+|                 | Reversible               |        |                |
+| Gatwick Airport | 6 – Down Platform Loop 2 | 246    | Up direction   |
+|                 | Reversible               |        |                |
+| Gatwick Airport | 7 - Down Platform Loop 1 | 247    | Down direction |
+| Gipsy Hill      | 1 - Up Crystal Palace    | 201    |                |
+| Gipsy Hill      | 2 - Down Crystal Palace  | 201    |                |
+| Glynde          | 1 - Up Main              | 133    |                |
+| Glynde          | 2 - Down Main            | 138    |                |
+| Godstone        | 1 - Up Tonbridge         | 89     |                |
+| Godstone        | 2 - Down Tonbridge       | 118    |                |
+| Goring-by-Sea   | 1 - Up Brighton          | 122    |                |
+| Goring-by-Sea   | 2 - Down Brighton        | 144    |                |
+| Hackbridge      | 1 - Up Portsmouth        | 155    |                |
+| Hackbridge      | 2 - Down Portsmouth      | 158    |                |
+| Haggerston      | 2 – Down                 | 88     |                |
+| Ham Street      | 1 - Up Hastings          | 91     |                |
+| Ham Street      | 2 - Down Hastings        | 85     |                |
+| Hampden Park    | 1 - Up Main              | 207    |                |
+| Hampden Park    | 2 - Down Main            | 207    |                |
+| Hassocks        | 1 - Up Main              | 274    | Down direction |
+| Hassocks        | 1 - Up Main              | 274    | Up direction   |
+| Hassocks        | 2 - Down Main            | 274    | Down direction |
+| Hassocks        | 2 - Down Main            | 274    | Up direction   |
+| Hastings        | 1 - Down Ore Bay         | 167    |                |
+| Hastings        | 2 - Up Hastings          | 246    | Down direction |
+| Hastings        | 2 - Up Hastings          | 246    | Up direction   |
+| Hastings        | 3 - Down Hastings        | 248    | Down direction |
+| Hastings        | 3 - Down Hastings        | 248    | Up direction   |
+| Hastings        | 4 - Down Passenger Loop  | 247    |                |
+| Haydons Road    | 1 - Up St Helier         | 164    |                |
+| Haydons Road    | 2 - Down St Helier       | 159    |                |

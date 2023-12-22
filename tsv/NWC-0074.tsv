@@ -1,0 +1,46 @@
+|                                                              |         |         |      |                                         |
+|:-------------------------------------------------------------|:--------|:--------|:-----|:----------------------------------------|
+| NW1001 ARMITAGE JN (INCLUSIVE) TO PRESTON FYLDE JN           |         |         |      |                                         |
+| TIMING POINT                                                 | DOWN    | UP      | CODE | NOTES                                   |
+| Preston                                                      | DTL DFL | UFL DFL |      | Platform detail must be shown           |
+|                                                              | UFL DSL | USL DSL |      | Down direction line code usage          |
+|                                                              | USL GL  | GL      |      | DFL – Only from platform 3              |
+|                                                              |         |         |      | DSL – Only from platform 1              |
+|                                                              |         |         |      | DTL – Only from platform 4,5,6 or GL    |
+|                                                              |         |         |      | UFL - Only from platform 4,5,6 or GL    |
+|                                                              |         |         |      | USL – Only from platform 2              |
+|                                                              |         |         |      | GL – Only from RES, DGL or UGL          |
+| Preston Fylde Jn                                             | –       | UTL UFL |      | To/from Lancaster – NW4001              |
+|                                                              |         | DFL USL |      | To/from Deepdale – NW4003               |
+|                                                              |         | DSL GL  |      | To/from Kirkham & Wesham – NW4005       |
+|                                                              |         |         |      | Up Direction line code usage            |
+|                                                              |         |         |      | DFL – Only to platform 3                |
+|                                                              |         |         |      | DSL – Only to platform 1                |
+|                                                              |         |         |      | UFL - Only to platform 4, 5, 6 or GL    |
+|                                                              |         |         |      | USL – Only to platform 2                |
+|                                                              |         |         |      | UTL – Only to platform 4, 5, 6 or GL    |
+|                                                              |         |         |      | GL - Only to RES, DGL or UGL            |
+| NW1002 PENKRIDGE STATION (INCLUSIVE) TO TRENT VALLEY JN NO.1 |         |         |      |                                         |
+| (STAFFORD)                                                   |         |         |      |                                         |
+| TIMING POINT                                                 | DOWN    | UP      | CODE | NOTES                                   |
+| Penkridge                                                    | –       | –       |      | To/from Bushbury Jn – MD301             |
+| Rickerscote                                                  |         | –       | S    | Recessed trains only                    |
+| Stafford Trent Valley Jn                                     | SL      | –       |      | To/from Stafford – NW1001               |
+| NW1004 RUGELEY TOWN (EXCLUSIVE) TO RUGELEY NORTH JN          |         |         |      |                                         |
+| TIMING POINT                                                 | DOWN    | UP      | CODE | NOTES                                   |
+| Rugeley Power Station Jn                                     | –       | –       |      | To/from Rugeley ‘B’ Power Station       |
+|                                                              |         |         |      | To/from Hednesford – MD345              |
+| Rugeley Trent Valley                                         | UDC     | –       |      | Platform detail must be shown           |
+| Rugeley North Jn                                             | FL SL   | FL SL   |      | To/from Colwich – NW1001                |
+|                                                              |         | UDC     |      |                                         |
+| NW1005 KIDSGROVE JN TO CREWE SOUTH JN                        |         |         |      |                                         |
+| TIMING POINT                                                 | DOWN    | UP      | CODE | NOTES                                   |
+| Kidsgrove Jn                                                 |         |         |      | To/from Stoke on Trent – NW5009         |
+| Kidsgrove                                                    | –       | –       |      |                                         |
+| Alsager Up & Down Goods Loop                                 | –       | –       | F    |                                         |
+| Alsager                                                      | –       | –       |      |                                         |
+| Barthomley Jn                                                |         | –       |      | Single Line from Barthomley Jn to North |
+|                                                              |         |         |      | Stafford Jn                             |
+| North Stafford Jn                                            | –       | –       |      |                                         |
+| Up and Down Potteries Loop                                   | –       | –       | S    |                                         |
+| Crewe South Jn                                               | –       |         |      | To/from Crewe – NW1001                  |

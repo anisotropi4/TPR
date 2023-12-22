@@ -1,0 +1,51 @@
+|                                          |                                                 |       |      |                                 |                                            |
+|:-----------------------------------------|:------------------------------------------------|:------|:-----|:--------------------------------|:-------------------------------------------|
+|                                          | GW401 ASHCHURCH (INCL.) TO WESTERLEIGH JUNCTION |       |      |                                 |                                            |
+|                                          | TIMING POINT                                    | DOWN  | UP   | CODE                            | NOTES                                      |
+|                                          | Ashchurch                                       | –     | –    |                                 | Platform detail must be shown.             |
+|                                          | Ashchurch MOD                                   | –     | –    | S                               |                                            |
+|                                          | Ashchurch War Dept. G.F                         | –     | –    | S                               |                                            |
+|                                          | Ashchurch G453 Signal                           | –     | –    | S                               |                                            |
+|                                          | Cheltenham G422 Signal                          | –     | –    | S                               | Shunt moves crossing to the Down Main      |
+|                                          | Cheltenham High St Goods Loop                   | –     | –    | S                               | Up goods loop at 86miles                   |
+|                                          | Alstone Level Crossing                          | –     | –    | F                               | Freight trains stop to pick up/set down    |
+|                                          |                                                 |       |      |                                 | token for Sharpness branch                 |
+|                                          | Alstone Carriage Sidings                        | –     | –    | S                               | Reversal point for Cheltenham terminating  |
+|                                          |                                                 |       |      |                                 | trains                                     |
+|                                          | Cheltenham Spa                                  | –     | –    |                                 | Platform detail must be shown.             |
+|                                          | Cheltenham Lansdown Loop                        | –     | –    | S                               |                                            |
+|                                          | Barnwood Junction                               | –     | –    |                                 | To/from Horton Road Jn – GW700             |
+|                                          | Gloucester New Yard                             | –     | –    | S                               |                                            |
+|                                          | G356 Signal                                     | UDG   |      | S                               | Recess on Up/Down Goods                    |
+|                                          | G339 Signal                                     |       | UDG  | S                               | Recess on Up/Down Goods                    |
+|                                          | Gloucester Yard Junction                        | –     | –    |                                 | To/from Horton Road Jn – GW490             |
+|                                          | Haresfield Loop                                 | –     | –    | S                               |                                            |
+|                                          | Standish Junction                               | –     | –    |                                 | To/from St Mary’s Level Crossing - GW480   |
+|                                          | Cam & Dursley                                   | –     | –    | S                               | Platform detail must be shown.             |
+|                                          | Berkeley Road Junction                          | –     | –    | X                               | To/from Sharpness GW425                    |
+|                                          | Charfield                                       |       |      |                                 |                                            |
+|                                          | Yate Middle Junction                            |       |      |                                 | To/from Tytherington – GW430               |
+|                                          | Yate                                            | – UL* | –    |                                 | * for use when running bi-directionally    |
+|                                          |                                                 |       |      |                                 | between Yate South Jn and Westerleigh      |
+|                                          |                                                 |       |      |                                 | Jn                                         |
+|                                          | Yate South Junction                             |       |      |                                 | To/from Westerleigh – GW440                |
+|                                          | Westerleigh Junction                            | –     | –    |                                 | To/from Bristol Parkway – GW600            |
+|                                          | GW425 BERKELEY ROAD JUNCTION TO SHARPNESS       |       |      |                                 |                                            |
+|                                          | TIMING POINT                                    | DOWN  | UP   | CODE                            | NOTES                                      |
+|                                          | Berkeley Road Junction                          | –     | –    |                                 | To/from Standish Jn – GW401                |
+|                                          |                                                 |       |      |                                 | NB Sharpness branch trains should be       |
+|                                          |                                                 |       |      |                                 | timed to stop at Alstone Level Crossing to |
+|                                          |                                                 |       |      |                                 | pick up/set down token (refer GW401)       |
+|                                          | Berkeley N Electric Sdng                        | –     | –    | S                               |                                            |
+|                                          | Sharpness Docks                                 | –     | –    | S                               |                                            |
+|                                          | GW430 YATE MIDDLE JUNCTION TO TYTHERINGTON      |       |      |                                 |                                            |
+|                                          | TIMING POINT                                    | DOWN  | UP   | CODE                            | NOTES                                      |
+|                                          | Yate Middle Junction                            |       |      |                                 | To/from Yate – GW401                       |
+|                                          |                                                 |       |      |                                 | Trains to Tytherington stop to pick up/set |
+|                                          |                                                 |       |      |                                 | down token                                 |
+|                                          | Tytherington                                    | –     | –    |                                 |                                            |
+| GW440 YATE SOUTH JUNCTION TO WESTERLEIGH |                                                 |       |      |                                 |                                            |
+| TIMING POINT                             | DOWN                                            | UP    | CODE | NOTES                           |                                            |
+| Yate South Junction                      |                                                 |       |      | To/from Yate – GW401            |                                            |
+| Yate Signal 568                          |                                                 | –     | S    | Timing point for up trains only |                                            |
+| Westerleigh Murco Oil Terminal           | –                                               |       | S    |                                 |                                            |

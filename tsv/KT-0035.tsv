@@ -1,0 +1,33 @@
+|                                                              |       |        |      |                                          |
+|:-------------------------------------------------------------|:------|:-------|:-----|:-----------------------------------------|
+| SO130D ST JOHNS JUNCTION TO LEWISHAM JUNTION                 |       |        |      |                                          |
+| TIMING POINT                                                 | DOWN  | UP     | CODE | NOTES                                    |
+| St Johns Junction                                            |       |        |      | To/from St Johns - SO130                 |
+| Lewisham Junction                                            |       |        |      | To from Lewisham - SO330                 |
+|                                                              |       |        |      | To/from Blackheath – SO300               |
+| SO130E PARKS BRIDGE JUNCTION TO LADYWELL JUNCTION            |       |        |      |                                          |
+| TIMING POINT                                                 | DOWN  | UP     | CODE | NOTES                                    |
+| Parks Bridge Junction                                        | LW    | UKF    |      | To/from New Cross – SO130                |
+| Ladywell Junction                                            | -     | LW     |      | To/from Ladywell - SO330                 |
+| SO130F COURTHILL LOOP NORTH JUNCTION TO COURTHILL LOOP SOUTH |       |        |      |                                          |
+| JUNCTION                                                     |       |        |      |                                          |
+| TIMING POINT                                                 | DOWN  | UP     | CODE | NOTES                                    |
+| Courthill Loop North Junction                                |       |        |      | To/from Lewisham - SO330                 |
+| Courthill Loop South Junction                                | DKS   | -      |      | For Bplan/ITPS purposes, timing point    |
+|                                                              |       |        |      | shown as Parks Bridge Junction           |
+|                                                              |       |        |      |                                          |
+|                                                              |       |        |      | To/from Hither Green - SO130             |
+| SO130G CHISLEHURST JUNCTION TO ST MARY CRAY JUNCTION         |       |        |      |                                          |
+| TIMING POINT                                                 | DOWN  | UP     | CODE | NOTES                                    |
+| Chislehurst Junction                                         |       |        |      | To/from Chislehurst – SO130              |
+| Chislehurst Signal AD22                                      |       | CL     | S    | TIPLOC CHSL22                            |
+|                                                              |       |        |      | To be used in preference of pathing time |
+|                                                              |       |        |      | on the Up Chatham Loop                   |
+| Hawkwood Junction                                            |       |        |      | On Up Chatham Loop Only                  |
+| St Mary Cray Junction                                        | FL SL | CL RVL |      | To/from St Mary Cray - SO110             |
+| SO130H SALTWOOD JUNCTION TO CTRL/ET BOUNDARY                 |       |        |      |                                          |
+| TIMING POINT                                                 | DOWN  | UP     | CODE | NOTES                                    |
+| Saltwood Junction                                            | -     | -      |      | To/from Sandling - SO130                 |
+| Dollands Moor Sidings                                        | -     | -      | F S  |                                          |
+| Dollands Moor LHS                                            | -     | -      | F S  |                                          |
+| CTRL/ET Boundary                                             | -     | -      |      | To/from CTRL –- SO400                    |

@@ -1,0 +1,46 @@
+|                                                            |      |    |      |                                          |
+|:-----------------------------------------------------------|:-----|:---|:-----|:-----------------------------------------|
+| GW790 PENGAM JN TO 4M 54C, BOUNDARY WITH ABP CARDIFF DOCKS |      |    |      |                                          |
+| TIMING POINT                                               | DOWN | UP | CODE | NOTES                                    |
+| Pengam Junction                                            | –    | –  |      | To/from Marshfield – GW900               |
+| Cardiff Tidal TC                                           |      |    |      |                                          |
+| Cardiff Docks                                              |      | –  |      |                                          |
+| GW810 RHYMNEY TO QUEEN STREET NORTH JUNCTION               |      |    |      |                                          |
+| TIMING POINT                                               | DOWN | UP | CODE | NOTES                                    |
+| Rhymney North Ground Frame                                 | –    | –  | S    |                                          |
+| Rhymney Sidings                                            | –    | –  | S    |                                          |
+| Rhymney                                                    | –    |    |      |                                          |
+| Rhymney South Ground Frame                                 | –    | –  | S    |                                          |
+| Pontlottyn                                                 | –    | –  | S    |                                          |
+| Tir–Phil                                                   | –    | –  |      | Platform detail must be shown            |
+| Brithdir                                                   | –    | –  | S    |                                          |
+| Bargoed Single Line Jn                                     | –    | –  | S    | Shunt moves from Bargoed Platform 2 to 1 |
+| Bargoed Viaduct Siding                                     |      |    | S    | Shunt moves to/ from Bargoed Platform 1  |
+| Bargoed                                                    | –    | –  |      | Platform detail must be shown            |
+| Gilfach Fargoed                                            | –    | –  | S    |                                          |
+| Pengam                                                     | –    | –  | S    |                                          |
+| Hengoed                                                    | –    | –  | S    |                                          |
+| Ystrad Mynach                                              | –    | –  |      | Platform detail must be shown            |
+| Ystrad Mynach South                                        | –    | –  | S X  | To/from Cwmbargoed – GW820               |
+|                                                            |      |    |      | Trains timed via the Down Rhymney Loop   |
+|                                                            |      |    |      | must show DPL in the Platform Details    |
+|                                                            |      |    |      | field                                    |
+| Llanbradach                                                | –    | –  | S    |                                          |
+| Energlyn and Churchill Park                                | –    | –  | S    |                                          |
+| Aber                                                       | –    | –  | S    |                                          |
+| Caerphilly                                                 | –    | –  |      | Platform detail must be shown.  Values   |
+|                                                            |      |    |      | which can be shown in the “Platform      |
+|                                                            |      |    |      | Details” field are:                      |
+|                                                            |      |    |      | 1 – Platform 1 (Bay)                     |
+|                                                            |      |    |      | 2 – Platform 2 (Down)                    |
+|                                                            |      |    |      | 3 – Platform 3 (Up)                      |
+| Lisvane Thornhill                                          | –    | –  | S    |                                          |
+| Llanishen                                                  | –    | –  | S    |                                          |
+| Heath High Level                                           | –    | –  | S    |                                          |
+| Heath Junction                                             | –    | –  |      | To/from Coryton – GW828                  |
+| Queen Street North Junction                                |      |    |      | To/from Queen Street – GW830             |
+| GW820 CWMBARGOED TO YSTRAD MYNACH SOUTH                    |      |    |      |                                          |
+| TIMING POINT                                               | DOWN | UP | CODE | NOTES                                    |
+| Cwmbargoed Opencast Colliery                               | –    |    |      | Single Line                              |
+| Cwmbargoed                                                 | –    | –  |      | Single Line                              |
+| Ystrad Mynach South                                        | –    | –  |      | To/from Caerphilly – GW810               |

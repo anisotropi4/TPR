@@ -1,0 +1,47 @@
+|                                                  |                                                |                |
+|:-------------------------------------------------|:-----------------------------------------------|:---------------|
+| Carnforth South Jn                               |                                                |                |
+| Junction Margins                                 |                                                |                |
+| First Movement                                   | Second Movement                                | Margin         |
+| Pass to Up & Down Goods No.1 or No.2             | Pass Morecambe South Jn towards Carnforth      | Simultaneous   |
+|                                                  | North Jn                                       |                |
+| Pass Carnforth North Jn on Up Main               | Depart Carnforth South Jn to Up Main           | 3              |
+| Depart Carnforth South Jn from Up & Down         | Pass Carnforth North Jn on Down Main           | Simultaneous   |
+| Goods No.1 or Up & Down Goods No.2 to Up         |                                                |                |
+| Main                                             |                                                |                |
+| Pass Carnforth North Jn on Down Main             | Depart Carnforth South Jn from Up & Down       | Simultaneous   |
+|                                                  | Goods No.1 or Up & Down Goods No.2 to Up       |                |
+|                                                  | Main                                           |                |
+| Carnforth North Jn                               |                                                |                |
+| Adjustments to Sectional Running Times           |                                                |                |
+| Movement Down                                    | Reason                                         | Value          |
+| All Down trains to Carnforth platform 2 or Down  | Conditional red signals and slow speed turnout | 2              |
+| Furness Goods                                    |                                                |                |
+| Movement Up                                      | Reason                                         | Value          |
+| Up train from Carnforth platform 1 or platform 2 | Low speed junction at Carnforth North Jn       | 1 except for   |
+|                                                  |                                                | Class 185      |
+|                                                  |                                                | and 195        |
+|                                                  |                                                | 11⁄2 for Class |
+|                                                  |                                                | 185 and        |
+|                                                  |                                                | Class 195      |
+| All trains routed to Carnforth Up Passenger      | Approach control                               | 2              |
+| Loop, Up & Down Goods No.1 or Up & Down          |                                                |                |
+| Goods No.2                                       |                                                |                |
+| Oxenholme Lake District                          |                                                |                |
+| Adjustments to Sectional Running Times           |                                                |                |
+| Movement                                         | Reason                                         | Value          |
+| Down train routed via the Down Main towards      | Approach control                               | 1              |
+| Oxenholme Platform 3                             |                                                |                |
+| Up train routed to the Up Goods Loop             | Approach control                               | 1              |
+| Departing Platform 3 to Up Main                  | Acceleration to main line speed                | 1⁄2            |
+| Dwell Time                                       |                                                |                |
+| Standard (excluding Class 22x/390/80x)           |                                                | 1*             |
+| * - 2 minutes if from Windermere branch          |                                                |                |
+| Junction Margins                                 |                                                |                |
+| First Movement                                   | Second Movement                                | Margin         |
+| Train departs Oxenholme in Down direction        | Train departs from signal CE45 on Down         | 21⁄2           |
+|                                                  | Windermere to Down Main                        |                |
+| Train passes Oxenholme in Down direction         | Train departs from signal CE45 on Down         | 11⁄2           |
+|                                                  | Windermere to Down Main                        |                |
+| Train departs CE45 on Down Windermere to         | Train passes Oxenholme in Down direction       | 4              |
+| Down Main                                        |                                                |                |

@@ -1,0 +1,39 @@
+|                                                                                                               |      |     |     |     |                                              |
+|:--------------------------------------------------------------------------------------------------------------|:-----|:----|:----|:----|:---------------------------------------------|
+| SC123 BATHGATE TO HELENSBURGH AND ASSOCIATED ROUTES                                                           |      |     |     |     |                                              |
+| Timing Section                                                                                                | Type | LH  | MU# | FRT | Remarks                                      |
+|                                                                                                               |      | HST |     |     |                                              |
+|                                                                                                               |      | 22X |     |     |                                              |
+| # EMU Point to Point timings have 5% allowance built in.  See note regarding EMUs at the beginning of Section |      |     |     |     |                                              |
+| 5.5.  West Highland services have allowance built in to cover speed restrictions.                             |      |     |     |     |                                              |
+| SC143 CRIANLARICH TO OBAN                                                                                     |      |     |     |     |                                              |
+| Timing Section                                                                                                | Type | LH  | MU  | FRT | Remarks                                      |
+|                                                                                                               |      | HST |     |     |                                              |
+|                                                                                                               |      | 22X |     |     |                                              |
+| Down – Weekdays                                                                                               |      |     |     |     |                                              |
+| Approaching Oban                                                                                              | E    | 1   | 1   | 1   |                                              |
+| Up – Weekdays                                                                                                 |      |     |     |     |                                              |
+| Approaching Crianlarich                                                                                       | E    | 1   | 1   | 1   | Applies to trains from Oban line only        |
+|                                                                                                               |      |     |     |     | West Highland services have allowance        |
+|                                                                                                               |      |     |     |     | built in to cover speed restrictions (except |
+|                                                                                                               |      |     |     |     | Crianlarich – Oban section)                  |
+| SC147 BERWICK TO EDINBURGH WAVERLEY                                                                           |      |     |     |     |                                              |
+| Timing Section                                                                                                | Type | LH  | MU# | FRT | Remarks                                      |
+|                                                                                                               |      | HST |     |     |                                              |
+|                                                                                                               |      | 22X |     |     |                                              |
+|                                                                                                               |      | 80X |     |     |                                              |
+| Down – Weekdays                                                                                               |      |     |     |     |                                              |
+| Between Route Boundary and                                                                                    | P    | 1*  | 1*  |     | 0635 – 2305 FSX                              |
+| Monktonhall Jn                                                                                                |      |     |     |     | 0635 – 0005 FO                               |
+|                                                                                                               |      |     |     |     | 0635 – 2359 SO                               |
+|                                                                                                               |      |     |     |     | Time may be split if required                |
+| Approaching Drem                                                                                              | E    |     |     | 1   |                                              |
+| Approaching Monktonhall Junction                                                                              | E    | 1   | 1   | 1   | 0645 – 0030 EWD                              |
+| Up – Weekdays                                                                                                 |      |     |     |     |                                              |
+| Approaching Drem                                                                                              | E    |     |     | 1   | 0530 – 0025 EWD                              |
+| Between Monktonhall Jn and                                                                                    | P    | 1*  | 1*  |     | 0530 – 0025 EWD                              |
+| Route Boundary                                                                                                |      |     |     |     | Time may be split if required                |
+| Approaching EG402                                                                                             | E    | 1   | 1   | 1   | 0615 – 2240 SX                               |
+|                                                                                                               |      |     |     |     | 0615 – 2359 SO                               |
+| # See note regarding EMUs at the beginning of Section 5.5                                                     |      |     |     |     |                                              |
+| * Only applies to services travelling south of Dunbar                                                         |      |     |     |     |                                              |

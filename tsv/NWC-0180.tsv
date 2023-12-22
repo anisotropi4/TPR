@@ -1,0 +1,30 @@
+|                                                                                                         |                                                                        |        |
+|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|:-------|
+| Watford Junction                                                                                        |                                                                        |        |
+| Trains entering or leaving passenger service and continuing in same direction (inclusive of Dwell Time) |                                                                        |        |
+| West Midlands Trains entering                                                                           | 2                                                                      |        |
+| service                                                                                                 |                                                                        |        |
+| West Midlands Trains leaving                                                                            | 3 (4-car EMU), 6 (8 car EMU), 9 (12 car EMU)                           |        |
+| service                                                                                                 |                                                                        |        |
+| Watford North Jn                                                                                        |                                                                        |        |
+| Adjustments to Sectional Running Times                                                                  |                                                                        |        |
+| Movement Up                                                                                             | Reason                                                                 | Value  |
+| Timing Loads timed over 75mph pass Up Fast                                                              | Acceleration from lower speed crossover                                | {1⁄2}* |
+| to Up Slow NOT stopping at Watford Junction                                                             |                                                                        |        |
+| and/or Bushey                                                                                           |                                                                        |        |
+| * Applies at next timing point after Watford Junction                                                   |                                                                        |        |
+| Kings Langley                                                                                           |                                                                        |        |
+| Dwell Time                                                                                              |                                                                        |        |
+| Class 350 EMU                                                                                           | 1 Peak. Trains timetabled to arrive at London Euston between 07.00 and |        |
+|                                                                                                         | 09.59 SX or timetabled to depart London Euston between 16.00 and 18.59 |        |
+|                                                                                                         | SX                                                                     |        |
+| Apsley                                                                                                  |                                                                        |        |
+| Dwell Time                                                                                              |                                                                        |        |
+| Class 350 EMU                                                                                           | 1 Peak. Trains timetabled to arrive at London Euston between 07.00 and |        |
+|                                                                                                         | 09.59 SX or timetabled to depart London Euston between 16.00 and 18.59 |        |
+|                                                                                                         | SX                                                                     |        |
+| Hemel Hempstead                                                                                         |                                                                        |        |
+| Connectional Allowance                                                                                  | 5                                                                      |        |
+|                                                                                                         | 10 if a bus service                                                    |        |
+| Dwell Time                                                                                              |                                                                        |        |
+| Class 350 EMU                                                                                           | 1                                                                      |        |

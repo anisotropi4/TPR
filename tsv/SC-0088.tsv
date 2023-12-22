@@ -1,0 +1,39 @@
+|                                                                                                                |                                    |        |
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------|:-------|
+| Shieldmuir                                                                                                     |                                    |        |
+| Adjustments to Sectional Running Times                                                                         |                                    |        |
+| Movement up                                                                                                    | Reason                             | Value  |
+| Up train pass to Wishaw                                                                                        | Approach Control                   | 1      |
+| Up train pass to RMT                                                                                           | Approach Control                   | 11⁄2   |
+| Up train travelling to Wishaw that is calling at                                                               | Approach Control                   | 1⁄2    |
+| Shieldmuir                                                                                                     |                                    |        |
+| Junction Margins                                                                                               |                                    |        |
+| First Movement                                                                                                 | Second Movement                    | Margin |
+| Down pass                                                                                                      | Up pass to RMT                     | 31⁄2   |
+| Down depart                                                                                                    | Up pass to RMT                     | 41⁄2   |
+| Depart/pass to RMT                                                                                             | Down pass                          | 4      |
+| Depart/pass to RMT                                                                                             | Down arrive from Law Junction      | 4      |
+| Depart/pass to RMT/Law Junction                                                                                | Down arrive from Wishaw            | 31⁄2   |
+| Down pass from Law Junction                                                                                    | Down arrive from Wishaw            | 31⁄2*  |
+| Down pass/arrive from Wishaw                                                                                   | Up arrive from Motherwell          | 31⁄2   |
+| Down pass/arrive from Wishaw                                                                                   | Up pass (stopping Motherwell)      | 3      |
+| Down pass/arrive from Wishaw                                                                                   | Up pass (not stopping Motherwell)  | 21⁄2   |
+| *Can be reduced to 21⁄2 if {1} added before Shieldmuir                                                         |                                    |        |
+| Dalzell Loop                                                                                                   |                                    |        |
+| Junction Margins                                                                                               |                                    |        |
+| First Movement                                                                                                 | Second Movement                    | Margin |
+| Up depart Shieldmuir towards Wishaw                                                                            | Up depart Loop towards Law         | 2      |
+| Up depart Shieldmuir towards Law Junction                                                                      | Up depart Loop towards Law         | 31⁄2   |
+| Up depart Shieldmuir towards Wishaw                                                                            | Up depart Loop towards Wishaw      | 31⁄2   |
+| Up depart Shieldmuir towards Law Junction                                                                      | Up depart Loop towards Wishaw      | 2      |
+| Up pass Shieldmuir towards Wishaw                                                                              | Up depart Loop towards Law         | 1      |
+| Up pass Shieldmuir towards Law Junction                                                                        | Up depart Loop towards Law         | 21⁄2   |
+| Up pass Shieldmuir towards Wishaw                                                                              | Up depart Loop towards Wishaw      | 21⁄2   |
+| Up pass Shieldmuir towards Law Junction                                                                        | Up depart Loop towards Wishaw      | 1      |
+| Down pass/arrive Shieldmuir from Wishaw                                                                        | Up depart Loop                     | 1      |
+| Up arrive Loop                                                                                                 | Up arrive Platform 1 at Motherwell | 2      |
+| Up arrive Loop                                                                                                 | Up pass Platform 1 at Motherwell   | 21⁄2   |
+| Planning Notes                                                                                                 |                                    |        |
+| Up trains to Up Goods Loop must have 1⁄2 minute OP stop in Platform 1 at Motherwell to depart on a sub signal. |                                    |        |
+| No pathing or other allowances to be applied between Motherwell and Up Goods Loop.                             |                                    |        |
+| No pathing or other allowances to be applied between Up Goods Loop and Shieldmuir.                             |                                    |        |

@@ -1,0 +1,45 @@
+|                                                                                                      |                                                 |           |
+|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------|
+| Elderslie                                                                                            |                                                 |           |
+| Adjustments to Sectional Running Times                                                               |                                                 |           |
+| Movement Down                                                                                        | Reason                                          | Value     |
+| Down train from UPL (approaching next timing                                                         | Acceleration                                    | 2         |
+| point)                                                                                               |                                                 |           |
+| Movement Up                                                                                          | Reason                                          | Value     |
+| Up train to UPL                                                                                      | Approach Control                                | 1         |
+| Up train to DA                                                                                       | Approach Control                                | 1         |
+| Junction Margins                                                                                     |                                                 |           |
+| First Movement                                                                                       | Second Movement                                 | Margin    |
+| Down arrive Elderslie UPL                                                                            | Stopping train arrive Johnstone in Up Direction | 2         |
+| Down freight depart/pass GPE143 going to WH                                                          | Up depart Johnstone                             | 5         |
+| Malcolm                                                                                              |                                                 |           |
+| Down arrive UPL                                                                                      | Up pass (not stopping Johnstone)                | 4         |
+| Down freight depart/pass GPE143 going to WH                                                          | Up pass                                         | 7         |
+| Malcolm                                                                                              |                                                 |           |
+| Down freight depart/pass GPE143 going to WH                                                          | Down pass Elderslie                             | 71⁄2      |
+| Malcolm                                                                                              |                                                 |           |
+| Up pass                                                                                              | Down arrive UPL                                 | 3         |
+| Up pass                                                                                              | Down depart/pass GPE143 going to WH             | 11⁄2      |
+|                                                                                                      | Malcolm                                         |           |
+| Up pass                                                                                              | Down depart UPL                                 | 1         |
+| Up arrive UPL                                                                                        | Up depart Johnstone                             | 21⁄2      |
+| Up arrive UPL                                                                                        | Up pass (not stopping Johnstone)                | 4         |
+| Up arrive UPL                                                                                        | Down depart/pass GPE143 going to WH             | 3         |
+|                                                                                                      | Malcolm                                         |           |
+| Down depart UPL                                                                                      | Up depart Johnstone                             | 3         |
+| Down depart UPL                                                                                      | Up pass (not stopping Johnstone)                | 3         |
+| Restriction                                                                                          |                                                 |           |
+| WH Malcolm Yard on upside can only accommodate one train at any time.                                |                                                 |           |
+| Glengarnock                                                                                          |                                                 |           |
+| Junction Margins                                                                                     |                                                 |           |
+| First Movement                                                                                       | Second Movement                                 | Margin    |
+| Up arrive UGL                                                                                        | Up arrive Glengarnock                           | 3         |
+| Up arrive UGL                                                                                        | Up pass/depart Dalry (not stopping              | Same time |
+|                                                                                                      | Glengarnock)                                    |           |
+| Up arrive UGL                                                                                        | Up depart Brownhill UPL (not stopping           | 1         |
+|                                                                                                      | Glengarnock)                                    |           |
+| Up pass/depart Dalry (not stopping at                                                                | Up depart UGL                                   | 31⁄2      |
+| Glengarnock)                                                                                         |                                                 |           |
+| Up depart Glengarnock                                                                                | Up depart UGL                                   | 21⁄2      |
+| Restriction                                                                                          |                                                 |           |
+| All Up trains entering DGL must have 1⁄2 minute OP stop in Glengarnock Station for approach control. |                                                 |           |

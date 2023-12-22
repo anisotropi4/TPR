@@ -1,0 +1,41 @@
+|                                                              |      |     |                                                                      |
+|:-------------------------------------------------------------|:-----|:----|:---------------------------------------------------------------------|
+| SO500 LONDON VICTORIA TO BRIGHTON                            |      |     |                                                                      |
+| TIMING SECTION                                               | TYPE | EMU | REMARKS                                                              |
+| Approaching Clapham                                          | P    | 1⁄2 | All down trains from Victoria                                        |
+| Junction                                                     |      |     |                                                                      |
+| Approaching Purley                                           | P    | 1   | All up trains from Caterham or Tattenham Corner unless replaced      |
+|                                                              |      |     | by a {1} calling-on allowance when attaching                         |
+| SO500C PRESTON PARK TO HOVE                                  |      |     |                                                                      |
+| TIMING SECTION                                               | TYPE | EMU | REMARKS                                                              |
+| Approaching Preston Park                                     | P    | 1   | All up trains from the West Coastway route. Note: this value is not  |
+|                                                              |      |     | negotiable and must not be removed from train schedules              |
+| SO510 LONDON BRIDGE TO EPSOM DOWNS (See also SO130 & SO280A) |      |     |                                                                      |
+| TIMING SECTION                                               | TYPE | EMU | REMARKS                                                              |
+| Between Blackfriars                                          | P    | 2   | All Down trains from the Thameslink Core must have a minimum         |
+| Junction and Bricklayers                                     |      |     | of <2> minutes between Blackfriars Junction and Bricklayers          |
+| Arms Junction                                                |      |     | Arms Junction, <1> minute of which must be placed approaching        |
+|                                                              |      |     | London Bridge whenever possible). Note: the total value of 2         |
+|                                                              |      |     | minutes is not negotiable                                            |
+| Between Bricklayers Arms                                     | P    | 2   | All Up trains to the Thameslink Core must have a minimum of <2>      |
+| Junction and Blackfriars                                     |      |     | minutes between Bricklayers Arms Junction and Blackfriars            |
+| Junction                                                     |      |     | Junction, <1> minute of which must be placed approaching             |
+|                                                              |      |     | Blackfriars Junction whenever possible). Note: the total value of 2  |
+|                                                              |      |     | minutes is not negotiable                                            |
+| SO520 THREE BRIDGES TO HAVANT VIA HORSHAM                    |      |     |                                                                      |
+| TIMING SECTION                                               | TYPE | EMU | REMARKS                                                              |
+| Approaching Three Bridges                                    | P    | 1   | All up trains originating from south of Horsham. Note: this value is |
+|                                                              |      |     | not negotiable and must not be removed from train schedules          |
+|                                                              |      |     | All trains that have not started from Littlehampton, Bognor Regis,   |
+|                                                              |      |     | Chichester or Barnham. Note: this value is not negotiable and        |
+|                                                              |      |     | must not be removed from train schedules                             |
+| Approaching Arundel                                          | P    | 1   |                                                                      |
+| Junction                                                     |      |     |                                                                      |
+| SO590 KEYMER JUNCTION TO EASTBOURNE                          |      |     |                                                                      |
+| TIMING SECTION                                               | TYPE | EMU | REMARKS                                                              |
+| Approaching Keymer                                           | P    | 1   | All up trains from Lewes. Note: this value is not negotiable and     |
+| Junction                                                     |      |     | must not be removed from train schedules                             |
+| SO700 STREATHAM SOUTH JUNCTION TO SUTTON (VIA WIMBLEDON)     |      |     |                                                                      |
+| TIMING SECTION                                               | TYPE | EMU | REMARKS                                                              |
+| Approaching Sutton                                           | P    | 1   | Trains arriving at Sutton via Wimbledon. Note: this value is not     |
+|                                                              |      |     | negotiable and must not be removed from train schedules              |

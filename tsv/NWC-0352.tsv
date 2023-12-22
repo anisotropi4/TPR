@@ -1,0 +1,49 @@
+|                                                                                                                        |                                                               |              |
+|:-----------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:-------------|
+| NW7001 MANCHESTER VICTORIA WEST JN TO HEBDEN BRIDGE                                                                    |                                                               |              |
+| Manchester Victoria                                                                                                    |                                                               |              |
+| Adjustments to Sectional Running Times                                                                                 |                                                               |              |
+| Movement                                                                                                               | Reason                                                        | Value        |
+| Trains from Miles Platting Jn to Manchester                                                                            | Approach control                                              | 1⁄2          |
+| Victoria on Up Rochdale Slow into platforms 1,                                                                         |                                                               |              |
+| 2 and 4                                                                                                                |                                                               |              |
+| Trains from Miles Platting Jn to Manchester                                                                            | Signal MN806 and MN760 both approach                          | 1            |
+| Victoria on Up Rochdale Slow into platforms 5                                                                          | control                                                       |              |
+| and 6                                                                                                                  |                                                               |              |
+| Trains from Miles Platting Jn to Manchester                                                                            | Approach control                                              | 1⁄2          |
+| Victoria on Up Rochdale Fast into platforms 1,                                                                         |                                                               |              |
+| 2 ,3, 4 and 6                                                                                                          |                                                               |              |
+| Trains from Manchester Victoria to Miles                                                                               | Slower speed crossovers                                       | 1⁄2          |
+| Platting Jn on Down Rochdale Fast from                                                                                 |                                                               | approaching  |
+| platforms 1, 2 ,3, 4 and 5                                                                                             |                                                               | the next     |
+|                                                                                                                        |                                                               | timing point |
+| Trains arriving in Platforms 1 & 2, if already                                                                         | Approach control                                              | 1⁄2          |
+| occupied *                                                                                                             |                                                               |              |
+| * See section on Permissive Working below                                                                              |                                                               |              |
+| Dwell Time                                                                                                             |                                                               |              |
+| DMU/EMU                                                                                                                | 2                                                             |              |
+| Junction Margins                                                                                                       |                                                               |              |
+| First Movement                                                                                                         | Second Movement                                               | Margin       |
+| Depart to Miles Platting                                                                                               | Arrive/Pass from Miles Platting                               | 4            |
+| Arrive from Miles Platting                                                                                             | Depart to Miles Platting                                      | 1            |
+| Depart to Miles Platting                                                                                               | Freight Pass from Miles Platting                              | 41⁄2         |
+| Freight Pass from Miles Platting                                                                                       | Depart to Miles Platting                                      | 1            |
+| Minimum Turnround Time – Trains changing direction at end of journey                                                   |                                                               |              |
+| DMU/EMU shunting between arrival platform and a different departure platform                                           | 11                                                            |              |
+| Permissive Working                                                                                                     |                                                               |              |
+| Attaching/detaching and platform sharing is authorised as shown below:                                                 |                                                               |              |
+| Platform 1                                                                                                             | Attaching/Detaching and Platform Sharing #                    |              |
+| Platform 2                                                                                                             | Attaching/Detaching and Platform Sharing $                    |              |
+| Platform 3                                                                                                             | Attaching/Detaching and Platform Sharing in both directions   |              |
+| Platform 4                                                                                                             | Attaching/Detaching and Platform Sharing in both directions   |              |
+| Platform 5                                                                                                             | Attaching/Detaching and Platform Sharing in both directions + |              |
+| Platform 6                                                                                                             | Attaching/Detaching and Platform Sharing in both directions + |              |
+| # Platform 1 – if the train occupying the buffer stops is longer than 48 metres in length, this will occupy both track |                                                               |              |
+| circuits and prevent a second train from entering the platform; any second train entering the platform must be 48      |                                                               |              |
+| metres in length or less to allow sufficient stand back from the signal for clear sighting.                            |                                                               |              |
+| $ Platform 2 - if the train occupying the buffer stops is longer than 40 metres in length, this will occupy both track |                                                               |              |
+| circuits and prevent a second train from entering the platform; any second train entering the platform must be 48      |                                                               |              |
+| metres in length or less to allow sufficient stand back from the signal for clear sighting.                            |                                                               |              |
+| + Does not apply for locomotive hauled trains                                                                          |                                                               |              |
+| Planning Restriction                                                                                                   |                                                               |              |
+| ‘C’ Stops in Freight Trains are not allowed to take place at Manchester Victoria.                                      |                                                               |              |

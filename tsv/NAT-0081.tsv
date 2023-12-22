@@ -1,0 +1,56 @@
+|              |            |            |                      |              |        |     |       |                   |                |       |             |     |
+|:-------------|:-----------|:-----------|:---------------------|:-------------|:-------|:----|:------|:------------------|:---------------|:------|:------------|:----|
+| Name         | Frequency  | Start Date | Weeks Run In         | Route        | TID    | Day | Dep   | From              | To             | Arr.  | Model Train | TOC |
+| Name         | Frequency  | Start Date | Weeks Run In         | Route        | TID    | Day | Dep   | From              | To             | Arr.  | Model Train | TOC |
+| PLP144       | 4 - weekly | 27/12/2024 | 39, 43, 47, 51, 03,  | Derby RTC -  | 1Q28EA | TO  | 14.28 | DERBY             | DERBY          | 23.18 | HSMT        | RG  |
+|              |            |            | 07, 11, 15, 19, 23,  | Lich -       |        |     |       | R.T.C.(NETWORK    | R.T.C.(NETWORK |       |             |     |
+|              |            |            | 27, 31 & 35          | Euston -     |        |     |       | RAIL)             | RAIL)          |       |             |     |
+|              |            |            |                      | Crewe - Lich |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | - Derby RTC  |        |     |       |                   |                |       |             |     |
+| PLP121       | 4 - weekly | 10/12/2023 | 37, 41, 45, 49, 01,  | Derby RTC -  | 1Q28GA | Su  | 10.22 | DERBY             | HEATON         | 14a35 | HSMT        | RG  |
+|              |            |            | 05, 09, 13, 17, 21,  | Sheet        |        |     |       | R.T.C.(NETWORK    | T&R.S.M.D.     | 1⁄2   |             |     |
+|              |            |            | 25, 29 & 33          | Stores - S   |        |     |       | RAIL)             |                |       |             |     |
+|              |            |            |                      | and K - York |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | - Sunderland |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | - Newcastle  |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | - Heaton     |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Depot        |        |     |       |                   |                |       |             |     |
+| PLP115       | 8 - weekly | 03/01/2024 | 40, 48, 04, 12, 20 & | Crewe - MK   | 1Q29GB | WO  | 11.57 | CREWE C.S. (L&NWR | DERBY          | 19.21 | HST7-125    | RG  |
+| B            |            |            | 28 & 36              | - Euston D   |        |     |       | SITE)             | R.T.C.(NETWORK |       |             |     |
+|              |            |            |                      | and E - MK - |        |     |       |                   | RAIL)          |       |             |     |
+|              |            |            |                      | Crewe -      |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Derby RTC    |        |     |       |                   |                |       |             |     |
+| PLP146       | 4 - weekly | 28/12/2023 | 39, 43, 47, 51, 03,  | Derby RTC -  | 1Q30FA | ThO | 10.55 | DERBY             | CREWE C.S.     | 23.56 | HST7-125    | RG  |
+|              |            |            | 07, 11, 15, 19, 23,  | Crewe -      |        |     |       | R.T.C.(NETWORK    | (L&NWR SITE)   |       |             |     |
+|              |            |            | 27, 31 & 35          | Holyhead -   |        |     |       | RAIL)             |                |       |             |     |
+|              |            |            |                      | Crewe        |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | LNWR         |        |     |       |                   |                |       |             |     |
+| PLP131       | 4 - weekly | 17/12/2023 | 38, 42 46, 50,       | Derby RTC -  | 1Q31GB | Su  | 10.09 | DERBY             | HEATON         | 16RM* | HST7-125    | RG  |
+|              |            |            | 02, 06, 10, 14, 18,  | Saltburn -   |        |     |       | R.T.C.(NETWORK    | T&R.S.M.D.     | 35    |             |     |
+|              |            |            | 22, 26, 30 & 34      | Heaton       |        |     |       | RAIL)             |                |       |             |     |
+| Name         |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Name         |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Frequency    |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Frequency    |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Start Date   |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Start Date   |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Weeks Run In |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Weeks Run In |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Route        |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Route        |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| TID          |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| TID          |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Day          |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Day          |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Dep          |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Dep          |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| From         |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| From         |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| To           |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| To           |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Arr.         |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Arr.         |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Model Train  |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| Model Train  |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| TOC          |            |            |                      |              |        |     |       |                   |                |       |             |     |
+| TOC          |            |            |                      |              |        |     |       |                   |                |       |             |     |

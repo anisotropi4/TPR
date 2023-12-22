@@ -1,0 +1,55 @@
+|                            |                         |        |                |
+|:---------------------------|:------------------------|:-------|:---------------|
+| STATION                    | PLATFORM AND LINE       | USABLE | NOTES          |
+|                            |                         | LENGTH |                |
+| Haywards Heath             | 1 - Down Passenger Loop | 241    | Down direction |
+| Haywards Heath             | 1 - Down Passenger Loop | 241    | Up direction   |
+| Haywards Heath             | 2 - Down Main           | 241    |                |
+| Haywards Heath             | 3 - Up Main             | 241    | Down direction |
+| Haywards Heath             | 3 - Up Main             | 241    | Up direction   |
+| Haywards Heath             | 4 - Up Passenger Loop   | 241    | Down direction |
+| Haywards Heath             | 4 - Up Passenger Loop   | 241    | Up direction   |
+| Hever                      | 1 - Up                  | 237    |                |
+| Hever                      | 2 - Down                | 237    |                |
+| Highbury and Islington ELL | 2                       | 126    |                |
+| Highbury and Islington ELL | 1                       | 131    |                |
+| Holmwood                   | 1 - Up                  | 123    |                |
+| Holmwood                   | 2 - Down                | 123    |                |
+| Honor Oak Park             | 1 - Up Slow             | 154    |                |
+| Honor Oak Park             | 2 - Down Slow           | 158    |                |
+| Horley                     | 1 - Up Slow             | 247    |                |
+| Horley                     | 2 - Down Slow           | 247    |                |
+| Horley                     | 3 - Up Fast             | 247    |                |
+| Horley                     | 4 - Down Fast           | 247    |                |
+| Horsham                    | 1 - Up Passenger Loop   | 245    |                |
+| Horsham                    | 2 - Up Main             | 245    |                |
+| Horsham                    | 3 - Down Main           | 251    |                |
+| Horsham                    | 4 - Down Passenger Loop | 251    | Down direction |
+| Horsham                    | 4 - Down Passenger Loop | 251    | Up direction   |
+| Hove                       | 1 - Up Passenger Loop   | 241    | Down direction |
+| Hove                       | 1 - Up Passenger Loop   | 241    | Up direction   |
+| Hove                       | 2 - Up Brighton         | 241    | Down direction |
+| Hove                       | 2 - Up Brighton         | 241    | Up direction   |
+| Hove                       | 3 - Down Brighton       | 241    |                |
+| Hoxton                     | 1 – Up                  | 88     |                |
+| Hoxton                     | 2 – Down                | 88     |                |
+| Hurst Green                | 1 - Up East Grinstead   | 246    |                |
+| Hurst Green                | 2 - Down East Grinstead | 246    |                |
+| Ifield                     | 1 - Up Horsham          | 116    |                |
+| Ifield                     | 2 - Down Horsham        | 116    |                |
+| Imperial Wharf             | 2- Down West London     | 172.4  | 8 cars         |
+| Imperial Wharf             | 1 – Up West London      | 177.2  | 8 cars         |
+| Kenley                     | 1 - Up                  | 124    |                |
+| Kenley                     | 2 - Down                | 121    |                |
+| Kensington (Olympia)       | 2 - Down West London    | 323.5  | Down direction |
+|                            | Loop                    |        |                |
+| Kensington (Olympia)       | 2 - Down West London    | 323.5  | Up direction   |
+|                            | Loop                    |        |                |
+| Kensington (Olympia)       | 3 - Up West London      | 190    | Down direction |
+| Kingswood                  | 1 - Up Tattenham        | 122    |                |
+| Kingswood                  | 2 - Down Tattenham      | 122    |                |
+| Lancing                    | 1 - Up Brighton         | 112    |                |
+| Lancing                    | 2 - Down Brighton       | 180    |                |
+| Leatherhead                | 1 - Up                  | 206    |                |
+| Leatherhead                | 2  -Down                | 206    |                |
+| Leigh                      | 1 - Up Godstone         | 122    |                |

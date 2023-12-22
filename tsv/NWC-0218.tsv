@@ -1,0 +1,39 @@
+|                                                                                                                     |                                              |                 |        |
+|:--------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|:----------------|:-------|
+| Perry Barr North Jn                                                                                                 |                                              |                 |        |
+| Adjustments to Sectional Running Times                                                                              |                                              |                 |        |
+| Movement Down                                                                                                       | Reason                                       | Timing Load     | Value* |
+| Pass from Perry Barr West Jn                                                                                        | Junction differential                        | 730 and freight | 1⁄2    |
+| All other timing loads                                                                                              | 1                                            |                 |        |
+| * Applies at next timing point after Perry Barr North Jn                                                            |                                              |                 |        |
+| Movement Up                                                                                                         | Reason                                       | Value           |        |
+| Trains routed towards Perry Barr West Jn                                                                            | Junction differential                        | 1               |        |
+| Restriction                                                                                                         |                                              |                 |        |
+| There is limited standage between Perry Barr North Jn and Perry Barry West Jn on the Up Soho line.                  |                                              |                 |        |
+| Consequently, it is not possible to stand a train in excess of 34 SLUs/218 metres in length at NS279 signal, Perry  |                                              |                 |        |
+| Barr West Jn.  This means that before a train in excess of 34 SLUs in length can depart Perry Barr North Jn         |                                              |                 |        |
+| towards Soho, the route must be available through to Soho East Jn.  If the route is not available, a train from the |                                              |                 |        |
+| Bescot direction in excess of 34 SLUs will stand at NS272 at Perry Barr North Jn on the Up Grand line.  Therefore,  |                                              |                 |        |
+| when timing a train in excess of 34 SLUs in length from Bescot or beyond through Perry Barr North and West          |                                              |                 |        |
+| Junctions towards Soho you must be aware of movements through Perry West Jn and plan accordingly so as to           |                                              |                 |        |
+| avoid problems at Perry Barr North Jn.                                                                              |                                              |                 |        |
+| Bescot Down Yard                                                                                                    |                                              |                 |        |
+| Junction Margins                                                                                                    |                                              |                 |        |
+| First Movement                                                                                                      | Second Movement                              | Margin          |        |
+| A train departing towards Perry Barr North Jn                                                                       | An arrival from Perry Barr North Jn          | 8               |        |
+| A train departing towards Darlaston Jn                                                                              | An arrival from Pleck Jn                     | 10              |        |
+| A train departing towards Pleck Jn                                                                                  | An arrival from Darlaston Jn                 | 8               |        |
+| A train departing towards Darlaston Jn                                                                              | An arrival from Darlaston Jn                 | 14              |        |
+| A train departing towards Pleck Jn                                                                                  | An arrival from Pleck Jn                     | 16              |        |
+| Bescot Stadium                                                                                                      |                                              |                 |        |
+| Junction Margins                                                                                                    |                                              |                 |        |
+| First Movement                                                                                                      | Second Movement                              | Margin          |        |
+| Train depart/pass Bescot Stadium in Down                                                                            | Train depart Bescot Up Goods Loop via Bescot | 21⁄2            |        |
+| direction                                                                                                           | Middle Jn towards Bescot Stadium             |                 |        |
+| Portobello Jn                                                                                                       |                                              |                 |        |
+| Adjustments to Sectional Running Times                                                                              |                                              |                 |        |
+| Movement Down                                                                                                       | Reason                                       | Value           |        |
+| Trains routed towards Wolverhampton                                                                                 | Differential Junction speed                  | 1⁄2 passenger   |        |
+|                                                                                                                     |                                              | or ECS          |        |
+|                                                                                                                     |                                              | 1 all other     |        |
+|                                                                                                                     |                                              | timing loads    |        |

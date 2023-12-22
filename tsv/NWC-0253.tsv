@@ -1,0 +1,37 @@
+|                                                                      |                                                  |             |
+|:---------------------------------------------------------------------|:-------------------------------------------------|:------------|
+| Wembley Stadium                                                      |                                                  |             |
+| Adjustments to Sectional Running Times                               |                                                  |             |
+| Movement Down                                                        | Reason                                           | Value       |
+| Trains from Neasden Jn (Neasden Curve)                               | Not at line speed at Neasden South Jn            | 1 except    |
+| towards Wembley Stadium                                              |                                                  | freight     |
+| Passing Wembley Stadium and using                                    | Approach control                                 | 1           |
+| Wembley Turnback siding                                              |                                                  |             |
+| Movement Up                                                          | Reason                                           | Value       |
+| Trains from Wembley Turnback siding not                              | Not at line speed at Wembley Stadium             | 1 After     |
+| stopping at Wembley Stadium                                          |                                                  |             |
+| Dwell Time                                                           |                                                  |             |
+| LH                                                                   | 1                                                |             |
+| Minimum Turnround Time – Trains changing direction at end of journey |                                                  |             |
+| Standard                                                             | 10                                               |             |
+| Wembley Stabling Siding (proposed)                                   |                                                  |             |
+| Junction Margins                                                     |                                                  |             |
+| First Movement                                                       | Second Movement                                  | Margin      |
+| Depart Turnback Siding to Wembley Stadium                            | Depart Stabling Siding to Turnback Siding        | 2           |
+| Arrive Stabling Siding via Turnback Siding                           | Depart Wembley Stadium to Turnback Siding        | 1           |
+| Permissive Working                                                   |                                                  |             |
+| The siding is permissive for arrivals only                           |                                                  |             |
+| Northolt Park Jn                                                     |                                                  |             |
+| Adjustments to Sectional Running Times                               |                                                  |             |
+| Movement Down                                                        | Reason                                           | Value       |
+| Pass to SL (Down Northolt Loop)                                      | Differential Junction speed and approach control | 1⁄2*        |
+| * Not applicable to trains that have stopped at Northolt Park        |                                                  |             |
+| Class 168 having stopped at Northolt Park                            | Not at line speed at Northolt Park Jn            | 1⁄2         |
+| and using FL between Northolt Park Jn and                            |                                                  | approaching |
+| South Ruislip                                                        |                                                  | next timing |
+|                                                                      |                                                  | point       |
+| Trains departing Wembley LMD that have not                           | Not passing Wembley Stadium at line speed        | 1           |
+| stopped before Northolt Park Jn                                      |                                                  |             |
+| Junction Margins                                                     |                                                  |             |
+| First Movement                                                       | Second Movement                                  | Margin      |
+| Down Pass to SL (Down Northolt Loop)                                 | Down Pass on FL                                  | 2           |

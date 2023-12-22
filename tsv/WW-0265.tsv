@@ -1,0 +1,59 @@
+|                    |              |           |                                                    |
+|:-------------------|:-------------|:----------|:---------------------------------------------------|
+| STATION            | PLATFORM     | USABLE    | NOTES                                              |
+|                    |              | LENGTH    |                                                    |
+|                    |              | In metres |                                                    |
+| Luxulyan           | Single       | 120       | 72 metres of platform (Newquay end) uneven         |
+|                    |              |           | surface but platform edges intact                  |
+| Lydney             | 1            | 97        |                                                    |
+| Lydney             | 1            | 85        | Top of ramp to signal NI84                         |
+| Lydney             | 2            | 97        |                                                    |
+| Lympstone Commando | Single       | 64        |                                                    |
+| Lympstone Village  | Single       | 90        |                                                    |
+| Machynlleth        | 2 Down       | 142       | Top of ramp to top of ramp                         |
+|                    | (Down        |           |                                                    |
+|                    | direction)   |           |                                                    |
+| Machynlleth        | 2 Down (Up   | 133*      | Top of ramp to Block Marker 1099. (*142m to top of |
+|                    | direction)   |           | ramp (Newtown end))                                |
+| Machynlleth        | 1 Up         | 179       | Bi-directional                                     |
+| Maesteg            | Single       | 87        |                                                    |
+| Maesteg            | Single       | 84        |                                                    |
+| (Ewenny Road)      |              |           |                                                    |
+| Maidenhead         | 1 (Down      | 177       |                                                    |
+|                    | Main Line)   |           |                                                    |
+| Maidenhead         | 2 (Up Main   | 199       |                                                    |
+|                    | Line)        |           |                                                    |
+| Maidenhead         | 2 (Up Main   | 112       | Top of ramp to nearest mirror                      |
+|                    | Line)        |           |                                                    |
+| Maidenhead         | 2 (Up Main   | 149       | Top of ramp to furthest mirror                     |
+|                    | Line)        |           |                                                    |
+| Maidenhead         | 3 (Down      | 198       |                                                    |
+|                    | Relief Line) |           |                                                    |
+| Maidenhead         | 3 (Down      | 149       | Top of ramp to mirror                              |
+|                    | Relief Line) |           |                                                    |
+| Maidenhead         | 4 (Up Relief | 205       |                                                    |
+|                    | Line)        |           |                                                    |
+| Maidenhead         | 4 (Up Relief | 67        | Top of ramp (Reading end) to nearest camera        |
+|                    | Line)        |           |                                                    |
+| Maidenhead         | 4 (Up Relief | 114       | Top of ramp (Reading end) to furthest camera       |
+|                    | Line)        |           |                                                    |
+| Maidenhead         | 4 (Up Relief | 197       | Top of ramp (London end) to signal (for bi-        |
+|                    | Line)        |           | directional working).                              |
+| Maidenhead         | 5 (Bay)      | 205       | Bi-directional                                     |
+| Manorbier          | Single       | 107       |                                                    |
+| Marlow             | Single       | 54        | Top of ramp to drivers yellow stop line            |
+| Marsh Barton       | Down         | 124       |                                                    |
+| Marsh Barton       | Up           | 124       |                                                    |
+| Melksham           | Single       | 74        |                                                    |
+| Menheniot          | 1            | 124       |                                                    |
+| Menheniot          | 2            | 151       | Of which 53.6 metres have no flag stones. Platform |
+|                    |              |           | edges intact                                       |
+| Merthyr Tydfil     | Single       | 111       |                                                    |
+| Merthyr Vale       | 1            | 94        |                                                    |
+| Merthyr Vale       | 2            | 94        |                                                    |
+| Midgham            | 1 (down)     | 87        | Ramp (Reading end) to ‘S’ Car Marker               |
+| Midgham            | 1 (down)     | 117       |                                                    |
+| Midgham            | 2 (up)       | 85        | Top of ramp (Westbury end) to mirror               |
+| Midgham            | 2 (up)       | 96        | Top of ramp (Westbury end) to Signal TRC105        |
+| Milford Haven      | Single       | 94        | Top of ramp to buffer stops                        |
+| Minffordd          | Single       | 118       |                                                    |

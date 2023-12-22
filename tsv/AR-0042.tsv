@@ -1,0 +1,46 @@
+|                                                                  |      |    |      |                                                 |
+|:-----------------------------------------------------------------|:-----|:---|:-----|:------------------------------------------------|
+| EA1325 HIGHBURY AND ISLINGTON TO DALSTON JUNCTION (EXCLUSIVE)    |      |    |      |                                                 |
+| TIMING POINT                                                     | DOWN | UP | CODE | NOTES                                           |
+|                                                                  |      |    |      | Route EA1325 is being retained in the Anglia    |
+|                                                                  |      |    |      | WON to show activity between Highbury and       |
+|                                                                  |      |    |      | Islington and Dalston Junction where Route      |
+|                                                                  |      |    |      | EA1320 (North London Line) runs parallel.       |
+|                                                                  |      |    |      | For East London Line timetable planning         |
+|                                                                  |      |    |      | purposes however, reference should be made      |
+|                                                                  |      |    |      | to Route SO511 in the Sussex Timetable          |
+|                                                                  |      |    |      | Planning Rules.                                 |
+| Highbury & Islington                                             | -    | -  |      | To/from Westbourne Road Jn – EA1320             |
+|                                                                  |      |    |      | Platform detail must be shown                   |
+|                                                                  |      |    |      | Tiploc HIGHBYE applies to East London Line      |
+|                                                                  |      |    |      | Services using Platforms 1 and 2                |
+|                                                                  |      |    |      | Tiploc HIGHBYA applies to North London Line     |
+|                                                                  |      |    |      | services using Platforms 7 and 8 on EA1320      |
+| Canonbury                                                        | -    | -  | S    | Platform detail must be shown                   |
+|                                                                  |      |    |      | Tiploc CNNBELL applies to East London Line      |
+|                                                                  |      |    |      | Services using Platforms 1 and 2                |
+|                                                                  |      |    |      | Tiploc CNNB applies to North London Line        |
+|                                                                  |      |    |      | services using Platforms 3 and 4 on EA1320      |
+| TfL/NR Boundary                                                  | -    | -  |      | Tiploc ELLBNLL                                  |
+| Dalston Junction                                                 |      |    |      | Platform detail must be shown                   |
+|                                                                  |      |    |      | To/from New Cross Gate – SO511                  |
+| EA1330 SOUTH ACTON JUNCTION TO OLD & NEW KEW JUNCTIONS           |      |    |      |                                                 |
+| TIMING POINT                                                     | DOWN | UP | CODE | NOTES                                           |
+| South Acton Junction                                             |      |    |      | To/from Acton Wells Junction – EA1310           |
+| Kew East Junction                                                | -    | -  |      |                                                 |
+| New Kew Junction                                                 | -    | -  | X    | Southern Region timing point for trains towards |
+|                                                                  |      |    |      | Barnes                                          |
+| Old Kew Junction                                                 |      |    |      | Southern Region boundary                        |
+| Brentford                                                        | -    | -  | X    | Southern Region timing point for trains towards |
+|                                                                  |      |    |      | Hounslow                                        |
+| EA1340 STRATFORD LEA JUNCTION TO HIGH MEADS JUNCTION – LEA CURVE |      |    |      |                                                 |
+| TIMING POINT                                                     | DOWN | UP | CODE | NOTES                                           |
+| Lea Junction                                                     | -    | -  |      | To/from Hackney Wick – EA1320                   |
+| High Meads Junction                                              | -    | -  |      | To/from Temple Mills East Junction – EA1350     |
+| EA1350 CHANNELSEA NORTH JUNCTION TO TEMPLE MILLS EAST JUNCTION   |      |    |      |                                                 |
+| TIMING POINT                                                     | DOWN | UP | CODE | NOTES                                           |
+| Channelsea Junction                                              | -    | -  |      |                                                 |
+| Channelsea North Junction                                        |      |    |      | To/from Channelsea South Junction – EA1320      |
+|                                                                  |      |    |      | To/from Lea Junction – EA1320                   |
+| High Meads Junction                                              | -    | -  |      | To/from Lea Junction via Lea Curve – EA1340     |
+| Temple Mills East Junction                                       | -    | -  |      | To/from Coppermill Junction – EA1280            |

@@ -1,0 +1,47 @@
+|                                                                                                       |                                                            |           |
+|:------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|:----------|
+| Ferryhill Junction                                                                                    |                                                            |           |
+| Adjustments to Sectional Running Times                                                                |                                                            |           |
+| Movement Down                                                                                         | Reason                                                     | Value     |
+| Down Freight pass to Goods Loop.  Before                                                              | Approach control                                           | 1         |
+| Ferryhill Junction                                                                                    |                                                            |           |
+| Junction Margins                                                                                      |                                                            |           |
+| First Movement                                                                                        | Second Movement                                            | Margin    |
+| Down train pass to Loop                                                                               | Down train pass to station                                 | 4         |
+| Down/Up train pass                                                                                    | Depart Craiginches Down                                    | 1         |
+| Down depart/pass to Loop                                                                              | Up train depart station                                    | 1         |
+| Up train pass                                                                                         | Down depart to Loop                                        | 1         |
+| Aberdeen                                                                                              |                                                            |           |
+| Adjustments to Sectional Running Times                                                                |                                                            |           |
+| Movement Down                                                                                         | Reason                                                     | Value     |
+| Train arriving Platforms 2 to 5 inclusive from                                                        | Approach control                                           | 1⁄2*      |
+| Ferryhill Jn                                                                                          |                                                            |           |
+| * Value Not Required to be added if train is shunting whereby it has reversed at A77 or A27 signals   |                                                            |           |
+| Dwell Time Through service to Inverness line                                                          |                                                            |           |
+| HST Power Doors                                                                                       | 11⁄2                                                       |           |
+| DMU                                                                                                   | 11⁄2                                                       |           |
+| LH                                                                                                    | 4                                                          |           |
+| Junction Margins                                                                                      |                                                            |           |
+| First Movement                                                                                        | Second Movement                                            | Margin    |
+| Arrive platform 6 (any part) from N or S                                                              | Arrive platform 6 from opposite direction                  | 4         |
+| Arrive platform 7 (any part) from N or S                                                              | Arrive platform 7 from opposite direction                  | 4         |
+| Arrive platform 7N from South                                                                         | Arrive platform 6N or 6S from Berryden                     | 4         |
+|                                                                                                       | Junction                                                   |           |
+| Arrive platform 6N from South                                                                         | Arrive platform 7N or 7S from Berryden                     | 4         |
+|                                                                                                       | Junction                                                   |           |
+| Arrive/pass from North                                                                                | Pass to North                                              | 3         |
+| Depart Aberdeen towards Ferryhill Line                                                                | Down train pass Ferryhill Junction                         | 2         |
+| Up train depart Aberdeen                                                                              | Depart Aberdeen towards Ferryhill Line                     | 2         |
+| Down train arrive Aberdeen                                                                            | Depart Signal A27                                          | Same time |
+| Down train arrive Aberdeen                                                                            | Depart Signal A77                                          | 2         |
+| Minimum Turnround                                                                                     |                                                            |           |
+| Cross Country                                                                                         | 20 (10 if origin is in Scotland).   However, values can be |           |
+|                                                                                                       | amended to 10 (5 if origin is in Scotland) where specific  |           |
+|                                                                                                       | agreement exists between NR and XC                         |           |
+| LNER                                                                                                  | 40                                                         |           |
+| Platform Re-occupation                                                                                |                                                            |           |
+| First Movement                                                                                        | Second Movement                                            | Margins   |
+| Depart any platform to South*                                                                         | Arrive any platform from South *                           | 4         |
+| * When Conflicting                                                                                    |                                                            |           |
+| Planning Note                                                                                         |                                                            |           |
+| Although longer than the stated platform length, 9 car class 800 sets are permitted to use platform 5 |                                                            |           |

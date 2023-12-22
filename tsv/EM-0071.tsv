@@ -1,0 +1,46 @@
+|                                                                                                                           |                                        |           |
+|:--------------------------------------------------------------------------------------------------------------------------|:---------------------------------------|:----------|
+| Wigston North Junction                                                                                                    |                                        |           |
+| From Nuneaton (Wigston North Jn to Leicester)                                                                             | Differential Junction speed            | 1         |
+|                                                                                                                           |                                        | 1⁄2 170   |
+| Movement Up                                                                                                               | Reason                                 | Value     |
+| To Nuneaton (Leicester to Wigston North Jn)                                                                               | Differential Junction speed            | 1⁄2       |
+| Junction Margins                                                                                                          |                                        |           |
+| First Movement                                                                                                            | Second Movement                        | Margin    |
+| Down pass on Down Fast                                                                                                    | Up pass to Croft or Up/Down Slow       | 21⁄2      |
+| Down pass on Down Fast                                                                                                    | Up depart to Croft or Up/Down Slow     | 2         |
+| Down pass/depart from Up/Down Slow                                                                                        | Up pass to Croft or Up/Down Slow       | 3         |
+| Down pass/depart from Up/Down Slow                                                                                        | Up depart to Croft or Up/Down Slow     | 21⁄2      |
+| Down pass on Down Fast                                                                                                    | Down pass from Croft                   | 21⁄2      |
+| Down pass on Down Fast                                                                                                    | Down depart from Croft or Up/Down Slow | 11⁄2      |
+| Down pass to Up and Down Goods                                                                                            | Up Main passenger pass                 | 3         |
+| Down pass to Up and Down Goods                                                                                            | Up Main freight pass                   | 4         |
+| Up Main pass                                                                                                              | Up depart from Up and Down Goods       | 2         |
+| Up pass to Croft or Up/Down Slow                                                                                          | Down Fast pass                         | 3         |
+| Up pass/depart to Croft or Up/Down Slow                                                                                   | Conflicting Down pass from Croft or    | 3         |
+|                                                                                                                           | Up/Down Slow                           |           |
+| Up pass/depart to Croft or Up/Down Slow                                                                                   | Conflicting Down depart from Croft or  | 2         |
+|                                                                                                                           | Up/Down Slow                           |           |
+| Knighton Junction                                                                                                         |                                        |           |
+| Junction Margins                                                                                                          |                                        |           |
+| First Movement                                                                                                            | Second Movement                        | Margin    |
+| All conflicting moves                                                                                                     |                                        | 5 before/ |
+|                                                                                                                           |                                        | 3 after   |
+| Restriction                                                                                                               |                                        |           |
+| Trains required to run–round:                                                                                             |                                        |           |
+| a) If a train from the Coalville direction requiring to run–round at Knighton Junction has passed Bagworth Junction,      |                                        |           |
+| it is not possible for a train from Leicester to enter Knighton Junction to run-round to go towards Coalville.  The       |                                        |           |
+| train from Coalville will have to run–round and leave the loop before the train from Leicester can enter the loop.        |                                        |           |
+| b) If a train from the Leicester direction requiring to run-round is timed into Knighton Junction to run round, it is not |                                        |           |
+| possible for a train from ‘Coalville’ requiring to run–round at Knighton Junction to pass Bagworth Junction.  The         |                                        |           |
+| train from Leicester will have to have passed Bagworth Junction before the train from ‘Coalville’ can pass                |                                        |           |
+| Bagworth Junction.                                                                                                        |                                        |           |
+| Run–round Allowance                                                                                                       | 25                                     |           |
+| Leicester Signal LR397 and LR399                                                                                          |                                        |           |
+| Planning Restriction                                                                                                      |                                        |           |
+| CrossCountry ECS formed of one Class 170 unit can reverse on either the Down Fast Line (behind Signal LR397)              |                                        |           |
+| or on the Up Fast Line (behind Signal LR399).                                                                             |                                        |           |
+| Under normal circumstances, CrossCountry ECS formed of more than one Class 170 unit can only reverse on the               |                                        |           |
+| Up Fast Line due to the lack of a walking route adjacent to the Down Fast Line. However, CrossCountry ECS                 |                                        |           |
+| formed of more than one Class 170 unit can reverse on the Down Fast Line, but only when two drivers are                   |                                        |           |
+| provided (by TOC agreement only).                                                                                         |                                        |           |

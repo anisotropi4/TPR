@@ -1,0 +1,36 @@
+|                                                                                      |      |       |    |    |                                            |
+|:-------------------------------------------------------------------------------------|:-----|:------|:---|:---|:-------------------------------------------|
+| MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)                                              |      |       |    |    |                                            |
+| Down – SO Day 0600–2000 Camden Jn to Ledburn Jn, 0620-2000 Ledburn Jn to Hanslope Jn |      |       |    |    |                                            |
+| Location                                                                             | Type | FL/ML | SL | GL | Remarks                                    |
+| Approaching Tring                                                                    | E    |       | 1  |    | Applies only to services terminating at    |
+|                                                                                      |      |       |    |    | Tring                                      |
+| Approaching Milton Keynes                                                            | E    |       | 1  |    |                                            |
+| Central                                                                              |      |       |    |    |                                            |
+| Approaching Hanslope Jn                                                              | E    | 1     |    |    | Can be applied approaching Milton Keynes   |
+|                                                                                      |      |       |    |    | Central for trains routed Down Fast to     |
+|                                                                                      |      |       |    |    | Down Slow or Milton Keynes Reversible      |
+|                                                                                      |      |       |    |    | Fast                                       |
+| Approaching Hillmorton Jn                                                            | E    | 1     | 1  |    |                                            |
+| Up – SO Day 0620-2000 Hanslope Jn to Ledburn Jn, 0600-2000 Ledburn Jn to Camden Jn   |      |       |    |    |                                            |
+| Location                                                                             | Type | FL/ML | SL | GL | Remarks                                    |
+| Approaching Rugby Trent Valley                                                       | E    | 1     | 1  |    |                                            |
+| Jn                                                                                   |      |       |    |    |                                            |
+| Approaching Ledburn Jn                                                               | E    |       | 1  |    | Applies to Class 1 passenger trains only   |
+| Approaching Tring                                                                    | E    | 1     | 1  |    |                                            |
+| Approaching Wembley Central                                                          | E    |       | 2  |    | Only applies to freights routed to Wembley |
+|                                                                                      |      |       |    |    | Yard/Nodal Yard or via Willesden Relief    |
+|                                                                                      |      |       |    |    | Lines                                      |
+| Approaching Willesden West                                                           | E    | 1     | 2  |    |                                            |
+| London Jn                                                                            |      |       |    |    |                                            |
+| MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)                                         |      |       |    |    |                                            |
+| Timing Section                                                                       | Type | FL/ML | SL | GL | Remarks                                    |
+| Down – SO Day 0600 – 2000                                                            |      |       |    |    |                                            |
+| Approaching Northampton                                                              | E    | 1     |    |    |                                            |
+| Approaching Daventry South Jn                                                        | E    | 1*    |    |    | * Trains terminating at Daventry Freight   |
+|                                                                                      |      |       |    |    | Terminals                                  |
+| Approaching Hillmorton Jn                                                            | E    | 1     |    |    |                                            |
+| Up – SO Day 0600 – 2000                                                              |      |       |    |    |                                            |
+| Approaching Daventry North Jn                                                        | E    | 1*    |    |    | * Trains terminating at Daventry Freight   |
+|                                                                                      |      |       |    |    | Terminals                                  |
+| Approaching Northampton                                                              | E    | 1     |    |    |                                            |

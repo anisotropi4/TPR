@@ -1,0 +1,34 @@
+|                                                                                                                  |                              |            |        |
+|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------|:-----------|:-------|
+| Reigate                                                                                                          |                              |            |        |
+| All Services                                                                                                     | 1                            |            |        |
+| Overlap Restrictions                                                                                             |                              |            |        |
+| First Movement                                                                                                   | Second Movement              | Overlap    | Margin |
+| Up train departing Platform 2                                                                                    | Up train arriving Platform 1 | Signal RG5 | 3      |
+| towards Redhill                                                                                                  |                              |            |        |
+| Betchworth                                                                                                       |                              |            |        |
+| Adjustment to Sectional Running Times                                                                            |                              |            |        |
+| Movement                                                                                                         | Reason                       | Value      |        |
+| Down train arriving with section                                                                                 | Restrictive aspects          | 1⁄2*       |        |
+| ahead occupied                                                                                                   |                              |            |        |
+| *to be applied on departure from Betchworth                                                                      |                              |            |        |
+| Dwell Times                                                                                                      |                              |            |        |
+| All Services                                                                                                     | 1⁄2                          |            |        |
+| Dorking Deepdene                                                                                                 |                              |            |        |
+| Dwell Times                                                                                                      |                              |            |        |
+| All Services                                                                                                     | 1                            |            |        |
+| Dorking West                                                                                                     |                              |            |        |
+| Adjustment to Sectional Running Times                                                                            |                              |            |        |
+| Movement                                                                                                         | Reason                       | Value      |        |
+| Down train arriving with section                                                                                 | Restrictive aspects          | 1⁄2*       |        |
+| ahead occupied                                                                                                   |                              |            |        |
+| *to be applied on departure from Dorking West                                                                    |                              |            |        |
+| Platform Re-Occupation                                                                                           |                              |            |        |
+| A following Up train cannot pass / arrive Dorking West until 3 minutes after the preceding Up train has departed |                              |            |        |
+| Dorking Deepdene                                                                                                 |                              |            |        |
+| Gomshall                                                                                                         |                              |            |        |
+| Refer to Wessex Timetable Planning Rules – SW300                                                                 |                              |            |        |
+| SO590 Keymer Junction to Eastbourne                                                                              |                              |            |        |
+| Plumpton                                                                                                         |                              |            |        |
+| Planning Note                                                                                                    |                              |            |        |
+| Trains formed of a 12 car Class 700 EMU must not be planned into this station, due to operational restrictions   |                              |            |        |

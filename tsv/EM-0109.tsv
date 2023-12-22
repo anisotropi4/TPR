@@ -1,0 +1,52 @@
+|                       |          |        |                                           |
+|:----------------------|:---------|:-------|:------------------------------------------|
+| STATION               | PLATFORM | USABLE | NOTES                                     |
+|                       |          | LENGTH |                                           |
+| Cromford              | Single   | 114    |                                           |
+| Derby                 | 1        | 331    |                                           |
+| Derby                 | 2        | 334    |                                           |
+| Derby                 | 3        | 334*   | *320 metres between signals for reversing |
+|                       |          |        | services                                  |
+| Derby                 | 4        | 337*   | *320 metres between signals for reversing |
+|                       |          |        | services                                  |
+| Derby                 | 5        | 337*   | *290 metres between signals for reversing |
+|                       |          |        | services                                  |
+| Derby                 | 6        | 338*   | *337 metres between signals for reversing |
+|                       |          |        | services                                  |
+| Duffield              | Down     | 128    |                                           |
+| Duffield              | Up       | 128    |                                           |
+| East Midlands Parkway | 1        | 240    |                                           |
+| East Midlands Parkway | 2        | 240    |                                           |
+| East Midlands Parkway | 3        | 120    |                                           |
+| East Midlands Parkway | 4        | 120    |                                           |
+| Elton and Orston      | Down     | 105    |                                           |
+| Elton and Orston      | Up       | 105    |                                           |
+| Elstree               | 1        | 245    |                                           |
+| Elstree               | 2        | 245    |                                           |
+| Elstree               | 3        | 176    |                                           |
+| Elstree               | 4        | 177    |                                           |
+| Farringdon            | 3        | 269    |                                           |
+| Farringdon            | 4        | 269    |                                           |
+| Fiskerton             | Down     | 103    |                                           |
+| Fiskerton             | Up       | 96     |                                           |
+| Flitwick              | 1        | 245    |                                           |
+| Flitwick              | 2        | 245    |                                           |
+| Flitwick              | 3        | 245    |                                           |
+| Flitwick              | 4        | 245    |                                           |
+| Harlington            | 1        | 245    |                                           |
+| Harlington            | 2        | 245    |                                           |
+| Harlington            | 3        | 168    |                                           |
+| Harlington            | 4        | 178    |                                           |
+| Harpenden             | 1        | 245    |                                           |
+| Harpenden             | 2        | 245    |                                           |
+| Harpenden             | 3        | 245    |                                           |
+| Harpenden             | 4        | 245    |                                           |
+| Hendon                | 1        | 166    |                                           |
+| Hendon                | 2        | 170    |                                           |
+| Hendon                | 3        | 172    |                                           |
+| Hendon                | 4        | 166    |                                           |
+| Hinckley              | Down     | 104    |                                           |
+| Hinckley              | Up       | 104    |                                           |
+| Hucknall              | Single   | 79     |                                           |
+| Kentish Town          | 1        | 192    |                                           |
+| Kentish Town          | 2        | 201    |                                           |

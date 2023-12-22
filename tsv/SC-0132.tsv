@@ -1,0 +1,44 @@
+|                                                                                                             |                                         |        |
+|:------------------------------------------------------------------------------------------------------------|:----------------------------------------|:-------|
+| Mossend Up Yard                                                                                             |                                         |        |
+| Junction Margins                                                                                            |                                         |        |
+| First Movement                                                                                              | Second Movement                         | Margin |
+| Depart to North                                                                                             | Depart to North                         | 5      |
+| Depart to North                                                                                             | Depart to South                         | 5      |
+| Depart to South                                                                                             | Depart to North                         | 5      |
+| Depart to South                                                                                             | Depart to South                         | 5      |
+| Restriction                                                                                                 |                                         |        |
+| Trains cannot terminate in Mossend Up Reception Lines.   All shunting time between the EuroTerminal and     |                                         |        |
+| Reception Lines must be reflected in train schedules.   Maximum dwell time in Mossend Up Reception Lines is |                                         |        |
+| 120 minutes.                                                                                                |                                         |        |
+| Mossend Euroterminal                                                                                        |                                         |        |
+| Adjustments to Sectional Running Times                                                                      |                                         |        |
+| Movement Down                                                                                               | Reason                                  | Value  |
+| Down train from Mossend North Junction with a                                                               | Slow Speed Entering the Terminal        | 2      |
+| length of 60 SLU +                                                                                          |                                         |        |
+| Down train from Mossend North Junction with a                                                               | Slow Speed Entering the Terminal        | 3      |
+| length of 95 SLU +                                                                                          |                                         |        |
+| Mossend North Exit                                                                                          |                                         |        |
+| Adjustments to Sectional Running Times                                                                      |                                         |        |
+| Movement Down                                                                                               | Reason                                  | Value  |
+| Down train from Down Yard / Up Yard / Down                                                                  | Acceleration approaching Whifflet South | 1      |
+| Goods Loop                                                                                                  | Junction                                |        |
+| (except MU)                                                                                                 |                                         |        |
+| Down train from Down Yard or Up Yard (MU)                                                                   | Acceleration approaching Whifflet South | 1⁄2    |
+|                                                                                                             | Junction                                |        |
+| Movement Up                                                                                                 | Reason                                  | Value  |
+| Up train to Down Yard (except MU)                                                                           | Approach Control                        | 1      |
+| Up train to Down Yard (MU)                                                                                  | Approach Control                        | 1⁄2    |
+| Up train to Up Yard (except MU)                                                                             | Approach Control                        | 1      |
+| Up train to Up Yard (MU)                                                                                    | Approach Control                        | 1⁄2    |
+| Junction Margins                                                                                            |                                         |        |
+| First Movement                                                                                              | Second Movement                         | Margin |
+| Pass Down from Mossend North Junction/Up                                                                    | Up pass to Down Yard                    | 2      |
+| Yard                                                                                                        |                                         |        |
+| Pass Down from Down Yard                                                                                    | Up pass to Down Yard                    | 2      |
+| Up pass to Down Yard                                                                                        | Depart Down Yard                        | 3      |
+| Up pass to Down Yard                                                                                        | Down depart Up Yard                     | 1      |
+| Up pass to Mossend North Junction                                                                           | Down depart Up yard                     | 2      |
+| Down depart Up Yard                                                                                         | Pass to Mossend North Junction/Up Yard  | 3      |
+|                                                                                                             | (not stopping Whifflet)                 |        |
+| Down depart Up Yard                                                                                         | Up depart Whifflet                      | 1⁄2    |

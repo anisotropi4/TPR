@@ -1,0 +1,24 @@
+|                            |      |    |      |                                         |
+|:---------------------------|:-----|:---|:-----|:----------------------------------------|
+| GW108 FORDGATE TO PENZANCE |      |    |      |                                         |
+| TIMING POINT               | DOWN | UP | CODE | NOTES                                   |
+| Penwithers Junction        | –    | –  |      | To/from Penryn – GW680                  |
+| Chacewater Signal R14      |      | –  |      | Timing point in up direction            |
+| Chacewater Signal R31      | –    |    |      | Timing point in down direction          |
+| Redruth Signal R27         | –    |    |      | Timing point in down direction          |
+| Redruth                    | –    | –  | S    | Platform detail must be shown           |
+| Redruth Signal R10         |      | –  |      | Timing point in up direction            |
+| Roskear Junction           |      |    |      |                                         |
+| Camborne                   | –    | –  |      | Platform detail must be shown           |
+| Gwinear Road Signal R6     |      | –  |      | Timing point in up direction            |
+|                            |      |    |      | Timing point can be omitted from a ‘150 |
+|                            |      |    |      | TIPLOC’ schedule                        |
+| Hayle Signal R19           | –    |    |      | Timing point in down direction          |
+|                            |      |    |      | Timing point can be omitted from a ‘150 |
+|                            |      |    |      | TIPLOC’ schedule                        |
+| Hayle                      | –    | –  | S    | Platform detail must be shown.          |
+| St. Erth                   | –    | –  |      | To/from St. Ives – GW690                |
+|                            |      |    |      | Platform detail must be shown           |
+| Long Rock                  | –    | –  |      |                                         |
+| Penzance T& RSMD           | –    | –  | S    |                                         |
+| Ponsandane                 |      | –  | S    |                                         |

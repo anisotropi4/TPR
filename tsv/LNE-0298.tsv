@@ -1,0 +1,37 @@
+|                                                                                                                |                                    |        |
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------|:-------|
+| Beverley                                                                                                       |                                    |        |
+| Dwell Time                                                                                                     |                                    |        |
+| All                                                                                                            | 1                                  |        |
+| Junction Margins                                                                                               |                                    |        |
+| First Movement                                                                                                 | Second Movement                    | Margin |
+| Depart Down platform to Hull                                                                                   | Arrive Down platform from Hull     | 4      |
+| Minimum Turnround                                                                                              |                                    |        |
+| From Hull Same platform                                                                                        | 5                                  |        |
+| From Hull replatform, also                                                                                     | 10                                 |        |
+| From Doncaster, Leeds or York                                                                                  |                                    |        |
+| From beyond Doncaster, Leeds or                                                                                | 20*                                |        |
+| York.                                                                                                          |                                    |        |
+| * May be reduced to a minimum of 10 minutes if the incoming/outgoing services have additional station dwell at |                                    |        |
+| Hull                                                                                                           |                                    |        |
+| Driffield                                                                                                      |                                    |        |
+| Dwell Time                                                                                                     |                                    |        |
+| All                                                                                                            | 1                                  |        |
+| Bridlington                                                                                                    |                                    |        |
+| Dwell Time                                                                                                     |                                    |        |
+| All                                                                                                            | 1                                  |        |
+| Junction Margins                                                                                               |                                    |        |
+| First Movement                                                                                                 | Second Movement                    | Margin |
+| Arrive from Hunmanby                                                                                           | Depart to Hunmanby.                | 1      |
+| Depart to Driffield                                                                                            | Conflicting arrival from           | 4      |
+|                                                                                                                | from Driffield                     |        |
+| Arrive Platform 6                                                                                              | Pass from Hunmanby                 | 3      |
+| Minimum Turnround                                                                                              |                                    |        |
+| From Hull                                                                                                      | 6 (not shunting between platforms) |        |
+|                                                                                                                | 12 (shunting between platforms)    |        |
+| From Doncaster, or York                                                                                        | 10                                 |        |
+|                                                                                                                | 12 (shunting between platforms)    |        |
+| From Scarborough                                                                                               | 12                                 |        |
+| From beyond Doncaster, or York.                                                                                | 20*                                |        |
+| * May be reduced to a minimum of 10 minutes if the incoming/outgoing services have additional station dwell at |                                    |        |
+| Hull                                                                                                           |                                    |        |

@@ -1,0 +1,32 @@
+|                                                                                                                |                                                |        |
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-------|
+| Cowlairs West Junction                                                                                         |                                                |        |
+| Adjustments to Sectional Running Times                                                                         |                                                |        |
+| Movement Up                                                                                                    | Reason                                         | Value  |
+| Up trains diverging towards Cowlairs North                                                                     | Approach control                               | 1⁄2    |
+| Junction approaching Cowlairs West Junction                                                                    |                                                |        |
+| Up trains from Springburn towards                                                                              | Acceleration (to be applied approaching        | 1 LH   |
+| Bishopbriggs                                                                                                   | Bishopbriggs)                                  |        |
+| Movement Down                                                                                                  | Reason                                         | Value  |
+| Down trains joining at Cowlairs West Junction                                                                  | Acceleration (to be applied between Cowlairs   | 1⁄2    |
+| from Eastfield TMD / Passenger Loop                                                                            | West Junction and Cowlairs South Junction)     |        |
+| Down train from Cowlairs East Junction                                                                         | Approach control                               | 1⁄2    |
+| towards Springburn                                                                                             |                                                |        |
+| Junction Margins                                                                                               |                                                |        |
+| All Conflicting Movements excluding instances listed below                                                     | 21⁄2                                           |        |
+| First Movement                                                                                                 | Second Movement                                | Margin |
+| Down pass Cowlairs South Junction                                                                              | Depart Eastfield TMD                           | 1⁄2    |
+| Down pass from Springburn towards                                                                              | Pass from Bishopbriggs                         | 3      |
+| Bishopbriggs                                                                                                   |                                                |        |
+| Up Pass Cowlairs West Junction                                                                                 | Down depart Cowlairs West Junction (when       | 1      |
+|                                                                                                                | conflicting)                                   |        |
+| Down Pass towards Cowlairs South Junction                                                                      | Pass from Cowlairs South Junction to Eastfield | 11⁄2   |
+|                                                                                                                | TMD/Passenger Loop                             |        |
+| Cowlairs South Junction                                                                                        |                                                |        |
+| Junction Margins                                                                                               |                                                |        |
+| First Movement                                                                                                 | Second Movement                                | Margin |
+| Pass to Springburn                                                                                             | Pass from Cowlairs West Junction               | 3      |
+| Pass from Cowlairs West Junction                                                                               | Pass to Springburn                             | 21⁄2   |
+| Planning Note                                                                                                  |                                                |        |
+| Trains booked a pathing stop on the Up E&G must have a minimum dwell time of 1 minute to allow for the overlap |                                                |        |
+| to timeout and route reset                                                                                     |                                                |        |

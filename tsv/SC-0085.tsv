@@ -1,0 +1,44 @@
+|                                                                                                                |                                       |        |
+|:---------------------------------------------------------------------------------------------------------------|:--------------------------------------|:-------|
+| Carstairs Station                                                                                              |                                       |        |
+| Platform End Margins                                                                                           |                                       |        |
+| First Movement                                                                                                 | Second Movement                       | Margin |
+| Depart to Carstairs South Jn                                                                                   | Arrive from Carstairs East Jn         | 5      |
+| Depart to Carstairs East Jn                                                                                    | Arrive from Carstairs South Jn        | 41⁄2   |
+| Overlap Margins                                                                                                |                                       |        |
+| First Movement                                                                                                 | Second Movement                       | Margin |
+| Arrive from Carstairs North Jn                                                                                 | Arrive from Carstairs East/South Jn   | 4      |
+| Arrive from Carstairs East/South Jn                                                                            | Arrive from Carstairs North Jn        | 2      |
+| Restriction                                                                                                    |                                       |        |
+| Pathing time must not be inserted between Carstairs Station and Carstairs South Junction or vice versa due to  |                                       |        |
+| there being no intermediate signals.                                                                           |                                       |        |
+| Carstairs North Junction                                                                                       |                                       |        |
+| Adjustments to Sectional Running Times                                                                         |                                       |        |
+| Movement Down                                                                                                  | Reason                                | Value  |
+| Departing Carstairs DPL or UPL towards                                                                         | Acceleration                          | 1*     |
+| Lanark Jn                                                                                                      | (Passenger and freight up to 800t)    |        |
+|                                                                                                                | Acceleration                          | 11⁄2 * |
+|                                                                                                                | (Freight 1000t to 1600t)              |        |
+|                                                                                                                | Acceleration                          | 2*     |
+|                                                                                                                | (Freight 1800t and greater)           |        |
+| Pass via Carstairs station or Carstairs chord                                                                  | Acceleration                          | 1⁄2 *  |
+|                                                                                                                | (Passenger and freight up to 1400t)   |        |
+|                                                                                                                | Acceleration                          | 1*     |
+|                                                                                                                | (Freight 1600t to 1800t)              |        |
+|                                                                                                                | Acceleration                          | 11⁄2 * |
+|                                                                                                                | (Freight 2000t and greater)           |        |
+| *Value to be applied approaching next timing point                                                             |                                       |        |
+| Movement Up                                                                                                    | Reason                                | Value  |
+| Up train stopping Carstairs U.P.L.                                                                             | Approach Control                      | 11⁄2   |
+| Train routed to Carstairs East                                                                                 | Flashing Yellows                      | 1⁄2 *  |
+| Junction/Carstairs via UPL                                                                                     |                                       |        |
+| Train routed towards Carstairs via Platform                                                                    | Approach Control                      | 1      |
+| Line                                                                                                           |                                       |        |
+| * Value may only be applied if no pathing allowance is applied approaching Carstairs station or Carstairs East |                                       |        |
+| Junction. Otherwise 1 minute to be applied.                                                                    |                                       |        |
+| Junction Margins                                                                                               |                                       |        |
+| First Movement                                                                                                 | Second Movement                       | Margin |
+| Down freight arrive DPL                                                                                        | Down pass on Down Main from Carstairs | 2      |
+|                                                                                                                | station (via Platform Line)           |        |
+| Down pass from Carstairs/Carstairs East                                                                        | Conflicting up pass                   | 31⁄2   |
+| Junction                                                                                                       |                                       |        |

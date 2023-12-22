@@ -1,0 +1,42 @@
+|                                       |                                              |                                           |                   |
+|:--------------------------------------|:---------------------------------------------|:------------------------------------------|:------------------|
+|                                       | Watery Lane (Down/Up Stour Goods)            |                                           |                   |
+|                                       | Adjustments to Sectional Running Times       |                                           |                   |
+|                                       | Movement Down                                | Reason                                    | Value             |
+|                                       | Trains to Down Stour Goods                   | Approach control                          | {1} ECS and       |
+|                                       |                                              |                                           | light engine;     |
+|                                       |                                              |                                           | {11⁄2} freight at |
+|                                       |                                              |                                           | Dudley Port       |
+|                                       | Movement Up                                  | Reason                                    | Value             |
+|                                       | Trains from the Up Stour Goods Loop          | Not at line speed passing Dudley Port     | {1} to be         |
+|                                       |                                              |                                           | applied at        |
+|                                       |                                              |                                           | next timing       |
+|                                       |                                              |                                           | point after       |
+|                                       |                                              |                                           | Dudley Port       |
+|                                       | Junction Margins                             |                                           |                   |
+|                                       | First Movement                               | Second Movement                           | Margin            |
+|                                       | Pass Dudley Port to Watery Lane (Down Stour  | Down Pass/Arrive Dudley Port              | 4                 |
+|                                       | Goods)                                       |                                           |                   |
+|                                       | Down Depart/Pass Dudley Port, not stopping   | Depart Watery Lane (Down Stour Goods)     | 21⁄2              |
+|                                       | Tipton                                       |                                           |                   |
+|                                       | Down Depart/Pass Dudley Port, stopping       | Depart Watery Lane (Down Stour Goods)     | 31⁄2              |
+|                                       | Tipton                                       |                                           |                   |
+|                                       |                                              | Depart                                    |                   |
+|                                       | Arrive Watery Lane (Up Stour Goods)          | Up Pass Dudley Port                       | 4                 |
+|                                       | Arrive Watery Lane (Up Stour Goods)          | Up Arrive Dudley Port                     | 5                 |
+|                                       | Up Pass/Depart Dudley Port                   | Depart Watery Lane (Up Stour Goods)       | 2                 |
+| Depart Watery Lane (Down Stour Goods) |                                              |                                           |                   |
+| Depart                                |                                              |                                           |                   |
+|                                       | Monmore Green                                |                                           |                   |
+|                                       | Junction Margins                             |                                           |                   |
+|                                       | First Movement                               | Second Movement                           | Margin            |
+|                                       | Up train passes or departs Wolverhampton     | Freight train to/from Wolverhampton Steel | 5                 |
+|                                       | towards Dudley Port                          | Terminal crosses Monmore Green            |                   |
+|                                       | Down freight to Wolverhampton Steel Terminal | Up train passes or departs Wolverhampton  | 11⁄2              |
+|                                       | crosses Monmore Green                        | towards Dudley Port                       |                   |
+|                                       | Wolverhampton                                |                                           |                   |
+|                                       | Adjustments to Sectional Running Times       |                                           |                   |
+|                                       | Movement Down                                | Reason                                    | Value             |
+|                                       | From Dudley Port to Platforms 2, 3 and 4 via | Approach Control                          | 1                 |
+|                                       | BW388A/BW388B points                         |                                           |                   |
+|                                       | Connectional Allowance                       | 7                                         |                   |

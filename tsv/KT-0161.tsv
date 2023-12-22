@@ -1,0 +1,51 @@
+|              |                                  |        |                |
+|:-------------|:---------------------------------|:-------|:---------------|
+| STATION      | PLATFORM                         | USABLE | NOTES          |
+|              |                                  | LENGTH |                |
+| Northfleet   | 2 - Down Main                    | 207    |                |
+| Nunhead      | 1 - Up Catford Loop              | 163    |                |
+| Nunhead      | 2 - Down Catford Loop            | 163    |                |
+| Orpington    | 1 - Up Bay                       | 257    |                |
+| Orpington    | 2 - Up Fast                      | 270    |                |
+| Orpington    | 3 - Down Fast                    | 275    | Down direction |
+| Orpington    | 3 - Down Fast                    | 275    | Up direction   |
+| Orpington    | 4 - Up Slow                      | 275    | Down direction |
+| Orpington    | 4 - Up Slow                      | 275    | Up direction   |
+| Orpington    | 5 - Down Slow                    | 277    | Down direction |
+| Orpington    | 5 - Down Slow                    | 277    | Up direction   |
+| Orpington    | 6 - Down Bay                     | 256    |                |
+| Orpington    | 7 - Down Bay                     | 256    |                |
+| Orpington    | 8 - Down Bay                     | 254    |                |
+| Otford       | 1 – Up                           | 168    |                |
+| Otford       | 2 – Down                         | 168    |                |
+| Paddock Wood | 1 - Up Passenger Loop            | 244    |                |
+| Paddock Wood | 2 - Down Passenger Loop          | 243    | Down direction |
+| Paddock Wood | 2 - Down Passenger Loop          | 243    | Up direction   |
+| Paddock Wood | 3 - Maidstone Branch Bay         | 170    |                |
+| Peckham Rye  | 3 - Up Catford Loop              | 163    |                |
+| Peckham Rye  | 4 - Down Catford Loop            | 163    |                |
+| Penge East   | 1 – Up                           | 184    |                |
+| Penge East   | 2 – Down                         | 184    |                |
+| Petts Wood   | 1 - Up Fast                      | 297    |                |
+| Petts Wood   | 2 - Down Fast                    | 296    |                |
+| Petts Wood   | 3 - Up Slow                      | 291    |                |
+| Petts Wood   | 4 - Down Slow                    | 292    |                |
+| Pluckley     | 1 - Up Main                      | 164    |                |
+| Pluckley     | 2 - Down Main                    | 164    |                |
+| Plumstead    | 1 - Up North Kent                | 246    |                |
+| Plumstead    | 2 - Down North Kent              | 243    |                |
+| Queenborough | 1 - Crossing Loop in Single Line | 165    |                |
+| Queenborough | 2 – Single                       | 165    |                |
+| Rainham      | 0 - Up Bay                       | 257    |                |
+| Rainham      | 1 - Up Main                      | 351    |                |
+| Rainham      | 2 - Down Main                    | 247    |                |
+| Ramsgate     | 1 - Down Passenger Loop          | 245    | Down direction |
+| Ramsgate     | 1 - Down Passenger Loop          | 245    | Up direction   |
+| Ramsgate     | 2 - Down Main                    | 248    | Down direction |
+| Ramsgate     | 2 - Down Main                    | 248    | Up direction   |
+| Ramsgate     | 3 - Up Main                      | 245    | Down direction |
+| Ramsgate     | 3 - Up Main                      | 245    | Up direction   |
+| Ramsgate     | 4 - Up Passenger Loop            | 245    | Down direction |
+| Ramsgate     | 4 - Up Passenger Loop            | 245    | Up direction   |
+| Ravensbourne | 1 - Up Catford Loop              | 163    |                |
+| Ravensbourne | 2 - Down Catford Loop            | 162    |                |

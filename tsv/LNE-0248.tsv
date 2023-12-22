@@ -1,0 +1,14 @@
+|                                        |                 |             |
+|:---------------------------------------|:----------------|:------------|
+| Ferrybridge North Junction             |                 |             |
+| Adjustments to Sectional Running Times |                 |             |
+| Movement Down                          | Reason          | Value       |
+| Pass from Pontefract East Jn           | Acceleration    | 1           |
+|                                        |                 | Approaching |
+|                                        |                 | next timing |
+|                                        |                 | point       |
+| Movement Up                            | Reason          | Value       |
+| Pass to Pontefract East Jn             | Deceleration    | 2 Freight   |
+|                                        |                 | 1 Passenger |
+| Junction Margins                       |                 |             |
+| First Movement                         | Second Movement | Margin      |

@@ -1,0 +1,44 @@
+|              |                                                                                               |
+|:-------------|:----------------------------------------------------------------------------------------------|
+| Abbreviation | Description                                                                                   |
+| *            | Suppression of traffic stop indicator                                                         |
+| -D           | Train stops to detach vehicles                                                                |
+| -T           | Train stops to attach and detach vehicles                                                     |
+| -U           | Train stops to attach vehicles                                                                |
+| A            | Train stops or shunts for other trains ahead or to pass only.  Shows as * in WTT              |
+| AE           | Trains stops to attach/detach assisting locomotive                                            |
+| BL           | Train stops to attach or detach a banking locomotive                                          |
+| C            | Train stops to change train crew                                                              |
+| D            | Train only stops to set down passengers.  Shows as an ‘s’ in NRT                              |
+| E            | Train stops for examination                                                                   |
+| G            | NRT data to add                                                                               |
+| H            | Notional Activity to prevent WTT column merge                                                 |
+| HH           | As H, where there is a third column involved                                                  |
+| K            | Passenger count point                                                                         |
+| KC           | Ticket collection and examination point                                                       |
+| KE           | Ticket examination point                                                                      |
+| KF           | Ticket examination point – 1st Class only                                                     |
+| KS           | Selective ticket examination point                                                            |
+| L            | Train stops to change locomotives                                                             |
+| N            | Stop not advertised to the public                                                             |
+| OP           | Train stops for other operating reasons                                                       |
+| OR           | Train locomotive on rear of train                                                             |
+| PR           | Train propelling between points shown                                                         |
+| R            | Train stops when required. Shows as an ‘x’ in NRT                                             |
+| RETB         | Radio Electronic Token Block                                                                  |
+| RM           | Trains stops for a reversing movement or driver to change ends                                |
+| RR           | Train stops to allow the locomotive to runaround its train                                    |
+| S            | Trains for railway personnel only                                                             |
+| T            | Trains stops to pick up or set down passengers                                                |
+| TB           | Train begins (Origin)                                                                         |
+| TF           | Train finishes (Destination)                                                                  |
+| TS           | Detail consist for TOPS Direct requested by DB Schenker                                       |
+| TW           | Train stops to pick up or set down a staff, tablet or token on Single Lines.  See Section 5.2 |
+| U            | Train only stops to pick up passengers.  Shows as a ‘u’ in NRT                                |
+| W            | Train stops for watering of coaches                                                           |
+| X            | Train passes another train at crossing point on single line.  See Section 5.2                 |
+| x{           | Suppress running line information                                                             |
+| {            | Force running line indication                                                                 |
+| {}           | Force path and line indications                                                               |
+| }            | Force path indication                                                                         |
+| #            | Force stop with TW                                                                            |

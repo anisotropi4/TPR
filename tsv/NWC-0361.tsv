@@ -1,0 +1,51 @@
+|                                                |                                                |                           |
+|:-----------------------------------------------|:-----------------------------------------------|:--------------------------|
+| Ashton Moss North Jn                           |                                                |                           |
+| Adjustments to Sectional Running Time          |                                                |                           |
+| Movement                                       | Reason                                         | Value                     |
+| Any train routed non-stop from Down Ashton to  | Flashing yellow aspects                        | 1⁄2                       |
+| Up Crowthorne                                  |                                                |                           |
+| Pass from Down Crowthorne to Up Ashton         | Acceleration                                   | 1⁄2 passenger             |
+|                                                |                                                | 1⁄2 freight up to         |
+|                                                |                                                | 1800t/TR100               |
+|                                                |                                                | 1 freight 2000t/TR115 and |
+|                                                |                                                | above                     |
+| Junction Margins                               |                                                |                           |
+| First Movement                                 | Second Movement                                | Margin                    |
+| Freight passes from Down Ashton to Up          | Train from Stalybridge                         | 4                         |
+| Crowthorne                                     |                                                |                           |
+| Passenger service passes from Stalybridge      | Freight passes from Down Ashton to Up          | 31⁄2                      |
+|                                                | Crowthorne                                     |                           |
+| Train passes from Stalybridge on Up Ashton     | Train passes from Down Crowthorne to Up        | 21⁄2                      |
+|                                                | Ashton                                         |                           |
+| Stalybridge                                    |                                                |                           |
+| Adjustments to Sectional Running Times         |                                                |                           |
+| Movement                                       | Reason                                         | Value                     |
+| Non-stop train from Huddersfield direction     | Approach control                               | 1⁄2                       |
+| towards Ashton Moss North Jn via Platforms 1   |                                                |                           |
+| Train from Guide Bridge or Ashton Moss North   | Approach control                               | 1                         |
+| Jn direction stopping at Platform 2            |                                                |                           |
+| Train from Guide Bridge direction passing      | Slower speed through platform and crossover    | 1⁄2                       |
+| Stalybridge via UDM or Platform 3              |                                                |                           |
+| Train from Guide Bridge or Ashton Moss North   | Restrictive aspects                            | 1⁄2                       |
+| Jn stopping at Platform 1                      |                                                |                           |
+| Dwell Time                                     |                                                |                           |
+| All trains                                     | 1                                              |                           |
+| Junction Margins                               |                                                |                           |
+| First Movement                                 | Second Movement                                | Margin                    |
+| Train arrives or passes from Guide Bridge or   | Conflicting departure towards Guide Bridge or  | 1                         |
+| Ashton Moss North Jn                           | Ashton Moss North Jn                           |                           |
+| Train arrives or passes platform 4 from Guide  | Train passes towards Ashton Moss North Jn      | 2                         |
+| Bridge                                         | via platforms 1 or 3                           |                           |
+| Train arrives or passes platform 4 from Guide  | Train arrives or passes platform 3 from Ashton | 21⁄2                      |
+| Bridge                                         | Moss North Jn                                  |                           |
+| Train arrives or passes platform 3 from Ashton | Train arrives or passes platform 4 from Guide  | 2                         |
+| Moss North Jn                                  | Bridge                                         |                           |
+| Train passes Stalybridge towards Diggle Jn     | Train departs Stalybridge towards Diggle Jn    | 2*                        |
+| Train departs Stalybridge towards Diggle Jn    | Consecutive departure towards Diggle Jn        | 21⁄2*                     |
+| Train arrives platform 1 or 3 from Diggle Jn   | Train passes 1 or 3 from Diggle Jn direction   | 3                         |
+| direction                                      |                                                |                           |
+| Freight train arrives/passes platforms 1 or 3  | Train passes 1 or 3 from Diggle Jn direction   | 3                         |
+| from Diggle Jn direction                       |                                                |                           |
+| Train departs Ashton Under Lyne towards        | Train departs/passes towards Ashton Moss       | 1⁄2 *                     |
+| Ashton Moss North Jn                           | North Jn not calling at Ashton Under Lyne      |                           |

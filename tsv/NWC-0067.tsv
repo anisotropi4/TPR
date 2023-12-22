@@ -1,0 +1,50 @@
+|                                                            |       |      |      |                                         |
+|:-----------------------------------------------------------|:------|:-----|:-----|:----------------------------------------|
+| MD720 PRINCES RISBOROUGH TO AYLESBURY                      |       |      |      |                                         |
+| TIMING POINT                                               | DOWN  | UP   | CODE | NOTES                                   |
+| Princes Risborough                                         | –     | –    |      | Single Line                             |
+|                                                            |       |      |      | Platform detail must be shown           |
+|                                                            |       |      |      | To/from Saunderton – MD701              |
+| Princes Risborough Signal ME178                            | –     | –    |      | Reversal from Bay platform              |
+| Monks Risborough                                           | –     | –    | S    |                                         |
+| Little Kimble                                              | –     | –    |      |                                         |
+| Aylesbury                                                  | –     | –    |      | Platform detail must be shown           |
+|                                                            |       |      |      | To/from Aylesbury Vale Parkway – MD725  |
+|                                                            |       |      |      | MD726                                   |
+| MD726 AYLESBURY TO CLAYDON WEST JN                         |       |      |      |                                         |
+| MD725 AYLESBURY TO CLAYDON L&NE JN                         |       |      |      |                                         |
+| TIMING POINT                                               | DOWN  | UP   | CODE | NOTES                                   |
+| Aylesbury                                                  | –     | –    |      | Platform detail must be shown           |
+|                                                            |       |      |      | To/from Stoke Mandeville – MD712        |
+|                                                            |       |      |      | To/from Little Kimble – MD720           |
+| Aylesbury North Goods Loop                                 | –     | –    | F    | Token exchange point for trains to/from |
+|                                                            |       |      |      | Blackgrove Road                         |
+| Aylesbury Vale Jn                                          |       |      |      |                                         |
+| Aylesbury Vale Parkway                                     | –     | –    |      | Platform detail must be shown           |
+| Blackgrove Road                                            | –     | –    |      | Token exchange point                    |
+| Quainton Railhead                                          |       | –    | F    | TIPLOC QUNTRHD                          |
+| Quainton Road                                              |       | –    | S    | Buckinghamshire Railway Society         |
+| Line temporarily out of use beyond 44 miles 46 chains      |       |      |      |                                         |
+| Calvert                                                    | –     | –    |      | Single line to/from Blackgrove Road.    |
+| Claydon West Jn                                            | –     |      |      | To/from Bicester Gavray Jn – MD736      |
+| MD736 OXFORD NORTH JN (EXCLUSIVE) TO DENBIGH HALL SOUTH JN |       |      |      |                                         |
+| TIMING POINT                                               | DOWN  | UP   | CODE | NOTES                                   |
+| Oxford North Jn                                            | DB UB | UML  |      | To/from Oxford – GW200 - Refer to       |
+|                                                            |       | URL  |      | Western and Wales Timetable Planning    |
+|                                                            |       | DML  |      | Rules                                   |
+| Oxford Canal Jn                                            |       |      |      |                                         |
+| Region Boundary: Western and                               |       |      |      | 29 miles 15 chains                      |
+| Wales/North West and Central                               |       |      |      |                                         |
+| Woodstock Road Jn                                          | –     | –    |      |                                         |
+| Oxford Parkway                                             | – UB  | –    |      | Platform detail must be shown           |
+| Water Eaton Jn                                             |       |      |      | To/from Banbury Road Sidings            |
+| Oxford Banbury Road Sidings                                |       | –    | F    |                                         |
+| Oxford Parkway Signal OB1770                               |       | –    | S    | For reversing moves to/from Oxford      |
+|                                                            |       |      |      | Parkway                                 |
+| Islip                                                      | – UB  | – DB | S    |                                         |
+| Bicester Depot West Jn                                     | –     | – DB |      | For trains to/from Bicester Depot Goods |
+|                                                            |       |      |      | Loop or Bicester Depot Run Round        |
+| Bicester Central Ordnance Depot                            |       |      | F    |                                         |
+| (COD)                                                      |       |      |      |                                         |
+| Bicester Depot Goods Loop                                  | UB    | –    |      | To/from Bicester Central Ordnance Depot |
+|                                                            |       |      |      | (COD)                                   |

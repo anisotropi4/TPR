@@ -1,0 +1,42 @@
+|                                                                                      |         |     |      |                                          |
+|:-------------------------------------------------------------------------------------|:--------|:----|:-----|:-----------------------------------------|
+| SO430 STRATFORD INTERNATIONAL WEST JUNCTION TO TEMPLE MILLS                          |         |     |      |                                          |
+| DEPOT                                                                                |         |     |      |                                          |
+| TIMING POINT                                                                         | DOWN    | UP  | CODE | NOTES                                    |
+| Line codes on SO430 apply forward from the timing point against which they are shown |         |     |      |                                          |
+| Stratford International West                                                         | TPM     | DNC |      | To/from York Way South Junction –        |
+| Junction                                                                             |         | UPC |      | SO400                                    |
+| Temple Mills Depot Reception                                                         | -       | -   |      | Trains can be routed into any of 4       |
+|                                                                                      |         |     |      | reception sidings controlled by Temple   |
+|                                                                                      |         |     |      | Mills Depot signaler                     |
+| SO440 RIPPLE LANE EXCHANGE SIDINGS TO DAGENHAM JUNCTION                              |         |     |      |                                          |
+| TIMING POINT                                                                         | DOWN    | UP  | CODE | NOTES                                    |
+| Line codes on SO440 apply forward from the timing point against which they are shown |         |     |      |                                          |
+| Ripple Lane Exchange Sidings                                                         | DDG     | -   | F S  | To/from Ripple Lane Renwick Road         |
+|                                                                                      | UDG     |     |      | Junction –Refer to East Anglia Timetable |
+|                                                                                      |         |     |      | Planning Rules – EA1390                  |
+| Dagenham Junction                                                                    | DNC     | DDG |      | To/from Ebbsfleet West Junction – SO400  |
+|                                                                                      | UPC     | UDG |      |                                          |
+| SO450 EBBSFLEET WEST JUNCTION TO SPRINGHEAD ROAD JUNCTION                            |         |     |      |                                          |
+| TIMING POINT                                                                         | DOWN    | UP  | CODE | NOTES                                    |
+| Line codes on SO450 apply forward from the timing point against which they are shown |         |     |      |                                          |
+| Ebbsfleet West Junction                                                              | 5 6     | DNC |      | To/from Dagenham Junction – SO400        |
+|                                                                                      |         | UPC |      |                                          |
+| Ebbsfleet International                                                              | NKD     | DNC |      | Platform detail must be shown            |
+|                                                                                      | SD1 SD2 | UPC |      |                                          |
+| Church Path Pit Sidings                                                              | -       | 5 6 | S    |                                          |
+| Springhead Road Junction                                                             | -       | 5 6 |      | To/from Gravesend – SO310                |
+| SO460 FAWKHAM JUNCTION TO SOUTHFLEET JUNCTION                                        |         |     |      |                                          |
+| TIMING POINT                                                                         | DOWN    | UP  | CODE | NOTES                                    |
+| Line codes on SO460 apply forward from the timing point against which they are shown |         |     |      |                                          |
+| Fawkham Junction                                                                     | -       | -   |      | To/from Farningham Road – SO110          |
+| Southfleet Junction                                                                  | DNC     | UPW |      | To/from Southfleet Crossovers – SO400    |
+|                                                                                      | UPC     |     |      |                                          |
+| SO470 ASHFORD WEST JUNCTION (AD947 AND AD949 SIGNALS) TO ASHFORD                     |         |     |      |                                          |
+| INTERNATIONAL                                                                        |         |     |      |                                          |
+| TIMING POINT                                                                         | DOWN    | UP  | CODE | NOTES                                    |
+| Line codes on SO470 apply forward from the timing point against which they are shown |         |     |      |                                          |
+| Ashford West Junction                                                                | DWC     | DNC |      | CTRL TIPLOC to be used                   |
+|                                                                                      | UWC     | UPC |      | To/from Charing Crossover – SO400        |
+|                                                                                      |         |     |      | To/from Ashford International Station –  |
+|                                                                                      |         |     |      | SO130                                    |

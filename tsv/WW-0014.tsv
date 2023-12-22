@@ -1,0 +1,54 @@
+|                 |                                                                                 |
+|:----------------|:--------------------------------------------------------------------------------|
+| Reporting       | Description                                                                     |
+| number          |                                                                                 |
+|                 | Holyhead to Cardiff Central/Maesteg                                             |
+|                 | Shrewsbury to Cardiff Central                                                   |
+| 1Wxx            | Paddington to Moreton/Worcester/Malvern via Charlbury                           |
+| [1W01-1W09]     | Paddington to Hereford via Charlbury                                            |
+|                 | Cardiff Central to Holyhead                                                     |
+|                 | Milford Haven/Carmarthen/Swansea/Cardiff Central to Shrewsbury/Crewe/Manchester |
+| 1Yxx            | Heathrow Airport to Paddington                                                  |
+|                 | Oxford to Marylebone                                                            |
+| 1Zxx            | Special traffic additional trains                                               |
+|                 | Must NOT be used for WTT services                                               |
+| Class 2         |                                                                                 |
+| 2Axx            | Windsor to Slough                                                               |
+|                 | Frome to Westbury                                                               |
+|                 | Penzance/Plymouth/Paignton to Newton Abbot                                      |
+| [Odd numbered]  | Penzance/St Erth to St Ives                                                     |
+| [Even numbered] | St Ives to St Erth/Penzance                                                     |
+|                 | Barry Island/Bridgend/Cardiff Central to Aberdare                               |
+| 2Bxx            | Exeter to Barnstaple                                                            |
+|                 | Cheltenham/Gloucester to Swindon                                                |
+| [Odd numbered]  | Marlow to Maidenhead                                                            |
+| [Even numbered] | Maidenhead to Marlow                                                            |
+|                 | Cardiff Queen Street to Cardiff Bay                                             |
+| 2Cxx            | Waterloo to Reading                                                             |
+|                 | Reading to Waterloo                                                             |
+|                 | Bristol to Westbury/Frome                                                       |
+|                 | Cardiff to Bristol                                                              |
+|                 | Bristol to Taunton/Exeter/Plymouth/Penzance                                     |
+|                 | Exeter/Plymouth to Liskeard/Par/Truro/Penzance                                  |
+|                 | Cardiff Central/Penarth/Radyr to Coryton                                        |
+| 2Dxx            | Bristol TM to Bristol PW                                                        |
+|                 | Reading to Didcot                                                               |
+|                 | Shrewsbury to Chester                                                           |
+| [Odd numbered]  | Llandudno to Llandudno Junction                                                 |
+| [Even numbered] | Llandudno Junction to Llandudno                                                 |
+| [Even numbered] | Llandudno to Blaenau Ffestiniog                                                 |
+| [Odd numbered]  | Blaenau Ffestiniog to Llandudno                                                 |
+| [Even numbered] | Penarth to Bargoed                                                              |
+| 2Exx            | Heathrow Terminals 2 & 3 to Heathrow Terminal 5                                 |
+|                 | Didcot/Oxford to Moreton/Evesham/Worcester/Malvern                              |
+|                 | Malvern/Worcester/Evesham/Moreton to Oxford/Didcot                              |
+|                 | Malvern/Worcester to Evesham                                                    |
+|                 | Bristol to Gloucester/Worcester/Malvern                                         |
+|                 | Penzance/Plymouth/Paignton to Exeter St Davids                                  |
+|                 | Barnstaple/Okehampton to Exeter St Davids                                       |
+|                 | Exmouth to Exeter St Davids                                                     |
+|                 | Axminster to Exeter St Davids                                                   |
+|                 | Merthyr Tydfil to Bridgend                                                      |
+|                 | Fishguard Harbour/Pembroke Dock to Carmarthen/Swansea                           |
+|                 | Swansea/Carmarthen to Pembroke Dock/Fishguard Harbour                           |
+| 2Fxx            | Heathrow Terminal 5 to Heathrow Terminals 2 & 3                                 |

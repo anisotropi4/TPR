@@ -1,0 +1,42 @@
+|                                                                                |        |        |                        |        |        |
+|:-------------------------------------------------------------------------------|:-------|:-------|:-----------------------|:-------|:-------|
+| Crewe D.H.S.                                                                   |        |        |                        |        |        |
+| For southbound departures and arrivals via Gresty Lane:                        |        |        |                        |        |        |
+|                                                                                | ARR    | DEP    |                        | ARR    | DEP    |
+| Crewe D.H.S.                                                                   |        | XX.00  | Crewe Gresty Lane      |        | XX/XX  |
+|                                                                                |        | "-"    |                        |        | "-"    |
+| Crewe*                                                                         | XXRM02 | XXRM06 | Crewe*                 | XXRMXX | XXRMXX |
+|                                                                                |        | "-"    |                        |        | "-"    |
+| Crewe Gresty Lane                                                              |        | XX/XX  | Crewe D.H.S.           | XX.XX  |        |
+| * "MT" must be specified in the platform column.                               |        |        |                        |        |        |
+| Moves applicable to Diesel Traction only                                       |        |        |                        |        |        |
+| For departures or arrivals via Nantwich and Gresty Lane:                       |        |        |                        |        |        |
+|                                                                                | ARR    | DEP    |                        | ARR    | DEP    |
+| Crewe D.H.S.                                                                   |        | XX.00  | Nantwich               |        | XX/XX  |
+|                                                                                |        | "-"    |                        |        | "-"    |
+| Crewe Sig. CE9042                                                              | XXOP01 | XXOP02 | Crewe Gresty Lane      |        | XX/XX  |
+|                                                                                |        | "GL"   |                        |        | "-"    |
+| Crewe Gresty Lane                                                              |        | XX/05  | Crewe D.H.S            | XX.XX  |        |
+|                                                                                |        | "-"    |                        |        |        |
+| Nantwich                                                                       |        | XX/XX  |                        |        |        |
+| For departures and arrivals from Sorting Sidings North/Middle via Gresty Lane: |        |        |                        |        |        |
+|                                                                                | ARR    | DEP    |                        | ARR    | DEP    |
+| Crewe D.H.S                                                                    |        | XX.00  | Sorting Sidings North/ |        | XX.00  |
+|                                                                                |        |        | Middle                 |        |        |
+|                                                                                |        | "-"    |                        |        | "-"    |
+| Crewe Sig. CE9042                                                              | XXOP01 | XXOP02 | Crewe Gresty Lane      | XXRM08 | XXRM12 |
+|                                                                                |        | "GL"   |                        |        | "-"    |
+| Crewe Gresty Lane                                                              | XXRM05 | XXRM09 | Crewe D.H.S.           | XX.16  |        |
+|                                                                                |        | "-"    |                        |        |        |
+| Sorting Sidings North/                                                         | XX.17  |        |                        |        |        |
+| Middle                                                                         |        |        |                        |        |        |
+| For northbound departures and arrivals via Gresty Lane:                        |        |        |                        |        |        |
+|                                                                                | ARR    | DEP    |                        | ARR    | DEP    |
+| Crewe D.H.S.                                                                   |        | XX.00  | Crewe*                 |        | XX/XX  |
+|                                                                                |        | "-"    |                        |        | "-"    |
+| Crewe Sig. CE9042                                                              | XXOP01 | XXOP02 | Crewe Gresty Lane      | XXRMXX | XXRMXX |
+|                                                                                |        | "GL"   |                        |        | "-"    |
+| Crewe Gresty Lane                                                              | XXRM05 | XXRM09 | Crewe D.H.S.           |        | XX.XX  |
+|                                                                                |        | “-“    |                        |        |        |
+| Crewe*                                                                         |        | XX/XX  |                        |        |        |
+| * A platform or running line must be specified in the platform column.         |        |        |                        |        |        |

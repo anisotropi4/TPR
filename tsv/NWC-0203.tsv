@@ -1,0 +1,46 @@
+|                                           |                                                                                   |                                      |              |
+|:------------------------------------------|:----------------------------------------------------------------------------------|:-------------------------------------|:-------------|
+|                                           | Stechford                                                                         |                                      |              |
+|                                           | Adjustments to Sectional Running Times                                            |                                      |              |
+|                                           | Movement Down                                                                     | Reason                               | Value        |
+|                                           | Trains routed towards Aston                                                       | Differential Junction Speed          | 1            |
+|                                           | Movement Up                                                                       | Reason                               | Value        |
+|                                           | Trains from Aston routed towards Birmingham                                       | Differential Junction Speed          | 1 applied    |
+|                                           | International                                                                     |                                      | approaching  |
+|                                           |                                                                                   |                                      | the next     |
+|                                           |                                                                                   |                                      | timing point |
+|                                           | Dwell Time                                                                        |                                      |              |
+|                                           | Class 350 EMU                                                                     | 1                                    |              |
+|                                           | Junction Margins                                                                  |                                      |              |
+|                                           | First Movement                                                                    | Second Movement                      | Margin       |
+|                                           | Freight train routed towards Aston                                                | Passenger train towards Birmingham   | 4            |
+|                                           |                                                                                   | International                        |              |
+|                                           | Pass Platform 2 towards Birmingham                                                | Depart Platform 3 towards Birmingham | 11⁄2*        |
+|                                           | International (not stopping at Lea Hall or                                        | International                        |              |
+|                                           | Marston Green)                                                                    |                                      |              |
+|                                           | * The normal headway applies at the next mandatory timing point – see section 5.2 |                                      |              |
+|                                           | Adderley Park                                                                     |                                      |              |
+|                                           | Dwell Time                                                                        |                                      |              |
+|                                           | Class 350 EMU                                                                     | 1                                    |              |
+| Grand Jn                                  |                                                                                   |                                      |              |
+| Adjustments to Sectional Running Times    |                                                                                   |                                      |              |
+| Movement Up                               | Reason                                                                            | Value                                |              |
+| Trains from the Coventry Lines towards St | Approach Control                                                                  | 1⁄2                                  |              |
+| Andrews Jn or Landor St Jn                |                                                                                   |                                      |              |
+| Junction Margins                          |                                                                                   |                                      |              |
+| First Movement                            | Second Movement                                                                   | Margin                               |              |
+| Pass Down Derby to Down Coventry          | Pass on Up Derby                                                                  | 21⁄2                                 |              |
+| Pass Down Derby to Down Coventry          | Pass Up Coventry to Up Derby                                                      | 11⁄2                                 |              |
+| Pass from Up & Down Camp Hill to Down     | Pass from Up Coventry to Up & Down Camp                                           | 1 2                                  |              |
+| Coventry                                  | Hill                                                                              |                                      |              |
+| Pass from Up & Down Camp Hill to Down     | Pass from Up Coventry to Up Derby                                                 | 11⁄2 2                               |              |
+| Coventry                                  |                                                                                   |                                      |              |
+| Pass from Up & Down Camp Hill to Down     | Pass from Up Derby to Up & Down Camp Hill                                         | 21⁄2                                 |              |
+| Coventry                                  |                                                                                   |                                      |              |
+| Pass from Up Coventry to Up & Down Camp   | Pass on Down Coventry from Stechford                                              | 3                                    |              |
+| Hill                                      |                                                                                   |                                      |              |
+| Pass from Up Coventry to Up Derby         | Pass from Up & Down Camp Hill to Down                                             | 2                                    |              |
+|                                           | Coventry                                                                          |                                      |              |
+| Pass from Up Coventry to Up Derby         | Pass on Down Coventry from Stechford                                              | 21⁄2                                 |              |
+| Pass from Up Coventry to Up Derby         | Pass from Down Derby to Down Coventry                                             | 3                                    |              |
+| Pass from Up Derby to Up & Down Camp Hill | Pass from Down Derby to Down Coventry                                             | 3                                    |              |

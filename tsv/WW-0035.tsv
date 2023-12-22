@@ -1,0 +1,46 @@
+|                                                            |      |      |      |                                              |
+|:-----------------------------------------------------------|:-----|:-----|:-----|:---------------------------------------------|
+| GW200 DIDCOT TO HEYFORD (EXCL.)                            |      |      |      |                                              |
+| TIMING POINT                                               | DOWN | UP   | CODE | NOTES                                        |
+| Oxford Down Carriage Siding 2                              |      | –    | S    | Trains enter via 9161Apts if not used with   |
+|                                                            |      |      |      | Siding 1 preceding                           |
+| Oxford Down Carriage Siding 3                              |      | –    | S    |                                              |
+| Oxford Down Turnback Line                                  |      | –    | S    |                                              |
+| Oxford Down Headshunt                                      |      | –    | S    | For access to/from Engineers Sidings         |
+| Oxford Engineers Sidings                                   |      | –    | S    |                                              |
+| Oxford North Jn                                            | –    | UML  | X    | Timing point in the Up Direction and for all |
+|                                                            | DRL  | URL  |      | trains to/from Oxford Parkway                |
+|                                                            | DML  | DML  |      | To /From Oxford Parkway – Refer to           |
+|                                                            | UML  |      |      | NW&C Timetable Planning Rules - MD736        |
+|                                                            | DB   |      |      |                                              |
+|                                                            | UB   |      |      |                                              |
+| Wolvercote Jn                                              | –    | UML  |      | To/from Charlbury – GW310                    |
+|                                                            |      | URL  |      |                                              |
+|                                                            |      | DML* |      | * Applicable for services from GW310         |
+|                                                            |      |      |      | running reversibly from Wolvercote Jn.       |
+| Tackley                                                    | –    | –    | S    | Platform detail must be shown.               |
+| Heyford                                                    | –    | –    |      | Platform detail must be shown.               |
+|                                                            |      |      |      | Refer NW&C Timetable Planning Rules –        |
+|                                                            |      |      |      | MD401                                        |
+| GW220 OXFORD ROAD JUNCTION TO READING WEST JUNCTION        |      |      |      |                                              |
+| TIMING POINT                                               | DOWN | UP   | CODE | NOTES                                        |
+| Oxford Road Junction                                       | UWC* | _    |      | * trains running bi-directionally to Reading |
+|                                                            |      |      |      | West Jn Up Passenger Loop.                   |
+|                                                            |      |      |      | To/from Southcote Junction – GW500           |
+|                                                            |      |      |      | To/from Reading – GW500                      |
+| Reading West Junction                                      | UPL  | _    |      | To/from Didcot Parkway – GW103               |
+|                                                            | RL   |      |      | To/from Reading – GW103                      |
+| GW225 READING CAVERSHAM ROAD JN to OXFORD ROAD JN (READING |      |      |      |                                              |
+| FEEDER LINES)                                              |      |      |      |                                              |
+| TIMING POINT                                               | DOWN | UP   | CODE | NOTES                                        |
+| Reading Caversham Road Jn                                  |      |      |      | To/from Reading – GW103                      |
+| Reading Signal T1726                                       |      | UFM  | S    | * Up Trains on the Up Feeder Main of less    |
+|                                                            |      |      |      | than 4400t to be timed to stop here where    |
+|                                                            |      |      |      | it would otherwise be necessary to add       |
+|                                                            |      |      |      | pathing time approaching Reading.            |
+| Reading Signal T1728                                       |      | DFR  | S    | * Up Trains on the Down Feeder Relief of     |
+|                                                            |      |      |      | less than 4400t to be timed to stop here     |
+|                                                            |      |      |      | where it would otherwise be necessary to     |
+|                                                            |      |      |      | add pathing time approaching Reading.        |
+| Oxford Road Jn                                             | –    | DFR  |      | To/from Southcote Jn – GW500                 |
+|                                                            |      | UFM  |      |                                              |

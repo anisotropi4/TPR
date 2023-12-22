@@ -1,0 +1,8 @@
+|         |          |        |                |
+|:--------|:---------|:-------|:---------------|
+| STATION | PLATFORM | USABLE | NOTES          |
+|         |          | LENGTH |                |
+| York    | 7        | 249    |                |
+| York    | 8        | 152    |                |
+| York    | 9        | 318    | Down direction |
+| York    | 9        | 375    | Up direction   |

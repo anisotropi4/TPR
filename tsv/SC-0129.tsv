@@ -1,0 +1,28 @@
+|                                                                                                                   |                                              |            |
+|:------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|:-----------|
+| Motherwell Signal GMM368                                                                                          |                                              |            |
+| Junction Margins                                                                                                  |                                              |            |
+| First Movement                                                                                                    | Second Movement                              | Margin     |
+| Depart towards Motherwell TMD or Braidhurst                                                                       | Down train from Motherwell pass Mossend      | 5          |
+| Down Loop                                                                                                         | South Junction                               |            |
+| Depart towards Motherwell TMD or Braidhurst                                                                       | Up train pass Mossend South Junction         | 3          |
+| Down Loop                                                                                                         |                                              |            |
+| Arrive GMM368 from Motherwell TMD or                                                                              | Down train from Motherwell pass Mossend      | 4          |
+| Braidhurst Down Loop                                                                                              | South Junction                               |            |
+| Down train pass Mossend South Junction                                                                            | Arrive GMM368 from Motherwell TMD or         | 2          |
+|                                                                                                                   | Braidhurst Down Loop                         |            |
+| Up train pass Mossend South Junction                                                                              | Arrive GMM368 from Motherwell TMD or         | 5          |
+|                                                                                                                   | Braidhurst Down Loop                         |            |
+| Down train pass Mossend South Junction                                                                            | Depart GMM368 towards Motherwell TMD or      | Same time  |
+|                                                                                                                   | Braidhurst Down Loop                         |            |
+| Planning Note                                                                                                     |                                              |            |
+| Trains from Motherwell require a minimum 1⁄2 minute OP stop in Braidhurst Down Loop before arriving at GMM368     |                                              |            |
+| signal                                                                                                            |                                              |            |
+| Motherwell TMD                                                                                                    |                                              |            |
+| Junction Margins                                                                                                  |                                              |            |
+| First Movement                                                                                                    | Second Movement                              | Margin     |
+| Arrive TMD                                                                                                        | Arrive or depart TMD                         | 10         |
+| Arrive TMD                                                                                                        | Depart Motherwell Station or Braidhurst Down | Same time* |
+|                                                                                                                   | Goods Loop                                   |            |
+| *A train cannot depart from Motherwell Station to Braidhurst Down Goods Loop if a train is routed into Motherwell |                                              |            |
+| TMD due to the signalling overlap at GMM361                                                                       |                                              |            |

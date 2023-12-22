@@ -1,0 +1,46 @@
+|                                                             |      |    |      |                                                   |
+|:------------------------------------------------------------|:-----|:---|:-----|:--------------------------------------------------|
+| EA1180 READING LANE JUNCTION TO NAVARINO ROAD JUNCTION      |      |    |      |                                                   |
+| (GRAHAM ROAD CURVE)                                         |      |    |      |                                                   |
+| TIMING POINT                                                | DOWN | UP | CODE | NOTES                                             |
+| Reading Lane Junction                                       | -    | -  | X    | To/from Liverpool Street – EA1160                 |
+|                                                             |      |    |      | All trains in Up direction on Graham Road         |
+|                                                             |      |    |      | Curve, from North London Lines, to be shown       |
+|                                                             |      |    |      | with minimum 1min Arr/Dep time                    |
+|                                                             |      |    |      | (‘OP’ in Activity Field) for ARS regulating       |
+|                                                             |      |    |      | purposes                                          |
+| Graham Road Curve                                           | -    | -  | S    | Timing point only for trains required to reverse, |
+|                                                             |      |    |      | terminate or start on the Graham Road Curve       |
+| Navarino Road Junction                                      | -    | -  | X    | To/from Camden Road – EA1320                      |
+| EA1190 BURY STREET JUNCTION TO CHESHUNT JUNCTION            |      |    |      |                                                   |
+| TIMING POINT                                                | DOWN | UP | CODE | NOTES                                             |
+| Bury Street Junction                                        | -    | -  |      | To/from Hackney Downs – EA1170                    |
+| Southbury                                                   | -    | -  | S    |                                                   |
+| Turkey Street                                               | -    | -  | S    |                                                   |
+| Theobalds Grove                                             | -    | -  | S    |                                                   |
+| Cheshunt Junction Signal                                    | -    | -  | S    | Trains in Down direction on Southbury Loop        |
+| L1395                                                       |      |    |      | which require ( ) time approaching Cheshunt to    |
+|                                                             |      |    |      | be shown with Arr/Dep (‘A’ in Activity Field) for |
+|                                                             |      |    |      | ARS regulating purposes                           |
+| Cheshunt Junction                                           |      |    |      | To/from Broxbourne – EA1160                       |
+| EA1200 CLAPTON JUNCTION TO CHINGFORD                        |      |    |      |                                                   |
+| TIMING POINT                                                | DOWN | UP | CODE | NOTES                                             |
+| Clapton Junction                                            | -    | -  |      | To/from Clapton – EA1160                          |
+| St James Street                                             | -    | -  | S    |                                                   |
+| Walthamstow Central                                         | -    | -  |      |                                                   |
+| Wood Street                                                 | -    | -  | S    |                                                   |
+| Highams Park                                                | -    | -  | S    |                                                   |
+| Chingford London End CS                                     |      |    | S    | Trains to/from Chingford London End CS            |
+| Chingford Country End CS                                    |      |    | S    | Trains to/from Chingford Country End CS           |
+| Chingford                                                   | -    | -  |      | Platform detail must be shown                     |
+| EA1210 BROXBOURNE JUNCTION TO HERTFORD EAST                 |      |    |      |                                                   |
+| TIMING POINT                                                | DOWN | UP | CODE | NOTES                                             |
+| Broxbourne Junction                                         | -    | -  |      | To/from Hertford East – EA1210                    |
+| Rye House                                                   | -    | -  | S    |                                                   |
+| St Margarets                                                | -    | -  | S    |                                                   |
+| Ware                                                        | -    | -  |      |                                                   |
+| Hertford East                                               | -    | -  |      | Platform detail must be shown                     |
+| EA1220 STANSTED SOUTH & NORTH JUNCTIONS TO STANSTED AIRPORT |      |    |      |                                                   |
+| TIMING POINT                                                | DOWN | UP | CODE | NOTES                                             |
+| Stansted South Junction                                     |      |    |      | To/from Stansted Mountfitchet – EA1161            |
+| Stansted North Junction                                     | -    | -  |      | To/from Cambridge – EA1161                        |

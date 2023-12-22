@@ -1,0 +1,19 @@
+|                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------------------------|
+| Method of working                                                                                                     |
+| Arrivals                                                                                                              |
+| For any trains arriving on the Down Slow via a shunt move, the controller on site must obtain permission from the     |
+| signaller to occupy the Up Slow so a radio can be safely passed to the driver to perform a radio test. The train will |
+| then draw clear of Limbury North GF.                                                                                  |
+|                                                                                                                       |
+| For any trains arriving on the Up Slow, the driver must pick up a radio from the controller on site and, after a      |
+| satisfactory radio test, draw forward clear of Limbury South GF. Please note it is not possible to access the sidings |
+| directly from the Up Slow.                                                                                            |
+|                                                                                                                       |
+| Trains to and from the south will depart via Limbury South GF to the Up Slow Line.                                    |
+| Trains to and from the north will depart via Limbury North GF to the Down Slow Line.                                  |
+| Planning Note                                                                                                         |
+| Margins are calculated based off a 2 minute RM at the ground frame before entry. SRTs are calculated based on         |
+| propelling into Limbury Road.                                                                                         |
+| Leagrave                                                                                                              |
+| Planning Note                                                                                                         |

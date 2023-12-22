@@ -1,0 +1,49 @@
+|                                                            |           |        |        |                                            |
+|:-----------------------------------------------------------|:----------|:-------|:-------|:-------------------------------------------|
+| GW108 FORDGATE TO PENZANCE                                 |           |        |        |                                            |
+| LOCATION                                                   | DIRECTION | USABLE | NOTES  |                                            |
+|                                                            |           | LENGTH |        |                                            |
+|                                                            |           | SLU    | Metres |                                            |
+| Tiverton                                                   | Up        | 86     | 550    |                                            |
+| Tiverton                                                   | Down      | 103    | 659    |                                            |
+| Dawlish Warren                                             | Up        | 72     | 461    | Up platform loop (No.2)                    |
+| Dawlish Warren                                             | Down      | 92     | 589    | DPL  (No.1)                                |
+| Totnes                                                     | Up        | 60     | 384    | UPL  (No.2)                                |
+| Totnes                                                     | Down      | 55     | 352    | DPL  (No.1)                                |
+| Hemerdon                                                   | Up        | 52     | 333    |                                            |
+| Laira Jn Goods Loop                                        |           |        |        |                                            |
+| Lostwithiel                                                | Up        | 60     | 384    |                                            |
+| Lostwithiel                                                | Down      | 60     | 384    |                                            |
+| Par                                                        | Down      | 60     | 384    |                                            |
+| GW200 DIDCOT TO HEYFORD                                    |           |        |        |                                            |
+| LOCATION                                                   | DIRECTION | USABLE | NOTES  |                                            |
+|                                                            |           | LENGTH |        |                                            |
+|                                                            |           | SLU    | Metres |                                            |
+| Kennington Up Goods Loop                                   | Up        | 82     | 525    | Between OD9113A points AND OD2336          |
+| Kennington Down Goods Loop                                 | Down      | 73     | 467    |                                            |
+| Oxford Up Platform Loop                                    | Up / Down | 44     | 281    | At OX71 signal clear of 245 points         |
+| Oxford Down Platform Loop                                  | Down      | 55     | 352    | At OX72 signal clear of 237 points         |
+| GW220 OXFORD ROAD JUNCTION TO READING WEST JUNCTION        |           |        |        |                                            |
+| LOCATION                                                   | DIRECTION | USABLE | NOTES  |                                            |
+|                                                            |           | LENGTH |        |                                            |
+|                                                            |           | SLU    | Metres |                                            |
+| Reading West Jn (Up Reading                                | Up        | 121    | 774    | T1753 signal to clear of 8804 points       |
+| West Curve)                                                |           |        |        |                                            |
+| Oxford Road Jn (Up Reading                                 | Down      | 110    | 704    | T2807 signal to clear of 8478 points       |
+| West Curve)                                                |           |        |        |                                            |
+| Reading West Jn (Down Reading                              | Up        | 123    | 787    | T1751 to clear of 8806B points             |
+| West Curve)                                                |           |        |        |                                            |
+| GW225 READING CAVERSHAM ROAD JN to OXFORD ROAD JN (READING |           |        |        |                                            |
+| FEEDER LINES)                                              |           |        |        |                                            |
+| LOCATION                                                   | DIRECTION | USABLE | NOTES  |                                            |
+|                                                            |           | LENGTH |        |                                            |
+|                                                            |           | SLU    | Metres | Note: these differ from Table A lengths,   |
+|                                                            |           |        |        | which are signal to signal                 |
+| Reading (Reading Feeder Relief)                            | Up        | 67     | 429    | T1728 signal to clear of 8803A points      |
+|                                                            |           |        |        | Note: allows full use of West Curve and Up |
+|                                                            |           |        |        | Feeder Main.                               |
+| Oxford Road Jn (Reading Feeder                             | Down      | 87     | 556    | Down direction T2805 signal to clear of    |
+| Relief)                                                    |           |        |        | 8456 points                                |
+| Reading (Reading Feeder Main)                              | Up        | 58     | 376    | T1726 signal to clear of 8807 points       |
+| Oxford Road Jn (Reading Feeder                             | Down      | 118    | 756    | T2803 to clear of 8445A/B points           |
+| Main)                                                      |           |        |        |                                            |

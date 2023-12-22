@@ -1,0 +1,56 @@
+|                     |                   |           |                                              |
+|:--------------------|:------------------|:----------|:---------------------------------------------|
+| Station             | Platform          | Effective | Notes                                        |
+|                     |                   | Length m  |                                              |
+| Marks Tey           | 3 (Sudbury)       | 50        | 3-car 755 permitted with ASDO operation &    |
+|                     |                   |           | TAWS equipment fitted                        |
+| Maryland            | 1 (Up Electric)   | 168       | 9-car 345 permitted with ASDO operation      |
+| Maryland            | 2 (Down Electric) | 169       | The Driver MUST gain Signallers authority    |
+|                     |                   |           | under S5 of RSSB Rule Book for 9-car         |
+|                     |                   |           | reversals at these locations                 |
+| Maryland            | 3 (Up Main)       | 168       | The Driver MUST gain Signallers authority    |
+|                     |                   |           | under S5 of RSSB Rule Book for 9-car         |
+|                     |                   |           | reversals at these locations                 |
+| Maryland            | 4 (Down Main)     | 167       | The Driver MUST gain Signallers authority    |
+|                     |                   |           | under S5 of RSSB Rule Book for 9-car         |
+|                     |                   |           | reversals at these locations                 |
+| Meldreth            | 1 (Up)            | 128       | Trains longer than 6 cars can call providing |
+|                     |                   |           | they are equipped with SDO (Selective Door   |
+|                     |                   |           | Opening) equipment                           |
+| Meldreth            | 2 (Down)          | 128       | Trains longer than 6 cars can call providing |
+|                     |                   |           | they are equipped with SDO (Selective Door   |
+|                     |                   |           | Opening) equipment                           |
+| Melton              | Single            | 73        | (56m in operational use)                     |
+|                     |                   |           | 4-car 755 permitted with ASDO operation      |
+| Meridian Water      | 2 (Lea Valley     | 160       | 10-car 720 permitted with ASDO operation     |
+|                     | Reversible)       |           |                                              |
+| Meridian Water      | 3 (Up)            | 172       | 10-car 720 permitted with ASDO operation     |
+| Meridian Water      | 4 (Down)          | 173       | 10-car 720 permitted with ASDO operation     |
+| Mistley             | 1 (Up)            | 91        | 5-car 720 permitted with ASDO operation      |
+| Mistley             | 2 (Down)          | 93        | 5-car 720 permitted with ASDO operation      |
+| Needham Market      | 1 (Down)          | 83        |                                              |
+| Needham Market      | 2 (Up)            | 71        |                                              |
+| Newmarket           | Single            | 231       | (81m in operational use)                     |
+| Newport             | 1 (Up)            | 168       | 10-car 720 permitted with ASDO operation     |
+| Newport             | 2 (Down)          | 167       | 10-car 720 permitted with ASDO operation     |
+| Northumberland Park | 2 (Lea Valley     | 193       | 10-car 720 permitted with ASDO operation     |
+|                     | Reversible)       |           |                                              |
+| Northumberland Park | 3 (Up)            | 172       | 10-car 720 permitted with ASDO operation     |
+|                     |                   |           | 12-car 745 permitted with ASDO operation     |
+| Northumberland Park | 4 (Down)          | 173       | 10-car 720 permitted with ASDO operation     |
+|                     |                   |           | 12-car 745 permitted with ASDO operation     |
+| North Fambridge     | 1 (Up)            | 165       | 10-car 720 permitted with ASDO operation     |
+| North Fambridge     | 2 (Down)          | 189       | 10-car 720 permitted with ASDO operation     |
+| North Walsham       | 1 (Up)            | 106       |                                              |
+| North Walsham       | 2 (Down)          | 101       |                                              |
+| Norwich             | 1                 | 298       |                                              |
+| Norwich             | 2                 | 296       |                                              |
+| Norwich             | 3                 | 250       |                                              |
+| Norwich             | 4                 | 255       |                                              |
+| Norwich             | 5                 | 198       |                                              |
+| Norwich             | 6                 | 132       | Bi-mode or DMU traction only                 |
+| Ockendon            | 1 (Down)          | 248       |                                              |
+| Ockendon            | 2 (Up)            | 248       |                                              |
+| Oulton Broad North  | 1 (Up)            | 146       | (102m in operational use)                    |
+| Oulton Broad North  | 2 (Down)          | 149       | (89m in operational use)                     |
+| Oulton Broad South  | Single            | 151       | (92m in operational use)                     |

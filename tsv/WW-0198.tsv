@@ -1,0 +1,40 @@
+|                                                    |                                                |                   |
+|:---------------------------------------------------|:-----------------------------------------------|:------------------|
+| Bristol Parkway                                    |                                                |                   |
+|                                                    | From Platform 1 or 2, or DGL                   |                   |
+| Up train to Platform 1, DGL or Up Badminton /      | Down train from Platform 1, 2, 3 or 4, or      | 2                 |
+| Platform 3 (from the Avonmouth Line)               | from the DGL or UPL to Patchway, Filton or     |                   |
+|                                                    | Avonmouth                                      |                   |
+| Down train from UPL, DGL or Platform 1, 2, 3 or    | Up train to Up Badminton / Platform 3 or       | 6                 |
+| 4                                                  | UPL from Avonmouth                             |                   |
+| Up train from Filton arriving platform 3, 4 or UPL | Up train from Filton arriving platform 3, 4 or | 3                 |
+|                                                    | UPL                                            |                   |
+| Down train arriving or departing Platform 2        | Down train departing Platform 4                | 2                 |
+| Freight Train arrives Stoke Gifford Yard           | Down train arrives or passes Platform 2.       | 2                 |
+| reversing using Signal B589.                       |                                                |                   |
+| Up train from Filton arriving platform 3, 4 or     | Down train to Patchway from platform 1, 2      | 1⁄2 - after       |
+| UPL                                                | or DGL                                         | passenger         |
+|                                                    |                                                |                   |
+|                                                    |                                                | 1 – after freight |
+| Up train from Patchway arriving platform 3, 4 or   | Up train from Filton arriving platform 3, 4 or | 21⁄2              |
+| UPL                                                | UPL                                            |                   |
+| Down train to Filton from platform 3 or 4          | Up train from Patchway arriving platform 3,    | 31⁄2              |
+|                                                    | 4 or UPL                                       |                   |
+| Down train to Patchway                             | Conflicting arrival from Filton Abbey Wood     | 3                 |
+| East End                                           |                                                |                   |
+| First Movement                                     | Second Movement                                | Margin            |
+| Down train arriving DGL                            | Down train arriving platform 1 or 2            | 31⁄2              |
+| Down train arrive platform 4 or UPL                | Up train pass platform 3                       | 4                 |
+| Up train from the DGL or Platform 1 to the Up      | Down train to Platform 3, Platform 2 or the    | 4                 |
+| Badminton                                          | UPL                                            |                   |
+| Down train from Platform 4                         | Down train arriving Platform 2                 | 2                 |
+| Down train from Platform 3                         | Down train arriving/passing Platform 2         | 4                 |
+| Up train from Platform 3 to Up Badminton           | Down train to the UPL                          | 3                 |
+| Junction Margin                                    |                                                |                   |
+| First Movement                                     | Second Movement                                | Margin            |
+| Train from Filton Abbey Wood into platform 1       | Train Departs Platform 2 towards Filton        | 1 minute          |
+|                                                    | Abbey Wood                                     |                   |
+| Train from Filton Abbey Wood into Platform 1       | Train Passes platform 2 towards Filton         | 3 minutes         |
+|                                                    | Abbey Wood                                     |                   |
+| Reversals and Run-Rounds En Route                  |                                                |                   |
+| DMU                                                | 3#                                             |                   |

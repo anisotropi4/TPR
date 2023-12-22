@@ -1,0 +1,38 @@
+|                                                                                     |                                            |             |
+|:------------------------------------------------------------------------------------|:-------------------------------------------|:------------|
+| Whitacre Jn                                                                         |                                            |             |
+| Junction Margins                                                                    |                                            |             |
+| First Movement                                                                      | Second Movement                            | Margin      |
+| Train arriving at Daw Mill Colliery                                                 | Train passing Whitacre Jn towards Nuneaton | 2           |
+| Passenger train passing Whitacre Jn towards                                         | Train departing Daw Mill Colliery towards  | 5           |
+| Nuneaton                                                                            | Nuneaton                                   |             |
+| Freight train passing Whitacre Jn towards                                           | Train departing Daw Mill Colliery towards  | 6           |
+| Nuneaton                                                                            | Nuneaton                                   |             |
+| Freight train that has departed Hams Hall                                           | Train departing Daw Mill Colliery towards  | 8           |
+| passing Whitacre Jn towards Nuneaton                                                | Nuneaton                                   |             |
+| Train passing Whitacre Jn towards Water Orton                                       | Train departing Daw Mill Colliery towards  | 1           |
+|                                                                                     | Whitacre Jn                                |             |
+| Coleshill Parkway                                                                   |                                            |             |
+| Adjustments to Sectional Running Times                                              |                                            |             |
+| Movement Down                                                                       | Reason                                     | Value       |
+| Exit from Hams Hall reception lines towards                                         | Acceleration after slow speed crossover at | Freight 2   |
+| Water Orton                                                                         | Coleshill Parkway (20mph)                  | approaching |
+|                                                                                     |                                            | next timing |
+|                                                                                     |                                            | point       |
+| Movement Up                                                                         | Reason                                     | Value       |
+| Entry to Hams Hall reception lines from Water                                       | Approach control                           | Freight 2   |
+| Orton direction                                                                     |                                            |             |
+| Dwell Time                                                                          |                                            |             |
+| Class 170                                                                           | 1                                          |             |
+| Water Orton                                                                         |                                            |             |
+| See entry under route MD501 Tamworth (inclusive) to Birmingham Proof House Junction |                                            |             |
+| MD570 SALTLEY LANDOR STREET JN TO KINGS NORTON JN (CAMP HILL                        |                                            |             |
+| LINES)                                                                              |                                            |             |
+| Landor Street Jn                                                                    |                                            |             |
+| See entry under route MD501 Tamworth (inclusive) to Birmingham Proof House Jn       |                                            |             |
+| St. Andrew’s Jn                                                                     |                                            |             |
+| Adjustments to Sectional Running Times                                              |                                            |             |
+| Movement Up                                                                         | Reason                                     | Value       |
+| Class 22x from Proof House Jn on the Stour                                          | Approach Control                           | 1⁄2         |
+| Lines crossing at Grand Jn to the Up and Down                                       |                                            |             |
+| Camp Hill                                                                           |                                            |             |

@@ -1,0 +1,11 @@
+|                                                     |                                                      |
+|:----------------------------------------------------|:-----------------------------------------------------|
+| Hoo Junction                                        |                                                      |
+| For Freight departures from Hoo Junction in the up  | Hoo Junction signal NK512 to be used (TIPLOC HOJ512) |
+| direction                                           |                                                      |
+| For Freight departures from Hoo Junction in the     | Hoo Junction signal NK511 to be used(HOOJS11)        |
+| down direction                                      |                                                      |
+| For freight departures from Hoo Junction towards    | Cliffe signal NK509 to be used(CLFFD12)              |
+| the Grain Branch                                    |                                                      |
+| For freight arrivals at Hoo Junction from the Grain | The TIPLOC (HOOJ) must be used and CLFFD12 must      |
+| Branch                                              | not be used                                          |

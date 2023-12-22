@@ -1,0 +1,23 @@
+|                                                                         |                                   |                       |
+|:------------------------------------------------------------------------|:----------------------------------|:----------------------|
+| Weybridge                                                               |                                   |                       |
+| Up trains crossing Slow Line to Fast Line                               | Speed Differential                | {1}                   |
+| Down Slow Line trains towards Addlestone                                | Speed Differential                | {1}                   |
+| Junction passing Weybridge                                              |                                   |                       |
+| Up Slow Line trains from Addlestone Junction                            | Speed Differential                | {1⁄2}*                |
+| passing Weybridge                                                       |                                   |                       |
+| * This allowance should appear in the section from Weybridge            |                                   |                       |
+| Connectional Allowances                                                 |                                   |                       |
+| All Services                                                            | 5                                 |                       |
+| Dwell Times                                                             |                                   |                       |
+| Class 450                                                               | 1                                 |                       |
+| Junction Margins                                                        |                                   |                       |
+| First Movement                                                          | Second Movement                   | Margin                |
+| Between all movements except as below                                   |                                   | 3                     |
+| Up Fast or Up Slow line train                                           | Depart Down Slow Platform towards | 1                     |
+|                                                                         | Addlestone                        |                       |
+| Permissive Working                                                      |                                   |                       |
+| Attaching/Detaching and Platform Sharing is authorised as shown below - |                                   |                       |
+| Platform 1                                                              | Up Bay                            | Attaching/Detaching * |
+| Platform 2                                                              | Up Slow                           | Prohibited            |
+| Platform 3                                                              | Down Slow                         | Prohibited            |

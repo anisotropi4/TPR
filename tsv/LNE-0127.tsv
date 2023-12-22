@@ -1,0 +1,40 @@
+|                                                                                                                     |                                             |                 |
+|:--------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|:----------------|
+| Welwyn Garden City                                                                                                  |                                             |                 |
+| Movement Down                                                                                                       | Reason                                      | Value           |
+| Down Fast to Down Slow (not stopping)                                                                               | Approach control on Signal K597 and 40mph   | 1               |
+|                                                                                                                     | crossover                                   |                 |
+| Down Slow to Platform 4 (not stopping)                                                                              | Approach control on Signal K595 and 25mph   | 1 approaching   |
+|                                                                                                                     | crossover                                   | Welwyn          |
+|                                                                                                                     |                                             | Garden City     |
+| Pass Platform 3 to Down Fast                                                                                        | Approach control on Signal K605 and         | 1 approaching   |
+|                                                                                                                     | acceleration from 30mph crossover           | Digswell        |
+| Pass Platform 4 to Down Slow                                                                                        | Approach control on Signal K603 and         | 1 approaching   |
+|                                                                                                                     | acceleration from 25mph crossover           | Digswell        |
+| Depart Platform 4 to Down Slow                                                                                      | Acceleration from 25mph crossover           | 1⁄2 approaching |
+|                                                                                                                     |                                             | Digswell        |
+| Movement Up                                                                                                         | Reason                                      | Value           |
+| Digswell to Welwyn Garden City                                                                                      | UF to US pass to pass; approach control at  | 1               |
+|                                                                                                                     | Signal K620 and differential junction speed |                 |
+|                                                                                                                     | US to UF pass to pass                       | 1 EMU/180       |
+|                                                                                                                     |                                             | 2 HST/LH/       |
+|                                                                                                                     |                                             | 225/80X         |
+| Connectional Allowance                                                                                              | 4                                           |                 |
+| Dwell Time                                                                                                          |                                             |                 |
+| Class 387                                                                                                           | 1                                           |                 |
+| Class 700 and 717                                                                                                   | 11⁄2                                        |                 |
+| Junction Margins                                                                                                    |                                             |                 |
+| First Movement                                                                                                      | Second Movement                             | Margin          |
+| Arrive/pass Platform 3 from Down Fast                                                                               | Pass Down Fast passenger                    | 21⁄2            |
+| Pass DFL                                                                                                            | Depart DSL to DFL                           | 2               |
+| Pass UFL                                                                                                            | Depart USL to UFL                           | 2               |
+| Cross to USL                                                                                                        | Pass UFL                                    | 3               |
+| Depart Yard                                                                                                         | Pass Up/Down                                | 5               |
+| Pass Up/Down                                                                                                        | Depart Yard                                 | 2               |
+| Depart Platform 3 or 4 via the Welwyn Flyover                                                                       | Pass Platform 1 or 2 to Up Slow             | 5               |
+| GTR class 387, 700 and 717 trains to Welwyn Garden City CS require a 4-minute operational stop in the platforms     |                                             |                 |
+| to clear the train of passengers and lock the doors                                                                 |                                             |                 |
+|                                                                                                                     |                                             |                 |
+| This is to permit station staff to ensure windows are closed prior to the train passing through the carriage washer |                                             |                 |
+| Turnrounds                                                                                                          | All shunt movements to be timed             |                 |
+| Platform Re–occupation                                                                                              | 3                                           |                 |

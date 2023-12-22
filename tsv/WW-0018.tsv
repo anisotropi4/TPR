@@ -1,0 +1,55 @@
+|              |                                                                                       |
+|:-------------|:--------------------------------------------------------------------------------------|
+| Abbreviation | Description                                                                           |
+| -            | Default Line Code as indicated in Section 2.1                                         |
+| 1            | Line 1                                                                                |
+| 2            | Line 2                                                                                |
+| 3            | Line 3                                                                                |
+| 4            | Line 4                                                                                |
+| 5            | Line 5                                                                                |
+| 6            | Line 6                                                                                |
+| A            | Line A                                                                                |
+| AB           | Line A to Line B                                                                      |
+| B            | Line B                                                                                |
+| BAY          | Bay Line                                                                              |
+| C            | Line C                                                                                |
+| CL           | Carriage Line                                                                         |
+| D            | Line D                                                                                |
+| DB           | Down Bletchley                                                                        |
+| DBL          | Down Bromsgrove Loop                                                                  |
+| DF           | Down Frome                                                                            |
+| DFR          | Down Feeder Relief (Reading)                                                          |
+| DGL          | Down Goods Line                                                                       |
+| DH           | Down Airport (Heathrow Airport Jn to T2&3 and Down T5, Heathrow T2&3 to Heathrow T5   |
+|              | (both for Up direction working))                                                      |
+|              |                                                                                       |
+|              | Down Holyhead (for reversible running)                                                |
+| DHR          | Down Airport Relief (Stockley Jn 8210 points) to Heathrow Tunnel Jn (for Up direction |
+|              | working)                                                                              |
+| DJ           | Down Jericho (Oxford)                                                                 |
+| DK           | Down Kemble                                                                           |
+| DL           | Down Line/Loop                                                                        |
+| DM or DML    | Down Main                                                                             |
+| DNL          | Down Newbury Loop                                                                     |
+| DOX          | Down Oxford                                                                           |
+| DPL          | Down Passenger Line/Loop                                                              |
+| DRL          | Down Relief Line                                                                      |
+| DT           | Down Tunnel                                                                           |
+| DW           | Down Westbury                                                                         |
+| DWL          | Down Westbury Line                                                                    |
+| E            | Line E                                                                                |
+| ECL          | Engine & Carriage Line                                                                |
+| FVL          | Festival Line (Reading)                                                               |
+| GL           | Goods Line                                                                            |
+| ML           | Main Line                                                                             |
+| RCL          | Reception Line                                                                        |
+| RL           | Relief Line                                                                           |
+| RL1          | Reception Line 1                                                                      |
+| RL2          | Reception Line 2                                                                      |
+| RVL          | Reversible Line                                                                       |
+| TL           | Through Line                                                                          |
+| UB           | Up Bletchley                                                                          |
+| UDR          | Up and Down Relief                                                                    |
+| UF           | Up Frome                                                                              |
+| UFM          | Up Feeder Main (Reading)                                                              |
+| UGL          | Up Goods Line                                                                         |

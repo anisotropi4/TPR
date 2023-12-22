@@ -1,0 +1,28 @@
+|      |        |           |                             |         |                                     |        |          |                       |       |                      |    |          |
+|:-----|:-------|:----------|:----------------------------|:--------|:------------------------------------|:-------|:---------|:----------------------|:------|:---------------------|:---|:---------|
+| Days | TID    | Departure | Origin                      | Arrival | Destination                         | Y Path | Operator |                       |       |                      |    |          |
+|      |        | Time      |                             | Time    |                                     |        |          |                       |       |                      |    |          |
+| SO   | 6C02FV | 04:22     | Crewe Basford Hall SSN      | 07:52   | Carlisle N.Y.                       | Y      | DRS      |                       |       |                      |    |          |
+| MSX  | 6C02FV | 04:19     | Crewe Basford Hall SSN      | 07:58   | Carlisle N.Y.                       | Y      | DRS      |                       |       |                      |    |          |
+| MO   | 6C18FA | 02:52     | Crewe Basford Hall SSM      | 07:40   | Carlisle N.Y                        |        | DB Cargo |                       |       |                      |    |          |
+| MSX  | 6C18FV | 03:00     | Crewe Basford Hall SSM      | 06:51   | Carlisle N.Y                        |        | DB Cargo |                       |       |                      |    |          |
+| SX   | 6C72DV | 08:30     | Fairwater Yard              | 09:43   | Westbury Down T.C.                  |        | FLHH     |                       |       |                      |    |          |
+| SX   | 6C73DV | 12:17     | Westbury Down T.C.          | 13:29   | Fairwater Yard                      |        | FLHH     |                       |       |                      |    |          |
+| SX   | 6D06GY | 12:52     | York Engineers Yard         | 14:42   | Doncaster Up Decoy                  | Y      | DB       |                       |       |                      |    |          |
+| SX   | 6D44EA | 11:10     | Bescot Up Engineers Sidings | 13:42   | Toton North Yard                    | Y      | GBRf     |                       |       |                      |    |          |
+| SX   | 6D46EA | 07:15     | Cliffe Hill Stud Farm GBRF  | 10:15   | Stapleford & Sandiacre SCCE Sidings | Y      | GBRf     |                       |       |                      |    |          |
+| SX   | 6D46RB | 07:35     | Cliffe Hill Stud Farm GBRF  | 10:15   | Stapleford & Sandiacre SCCE Sidings | Y      | GBRf     |                       |       |                      |    |          |
+| SX   | 6D51EB | 19:55     | Crewe Basford Hall SSM      | 22:13   | Toton North Yard                    | Y      | FLHH     |                       |       |                      |    |          |
+|      | SX     |           |                             | 6D51GD  |                                     |        | 9:58     | rewe Basford Hall SSM | 22:10 | oton North Yard      | Y  | GBRf     |
+|      | SX     |           |                             | 6D67DG  |                                     |        | 9:14     | yne S.S               | 22:43 | oncaster Up Decoy    | Y  | DB Cargo |
+|      | SX     |           |                             | 6D74GV  |                                     |        | 6:53     | oncaster Up Decoy     | 07:42 | cunthorpe Trent T.C. |    | GBRf     |
+| SX   | 6D75GV | 08:43     | Scunthorpe Trent T.C.       | 09:35   | Doncaster Up Decoy                  | Y      | GBRf     |                       |       |                      |    |          |
+| SX   | 6D95FA | 14:41     | Bescot Up Engineers Sidings | 16:54   | Toton North Yard                    | Y      | DRS      |                       |       |                      |    |          |
+| MX   | 6E04GV | 02:13     | Whitemoor Yard L.D.C. GBRF  | 05:24   | Doncaster Up Decoy                  | Y      | GBRf     |                       |       |                      |    |          |
+| FSX  | 6E15GA | 21:17     | Eastleigh East Yard         | 03:52   | Scunthorpe Trent T.C.               | Y      | GBRf     |                       |       |                      |    |          |
+| FO   | 6E15GA | 21:17     | Eastleigh East Yard         | 03:30   | Scunthorpe Trent T.C.               | Y      | GBRf     |                       |       |                      |    |          |
+| SX   | 6E16GV | 03:08     | Toton North Yard            | 05:16   | Doncaster Up Decoy                  | Y      | FLHH     |                       |       |                      |    |          |
+| SX   | 6E22GV | 21:57     | Mountsorrell GBRF           | 01:43   | Doncaster Up Decoy                  | Y      | GBRf     |                       |       |                      |    |          |
+| SX   | 6E30GC | 11:34     | Whitemoor Yard L.D.C. GBRF  | 14:37   | Doncaster Up Decoy                  | Y      | GBRf     |                       |       |                      |    |          |
+| SX   | 6E36SD | 22:15     | Millerhill S.S              | 03:49   | Doncaster Up Decoy                  | Y      | Colas    |                       |       |                      |    |          |
+| SX   | 6E42GD | 07:15     | Cliffe Hill Stud Farm GBRF  | 12:38   | Doncaster Up Decoy                  | Y      | GBRf     |                       |       |                      |    |          |

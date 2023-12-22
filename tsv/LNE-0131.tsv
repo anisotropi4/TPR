@@ -1,0 +1,52 @@
+|                                                                                                                    |                                                                   |              |
+|:-------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|:-------------|
+| Hitchin                                                                                                            |                                                                   |              |
+| Movement Down                                                                                                      | Reason                                                            | Value        |
+| Stevenage to Hitchin                                                                                               | DF to Cambridge (via DCF) pass to pass;                           | 1 HST/LH/    |
+|                                                                                                                    | approach control and differential                                 | /225/80X     |
+|                                                                                                                    | (EMU differential included in the SRT)                            | Also see 5.1 |
+|                                                                                                                    | DF to Cambridge (via flat junction) pass to                       | 1⁄2 EMU      |
+|                                                                                                                    | pass; approach control and differential                           | 1            |
+|                                                                                                                    |                                                                   | HST/LH/225/  |
+|                                                                                                                    |                                                                   | 80X          |
+|                                                                                                                    | DF to DS pass to pass crossing at Hitchin                         | 1⁄2          |
+|                                                                                                                    | South Jcn; junction differential                                  |              |
+|                                                                                                                    | DS to DF or Cambridge (via flat junction) pass                    | 1⁄2 /EMU     |
+|                                                                                                                    | to pass; approach control and differential                        | 1 HST/LH/    |
+|                                                                                                                    |                                                                   | 225/80X      |
+|                                                                                                                    | DS to DF pass to pass                                             | 1 222/EMU    |
+|                                                                                                                    |                                                                   | 11⁄2 HST/LH/ |
+|                                                                                                                    |                                                                   | 225/80X      |
+| Movement Up                                                                                                        | Reason                                                            | Value        |
+| Sandy to Hitchin                                                                                                   | UF to US pass to pass;                                            | 11⁄2 EMU     |
+|                                                                                                                    | approach control and differential                                 | 2 HST/LH/    |
+|                                                                                                                    |                                                                   | 180/225/80X  |
+|                                                                                                                    | US to UF pass to pass; approach control                           | 1            |
+| Hitchin to Stevenage                                                                                               | UF to US pass to pass                                             | 1⁄2          |
+|                                                                                                                    | Up Cambridge to Up Fast pass to pass;                             | 1 EMU        |
+|                                                                                                                    | differential                                                      | 2 HST/LH/    |
+|                                                                                                                    |                                                                   | 180/225/80X  |
+|                                                                                                                    | US to UF pass to pass crossing at Hitchin                         | 1 HST/LH     |
+|                                                                                                                    | South Jn; differential                                            | 180/225/80X  |
+| Connectional Allowance                                                                                             | 4                                                                 |              |
+| Dwell Time                                                                                                         |                                                                   |              |
+| EMU                                                                                                                | 1 * May be reduced to 1⁄2 minute by agreement with Train Operator |              |
+| Junction Margins                                                                                                   |                                                                   |              |
+| First Movement                                                                                                     | Second Movement                                                   | Margin       |
+| Arrive USL from UFL                                                                                                | Pass Up Main                                                      | 4            |
+| Pass UFL                                                                                                           | Pass from USL to UFL                                              | 2            |
+| Down train to depart towards Royston                                                                               | Before next fast Up or Down passes                                | 31⁄2         |
+| Depart to Royston                                                                                                  | Arrive from Peterborough                                          | 31⁄2         |
+| Down or Up fast passes                                                                                             | Depart to Royston                                                 | 1*           |
+| Arrive DSL from DFL                                                                                                | Pass DFL                                                          | 21⁄2         |
+| Pass Up Fast/Up Slow                                                                                               | Pass to Royston                                                   | 3            |
+| Pass to Royston                                                                                                    | Pass Up Main                                                      | 3            |
+| Pass to Royston via Flyover                                                                                        | Down Pass at Hitchin                                              | 3            |
+| Pass to Royston via Flyover                                                                                        | Depart to Sandy                                                   | 3            |
+| * 11⁄2 minutes when train on Down Slow arrives exactly same time as train passes Down Fast                         |                                                                   |              |
+| Platform Re–occupation                                                                                             |                                                                   |              |
+| In same direction                                                                                                  | 21⁄2                                                              |              |
+| Simultaneous moves not permitted                                                                                   |                                                                   |              |
+| A train may not arrive at the Down Slow platform 2 while a train is signalled from K699 signal on the Down Fast to |                                                                   |              |
+| the Down Slow(via 2271 crossover unless both trains have {1} on approach to Hitchin as they will both be           |                                                                   |              |
+| approach controlled at Hitchin South Jn.  Otherwise a margin of 2 minutes is required.                             |                                                                   |              |

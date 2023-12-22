@@ -1,0 +1,16 @@
+|                                               |                                              |             |
+|:----------------------------------------------|:---------------------------------------------|:------------|
+| Europa Junction                               |                                              |             |
+| Junction Margins                              |                                              |             |
+| First Movement                                | Second Movement                              | Margin      |
+| First Train passes Europa Junction towards    | Freight train from Westerfield passes Europa | 3           |
+| Stowmarket                                    | Junction towards Stowmarket.                 |             |
+| Stowmarket                                    |                                              |             |
+| Adjustments to Sectional Running Times        |                                              |             |
+| Movement                                      | Reason                                       | Allowance   |
+| Up train arriving in Platform 2               | Via slow speed crossover                     | {1}         |
+| Up train departing from Platform 2 to Up Main | Via slow speed crossover                     | {1}         |
+|                                               |                                              | approaching |
+|                                               |                                              | next timing |
+|                                               |                                              | point       |
+| Dwell Time                                    |                                              |             |

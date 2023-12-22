@@ -1,0 +1,37 @@
+|                                                                                          |                                                                                 |           |
+|:-----------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|:----------|
+| Princes Street Gardens                                                                   |                                                                                 |           |
+| Junction Margins                                                                         |                                                                                 |           |
+| First Movement                                                                           | Second Movement                                                                 | Margin    |
+| Up train pass                                                                            | Down train pass coming from separate line*                                      | 2         |
+| All other margins                                                                        |                                                                                 | 3         |
+| * Only applies to trains departing Edinburgh Waverley; trains passing 3 minutes          |                                                                                 |           |
+| Haymarket                                                                                |                                                                                 |           |
+| Adjustments to Sectional Running Times                                                   |                                                                                 |           |
+| Movement Up                                                                              | Reason                                                                          | Value     |
+| Trains arriving/departing Platform 0                                                     | Approach to terminal platform/Slower speed                                      | 1⁄2       |
+|                                                                                          | over Junction                                                                   |           |
+| Dwell Time                                                                               |                                                                                 |           |
+| MU (ScotRail)                                                                            | 1                                                                               |           |
+| LH Slam Doors                                                                            | 2                                                                               |           |
+| ECS moves to T.M.D                                                                       |                                                                                 |           |
+| ECS moves from Edinburgh to Haymarket T.M.D. require a 1⁄2 minute. OP stop at Haymarket. |                                                                                 |           |
+| Restrictions                                                                             |                                                                                 |           |
+| No pathing to be used approaching Haymarket Depot                                        |                                                                                 |           |
+| Junction Margins                                                                         |                                                                                 |           |
+| First Movement                                                                           | Second Movement                                                                 | Margin    |
+| Depart to Haymarket TMD                                                                  | Arrive into Platform 0 or 1                                                     | 5         |
+| Depart to Haymarket TMD                                                                  | Depart to Down North                                                            | 1         |
+| Depart Platform 0                                                                        | Arrive Platform 1                                                               | 4         |
+| Train pass/arrive from Haymarket TMD                                                     | Depart to West                                                                  | 1⁄2       |
+| Depart to West                                                                           | Conflicting train pass/arrive from Haymarket                                    | 31⁄2      |
+|                                                                                          | TMD                                                                             |           |
+| Train arrives/pass from Slateford direction                                              | Depart to West from Platform 4                                                  | 1⁄2       |
+| Depart to West from Platform 4                                                           | Train arrives/pass from Slateford direction                                     | 31⁄2      |
+| Depart to West from Platform 4                                                           | Depart EH520 Signal                                                             | 1         |
+| Up train arrive Platform 3                                                               | Down train depart Platform 2, crossing to DS at                                 | Same time |
+|                                                                                          | Haymarket Central                                                               |           |
+| Platform Re-occupation                                                                   | 21⁄2 *                                                                          |           |
+|                                                                                          | * May be reduced to 2 minutes if first train is booked to run towards Slateford |           |
+|                                                                                          | and formed of 6 cars or less and second train has {1} approaching               |           |
+|                                                                                          | Haymarket                                                                       |           |

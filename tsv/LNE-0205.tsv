@@ -1,0 +1,50 @@
+|                                                      |                               |                  |
+|:-----------------------------------------------------|:------------------------------|:-----------------|
+| Whitehouse Junction                                  |                               |                  |
+| Adjustments to Sectional Running Times               |                               |                  |
+| Movement Down                                        | Reason                        | Value            |
+| Down Slow to Down Main                               | Acceleration                  | 1                |
+|                                                      |                               |                  |
+|                                                      |                               | 11⁄2 for freight |
+|                                                      |                               | over 600m        |
+|                                                      |                               |                  |
+|                                                      |                               | To be applied    |
+|                                                      |                               | approaching      |
+|                                                      |                               | next timing      |
+|                                                      |                               | point            |
+| Movement Up                                          | Reason                        | Value            |
+| Up Main to Up Slow                                   | Deceleration/Approach Control | 1                |
+| Junction Margins                                     |                               |                  |
+| First Movement                                       | Second Movement               | Margin           |
+| Pass Up Main to Up Slow                              | Pass Down Main                | 41⁄2*            |
+| Pass Up Main to Up Slow                              | Down Slow to Down Main        | 5                |
+| Pass Down Slow to Down Main                          | Pass Up Main to Up Slow       | 21⁄2             |
+| Pass Down Main                                       | Pass Up Main to Up Slow       | 2                |
+| Pass Down Main                                       | Depart Slow Line              | 3                |
+| * If first train is over 641m to be increased by 1⁄2 |                               |                  |
+| South Bank                                           |                               |                  |
+| Adjustments to Sectional Running Times               |                               |                  |
+| Movement Down                                        | Reason                        | Value            |
+| Down Main to Down Goods                              | Deceleration                  | 1                |
+| Movement Up                                          | Reason                        | Value            |
+| Up Goods to Up Main                                  | Acceleration                  | 1                |
+|                                                      |                               |                  |
+|                                                      |                               | 11⁄2 for freight |
+|                                                      |                               | over 600m        |
+|                                                      |                               |                  |
+|                                                      |                               | To be applied    |
+|                                                      |                               | approaching      |
+|                                                      |                               | next timing      |
+|                                                      |                               | point next       |
+|                                                      |                               | timing point     |
+| Junction Margins                                     |                               |                  |
+| First Movement                                       | Second Movement               | Margin           |
+| Pass to Goods Line                                   | Pass Down Main                | 3                |
+| Pass to Goods Line                                   | Pass from Goods Line          | 5^               |
+| Pass from Goods Line                                 | Pass to Goods Line            | 21⁄2*            |
+| Pass from Goods Line                                 | Pass Down Main                | 3                |
+| Pass Down Main                                       | Pass from Goods Line          | 41⁄2^            |
+| Pass Down Main                                       | Depart from Goods Line        | 11⁄2             |
+| Pass Up Main                                         | Depart from Goods Line        | 21⁄2             |
+| * If first train is over 641m to be increased by 1⁄2 |                               |                  |
+| ^ based on Yellow signals for the second train       |                               |                  |

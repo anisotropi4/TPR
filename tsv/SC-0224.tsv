@@ -1,0 +1,49 @@
+|                                                            |               |               |          |                                         |
+|:-----------------------------------------------------------|:--------------|:--------------|:---------|:----------------------------------------|
+| SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH) |               |               |          |                                         |
+| LOCATION                                                   | DIRECTION     | USABLE LENGTH | NOTES    |                                         |
+|                                                            |               | METRES        | SLU      |                                         |
+| Gartshore UPL                                              | Up            | 530           | 82       |                                         |
+| Gartshore DPL                                              | Down          | 292           | 45       |                                         |
+| Cadder UPL                                                 | Up            | 959           | 150      |                                         |
+| Cadder DPL                                                 | Up            | 910           | 142      |                                         |
+|                                                            | Down          | 944           | 145      |                                         |
+| Eastfield PL                                               |               | 315           | 49       |                                         |
+| Cowlairs PL                                                |               | 166           | 25       |                                         |
+| SC109 POLMONT JN TO GREENHILL UPPER JN (VIA FALKIRK        |               |               |          |                                         |
+| GRAHAMSTON)                                                |               |               |          |                                         |
+| LOCATION                                                   | DIRECTION     | USABLE LENGTH | NOTES    |                                         |
+|                                                            |               | METRES        | SLU      |                                         |
+| Polmont NPL                                                | Up Grahamston | 390           | 61       |                                         |
+| Greenhill DBGL                                             | Down Branch   | 400           | 62       |                                         |
+| SC117 GRANGEMOUTH JN TO GRANGEMOUTH NR BOUNDARY            |               |               |          |                                         |
+| LOCATION                                                   | DIRECTION     | USABLE LENGTH | NOTES    |                                         |
+|                                                            |               | METRES        | SLU      |                                         |
+| Grangemouth Run                                            |               | 1000          | 156      |                                         |
+| Round No1 Loop                                             |               |               |          |                                         |
+| Grangemouth Run                                            |               | 600 (975)     | 93 (152) | Can accommodate longer length if        |
+| Round No2 Loop                                             |               |               |          | only one train is shunting and dwell is |
+|                                                            |               |               |          | increased to 30 mins for run round      |
+|                                                            |               |               |          | move                                    |
+| Grangemouth Run                                            |               | 600 (975)     | 93 (152) | Can accommodate longer length if        |
+| Round No3 Loop                                             |               |               |          | only one train is shunting and dwell is |
+|                                                            |               |               |          | increased to 30 mins for run round      |
+|                                                            |               |               |          | move                                    |
+| SC119 GREENHILL UPPER JN TO DUNDEE                         |               |               |          |                                         |
+| LOCATION                                                   | DIRECTION     | USABLE LENGTH | NOTES    |                                         |
+|                                                            |               | METRES        | SLU      |                                         |
+| Greenhill DBGL                                             | Down Branch   | 400           | 62       |                                         |
+| Larbert DPL                                                | Down          | 269           | 42       |                                         |
+| Dunblane DPL                                               | Down          | 310           | 49       |                                         |
+| (Platform 3)                                               |               |               |          |                                         |
+| Perth DDL                                                  | Down          | 270           | 42       |                                         |
+| Perth UDL                                                  | Up            | 271           | 42       |                                         |
+| SC123 BATHGATE TO HELENSBURGH (VIA SINGER)                 |               |               |          |                                         |
+| LOCATION                                                   | DIRECTION     | USABLE LENGTH | NOTES    |                                         |
+|                                                            |               | METRES        | SLU      |                                         |
+| Shettleston GL                                             |               | 620           | 96       |                                         |
+| Hyndland GL (PF)                                           |               | 570           | 89       |                                         |
+| Dumbarton Central                                          | Down          | 128           | 20       |                                         |
+| DPL (Platfrom 3)                                           |               |               |          |                                         |
+| Craigendoren WHL                                           | WHL           | 275           | 43       |                                         |
+| Loop (CL)                                                  |               |               |          |                                         |

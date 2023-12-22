@@ -1,0 +1,38 @@
+|                                                                                                                |                                                                  |              |
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|:-------------|
+| Coopers Lane Junction                                                                                          |                                                                  |              |
+| Junction Margins                                                                                               |                                                                  |              |
+| First Movement                                                                                                 | Second Movement                                                  | Margin       |
+| Pass from single line                                                                                          | Pass/Depart from Coopers Lane Junction to                        | 2            |
+|                                                                                                                | single line                                                      |              |
+| For ARS regulating purposes for trains towards the single line ARR and DEP times with activities A and * to be |                                                                  |              |
+| used and not pathing time.                                                                                     |                                                                  |              |
+| Stansted Airport Signal L1201                                                                                  |                                                                  |              |
+| For ARS regulating purposes for trains towards Stansted Airport on the Arrival Line ARR and DEP times with     |                                                                  |              |
+| activities A and * to be used and not pathing time.                                                            |                                                                  |              |
+| Stansted Airport Signal L1143                                                                                  |                                                                  |              |
+| For ARS regulating purposes for trains towards Stansted Airport on the Departure Line ARR and DEP times with   |                                                                  |              |
+| activities A and * to be used and not pathing time.                                                            |                                                                  |              |
+| Stansted Airport                                                                                               |                                                                  |              |
+| Junction Margin                                                                                                |                                                                  |              |
+| First Movement                                                                                                 | Second Movement                                                  | Margin       |
+| Arrival                                                                                                        | Departure conflicting at Stansted Airport throat                 | Simultaneous |
+| Departure                                                                                                      | Arrival conflicting at Stansted Airport throat,                  | 4            |
+|                                                                                                                | including reoccupation of same platform                          |              |
+| Minimum Turnround Time                                                                                         | 20 desirable for DMUs                                            |              |
+| Permissive Working Instructions                                                                                |                                                                  |              |
+| Splitting and Coupling of trains permitted                                                                     | In all platforms                                                 |              |
+| Platform Sharing                                                                                               | 3/4 car trains must NOT be planned on top of 10/12 car trains in |              |
+|                                                                                                                | Platform 1 at Stansted Airport. However, 10/12 car trains may    |              |
+|                                                                                                                | be planned on top of 3/4 car trains.                             |              |
+| Length Limits                                                                                                  |                                                                  |              |
+| Platforms 1 and 3 Reversing Moves                                                                              |                                                                  | 67 SLUs      |
+| EA1230 ROYSTON TO SHEPRETH BRANCH JUNCTION                                                                     |                                                                  |              |
+| Royston                                                                                                        |                                                                  |              |
+| See entry under LN125 within LNE Timetable Planning Rules                                                      |                                                                  |              |
+| Foxton Exchange Sidings                                                                                        |                                                                  |              |
+| Terminal Lengths                                                                                               |                                                                  |              |
+| Exchange Sidings – there are three sidings which are 75 SLU, 66 SLU and 66 SLU. Please note that these are     |                                                                  |              |
+| part of the terminal and are not Network Rail infrastructure.                                                  |                                                                  |              |
+| Foxton                                                                                                         |                                                                  |              |
+| Adjustments to Sectional Running Times                                                                         |                                                                  |              |

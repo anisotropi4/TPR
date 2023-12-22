@@ -1,0 +1,43 @@
+|                                              |                                                                  |                |
+|:---------------------------------------------|:-----------------------------------------------------------------|:---------------|
+| Retford High Level                           |                                                                  |                |
+| Junction Margins                             |                                                                  |                |
+| First Movement                               | Second Movement                                                  | Margin         |
+| Arrive from Worksop and shunt to single line | Down train arrives                                               | 8              |
+| Arrive from Worksop and shunt to siding      | Down train arrives                                               | 10             |
+| Depart to Worksop                            | Next train arrives from Worksop                                  | 7              |
+| Depart to Worksop                            | Down train arrives                                               | 5              |
+| Pass Up or Down                              | Depart Up or Down platform                                       | 2              |
+| Pass Down Main non-stop passenger            | Arrive Platform 2 from Up Main                                   | 5              |
+| Pass Down Main freight                       | Arrive Platform 2 from Up Main                                   | 6              |
+| Minimum Turnround                            | 10 – DMU/EMU.  ECS moves to Single Line, Down Slow or Siding may |                |
+|                                              | require extended turnrounds                                      |                |
+| Platform Re-occupation                       |                                                                  |                |
+| Same direction                               | 3                                                                |                |
+| Babworth Loop                                |                                                                  |                |
+| Junction Margins                             |                                                                  |                |
+| First Movement                               | Second Movement                                                  | Margin         |
+| Pass Down Main at Retford                    | Depart Down Loop                                                 | 2              |
+| Ranskill Loop                                |                                                                  |                |
+| Junction Margins                             |                                                                  |                |
+| First Movement                               | Second Movement                                                  | Margin         |
+| Arrive Loop                                  | Down train passes Retford                                        | 2              |
+| Arrive Loop                                  | Down train departs Retford                                       | 1              |
+| Down train passes Retford                    | Depart Loop                                                      | 5              |
+| Down train departs Retford                   | Depart Loop                                                      | 7              |
+| Arrive Loop                                  | Up train passes Loversall Carr                                   | Same time      |
+| Up train passes Retford                      | Depart Loop                                                      | 1              |
+| Up train arrives Retford                     | Depart Loop                                                      | 2              |
+| Loversall Carr Junction                      |                                                                  |                |
+| Adjustments to Sectional Running Times       |                                                                  |                |
+| Movements Down                               | Reason                                                           | Value          |
+| All Passenger trains to West Slow Line       | Differential Speed                                               | 1              |
+| approaching Loversall Carr                   |                                                                  |                |
+| Movements Up                                 | Reason                                                           | Value          |
+| All Passenger trains from Up East Slow Line  | Acceleration                                                     | 1⁄2 180/80x/91 |
+| approaching Retford                          |                                                                  | 1 LH/HST       |
+| Junction Margins                             |                                                                  |                |
+| First Movement                               | Second Movement                                                  | Margin         |
+| Pass Down Fast to Down West Slow             | Pass Down Fast                                                   | 3              |
+| Pass Up Main                                 | Depart to Up Main from Up East Slow                              | 2              |
+| Pass Up Main                                 | Pass to Up Main from Up Slow                                     | 3              |

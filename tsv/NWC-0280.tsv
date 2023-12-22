@@ -1,0 +1,26 @@
+|                                               |                                           |             |
+|:----------------------------------------------|:------------------------------------------|:------------|
+| Acton Grange Jn                               |                                           |             |
+| Movement Up                                   | Reason                                    | Value       |
+| Pass Up Helsby to Up Main                     | Approach control and deceleration         | 1           |
+|                                               |                                           |             |
+|                                               |                                           |             |
+|                                               | Acceleration away from junction           | 2           |
+|                                               |                                           | Approaching |
+|                                               |                                           | next timing |
+|                                               |                                           | point       |
+| Warrington Bank Quay                          |                                           |             |
+| Adjustments to Sectional Running Times        |                                           |             |
+| Movement Up                                   | Reason                                    | Value       |
+| Non-stop trains via Up Slow or Up Goods to Up | Movement over and acceleration from 15mph | 1           |
+| Main direct to Acton Grange Jn                | crossover                                 | approaching |
+|                                               |                                           | next timing |
+|                                               |                                           | point       |
+| All trains crossing Up Fast to Platform 1     | Approach control and slow speed crossover | 1           |
+| Dwell Time                                    |                                           |             |
+| EMU/DMU                                       | 1                                         |             |
+| LH/HST                                        | 2                                         |             |
+| Junction Margins                              |                                           |             |
+| First Movement                                | Second Movement                           | Margin      |
+| Down Freight train pass from Arpley           | Pass Up Fast or Down Fast                 | 5           |
+| Platform Reoccupation Time                    | 31⁄2                                      |             |

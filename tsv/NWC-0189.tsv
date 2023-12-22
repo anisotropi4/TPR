@@ -1,0 +1,27 @@
+|                                                                      |                                                 |        |
+|:---------------------------------------------------------------------|:------------------------------------------------|:-------|
+| Rugby                                                                |                                                 |        |
+| Junction Margins                                                     |                                                 |        |
+| First Movement                                                       | Second Movement                                 | Margin |
+| Non-stop Down train passes Rugby on Down                             | Down train departs from platforms 1 or 2        | 2      |
+| Fast                                                                 | towards Rugby Trent Valley Jn via a conflicting |        |
+|                                                                      | route                                           |        |
+| Non-stop Up train passes platform 4 towards                          | Up train departs from platform 5 towards        | 2      |
+| Hillmorton Jn                                                        | Hillmorton Jn                                   |        |
+| Non-stop Up train passes platform 6 towards                          | Up train departs from Up Goods Loop or Up &     | 2      |
+| Hillmorton Jn                                                        | Down Through towards Hillmorton Jn              |        |
+| Minimum Turnround Time – Trains changing direction at end of journey |                                                 |        |
+| Standard                                                             | 8 (5 for WMT services)                          |        |
+| Rugby Trent Valley Jn                                                |                                                 |        |
+| Adjustments to Sectional Running Times                               |                                                 |        |
+| Movement Down                                                        | Reason                                          | Value  |
+| All Avanti West Coast trains from a stand at                         | Not passing Trent Valley Jn at line speed       | 1⁄2 *  |
+| Rugby routed towards Coventry                                        |                                                 |        |
+| All Avanti West Coast trains from a stand at                         | Not passing Trent Valley Jn at line speed       | 1⁄2 *  |
+| Rugby crossing to the Down Fast                                      |                                                 |        |
+| * Applies approaching next timing point after Rugby Trent Valley Jn  |                                                 |        |
+| Brinklow                                                             |                                                 |        |
+| Junction Margins                                                     |                                                 |        |
+| First Movement                                                       | Second Movement                                 | Value  |
+| Pass on Down Trent Valley Fast towards                               | Pass/Depart Down Trent Valley Slow towards      | 2*     |
+| Nuneaton                                                             | Nuneaton                                        |        |

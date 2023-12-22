@@ -1,0 +1,59 @@
+|                                         |                                         |        |        |
+|:----------------------------------------|:----------------------------------------|:-------|:-------|
+| Eastleigh                               |                                         |        |        |
+| First Movement                          | Second Movement                         | Signal | Margin |
+| Down train arrives at Platform 3        | Up train arrives/passes Platform 2 from | E34    | 3      |
+|                                         | Eastleigh South Junction/Eastleigh      |        |        |
+|                                         | TMD/Eastleigh Works                     |        |        |
+| Down train arrives at Platform 3        | Down train passes Platform 2 towards    | E34    | 3      |
+|                                         | Eastleigh South Junction/Eastleigh      |        |        |
+|                                         | TMD/Eastleigh Works                     |        |        |
+| Down train arrives at Platform 3        | Down train departs from Platform 2      | E34    | 1      |
+|                                         | towards Eastleigh South                 |        |        |
+|                                         | Junction/Eastleigh TMD/Eastleigh Works  |        |        |
+| Up train arrives/passes Platform 2 from | Conflicting Down train arrives at       | E34    | 3      |
+| Eastleigh South Junction/Eastleigh      | Platform 3                              |        |        |
+| TMD/Eastleigh Works                     |                                         |        |        |
+| Up train arrives/passes Platform 2 from | Down train departs Eastleigh East Yard  | E34    | 1      |
+| Eastleigh South Junction/Eastleigh      | towards Platform 3                      |        |        |
+| TMD/Eastleigh Works                     |                                         |        |        |
+| Down train departs/passes Platform 2    | Down train arrives at Platform 3        | E34    | 3      |
+| towards Eastleigh South                 |                                         |        |        |
+| Junction/Eastleigh TMD/Eastleigh Works  |                                         |        |        |
+| Down train departs/passes Platform 2    | Down train departs Eastleigh East Yard  | E34    | 2      |
+| towards Eastleigh South                 | towards Platform 3                      |        |        |
+| Junction/Eastleigh TMD/Eastleigh Works  |                                         |        |        |
+| Down train departs/passes Platform 3    | Down train arrives at Platform 2        | E36    | 3#     |
+| towards St. Denys                       |                                         |        |        |
+| Down train departs/passes Platform 3    | Down train departs Eastleigh East Yard  | E36    | 2$     |
+| towards St. Denys                       | towards Platform 2                      |        |        |
+| Down train departs Platform 3 towards   | Down train arrives at Platform 2        | E36    | 3*     |
+| Eastleigh South Junction/Eastleigh      |                                         |        |        |
+| TMD/Eastleigh Works                     |                                         |        |        |
+| Up train arrives/passes Platform 3 from | Down train arrives at Platform 2        | E36    | 3      |
+| St. Denys                               |                                         |        |        |
+| Up train arrives at Platform 3 from St. | Down train departs Eastleigh East Yard  | E36    | 1      |
+| Denys                                   | towards Platform 2                      |        |        |
+| Up train arrives at Platform 3 from     | Down train arrives at Platform 2        | E36    | 3*     |
+| Eastleigh South Junction/Eastleigh      |                                         |        |        |
+| TMD/Eastleigh Works                     |                                         |        |        |
+| Down train arrives at Platform 2        | Down train passes Platform 3 towards    | E36    | 3      |
+|                                         | St. Denys                               |        |        |
+| Down train arrives at Platform 2        | Down train departs Platform 3 towards   | E36    | 1      |
+|                                         | St. Denys                               |        |        |
+| Down train arrives at Platform 2        | Down train departs Platform 3 towards   | E36    | 1*     |
+|                                         | Eastleigh South Junction/Eastleigh      |        |        |
+|                                         | TMD/Eastleigh Works                     |        |        |
+| Down train arrives at Platform 2        | Up train arrives/passes Platform 3 from | E36    | 3      |
+|                                         | St. Denys                               |        |        |
+| Down train arrives at Platform 2        | Up train arrives at Platform 3 from     | E36    | 3*     |
+|                                         | Eastleigh South Junction/Eastleigh      |        |        |
+|                                         | TMD/Eastleigh Works                     |        |        |
+| Up train arrives at Platform 2          | Down train arrives/passes Platform 3    | E99    | 3      |
+|                                         | from Down Fast/Chandlers Ford           |        |        |
+| Up train arrives at Platform 2          | Up train passes Platform 3 towards Up   | E99    | 3      |
+|                                         | Fast/Chandlers Ford                     |        |        |
+| Up train arrives at Platform 2          | Up train departs Platform 3 towards Up  | E99    | 1      |
+|                                         | Fast/Chandlers Ford                     |        |        |
+| Down train arrives/passes Platform 3    | Up train arrives at Platform 2          | E99    | 3      |
+| from Down Fast/Chandlers Ford           |                                         |        |        |

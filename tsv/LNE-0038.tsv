@@ -1,0 +1,48 @@
+|                                                                |        |         |      |                                         |
+|:---------------------------------------------------------------|:-------|:--------|:-----|:----------------------------------------|
+| LN630 PELAW NORTH JUNCTION TO PELAW METRO JUNCTION             |        |         |      |                                         |
+| TIMING POINT                                                   | DOWN   | UP      | CODE | NOTES                                   |
+| Pelaw North Junction                                           |        |         |      | From Tyne & Wear Metro                  |
+| Pelaw Metro Junction                                           |        | –       | X    | Up direction only                       |
+|                                                                |        |         |      | To Sunderland – LN627                   |
+| LN631 DARLINGTON SOUTH JUNCTION TO EAGLESCLIFFE SOUTH JUNCTION |        |         |      |                                         |
+| TIMING POINT                                                   | DOWN   | UP      | CODE | NOTES                                   |
+| Darlington South Jn                                            |        |         |      | To/from Darlington – LN600              |
+| Dinsdale                                                       | –      | –       |      |                                         |
+| Tees–side Airport                                              | –      | –       | S    |                                         |
+| Allens West                                                    | –      | –       | S    |                                         |
+| Eaglescliffe South Junction                                    |        |         |      | To/from Northallerton or Boroughbridge  |
+|                                                                |        |         |      | L.C. – LN627                            |
+| LN632 STOCKTON CUT JUNCTION TO SALTBURN                        |        |         |      |                                         |
+| TIMING POINT                                                   | DOWN   | UP      | CODE | NOTES                                   |
+| Stockton Cut Junction                                          | –      | –       |      | To/from Eaglescliffe – LN627            |
+| Bowesfield Junction                                            | –      | –       |      | To/from Hartburn Jn – LN644             |
+| Thornaby East Junction                                         |        |         |      | To/from Goods Line/Tees Yard            |
+| Thornaby                                                       | ML GL  | –       |      | Platform detail must be shown           |
+|                                                                | –      |         |      |                                         |
+| Thornaby TY198                                                 |        | –       | S    |                                         |
+| Thornaby TY197                                                 |        | –       | S    |                                         |
+| Thornaby TY194                                                 |        | –       | S    |                                         |
+| Tees Network Yard                                              | –      | –       | S    |                                         |
+| Down Staging Sidings                                           | –      |         | S    |                                         |
+| Tees Yard Signal Box                                           | GL     | GL1 GL2 |      | Timing point for trains using the Goods |
+|                                                                |        |         |      | Lines                                   |
+| Tees Up Sidings                                                |        | –       | S    |                                         |
+| Newport East Jn Signal DS6875                                  | –      |         | S    |                                         |
+| Newport East Jn Signal DS6877                                  | –      |         | S    |                                         |
+| Newport East Jn                                                | FL SL  | ML      |      |                                         |
+|                                                                |        | GL1 GL2 |      |                                         |
+| Newport East Jn Signal DS6852                                  |        | –       | S    |                                         |
+| Middlesbrough Goods Yard                                       |        | –       | S    |                                         |
+| Middlesbrough West Dock                                        | –      |         | S    |                                         |
+| Middlesbrough                                                  | FL SL  | FL SL   |      | Platform detail must be shown           |
+| Middlesbrough Carriage Sdgs                                    |        | –       | S    |                                         |
+| Guisborough Junction                                           |        |         |      | To/from Cargo Fleet Road – LN634        |
+| Whitehouse Jn                                                  | –      | FL SL   |      |                                         |
+| South Bank Junction                                            |        |         |      | To/From Goods Lines                     |
+| South Bank                                                     | ML GL  | –       |      |                                         |
+| South Bank Signal G710                                         |        | GL      | S    |                                         |
+| Beam Mill Signal G727                                          | GL     |         | S    |                                         |
+| Beam Mill Junction                                             | GL     | GL      | X    | To/from Lackenby – LN636                |
+| Grangetown Signal G733                                         | GL     |         | S    |                                         |
+| Grangetown SB                                                  | ML  GL | ML  GL  | F X  |                                         |

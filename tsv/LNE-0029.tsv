@@ -1,0 +1,30 @@
+|                                                                 |      |       |      |                                           |
+|:----------------------------------------------------------------|:-----|:------|:-----|:------------------------------------------|
+| LN150 FLYOVER EAST JUNCTION TO DECOY NORTH JUNCTION             |      |       |      |                                           |
+| TIMING POINT                                                    | DOWN | UP    | CODE | NOTES                                     |
+| Flyover East Junction                                           |      |       |      | To/from Gainsborough Trent Jn – LN170     |
+|                                                                 |      |       |      | To Loversall Jn – LN155.  Only accessible |
+|                                                                 |      |       |      | in the Up direction from the Down Lincoln |
+| Flyover West Junction                                           |      |       |      | To/from Loversall Carr Jn – LN160         |
+| Decoy South Junction                                            | –    | – DLF |      | To/from St Catherine’s Jn – LN762         |
+| Doncaster Down Decoy                                            | –    | –     | S    |                                           |
+| Doncaster RMT                                                   | –    | –     | S    |                                           |
+| Decoy North Junction                                            | DFL  | –     |      | Mandatory West Slow lines.                |
+|                                                                 | DS1  |       |      |                                           |
+|                                                                 | DS2  |       |      |                                           |
+|                                                                 | DR – |       |      |                                           |
+| LN155 FLYOVER EAST JUNCTION TO LOVERSALL JUNCTION (UP LOVERSALL |      |       |      |                                           |
+| CURVE)                                                          |      |       |      |                                           |
+| TIMING POINT                                                    | DOWN | UP    | CODE | NOTES                                     |
+| Flyover East Junction                                           |      |       |      | From Flyover West Jn – LN150.  Line is    |
+|                                                                 |      |       |      | Up direction only                         |
+| Loversall Junction                                              |      |       |      | To Loversall Carr Jn – LN101              |
+| LN160 LOVERSALL CARR JUNCTION TO FLYOVER WEST JUNCTION          |      |       |      |                                           |
+| TIMING POINT                                                    | DOWN | UP    | CODE | NOTES                                     |
+| Loversall Carr Junction                                         | –    |       |      | From Retford – LN101                      |
+| Rossington Colliery Junction                                    | –    | –     | X    | To/from Rossington Colliery – LN235       |
+| Flyover West Junction                                           |      |       |      | To/from Decoy North Jn – LN150            |
+| LN165 HARRINGAY PARK JUNCTION TO HARRINGAY JUNCTION             |      |       |      |                                           |
+| TIMING POINT                                                    | DOWN | UP    | CODE | NOTES                                     |
+| Harringay Park Junction                                         | –    | –     |      | To/from Upper Holloway –  EA1370          |
+| Harringay Junction                                              |      |       |      | To Hornsey – LN101                        |

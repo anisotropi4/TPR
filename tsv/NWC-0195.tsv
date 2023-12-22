@@ -1,0 +1,35 @@
+|                                                                                                                  |                                                |              |
+|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-------------|
+| Northampton North Jn                                                                                             |                                                |              |
+| Junction Margins                                                                                                 |                                                |              |
+| First Movement                                                                                                   | Second Movement                                | Margin       |
+| Pass or depart Northampton towards Long                                                                          | Pass or depart Northampton North Jn towards    | 3            |
+| Buckby via Down Northampton Fast                                                                                 | Northampton via a conflicting route            |              |
+| Planning Restriction                                                                                             |                                                |              |
+| No pathing time or other allowance can be added between Northampton North Jn and Northampton in either           |                                                |              |
+| direction as there are no intermediate signals.                                                                  |                                                |              |
+| Northampton Kings Heath Traincare Depot                                                                          |                                                |              |
+| Arrival/Departure Margins                                                                                        | Margin                                         |              |
+| Minimum interval between an arrival and a departure or a departure and an arrival                                | 15                                             |              |
+| Minimum interval between consecutive departures                                                                  | 7                                              |              |
+| Minimum interval between consecutive arrivals                                                                    | 20                                             |              |
+| Northampton Down Goods Loop                                                                                      |                                                |              |
+| Junction Margins                                                                                                 |                                                |              |
+| First Movement                                                                                                   | Second Movement                                | Margin       |
+| Pass or depart Northampton towards Long                                                                          | Depart Down Goods Loop towards Long            | 5            |
+| Buckby                                                                                                           | Buckby                                         |              |
+| Long Buckby                                                                                                      |                                                |              |
+| Dwell Time                                                                                                       |                                                |              |
+| Class 350 EMU                                                                                                    | 1                                              |              |
+| Daventry South Jn                                                                                                |                                                |              |
+| Junction margins for Daventry South Jn are off-set from Daventry North Jn. Please refer to Daventry North Jn for |                                                |              |
+| junction margins.                                                                                                |                                                |              |
+| Daventry North Jn                                                                                                |                                                |              |
+| Adjustment to Sectional Running Times                                                                            |                                                |              |
+| Movement Up                                                                                                      | Reason                                         | Value        |
+| Entering Daventry Freight Terminal from                                                                          | Slow speed turnout and approach control        | 2            |
+| Hillmorton Jn                                                                                                    |                                                |              |
+| Movement Down                                                                                                    | Reason                                         | Value        |
+| Exiting Daventry Freight Terminal towards                                                                        | Acceleration and not at line speed at Daventry | 2 applies at |
+| Hillmorton Jn                                                                                                    | North Jn                                       | next timing  |
+|                                                                                                                  |                                                | point        |

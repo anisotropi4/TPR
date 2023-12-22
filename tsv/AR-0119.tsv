@@ -1,0 +1,39 @@
+|                                            |                                              |               |
+|:-------------------------------------------|:---------------------------------------------|:--------------|
+| Mill Road Junction                         |                                              |               |
+| Junction Margins                           |                                              |               |
+| First Movement                             | Second Movement                              | Margin        |
+| Movement across Mill Road Junction         | Conflicting movement passes/departs previous | 2             |
+|                                            | timing point                                 |               |
+| Arrival at Cambridge from Coldham Lane     | Movement across Mill Road Junction towards   | 3             |
+| Junction                                   | Cambridge Carriage Sidings North             |               |
+| Cambridge Carriage Sidings North           |                                              |               |
+| Junction Margins                           |                                              |               |
+| First Movement                             | Second Movement                              | Margin        |
+| Depart Cambridge platform 7 or 8 to South  | Depart from Cambridge Carriage Sidings North | 1             |
+|                                            | routed via PL (CA710) to same platform at    |               |
+|                                            | Cambridge                                    |               |
+| Arrive Cambridge platform 7 from the North | Depart from Cambridge Carriage Sidings North | 0             |
+|                                            | routed via PL (CA710) to platform 8 at       |               |
+|                                            | Cambridge                                    |               |
+| Arrive Cambridge platform 8 from the North | Depart from Cambridge Carriage Sidings North | 0             |
+|                                            | routed via PL (CA710) to platform 7 at       |               |
+|                                            | Cambridge                                    |               |
+| Depart or Arrive Cambridge                 | Arrive at Cambridge from Cambridge Carriage  | See matrix at |
+|                                            | Sidings North routed via UM/UM4/UMT          | Cambridge     |
+|                                            | (CA180) to any platform at Cambridge         |               |
+| Coldham Lane Junction                      |                                              |               |
+| Adjustments to Sectional Running Times     |                                              |               |
+| Movement                                   | Reason                                       | Allowance     |
+| Trains towards Dullingham                  | Approach control                             | {1⁄2}         |
+| Trains from Dullingham                     | Not at line speed                            | {1⁄2}         |
+|                                            |                                              | approaching   |
+|                                            |                                              | next timing   |
+|                                            |                                              | point         |
+| Junction Margins                           |                                              |               |
+| First Movement                             | Second Movement                              | Margin        |
+| Train towards Dullingham                   | Train towards Cambridge                      | 3             |
+| Train towards Cambridge                    | Train towards Dullingham                     | 2             |
+| Chesterton Junction                        |                                              |               |
+| Terminal Length                            |                                              |               |
+| Arrival/Departure                          |                                              | 60 SLUs       |

@@ -1,0 +1,46 @@
+|                                                                                                                |                                              |        |
+|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------|:-------|
+| Busby Junction                                                                                                 |                                              |        |
+| Junction Margins                                                                                               |                                              |        |
+| First Movement                                                                                                 | Second Movement                              | Margin |
+| Pass from Busby                                                                                                | Pass to Barrhead (not stopping Pollokshaws   | 3      |
+|                                                                                                                | West)                                        |        |
+| Pass from Busby                                                                                                | Arrive Pollokshaws West going to Barrhead    | 11⁄2*  |
+| Pass to Barrhead                                                                                               | Pass from Busby (not stopping Thornliebank)  | 2      |
+| Pass to Barrhead                                                                                               | Down depart Thornliebank                     | 1      |
+| *Can be replaced by {1⁄2} after Pollokshaws West.                                                              |                                              |        |
+| Muirhouse South Junction                                                                                       |                                              |        |
+| Adjustments to Sectional Running Times                                                                         |                                              |        |
+| Movement Down                                                                                                  | Reason                                       | Value  |
+| Down trains to Down Muirhouse                                                                                  | Approach Control signal                      | 1⁄2    |
+| Junction Margins                                                                                               |                                              |        |
+| First Movement                                                                                                 | Second Movement                              | Margin |
+| Pass to Larkfield                                                                                              | Pass from Larkfield                          | 4      |
+| Pass to Larkfield                                                                                              | Pass from Muirhouse North                    | 31⁄2   |
+| Pass to Larkfield                                                                                              | Pass from Terminus Junction                  | 41⁄2   |
+| Pass to Larkfield                                                                                              | Depart Muirhouse Central to Busby Junction   | 1      |
+| Pass to Busby Junction                                                                                         | Pass to Larkfield                            | 2      |
+| Restriction                                                                                                    |                                              |        |
+| Only one train can stand or be on the line between Muirhouse South Junction and Larkfield Junction at any one  |                                              |        |
+| time.                                                                                                          |                                              |        |
+| Muirhouse Central Junction                                                                                     |                                              |        |
+| Adjustments to Sectional Running Times                                                                         |                                              |        |
+| Movement Down                                                                                                  | Reason                                       | Value  |
+| Down trains to Down Terminus                                                                                   | Approach Control signal                      | 1⁄2    |
+| Junction Margins                                                                                               |                                              |        |
+| First Movement                                                                                                 | Second Movement                              | Margin |
+| Pass to Maxwell Park                                                                                           | Pass Muirhouse South to Terminus Junction or | 3      |
+|                                                                                                                | Muirhouse North (not stopping Crossmyloof)   |        |
+| Pass to Maxwell Park                                                                                           | Down depart Crossmyloof                      | 1      |
+| Pass to Terminus Junction from Busby                                                                           | Pass to Maxwell Park                         | 3      |
+| Junction                                                                                                       |                                              |        |
+| Pass Muirhouse South going to Muirhouse                                                                        | Pass to Maxwell Park                         | 2      |
+| North                                                                                                          |                                              |        |
+| Pass from Maxwell Park                                                                                         | Pass from Terminus Junction                  | 3      |
+| Pass from Terminus Junction                                                                                    | Pass from Maxwell Park (not stopping         | 3      |
+|                                                                                                                | Pollokshields West)                          |        |
+| Pass from Terminus Junction                                                                                    | Up depart Pollokshields West                 | 1      |
+| Pass from Terminus Junction                                                                                    | Pass to Terminus Junction                    | 31⁄2   |
+| Restriction                                                                                                    |                                              |        |
+| Only one train can stand or be on the line between Muirhouse Central Junction and Terminus Junction at any one |                                              |        |
+| time.                                                                                                          |                                              |        |

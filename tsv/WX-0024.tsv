@@ -1,0 +1,57 @@
+|                                             |       |        |      |                                              |
+|:--------------------------------------------|:------|:-------|:-----|:---------------------------------------------|
+| SW110 WOKING JUNCTION TO PORTSMOUTH HARBOUR |       |        |      |                                              |
+| TIMING POINT                                | DOWN  | UP     | CODE | NOTES                                        |
+| Woking Junction                             | -     | FL  SL |      | To/from Woking - SW105                       |
+|                                             |       | DFL    |      |                                              |
+|                                             |       | DSL    |      |                                              |
+| Woking Down Reception                       | -     | -      | F    | Reversal point for trains to and from        |
+|                                             |       |        |      | Woking Down Yard                             |
+| Woking Signal WK610                         |       | -      | S    | Reversal point for trains to and from        |
+|                                             |       |        |      | Woking Yard                                  |
+| Worplesdon                                  | -     | -      | S    |                                              |
+| Guildford Signal GD635                      | -     |        | S    |                                              |
+| Guildford North Box Sidings                 | -     |        | S    |                                              |
+| Guildford U.C.H.S.                          |       | -      | S    |                                              |
+| Guildford                                   | -  UL | -      |      | Platform detail must be shown.               |
+|                                             |       |        |      | To/from Ash - SW265.                         |
+|                                             |       |        |      | To/from London Road (Guildford) - SW200      |
+| Guildford Signal 826                        |       | -      | S    |                                              |
+| Guildford Signal GD1308                     |       | -      | S    |                                              |
+| Shalford Junction                           | -     | -      |      | To/from Shalford - SW300                     |
+| Farncombe                                   | -     | -      |      |                                              |
+| Godalming                                   | -     | -      | S    |                                              |
+| Milford                                     | -     | -      | S    |                                              |
+| Witley                                      | -     | -      | S    |                                              |
+| Haslemere Signal EW23                       | -     |        | S    | Shunt moves only. Until 03/11/2024.          |
+| Haslemere Signal BEP2873                    | -     |        | S    | Shunt moves only. From 04/11/2024.           |
+| Haslemere                                   | -     | -      |      | Platform detail must be shown                |
+| Haslemere Signal EW15                       |       | -      | S    | Shunt moves only. Until 03/11/2024.          |
+| Haslemere Signal BEP2874                    |       | -      | S    | Shunt moves only. From 04/11/2024.           |
+| Liphook                                     | -     | -      | S    |                                              |
+| Liss                                        | -     | -      | S    |                                              |
+| Petersfield Signal 8                        | -     |        | S    | Shunt moves only. Until 03/11/2024.          |
+| Petersfield Signal BEP2917                  | -     |        | S    | Shunt moves only. From 04/11/2024.           |
+| Petersfield                                 | -     | -      |      | Platform detail must be shown                |
+| Rowlands Castle                             | -     | -      | S    |                                              |
+| Havant Signal HT503                         | -     |        | S    | Shunt moves only                             |
+| Havant                                      | -     | -      |      | Platform detail must be shown.               |
+|                                             |       |        |      | To/from Warblington - SO520                  |
+| Havant Signal No HT500                      |       | -      | S    | Shunt moves only                             |
+| Bedhampton                                  | -     | -      | S    |                                              |
+| Farlington Junction                         | -     | -      |      | To/from Cosham Junction - SW140A             |
+| Portcreek Junction                          | -     | -      |      | To/from Cosham Junction - SW140              |
+| Hilsea                                      | -     | -      | S    |                                              |
+| Fratton Signal 553                          | -     |        | S    | Shunt moves only                             |
+| Fratton East                                | DML   | -      | X    | Timing point for all Down trains.            |
+|                                             | UDL   |        |      | Timing point for all Up trains crossing from |
+|                                             | -     |        |      | the Reception Rd No.1/Back Road and all      |
+|                                             |       |        |      | trains reversing at Fratton East.            |
+| Fratton                                     | DML   | -      |      | Platform detail must be shown                |
+|                                             | UDL   |        |      |                                              |
+| Fratton Depot Fuel Point                    | -     | -      | S    |                                              |
+| Fratton S.S.                                | -     | -      | S    |                                              |
+| Fratton C.S.D.                              | -     |        | S    | ECS moves only                               |
+| Fratton Staff Halt                          | -     | -      | S    | Timing point for trains to/from Fratton      |
+|                                             | DML   |        |      | C.S.D./Fratton S.S.                          |
+|                                             | BKR   |        |      |                                              |

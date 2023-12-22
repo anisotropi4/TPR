@@ -1,0 +1,48 @@
+|                                                                                                                     |                                                        |        |
+|:--------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:-------|
+| Crewe                                                                                                               |                                                        |        |
+| All non-stop trains from Fast Line or Slow Line                                                                     | Approach control and slow speed through                | 2      |
+| towards Gresty Lane (via Platforms 6, 11, 12 or                                                                     | station area                                           |        |
+| UDL)                                                                                                                |                                                        |        |
+| All non-stop trains from Up or Down Fast Line                                                                       | Approach control                                       | 1      |
+| towards Gresty Lane                                                                                                 |                                                        |        |
+| All non-stop trains from Up Slow, Up or Down                                                                        | Approach control                                       | 1      |
+| Fast towards Gresty Lane                                                                                            |                                                        |        |
+| All non-stop trains via any route except Up                                                                         | Approach control and slow speed through                | 2      |
+| Slow, Up or Down Fast towards Gresty Lane                                                                           | station area                                           |        |
+| All non-stop trains on Up Fast or Up Slow                                                                           | Approach control and slow speed through                | 1      |
+| towards Alsager                                                                                                     | station area                                           |        |
+| All non-stop trains routed from the Up Fast or                                                                      | Approach control and slow speed through                | 2      |
+| Up Slow via Platform 1 towards Alsager                                                                              | station area                                           |        |
+| All stopping trains arriving from the Up Fast to                                                                    | Approach control                                       | 1      |
+| platforms 6, 10, 11 and 12 or UDL                                                                                   |                                                        |        |
+| All trains arriving into Platform 1                                                                                 | Approach control                                       | 1      |
+| Connectional Allowance                                                                                              | 10                                                     |        |
+| Dwell Time                                                                                                          |                                                        |        |
+| Class 221 (AWC), 390, 805, 807                                                                                      | 2 (3 minutes if crew change booked)                    |        |
+| Class 22x (CrossCountry)                                                                                            | 2                                                      |        |
+| DMU/EMU                                                                                                             | 2                                                      |        |
+| LH/HST                                                                                                              | 3                                                      |        |
+|                                                                                                                     | 2 for trains of 4 or fewer coaches                     |        |
+|                                                                                                                     | 2 for TfW Loco Hauled services which are not reversing |        |
+|                                                                                                                     | 2                                                      |        |
+| Junction Margins                                                                                                    |                                                        |        |
+| First Movement                                                                                                      | Second Movement                                        | Margin |
+| Train departure from Platform 1 or 5 towards                                                                        | Train arrival from Sandbach into Platforms 5           | 6$     |
+| Sandbach                                                                                                            | or 6 or passing on "UFL" or "DFL"                      |        |
+| Train departure from Platform 1 or 5 towards                                                                        | Train arrival from Sandbach into Platform 1            | 6$     |
+| Sandbach                                                                                                            |                                                        |        |
+| Train departure from Platform 6 towards                                                                             | Train arrival from Sandbach into Platform 6            | 6      |
+| Sandbach                                                                                                            |                                                        |        |
+| Any train movement crossing "UFL" or "DFL"                                                                          | Any train passing on "UFL" or "DFL"                    | 4      |
+| Train departure to Nantwich/Crewe South Yard                                                                        | Train arrival from Nantwich/Crewe South Yard           | 5      |
+|                                                                                                                     | for conflicting moves                                  |        |
+| Depart platform 6 to Up Fast                                                                                        | Pass non-stop on Down Fast                             | 4      |
+| Train departure to Crewe Steelworks                                                                                 | Train arrival from Crewe Steelworks for                | 5      |
+|                                                                                                                     | conflicting moves                                      |        |
+| $ Can be reduced to 3 minutes if train is routed via Up Manchester Loop.                                            |                                                        |        |
+| Planning Note                                                                                                       |                                                        |        |
+| All Class 805 services with the timing load 805-D require a minimum 2-minute stop in the station for power          |                                                        |        |
+| changeover purposes in either direction. Where a station dwell already exists, there is sufficient timing within to |                                                        |        |
+| undertake the power changeover. All non-stop and ECS services are required to show a 2-minute OP stop at            |                                                        |        |
+| Crewe.                                                                                                              |                                                        |        |

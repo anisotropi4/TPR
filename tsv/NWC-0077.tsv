@@ -1,0 +1,41 @@
+|                                                                 |       |       |      |                                       |
+|:----------------------------------------------------------------|:------|:------|:-----|:--------------------------------------|
+| NW1013 CREWE SORTING SIDINGS NORTH TO GRESTY LANE               |       |       |      |                                       |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                 |
+| Crewe Sorting Sidings North                                     | –     | –  IL |      | To/from Basford Hall Jn – NW1009      |
+| Crewe Sorting Sidings North SB                                  | –     | –  IL |      | To/from Basford Hall Jn – NW1009      |
+| Crewe Signal NH17                                               |       | –     | S    |                                       |
+| Gresty Bridge No.1 Siding                                       | –     |       |      | To/from Gresty Bridge (DRS)           |
+|                                                                 |       |       |      | TIPLOC: CREWGB1                       |
+| Gresty Bridge (DRS)                                             |       | –     | S    | TIPLOC: CREWWSC                       |
+| Gresty Road Western Sidings 1-3                                 |       | –     | S    | To/from Gresty Bridge No.1 Siding     |
+|                                                                 |       |       |      | TIPLOC: CREWGW1                       |
+| Gresty Lane Jn                                                  | –     | –     |      | To/from Nantwich – NW1007             |
+| NW1015 SALOP GOODS JN TO CREWE NORTH JN (CHESTER INDEPENDENT    |       |       |      |                                       |
+| LINES)                                                          |       |       |      |                                       |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                 |
+| Salop Goods Jn SB                                               |       | IL    |      | To Crewe SSN SB – NW1009              |
+| Crewe North Jn                                                  |       |       |      | To/from Crewe Steelworks – NW3001     |
+| Note: Line is signalled in Up direction only                    |       |       |      |                                       |
+| NW1017 SALOP GOODS JN TO CREWE COAL YARD (LIVERPOOL INDEPENDENT |       |       |      |                                       |
+| LINES)                                                          |       |       |      |                                       |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                 |
+| Salop Goods Jn SB                                               | IL    | IL –  |      | To/from Crewe SSN SB – NW1009         |
+|                                                                 |       |       |      | To/from Gresty Lane Jn – NW1011       |
+| Crewe Coal Yard                                                 | FL SL | IL    |      | To/from Winsford – NW1001             |
+| NW1019 ACTON GRANGE JN TO WARRINGTON SOUTH JN (HELSBY LINES)    |       |       |      |                                       |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                 |
+| Acton Grange Jn                                                 | OL    | FL –  |      | To/from Weaver Jn – NW1001            |
+|                                                                 |       |       |      | To/from Runcorn East – NW3003         |
+| Walton Old Jn                                                   | OL    | OL    |      |                                       |
+| Warrington South Jn                                             |       |       |      | To/from Warrington Bank Quay – NW1001 |
+| NW1021 WINWICK JN TO GOLBORNE JN (VIA EARLESTOWN)               |       |       |      |                                       |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                 |
+| Winwick Jn                                                      | –     | FL SL |      | To/from Warrington Bank Quay – NW1001 |
+| Earlestown South Jn                                             |       |       |      | To/from Earlestown West Jn – NW2015   |
+| Earlestown                                                      | –     | –     |      |                                       |
+| Earlestown East Jn                                              |       |       |      | To/from Earlestown West Jn – NW2015   |
+| Newton–le–Willows                                               | –     | –     |      |                                       |
+| Newton–le–Willows Jn                                            |       |       |      | To/from Parkside Jn – NW2015          |
+| Lowton Jn                                                       |       |       |      | To/from Parkside Jn – NW2019          |
+| Golborne Jn                                                     | FL SL | –     |      | To/from Springs Branch Jn – NW1001    |

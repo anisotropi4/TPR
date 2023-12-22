@@ -1,0 +1,33 @@
+|                                                              |                                           |         |
+|:-------------------------------------------------------------|:------------------------------------------|:--------|
+| Sandbach                                                     |                                           |         |
+| Movement Up                                                  | Reason                                    | Value   |
+| Up Wilmslow to Up Manchester Independent,                    | Approach Control                          | 2 **    |
+| passing platform 1 or platform 2                             | Slow speed junction                       | 1 #     |
+| Up Wilmslow to Up Manchester Independent,                    | Flashing Yellow Aspects                   | 1 **    |
+| passing platform 3                                           |                                           |         |
+| Up Wilmslow to platform 2                                    | Approach Control                          | 1 **    |
+| Pass platform 2 to Up Wilmslow                               | Slow speed junction                       | 2 #     |
+| ** Approaching Sandbach                                      |                                           |         |
+| #  After Sandbach                                            |                                           |         |
+| Junction Margins                                             |                                           |         |
+| First Movement                                               | Second Movement                           | Margin  |
+| Platform 3 to/from Wilmslow                                  | Arrive Platform 2 to/from Crewe           | 21⁄2    |
+| Arrive or pass Platform 3 from Crewe                         | Depart Down Manchester Independent and    | 11⁄2    |
+|                                                              | passes Sandbach via platform 2            |         |
+| Pass/Depart Platform 2 to Wilmslow                           | Depart Down Manchester Independent Line   | 11⁄2    |
+|                                                              | and passes Sandbach                       |         |
+| Depart Platform 3 to Crewe                                   | Depart Down Manchester Independent Line   | 11⁄2    |
+|                                                              | and passes Sandbach                       |         |
+| Depart platform 3 to Wilmslow                                | Depart Down Manchester Independent Line   | 11⁄2    |
+|                                                              | and passes Sandbach                       |         |
+| Pass/ Depart Platform 3 to Middlewich Branch                 | Depart Down Manchester Independent Line   | headway |
+|                                                              | and passes Sandbach platform 3 towards    |         |
+|                                                              | Wilmslow                                  |         |
+| Alderley Edge                                                |                                           |         |
+| Adjustments to Sectional Running Times                       |                                           |         |
+| Movement                                                     | Reason                                    | Value   |
+| All Up trains terminating                                    | Approach Control for terminating services | 1       |
+| Dwell time                                                   |                                           |         |
+| Up Trains terminating and ECS to Up or Down Sidings          | 2                                         |         |
+| ECS from Up or Down Sidings to form a Down passenger service | 1                                         |         |

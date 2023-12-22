@@ -1,0 +1,52 @@
+|                  |                                                                                  |
+|:-----------------|:---------------------------------------------------------------------------------|
+| Reporting        | Description                                                                      |
+| number           |                                                                                  |
+| 2Wxx             | Glasgow Queen Street to Anniesland (both directions)                             |
+| 2Wxx             | Glasgow Central to Wemyss Bay                                                    |
+| 2Vxx             | Cumbernauld to Dumbarton Central (both directions) via Yoker                     |
+| 2Yxx             | Glasgow Central to Edinburgh (via Shotts)                                        |
+| 2Yxx             | Ayr to North Berwick (via Glasgow Central and Carstairs)                         |
+| 2Yxx             | Edinburgh to North Berwick (both directions)                                     |
+| 2Yxx             | Fort William to Mallaig (both directions)                                        |
+| 2Zxx             | Special traffic additional trains                                                |
+|                  | Must NOT be used for WTT services                                                |
+| Class 3          |                                                                                  |
+| 3Qxx             | Network Rail test train (Ultrasonic Test Unit loco hauled at 75mph or below)     |
+| 3S9x             | Network Rail Railhead Treatment Train (RHTT)                                     |
+| Class 9          |                                                                                  |
+| 9Mxx             | Glasgow Central and Edinburgh to locations on the NW&C region via the West Coast |
+|                  | Mainline and Birmingham New Street                                               |
+| 9Mxx             | Edinburgh to Liverpool Lime Street via Newcastle                                 |
+| 9Nxx             | Edinburgh to Newcastle (TPE services)                                            |
+| 9Pxx             | Edinburgh to Manchester Airport via Newcastle                                    |
+| 9Sxx             | London Euston to Edinburgh & Glasgow Central via West Coast Mainline and         |
+|                  | Birmingham New Street                                                            |
+| 9Sxx             | Liverpool Lime Street or Manchester stations to Edinburgh via Newcastle          |
+| Class 4/6/7/8    |                                                                                  |
+| Destination code | Description                                                                      |
+| A                | Aberdeen area                                                                    |
+| B                | Edinburgh area                                                                   |
+| C                | Carstairs area                                                                   |
+| D                | Glasgow area (South & East)                                                      |
+| E                | Eastern region                                                                   |
+| G                | Fife area                                                                        |
+| H                | Inverness area                                                                   |
+| J                | Largs branch (Hunterston); OTMs                                                  |
+| K                | Special traffic (intra-route);                                                   |
+|                  | Engineering trains (including to/from Carlisle)                                  |
+| L                | Anglia route;                                                                    |
+|                  | Perth/Dundee area                                                                |
+| M                | Former BR London Midland region                                                  |
+| N                | Glasgow area (North)/Grangemouth/Stirling                                        |
+| O                | Southern region                                                                  |
+| Q                | Traffic where booked route must be followed;                                     |
+|                  | Network Rail test train (Ultrasonic Test Unit loco hauled at 75mph or below)     |
+| R                | Ayr and G&SW area                                                                |
+| S                | Traffic to Scotland from other regions/routes                                    |
+| U                | OTMs                                                                             |
+| V                | Western region                                                                   |
+| X                | Exceptional load (traffic requiring RT3973EXL)                                   |
+| Y                | West Highland line                                                               |
+| Z                | Special traffic additional trains                                                |
+|                  | Must NOT be used for WTT services                                                |

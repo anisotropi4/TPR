@@ -1,0 +1,41 @@
+|                                                        |        |     |      |                                               |
+|:-------------------------------------------------------|:-------|:----|:-----|:----------------------------------------------|
+| SW105 CLAPHAM JUNCTION TO WEYMOUTH                     |        |     |      |                                               |
+| TIMING POINT                                           | DOWN   | UP  | CODE | NOTES                                         |
+| Wool Up Sidings                                        |        | -   | F    | Tiploc WOOLMOD                                |
+|                                                        |        |     |      | Tiploc WOOLFHH (Freightliner)                 |
+|                                                        |        |     |      | Tiploc WOOLGBR (GBRF)                         |
+| Wool                                                   | -      | -   |      | Platform detail must be shown                 |
+| Wool Signal PW5264                                     |        | -   | S    |                                               |
+| Winfrith Sidings                                       | -      |     | F    |                                               |
+| Winfrith Ground Frame                                  | -      | -   | S    |                                               |
+| Moreton                                                | -      | -   |      |                                               |
+| Dorchester South                                       | -  UL  | -   |      | Platform detail must be shown                 |
+| Dorchester Junction                                    | -      | -   |      | To/from Dorchester West - SW175               |
+| Upwey                                                  | -      | -   | S    |                                               |
+| Weymouth Jersey Sidings                                | -      |     | S    |                                               |
+| Weymouth Jubilee Siding                                |        | -   | S    |                                               |
+| Weymouth Junction                                      |        | -   | X    | To/from Weymouth Signal DR194 -               |
+|                                                        |        |     |      | SW105C                                        |
+| Weymouth                                               |        | -   |      | Platform detail must be shown                 |
+| SW105A MILLBROOK TO SOUTHAMPTON WESTERN DOCKS          |        |     |      |                                               |
+| TIMING POINT                                           | DOWN   | UP  | CODE | NOTES                                         |
+| Millbrook                                              | -      | DFL | S  X | Timing point for trains to/from Millbrook     |
+|                                                        |        | DPL |      | FLT and Maritime Back Road                    |
+|                                                        |        |     |      | To/from Southampton Central – SW105           |
+| Millbrook Dock Entrance                                | -      |     | F    | Timing point for all freight trains entering  |
+|                                                        |        |     |      | Western Docks.                                |
+| Millbrook Dock Exit                                    |        | -   | F    | Timing point for all freight trains departing |
+|                                                        |        |     |      | Western Docks.                                |
+| Southampton Western Docks                              |        | -   |      |                                               |
+| SW105B WORGRET JUNCTION TO SWANAGE RAILWAY NR BOUNDARY |        |     |      |                                               |
+| TIMING POINT                                           | DOWN   | UP  | CODE | NOTES                                         |
+| Worgret Junction                                       | SINGLE | -   |      | Timing point for all trains to and from       |
+|                                                        |        |     |      | Furzebrook/Swanage Railway                    |
+|                                                        |        |     |      | To/from Wareham - SW105                       |
+| NR Boundary with Swanage                               |        |     |      |                                               |
+| Railway (126m 61ch)                                    |        |     |      |                                               |
+| SW105C WEYMOUTH JUNCTION TO WEYMOUTH SIGNAL DR194      |        |     |      |                                               |
+| TIMING POINT                                           | DOWN   | UP  | CODE | NOTES                                         |
+| Weymouth Junction                                      | -      | -   | X    | To/from Upwey - SW105                         |
+| Weymouth Signal DR194                                  |        | -   |      |                                               |

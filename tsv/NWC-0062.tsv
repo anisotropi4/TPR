@@ -1,0 +1,50 @@
+|                                                         |        |        |      |                                            |
+|:--------------------------------------------------------|:-------|:-------|:-----|:-------------------------------------------|
+| MD501 TAMWORTH (INCLUSIVE) TO BIRMINGHAM PROOF HOUSE JN |        |        |      |                                            |
+| TIMING POINT                                            | DOWN   | UP     | CODE | NOTES                                      |
+| Water Orton                                             | ML     | –      |      | Platform/track detail must be shown        |
+|                                                         |        |        |      | including DW for Down Whitacre             |
+| Water Orton West Jn                                     | – UDS  | –      | X    | To/from Park Lane Jn – MD560               |
+| Castle Bromwich Jn                                      | ML UDS | ML UDS |      | To/from Park Lane Jn – MD565               |
+|                                                         | DDG    | –      |      | Timing point can be omitted from a ‘150    |
+|                                                         |        |        |      | TIPLOC’ schedule                           |
+| Castle Bromwich Jaguar Sidings                          |        | –      | F    |                                            |
+| Bromford Bridge Jn                                      | UDS –  | ML     |      | Timing point for crossing moves and all    |
+|                                                         |        | UDS    |      | trains on the Up Derby Slow.               |
+|                                                         |        |        |      | To/from Castle Bromwich Jaguar Sidings     |
+|                                                         |        |        |      | To/from Washwood Heath Up Sidings          |
+| Washwood Heath Up Sidings                               |        |        | F    |                                            |
+| Washwood Heath East Jn                                  | – DDG  |        |      | Timing point for all trains on the Down    |
+|                                                         | DTS    |        |      | Derby Goods and to the Down Washwood       |
+|                                                         |        |        |      | Heath Through Siding                       |
+| Washwood Heath Middle Jn                                |        |        |      | To Down Washwood Heath Through             |
+|                                                         |        |        |      | Siding                                     |
+| Down Washwood Heath Through                             |        |        |      | For timing purposes this location is shown |
+| Siding                                                  |        |        |      | as Washwood Heath West Jn                  |
+| Washwood Heath West Jn                                  | ML UGL | ML UDS |      | Timing point for crossing moves and all    |
+|                                                         | UDS    | –      |      | trains on the Up Derby Slow, Down Derby    |
+|                                                         | DDG    |        |      | Goods and trains recessed on the Down      |
+|                                                         |        |        |      | Washwood Heath Through Siding              |
+|                                                         |        |        |      | To/from Washwood Heath Up Sidings          |
+| Up Washwood Heath Goods Loop                            | UGL    | UGL    | S    |                                            |
+| Duddeston Jn                                            | ML –   | ML DDG |      | Timing point for crossing moves and all    |
+|                                                         | DDG    | UDS    |      | trains on the Down Derby Goods             |
+|                                                         | UDS    | UGL    |      | To/from Lawley Street FLT                  |
+|                                                         | DSG    |        |      | To/From Saltley L.I.P                      |
+|                                                         |        |        |      | To/From Saltley E.M.R                      |
+| Lawley Street FLT                                       |        | –      | F    |                                            |
+| Lawley Street Aggregates                                |        | –      | F    | TIPLOC LWLYSAT                             |
+| Terminal                                                |        |        |      |                                            |
+| Saltley E.M.R Sidings                                   |        | DSG    | F    |                                            |
+| Saltley L.I.P                                           |        | –      | F    |                                            |
+| Landor Street Jn                                        | –      | ML DDG |      | To/from St. Andrew’s Jn – MD570            |
+| Grand Jn                                                | –      | –      |      | To/from Birmingham New Street – MD301      |
+|                                                         |        |        |      | (WL)                                       |
+|                                                         |        |        |      | To/from St. Andrew’s Jn – MD575            |
+|                                                         |        |        |      | Timing point can be omitted from a ‘150    |
+|                                                         |        |        |      | TIPLOC’ schedule                           |
+| Proof House Jn                                          |        | –      |      | To/from Birmingham New Street – MD301      |
+| MD545 KINGSBURY JN TO WHITACRE JN                       |        |        |      |                                            |
+| TIMING POINT                                            | DOWN   | UP     | CODE | NOTES                                      |
+| Kingsbury Jn                                            | –      | –      |      | To/from Tamworth – MD501                   |
+| Whitacre Jn                                             | –      | –      |      | To/from Coleshill Parkway – MD555          |

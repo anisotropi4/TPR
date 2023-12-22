@@ -1,0 +1,40 @@
+|                                                                                                                  |                                                |                     |
+|:-----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:--------------------|
+| Peterborough                                                                                                     |                                                |                     |
+| Platforms 4-7 and Two-Way Goods Line south end                                                                   |                                                |                     |
+| All conflicting margins 3 minutes where a passenger train is the first conflicting move and 4 minutes where a    |                                                |                     |
+| freight train is the first conflicting move; exceptions are listed below:                                        |                                                |                     |
+| First Movement                                                                                                   | Second Movement                                | Margin              |
+| Arrive Platform 4 from Down Fast/Down                                                                            | Depart or Pass Platform 5 to Nene Sidings      | 1                   |
+| Slow/Nene Sidings                                                                                                |                                                |                     |
+| Arrive Platform 4 from March Independent Line                                                                    | Depart or Pass Platform 5 to March             | 1                   |
+|                                                                                                                  | Independent Line                               |                     |
+| Arrive Platform 5 from Down Fast/Down                                                                            | Depart or Pass Platforms 4 towards             | 1                   |
+| Slow/Nene Sidings or March Independent Line                                                                      | Peterborough East Junction via Nene            |                     |
+|                                                                                                                  | Sidings or March Independent Line              |                     |
+| Arrive Platform 6 from Peterborough East                                                                         | Depart or Pass Platform 7 or Two-Way           | 1                   |
+| Junction via March Lines                                                                                         | Goods Line towards Peterborough East           |                     |
+|                                                                                                                  | Junction via Down March Line                   |                     |
+| Arrive Platform 6 from Up March Line                                                                             | Depart or Pass Platforms 4 or 5 towards        | 1                   |
+|                                                                                                                  | Peterborough East Junction via March           |                     |
+|                                                                                                                  | Independent Line                               |                     |
+| Arrive Platform 7 from Peterborough East                                                                         | Depart or Pass Two-Way Goods Line              | 1                   |
+| Junction via Down March Line                                                                                     | towards Peterborough East Junction             |                     |
+| Arrive Two-Way Goods Line from Peterborough                                                                      | Depart Platform 7 towards Peterborough         | 1                   |
+| East Junction via Down March Line                                                                                | East Junction via Down March Line              |                     |
+| Depart Platforms 4 or 5 to Nene Sidings                                                                          | Arrive into Platforms 4 or 5 from Nene         | AB – second         |
+|                                                                                                                  | Sidings                                        | train cannot        |
+|                                                                                                                  |                                                | depart Nene         |
+|                                                                                                                  |                                                | Sidings until first |
+|                                                                                                                  |                                                | train has arrived   |
+| Platforms 4-7 and Two-Way Goods Line north end                                                                   |                                                |                     |
+| All same direction conflict margins – 3 minutes                                                                  |                                                |                     |
+|                                                                                                                  |                                                |                     |
+| All opposite direction conflicting margins 4 minutes where a passenger train is the first conflicting move and 5 |                                                |                     |
+| minutes where a freight train is the first conflicting move; exceptions are listed below:                        |                                                |                     |
+| First Movement                                                                                                   | Second Movement                                | Margin              |
+| Down Fast Pass                                                                                                   | Any arrival into Platforms 4, 5 or 6 from Up   | 3                   |
+|                                                                                                                  | Fast or Up Slow                                |                     |
+| Down Fast Pass                                                                                                   | Conflicting freight depart Platforms 4, 5 or 6 | 2                   |
+| Arrive Platforms 4, 5, 6, 7 or Two-Way Goods                                                                     | Any conflicting departure from Platforms 4,    | 1                   |
+| Line from the north                                                                                              | 5, 6, 7 or Two-Way Goods Line to the north     |                     |

@@ -1,0 +1,30 @@
+|                 |          |        |       |
+|:----------------|:---------|:-------|:------|
+| STATION         | PLATFORM | USABLE | NOTES |
+|                 |          | LENGTH |       |
+| St. Albans City | 1        | 245    |       |
+| St. Albans City | 2        | 245    |       |
+| St. Albans City | 3        | 245    |       |
+| St. Albans City | 4        | 245    |       |
+| Stamford        | Down     | 92     |       |
+| Stamford        | Up       | 92     |       |
+| Sutton Parkway  | 1        | 80     |       |
+| Sutton Parkway  | 2        | 80     |       |
+| Syston          | Single   | 56     |       |
+| Thurgarton      | Down     | 70     |       |
+| Thurgarton      | Up       | 70     |       |
+| Tutbury         | Down     | 93     |       |
+| Tutbury         | Up       | 93     |       |
+| Uttoxeter       | 2 (Down) | 69     |       |
+| Uttoxeter       | 1 (Up)   | 77     |       |
+| Wellingborough  | 1        | 245    |       |
+| Wellingborough  | 2        | 245    |       |
+| Wellingborough  | 3        | 245    |       |
+| Wellingborough  | 4        | 245    |       |
+| West Hampstead  | 1        | 245    |       |
+| West Hampstead  | 2        | 245    |       |
+| West Hampstead  | 3        | 245    |       |
+| West Hampstead  | 4        | 245    |       |
+| Whatstandwell   | Single   | 69     |       |
+| Willington      | Down     | 81     |       |
+| Willington      | Up       | 81     |       |

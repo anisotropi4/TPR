@@ -1,0 +1,37 @@
+|                                               |                                               |        |
+|:----------------------------------------------|:----------------------------------------------|:-------|
+| Paisley Down Goods Loop                       |                                               |        |
+| Down arrive DGL                               | Down pass Arkleston Junction to Paisley       | 2      |
+|                                               | Gilmour Street Platform 4                     |        |
+| Down depart Paisley Gilmour Street Platform 4 | Depart DGL to Paisley Gilmour Street Platform | 2      |
+|                                               | 4                                             |        |
+| Down depart Paisley Gilmour Street Platform 2 | Depart DGL to Paisley Gilmour Street Platform | 2      |
+|                                               | 2                                             |        |
+| Down arrive Paisley Gilmour Street Platform 4 | Depart DGL to Paisley Gilmour Street Platform | 1      |
+|                                               | 2                                             |        |
+| Paisley Gilmour Street                        |                                               |        |
+| Adjustments to Sectional Running Times        |                                               |        |
+| Movement Down                                 | Reason                                        | Value  |
+| Down Train to Platform 2 from Down Ayr or Up  | Approach Control                              | 1      |
+| Ayr or Up Gourock                             |                                               |        |
+| Down Train to Platform 3 from Down Ayr or Up  | Approach Control                              | 1      |
+| Gourock                                       |                                               |        |
+| Adjustments to Sectional Running Times        |                                               |        |
+| Movement Up                                   | Reason                                        | Value  |
+| Up train stopping on Platform 4               | Slow Speed Running                            | 1      |
+| Junction Margins                              |                                               |        |
+| First Movement                                | Second Movement                               | Margin |
+| Down arrive/pass from Up or Down Ayr into     | Up Passenger pass Platform 3                  | 3      |
+| Platform 2                                    |                                               |        |
+| Down arrive/pass from Up or Down Ayr into     | Up Passenger depart Platform 3 to Down or Up  | 1      |
+| Platform 2                                    | Gourock                                       |        |
+| Down arrive/pass from Down Gourock into       | Up Passenger pass Platform 3 to Down or Up    | 3      |
+| Platform 2                                    | Gourock                                       |        |
+| Down arrive/pass from Down Gourock into       | Up Passenger depart Platform 3 to Down or Up  | 1      |
+| Platform 2                                    | Gourock                                       |        |
+| Up Passenger pass/depart Platform 3           | Down arrive Platform 2 from Down Ayr          | 31⁄2   |
+| Up Goods pass Platform 3                      | Down arrive Platform 2 from Down Ayr          | 4      |
+| Down arrive/pass Platform 2 from Down or Up   | Up Freight depart/pass Elderslie, going to Up | 1      |
+| Ayr                                           | Ayr, Down Gourock or Up Gourock               |        |
+| Down arrive/pass Platform 2 from Down         | Up Freight depart/pass Elderslie to Down      | 1      |
+| Gourock                                       | Gourock or Up Gourock                         |        |

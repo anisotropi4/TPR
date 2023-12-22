@@ -1,0 +1,43 @@
+|                                                                                                                 |                                                 |                |
+|:----------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:---------------|
+| Dore West Junction                                                                                              |                                                 |                |
+| Adjustments to Sectional Running Times                                                                          |                                                 |                |
+| Movement Down                                                                                                   | Reason                                          | Value          |
+| Pass from Dore & Totley station (having                                                                         | Acceleration                                    | 1⁄2 *          |
+| stopped there)                                                                                                  |                                                 |                |
+| Pass from Dore South Jn                                                                                         | Acceleration                                    | 11⁄2           |
+|                                                                                                                 |                                                 | Passenger*     |
+|                                                                                                                 |                                                 |                |
+|                                                                                                                 |                                                 | 1⁄2 Freight *  |
+| * Applies approaching next timing point                                                                         |                                                 |                |
+| Movement Up                                                                                                     | Reason                                          | Value          |
+| Pass towards Dore South Jn                                                                                      | Approach control                                | 11⁄2 Passenger |
+|                                                                                                                 |                                                 | 2 Freight      |
+| Junction Margins                                                                                                |                                                 |                |
+| First Movement                                                                                                  | Second Movement                                 | Margin         |
+| Pass from Dore Station Jn/Dore & Totley                                                                         | Pass to Dore South Jn                           | 2              |
+| Pass from Dore Station Jn/Dore & Totley                                                                         | Depart to Dore South Jn                         | 1              |
+| Pass from Dore South Jn                                                                                         | Pass to Dore South Jn                           | 3              |
+| Pass from Dore South Jn                                                                                         | Depart to Dore South Jn                         | 2              |
+| Pass/depart to Dore South Jn                                                                                    | Pass from Dore Station Jn (not stopping at Dore | 41⁄2           |
+|                                                                                                                 | & Totley)                                       |                |
+| Pass/depart to Dore South Jn                                                                                    | Pass from Dore & Totley (having stopped there)  | 31⁄2           |
+| Planning Note                                                                                                   |                                                 |                |
+| The standage at signal DE5117 (Dore West Jn) on the Dore Single is 560 metres / 87SLUs, clear of Dore South     |                                                 |                |
+| Jn. This does not include any standback allowance from the signal.                                              |                                                 |                |
+|                                                                                                                 |                                                 |                |
+| For regulating purposes, ARR and DEP times with activities A and * to be used and not any allowances for trains |                                                 |                |
+| which have been timed passing Dore South Junction.                                                              |                                                 |                |
+| Bamford Up Loop                                                                                                 |                                                 |                |
+| Junction Margins                                                                                                |                                                 |                |
+| First Movement                                                                                                  | Second Movement                                 | Margin         |
+| Passenger pass/depart Hathersage                                                                                | Freight depart Bamford Up Loop                  | 1              |
+| Freight pass Hathersage having departed                                                                         | Passenger pass/depart Bamford                   | 11⁄2           |
+| Bamford Up Loop                                                                                                 |                                                 |                |
+| LN826 DONCASTER SOUTH YORKSHIRE JUNCTION TO SWINTON                                                             |                                                 |                |
+| St James Junction                                                                                               |                                                 |                |
+| Junction Margins                                                                                                |                                                 |                |
+| First Movement                                                                                                  | Second Movement                                 | Margin         |
+| Pass to Hexthorpe Junction                                                                                      | Pass to Bridge Junction                         | 51⁄2           |
+| Hexthorpe Junction                                                                                              |                                                 |                |
+| Junction Margins                                                                                                |                                                 |                |

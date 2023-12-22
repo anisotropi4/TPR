@@ -1,0 +1,23 @@
+|                                                                                              |                             |           |
+|:---------------------------------------------------------------------------------------------|:----------------------------|:----------|
+| Brigg                                                                                        |                             |           |
+| Junction Margins                                                                             |                             |           |
+| First Movement                                                                               | Second Movement             | Margin    |
+| Arrive from Wrawby                                                                           | Depart to Wrawby            | 1         |
+| Kirton Lime Sidings                                                                          |                             |           |
+| Junction Margins                                                                             |                             |           |
+| First Movement                                                                               | Second Movement             | Margin    |
+| Pass from Northorpe                                                                          | Pass to Northorpe           | 3         |
+| Northorpe SB                                                                                 |                             |           |
+| Junction Margins                                                                             |                             |           |
+| First Movement                                                                               | Second Movement             | Margin    |
+| Arrive Loop from either direction                                                            | Pass ML                     | 6*        |
+| * May be reduced to 4 minutes if second train has 2 minutes pathing approaching Northorpe SB |                             |           |
+| Gainsborough Central                                                                         |                             |           |
+| Adjustment to Sectional Running Times                                                        |                             |           |
+| Movement Down                                                                                | Reason                      | Value     |
+| Depart Platform 2 in Down direction                                                          | Differential junction speed | 1⁄2       |
+| Junction Margins                                                                             |                             |           |
+| First Movement                                                                               | Second Movement             | Margin    |
+| Arrive from Single line                                                                      | Depart to Single line       | Same time |
+| Minimum Turnround                                                                            |                             |           |

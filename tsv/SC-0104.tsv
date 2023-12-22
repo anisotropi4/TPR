@@ -1,0 +1,31 @@
+|                                                                                                              |                                            |           |
+|:-------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:----------|
+| Glasgow Central Low Level                                                                                    |                                            |           |
+| Connectional Allowance                                                                                       | 15                                         |           |
+| Platform Re-occupation                                                                                       | 2 Down direction                           |           |
+| Junction Margin                                                                                              |                                            |           |
+| First Movement                                                                                               | Second Movement                            | Value     |
+| Up depart Argyle Street                                                                                      | Up depart Glasgow Central Low Level        | 1         |
+| Restriction                                                                                                  |                                            |           |
+| Diesel trains are not permitted to be timed to stop at this Station under any circumstances owing to Fire    |                                            |           |
+| Regulations.                                                                                                 |                                            |           |
+| General Note                                                                                                 |                                            |           |
+| Where trains require pathing allowances to achieve the required headway or the required re-occupation, it is |                                            |           |
+| preferable to increase dwell times rather than using pathing allowances.                                     |                                            |           |
+| Anderston                                                                                                    |                                            |           |
+| Platform Re-occupation                                                                                       | 2                                          |           |
+| Restriction                                                                                                  |                                            |           |
+| Diesel trains are not permitted to be timed to stop at this Station under any circumstances owing to Fire    |                                            |           |
+| Regulations.                                                                                                 |                                            |           |
+| Exhibition Centre                                                                                            |                                            |           |
+| Junction Margins                                                                                             |                                            |           |
+| First Movement                                                                                               | Second Movement                            | Margin    |
+| Down pass Finnieston East Junction not calling                                                               | Depart DRS                                 | Same time |
+| at Exhibition Centre                                                                                         |                                            |           |
+| Down arrive                                                                                                  | Depart DRS                                 | 1         |
+| Depart DRS                                                                                                   | Pass Finnieston West Junction towards      | 1         |
+|                                                                                                              | Anderston                                  |           |
+| Depart DRS                                                                                                   | Down arrive                                | 4         |
+| Depart DRS                                                                                                   | Pass Finnieston East Junction not stopping | 5         |
+|                                                                                                              | Exhibition Centre                          |           |
+| Platform Re-occupation                                                                                       | 21⁄2                                       |           |

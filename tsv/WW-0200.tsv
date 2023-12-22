@@ -1,0 +1,51 @@
+|                                                                                                                       |         |
+|:----------------------------------------------------------------------------------------------------------------------|:--------|
+| ""	"Working of trains from the Meldon Line, all freight trains returning from Meldon must stop at the boundary board  |         |
+| between Dartmoor Railway Co. and Network Rail for Rolling Stock Technician examination.  Examination takes 5          |         |
+| minutes and is included in the Meldon Quarry to Crediton sectional running time."                                     |         |
+| ""	Yeoford                                                                                                            |         |
+| ""                                                                                                                    |         |
+| ""	Dwell Time                                                                                                         |         |
+| ""	15x to 16x	1⁄2*                                                                                                    |         |
+| ""	* : Request Stop                                                                                                   |         |
+| ""	Copplestone                                                                                                        |         |
+| ""                                                                                                                    |         |
+| ""	Dwell Time                                                                                                         |         |
+| ""	15x to 16x	1⁄2                                                                                                     |         |
+| ""	Morchard Road                                                                                                      |         |
+| ""                                                                                                                    |         |
+| ""	Dwell Time                                                                                                         |         |
+| ""	15x to 16x	1⁄2*                                                                                                    |         |
+| ""	* : Request Stop                                                                                                   |         |
+| ""	Lapford                                                                                                            |         |
+| ""                                                                                                                    |         |
+| ""	Dwell Time                                                                                                         |         |
+| ""	15x to 16x	1⁄2*                                                                                                    |         |
+| ""	* : Request Stop                                                                                                   |         |
+| ""	Eggesford                                                                                                          |         |
+| ""                                                                                                                    |         |
+| ""	Dwell Time                                                                                                         |         |
+| ""	15x	2                                                                                                              |         |
+| ""	"If two trains are timed to cross at Eggesford, then the first train to arrive requires 3 minutes dwell to perform | station |
+| and Token duties. The second train to arrive requires 2 minutes for station and Token duties."                        |         |
+| ""                                                                                                                    |         |
+| ""	Platform end conflicts                                                                                             |         |
+| ""	First Movement	Second Movement		Margin	Reason                                                                      |         |
+| ""	1st train departs Eggesford	2nd train departs Eggesford		1 minute	"Calls to                                        |         |
+| signaller"                                                                                                            |         |
+| ""                                                                                                                    |         |
+| ""	Signalling Restriction                                                                                             |         |
+| ""	"Train movements and token operations at Eggesford are controlled remotely from Crediton S.B.  Due to signaller    |         |
+| workload considerations, the following moves cannot be made simultaneously:"                                          |         |
+| ""	First Movement	Second Movement	Margin                                                                              |         |
+| ""	"Down train departs or Up train                                                                                    |         |
+| arrives Crediton"	"Train departs Eggesford (either                                                                    |         |
+| direction)"	3                                                                                                         |         |
+| ""	"Train departs Eggesford (either                                                                                   |         |
+| direction)"	"Down train departs or Up train                                                                           |         |
+| arrives Crediton"	3                                                                                                   |         |
+| ""	Kings Nympton                                                                                                      |         |
+| ""                                                                                                                    |         |
+| ""	Dwell Time                                                                                                         |         |
+| ""	15x to 16x	1⁄2*                                                                                                    |         |
+| ""	* : Request Stop                                                                                                   |         |

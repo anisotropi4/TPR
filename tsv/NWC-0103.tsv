@@ -1,0 +1,46 @@
+|                                                               |      |       |      |                                            |
+|:--------------------------------------------------------------|:-----|:------|:-----|:-------------------------------------------|
+| NW6005 MANCHESTER VICTORIA EAST JN TO WINDSOR BRIDGE SOUTH JN |      |       |      |                                            |
+| TIMING POINT                                                  | DOWN | UP    | CODE | NOTES                                      |
+| Salford Central                                               | –    | –     |      | Platform detail must be shown              |
+| Salford West Jn                                               |      |       |      | To/from Salford Hope Street Sidings        |
+| Salford Hope Street Sidings                                   |      | –     | F    |                                            |
+| Windsor Bridge South Jn                                       |      |       |      | To/from Salford Crescent – NW6001          |
+| NW6007 DEAL ST JN TO ORDSALL LANE JN                          |      |       |      |                                            |
+| TIMING POINT                                                  | DOWN | UP    | CODE | NOTES                                      |
+| Deal Street Jn                                                | –    | FL SL |      | To/from Manchester Victoria – NW6005       |
+| Salford Central                                               | –    | –     |      | To/from Water Street Jn on Up Ordsall      |
+|                                                               |      |       |      | Chord – NW6004                             |
+| Irwell Street Jn                                              |      |       |      | To/from Water Street Jn on Down Ordsall    |
+|                                                               |      |       |      | Chord – NW6004                             |
+| Ordsall Lane Jn                                               | –    | –     |      | To/from Eccles – NW2015                    |
+|                                                               |      |       |      | To/from Salford Crescent – NW6001          |
+| NW6009 WINDSOR BRIDGE NORTH JN TO SOUTHPORT                   |      |       |      |                                            |
+| TIMING POINT                                                  | DOWN | UP    | CODE | NOTES                                      |
+| Windsor Bridge North Jn                                       |      |       |      | To/from Salford Crescent – NW6001          |
+| Swinton                                                       | –    | –     | S    |                                            |
+| Moorside                                                      | –    | –     | S    |                                            |
+| Walkden                                                       | –    | –     |      |                                            |
+| Atherton                                                      | –    | –     | S    |                                            |
+| Hag Fold                                                      | –    | –     | S    |                                            |
+| Daisy Hill                                                    | –    | –     | S    |                                            |
+| Crow Nest Jn                                                  | –    | –     |      | To/from Lostock Jn – NW6013                |
+| Hindley                                                       | –    | –     | S    |                                            |
+| Ince                                                          | –    | –     | S    |                                            |
+| Wigan Station Jn                                              | –    | –     | X    | Trains to/from WCML only – NW1001          |
+| Wigan Wallgate                                                | –    | –     |      | Platform detail must be shown              |
+| Wigan Wallgate Jn                                             |      |       |      | To/from Rainford – NW6015                  |
+| Wigan Wallgate Down Carriage                                  | –    | –     | S    |                                            |
+| Siding                                                        |      |       |      |                                            |
+| Gathurst                                                      | –    | –     | S    |                                            |
+| Appley Bridge                                                 | –    | –     | S    |                                            |
+| Parbold                                                       | –    | –     |      |                                            |
+| Hoscar                                                        | –    | –     | S    |                                            |
+| Burscough Bridge                                              | –    | –     |      |                                            |
+| New Lane                                                      | –    | –     | S    |                                            |
+| Bescar Lane                                                   | –    | –     | S    |                                            |
+| Meols Cop                                                     | –    | –     |      |                                            |
+| Southport                                                     |      | –     |      | Platform detail must be shown.  Non–       |
+|                                                               |      |       |      | electric services must not use Platforms 1 |
+|                                                               |      |       |      | and 2 and should normally use Platforms    |
+|                                                               |      |       |      | 4, 5 and 6 only                            |

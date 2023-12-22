@@ -1,0 +1,55 @@
+|                    |                         |        |                |
+|:-------------------|:------------------------|:-------|:---------------|
+| STATION            | PLATFORM AND LINE       | USABLE | NOTES          |
+|                    |                         | LENGTH |                |
+| Carshalton Beeches | 1 – Up                  | 167    |                |
+| Carshalton Beeches | 2 – Down                | 167    |                |
+| Caterham           | 1 – Up                  | 181    |                |
+| Caterham           | 2 – Down                | 181    |                |
+| Cheam              | 1 - Up Portsmouth       | 201    |                |
+| Cheam              | 2 - Down Portsmouth     | 202    |                |
+| Chichester         | 1 – Up                  | 240    |                |
+| Chichester         | 2 – Down                | 244    |                |
+| Chipstead          | 1 - Up Tattenham        | 117    |                |
+| Chipstead          | 2 - Down Tattenham      | 122    |                |
+| Christ’s Hospital  | 1 – Up                  | 152    |                |
+| Christ’s Hospital  | 2 – Down                | 152    |                |
+| Clapham Junction   | 12 - Up Fast            | 245    |                |
+| Clapham Junction   | 13 - Down Fast          | 253    |                |
+| Clapham Junction   | 14 - Up Slow            | 215    |                |
+| Clapham Junction   | 15 - Down Slow          | 174    |                |
+| Clapham Junction   | 16 - Down West London   | 171    | 8 cars         |
+| Clapham Junction   | 17 - Up West London     | 172    | 8 cars         |
+| Collington         | 1 - Up Bexhill          | 81     |                |
+| Collington         | 2 - Down Bexhill        | 80     |                |
+| Cooden Beach       | 1 - Up Bexhill          | 128    |                |
+| Cooden Beach       | 2 - Down Bexhill        | 128    |                |
+| Cooksbridge        | 1 - Up Lewes            | 180    |                |
+| Cooksbridge        | 2 - Down Lewes          | 132    |                |
+| Coulsdon South     | 1 - Up Redhill          | 246    |                |
+| Coulsdon South     | 2 - Down Redhill        | 246    |                |
+| Coulsdon Town      | 1 - Up Tattenham        | 161    |                |
+| Coulsdon Town      | 2 - Down Tattenham      | 161    |                |
+| Cowden             | Uckfield Single         | 238    | Down direction |
+| Cowden             | Uckfield Single         | 238    | Up direction   |
+| Crawley            | 1 - Up Horsham          | 249    |                |
+| Crawley            | 2 - Down Horsham        | 249    |                |
+| Crowborough        | 1 – Up                  | 237    |                |
+| Crowborough        | 2 – Down                | 237    |                |
+| Crystal Palace     | 1 - Up Crystal Palace   | 202    |                |
+| Crystal Palace     | 2 - Down Crystal Palace | 206    |                |
+| Crystal Palace     | 3 – Down Bay            | 163    |                |
+| Crystal Palace     | 4 – Down Sydenham Spur  | 219    |                |
+| Crystal Palace     | 5 -  Up Bay             | 178    |                |
+| Crystal Palace     | 6 – Up  Sydenham Spur   | 199    |                |
+| Dalston Junction   | 1                       | 132    |                |
+| Dalston Junction   | 2                       | 106    |                |
+| Dalston Junction   | 3                       | 106    |                |
+| Dalston Junction   | 4                       | 111    |                |
+| Doleham            | - Single                | 40     | Down direction |
+| Doleham            | - Single                | 40     | Up direction   |
+| Dorking            | 1 - Up Portsmouth       | 242    |                |
+| Dorking            | 2 - Down Portsmouth     | 245    | Down direction |
+| Dorking            | 2 - Down Portsmouth     | 245    | Up direction   |
+| Dorking            | 3 - Down Passenger Loop | 244    | Down direction |
+| Dorking            | 3 - Down Passenger Loop | 244    | Up direction   |

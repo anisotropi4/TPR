@@ -1,0 +1,46 @@
+|                  |            |           |                                                      |
+|:-----------------|:-----------|:----------|:-----------------------------------------------------|
+| STATION          | PLATFORM   | USABLE    | NOTES                                                |
+|                  |            | LENGTH    |                                                      |
+|                  |            | In metres |                                                      |
+| Barnstaple       | Single     | 220       | Top of Ramp to stop blocks                           |
+| Barry            | 1          | 222       |                                                      |
+| Barry            | 2          | 138       |                                                      |
+| Barry            | 3          | 138       |                                                      |
+| Barry Docks      | Down       | 148       |                                                      |
+| Barry Docks      | Up         | 148       |                                                      |
+| Barry Island     | 1 Single   | 102       |                                                      |
+| Bath Spa         | 1          | 197       |                                                      |
+| Bath Spa         | 2          | 282       |                                                      |
+| Bedminster ML    | 1          | 104       |                                                      |
+| Bedminster ML    | 2          | 93        |                                                      |
+| Bedminster RL    | Down       | 71        | Not in passenger use                                 |
+| Bedminster RL    | 3          | 93        |                                                      |
+| Bedwyn           | 1          | 121       |                                                      |
+| Bedwyn           | 2          | 123       |                                                      |
+| Bere Alston      | Single     | 99        |                                                      |
+| Bere Ferrers     | Single     | 114       |                                                      |
+| Birchgrove       | Single     | 65        |                                                      |
+| Bodmin Parkway   | 1          | 198       |                                                      |
+| Bodmin Parkway   | 2          | 180       |                                                      |
+| Bodmin Parkway   | Bay        | 87        | Operated by the Bodmin & Wenford Steam               |
+|                  |            |           | Railway.                                             |
+| Borth            | Single     | 122       |                                                      |
+| Bourne End       | Down       | 67        | Top of ramp to drivers yellow stop line              |
+| Bourne End       | Down       | 67        | Points for Marlow Branch to drivers yellow stop line |
+| Bourne End       | Down       | 47        | Mirror to drivers yellow stop line                   |
+| Bourne End       | Up         | 125       | Top of ramp to drivers yellow stop line              |
+| Bradford-on-Avon | 1          | 120       |                                                      |
+| Bradford-on-Avon | 2          | 120       |                                                      |
+| Bridgend         | 1 (Down)   | 255       |                                                      |
+| Bridgend         | 1A (VoG    | 88        |                                                      |
+|                  | Bay)       |           |                                                      |
+| Bridgend         | 2 (Up)     | 255       |                                                      |
+| Bridgend         | 3 (Maesteg | 60        |                                                      |
+|                  | Bay)       |           |                                                      |
+| Bridgwater       | 1          | 198       |                                                      |
+| Bridgwater       | 2          | 198       |                                                      |
+| Bristol Parkway  | 1 (Down)   | 280       |                                                      |
+| Bristol Parkway  | 2 (Down)   | 280       |                                                      |
+| Bristol Parkway  | 3 (Up)     | 280       |                                                      |
+| Bristol Parkway  | 4 (Up)     | 280       |                                                      |

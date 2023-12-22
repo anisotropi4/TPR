@@ -1,0 +1,9 @@
+|                 |                 |                       |                      |                         |                       |
+|:----------------|:----------------|:----------------------|:---------------------|:------------------------|:----------------------|
+|                 |                 | Measured Value (secs) | Current Dwell (secs) | Cumulative Value (secs) | Proposed Dwell (secs) |
+|                 | Station Dwell A | 61                    | 60                   | 1                       | 60                    |
+| Station Dwell B | 38              | 30                    | 9                    | 30                      |                       |
+| Station Dwell C | 28              | 30                    | 7                    | 30                      |                       |
+| Station Dwell D | 31              | 30                    | 8                    | 30                      |                       |
+| Station Dwell E | 32              | 30                    | 10                   | 30                      |                       |
+| Station Dwell F | 36              | 30                    | 16                   | 60                      |                       |

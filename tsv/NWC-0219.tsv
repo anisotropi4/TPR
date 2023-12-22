@@ -1,0 +1,36 @@
+|                                                                                                                    |                                     |        |
+|:-------------------------------------------------------------------------------------------------------------------|:------------------------------------|:-------|
+| Portobello Jn                                                                                                      |                                     |        |
+| Movement Up                                                                                                        | Reason                              | Value  |
+| Trains that have passed from Wolverhampton on Up Heath Town towards Darlaston Jn (applies approaching next         |                                     |        |
+| timing point)                                                                                                      |                                     |        |
+| Class 6 up to 800t (inclusive)                                                                                     | Acceleration from lower speed route | 1⁄2    |
+| Class 6 1000t (inclusive) to 1200t (inclusive)                                                                     | Acceleration from lower speed route | 1      |
+| Class 6 above 1400t (inclusive)                                                                                    | Acceleration from lower speed route | 11⁄2   |
+| Class 4 up to 800t                                                                                                 | Acceleration from lower speed route | 1⁄2    |
+| Class 4 1000t (inclusive) to 1200t (inclusive)                                                                     | Acceleration from lower speed route | 1      |
+| Class 4 above 1400t (inclusive)                                                                                    | Acceleration from lower speed route | 11⁄2   |
+| All other timing loads                                                                                             | Acceleration from lower speed route | 1⁄2    |
+| MD325 SOHO SOUTH JN TO PERRY BARR NORTH JN (SOHO LINES)                                                            |                                     |        |
+| Soho South Jn                                                                                                      |                                     |        |
+| See entry under route MD301 Rugby Trent Valley Jn to Penkridge (via Birmingham)                                    |                                     |        |
+| Soho East Jn                                                                                                       |                                     |        |
+| Junction Margins                                                                                                   |                                     |        |
+| First Movement                                                                                                     | Second Movement                     | Margin |
+| Up Trains to Soho North Jn                                                                                         | Down Trains from Soho South Jn      | 3      |
+| Perry Barr West Jn                                                                                                 |                                     |        |
+| Junction Margins                                                                                                   |                                     |        |
+| First Movement                                                                                                     | Second Movement                     | Margin |
+| Down Soho to Perry Barr South Jn                                                                                   | Up Soho from Perry Barr North Jn    | 4      |
+| Restriction                                                                                                        |                                     |        |
+| There is limited standage between Perry Barr North and Perry Barr West Junctions on the Up Soho line.              |                                     |        |
+| Consequently, it is not possible to stand a train in excess of 34 SLUs/218 metres in length at NS279 signal, Perry |                                     |        |
+| Barr West Jn.  This means that before a train in excess of 34 SLUs in length can depart Perry Barr North Jn        |                                     |        |
+| towards Soho, the route must be available through to Soho East Jn.                                                 |                                     |        |
+|                                                                                                                    |                                     |        |
+| If the route is not available, a train from the Bescot direction in excess of 34 SLUs will stand at NS272 at Perry |                                     |        |
+| Barr North Jn on the Up Grand line.  Therefore, when timing a train in excess of 34 SLUs in length from Bescot or  |                                     |        |
+| beyond through Perry Barr North and West Junctions towards Soho you must be aware of movements through             |                                     |        |
+| Perry West Jn and plan accordingly so as to avoid problems at Perry Barr North Jn                                  |                                     |        |
+| Perry Barr North Jn                                                                                                |                                     |        |
+| See entry under route MD320 Proof House Jn to Bushbury Jn (via Bescot)                                             |                                     |        |

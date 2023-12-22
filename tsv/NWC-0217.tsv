@@ -1,0 +1,13 @@
+|                                             |                                              |        |
+|:--------------------------------------------|:---------------------------------------------|:-------|
+| Aston                                       |                                              |        |
+| Junction Margins                            |                                              |        |
+| First Movement                              | Second Movement                              | Margin |
+| Train passes Aston from Stechford towards   | Train passes Aston towards Proof House Jn    | 3      |
+| Perry Barr North Jn                         |                                              |        |
+| Train passes Aston from Stechford towards   | Train arrives or passes Aston from Proof     | 3      |
+| Perry Barr North Jn                         | House Jn towards Four Oaks                   |        |
+| Train departs or passes Aston towards Proof | Train arrives or passes Aston from Stechford | 31⁄2   |
+| House Jn                                    | towards Perry Barr North Jn                  |        |
+| Train passes Aston from Perry Barr North Jn | Train departs Aston towards Four Oaks        | 2      |
+| towards Stechford                           |                                              |        |

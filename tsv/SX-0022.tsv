@@ -1,0 +1,56 @@
+|                                                 |       |     |      |                                              |
+|:------------------------------------------------|:------|:----|:-----|:---------------------------------------------|
+| SO250 FACTORY JUNCTION TO MITRE BRIDGE JUNCTION |       |     |      |                                              |
+| TIMING POINT                                    | DOWN  | UP  | CODE | NOTES                                        |
+| Factory Junction                                | -     | -   |      | To/from Voltaire Road Junction – Refer to    |
+|                                                 |       |     |      | Kent Timetable Planning Rules - SO110        |
+|                                                 |       |     |      | and SO645                                    |
+|                                                 |       |     |      | To/from Stewarts Lane Junction - SO250A      |
+| Longhedge Junction                              | -     | -   |      | To/from Pouparts Junction - SO250C           |
+|                                                 | DKL   | RVL |      | To/from Stewarts Lane Junction - SO250B      |
+|                                                 |       |     |      | To/from Clapham Junction (Windsor Side)      |
+|                                                 |       |     |      | - Refer to Wessex Timetable Planning         |
+|                                                 |       |     |      | Rules - SW100D                               |
+| Latchmere Junction                              | DWL   | UWL |      | For ITPS purposes Latchmere Junction No      |
+| (incorporating No 1, No 2 and                   | UWL   | DWL |      | 2 to be taken as the measuring point.        |
+| No 3)                                           |       | UKL |      | To/from West London Junction or Clapham      |
+|                                                 |       | DKL |      | Junction (Windsor                            |
+|                                                 |       | ULC |      | Side) - Refer to Wessex Timetable            |
+|                                                 |       | DLC |      | Planning Rules – SW100C                      |
+|                                                 |       | URV |      | To/from Clapham Junction (Sussex Side) -     |
+|                                                 |       | DRV |      | Refer to SO250D                              |
+| Imperial Wharf                                  | DWL   | UWL | S    |                                              |
+|                                                 | UWL   | DWL |      |                                              |
+| West Brompton                                   | DWL   | UWL |      |                                              |
+|                                                 | UWL   | DWL |      |                                              |
+| Kensington (Olympia)                            | DWL   | UWL |      | Platform detail must be shown                |
+|                                                 | UWL   | DWL |      |                                              |
+| Shepherds Bush                                  | DWL   | UWL |      |                                              |
+|                                                 | UWL   | DWL |      |                                              |
+| North Pole Signal TVC813                        | DWL   |     | S    | DC to AC Changeover point on Down            |
+|                                                 | UWL   |     |      | West London                                  |
+| North Pole Signal TVC815                        | DWL   |     | S    |                                              |
+|                                                 | UWL   |     |      |                                              |
+| North Pole Junction                             | DWL   | UWL |      | Timing point for all Freight Trains, through |
+|                                                 | UWL   | DWL |      | ARL services (passenger and ECS) and         |
+|                                                 |       |     |      | for trains travelling to/from North Pole     |
+|                                                 |       |     |      | Turnback Siding.                             |
+| North Pole (Scrubs Lane) TBS                    |       | -   | S    | Timing point for all trains into and out of  |
+|                                                 |       |     |      | Siding                                       |
+|                                                 |       |     |      | TIPLOC NPLETB                                |
+| North Pole Signal TVC816                        |       | UWL |      | Timing point for trains terminating at       |
+|                                                 |       | DWL |      | Shepherds Bush Platform 2 (Down              |
+|                                                 |       |     |      | Platform) and returning to Platform 1 (Up    |
+|                                                 |       |     |      | Platform)                                    |
+| North Pole Signal TVC818                        |       | UWL | S    | AC to DC Changeover point on Up West         |
+|                                                 |       | DWL |      | London                                       |
+| Mitre Bridge Junction                           | - REV | UWL |      | Regional boundary timing point               |
+|                                                 |       | DWL |      | To/from Willesden West London Jn –           |
+|                                                 |       |     |      | Refer to North West & Central Timetable      |
+|                                                 |       |     |      | Planning Rules – MD166                       |
+|                                                 |       |     |      | To/from Willesden South West Sidings via     |
+|                                                 |       |     |      | the REV – Refer to North West & Central      |
+|                                                 |       |     |      | Timetable Planning Rules – MD167             |
+|                                                 |       |     |      | To/from Willesden Junction High Level –      |
+|                                                 |       |     |      | Refer to North West & Central Timetable      |
+|                                                 |       |     |      | Planning Rules – MD160                       |

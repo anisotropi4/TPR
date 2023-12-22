@@ -1,0 +1,46 @@
+|                                                                           |                                                |                   |                                          |
+|:--------------------------------------------------------------------------|:-----------------------------------------------|:------------------|:-----------------------------------------|
+| Eastleigh                                                                 |                                                |                   |                                          |
+| Between all movements except as below                                     |                                                | 3                 |                                          |
+| Passenger train arrives/passes Eastleigh                                  | Conflicting departure                          | 1                 |                                          |
+| Down or Up Main Line train                                                | Train crossing from Romsey Line                | 2                 |                                          |
+| Down Fast train                                                           | Up departure from Platform 2 or 3 to Up Fast   | 1                 |                                          |
+|                                                                           | Line                                           |                   |                                          |
+| Up arrival in Platform 3                                                  | Departure towards Portsmouth from Platform 2   | 2                 |                                          |
+| Down arrival from Eastleigh East Junction into                            | Movements at the east end of Station           | 4                 |                                          |
+| Jubilee through siding (via points 440) or Up                             |                                                |                   |                                          |
+| departure from Jubilee through siding (via                                |                                                |                   |                                          |
+| points 440) to Eastleigh East Junction                                    |                                                |                   |                                          |
+| Up Train departing Platform 2/3 towards                                   | Down arrival from Winchester into Platform 2/3 | 9                 |                                          |
+| Eastleigh East Yard on Down Slow                                          | from Down Slow                                 |                   |                                          |
+| Down freight passes/departs platform 2/3                                  | Conflicting down train passes/arrives at       | 4*                |                                          |
+| towards St. Denys                                                         | Eastleigh                                      |                   |                                          |
+| Down freight passes/departs Platform 2/3                                  | Up train arrives at Platform 2/3               | 41⁄2*             |                                          |
+| towards St. Denys                                                         |                                                |                   |                                          |
+| Up freight departs Platform 1                                             | Up train arrives or passes Platform 1          | 4*                |                                          |
+| Up freight departs Platform 1 towards Shawford                            | Train arrives or passes from Chandlers Ford    | 41⁄2*             |                                          |
+| Down passenger train passes/departs Platform                              | Conflicting Down train departs Eastleigh East  | 2                 |                                          |
+| 2/3 towards St. Denys                                                     | Yard towards Platform 2/3                      |                   |                                          |
+| Down freight passes/departs Platform 2/3                                  | Conflicting Down train departs Eastleigh East  | 3*                |                                          |
+| towards St. Denys                                                         | Yard towards Platform 2/3                      |                   |                                          |
+| Down train passes/departs Platform 2/3                                    | Conflicting Down train departs Eastleigh East  | 2                 |                                          |
+| towards Eastleigh South Junction/Eastleigh                                | Yard towards Platform 2/3                      |                   |                                          |
+| TMD/Eastleigh Works                                                       |                                                |                   |                                          |
+| Down train arrives at Platform 2 from Down                                | Down train departs Eastleigh East Yard towards | 1                 |                                          |
+| Slow                                                                      | Platform 3                                     |                   |                                          |
+| Down train arrives at Platform 3                                          | Down train departs Eastleigh East Yard towards | 1                 |                                          |
+|                                                                           | Platform 2                                     |                   |                                          |
+| Train departs Platform 2/3 towards Up                                     | Conflicting Down train departs Eastleigh East  | 2                 |                                          |
+| Fast/Down Salisbury                                                       | Yard towards Platform 2/3                      |                   |                                          |
+| Train passes/departs Platform 2/3 towards                                 | Up train departs Platform 1 towards Shawford   | 2                 |                                          |
+| Down Salisbury                                                            |                                                |                   |                                          |
+| * Increase margin by 1⁄2 minute if first train longer than 97 SLU / 620m. |                                                |                   |                                          |
+| Limit of Shunt                                                            |                                                |                   |                                          |
+|                                                                           | Length Limit                                   |                   |                                          |
+| Up Platform (clear of E93)                                                | 12 cars / 10  444                              |                   |                                          |
+| Permissive Working                                                        |                                                |                   |                                          |
+| Attaching/Detaching and Platform Sharing is authorised as shown below -   |                                                |                   |                                          |
+| Platform 1                                                                | Up Slow                                        |                   | Prohibited                               |
+| Platform 2                                                                | Down Slow                                      | (Both Directions) | Attaching/Detaching and Platform Sharing |
+| Platform 3                                                                | Portsmouth Loop                                | (Both Directions) | Attaching/Detaching and Platform Sharing |
+| Overlap Restrictions                                                      |                                                |                   |                                          |

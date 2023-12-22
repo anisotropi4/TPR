@@ -1,0 +1,55 @@
+|                  |                           |        |                                     |
+|:-----------------|:--------------------------|:-------|:------------------------------------|
+| STATION          | PLATFORM                  | USABLE | NOTES                               |
+|                  |                           | LENGTH |                                     |
+| Robertsbridge    | 1 - Up Hastings           | 166    |                                     |
+| Robertsbridge    | 2 - Down Hastings         | 186    |                                     |
+| Rochester        | 1 - Up Main               | 250    |                                     |
+| Rochester        | 2 –Down Main              | 253    |                                     |
+| Rochester        | 3 - Down Passenger Loop   | 253    | Trains permitted for platform       |
+|                  |                           |        | sharing during times of significant |
+|                  |                           |        | service interruption                |
+| Sandling         | 1 - Up Main               | 183    | Down direction                      |
+| Sandling         | 1 - Up Main               | 183    | Up direction                        |
+| Sandling         | 2 - Down Main             | 183    | Down direction                      |
+| Sandling         | 2 - Down Main             | 183    | Up direction                        |
+| Sandwich         | 1 – Up                    | 247    |                                     |
+| Sandwich         | 2 – Down                  | 250    |                                     |
+| Selling          | 1 - Up Main               | 155    |                                     |
+| Selling          | 2 - Down Main             | 164    |                                     |
+| Sevenoaks        | 1 - Up Main               | 266    |                                     |
+| Sevenoaks        | 2 - Up Loop               | 265    | Down direction                      |
+| Sevenoaks        | 2 - Up Loop               | 265    | Up direction                        |
+| Sevenoaks        | 3 - Down Main             | 264    | Down direction                      |
+| Sevenoaks        | 3 - Down Main             | 264    | Up direction                        |
+| Sevenoaks        | 4 - Down Loop             | 263    | Down direction                      |
+| Sevenoaks        | 4 - Down Loop             | 263    | Up direction                        |
+| Sheerness on Sea | 1                         | 244    |                                     |
+| Sheerness on Sea | 2                         | 167    |                                     |
+| Shepherds Well   | 1 - Up Main               | 167    |                                     |
+| Shepherds Well   | 2 - Down Main             | 174    |                                     |
+| Shoreham         | 1 - Up Maidstone          | 162    |                                     |
+| Shoreham         | 2 - Down Maidstone        | 163    |                                     |
+| Shortlands       | 1 - Up Chatham Fast       | 185    |                                     |
+| Shortlands       | 2 - Down Chatham Fast     | 184    |                                     |
+| Shortlands       | 3 - Up Chatham Slow       | 183    |                                     |
+| Shortlands       | 4 - Down Chatham Slow     | 184    |                                     |
+| Sidcup           | 1 - Up Dartford Loop      | 285    |                                     |
+| Sidcup           | 2 - Down Dartford Loop    | 285    |                                     |
+| Sittingbourne    | 1 - Up Main               | 246    |                                     |
+| Sittingbourne    | 2 - Down Main             | 247    |                                     |
+| Sittingbourne    | 3 - Down Passenger Loop   | 241    | Trains can reverse in the platform  |
+| Slade Green      | 1 - Up North Kent         | 241    |                                     |
+| Slade Green      | 2 - Down North Kent       | 241    |                                     |
+| Snodland         | 1 - Up Maidstone Branch   | 144    |                                     |
+| Snodland         | 2 - Down Maidstone Branch | 122    |                                     |
+| Snowdown         | 1 - Up Main               | 167    |                                     |
+| Snowdown         | 2 - Down Main             | 167    |                                     |
+| Sole Street      | 1 - Up Chatham Main       | 168    |                                     |
+| Sole Street      | 2 - Down Chatham Main     | 178    |                                     |
+| St Johns         | 1 - Up Slow               | 319    |                                     |
+| St Johns         | 2 - Down Slow             | 320    |                                     |
+| St Mary Cray     | 1 - Up Chatham Fast       | 244    |                                     |
+| St Mary Cray     | 2 - Down Chatham Fast     | 244    |                                     |
+| St Mary Cray     | 3 - Up Chatham Slow       | 244    |                                     |
+| St Mary Cray     | 4 - Down Chatham Slow     | 243    |                                     |

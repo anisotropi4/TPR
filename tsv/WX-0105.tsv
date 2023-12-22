@@ -1,0 +1,47 @@
+|                                                                              |                                              |              |
+|:-----------------------------------------------------------------------------|:---------------------------------------------|:-------------|
+| Millbrook                                                                    |                                              |              |
+|                                                                              |                                              | Length Limit |
+| Up Main (clear of Shunt Signal E946)                                         | 146m                                         | 4 cars/5 444 |
+| Planning Restriction                                                         |                                              |              |
+| Pathing time must not be used between Millbrook and Church Lane Junction     |                                              |              |
+| Millbrook Signal E941                                                        |                                              |              |
+| Run Round Allowance                                                          |                                              |              |
+| Minimum run round time is 30 minutes.                                        |                                              |              |
+| Millbrook FLT                                                                |                                              |              |
+| Freight Restriction                                                          |                                              |              |
+| Maximum train length that can be accommodated is 84 SLU including locomotive |                                              |              |
+| Church Lane Junction                                                         |                                              |              |
+| Adjustment to Sectional Running Times                                        |                                              |              |
+| Movements                                                                    | Reason                                       | Value        |
+| Up trains from Redbridge (via Main Line) to                                  | Slow speed yard entry and approach control   | {1}          |
+| Millbrook FLT                                                                |                                              |              |
+| Down trains from Down Slow to Redbridge                                      | Speed differential and approach control      | {1}          |
+| Goods                                                                        |                                              |              |
+| Down trains from Down Fast to Redbridge                                      | Speed differential and approach control      | {1⁄2}        |
+| Goods                                                                        |                                              |              |
+| Down trains from Millbrook FLT to Redbridge                                  | Speed differential                           | {4}*         |
+| Up trains from Redbridge Goods to Up Fast/Up                                 | Speed differential                           | {11⁄2}*^     |
+| Slow                                                                         |                                              |              |
+| Up trains direct from Maritime FLT to Up                                     | Speed differential                           | {3}*#        |
+| Fast/Up Slow                                                                 |                                              |              |
+| Up trains direct from Maritime FLT to Down                                   | Speed differential                           | {11⁄2}*$     |
+| Fast                                                                         |                                              |              |
+| * Applies approaching next timing point                                      |                                              |              |
+| ^ Increase to {2} for freight longer than 97 SLU / 620m.                     |                                              |              |
+| # Increase to {41⁄2} for freight longer than 97 SLU / 620m.                  |                                              |              |
+| $ Increase to {3} for freight longer than 97 SLU / 620m.                     |                                              |              |
+| Junction Margins                                                             |                                              |              |
+| First Movement                                                               | Second Movement                              | Margin       |
+| Down train passes towards Redbridge                                          | Up train departs from Maritime East Junction | 1            |
+|                                                                              | Signal E756/E758                             |              |
+| Up train passes towards Southampton                                          | Up train departs from Maritime East Junction | 2*$          |
+|                                                                              | Signal E756/E758                             |              |
+| Up freight from Redbridge Goods to Up                                        | Down train towards Redbridge                 | 41⁄2 £^      |
+| Fast/Up Slow                                                                 |                                              |              |
+| Up freight direct from Maritime FLT to Up                                    | Down train towards Redbridge                 | 51⁄2 £#      |
+| Fast/Up Slow                                                                 |                                              |              |
+| Up freight direct from Maritime FLT to Up                                    | Down train towards Redbridge which has       | 41⁄2#        |
+| Fast/Up Slow                                                                 | stopped at Millbrook                         |              |
+| Up freight from Redbridge Goods to Up                                        | Up train passes Church Lane Junction from    | 51⁄2*^       |
+| Fast/Up Slow                                                                 | Redbridge                                    |              |

@@ -1,0 +1,35 @@
+|                                                                     |                                               |        |
+|:--------------------------------------------------------------------|:----------------------------------------------|:-------|
+| EMU - 8 car (from Paddington)                                       | 5^                                            |        |
+| EMU - 4 car (from Paddington)                                       | 4                                             |        |
+| * units up to 3-cars may be reduced to 3 minutes, if not sequential |                                               |        |
+| ^ may be reduced to 4, if a relief driver is diagrammed             |                                               |        |
+| Junction Margins                                                    |                                               |        |
+| First Movement                                                      | Second Movement                               | Margin |
+| Up Depart Platform 4 or 5                                           | Down Arrive Platform 4 or 5 from Southall     | 4      |
+| Up Depart Platform 4 or 5                                           | Down depart Up Goods Loop                     | 2      |
+| Up Pass Airport Jn on RL (not stopping Hayes                        | Down depart Up Goods Loop                     | 2      |
+| and Harlington)                                                     |                                               |        |
+| Up non-stopping EMU passes Heathrow Airport                         | Down ML non-stopping EMU passes Heathrow      | 4      |
+| Jn or up stopping EMU departs Hayes and                             | Airport Jn or down stopping service arrives   |        |
+| Harlington via Hayes East ML crossover                              | Hayes and Harlington                          |        |
+| Up non-stopping EMU passes Heathrow Airport                         | Down ML non -stopping service passes          | 31⁄2   |
+| Jn or up stopping EMU departs Hayes and                             | Heathrow Airport Jn towards Slough            |        |
+| Harlington via Hayes East ML crossover                              |                                               |        |
+| Down train arrive platform 5                                        | Up stopping train arrive platform 4           | 21⁄2   |
+| Down train arrive platform 5                                        | Up non-stop train on RL pass Heathrow Airport | 2      |
+|                                                                     | Jn                                            |        |
+| Up freight to Hayes Tarmac Terminal                                 | Up stopping train arrive platform 4           | 51⁄2   |
+| pass/depart platform 4                                              |                                               |        |
+| Up freight to Hayes Tarmac Terminal                                 | Up non-stop train on RL pass Heathrow Airport | 5      |
+| pass/depart platform 4                                              | Jn                                            |        |
+| Up train to Hayes Goods Loop pass/depart                            | Up stopping train arrive platform 4           | 4      |
+| platform 4                                                          |                                               |        |
+| Up train to Hayes Goods Loop pass/depart                            | Up non-stop train on RL pass Heathrow Airport | 31⁄2   |
+| platform 4                                                          | Jn                                            |        |
+| Down train from Hayes Goods Loop or Hayes                           | Up stopping train arrive Platform 4           | 4      |
+| Tarmac Terminal pass/depart                                         |                                               |        |
+| Down train from Hayes Goods Loop or Hayes                           | Up non-stop train on RL pass Heathrow Airport | 31⁄2   |
+| Tarmac Terminal pass/depart                                         | Jn                                            |        |
+| Planning Note                                                       |                                               |        |
+| Hayes Tarmac Sidings can accommodate only one train at a time.      |                                               |        |

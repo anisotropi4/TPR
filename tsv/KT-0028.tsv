@@ -1,0 +1,49 @@
+|                                                                |        |        |      |                                             |
+|:---------------------------------------------------------------|:-------|:-------|:-----|:--------------------------------------------|
+| SO110 LONDON VICTORIA TO RAMSGATE (VIA HERNE HILL AND CHATHAM) |        |        |      |                                             |
+| TIMING POINT                                                   | DOWN   | UP     | CODE | NOTES                                       |
+| Sittingbourne Eastern Junction                                 | -      | -      |      | To/from Sittingbourne Middle Junction -     |
+|                                                                |        |        |      | SO150A                                      |
+| Sittingbourne                                                  | -      | -      |      | Platform detail must be shown               |
+| Sittingbourne Down Goods Loop                                  | -      | -      |      |                                             |
+| Teynham                                                        | -      | -      | S    |                                             |
+| Faversham                                                      | -      | -      |      | Platform detail must be shown               |
+|                                                                |        |        |      | To/from Canterbury East - SO160             |
+| Faversham Down Reception                                       |        |        | S    | Timing point for trains to/from the Down    |
+|                                                                |        |        |      | Sidings or Faversham Station                |
+| Faversham Back Road                                            |        |        | S    | Timing point for trains between Faversham   |
+|                                                                |        |        |      | Station and Faversham Up Sidings            |
+| Faversham Up Sidings                                           |        |        | S    | Timing point for trains to/from Faversham   |
+|                                                                |        |        |      | Station or Back Road                        |
+|                                                                |        |        |      | Siding numbers must be shown                |
+| Whitstable                                                     | -      | -      | S    |                                             |
+| Chestfield and Swalecliffe                                     | -      | -      | S    |                                             |
+| Herne Bay                                                      | -      | -      |      | Platform detail must be shown               |
+| Birchington on Sea                                             | -      | -      | S    |                                             |
+| Westgate on Sea                                                | -      | -      | S    |                                             |
+| Margate                                                        | -      | -      |      | Platform detail must be shown               |
+| Broadstairs                                                    | -      | -      | S    |                                             |
+| Dumpton Park                                                   | -      | -      | S    |                                             |
+| Ramsgate Depot Exit Margate                                    | -      | -      | S    | Timing point for trains to/from Ramsgate    |
+| End                                                            |        |        |      | Depot, TIPLOC RAMMKEX                       |
+|                                                                |        |        |      | Relates to signals EK5160, EK 5162 and      |
+|                                                                |        |        |      | EK5164 at the Margate end exit of           |
+|                                                                |        |        |      | Ramsgate Depot                              |
+| Ramsgate Depot                                                 | -      | -      | S    | Timing point for ECS moves to/from Depot    |
+|                                                                |        |        |      | TIPLOC RAMSGTD                              |
+|                                                                |        |        |      | Controlled by a depot signaller             |
+| Ramsgate Depot Exit Minster End                                | -      | -      | S    | Timing point for trains to/from Ramsgate    |
+|                                                                |        |        |      | Depot, TIPLOC RAMMIEX                       |
+|                                                                |        |        |      | Relates to signals EK4974 and EK4976 at     |
+|                                                                |        |        |      | the Minster end exit of Ramsgate Depot      |
+| Ramsgate New Sidings                                           |        |        | S    | Timing point for trains to/from the Up West |
+|                                                                |        |        |      | Sidings                                     |
+| Ramsgate                                                       | -      | -      |      | Platform detail must be shown               |
+|                                                                |        |        |      | To/from Minster East Junction - SO220       |
+| SO110A BICKLEY JUNCTION TO PETTS WOOD JUNCTION                 |        |        |      |                                             |
+| TIMING POINT                                                   | DOWN   | UP     | CODE | NOTES                                       |
+| Bickley Junction                                               | DFV    | FL  SL |      | To/from Bickley - SO110                     |
+|                                                                | DSV    |        |      |                                             |
+| Hawkwood Junction                                              |        |        |      | On Down Slow Tonbridge Loop Only            |
+| Petts Wood Junction                                            | FL  SL | UFV    |      | To/from Petts Wood – SO130                  |
+|                                                                |        | USV    |      |                                             |

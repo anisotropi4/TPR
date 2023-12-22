@@ -1,0 +1,42 @@
+|                             |      |    |      |                                             |
+|:----------------------------|:-----|:---|:-----|:--------------------------------------------|
+| SO550 REDHILL TO TONBRIDGE  |      |    |      |                                             |
+| TIMING POINT                | DOWN | UP | CODE | NOTES                                       |
+| Redhill                     | -    | SL |      | Platform detail (includes DML and UML)      |
+|                             |      |    |      | must be shown                               |
+|                             |      |    |      | To/from Stoats Nest Junction - SO500        |
+|                             |      |    |      | To/from Earlswood – SO500                   |
+|                             |      |    |      | To/from Reigate - SO560                     |
+| Redhill Signal 1316         | -    | -  |      | Shunt signal available for ECS movements    |
+|                             |      |    |      | and into the Up Tonbridge Goods Loop        |
+|                             |      |    |      | Use TIPLOC REDH316                          |
+| Redhill LHS                 |      | -  |      | Hand Points set by the driver between       |
+|                             |      |    |      | roads                                       |
+| Redhill Up Tonbridge Siding |      | -  | S    | TIPLOC REDHUGL. Timing point for trains     |
+|                             |      |    |      | to and from the siding.                     |
+| Redhill Signal 1336         | -    | -  |      | Shunt signal available for ECS movements    |
+|                             |      |    |      | and into the Up Tonbridge Goods Loop        |
+|                             |      |    |      | Use TIPLOC REDH336                          |
+| Nutfield                    | -    | -  | S    |                                             |
+| Godstone Ground Frame       | -    | -  |      | Access controlled by FOC shunter and        |
+|                             |      |    |      | groundframe operator                        |
+|                             |      |    |      | Use TIPLOC GODSTGF                          |
+| Godstone                    | -    | -  |      |                                             |
+| Edenbridge Ground Frame     | -    | -  | S    | Access controlled by FOC shunter and        |
+|                             |      |    |      | groundframe operator                        |
+|                             |      |    |      | Use TIPLOC EDNBGF                           |
+| Edenbridge                  | -    | -  |      |                                             |
+| Penshurst                   | -    | -  | S    |                                             |
+| Leigh                       | -    | -  | S    |                                             |
+| Tonbridge West Yard         | -    | -  | S    | Access controlled by FOC shunter            |
+|                             |      |    |      | TIPLOC TONBDWG (GBRf)                       |
+|                             |      |    |      | TIPLOC TONBDWY                              |
+| Tonbridge Signal 525        |      |    | S    |                                             |
+| Tonbridge Jubilee Sidings   |      |    |      | Timing point for trains to and from Jubilee |
+|                             |      |    |      | Sidings. Siding numbers to be shown.        |
+|                             |      |    |      | Access controlled by TOC shunter            |
+| Tonbridge                   | -    | -  |      | Platform detail must be shown               |
+|                             |      |    |      | To/from Paddock Wood - Refer to Kent        |
+|                             |      |    |      | Timetable Planning Rules - SO130            |
+|                             |      |    |      | To/from Tunbridge Wells - Refer to Kent     |
+|                             |      |    |      | Timetable Planning Rules - SO170            |

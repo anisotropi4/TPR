@@ -1,0 +1,61 @@
+|              |            |            |                     |              |        |       |       |                   |                |          |             |     |
+|:-------------|:-----------|:-----------|:--------------------|:-------------|:-------|:------|:------|:------------------|:---------------|:---------|:------------|:----|
+| Name         | Frequency  | Start Date | Weeks Run In        | Route        | TID    | Day   | Dep   | From              | To             | Arr.     | Model Train | TOC |
+| Name         | Frequency  | Start Date | Weeks Run In        | Route        | TID    | Day   | Dep   | From              | To             | Arr.     | Model Train | TOC |
+| PLP111       | 4 - weekly | 06/01/2024 | 41, 44, 48, 52, 04, | Derby RTC -  | 1Q34GB | Su    | 10.22 | DERBY             | HULL           | 12.01    | HST7-125    | RG  |
+|              |            |            | 08, 12, 16, 20, 24, | Derby -      |        |       |       | R.T.C.(NETWORK    |                |          |             |     |
+|              |            |            | 28, 32 & 36         | Doncaster -  |        |       |       | RAIL)             |                |          |             |     |
+|              |            |            |                     | Hull -       |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Newcastle -  |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Heaton       |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Depot        |        |       |       |                   |                |          |             |     |
+|              |            | 06/01/2024 | 41, 44, 48, 52, 04, | 1Q35GC       | Su     | 12.25 | HULL  | HEATON            | 15.09          | HST7-125 | RG          |     |
+|              |            |            | 08, 12, 16, 20, 24, |              |        |       |       | T&R.S.M.D.        |                |          |             |     |
+|              |            |            | 28, 32 & 36         |              |        |       |       |                   |                |          |             |     |
+| PLP113       | 4 - weekly | 01/01/2024 | 41, 44, 48, 52, 04, | Newcastle -  | 1Q37GB | MO    | 17.59 | NEWCASTLE         | DERBY          | 22.51    | HST7-125    | RG  |
+| B            |            |            | 08, 12, 16, 20, 24, | Sunderland - |        |       |       |                   | R.T.C.(NETWORK |          |             |     |
+|              |            |            | 28, 32 & 36         | York - S and |        |       |       |                   | RAIL)          |          |             |     |
+|              |            |            |                     | K - Sheet    |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Stores -     |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Derby RTC    |        |       |       |                   |                |          |             |     |
+| PLP223       | 4 - weekly | 18/12/2023 | 38, 42, 46, 50, 02, | Derby RTC -  | 1Q41FA | MO    | 13.11 | DERBY             | CREWE C.S.     | 04OP     | LD75        | RG  |
+|              |            |            | 06, 10, 14, 22, 26, | Peak Forest  |        |       |       | R.T.C.(NETWORK    | (L&NWR SITE)   | 38       |             |     |
+|              |            |            | 30 & 34             | - Wrexham    |        |       |       | RAIL)             |                |          |             |     |
+|              |            |            |                     | and Wirral   |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Lines -      |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Crewe        |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | LNWR         |        |       |       |                   |                |          |             |     |
+| PLP224       | 4 - weekly | 19/12/2023 | 38, 42, 46, 50, 02, | Crewe        | 1Q42FA | TO    | 18.45 | CREWE C.S. (L&NWR | CREWE C.S.     | 07.30    | LD75        | RG  |
+|              |            |            | 06, 10, 14, 22, 26, | LNWR -       |        |       |       | SITE)             | (L&NWR SITE)   |          |             |     |
+|              |            |            | 30 & 34             | Warrington   |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | and Mersey   |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | North        |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Electrics -  |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | Crewe        |        |       |       |                   |                |          |             |     |
+|              |            |            |                     | LNWR         |        |       |       |                   |                |          |             |     |
+| Name         |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Name         |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Frequency    |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Frequency    |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Start Date   |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Start Date   |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Weeks Run In |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Weeks Run In |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Route        |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Route        |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| TID          |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| TID          |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Day          |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Day          |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Dep          |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Dep          |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| From         |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| From         |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| To           |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| To           |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Arr.         |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Arr.         |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Model Train  |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| Model Train  |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| TOC          |            |            |                     |              |        |       |       |                   |                |          |             |     |
+| TOC          |            |            |                     |              |        |       |       |                   |                |          |             |     |

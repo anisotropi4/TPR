@@ -1,0 +1,19 @@
+|                                              |                                          |             |                   |
+|:---------------------------------------------|:-----------------------------------------|:------------|:------------------|
+| Train on Up Main or Up Relief that has       | Acceleration                             | All freight | {5} approaching   |
+| departed Didcot Yard                         |                                          |             | next timing point |
+| Pass to platform 4 or 5 at Didcot from ML or | Approach Control                         | All         | {11⁄2}            |
+| RL                                           |                                          |             |                   |
+| Crossing and conflicting moves               |                                          |             |                   |
+| First Movement                               | Second Movement                          | Margin      |                   |
+| A down train crossing from the down main     | An up main service from the direction of | 2           |                   |
+| to down relief or down avoider passes        | Wantage Road passes Didcot Parkway       |             |                   |
+| Didcot East Jn                               |                                          |             |                   |
+| A down train crossing from the down main     | An up main service from the direction of | 1           |                   |
+| to down relief or down avoider passes        | Wantage Road departs Didcot Parkway      |             |                   |
+| Didcot East Jn                               |                                          |             |                   |
+| A down train crossing from the down relief   | A down train from the down relief passes | 3           |                   |
+| to the down avoider                          | Didcot East Jn                           |             |                   |
+| Up Relief to Up Main line services having    | Down Relief line services to down Didcot | 41⁄2        |                   |
+| stopped at Didcot Parkway                    | Avoiding line                            |             |                   |
+| Signalling Limitations                       |                                          |             |                   |

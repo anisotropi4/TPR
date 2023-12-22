@@ -1,0 +1,53 @@
+|                                         |          |         |      |                                                 |
+|:----------------------------------------|:---------|:--------|:-----|:------------------------------------------------|
+| EA1380 FENCHURCH STREET TO SHOEBURYNESS |          |         |      |                                                 |
+| TIMING POINT                            | DOWN     | UP      | CODE | NOTES                                           |
+| Fenchurch Street                        | FL  SL   | -       |      | Platform detail must be shown.                  |
+|                                         |          |         |      | Running line code must be shown                 |
+| Christian Street Junction               | -        | FL  SL  |      | Running line code must be shown in Up           |
+|                                         |          |         |      | direction                                       |
+| Limehouse                               | -        | -       | S    |                                                 |
+| Gas Factory Loop                        | -        | -       | S X  | All trains using Loop                           |
+| Gas Factory Junction                    | -        | -       |      | To/from Bow Junction – EA1400                   |
+| West Ham                                | - DX     | -       |      | Line code DX to be used for trains which are    |
+|                                         |          |         |      | routed to Barking Platforms 7 and 8 via East    |
+|                                         |          |         |      | Ham Depot Country End Junction and Signals      |
+|                                         |          |         |      | 519 and 907                                     |
+| East Ham EMUD                           | - DX     | -       | S    | Only trains to/from EMUD.                       |
+|                                         |          |         |      | Line code DX to be used for trains which are    |
+|                                         |          |         |      | routed to Barking Platforms 7 and 8 via Signals |
+|                                         |          |         |      | 519 and 907                                     |
+| Barking                                 | - ML DCL | -       |      | Platform detail must be shown.                  |
+|                                         | UCL      |         |      | Line code to be shown in Down direction for     |
+|                                         |          |         |      | freight trains towards Ripple Lane/Dagenham     |
+|                                         |          |         |      | Dock.                                           |
+|                                         |          |         |      | Line codes DCL and UCL to be used for           |
+|                                         |          |         |      | shunting moves onto the connecting lines to     |
+|                                         |          |         |      | Barking Upney Junction                          |
+| Barking Upney Junction                  | -        | DCL UCL | S X  | Line codes DCL and UCL to be used for           |
+|                                         |          |         |      | shunting moves on the connecting lines to       |
+|                                         |          |         |      | Barking                                         |
+| Upminster                               | -        | -       |      | Platform detail must be shown for trains which  |
+|                                         |          |         |      | use other than normal routes.                   |
+|                                         |          |         |      | To/from Ockendon – EA1410                       |
+| West Horndon                            | -        | -       | S    |                                                 |
+| Laindon                                 | -        | -       |      | Platform detail must be shown for trains which  |
+|                                         |          |         |      | use other than normal routes and for trains     |
+|                                         |          |         |      | using Reversing Line (Middle Road)              |
+| Basildon                                | -        | -       | S    |                                                 |
+| Pitsea                                  | -        | -       |      | Platform detail must be shown                   |
+| Pitsea Junction                         |          |         |      | To/from Grays – EA1390                          |
+| Benfleet                                | -        | -       | S    |                                                 |
+| Leigh-on-Sea                            | -        | -       |      | Platform detail must be shown for all trains    |
+|                                         |          |         |      | which use other than normal routes and for      |
+|                                         |          |         |      | trains using Reversing Line (Middle Road)       |
+| Chalkwell                               | -        | -       | S    |                                                 |
+| Westcliff-on-Sea                        | -        | -       | S    |                                                 |
+| Southend Central                        | -        | -       |      | Platform detail must be shown                   |
+| Southend East                           | -        | -       | S    |                                                 |
+| Thorpe Bay                              | -        | -       | S    | Platform detail must be shown                   |
+| Shoeburyness Depot                      | -        | -       |      |                                                 |
+| London End Junction                     |          |         |      |                                                 |
+| Shoeburyness CSD                        | -        | -       | S    | Only trains to/from CSD                         |
+| Shoeburyness MOD                        | -        | -       | F    |                                                 |
+| Shoeburyness                            | -        | -       |      | Platform detail must be shown                   |

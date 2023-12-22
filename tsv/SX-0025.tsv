@@ -1,0 +1,58 @@
+|                                   |        |         |      |                                             |
+|:----------------------------------|:-------|:--------|:-----|:--------------------------------------------|
+| SO500 LONDON VICTORIA TO BRIGHTON |        |         |      |                                             |
+| TIMING POINT                      | DOWN   | UP      | CODE | NOTES                                       |
+| Streatham Common                  | SL     | SL      |      | Timing point for Slow Lines only.           |
+|                                   |        |         |      | Platform detail must be shown (SL)          |
+|                                   |        |         |      | To/from Streatham Junction - SO680D         |
+| Norbury                           | FL  SL | FL  SL  | S    |                                             |
+| Thornton Heath                    | FL  SL | FL  SL  | S    |                                             |
+| Selhurst Shunt Signal 1051        | SL     | SL      | S    | USE TIPLOC SELH051                          |
+| Selhurst                          | FL  SL | FL  SL  |      | Platform detail must be shown               |
+| Selhurst Junction                 |        |         |      | To/from Gloucester Road Junction -          |
+|                                   |        |         |      | SO500A                                      |
+| Selhurst Depot Departure Road     | SL     | SL      |      | Use TIPLOC SLHRT68                          |
+| Signal T68                        |        |         |      |                                             |
+| Selhurst Depot Arrival Road       | SL     | SL      |      | Use TIPLOC SLHRT76                          |
+| Signal T76                        |        |         |      |                                             |
+| Selhurst Depot Field Sidings      | -      |         |      | Use TIPLOC SLHRSTF                          |
+|                                   |        |         |      | Siding detail must be shown (S1, S2 or S3)  |
+| Selhurst T&R.S.M.D.               |        | SL      |      | ECS moves only                              |
+|                                   |        |         |      | Controlled by a depot signaller             |
+| Cottage Junction                  |        |         |      | For planning purposes this timing point is  |
+|                                   |        |         |      | shown as Windmill Bridge Junction           |
+|                                   |        |         |      | To/from Norwood Junction - SO510B           |
+| Windmill Bridge Shunt Signal      | SL RVF |         |      | Use TIPLOC WNDM068                          |
+| T1068                             |        |         |      |                                             |
+| Windmill Bridge Junction          | FL  SL | FL  SL  |      | To/from Norwood Junction - SO510B           |
+|                                   | RVF    |         |      |                                             |
+| East Croydon Signal 1065          | RVS    | FL      |      | Shunt Signal 1065 available                 |
+|                                   |        | RVF     |      | Use TIPLOC ECRO065                          |
+| East Croydon Signal 1067          | SL     | SL      |      | Shunt Signal 1067 available                 |
+|                                   |        |         |      | Use TIPLOC ECRO067                          |
+| East Croydon                      | FL  SL | FL  SL  |      | Platform detail must be shown               |
+|                                   | RVS    | RVF     |      |                                             |
+| East Croydon Up Siding            |        | FL      |      | Shunt Signal 1070 available                 |
+|                                   |        |         |      | Use TIPLOC ECROUS                           |
+|                                   |        |         |      | Hand points set by the driver between the   |
+|                                   |        |         |      | two roads                                   |
+| East Croydon 1080                 | RVS    |         |      | Shunt signal 1080 available                 |
+|                                   | SL     |         |      | Use TIPLOC ECRO080                          |
+| East Croydon 1082                 |        | -       |      | For ECS moves to shunt between              |
+|                                   |        |         |      | platforms at the country end of the station |
+|                                   |        |         |      | TIPLOC: ECRO082                             |
+| South Croydon                     | FL  SL | SL  RVS |      | Timing point for Slow Lines only. Platform  |
+|                                   |        |         |      | detail must be shown                        |
+| South Croydon Junction            |        |         |      | For planning purposes, timing point shown   |
+|                                   |        |         |      | as South Croydon.                           |
+|                                   |        |         |      | To/from Sanderstead - SO530                 |
+| Purley Oaks                       | FL  SL | FL  SL  | S    |                                             |
+| Purley Up Slow Line Signal T1093  | SL FL  | SL      |      | Shunt Signal available                      |
+|                                   |        |         |      | Use TIPLOC PURLUSL                          |
+| Purley Up Fast Line Signal T1091  |        | SL FL   |      | Shunt Signal available                      |
+|                                   |        |         |      | Use TIPLOC PURL091                          |
+| Purley Foster Yeoman              |        |         | F    | Signal T1097 available                      |
+|                                   |        |         |      | Use TIPLOC PURLSDG                          |
+|                                   |        |         |      | Access controlled by FOC shunter            |
+| Purley                            | FL  SL | FL  SL  |      | Platform detail must be shown.              |
+|                                   |        |         |      | To/from Chipstead Line Junction - SO660     |

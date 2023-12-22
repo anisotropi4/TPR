@@ -1,0 +1,45 @@
+|                                                                                                |         |       |      |                                             |
+|:-----------------------------------------------------------------------------------------------|:--------|:------|:-----|:--------------------------------------------|
+| NW7005 CASTLETON EAST JN TO HOPWOOD G. F.                                                      |         |       |      |                                             |
+| TIMING POINT                                                                                   | DOWN    | UP    | CODE | NOTES                                       |
+| Castleton East Jn                                                                              | –       |       |      | Single line from Castleton East Jn to/from  |
+|                                                                                                |         |       |      | Hopwood Ground Frame                        |
+|                                                                                                |         |       |      | To/from Rochdale – NW7001                   |
+| Castleton North Jn                                                                             | –       | –     |      | To Castleton South Jn – NW7001              |
+| Network Rail/East Lancashire                                                                   |         |       |      | 9 miles 4 chains                            |
+| Railway Boundary                                                                               |         |       |      |                                             |
+| Hopwood Ground Frame                                                                           |         | –     |      | See Section 5.3 for specific rules          |
+|                                                                                                |         |       |      | applicable to trains to/from this location  |
+| Note: beyond Hopwood Ground Frame the line is under the control of the East Lancashire Railway |         |       |      |                                             |
+| NW7006 TODMORDEN TO STANSFIELD HALL JN (TODMORDEN WEST CURVE)                                  |         |       |      |                                             |
+| TIMING POINT                                                                                   | DOWN    | UP    | CODE | NOTES                                       |
+| Todmorden                                                                                      | –       | –     |      | To/from Littleborough – NW7001              |
+| Todmorden Viaduct Jn                                                                           |         |       |      |                                             |
+| Stansfield Hall Jn                                                                             | –       | –     |      | To/from Copy Pit – NW7009                   |
+| NW7007 FARINGTON CURVE JN TO ORMSKIRK                                                          |         |       |      |                                             |
+| TIMING POINT                                                                                   | DOWN    | UP    | CODE | NOTES                                       |
+| Farington Curve Jn                                                                             | –       | SL    |      | Single line from Farington Curve Jn to/from |
+|                                                                                                |         |       |      | Rufford                                     |
+|                                                                                                |         |       |      | To/from Preston Ribble Jn – NW1001          |
+| Croston                                                                                        | –       | –     | S    |                                             |
+| Rufford                                                                                        | –       | –     |      | Single line from Rufford to/from Ormskirk   |
+|                                                                                                |         |       |      | Passing Loop. Show ‘t’ for non–stop trains  |
+| Burscough Jn                                                                                   | –       | –     | S    |                                             |
+| Ormskirk                                                                                       |         | –     |      | No physical connection to line to Sandhills |
+| NW7009 FARINGTON CURVE JN TO HALL ROYD JN (EAST LANCS LINE)                                    |         |       |      |                                             |
+| TIMING POINT                                                                                   | DOWN    | UP    | CODE | NOTES                                       |
+| Farington Curve Jn                                                                             | –       | SL    |      | To/from Preston Ribble Jn – NW1001          |
+| Lostock Hall                                                                                   | –       | –     | S    |                                             |
+| Lostock Hall Jn                                                                                | –       | –     |      | To/from Farington Jn – NW7011               |
+| Bamber Bridge                                                                                  | –       | –     | S    |                                             |
+| Pleasington                                                                                    | –       | –     | S    |                                             |
+| Cherry Tree                                                                                    | –       | –     | S    |                                             |
+| Mill Hill                                                                                      | –       | –     | S    |                                             |
+| Blackburn Taylor Street                                                                        | KSS     | –     | X    | To/from King Street Siding                  |
+| Blackburn King Street Depot                                                                    | –       |       | S    | TIPLOC BLKBKST                              |
+| Blackburn Bolton Jn                                                                            | –       | – KSS | X    | To/from King Street Siding                  |
+|                                                                                                |         |       |      | To/from Blackburn King Street Depot         |
+|                                                                                                |         |       |      | To/from Blackburn Station Holding Sidings   |
+| Blackburn Station Holding Sidings                                                              | –       | –     | S    | TIPLOC BLKBSHS                              |
+| Blackburn                                                                                      | DEL UEL | –     |      | Platform detail must be shown               |
+|                                                                                                |         |       |      | To/from Darwen – NW6011                     |

@@ -1,0 +1,49 @@
+|                                                    |      |    |      |                                                     |
+|:---------------------------------------------------|:-----|:---|:-----|:----------------------------------------------------|
+| SO600 WILLINGDON JUNCTION TO ASHFORD INTERNATIONAL |      |    |      |                                                     |
+| TIMING POINT                                       | DOWN | UP | CODE | NOTES                                               |
+| Willingdon Junction                                | -    | -  |      | To/from Hampden Park - SO590                        |
+| Pevensey and Westham                               | -    | -  |      |                                                     |
+| Pevensey Bay                                       | -    | -  | S    |                                                     |
+| Normans Bay                                        | -    | -  | S    |                                                     |
+| Cooden Beach                                       | -    | -  | S    |                                                     |
+| Collington                                         | -    | -  | S    |                                                     |
+| Bexhill                                            | -    | -  |      | Platform detail must be shown                       |
+| St Leonards Signal BJ42                            | -    | -  |      | TIPLOC STLN42                                       |
+|                                                    |      |    |      | For ECS moves from St Leonards Railway              |
+|                                                    |      |    |      | Engineering or St Leonards Shunt Neck heading       |
+|                                                    |      |    |      | towards Bexhill                                     |
+| St Leonards CWM/CET Road                           | -    | -  |      | TIPLOC STLNCET                                      |
+|                                                    |      |    |      | Timing point for ECS moves routed via the           |
+|                                                    |      |    |      | Carriage Washer Road                                |
+| St Leonards Shunt Neck                             | -    |    |      | Timing point for ECS moves to the Carriage          |
+|                                                    |      |    |      | Servicing Depot                                     |
+| St Leonards Railway Engineering                    |      |    |      | ECS or light engine moves only                      |
+| St Leonards West Marina Carriage                   | -    |    |      | ECS moves only                                      |
+| Servicing Depot (CSD)                              |      |    |      | Access controlled by TOC shunter                    |
+| Bopeep Junction                                    | -    | -  |      | To/from West St Leonards - Refer to Kent            |
+|                                                    |      |    |      | Timetable Planning Rules - SO170                    |
+| St Leonards Warrior Square                         | -    | -  |      | Platform detail must be shown                       |
+| Hastings                                           | -    | -  |      | To/from Ore - Platform detail must be shown         |
+|                                                    |      |    |      | To/from Bopeep Junction                             |
+| Hastings Park Sidings                              |      |    |      | Timing point for trains into and out of the Sidings |
+|                                                    |      |    |      | Use TIPLOC HASTPSD                                  |
+|                                                    |      |    |      | Access controlled by station shunter                |
+| Hastings Signal EDL70                              | -    | -  | S    |                                                     |
+| Hastings Goods Sidings                             | -    | -  | S    |                                                     |
+| Ore                                                | -    | -  |      | Platform detail must be shown                       |
+| Ore Sidings                                        | -    | -  |      | Stabling not allowed – turnback moves only          |
+|                                                    |      |    |      | Use TIPLOC OREESDG                                  |
+| Three Oaks                                         | -    | -  | S    |                                                     |
+| Doleham                                            | -    | -  | S    |                                                     |
+| Winchelsea                                         | -    | -  | S    |                                                     |
+| Rye                                                | -    | -  |      | Passing Point                                       |
+| Appledore                                          | -    | -  |      | To/from Lydd Town                                   |
+| Ham Street                                         | -    | -  | S    |                                                     |
+| Ashford International                              | -    | -  |      | Platform detail must be shown                       |
+|                                                    |      |    |      | TIPLOC ASHFKY is used for trains on platforms       |
+|                                                    |      |    |      | 1, 2, 5 & 6 and the through lines                   |
+|                                                    |      |    |      | TIPLOC ASHFKI is used for trains on platforms       |
+|                                                    |      |    |      | 3 and 4 only                                        |
+|                                                    |      |    |      | To/from Charing - SO140                             |
+|                                                    |      |    |      | To/from Wye - SO220                                 |

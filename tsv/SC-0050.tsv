@@ -1,0 +1,54 @@
+|                                           |      |    |      |                                         |
+|:------------------------------------------|:-----|:---|:-----|:----------------------------------------|
+| SC191 DUNDEE CENTRAL JUNCTION TO ABERDEEN |      |    |      |                                         |
+| TIMING POINT                              | DOWN | UP | CODE | NOTES                                   |
+| Carnoustie                                | –    | –  |      | Platform detail must be shown           |
+|                                           |      |    |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Arbroath Up South Siding                  | –    | –  | S    |                                         |
+| Arbroath                                  | –    | –  |      | Platform detail must be shown           |
+| Arbroath Up North Siding                  | –    | –  | S    |                                         |
+| Inverkeilor                               | –    | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Usan                                      | –    | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Montrose South                            | –    | –  | S    | Reversal location only                  |
+| Montrose DBC                              | –    | –  | F    |                                         |
+| Montrose No1 Through Siding               | –    | –  | S    |                                         |
+| Montrose                                  | –    | –  |      | Platform detail must be shown           |
+| Craigo                                    | –    | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Laurencekirk                              | –    | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Laurencekirk URS                          | –    | –  | F    |                                         |
+| Laurencekirk DRS                          | –    | –  | F    |                                         |
+| Carmont                                   | –    | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Stonehaven                                | –    | –  |      |                                         |
+| Newtonhill A223                           | –    |    |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Newtonhill A222                           |      | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Portlethen                                | –    | –  | S    |                                         |
+| Aberdeen A229                             | –    |    |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Aberdeen A230                             |      | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Aberdeen A55                              | –    |    |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Aberdeen A56                              |      | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Craiginches South                         | –    | –  |      |                                         |
+| Craiginches T.C.                          | –    | –  | F    |                                         |
+| Craiginches North Sidings                 | –    | –  |      |                                         |
+| Aberdeen Craiginches Lafarge              | –    | –  | F    |                                         |
+| Aberdeen Ferryhill Down Sidings           | -    |    |      |                                         |
+| Ferryhill Junction                        | –    | –  |      | Timing point can be omitted from a ‘150 |
+|                                           |      |    |      | TIPLOC’ schedule                        |
+| Aberdeen Ferryhill Up Sidings             | –    | –  | F    |                                         |
+| Signal A27                                | –    | –  | S    | Reversal location only                  |
+| Signal A75                                | –    |    | S    | Reversal location only                  |
+| Signal A77                                | –    |    | S    | Reversal location only                  |
+| Aberdeen Clayhills CMD                    | –    | –  | S    |                                         |
+| Aberdeen                                  | –    | –  |      | Platform detail must be shown           |
+|                                           |      |    |      | To/from Dyce – SC195                    |

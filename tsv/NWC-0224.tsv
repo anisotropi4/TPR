@@ -1,0 +1,29 @@
+|                                                 |                                          |        |
+|:------------------------------------------------|:-----------------------------------------|:-------|
+| Aynho Jn                                        |                                          |        |
+| Adjustments to Sectional Running Times          |                                          |        |
+| Movement Down                                   | Reason                                   | Value  |
+| Train running bi-directionally on Up Bicester   | Differential Junction speed and approach | 1      |
+|                                                 | control                                  |        |
+| Movement Up                                     | Reason                                   | Value  |
+| Train running bi-directionally on Down Bicester | Differential Junction speed and approach | 1      |
+|                                                 | control                                  |        |
+| Train to Up Goods Loop                          | Differential junction speed and approach | 11⁄2   |
+|                                                 | control                                  |        |
+| Kings Sutton                                    |                                          |        |
+| Dwell Time                                      |                                          |        |
+| 165/166                                         | 1⁄2                                      |        |
+| All except 165/166                              | 45 Seconds                               |        |
+| Banbury Depot Jn                                |                                          |        |
+| Adjustments to Sectional Running Times          |                                          |        |
+| Movement Down                                   | Reason                                   | Value  |
+| All movements to Platform 1                     | Slow speed crossover                     | 1⁄2    |
+| All movements to Platform 3                     | Approach control/slow speed crossovers   | 1      |
+| All movements to Platform 4                     | Approach control/slow speed crossovers   | 1⁄2    |
+| Junction Margins                                |                                          |        |
+| First Movement                                  | Second Movement                          | Margin |
+| Depart/Pass Banbury Depot Reception Road to     | Pass on Down Cherwell Valley             | 4      |
+| Up Cherwell Valley                              |                                          |        |
+| Pass on Down Cherwell Valley                    | Depart/Pass Banbury Depot Reception Road | 2      |
+|                                                 | to Up Cherwell Valley                    |        |
+| Planning Restriction                            |                                          |        |

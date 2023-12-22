@@ -1,0 +1,42 @@
+|                                                                                                                  |                             |                      |
+|:-----------------------------------------------------------------------------------------------------------------|:----------------------------|:---------------------|
+| Toton Centre                                                                                                     |                             |                      |
+| Pass to Down Fast from Meadow Lane Jn                                                                            | Differential junction speed | 1⁄2 approaching      |
+|                                                                                                                  |                             | 1 approaching next   |
+|                                                                                                                  |                             | timing point         |
+| Movement Up                                                                                                      | Reason                      | Value                |
+| Cross from Up Fast to Up Slow                                                                                    | Differential junction speed | 1 approaching        |
+|                                                                                                                  |                             | 1⁄2 approaching next |
+|                                                                                                                  |                             | timing point         |
+| Reversing Movements:  Reversing movements usually take place on the Down Passenger Loop between                  |                             |                      |
+| TC4598 and TC4575 as this is the only location at Toton Centre with the necessary walking route.  The standard   |                             |                      |
+| reversal allowance applies                                                                                       |                             |                      |
+| Run-Round Movements:  If a train has been timed to run-round on the Down Toton Goods then the train length       |                             |                      |
+| cannot exceed 260m. The distance between TC4598 and TC4575 on the goods is 308m thus allowing for                |                             |                      |
+| minimum 20m for engine length either end the train cannot convey any more than 13 wagons (20m each)              |                             |                      |
+| Trowell Junction                                                                                                 |                             |                      |
+| Adjustments to Sectional Running Times                                                                           |                             |                      |
+| Movement Down                                                                                                    | Reason                      | Value                |
+| After Trowell Jn applicable to trains from                                                                       | Differential junction speed | 1⁄2 222              |
+| Radford Jn                                                                                                       |                             | 1 except 222         |
+| Movement Up                                                                                                      | Reason                      | Value                |
+| Approaching Trowell Jn applicable to trains                                                                      | Differential junction speed | 1⁄2 DMU/222          |
+| towards Radford Jn                                                                                               |                             | 1 HST/LH             |
+| Ilkeston                                                                                                         |                             |                      |
+| Dwell Time                                                                                                       |                             |                      |
+| 15x                                                                                                              | 1                           |                      |
+| 222                                                                                                              | 11⁄2                        |                      |
+| Langley Mill                                                                                                     |                             |                      |
+| Adjustments to Sectional Running Times                                                                           |                             |                      |
+| Movement Up                                                                                                      | Reason                      | Value                |
+| Passenger trains from Ironville Jn on the Up                                                                     | Acceleration                | 1⁄2                  |
+| Erewash Fast Line that have come from the                                                                        |                             |                      |
+| Pinxton Line                                                                                                     |                             |                      |
+| Dwell Time                                                                                                       |                             |                      |
+| DMU                                                                                                              | 1                           |                      |
+| LH/222                                                                                                           | 11⁄2                        |                      |
+| Codnor Park Junction                                                                                             |                             |                      |
+| Steam Trains departing from Butterley RMC                                                                        |                             |                      |
+| Steam trains are not allowed to travel on the Up/Down Erewash Slow Line when departing Butterley and must        |                             |                      |
+| travel on the Up Erewash line.  Trains departing to go north can depart from Butterley as signalled moves to the |                             |                      |
+| Slow or Fast Lines exist.  Trains reverse before heading north                                                   |                             |                      |

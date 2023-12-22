@@ -1,0 +1,50 @@
+|                                              |           |               |        |                                      |
+|:---------------------------------------------|:----------|:--------------|:-------|:-------------------------------------|
+| MD401 HEYFORD TO BORDESLEY JN                |           |               |        |                                      |
+| LOCATION                                     | DIRECTION | USABLE LENGTH | NOTES  |                                      |
+|                                              |           | SLU           | METRES |                                      |
+| Up Aynho Goods Loop                          | Up        | 127           | 817    |                                      |
+| Up Banbury Loop                              | Up        | 127           | 815    | Signal OL7120 to overlap of signal   |
+|                                              |           |               |        | OL7134                               |
+| Up Banbury Loop                              | Up        | 128           | 823    | Stood at signal OL7134               |
+| Down Banbury Loop                            | Down      | 127           | 815    | Between signal OL7129 and overlap of |
+|                                              |           |               |        | signal OL9128                        |
+| Down Banbury Loop                            | Up        | 105           | 673    | Signal OL9128 to overlap of OL7129   |
+|                                              |           |               |        | assuming routing via Down Cherwell   |
+|                                              |           |               |        | Valley in Up direction               |
+| Down Banbury Loop                            | Up        | 126           | 807    | Signal OL9128 to overlap of OL9140   |
+|                                              |           |               |        | assuming routing via Down Banbury    |
+|                                              |           |               |        | Goods Loop in Up direction           |
+| Down Banbury Goods Loop                      | Down      | 125           | 806    | Between signal OL7143 and signal     |
+|                                              |           |               |        | OL9140                               |
+| Down Banbury Goods Loop                      | Up        | 125           | 806    | Signal OL9140 to Signal OL7143       |
+| Fenny Compton Down Goods                     | Down      | 127           | 814    | Between signals OL7153 and OL7150    |
+| Loop                                         |           |               |        |                                      |
+| Fenny Compton Down Goods                     | Down      | 95            | 613    | Between signals OL1191 and OL7150    |
+| Loop                                         |           |               |        |                                      |
+| Fenny Compton Down Goods                     | Up        | 127           | 814    | Between signals OL7150 and OL7153    |
+| Loop                                         |           |               |        |                                      |
+| Fenny Compton Down Goods                     | Up        | 95            | 613    | Between signals OL7150 and OL1191    |
+| Loop                                         |           |               |        |                                      |
+| Fenny Compton Up Goods                       | Up        | 72            | 461    |                                      |
+| Loop                                         |           |               |        |                                      |
+| Leamington Spa Down                          | Down      | 46            | 294    |                                      |
+| Cherwell Valley                              |           |               |        |                                      |
+| Leamington Spa Up Cherwell                   | Up        | 60            | 384    |                                      |
+| Valley                                       |           |               |        |                                      |
+| Down Hatton Goods Loop                       | Down      | 190           | 1217   |                                      |
+| Up and Down Dorridge Goods                   | Down      | 133           | 852    |                                      |
+| Loop                                         |           |               |        |                                      |
+| Up and Down Dorridge Goods                   | Up        | 126           | 810    |                                      |
+| Loop                                         |           |               |        |                                      |
+| Up and Down Dorridge                         | Down      | 133           | 852    |                                      |
+| Passenger Loop                               |           |               |        |                                      |
+| Up and Down Dorridge                         | Up        | 126           | 810    |                                      |
+| Passenger Loop                               |           |               |        |                                      |
+| Up Dorridge Passenger Loop                   | Up        | 82            | 525    |                                      |
+| Down Bordesley Goods Loop                    | Down      | 84            | 538    |                                      |
+| Up Bordesley Goods Loop                      | Up        | 172           | 1102   |                                      |
+| MD405 LEAMINGTON SPA JN TO COVENTRY SOUTH JN |           |               |        |                                      |
+| LOCATION                                     | DIRECTION | USABLE LENGTH | NOTES  |                                      |
+|                                              |           | SLU           | METRES |                                      |
+| Up and Down Kenilworth Loop                  | Up & Down | 125           | 800    |                                      |

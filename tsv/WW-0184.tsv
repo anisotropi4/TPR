@@ -1,0 +1,50 @@
+|                                                                   |                                             |                  |           |
+|:------------------------------------------------------------------|:--------------------------------------------|:-----------------|:----------|
+| Heywood Road Junction                                             |                                             |                  |           |
+| Adjustments to Sectional Running Times                            |                                             |                  |           |
+| Movement                                                          | Reason                                      | Timing Load      | Value     |
+| Down train pass to Westbury                                       | Flashing Yellow Aspects                     | All              | {1⁄2}     |
+| Down train pass to Hawkeridge Jn                                  | Approach control                            | All              | {1}       |
+| Down pass from Cement Works to                                    | Accleration                                 | Freight          | {1}*      |
+| Westbury or Hawkeridge Jn                                         |                                             |                  |           |
+| Down pass from Cement Works to                                    | Accleration                                 | Freight          | {2}*      |
+| Fairwood Jn (direct)                                              |                                             |                  |           |
+| Up train pass from Westbury, Hawkeridge                           | Acceleration                                | 80x              | {1⁄2}*    |
+| Jn or Westbury Signal W213 to Lavington                           |                                             | DMU              | {1} *     |
+|                                                                   |                                             | Freight 600t or  | {1⁄2}*    |
+|                                                                   |                                             | less             |           |
+|                                                                   |                                             | Freight 800t to  | {1}*      |
+|                                                                   |                                             | 1200t            |           |
+|                                                                   |                                             | Freight 1400t to | {11⁄2}*   |
+|                                                                   |                                             | 1800t            |           |
+|                                                                   |                                             | Freight 2000t to | {2}* #    |
+|                                                                   |                                             | 2400t            |           |
+|                                                                   |                                             | Freight 2600t to | {21⁄2}* # |
+|                                                                   |                                             | 3000t            |           |
+|                                                                   |                                             | Freight 3200t    | {3}* #    |
+|                                                                   |                                             | or above         |           |
+| Up pass to Cement Works from                                      | Approach control                            | Freight          | {1}       |
+| Hawkeridge Jn or Westbury                                         |                                             |                  |           |
+| Up train Pass to cement works from                                | Approach control                            | Freight          | {11⁄2}    |
+| Fairwood Jn (direct)                                              |                                             |                  |           |
+| *Applied approaching next timing point                            |                                             |                  |           |
+| # Reduce by 1 if class 7                                          |                                             |                  |           |
+| Junction margins                                                  |                                             |                  |           |
+| First Movement                                                    | Second Movement                             | Margin           |           |
+| Down pass to Westbury, Hawkeridge Jn or                           | Down pass from Cement Works to Westbury     | 2                |           |
+| Fairwood Jn                                                       | or Hawkeridge Jn                            |                  |           |
+| Down pass to Fairwood Jn (direct)                                 | Down pass from Cement Works to Fairwood     | 21⁄2             |           |
+|                                                                   | Jn (direct)                                 |                  |           |
+| Down pass from Cement Works                                       | Down pass to Westbury, Hawkeridge Jn or     | 51⁄2             |           |
+|                                                                   | Fairwood Jn                                 |                  |           |
+| Down pass from Lavington to Westbury or                           | Up pass from Fairwood Jn (direct) to        | 21⁄2             |           |
+| Hawkeridge Jn                                                     | Lavington                                   |                  |           |
+| Down pass from Lavington to Westbury or                           | Up pass from Fairwood Jn (direct) to Cement | 2                |           |
+| Hawkeridge Jn                                                     | Works                                       |                  |           |
+| Down pass from Cement Works                                       | Up pass from Fairwood Jn (direct)           | 5                |           |
+| Down pass from Cement Works                                       | Up pass from Westbury or Hawkeridge Jn      | 61⁄2             |           |
+| Down pass from Cement Works                                       | Up pass to Cement Works                     | 4                |           |
+| Up pass to Lavington                                              | Down pass from Cement Works                 | 2                |           |
+| Up pass from Fairwood Jn (direct) to Lavington                    | Down pass from Lavington to Westbury        | 21⁄2*            |           |
+| Up pass from Fairwood Jn (direct) to Lavington                    | Down pass from Lavington to Hawkeridge Jn   | 2                |           |
+| *Can be reduced to 2 if second train has pathing time approaching |                                             |                  |           |

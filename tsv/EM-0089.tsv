@@ -1,0 +1,28 @@
+|                                                         |                                                 |        |
+|:--------------------------------------------------------|:------------------------------------------------|:-------|
+| Nottingham                                              |                                                 |        |
+| Platform End Margins                                    |                                                 |        |
+| First Movement                                          | Second Movement                                 | Margin |
+| Depart Platform 2                                       | Arrive Platform 1, 1A, 1B, 1C                   | 1      |
+| Arrive any platform                                     | Conflicting departure from any other platform   | 1      |
+| Arrive platform 1 from the West                         | Arrive platform 2 from the East                 | 31⁄2   |
+| Arrive platform 2 from the East                         | Arrive platform 1 from the West                 | 4      |
+| Nottingham (Eastern Side)                               |                                                 |        |
+| Platform End Margins                                    |                                                 |        |
+| First Movement                                          | Second Movement                                 | Margin |
+| Depart Platforms 1, 2 or 3 to Netherfield Jn            | Conflicting arrival from Netherfield Jn         | 41⁄2   |
+| Depart Platforms 4, 6 or 7 to Netherfield Jn            | Conflicting arrival from Netherfield Jn         | 5      |
+| Depart to Netherfield Jn                                | Conflicting departure to Eastcroft Depot        | 2      |
+| Depart to Netherfield Jn                                | Conflicting departure to Eastcroft Down Siding  | 2      |
+| Depart to Netherfield Jn                                | Conflicting arrival from Eastcroft Depot        | 4      |
+| Depart to Netherfield Jn                                | Conflicting arrival from Eastcroft Down Siding  | 41⁄2   |
+| Depart to Eastcroft Depot                               | Conflicting departure to Netherfield Jn         | 2      |
+| Depart to Eastcroft Depot                               | Conflicting arrival from Netherfield Jn         | 51⁄2   |
+| Depart to Eastcroft Down Siding                         | Conflicting departure to Netherfield Jn         | 2      |
+| Depart to Eastcroft Down Siding                         | Conflicting arrival from Netherfield Jn         | 5      |
+| Pass/arrive from Netherfield Junction                   | Conflicting arrival into adjacent platform from | 3      |
+|                                                         | Eastcroft Depot or Eastcroft Carriage Sidings   |        |
+| Pass/arrive from Eastcroft Depot or Eastcroft           | Conflicting arrival into adjacent platform from | 3      |
+| Carriage Sidings                                        | Netherfield Junction                            |        |
+| LN3207 TRENT EAST JUNCTION TO CLAY CROSS NORTH JUNCTION |                                                 |        |
+| Trent East Junction                                     |                                                 |        |

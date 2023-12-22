@@ -1,0 +1,45 @@
+|                                                                                                               |                                              |             |
+|:--------------------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------|
+| SC119 GREENHILL UPPER JUNCTION TO DUNDEE CENTRAL JUNCTION                                                     |                                              |             |
+| Greenhill Lower Junction                                                                                      |                                              |             |
+| Adjustments to Sectional Running Times                                                                        |                                              |             |
+| Movement Down                                                                                                 | Reason                                       | Value       |
+| Pass from Cumbernauld joining SC119 at                                                                        | Acceleration allowance                       | 1⁄2         |
+| Greenhill Lower Junction                                                                                      |                                              | approaching |
+|                                                                                                               |                                              | next timing |
+|                                                                                                               |                                              | point       |
+| Junction Margins                                                                                              |                                              |             |
+| First Movement                                                                                                | Second Movement                              | Margin      |
+| Freight pass towards Cumbernauld                                                                              | Pass from Greenhill Upper                    | 4           |
+| Passenger pass towards Cumbernauld                                                                            | Pass from Greenhill Upper                    | 3           |
+| Pass from Greenhill Upper                                                                                     | Pass towards Cumbernauld                     | 3           |
+| Restriction                                                                                                   |                                              |             |
+| A maximum of 11⁄2 minutes pathing time to be shown approaching Greenhill Upper Junction for Up trains passing |                                              |             |
+| to Greenhill Lower Junction, any further pathing time needs to be shown between Greenhill Upper and Lower     |                                              |             |
+| Junctions                                                                                                     |                                              |             |
+| Carmuirs West Junction                                                                                        |                                              |             |
+| Adjustments to Sectional Running Times                                                                        |                                              |             |
+| Movement Down                                                                                                 | Reason                                       | Value       |
+| Down Freight from Greenhill Lower Junction                                                                    | Approach control                             | 1           |
+| towards Falkirk approaching Carmuirs West                                                                     |                                              |             |
+| Movement Up                                                                                                   | Reason                                       | Value       |
+| Up Freight from Falkirk towards Greenhill                                                                     | Acceleration allowance                       | 2           |
+| Lower Junction after Carmuirs West                                                                            |                                              |             |
+| Junction Margins                                                                                              |                                              |             |
+| First Movement                                                                                                | Second Movement                              | Margin      |
+| Down Passenger towards Carmuirs East                                                                          | Passenger train stopping at Larbert passes   | 21⁄2        |
+| Junction                                                                                                      | towards Greenhill Lower Junction             |             |
+| Pass to Carmuirs East Junction                                                                                | Pass from Larbert (non-stop from Stirling)   | 31⁄2        |
+| Larbert Junction                                                                                              |                                              |             |
+| Adjustments to Sectional Running Times                                                                        |                                              |             |
+| Movement Down                                                                                                 | Reason                                       | Value       |
+| Trains entering Larbert North DGL not stopping                                                                | Approach Control                             | 1⁄2         |
+| at Larbert                                                                                                    |                                              |             |
+| Junction Margins                                                                                              |                                              |             |
+| First Movement                                                                                                | Second Movement                              | Margin      |
+| Up train passes towards Greenhill Junction                                                                    | Down train passes from Falkirk (not stopping | 3           |
+| (EMU)                                                                                                         | Camelon)                                     |             |
+| Up train passes towards Greenhill Junction                                                                    | Down train passes from Falkirk (not stopping | 4           |
+| (HST/Freight)                                                                                                 | Camelon)                                     |             |
+| Up train passes towards Greenhill Junction                                                                    | Down train passes from Falkirk (stopping     | 21⁄2        |
+|                                                                                                               | Camelon)                                     |             |

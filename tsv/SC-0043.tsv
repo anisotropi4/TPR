@@ -1,0 +1,43 @@
+|                               |      |    |      |                                             |
+|:------------------------------|:-----|:---|:-----|:--------------------------------------------|
+| SC143 CRIANLARICH TO OBAN     |      |    |      |                                             |
+| TIMING POINT                  | DOWN | UP | CODE | NOTES                                       |
+| Crianlarich                   |      |    |      | Platform detail must be shown               |
+|                               |      |    |      | To/from Ardlui – SC141                      |
+| Tyndrum Lower                 | –    | –  |      | Token Exchange Point                        |
+| Dalmally                      | –    | –  |      | If a ‘Long Section Token’ is not held, a    |
+|                               |      |    |      | stop is required here for a token exchange. |
+| Loch Awe                      | –    | –  | S    |                                             |
+| Falls of Cruachan             | –    | –  | S    |                                             |
+| Taynuilt                      | –    | –  |      | Token Exchange Point                        |
+| Connel Ferry                  | –    | –  | S    | If a ‘Long Section Token’ is not held, a    |
+|                               |      |    |      | stop is required here for a token exchange. |
+| Oban GF                       | –    | –  | S    | For trains departing platform 4, and for    |
+|                               |      |    |      | trains shunting between platforms and       |
+|                               |      |    |      | sidings                                     |
+| Oban                          | –    | –  |      | Platform detail must be shown               |
+| SC145 FORT WILLIAM TO MALLAIG |      |    |      |                                             |
+| TIMING POINT                  | DOWN | UP | CODE | NOTES                                       |
+| Fort William                  | –    | –  |      | Platform detail must be shown               |
+| Fort William Signal 33        | –    | –  | S    |                                             |
+| Fort William BACO             | –    | –  | F    |                                             |
+| Fort William Junction         | –    | –  |      | To/from Fort William - SC141                |
+| Inverlochy Yard               | −    | −  | F    | To/from Fort William Junction               |
+|                               |      |    |      | To/from Banavie                             |
+| Tom Na Faire Depot            | −    | −  | F    | To/from Inverlochy                          |
+| Banavie                       | –    | –  |      | To/from Inverlochy Yard                     |
+| Corpach                       | –    | –  | S    |                                             |
+| Annat LC                      | –    | –  | F    | Trains to/from Corpach Pulp Mill only       |
+| Corpach Pulp Mill             | –    | –  | F    |                                             |
+| Loch Eil Outward Bound        | –    | –  |      | If a ‘Long Section Token’ is not held, a    |
+|                               |      |    |      | stop is required here for a token exchange. |
+| Locheilside                   | –    | –  | S    |                                             |
+| Glenfinnan                    | –    | –  |      | Token Exchange Point                        |
+| Lochailort                    | –    | –  | S    |                                             |
+| Beasdale                      | –    | –  | S    |                                             |
+| Arisaig                       | –    | –  |      | If a ‘Long Section Token’ is not held, a    |
+|                               |      |    |      | stop is required here for a token exchange. |
+| Morar                         |      | –  |      | Mandatory timing point in Up direction      |
+| Mallaig GF                    | –    | –  | S    | For trains shunting between platforms and   |
+|                               |      |    |      | sidings                                     |
+| Mallaig                       | –    | –  |      | Platform detail must be shown               |

@@ -1,0 +1,26 @@
+|                               |                                    |                      |
+|:------------------------------|:-----------------------------------|:---------------------|
+| Tursdale Junction             |                                    |                      |
+| Pass Slow Line to Down Fast   | Acceleration                       | 1⁄2 Passenger        |
+|                               |                                    |                      |
+|                               |                                    | 400t – 1⁄2           |
+|                               |                                    | 600t to 1600t – 1    |
+|                               |                                    | 1800t to 2600t -11⁄2 |
+|                               |                                    | 2800t and above – 2  |
+|                               |                                    |                      |
+|                               |                                    | Applied at the next  |
+|                               |                                    | timing point         |
+| Movements Up                  | Reason                             | Value                |
+| Pass Up Fast to Slow Line     | Approach control                   | 11⁄2                 |
+| Junction Margins              |                                    |                      |
+| First Movement                | Second Movement                    | Margin               |
+| Pass Up Fast                  | Pass Slow Line to Down Fast        | 4                    |
+| Pass Up Fast                  | Depart Slow Line to Down Fast      | 1                    |
+| Up Fast to Slow Line          | Pass Up Fast                       | 31⁄2*                |
+| Pass to Slow Line             | Pass from Slow Line to Down Fast   | 4*                   |
+| Pass to Slow Line             | Depart from Slow Line to Down Fast | 11⁄2*                |
+| Pass from Slow Line           | Pass to Slow Line                  | 3*                   |
+| Pass from Slow Line           | Pass Up Fast                       | 4*                   |
+| Depart Slow Line to Down Fast | Pass Up Fast                       | 4*                   |
+| Down Fast Pass (Passenger)    | Depart Slow Line to Down Fast      | 21⁄2                 |
+| Down Fast Pass (Passenger)    | Pass from Slow Line to Down Fast   | 31⁄2                 |

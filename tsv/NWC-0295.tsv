@@ -1,0 +1,46 @@
+|                                                                                                                |                                              |                 |
+|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------|:----------------|
+| Ditton East Jn                                                                                                 |                                              |                 |
+| Adjustments to Sectional Running Times                                                                         |                                              |                 |
+| Movement Up                                                                                                    | Reason                                       | Value           |
+| Passenger trains crossing from Up Ditton Slow                                                                  | Approach control                             | 1               |
+| to UP Ditton                                                                                                   |                                              | approaching     |
+|                                                                                                                |                                              | Ditton East Jn  |
+|                                                                                                                | Acceleration to line speed from slow speed   | 1 after Ditton  |
+|                                                                                                                | junction                                     | East Jn         |
+| Freight trains crossing from Up Ditton Slow to                                                                 | Approach control                             | 1               |
+| UP Ditton                                                                                                      |                                              | approaching     |
+|                                                                                                                | Acceleration to line speed from slow speed   | Ditton East Jn  |
+|                                                                                                                | junction                                     | 2 after Ditton. |
+|                                                                                                                |                                              | East Jn         |
+| Junction Margins                                                                                               |                                              |                 |
+| First Movement                                                                                                 | Second Movement                              | Margin          |
+| Passenger train from Up Slow to Up Fast line                                                                   | Passenger train passes on Down Fast          | 31⁄2            |
+| Freight train from Up Slow to Up Fast line                                                                     | Passenger train passes on Down Fast          | 3               |
+| Passenger train passes on Down Fast                                                                            | Passenger train from Up Slow to Up Fast line | 4 *             |
+| * Margin can be reduced to 2 mins if Second train incurs 2 mins Pathing or additional 2 mins Adjustment to SRT |                                              |                 |
+| Passenger train passes on Down Fast                                                                            | Freight train from Up Slow to Up Fast line   | 3 *             |
+| * Margin can be reduced to 2 mins if Second train incurs 2 mins Pathing or additional 2 mins Adjustment to SRT |                                              |                 |
+| Speke Jn                                                                                                       |                                              |                 |
+| Adjustments to Sectional Running Times                                                                         |                                              |                 |
+| Movement                                                                                                       | Reason                                       | Value           |
+| Class 4 Freight trains joining Up Slow from Up                                                                 | Slow speed crossover                         | 2 after Speke   |
+| and Down Goods line.                                                                                           |                                              | Jn              |
+| Class 6 & 7 Freight trains joining Up Slow from                                                                | Slow speed crossover                         | 1 after Speke   |
+| Up and Down Goods line.                                                                                        |                                              | Jn              |
+| Junction Margins                                                                                               |                                              |                 |
+| First Movement                                                                                                 | Second Movement                              | Margin          |
+| Up service crossing US to UF at Speke Jn.                                                                      | Down Fast service passes Ditton towards      | 1               |
+|                                                                                                                | Speke Jn                                     |                 |
+| Liverpool South Parkway                                                                                        |                                              |                 |
+| Adjustments to Sectional Running Times                                                                         |                                              |                 |
+| Movement Down                                                                                                  | Reason                                       | Value           |
+| All non-stop trains from Hunts Cross crossing                                                                  | Slow speed junction at Liverpool South       | 1⁄2             |
+| to the Down Fast                                                                                               | Parkway                                      |                 |
+| All non-stop trains from Ditton East Jn crossing                                                               | Approach control and slow speed              | 1⁄2             |
+| Down Fast to Down Slow                                                                                         | junction                                     | 1 (after)       |
+| Movement Up                                                                                                    | Reason                                       | Value           |
+| All non-stop trains from the Up Fast crossing                                                                  | Approach control and slow speed junction     | 1⁄2             |
+| towards Hunts Cross.                                                                                           |                                              |                 |
+| All non-stop trains towards Ditton East Jn                                                                     | Approach control and slow speed junction     | 1⁄2             |
+| crossing from Up Slow to Up Fast                                                                               |                                              | 1 (after)       |

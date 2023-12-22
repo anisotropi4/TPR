@@ -1,0 +1,59 @@
+|                       |              |           |                                                   |
+|:----------------------|:-------------|:----------|:--------------------------------------------------|
+| STATION               | PLATFORM     | USABLE    | NOTES                                             |
+|                       |              | LENGTH    |                                                   |
+|                       |              | In metres |                                                   |
+| Heath High Level      | Down         | 124       |                                                   |
+| Heath High Level      | Up           | 124       |                                                   |
+| Heath Low Level       | Single       | 106       |                                                   |
+| Heathrow Terminal 2,3 | 1 (Down)     | 195       | Not Network Rail property, but controlled by      |
+|                       |              |           | Thames Valley Signalling Centre                   |
+| Heathrow Terminal 2,3 | 2 (Up)       | 195       | Not Network Rail property, but controlled by      |
+|                       |              |           | Thames Valley Signalling Centre                   |
+| Heathrow Terminal 4   | 1 & 2        | 195       | Not Network Rail property, but controlled by      |
+|                       |              |           | Thames Valley Signalling Centre                   |
+| Heathrow Terminal 5   | 3 & 4        | 217       | Not Network Rail property, but controlled by      |
+|                       |              |           | Thames Valley Signalling Centre                   |
+| Hengoed               | Down         | 124       |                                                   |
+| Hengoed               | Up           | 124       |                                                   |
+| Henley-on-Thames      | Single       | 177       | Long vehicles (except Turbos) PROHIBITED on the   |
+|                       |              |           | Henley Branch                                     |
+| Hereford              | 1 (Down      | 205       |                                                   |
+|                       | Loop)        |           |                                                   |
+| Hereford              | 2 (Down      | 204       |                                                   |
+|                       | Main)        |           |                                                   |
+| Hereford              | 3 (Up Main)  | 221       |                                                   |
+| Hereford              | 4 (Up Bay)   | 70        |                                                   |
+| Heyford               | 1            | 70        |                                                   |
+| Heyford               | 2            | 70        |                                                   |
+| Highbridge & Burnham  | 1            | 198       |                                                   |
+| Highbridge & Burnham  | 2            | 153       |                                                   |
+| Honeybourne           | Down         | 186       |                                                   |
+| Honeybourne           | Up           | 186       |                                                   |
+| Hopton Heath          | Single       | 83        | Of which only 42 metres have been white lined for |
+|                       |              |           | passenger use. Overlength trains not permitted    |
+| Hungerford            | 1            | 153       |                                                   |
+| Hungerford            | 2            | 150       |                                                   |
+| Iver                  | 1 (Down      | 180       |                                                   |
+|                       | Main Line)   |           |                                                   |
+| Iver                  | 2 (Up Main   | 180       |                                                   |
+|                       | Line)        |           |                                                   |
+| Iver                  | 3 (Down      | 180       |                                                   |
+|                       | Relief Line) |           |                                                   |
+| Iver                  | 4 (Up Relief | 180       |                                                   |
+|                       | Line)        |           |                                                   |
+| Iver                  | 4 (Up Relief | 156       | Top of ramp to mirror                             |
+|                       | Line)        |           |                                                   |
+| Ivybridge             | 1            | 104       |                                                   |
+| Ivybridge             | 2            | 104       |                                                   |
+| Johnston (Dyfed)      | Single       | 110       |                                                   |
+| Kemble                | 1            | 135       |                                                   |
+| Kemble                | 2            | 180       | Top of ramp to top of ramp                        |
+| Keyham                | 1            | 129       |                                                   |
+| Keyham                | 2            | 123       |                                                   |
+| Keynsham              | 1            | 209       |                                                   |
+| Keynsham              | 2            | 209       |                                                   |
+| Kidwelly              | 1            | 122       |                                                   |
+| Kidwelly              | 2            | 125       |                                                   |
+| Kilgetty              | Single       | 128       |                                                   |
+| Kingham               | Down         | 154       |                                                   |

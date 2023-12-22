@@ -1,0 +1,35 @@
+|                                                             |      |        |      |                                            |
+|:------------------------------------------------------------|:-----|:-------|:-----|:-------------------------------------------|
+| SO680B TULSE HILL TO LEIGHAM JUNCTION                       |      |        |      |                                            |
+| TIMING POINT                                                | DOWN | UP     | CODE | NOTES                                      |
+| Tulse Hill                                                  | -    | -      |      | Platform detail must be shown              |
+|                                                             |      |        |      | To/from West Norwood - SO680C              |
+|                                                             |      |        |      | To/from Peckham Rye - SO680                |
+|                                                             |      |        |      | To/from Streatham – SO680                  |
+|                                                             |      |        |      | To/from Herne Hill - SO680A                |
+| Leigham Junction                                            | -    | -      | X    | Timing point for trains to/from Streatham  |
+|                                                             |      |        |      | Hill.                                      |
+|                                                             |      |        |      | To/from Streatham Hill - SO650             |
+| SO680C TULSE HILL TO WEST NORWOOD JUNCTION                  |      |        |      |                                            |
+| TIMING POINT                                                | DOWN | UP     | CODE | NOTES                                      |
+| Tulse Hill                                                  | -    | -      |      | Platform detail must be shown              |
+|                                                             |      |        |      | To/from Leigham Junction - SO680B          |
+|                                                             |      |        |      | To/from Peckham Rye - SO680                |
+|                                                             |      |        |      | To/from Streatham – SO680                  |
+|                                                             |      |        |      | To/from Herne Hill - SO680A                |
+| Tulse Hill Signal TVC178                                    | -    | -      |      | Shunt available – Use TIPLOC TULS178       |
+| West Norwood Junction                                       | -    | -      |      | To/from West Norwood - SO650               |
+| SO680D STREATHAM JUNCTION TO STREATHAM COMMON               |      |        |      |                                            |
+| TIMING POINT                                                | DOWN | UP     | CODE | NOTES                                      |
+| Streatham Junction                                          | -    | -      |      | To/from Streatham - SO680                  |
+|                                                             |      |        |      | For planning purposes this timing point is |
+|                                                             |      |        |      | shown as Streatham                         |
+| Streatham Common                                            | SL   |        |      | Platform detail must be shown (SL)         |
+|                                                             |      |        |      | To/from Norbury - SO500                    |
+| SO680E STREATHAM NORTH JUNCTION TO STREATHAM SOUTH JUNCTION |      |        |      |                                            |
+| TIMING POINT                                                | DOWN | UP     | CODE | NOTES                                      |
+| Streatham North Junction                                    | -    | FL  SL |      | To/from Balham - SO500                     |
+| Streatham Reversible Fast Spur                              | -    | FL SL  |      | Use TIPLOC STRERFS                         |
+| Signal TVC650                                               |      |        |      | Only to be used by trains reversing here   |
+| Streatham Reversible Fast Spur                              | -    | FL SL  |      | Use TIPLOC STRERFS                         |
+| Signal TVC783                                               |      |        |      | Only to be used by trains reversing here   |

@@ -1,0 +1,48 @@
+|                                 |      |                                                        |       |
+|:--------------------------------|:-----|:-------------------------------------------------------|:------|
+| SC193 PERTH TO INVERNESS        |      |                                                        |       |
+| TIMING POINT                    | DOWN | UP                                                     | NOTES |
+| Perth – Stanley                 | 5    | 5                                                      |       |
+| Stanley – Dunkeld & Birnam      | AB+2 | Single Line - TB                                       |       |
+| Dunkeld & Birnam – Pitlochry    | AB+2 | Single Line - TB                                       |       |
+| Pitlochry – Blair Atholl        | AB+2 | Single Line - TB                                       |       |
+| Blair Atholl – Dalnacardoch     | AB+2 | AB+2                                                   |       |
+| Dalnacardoch – Dalnaspidal      | AB+2 | AB+2                                                   |       |
+| Dalnaspidal – Dalwhinnie        | AB+2 | AB+2                                                   |       |
+| Dalwhinnie – Kingussie          | AB+2 | Single Line - TB                                       |       |
+| Kingussie – Kincraig            | AB+2 | Single Line - TCB                                      |       |
+| Kincraig – Aviemore             | AB+2 | Single Line - TCB                                      |       |
+| Aviemore – Carrbridge           | AB+2 | Single Line - TCB                                      |       |
+| Carrbridge – Slochd             | AB+2 | Single Line - TCB                                      |       |
+| Slochd – Tomatin                | AB+2 | Single Line - TCB                                      |       |
+| Tomatin – Moy                   | AB+2 | Single Line - TCB                                      |       |
+| Moy – Culloden                  | AB+2 | Single Line - TCB                                      |       |
+| Culloden – Millburn Junction    | 5    | 5                                                      |       |
+| Millburn Junction – Inverness   | 4    | 4                                                      |       |
+| SC195 ABERDEEN TO INVERNESS     |      |                                                        |       |
+| TIMING POINT                    | DOWN | UP                                                     | NOTES |
+| Aberdeen-Berryden Junction      | AB+2 | Single Line – TCB                                      |       |
+| Berryden Junction – Inverurie   | 4    | 4                                                      |       |
+| Inverurie – Insch               | AB+2 | Single Line – TCB                                      |       |
+| Insch – Kennethmont             | AB+2 | AB+2                                                   |       |
+| Kennethmont – Huntly            | AB+2 | Single Line - TB                                       |       |
+| Huntly – Keith Loop             | AB+2 | Single Line - TB                                       |       |
+| Keith Loop – Elgin              | AB+2 | Single Line                                            |       |
+| Elgin – Forres                  | AB+2 | Single line - TCB                                      |       |
+|                                 |      | Down: 2nd train can D=depart Elgin same time that      |       |
+|                                 |      | the 1st train arrives Forres                           |       |
+|                                 |      | Up: 2nd train can Depart Forres 1 minute after the 1st |       |
+|                                 |      | train arrives Elgin                                    |       |
+| Forres – Nairn                  | AB+2 | Single line - TCB                                      |       |
+|                                 |      | Down: 2nd train can depart Forres 1 minute after the   |       |
+|                                 |      | 1st train arrives Nairn                                |       |
+|                                 |      | Up: 2nd train can Depart Nairn same time that 1st      |       |
+|                                 |      | train arrives Forres                                   |       |
+| Nairn – Inverness Airport       | AB+2 | Single Line                                            |       |
+| Inverness Airport – Millburn Jn | AB+2 | Single line - TCB                                      |       |
+|                                 |      | Down: 2nd train can depart Inverness Airport or        |       |
+|                                 |      | Dalcross Freight Facility 1 minute after the 1st train |       |
+|                                 |      | passes Millburn Jn                                     |       |
+|                                 |      | Up: 2nd train can pass Millburn Jn 1 minute after the  |       |
+|                                 |      | 1st train arrives/passes Inverness Airport             |       |
+| Milburn Jn – Inverness          | TCB  | Refer to SC193                                         |       |

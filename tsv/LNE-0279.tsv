@@ -1,0 +1,38 @@
+|                                                                                                     |                                               |        |
+|:----------------------------------------------------------------------------------------------------|:----------------------------------------------|:-------|
+| Dewsbury                                                                                            |                                               |        |
+| Junction Margins                                                                                    |                                               |        |
+| First Movement                                                                                      | Second Movement                               | Margin |
+| Arrive Down platform                                                                                | Pass Down Main                                | 3      |
+| Pass Down Main                                                                                      | Depart Down Platform (stopping service)       | 11⁄2   |
+| Batley East Jn                                                                                      |                                               |        |
+| Junction Margins                                                                                    |                                               |        |
+| First Movement                                                                                      | Second Movement                               | Margin |
+| Pass to Leeds                                                                                       | Pass from Leeds to Down Line                  | 3      |
+| Pass to Leeds                                                                                       | Depart to Down Line                           | 1⁄2    |
+| LN862 BARNSLEY STATION JUNCTION TO HUDDERSFIELD                                                     |                                               |        |
+| Penistone                                                                                           |                                               |        |
+| Adjustment to Sectional Running Times                                                               |                                               |        |
+| Movement Up                                                                                         | Reason                                        | Value  |
+| Arrive/pass when passing down train arriving                                                        | Overlap extends over points: approach control | 2      |
+| less than 3’’ before                                                                                |                                               |        |
+| Dwell Time                                                                                          |                                               |        |
+| All                                                                                                 | 1                                             |        |
+| Junction Margins                                                                                    |                                               |        |
+| First Movement                                                                                      | Second Movement                               | Margin |
+| Arrive / pass from Barnsley                                                                         | Depart to Barnsley                            | 1      |
+| Arrive / pass from Clayton West Junction                                                            | Depart single line to Clayton West Junction   | 1      |
+| Arrive from Clayton West Junction                                                                   | Arrive / pass from Barnsley                   | 3      |
+| Arrive from Barnsley                                                                                | Arrive / pass from Clayton West Junction      | 3      |
+| Minimum Turnround                                                                                   | 10 from Sheffield or Huddersfield             |        |
+| Notes:                                                                                              |                                               |        |
+| Reversing trains: trains from south reverse in platform: from north must shunt via south end points |                                               |        |
+| Clayton West Junction                                                                               |                                               |        |
+| Junction Margins                                                                                    |                                               |        |
+| First Movement                                                                                      | Second Movement                               | Margin |
+| Pass from Penistone                                                                                 | Pass to Penistone                             | 3      |
+| Stocksmoor                                                                                          |                                               |        |
+| Junction Margins                                                                                    |                                               |        |
+| First Movement                                                                                      | Second Movement                               | Margin |
+| Arrive/pass from Huddersfield                                                                       | Depart to Huddersfield                        | 1      |
+| Arrive/pass from Huddersfield                                                                       | Pass to Huddersfield                          | 2      |

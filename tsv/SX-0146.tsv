@@ -1,0 +1,45 @@
+|                                                                                                          |                                                  |        |
+|:---------------------------------------------------------------------------------------------------------|:-------------------------------------------------|:-------|
+| Epsom                                                                                                    |                                                  |        |
+| All Services                                                                                             | 1                                                |        |
+| Junction Margins                                                                                         |                                                  |        |
+| First Movement                                                                                           | Second Movement                                  | Margin |
+| Between all conflicting moves where the second train is arriving / passing except as below               | 3                                                |        |
+| Up departure from Platform 2                                                                             | Up departure from Platform 3                     | 2      |
+| Up departure from Platform 3                                                                             | Up departure from Platform 2                     | 2      |
+| Down arrival into Platform 2                                                                             | Up departure from Platform 3                     | 2      |
+| Up train arriving Platform 3                                                                             | Up train departing Platform 2                    | 2      |
+| Down train departing Platform 1 to Ashtead/Up                                                            | Down train arriving Platform 2                   | 3 1⁄2  |
+| Siding                                                                                                   |                                                  |        |
+| Down train arriving Platform 2                                                                           | Down train passing/departing Platform 1 to       | 2      |
+|                                                                                                          | Ashtead/Up Siding                                |        |
+| Simultaneous Moves Not Permitted - a 3-minute margin is to be applied except where stated above          |                                                  |        |
+| First Movement                                                                                           | Second Movement                                  |        |
+| Up train arriving Platform 3                                                                             | Down train ex Ewell West arriving Platform 2     |        |
+| Up train arriving Platform 3                                                                             | Up train departing Platform 2 towards Ewell West |        |
+| Down train departing Platform 1 to Ashtead/Up                                                            | Down train ex Ewell West arriving Platform 2     |        |
+| Siding                                                                                                   |                                                  |        |
+| Up train arriving Platform 1 from Ashtead/Up Siding                                                      | Down train ex Ewell West arriving Platform 2     |        |
+| Planning Note                                                                                            |                                                  |        |
+| Changes here to be consulted in tandem with the SW180 on the Wessex route                                |                                                  |        |
+| Leatherhead                                                                                              |                                                  |        |
+| Adjustment to Sectional Running Times                                                                    |                                                  |        |
+| Movement                                                                                                 | Reason                                           | Value  |
+| Down trains towards Bookham passing                                                                      | Speed Differential                               | {1⁄2}  |
+| Leatherhead                                                                                              |                                                  |        |
+| Up trains from Bookham passing Leatherhead                                                               | Speed Differential                               | {1⁄2}* |
+| * This allowance should appear in the section from Leatherhead                                           |                                                  |        |
+| Junction Margins                                                                                         |                                                  |        |
+| First Movement                                                                                           | Second Movement                                  | Margin |
+| Between all conflicting moves where the second train is arriving / passing except as below               | 3                                                |        |
+| Up arrive / pass from Dorking                                                                            | Down train passes towards Effingham Junction     | 11⁄2   |
+| Up arrive / pass from Dorking                                                                            | Down train departs towards Effingham Junction    | 1      |
+| Limit of Shunt                                                                                           |                                                  |        |
+|                                                                                                          | Length Limit                                     |        |
+| Up Platform (clear of W482)                                                                              | 8 cars                                           |        |
+| Planning Note                                                                                            |                                                  |        |
+| Changes here to be consulted in tandem with the SW180 on the Wessex route                                |                                                  |        |
+| Dorking                                                                                                  |                                                  |        |
+| Berthing Facilities                                                                                      |                                                  |        |
+| Berthing permitted in the Down Loop (Platform 3) only due to restrictions upon berthing on running lines |                                                  |        |
+| Length Limit                                                                                             | Value                                            |        |

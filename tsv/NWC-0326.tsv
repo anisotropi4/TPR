@@ -1,0 +1,31 @@
+|                                                                         |                                               |                |
+|:------------------------------------------------------------------------|:----------------------------------------------|:---------------|
+| Adswood Road Jn                                                         |                                               |                |
+| Adjustments to Sectional Running Times                                  |                                               |                |
+| Movement                                                                | Reason                                        | Value          |
+| All trains passing Cheadle Hulme from Down                              | Approach control                              | 1⁄2            |
+| Wilmslow routed to the Down Slow                                        |                                               | Passenger/     |
+|                                                                         |                                               | ECS            |
+|                                                                         |                                               | 1 Freight      |
+|                                                                         |                                               | (Class 4 only) |
+| Junction Margins                                                        |                                               |                |
+| First Movement                                                          | Second Movement                               | Margin         |
+| Passenger/ECS Down Main to Down Slow                                    | Down Main to Down Fast                        | 21⁄2           |
+| Up Slow to Up Wilmslow at Cheadle Hulme                                 | Up Fast to Up Stoke at Cheadle Hulme          | 21⁄2 *         |
+| Up Slow to Up Stoke at Cheadle Hulme                                    | Up Fast to Up Wilmslow at Cheadle Hulme       | 21⁄2 *         |
+| Up Fast to Up Wilmslow at Cheadle Hulme                                 | Up Slow to Up Stoke at Cheadle Hulme          | 21⁄2 *         |
+| Up Fast to Up Stoke at Cheadle Hulme                                    | Up Slow to Up Wilmslow at Cheadle Hulme       | 21⁄2 *         |
+| * Value applies at both Adswood Road Jn and Cheadle Hulme               |                                               |                |
+| Edgeley Jn No.1                                                         |                                               |                |
+| Adjustments to Sectional Running Times                                  |                                               |                |
+| Movement                                                                | Reason                                        | Value          |
+| Down Fast to Down Slow                                                  | Approach Control                              | 1              |
+| Up Fast to Up Hope Valley or Up Slow                                    | Approach Control                              | 1              |
+| Junction Margins                                                        |                                               |                |
+| First Movement                                                          | Second Movement                               | Margin         |
+| Pass from Hope Valley                                                   | Pass Up fast or Up Slow stopping at Stockport | 2 *            |
+| Pass from Hope Valley                                                   | Pass Up fast or Up Slow non-stop at Stockport | 21⁄2 *         |
+| Pass from Hope Valley to Down Slow                                      | Pass Down Fast from Cheadle Hulme             | 3 *            |
+| Pass Up Fast or Up Slow                                                 | Pass from Hope Valley                         | 21⁄2 *         |
+| Pass Down Fast from Cheadle Hulme                                       | Pass from Hope Valley to Down Slow            | 21⁄2 *         |
+| *   Add 1⁄2 minute to all margins where the first movement is a freight |                                               |                |

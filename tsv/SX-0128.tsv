@@ -1,0 +1,42 @@
+|                                                                                                                     |                                     |                   |        |
+|:--------------------------------------------------------------------------------------------------------------------|:------------------------------------|:------------------|:-------|
+| Lewes                                                                                                               |                                     |                   |        |
+| Down train departing Platforms 3 or the Up                                                                          | Down train arriving Platform 1      | Signal TLW1       | 4      |
+| Wall Siding towards Southerham Junction                                                                             |                                     |                   |        |
+| Up train departing Platform 4                                                                                       | Up train arriving Platform 5        | Signal TLW12      | 21⁄2   |
+| Up train departing Platform 5                                                                                       | Up train arriving Platform 4        | Signal TLW10      | 21⁄2   |
+| Down train arriving Platform 5                                                                                      | Up train arriving Platform 4        | Signal TLW10      | 3      |
+| Up train arriving Platform 4 from Southerham                                                                        | Down train arriving Platform 5      | Signal TLW10      | 3      |
+| Junction                                                                                                            | from Falmer                         |                   |        |
+| Up train arriving into the Up Wall Siding                                                                           | Down train arriving Platform 5      | Signal TLW11      | 3      |
+| Down train arriving Platform 5                                                                                      | Down train departing Platform       | Signal TLW11      | 1      |
+|                                                                                                                     | 4 or the Up Wall Siding             |                   |        |
+|                                                                                                                     | towards Southerham Junction         |                   |        |
+| Up train formed of more than 7 coaches depart                                                                       | Up train arriving into any other    | Signal TLW14      | 21⁄2   |
+| Platform 4                                                                                                          | platform or the Up Wall Siding      |                   |        |
+|                                                                                                                     | from Southerham Junction            |                   |        |
+| Planning Note                                                                                                       |                                     |                   |        |
+| Note that if 8 car trains stopping at Lewes in Up direction should use Platform 5 rather than Platform 4 due to the |                                     |                   |        |
+| overlap clearing for a train in rear                                                                                |                                     |                   |        |
+| Southerham Junction                                                                                                 |                                     |                   |        |
+| Adjustment to Sectional Running Times                                                                               |                                     |                   |        |
+| Movement                                                                                                            | Reason                              | Value             |        |
+| All movements on the Down Eastbourne routed                                                                         | Approach control on Signal TLW15    | {1⁄2}             |        |
+| towards Down Seaford                                                                                                |                                     |                   |        |
+| Polegate                                                                                                            |                                     |                   |        |
+| Dwell Times                                                                                                         |                                     |                   |        |
+| All Peak Services                                                                                                   | 1                                   |                   |        |
+| Overlap Restrictions                                                                                                |                                     |                   |        |
+| First Movement                                                                                                      | Second Movement                     | Reason            | Margin |
+| Train shunting into Platform 2                                                                                      | Train arriving into Platform 1 from | Overlap on signal | 3      |
+| using 711 crossovers                                                                                                | Willingdon Junction                 | TEB1374           |        |
+| Operating Restrictions                                                                                              |                                     |                   |        |
+| Trains cannot be stood at Platform 1 for longer than 2 minutes due to level crossing being automatically enabled    |                                     |                   |        |
+| when approaching the platform.                                                                                      |                                     |                   |        |
+| Planning Note                                                                                                       |                                     |                   |        |
+| Trains formed of a 12 car EMU must not be planned to reverse at this station, due to operational restrictions.      |                                     |                   |        |
+| Hampden Park                                                                                                        |                                     |                   |        |
+| Connectional Allowances                                                                                             |                                     |                   |        |
+| All Services                                                                                                        | 4                                   |                   |        |
+| Dwell Times                                                                                                         |                                     |                   |        |
+| All Peak Services                                                                                                   | 1                                   |                   |        |

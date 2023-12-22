@@ -1,0 +1,49 @@
+|                                                                                                                   |                                            |                 |
+|:------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:----------------|
+| Kilmarnock                                                                                                        |                                            |                 |
+| Adjustments to Sectional Running Times                                                                            |                                            |                 |
+| Movement Up                                                                                                       | Reason                                     | Value           |
+| Freight trains from Barassie Junction                                                                             | Acceleration purposes between              | <600t: 0.5      |
+|                                                                                                                   | Kilmarnock and Mauchline                   | 600-800t: 1     |
+|                                                                                                                   |                                            | 1000-1600t: 1.5 |
+|                                                                                                                   |                                            | 1800t+: 2       |
+| Connectional Allowance                                                                                            | 3                                          |                 |
+| Coupling Restrictions                                                                                             |                                            |                 |
+| Platforms 1 or 2. First train must arrive from Lugton, before the train from Barassie.  Minimum of 41⁄2 minutes   |                                            |                 |
+| between arrivals, including 1 for approach control for train from Barassie.                                       |                                            |                 |
+| Platform 3.  First train must arrive from the South or from Lugton, before the train from Barassie.  Minimum of 3 |                                            |                 |
+| minutes between arrivals, including 1 for approach control for train from Barassie.                               |                                            |                 |
+| Dwell Time                                                                                                        |                                            |                 |
+| MU                                                                                                                | 1                                          |                 |
+| Junction Margins                                                                                                  |                                            |                 |
+| First Movement                                                                                                    | Second Movement                            | Margin          |
+| Arrive/pass from South                                                                                            | Depart to South (when conflicting)         | 1               |
+| Arrive/pass from South                                                                                            | Arrive/pass from Lugton (when conflicting) | 5               |
+| Arrive/pass from South                                                                                            | Arrive/pass from Barassie                  | 51⁄2            |
+| Depart/pass to South                                                                                              | Arrive/pass from South (when conflicting)  | 4               |
+| Arrive/pass from Barassie                                                                                         | Depart to Barassie                         | 1               |
+| Arrive/pass from Barassie                                                                                         | Depart to Lugton                           | 1               |
+| Arrive/pass from Barassie                                                                                         | Arrive from Lugton                         | 3               |
+| Arrive/pass from Barassie                                                                                         | Pass to Barassie                           | 4               |
+| Arrive/pass from Barassie                                                                                         | Pass to Lugton                             | 4               |
+| Arrive platforms 1/2                                                                                              | Arrive platform 3 from South               | 3               |
+| Arrive/pass from Lugton                                                                                           | Depart to Barassie                         | 1               |
+| Arrive/pass from Lugton                                                                                           | Depart to Lugton                           | 1               |
+| Arrive/pass from Lugton                                                                                           | Arrive/pass from Barassie (when            | 31⁄2            |
+|                                                                                                                   | conflicting)                               |                 |
+|                                                                                                                   | Classes 0, 1, 2, 3, 5                      |                 |
+| Arrive/pass from Lugton                                                                                           | Arrive from Barassie (when conflicting)    | 41⁄2            |
+|                                                                                                                   | Other classes                              |                 |
+| Arrive/pass from Lugton                                                                                           | Pass to Barassie                           | 4               |
+| Arrive/pass from Lugton                                                                                           | Pass to Lugton                             | 4               |
+| Depart to Lugton                                                                                                  | Depart to Barassie                         | 3               |
+| Depart to Barassie                                                                                                | Depart to Lugton                           | 21⁄2            |
+| Depart/pass to Lugton                                                                                             | Arrive/pass from Barassie (when            | 31⁄2            |
+|                                                                                                                   | conflicting)                               |                 |
+|                                                                                                                   | Classes 0, 1, 2, 3, 5                      |                 |
+| Depart/pass to Lugton                                                                                             | Arrive/pass from Barassie (when            | 41⁄2            |
+|                                                                                                                   | conflicting)                               |                 |
+|                                                                                                                   | Other classes                              |                 |
+| Depart/pass to Barassie                                                                                           | Arrive/pass from Lugton (when conflicting) | 3               |
+| Arrive/pass from South                                                                                            | Pass/Depart Mauchline                      | Same time+      |
+| Pass Mauchline                                                                                                    | Pass/Depart to South                       | Same time       |

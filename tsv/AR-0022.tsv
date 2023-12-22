@@ -1,0 +1,58 @@
+|                                                                         |           |          |      |                                                   |
+|:------------------------------------------------------------------------|:----------|:---------|:-----|:--------------------------------------------------|
+| EA1010 LIVERPOOL STREET TO SEVEN KINGS                                  |           |          |      |                                                   |
+| TIMING POINT                                                            | DOWN      | UP       | CODE | NOTES                                             |
+| Running line codes must be shown between Liverpool Street and Shenfield |           |          |      |                                                   |
+| Liverpool Street                                                        | ML  EL  S |          |      | Platform detail must be shown                     |
+|                                                                         | ML1 ML2   |          |      |                                                   |
+| Wheler Street Junction                                                  |           | ML       | X    | Timing point for Up EL trains crossing to Up      |
+|                                                                         |           |          |      | ML                                                |
+| Bethnal Green West Junction                                             |           |          |      | To/from Hackney Downs - EA1160                    |
+| Bethnal Green                                                           | ML EL FL  | ML EL S  |      |                                                   |
+|                                                                         | S EMM     | FSM      |      |                                                   |
+|                                                                         | MEM       | MME      |      |                                                   |
+|                                                                         | SEM       | FMS FSE  |      |                                                   |
+|                                                                         |           | MEM      |      |                                                   |
+|                                                                         |           | S1 S2    |      |                                                   |
+| Bethnal Green East Junction                                             |           |          |      | To/from Hackney Downs – EA1160                    |
+| Bow Junction                                                            | ML  EL    | ML  EL   |      | To/from Gas Factory Junction – EA1400             |
+|                                                                         | BL UBL    | XUL      |      |                                                   |
+|                                                                         | DX1 DX2   |          |      |                                                   |
+|                                                                         | DX3 DX4   |          |      |                                                   |
+| Bow Depot Reception                                                     |           | -        | F    | Only trains to/from Yard                          |
+| Bow Yard                                                                | BL        |          | F    | Only trains to/from Yard                          |
+| Pudding Mill Lane Junction                                              | EL        | -        | X    | To/from Stepney Green Junction – Refer to         |
+|                                                                         |           |          |      | Crossrail Timetable Planning Rules – XR001        |
+|                                                                         |           |          |      | Trains to and from Crossrail Central Operating    |
+|                                                                         |           |          |      | Section only.                                     |
+| Carpenters Road South                                                   | -         | BL DBL   | X    | To/from Carpenters Road North Junction via        |
+| Junction                                                                |           | ML       |      | Carpenters Road Curve – EA1020                    |
+|                                                                         |           |          |      | Timing point for trains to/from Bow Yard          |
+| Stratford Central Junction                                              |           |          |      | To/from Carpenters Road North Junction via        |
+| West                                                                    |           |          |      | Channelsea Curve – EA1150                         |
+|                                                                         |           |          |      | To/from Temple Mills East Junction – EA1280       |
+| Stratford                                                               | ML EL     | ML EL BL |      | Platform detail must be shown                     |
+|                                                                         | UML XL    | - AL     |      | Default line code applies to trains which stop at |
+|                                                                         | XDL       | DML DBL  |      | Signal L295 or via Channelsea Curve.              |
+|                                                                         | -         | UX1 UX2  |      | Up line code AL for moves via Channelsea          |
+|                                                                         |           | UX3 UX4  |      | Avoiding Loop (preferred route towards Lea        |
+|                                                                         |           |          |      | Junction if available)                            |
+|                                                                         |           |          |      | Line code DBL is to Carpenters Road South         |
+|                                                                         |           |          |      | Junction                                          |
+| Stratford Signal L295                                                   | -         |          | S    | Tiploc – STFD295                                  |
+| (Angel Lane Loop)                                                       |           |          |      |                                                   |
+| Stratford Country End                                                   |           |          |      |                                                   |
+| Crossovers                                                              |           |          |      |                                                   |
+| Maryland                                                                | ML  EL    | ML  EL   | S  X | Timing point for all trains on the Down ML.       |
+|                                                                         | UEL UML   | DEL DML  |      | Timing point for Up ML trains crossing via        |
+|                                                                         |           | XL XDL   |      | Stratford Country End Crossovers to EL            |
+| Maryland East Crossovers                                                |           |          |      |                                                   |
+| Forest Gate                                                             | ML  EL    | ML  EL   | S  X | Timing Point for Down trains crossing via         |
+|                                                                         |           | DML DEL  |      | Forest Gate Junction crossovers.                  |
+|                                                                         |           |          |      | Timing point for Up trains crossing via           |
+|                                                                         |           |          |      | Maryland East Crossovers.                         |
+| Forest Gate Junction                                                    | ML  EL    | ML  EL   |      | To/from Woodgrange Park – EA1030                  |
+|                                                                         |           | DML      |      | Services required to recess on the Up             |
+|                                                                         |           |          |      | Passenger Avoiding Line (line code IE)            |
+|                                                                         |           |          |      | approaching Signal L336 to be planned to stop     |
+|                                                                         |           |          |      | at Forest Gate Junction                           |

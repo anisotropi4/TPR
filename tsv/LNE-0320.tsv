@@ -1,0 +1,57 @@
+|                     |            |        |                |
+|:--------------------|:-----------|:-------|:---------------|
+| STATION             | PLATFORM   | USABLE | NOTES          |
+|                     |            | LENGTH |                |
+| Shireoaks           | Up         | 97     |                |
+| Silkstone Common    | Single     | 102    |                |
+| Skegness            | 2          | 201    |                |
+| Skegness            | 3          | 201    |                |
+| Skegness            | 4          | 245    |                |
+| Skegness            | 5          | 245    |                |
+| Skipton             | 1          | 99     |                |
+| Skipton             | 2          | 200    | Up direction   |
+| Skipton             | 2          | 197    | Down direction |
+| Skipton             | 3          | 183    | Down direction |
+| Skipton             | 3          | 155    | Up direction   |
+| Skipton             | 4          | 182    | Down direction |
+| Skipton             | 4          | 154    | Up direction   |
+| Slaithwaite         | Down       | 99     |                |
+| Slaithwaite         | Up         | 99     |                |
+| Sleaford            | 1          | 224    |                |
+| Sleaford            | 2          | 186    |                |
+| Sleaford            | 3          | 186    |                |
+| Sleights            | Single     | 74     |                |
+| Snaith              | Single     | 42     |                |
+| South Bank          | Down       | 75     |                |
+| South Bank          | Up         | 74     |                |
+| South Elmsall       | Down       | 91     |                |
+| South Elmsall       | Up         | 91     |                |
+| South Hylton        |            | 130    |                |
+| South Milford       | Down       | 68     |                |
+| South Milford       | Up         | 91     |                |
+| Sowerby Bridge      | Down       | 118    |                |
+| Sowerby Bridge      | Up         | 121    |                |
+| Spalding            | Down       | 145    |                |
+| Spalding            | Up         | 183    |                |
+| St Neots            | Down Fast  | 249    |                |
+| St Neots            | Down Slow  | 249    |                |
+| St Neots            | Up Fast    | 249    |                |
+| St Neots            | Up Slow    | 249    |                |
+| St Peters           | Down       | 65     |                |
+| St Peters           | Up         | 65     |                |
+| Stadium of Light    | Down       | 65     |                |
+| Stadium of Light    | Up         | 65     |                |
+| Stallingborough     | Down       | 85     |                |
+| Stallingborough     | Up         | 86     |                |
+| Starbeck            | Down       | 139    |                |
+| Starbeck            | Up         | 139    |                |
+| Steeton and Silsden | Down       | 102    |                |
+| Steeton and Silsden | Up         | 102    |                |
+| Stevenage           | Down Fast  | 247    |                |
+| Stevenage           | Down Slow  | 247    |                |
+| Stevenage           | Up Fast    | 247    |                |
+| Stevenage           | Up Slow    | 247    |                |
+| Stevenage           | Platform 5 | 127    |                |
+|                     | (turnback) |        |                |
+| Stocksfield         | Down       | 109    |                |
+| Stocksfield         | Up         | 119    |                |

@@ -1,0 +1,21 @@
+|              |                                                                                    |
+|:-------------|:-----------------------------------------------------------------------------------|
+| Abbreviation | Description                                                                        |
+| M            | Monday                                                                             |
+| T            | Tuesday                                                                            |
+| W            | Wednesday                                                                          |
+| Th           | Thursday                                                                           |
+| F            | Friday                                                                             |
+| S            | Saturday                                                                           |
+| Su           | Sunday                                                                             |
+| EWD          | Every Week Day (Monday to Saturday)                                                |
+| Daily        | Every day – will not accept this; there must be a separate entry for Sundays       |
+| Suffixes     |                                                                                    |
+| O            | Adding this indicates that the train will run only on that day or those days shown |
+| X            | Adding this indicates that the train will not run on that day or those days shown  |
+| General      |                                                                                    |
+| BHX          | Denotes that this train does not run on a bank holiday                             |
+| Abbreviation | Description                                                                        |
+| DMU          | Any diesel multiple unit                                                           |
+| ECS          | Empty Coaching Stock                                                               |
+| EMU          | Electric multiple unit                                                             |

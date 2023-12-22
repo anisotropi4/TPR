@@ -1,0 +1,46 @@
+|                                                                                                                |                                               |             |       |
+|:---------------------------------------------------------------------------------------------------------------|:----------------------------------------------|:------------|:------|
+| From Paddington                                                                                                | 5                                             | 6           | 8     |
+| From Marlow/Bourne End                                                                                         | 4                                             |             |       |
+| Signalled Moves                                                                                                |                                               |             |       |
+| It is not possible for a train to be signalled into Platform 5 from the Down Main or Down Relief Line, via     |                                               |             |       |
+| Maidenhead East Junction, when a train is arriving into platform 4 in the up direction                         |                                               |             |       |
+| Class 16X services arriving into Platform 5 from the east, should be no more than 5 vehicles in length.        |                                               |             |       |
+| This is due to the presence of an intermediate Stop-Car Marker, which ensures that services from Marlow can be |                                               |             |       |
+| routed permissively into Platform 5, even when the London end of the platform is occupied.                     |                                               |             |       |
+| Movements from Platform 5, shunting to another platform, cannot be routed via Maidenhead East, and should be   |                                               |             |       |
+| timed via the stabling lines.                                                                                  |                                               |             |       |
+| Platform Reoccupation                                                                                          |                                               |             |       |
+| First Movement                                                                                                 | Second Movement                               | Margin      |       |
+| Up freight pass either Platform 4 or Platform 5                                                                | Up arrival into either Platform 4 or Platform | 3           |       |
+|                                                                                                                | 5                                             |             |       |
+| Down Class 7/8 freight pass Platform 3                                                                         | Down arrival into Platform 3 continuing       | 31⁄2        |       |
+|                                                                                                                | towards Twyford                               |             |       |
+| Down freight pass Platform 3                                                                                   | Down arrival into Platform 3 continuing       | 3           |       |
+|                                                                                                                | towards Reversing Siding                      |             |       |
+| Twyford                                                                                                        |                                               |             |       |
+| Adjustment to Sectional Running Time (shown approaching this location)                                         |                                               |             |       |
+| Movement                                                                                                       | Reason                                        | Timing Load | Value |
+| From Down Relief into Platform 4 (Up Relief                                                                    | Slow turnout & approach                       | 16x         | {1}   |
+| line platform)                                                                                                 | control                                       | 387/319/769 |       |
+| Connectional Allowance                                                                                         | 3                                             |             |       |
+| Dwell Time                                                                                                     |                                               |             |       |
+| Class 165/6                                                                                                    | 1                                             |             |       |
+| Class 387/319/769                                                                                              | 1                                             |             |       |
+| 80x                                                                                                            | 11⁄2                                          |             |       |
+| Junction Margins                                                                                               |                                               |             |       |
+| First Movement                                                                                                 | Second Movement                               | Margin      |       |
+| Depart or pass Platform 4 in the Up direction                                                                  | Arrive or pass Platform 4 in the Down         | 4           |       |
+|                                                                                                                | direction                                     |             |       |
+| Depart or pass Platform 4 in the Down                                                                          | Arrive or pass Platform 4 in the Up direction | 5           |       |
+| direction                                                                                                      |                                               |             |       |
+| Platform Re-occupation                                                                                         |                                               |             |       |
+| First Movement                                                                                                 | Second Movement                               | Margin      |       |
+| Freight pass Platform 4                                                                                        | Arrive into Platform 4                        | 3           |       |
+| Freight pass Platform 3                                                                                        | Arrive into Platform 3                        | 3           |       |
+| Turnround Allowances (From Paddington)                                                                         |                                               |             |       |
+| Class 80X (5 car)                                                                                              | 6                                             |             |       |
+| Class 80X (9/10 Car)                                                                                           | 8                                             |             |       |
+| Class 387/319/769                                                                                              | 7                                             |             |       |
+| Kennet Bridge Jn                                                                                               |                                               |             |       |
+| Adjustment to Sectional Running Time (shown approaching this location)                                         |                                               |             |       |

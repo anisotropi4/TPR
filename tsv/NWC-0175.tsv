@@ -1,0 +1,39 @@
+|                                                          |                                               |               |
+|:---------------------------------------------------------|:----------------------------------------------|:--------------|
+| Camden Jn                                                |                                               |               |
+| Adjustments to Sectional Running Times                   |                                               |               |
+| Movement Down                                            | Reason                                        | Value         |
+| Passenger or ECS from Camden Road West                   | Differential Junction speed                   | 1 (to be      |
+| Jn to the Down Slow which has not stopped at             |                                               | applied at    |
+| Camden Jn                                                |                                               | next          |
+|                                                          |                                               | mandatory     |
+|                                                          |                                               | timing point) |
+| Movement Up                                              | Reason                                        | Value         |
+| Passenger or ECS to Camden Road                          | Differential Junction speed                   | 1             |
+| Dwell Time                                               |                                               |               |
+| Change of electric power mode to/from non-               | 1                                             |               |
+| DC platforms at Euston                                   |                                               |               |
+| Kilburn Up and Down Goods Loop                           |                                               |               |
+| Adjustments to Sectional Running Times                   |                                               |               |
+| Movement Up                                              | Reason                                        | Value         |
+| Up Slow to Loop approaching Kilburn Up and               | Approach Control                              | 1             |
+| Down Goods Loop                                          |                                               |               |
+| Willesden TMD                                            |                                               |               |
+| Adjustments to Sectional Running Times                   |                                               |               |
+| Movement Up                                              | Reason                                        | Value         |
+| ECS from the Up Slow                                     | Arrival is possible into either TMD Loop or   | 4             |
+|                                                          | Arrival Road                                  |               |
+| Margins between arrivals and departures                  |                                               |               |
+| Minimum interval between all moves to/from Willesden TMD | 12                                            |               |
+| Willesden West London Jn                                 |                                               |               |
+| Adjustments to Sectional Running Times                   |                                               |               |
+| Movement Down                                            | Reason                                        | Value         |
+| From Mitre Bridge Jn to Down Fast or Down                | Differential Junction speed and signal        | 1 Before &    |
+| Slow                                                     | restriction                                   | 1 after       |
+| Down Fast or Down Slow to Relief Lines, South            | Approach Control                              | 1 for         |
+| West Sidings or Acton Lane Reception                     |                                               | Passenger     |
+| approaching West London Jn                               |                                               | and ECS, 2    |
+|                                                          |                                               | for freight   |
+| ECS from Camden Jn towards Willesden TMD                 | Slow crossover                                | 1             |
+| Train from Willesden TMD towards the Down                | Departure is possible from either TMD Loop or | 3             |
+| Slow                                                     | Departure Road                                |               |

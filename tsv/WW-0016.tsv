@@ -1,0 +1,53 @@
+|                  |                                                                                      |
+|:-----------------|:-------------------------------------------------------------------------------------|
+| Reporting        | Description                                                                          |
+| number           |                                                                                      |
+| 2Nxx             | Paddington to Didcot                                                                 |
+| [Even numbered]  | Par to Newquay                                                                       |
+| [Odd numbered]   | Newquay to Par                                                                       |
+|                  | Cardiff Central to Ebbw Vale Town not via Newport (South Wales)                      |
+| 2Oxx             | Destination in Southern Region                                                       |
+|                  | Crosskeys to Newport (South Wales)                                                   |
+|                  | Ebbw Vale Town to Cardiff Central via Newport (South Wales)                          |
+| 2Oxx [01-25, odd | Gloucester/Swindon to Salisbury/Southampton via Melksham                             |
+| numbered]        |                                                                                      |
+| 2Pxx             | Didcot/Reading to Paddington                                                         |
+|                  | Exeter to Plymouth                                                                   |
+|                  | Penzance/Truro/Newquay/Par/Liskeard to Plymouth                                      |
+|                  | Core Valley Lines/Cardiff Central to Penarth                                         |
+| 2Rxx             | Paddington to Reading                                                                |
+|                  | Bath Spa to Filton Abbey Wood/Bristol PW via Rhubarb Loop                            |
+|                  | Bristol PW/Filton Abbey Wood to Bath Spa via Rhubarb Loop                            |
+|                  | Terminating services at Exeter Central                                               |
+|                  | Cardiff Central/Penarth to Rhymney                                                   |
+| 2Sxx             | Cardiff Bay to Cardiff Queen Street                                                  |
+| [Even numbered]  |                                                                                      |
+| 2Txx             | Heathrow Terminals 2 & 3 to Heathrow Terminal 4                                      |
+|                  | Exeter/Newton Abbot to Paignton                                                      |
+|                  | Frome/Warminster/Westbury to Bristol TM                                              |
+|                  | Malvern/Worcester/Gloucester to Bristol TM                                           |
+| [Even numbered]  | Newbury to Bedwyn                                                                    |
+| [Odd numbered]   | Bedwyn to Newbury                                                                    |
+|                  | Falmouth to Truro                                                                    |
+| [Even numbered]  | Barry Island/Cardiff Central/Penarth to Treherbert                                   |
+| 2Uxx             | Heathrow Terminal 4 to Heathrow Terminals 2 & 3                                      |
+|                  | WoE/Exeter/Taunton/Weston/Bristol to Cardiff                                         |
+| 2Vxx             | Origin in another region                                                             |
+|                  | Shrewsbury to Swansea/Carmarthen via Heart of Wales Line                             |
+|                  | Coryton to Radyr                                                                     |
+| 2Wxx             | Slough to Windsor                                                                    |
+|                  | Exeter to Pinhoe                                                                     |
+| 2Yxx             | Elizabeth line to Paddington High Level                                              |
+|                  | Bristol TM to Weston Super-Mare                                                      |
+|                  | Core Valley Lines/Cardiff Central to Barry Island                                    |
+| 2Zxx             | Special traffic additional trains                                                    |
+|                  | Must NOT be used for WTT services                                                    |
+| Class 3          |                                                                                      |
+| 3Jxx             | Network Rail Railhead Treatment Train (RHTT) diagrams that apply water-jetting only. |
+| 3Qxx             | Network Rail test train (Ultrasonic Test Unit loco hauled at 75mph or below)         |
+| 3Sxx             | Network Rail Railhead Treatment Train (RHTT) diagrams that apply sandite             |
+| Class 9          |                                                                                      |
+| 9Cxx             | Elizabeth line to Gidea Park                                                         |
+| [Even numbered]  |                                                                                      |
+| 9Hxx             | Elizabeth line to Heathrow Terminal 4                                                |
+| 9Nxx             | Elizabeth line to Maidenhead                                                         |

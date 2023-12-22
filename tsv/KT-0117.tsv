@@ -1,0 +1,43 @@
+|                                                                                                             |                                   |                   |
+|:------------------------------------------------------------------------------------------------------------|:----------------------------------|:------------------|
+| Ashford International                                                                                       |                                   |                   |
+| Domestic passenger trains may not run via Platforms 3 and 4 because of customs and immigration implications |                                   |                   |
+| Outbound Eurostar UK services in a flight should be routed first to Platform 4 and then to Platform 3       |                                   |                   |
+| Inbound Eurostar UK services in a flight should be routed first to Platform 3 and then to Platform 4        |                                   |                   |
+| Access to Ashford Up Sidings is via Platforms 1 and 2 only                                                  |                                   |                   |
+| Overlap Restrictions                                                                                        |                                   |                   |
+| First Movement                                                                                              | Second Movement                   | Margin            |
+| Down arrival from Pluckley into Platform 6                                                                  | Up train arriving Platform 5      | 3                 |
+| Up train arriving Platform 5                                                                                | Down train arriving from Pluckley | 2                 |
+| Ashford Hitachi Depot                                                                                       |                                   |                   |
+| Berthing Facilities                                                                                         |                                   |                   |
+| Location                                                                                                    | Cars                              | Notes             |
+| Depot Road No 1                                                                                             | 12                                |                   |
+| Depot Road No 2                                                                                             | 12                                |                   |
+| Depot Road No 3                                                                                             | 12                                |                   |
+| Depot Road No 4                                                                                             | 16                                |                   |
+| Depot Road No 5                                                                                             | 16                                |                   |
+| Depot Road No 6                                                                                             | 16                                |                   |
+| Depot Road No 7                                                                                             | 16                                |                   |
+| Depot Road No 8                                                                                             | 16                                |                   |
+| Depot Road No 9                                                                                             | 16                                |                   |
+| Depot Road No 10                                                                                            | 16                                |                   |
+| Depot Road No 11                                                                                            | 8                                 |                   |
+| Depot Road No 12                                                                                            | 8                                 | BIO road with Pit |
+| Depot Road No 13                                                                                            | 6                                 |                   |
+| Depot Road No 14                                                                                            | 6                                 |                   |
+| Depot Road No 15                                                                                            | 6                                 |                   |
+| Depot Road No 16                                                                                            | 6                                 |                   |
+| Depot Road No 17                                                                                            | 6                                 |                   |
+| Depot Road No 18                                                                                            | 6                                 |                   |
+| Carriage Washer and CET facilities available                                                                |                                   |                   |
+| Ashford East Junction                                                                                       |                                   |                   |
+| Adjustments to Sectional Running Times                                                                      |                                   |                   |
+| Movement Up                                                                                                 | Reason                            | Value             |
+| All freight trains crossing to the Down Main or                                                             | Speed Differential                | 1                 |
+| Down Slow Line                                                                                              |                                   |                   |
+| Saltwood Junction                                                                                           |                                   |                   |
+| Adjustments to Sectional Running Times                                                                      |                                   |                   |
+| Movement Down                                                                                               | Reason                            | Value             |
+| All freight trains crossing to the Down Main or                                                             | Speed Differential                | 11⁄2              |
+| Down Slow Line                                                                                              |                                   |                   |

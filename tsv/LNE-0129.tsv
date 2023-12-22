@@ -1,0 +1,33 @@
+|                                                                                                                 |                                            |                        |
+|:----------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:-----------------------|
+| Woolmer Green                                                                                                   |                                            |                        |
+| Adjustments to Sectional Running Times                                                                          |                                            |                        |
+| Movement Down                                                                                                   | Reason                                     | Value                  |
+| Down Main to Down Slow                                                                                          | Deceleration                               | 1⁄2*                   |
+|                                                                                                                 |                                            | 180/387/700/80x/91/HST |
+| *Not required for services that have called at Welwyn North                                                     |                                            |                        |
+| Movement Up                                                                                                     | Reason                                     | Value                  |
+| Up Slow to Up Main                                                                                              | Acceleration – to be applied after Woolmer | 1⁄2 180/80x/91/HST     |
+|                                                                                                                 | Green Junction                             |                        |
+| *Not required for services calling at Welwyn North                                                              |                                            |                        |
+| Junction Margins – Down direction                                                                               |                                            |                        |
+| First Movement                                                                                                  | Second Movement                            | Margin                 |
+| All margins (unless stated below)                                                                               | 3                                          |                        |
+| Down Main to Down Slow passenger                                                                                | Down Main to Down Fast passenger           | 21⁄2                   |
+| Junction Margins – Up direction                                                                                 |                                            |                        |
+| First Movement                                                                                                  | Second Movement                            | Margin                 |
+| Up Fast to Up Main (not calling at                                                                              | Up Slow to Up Main (not calling at Welwyn  | 2#                     |
+| Welwyn North)                                                                                                   | North)                                     |                        |
+| Up Fast to Up Main (not calling at                                                                              | Up Slow to Up Main (calling at Welwyn      | 11⁄2#                  |
+| Welwyn North)                                                                                                   | North)                                     |                        |
+| Up Fast to Up Main (not calling at                                                                              | Depart Up Slow (Signal K632) to Up Main    | 11⁄2                   |
+| Welwyn North)                                                                                                   |                                            |                        |
+| Up Fast to Up Main (calling at Welwyn                                                                           | Up Fast or Slow to Up Main (not calling at | 4                      |
+| North)                                                                                                          | Welwyn North)                              |                        |
+| Up Slow to Up Main (calling at Welwyn                                                                           | Up Fast or Slow to Up Main (not calling at | 4                      |
+| North)                                                                                                          | Welwyn North)                              |                        |
+| #Where the first train is an express service timed at 100mph or above, the converging margin here should take   |                                            |                        |
+| precedence over the headway i.e. no pathing time should be applied to the second train between Woolmer Green    |                                            |                        |
+| Junction and Welwyn Garden City for the purpose of artificially re-establishing a higher headway value than the |                                            |                        |
+| margin given; the general headway of 3 minutes should naturally restore itself by Potters Bar.                  |                                            |                        |
+| Planning Note                                                                                                   |                                            |                        |

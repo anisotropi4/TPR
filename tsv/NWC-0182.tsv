@@ -1,0 +1,40 @@
+|                                                                                 |                                            |              |
+|:--------------------------------------------------------------------------------|:-------------------------------------------|:-------------|
+| Tring North Jn                                                                  |                                            |              |
+| Adjustments to Sectional Running Times                                          |                                            |              |
+| Movement Down                                                                   | Reason                                     | Value        |
+| Class 390 crossing Down Slow to Down Fast                                       | Differential Junction speed                | 1            |
+|                                                                                 |                                            | approaching  |
+|                                                                                 |                                            | Tring        |
+| Movement Up                                                                     | Reason                                     | Value        |
+| Class 390 crossing Up Fast to Up Slow                                           | Differential Junction speed                | 1 at next    |
+|                                                                                 |                                            | timing point |
+|                                                                                 |                                            | after Tring  |
+| Ledburn Jn                                                                      |                                            |              |
+| Adjustments to Sectional Running Times                                          |                                            |              |
+| Movement Down                                                                   | Reason                                     | Value        |
+| Down Fast to Down Slow                                                          | Differential Junction speed                | 1⁄2 EMU and  |
+|                                                                                 |                                            | Class 4      |
+|                                                                                 |                                            | 1 All except |
+|                                                                                 |                                            | EMU          |
+| Down Slow to Down Fast                                                          | Differential Junction speed                | 1⁄2 EMU and  |
+|                                                                                 |                                            | Class 4      |
+|                                                                                 |                                            | 1 All except |
+|                                                                                 |                                            | EMU          |
+| Movement Up                                                                     | Reason                                     | Value        |
+| Up Fast to Up Slow                                                              | Differential Junction speed                | 1⁄2 EMU and  |
+|                                                                                 |                                            | Class 4      |
+|                                                                                 |                                            | 1 All except |
+|                                                                                 |                                            | EMU          |
+| Up Slow to Up Fast                                                              | Differential Junction speed                | 1⁄2 EMU and  |
+|                                                                                 |                                            | Class 4      |
+|                                                                                 |                                            | 1 All except |
+|                                                                                 |                                            | EMU          |
+| Down direction and Up direction adjustments do not apply to Class 6 or 7 trains |                                            |              |
+| Junction Margins                                                                |                                            |              |
+| First Movement                                                                  | Second Movement                            | Value        |
+| Down Fast to Down Slow passenger                                                | Down Fast to Down Fast passenger (timed at | 21⁄2         |
+|                                                                                 | 100mph or above)                           |              |
+| Leighton Buzzard                                                                |                                            |              |
+| Dwell Time                                                                      |                                            |              |
+| Class 350 EMU                                                                   | 1                                          |              |

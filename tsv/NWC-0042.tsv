@@ -1,0 +1,45 @@
+|                                              |         |         |      |                                           |
+|:---------------------------------------------|:--------|:--------|:-----|:------------------------------------------|
+| MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON) |         |         |      |                                           |
+| TIMING POINT                                 | DOWN    | UP      | CODE | NOTES                                     |
+| Daventry South Jn                            | –       | –       | X    | Trains to/from Daventry terminals         |
+| Daventry IRFT                                | –       | –       | F    |                                           |
+| Daventry North Jn                            | –       | –       |      |                                           |
+| Hillmorton Jn                                | FL DNL  | –       |      |                                           |
+| Rugby South Jn                               |         |         |      |                                           |
+| Rugby                                        | FL SL   | FL DNL  |      | To/from Rugby Trent Valley Jn – MD101     |
+|                                              | USL DCL | UNL     |      |                                           |
+|                                              | UNL     |         |      |                                           |
+| MD120 CAMDEN JN TO WATFORD JUNCTION DC LINES |         |         |      |                                           |
+| TIMING POINT                                 | DOWN    | UP      | CODE | NOTES                                     |
+| Camden Jn                                    | DC      | B C D – |      | To/from Camden South Jn – MD101           |
+|                                              |         |         |      | To/from Camden Road West Jn – MD145       |
+| South Hampstead                              | DC      | DC      | S    |                                           |
+| Kilburn High Road                            | DC      | DC      | S    |                                           |
+| Queen's Park                                 | DC 21   | DC      |      |                                           |
+| Queen’s Park Jn                              | DC      | DC 24   |      | To/from LUL (Bakerloo Line)               |
+| Kensal Green                                 | DC      | DC      | S    |                                           |
+| Willesden Signal WS301                       |         | –       | S    | Shunt signal for movements between        |
+|                                              |         |         |      | platforms at Willesden Junction Low Level |
+| Willesden Suburban Jn                        |         |         |      | To/from Kensal Green Jn – MD150           |
+|                                              |         |         |      | To/from Willesden TMD                     |
+| Willesden Junction Low Level                 | DC      | DC –    |      | Platform detail must be shown             |
+| Willesden Signal WS303                       | –       |         | S    | Shunt signal for movements between        |
+|                                              |         |         |      | platforms at Willesden Junction Low Level |
+| Harlesden                                    | DC      | DC      | S    |                                           |
+| Stonebridge Park                             | DC –    | DC      |      |                                           |
+| STNBS36                                      | DC      |         | X    | WS36/38 signal. Down trains to LUL depot  |
+| STNBS34                                      |         | DC      | X    | WS32/34 signal. Up trains to LUL depot    |
+| Wembley Central DC                           | DC      | DC      |      |                                           |
+| North Wembley                                | DC      | DC      | S    |                                           |
+| South Kenton                                 | DC      | DC      | S    |                                           |
+| Kenton                                       | DC      | DC      | S    |                                           |
+| Harrow & Wealdstone DC                       | DC      | DC      |      |                                           |
+| Harrow DC Signal 307                         | DC      | DC      |      | To/from Turnback Siding only              |
+| Headstone Lane                               | DC      | DC      | S    |                                           |
+| Hatch End                                    | DC      | DC      | S    |                                           |
+| Carpenders Park                              | DC      | DC      | S    |                                           |
+| Bushey                                       | DC      | DC      | S    |                                           |
+| Watford High Street                          | DC      | DC      |      |                                           |
+| Watford Junction                             |         | DC      |      | To/from Bourne End Jn  – MD101            |
+|                                              |         |         |      | Platform detail must be shown             |

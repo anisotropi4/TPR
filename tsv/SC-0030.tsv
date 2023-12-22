@@ -1,0 +1,53 @@
+|                                                                |        |        |      |                                          |
+|:---------------------------------------------------------------|:-------|:-------|:-----|:-----------------------------------------|
+| SC057 CATHCART EAST JUNCTION TO CATHCART NORTH JUNCTION        |        |        |      |                                          |
+| TIMING POINT                                                   | DOWN   | UP     | CODE | NOTES                                    |
+| Cathcart East Junction                                         |        |        |      | To/from – Kings Park - SC055             |
+| Cathcart North Junction                                        |        |        |      | To/from – Mount Florida – SC051          |
+| SC059 GLASGOW BRIDGE STREET JUNCTION TO STRANRAER (VIA PAISLEY |        |        |      |                                          |
+| GILMOUR STREET)                                                |        |        |      |                                          |
+| TIMING POINT                                                   | DOWN   | UP     | CODE | NOTES                                    |
+| Bridge Street Junction                                         | DA UA  | 4B 4C  |      | To/from Glasgow Central – SC001          |
+|                                                                | TS     | 4D 5C  |      |                                          |
+|                                                                |        | 5D 6D  |      |                                          |
+|                                                                |        | 8D 6 8 |      |                                          |
+| Smithy Lye                                                     | –      | –      | S    |                                          |
+| Shields Junction                                               | DA TS  | –      |      | To/from Terminus Junction – SC029        |
+|                                                                | UTT    | UTT    |      | To/from High St Junction – SC131 City    |
+|                                                                |        |        |      | Union Line                               |
+|                                                                |        |        |      | To/from Paisley Canal – SC061            |
+| Gower Street Junction                                          | DA UA  | UA UTT | X    | To Terminus Junction (via Burma Road) –  |
+|                                                                | UG     |        |      | SC029                                    |
+| Ibrox Jn                                                       | DA, UA | UA, UG | X    |                                          |
+| Helen Street Junction                                          | UA     | DA     | X    |                                          |
+| Cardonald                                                      | DA     | UG     | S    | Platform detail must be shown            |
+| Cardonald Junction                                             |        | UA UG  | X    | To/from Deanside – see SC063             |
+| Hillington East                                                | DA     | UG     | S    | Platform detail must be shown            |
+| Hillington West                                                | DA     | UG     | S    | Platform detail must be shown            |
+| Arkleston Junction                                             | DA DG  | UA UG  |      |                                          |
+|                                                                | UA UG  | DA     |      |                                          |
+| Paisley Down Goods Loop                                        | –      | –      | S    |                                          |
+| Paisley Gilmour Street                                         | –      | UA UG  |      | Platform detail must be shown            |
+|                                                                |        | DA DG  |      | To/from Paisley St James – SC065         |
+| Elderslie Signal GPE143                                        |        | -      | X    | To Loop/Freight Terminal                 |
+| Elderslie W H Malcolm                                          |        | -      | F    |                                          |
+| Elderslie Loop                                                 | -      | -      | S    |                                          |
+| Elderslie                                                      | –      | –      |      | Not Required By trains using Elderslie   |
+|                                                                |        |        |      | Loop                                     |
+| Johnstone                                                      | –      | –      | S    | Platform detail must be shown            |
+| Milliken Park                                                  | –      | –      | S    |                                          |
+| Howwood                                                        | –      | –      | S    |                                          |
+| Lochwinnoch                                                    | –      | –      |      |                                          |
+| Glengarnock UGL                                                | –      | –      | S    |                                          |
+| Glengarnock                                                    | –      | –      | S    |                                          |
+| Brownhill DPL                                                  | –      |        | S    |                                          |
+| Brownhill UPL                                                  |        | –      | S    |                                          |
+| Dalry Roche                                                    | –      | –      | F    |                                          |
+| Dalry                                                          | –      | –      |      |                                          |
+| Kilwinning UGL                                                 |        | –      | S    |                                          |
+| Kilwinning                                                     | –      | –      |      | Platform detail must be shown            |
+|                                                                |        |        |      | To/from Saltcoats – SC073                |
+| Byrehill Junction                                              | –      | –      | X    | Trains to and from Dubbs Junction only – |
+|                                                                |        |        |      | SC081                                    |
+| Bogside Junction                                               | –      | –      | X    | Down trains crossing from Up Line only   |
+| Irvine                                                         | –      | –      |      | Platform detail must be shown            |

@@ -1,0 +1,27 @@
+|                                                                                               |                                   |        |
+|:----------------------------------------------------------------------------------------------|:----------------------------------|:-------|
+| Gravesend                                                                                     |                                   |        |
+| Junction Margins                                                                              |                                   |        |
+| First Movement                                                                                | Second Movement                   | Margin |
+| Up train arrive/passplatform 1                                                                | Down train arrive into platform 0 | 21⁄2   |
+| Up train depart from platform 0                                                               | Up train arrive/pass platform 1   | 21⁄2*  |
+| Up train depart/pass platform 1                                                               | Up train depart from platform 0   | 2      |
+| Down train arrive in platform 0                                                               | Up train pass/arrives platform 1  | 2      |
+| Down train arrive in platform 0                                                               | Up train depart platform 1        | 1      |
+| Down train arrive/passing platform 1                                                          | Down train arrive into platform 0 | 3      |
+| Down train arrive platform 2                                                                  | Down train arrive into platform 0 | 3      |
+| *4 for freight without having to approach a red aspect                                        |                                   |        |
+| Adjustments to Sectional Running Times                                                        |                                   |        |
+| Movement                                                                                      | Reason                            | Value  |
+| Trains leaving Bay Platform 0                                                                 | Speed Differential                | 1⁄2    |
+| Trains arriving in Bay platform 0                                                             | Speed Differential                | 1      |
+| Down Trains arriving platform 1                                                               | Speed Differential                | 1⁄2    |
+| Connectional Allowance                                                                        | 4                                 |        |
+| Dwell Time                                                                                    |                                   |        |
+| All services                                                                                  | 1                                 |        |
+| Berthing Facilities                                                                           |                                   |        |
+| Location                                                                                      | Cars                              |        |
+| Platform 0                                                                                    | 12                                |        |
+| Permissive working for attaching/detaching and platform sharing is authorised as shown below: |                                   |        |
+| Platform 0 (Bay platform)                                                                     | Prohibited                        |        |
+| Platform 1                                                                                    | Prohibited                        |        |

@@ -1,0 +1,35 @@
+|                                                                      |                             |             |
+|:---------------------------------------------------------------------|:----------------------------|:------------|
+| North Wembley Jn                                                     |                             |             |
+| Adjustments to Sectional Running Times                               |                             |             |
+| Movement Down                                                        | Reason                      | Value       |
+| Down Slow to Down Fast (North Wembley Jn                             | Differential Junction speed | 1 Passenger |
+| and Harrow and Wealdstone)                                           |                             | 2 Freight   |
+| Movement Up                                                          | Reason                      | Value       |
+| Up Fast to Up Slow (Harrow and Wealdstone                            | Differential Junction speed | 1 Passenger |
+| and North Wembley Jn)                                                |                             | 2 Freight   |
+| Harrow and Wealdstone                                                |                             |             |
+| Dwell Time                                                           |                             |             |
+| Class 350 EMU                                                        | 1                           |             |
+| Bushey                                                               |                             |             |
+| Dwell Time                                                           |                             |             |
+| Class 350 EMU                                                        | 1                           |             |
+| Watford South Jn                                                     |                             |             |
+| Adjustments to Sectional Running Times                               |                             |             |
+| Movement Down                                                        | Reason                      | Value       |
+| Down Fast to Down Slow (approaching Watford                          | Differential Junction speed | 1           |
+| South Jn)                                                            |                             |             |
+| Watford Junction                                                     |                             |             |
+| Adjustments to Sectional Running Times                               |                             |             |
+| Movement Down                                                        | Reason                      | Value       |
+| Down Slow to Platforms 10 or 11                                      | Approach Control            | 11⁄2        |
+| Dwell Time                                                           |                             |             |
+| Class 390/80x                                                        | 11⁄2                        |             |
+| All other EMU                                                        | 1                           |             |
+| LH/HST                                                               | 1                           |             |
+| Minimum Turnround Time – Trains changing direction at end of journey |                             |             |
+| EMU up to 4 car, except:                                             | 5                           |             |
+| Class 377 4 or 5 car                                                 | 4                           |             |
+| EMU 6 to 8 car, except:                                              | 6                           |             |
+| Class 377 8 car                                                      | 5                           |             |
+| EMU 9 to 12 car                                                      | 9                           |             |

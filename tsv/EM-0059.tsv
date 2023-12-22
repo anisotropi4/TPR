@@ -1,0 +1,21 @@
+|                                                                                                            |                                          |                   |
+|:-----------------------------------------------------------------------------------------------------------|:-----------------------------------------|:------------------|
+| Leagrave Junction                                                                                          |                                          |                   |
+| station starters (WH107/307) protect the junction                                                          |                                          |                   |
+| Junction Margins                                                                                           |                                          |                   |
+| First Movement                                                                                             | Second Movement                          | Margin            |
+| All conflicting moves except for below:                                                                    |                                          | 3 before or       |
+|                                                                                                            |                                          | after             |
+| Up Fast to Up Fast pass                                                                                    | Down Fast to Down Slow having stopped at | 2                 |
+|                                                                                                            | Leagrave                                 |                   |
+| Planning Note                                                                                              |                                          |                   |
+| No timing allowances should be applied between Leagrave Junction and Leagrave as there are no intermediate |                                          |                   |
+| signals                                                                                                    |                                          |                   |
+| Sundon South Junction                                                                                      |                                          |                   |
+| Junction Margins                                                                                           |                                          |                   |
+| First Movement                                                                                             | Second Movement                          | Margin            |
+| Up Slow to Up Slow                                                                                         | Sundon Up Loop to Up Slow                | 2                 |
+| Sundon Up Loop to Up Slow                                                                                  | Up Slow to Up Slow                       | 1st train passing |
+|                                                                                                            |                                          | Leagrave Jn + 1⁄2 |
+|                                                                                                            |                                          | minute            |
+| Planning Notes                                                                                             |                                          |                   |

@@ -1,0 +1,58 @@
+|                     |                         |     |                                         |
+|:--------------------|:------------------------|----:|:----------------------------------------|
+| Redbridge           | 1 - Up                  | 148 |                                         |
+| Redbridge           | 2 - Down                | 148 |                                         |
+| Richmond            | 1 - Down                | 203 |                                         |
+| Richmond            | 2 - Up                  | 203 |                                         |
+| Romsey              | 1 - Up                  | 157 |                                         |
+| Romsey              | 2 - Down                | 154 |                                         |
+| Rowlands Castle     | 1 - Up                  | 133 |                                         |
+| Rowlands Castle     | 2 - Down                | 133 |                                         |
+| Salisbury           | 1 - Reception Road      | 223 | Only to be used by special instruction. |
+| Salisbury           | 2 - Up                  | 228 |                                         |
+| Salisbury           | 3 - Down Passenger Loop | 228 | Down direction                          |
+| Salisbury           | 3 - Down Passenger Loop | 228 | Up direction                            |
+| Salisbury           | 4 - Down                | 289 | Down direction                          |
+| Salisbury           | 4 - Down                | 289 | Up direction                            |
+| Salisbury           | 5 - West Bay            | 143 | (special instruction)                   |
+| Salisbury           | 6 - East Bay            | 162 |                                         |
+| Sandhurst           | 1 - Up                  |  84 |                                         |
+| Sandhurst           | 2 - Down                |  84 |                                         |
+| Shalford            | 1 - Up Reading          | 104 |                                         |
+| Shalford            | 2 - Down Reading        |  97 | Down direction                          |
+| Shalford            | 2 - Down Reading        |  97 | Up direction                            |
+| Shawford            | 1 - Up                  | 105 |                                         |
+| Shawford            | 2 - Down Fast           | 105 | Down direction                          |
+| Shawford            | 2 - Down Fast           | 105 | Up direction                            |
+| Shawford            | 3 - Down Slow           |  86 | Down direction                          |
+| Shawford            | 3 - Down Slow           | 105 | Up direction                            |
+| Shepperton          | Single                  | 210 |                                         |
+| Sherborne           | 1 - Up                  | 143 | Down direction                          |
+| Sherborne           | 1 - Up                  | 143 |                                         |
+| Sherborne           | 2 - Down                | 159 |                                         |
+| Sholing             | 1 - Up                  | 160 |                                         |
+| Sholing             | 2 - Down                | 160 |                                         |
+| Southampton Airport | 1 - Up                  | 248 |                                         |
+| Parkway             |                         |     |                                         |
+| Southampton Airport | 2 - Down                | 248 |                                         |
+| Parkway             |                         |     |                                         |
+| Southampton Central | 1 - Up Fast             | 277 | Down direction                          |
+| Southampton Central | 1 - Up Fast             | 277 | Up direction                            |
+| Southampton Central | 2 - Up Slow             | 277 | Down direction                          |
+| Southampton Central | 2 - Up Slow             | 277 | Up direction                            |
+| Southampton Central | 3 - Down Slow           | 277 | Down direction                          |
+| Southampton Central | 3 - Down Slow           | 277 | Up direction                            |
+| Southampton Central | 4 - Down Fast           | 277 | Down direction                          |
+| Southampton Central | 4 - Down Fast           | 277 | Up direction                            |
+| Southampton Central | 5 - Down Bay            | 136 | (special instruction)                   |
+| St Denys            | 1 - Up                  | 139 |                                         |
+| St Denys            | 2 - Down                | 139 |                                         |
+| St Denys            | 3 - Down Netley         | 140 |                                         |
+| St Denys            | 4 - Up Netley           | 140 |                                         |
+| St Margarets        | 1- Up Passenger Loop    | 204 |                                         |
+| St Margarets        | 2 - Up                  | 205 |                                         |
+| St Margarets        | 3 - Down                | 205 |                                         |
+| Staines             | 1 - Up                  | 206 |                                         |
+| Staines             | 2 - Down                | 206 |                                         |
+| Stoneleigh          | 1 - Up                  | 205 |                                         |
+| Stoneleigh          | 2 - Down                | 208 |                                         |

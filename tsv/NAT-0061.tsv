@@ -1,0 +1,45 @@
+|      |      |      |            |                       |                       |
+|:-----|:-----|:-----|:-----------|:----------------------|:----------------------|
+| Type | Days | TID  | Start Time | Origin                | Destination           |
+|      |      | 3J30 |            |                       | Harringay Up Rev      |
+|      |      |      |            |                       | SDGS                  |
+| RHTT | SX   | 3J32 | 04:09      | Foxton                | Royston (Herts)Loop   |
+|      |      |      | 04:06      |                       | Harringay Up Rev      |
+|      |      |      |            |                       | SDGS                  |
+| RHTT | SO   | 3J32 | 04:42      | Foxton                | Royston (Herts)Loop   |
+|      |      |      |            |                       | Harringay Up Rev      |
+|      |      |      |            |                       | SDGS                  |
+| RHTT | Su   | 3J32 | 14:08      | Foxton                | Harringay Up Rev      |
+|      |      |      |            |                       | SDGS                  |
+| RHTT | SX   | 3J33 | 07:42      | Royston (Herts)Loop   | Royston (Herts)Loop   |
+|      |      | 3J34 |            |                       |                       |
+| RHTT | SO   | 3J33 | 09:04      | Royston (Herts)Loop   | Royston (Herts)Loop   |
+|      |      | 3J34 |            |                       |                       |
+| RHTT | SX   | 3J34 | 11:02      | Royston (Herts)Loop   | Royston               |
+|      |      | 3J36 |            |                       | Ferme Park Recp       |
+| RHTT | SO   | 3J34 | 12:31      | Royston (Herts)Loop   | Royston (Herts)Loop   |
+|      |      | 3J36 |            |                       | Ferme Park Recp       |
+| RHTT | SX   | 3J35 | 16:42      | Royston               | Peterborough L.I.P.   |
+|      |      | 3J38 | 16:43      |                       | Harringay Up Rev Sdgs |
+| RHTT | SO   | 3J35 | 18:32      | Royston (Herts)Loop   | Peterborough L.I.P.   |
+|      |      | 3J38 | 18:33      |                       | Harringay Up Rev Sdgs |
+| RHTT | Su   | 3J40 | 10:17      | Doncaster Up Decoy    | Peterborough L.I.P.   |
+| RHTT | SO   | 3J41 | 08:08      | Peterborough L.I.P.   | Doncaster Up Decoy    |
+| RHTT | TThO | 3J41 | 08:03      | Peterborough L.I.P.   | Barnetby              |
+| RHTT | MWFO | 3J41 | 06:10      | Peterborough L.I.P.   | Doncaster Up Decoy    |
+| RHTT | SU   | 3J41 | 13:58      | Peterborough L.I.P.   | Peterborough L.I.P.   |
+|      |      |      | 14:08      |                       |                       |
+| RHTT | MWFO | 3J42 | 09:54      | Doncaster Up Decoy    | Peterborough          |
+| RHTT | SO   | 3J42 | 11:40      | Doncaster Up Decoy    | Peterborough L.I.P.   |
+|      |      |      | 11:55      |                       |                       |
+| RHTT | TThO | 3J42 | 10:46      | Barnetby              | Peterborough L.I.P.   |
+| RHTT | SU   | 3J42 | 17:57      | Peterborough L.I.P.   | Peterborough L.I.P.   |
+| RHTT | MWFO | 3J43 | 16:04      | Peterborough          | Peterborough L.I.P.   |
+|      |      |      | 16:03      |                       |                       |
+| RHTT | TThO | 3J43 | 16:00      | Peterborough L.I.P.   | Peterborough L.I.P.   |
+| RHTT | SX   | 3J44 | 19:06      | Peterborough L.I.P.   | Peterborough L.I.P.   |
+|      | TTHO | 3J51 | 09:50      | YORK THRALL EUROPA    | YORK THRALL EUROPA    |
+|      | MWFO | 3J51 | 09:50      | YORK THRALL EUROPA    | YORK THRALL EUROPA    |
+|      | SO   | 3J51 | 09:52      | YORK THRALL EUROPA    | YORK THRALL EUROPA    |
+| RHTT | SO   | 3J77 | 04:10      | Carlisle Kingmoor SDG | Nunthorpe             |
+|      |      |      |            | (DRS)                 |                       |

@@ -1,0 +1,46 @@
+|                                                                |       |       |      |                                          |
+|:---------------------------------------------------------------|:------|:------|:-----|:-----------------------------------------|
+| MD745 BICESTER SOUTH JN TO BICESTER GAVRAY JN                  |       |       |      |                                          |
+| TIMING POINT                                                   | DOWN  | UP    | CODE | NOTES                                    |
+| Bicester South Jn                                              | – UBC | – DML |      | To/from Princes Risborough MD701         |
+| Bicester Signal OB9024                                         |       | –     | S    | For trains shunting between platforms at |
+|                                                                |       |       |      | Bicester Village                         |
+| Bicester Gavray Jn                                             | –     | – DBC |      | To/from Bicester Village MD736           |
+| MD801 WOLVERHAMPTON NORTH JN TO ABBEY FOREGATE JN (EXCLUSIVE)  |       |       |      |                                          |
+| TIMING POINT                                                   | DOWN  | UP    | CODE | NOTES                                    |
+| Wolverhampton North Jn                                         | –     |       |      | To/from Wolverhampton – MD301            |
+| Oxley Stafford Road Jn                                         | –     | –     |      | To/from Bushbury Jn – MD301              |
+| Oxley Down Goods Loop                                          | –     |       | S    |                                          |
+| Oxley Up Goods Loop                                            |       | –     | S    |                                          |
+| Oxley CS                                                       | –     | –     | S    |                                          |
+| Bilbrook                                                       | –     | –     | S    |                                          |
+| Codsall                                                        | –     | –     | S    |                                          |
+| Albrighton                                                     | –     | –     | S    |                                          |
+| Cosford                                                        | –     | –     |      |                                          |
+| Shifnal                                                        | –     | –     | S    |                                          |
+| Madeley Jn                                                     | –     | –     |      | To/from Ironbridge – MD810               |
+| Telford Central                                                | –     | –     | S    |                                          |
+| Oakengates                                                     | –     | –     | S    |                                          |
+| Donnington Jn                                                  | –     | –     | X    | To/from Donnington Freight Terminal      |
+| Wellington                                                     | –     | –     |      | Platform detail must be shown            |
+| Abbey Foregate Jn                                              | –     | –     |      | To/from English Bridge – GW730 Refer to  |
+|                                                                |       |       |      | Western and Wales Timetable Planning     |
+|                                                                |       |       |      | Rules                                    |
+| MD805 OXLEY STAFFORD ROAD JN TO BUSHBURY OXLEY JN (OXLEY CHORD |       |       |      |                                          |
+| LINES)                                                         |       |       |      |                                          |
+| TIMING POINT                                                   | DOWN  | UP    | CODE | NOTES                                    |
+| Oxley Stafford Road Jn                                         | –     | –     |      | To/from Wolverhampton North Jn –         |
+|                                                                |       |       |      | MD801                                    |
+|                                                                |       |       |      | To/from Cosford – MD801                  |
+| Bushbury Jn                                                    | –     | –     |      | To/from Wolverhampton North Jn –         |
+|                                                                |       |       |      | MD301                                    |
+|                                                                |       |       |      | To/from Penkridge – MD301                |
+| MD810 MADELEY JN TO IRONBRIDGE                                 |       |       |      |                                          |
+| TIMING POINT                                                   | DOWN  | UP    | CODE | NOTES                                    |
+| Madeley Jn                                                     | –     |       |      | Single Line lead until 1347 points       |
+| MJ328 Signal                                                   |       | –     |      | Protecting signal on Up Ironbridge       |
+| MJ329 Signal                                                   |       |       |      | Protecting signal on Down Ironbridge     |
+|                                                                |       |       |      | Single Line from beyond Signal MJ329 to  |
+|                                                                |       |       |      | Ironbridge PS Stop Board                 |
+| Ironbridge PS Stop Board                                       |       |       |      | Trains to stop in either direction       |
+| Ironbridge Power Station                                       |       |       |      |                                          |

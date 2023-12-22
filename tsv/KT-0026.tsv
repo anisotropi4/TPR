@@ -1,0 +1,49 @@
+|                                                                |        |         |      |                                             |
+|:---------------------------------------------------------------|:-------|:--------|:-----|:--------------------------------------------|
+| SO110 LONDON VICTORIA TO RAMSGATE (VIA HERNE HILL AND CHATHAM) |        |         |      |                                             |
+| TIMING POINT                                                   | DOWN   | UP      | CODE | NOTES                                       |
+| Linford Street Junction                                        | -      | -       | X    | Timing point for services to/from Nine Elms |
+|                                                                |        |         |      | Junction only                               |
+|                                                                |        |         |      | To/from Nine Elms Junction - Refer to       |
+|                                                                |        |         |      | Wessex Timetable Planning Rules -           |
+|                                                                |        |         |      | SW100B                                      |
+| Factory Junction                                               | AL RVL | - RVL   |      | Timing point for Atlantic Lines and         |
+|                                                                |        |         |      | Reversible Line only                        |
+|                                                                |        |         |      | To/from Longhedge Junction SO250            |
+|                                                                |        |         |      | To/from Stewarts Lane Junction - SO250A.    |
+|                                                                |        |         |      | To/from Wandsworth Road (Atlantic Lines)    |
+|                                                                |        |         |      | - Refer to Sussex Timetable Planning        |
+|                                                                |        |         |      | Rules - SO645                               |
+| Voltaire Road Junction                                         | -      | FL  RVL |      |                                             |
+| Shepherds Lane Junction                                        | -      | -  AL   | X    | Timing point for trains to/from Atlantic    |
+|                                                                |        |         |      | Lines.                                      |
+|                                                                |        |         |      | To/from Clapham High Street - SO645         |
+| Brixton Junction                                               |        |         |      | To/from Canterbury Road Junction -          |
+|                                                                |        |         |      | SO260                                       |
+|                                                                |        |         |      | Use TIPLOC BRIXTON to/from Catford          |
+|                                                                |        |         |      | Loop                                        |
+| Brixton                                                        | -      | -       |      |                                             |
+| Shunt signal VS595                                             | -      |         |      | Available for ECS shunt moves London        |
+|                                                                |        |         |      | end of Herne Hill Station                   |
+|                                                                |        |         |      | USE TIPLOC HERN595                          |
+| Herne Hill                                                     | -      | -       |      | Platform detail must be shown               |
+|                                                                |        |         |      | To/from Tulse Hill - Refer to Sussex        |
+|                                                                |        |         |      | Timetable Planning Rules - SO680A           |
+|                                                                |        |         |      | To/from Loughborough Junction - SO280       |
+| Herne Hill Shunt signal VS600                                  | -      |         |      | Available for ECS shunt moves Country       |
+|                                                                |        |         |      | end of Herne Hill station                   |
+|                                                                |        |         |      | USE TIPLOC HERN600                          |
+| Herne Hill Turnback Siding                                     |        |         | S    | Timing point for movements in and out of    |
+|                                                                |        |         |      | siding                                      |
+|                                                                |        |         |      | Stabling not allowed – turnback moves       |
+|                                                                |        |         |      | only                                        |
+|                                                                |        |         |      | Use TIPLOC HERNHSD                          |
+| West Dulwich                                                   | -      | -       | S    |                                             |
+| Sydenham Hill                                                  | -      | -       | S    |                                             |
+| Penge East                                                     | -      | -       | S    |                                             |
+| Kent House                                                     | -      | -       |      | Platform detail must be shown               |
+| Beckenham Shunt Signal VS607                                   | -      | -       |      | Use TIPLOC BCKN607                          |
+| Beckenham Junction                                             | -      | -       |      | TIPLOC BCKNHMJ applies to Kent side         |
+|                                                                |        |         |      | To/from Birkbeck - Refer to Sussex          |
+|                                                                |        |         |      | Timetable Planning Rules - SO650            |
+|                                                                |        |         |      | To/from New Beckenham - SO330A              |

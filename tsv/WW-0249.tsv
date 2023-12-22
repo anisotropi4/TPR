@@ -1,0 +1,17 @@
+|                                                 |                   |        |
+|:------------------------------------------------|:------------------|:-------|
+| Llandudno Junction                              |                   |        |
+| Adjustments to Sectional Running Times          |                   |        |
+| Movement                                        | Reason            | Value  |
+| Down services to Platform 1 from direction of   | Approach Control  | {1}    |
+| Colwyn Bay or Tal-y-Cafn                        |                   |        |
+| Down loco-hauled services departing platforms 1 | Acceleration      | {1}    |
+| or 3.                                           |                   |        |
+| Dwell Time                                      |                   |        |
+| LH                                              | 2                 |        |
+| Power                                           | 2                 |        |
+| 220/221                                         | 2                 |        |
+| 390 (hauled)                                    | 2                 |        |
+| Junction Margins                                |                   |        |
+| First Movement                                  | Second Movement   | Margin |
+| Depart Plat. 2                                  | Arrive Platform 2 | 5      |

@@ -1,0 +1,52 @@
+|                                                                                                                 |                  |       |    |    |    |    |    |    |
+|:----------------------------------------------------------------------------------------------------------------|:-----------------|:------|:---|:---|:---|:---|:---|:---|
+| Class 378                                                                                                       |                  |       |    | 6# |    |    |    |    |
+| Class 387 EMU                                                                                                   |                  |       | 4  |    | 5  |    |    | 6  |
+| Class 444 EMU                                                                                                   |                  |       |    | 6  |    | 7  | 7  |    |
+| Class 450 EMU                                                                                                   |                  |       | 5  |    | 6  | 7  |    | 7  |
+| Class 455 EMU                                                                                                   |                  |       | 6  |    | 7  |    |    | 8  |
+| Class 458 EMU                                                                                                   |                  |       |    | 6  |    |    | 7  |    |
+| Class 701                                                                                                       |                  |       |    | 6  |    |    | 7  |    |
+| Class 707                                                                                                       |                  |       |    | 6  |    |    | 7  |    |
+| Class 710                                                                                                       |                  |       | 5  | 6# |    |    |    |    |
+| # 5 minutes turnaround when forming an ECS.                                                                     |                  |       |    |    |    |    |    |    |
+| CrossCountry HST / 22x Train Preparation Allowances – minimum platform standing allowance between               |                  |       |    |    |    |    |    |    |
+| ECS arrival from depot and passenger train departure                                                            |                  |       |    |    |    |    |    |    |
+| 1 x 22X                                                                                                         | 15               |       |    |    |    |    |    |    |
+| 2 x 22X / HST                                                                                                   | 20               |       |    |    |    |    |    |    |
+| By exception, allowances for ‘Train Preparation’ (above) may be reduced after discussion and agreement between  |                  |       |    |    |    |    |    |    |
+| CrossCountry and Network Rail                                                                                   |                  |       |    |    |    |    |    |    |
+| CrossCountry 22x Safety Check Unit (SCU) Allowances – minimum platform standing allowance between               |                  |       |    |    |    |    |    |    |
+| passenger train arrival and ECS departure to depot                                                              |                  |       |    |    |    |    |    |    |
+| 1 x 22x departing in same direction as arrival                                                                  | 8                |       |    |    |    |    |    |    |
+| 1 x 22x departing in reverse direction to arrival                                                               | 10               |       |    |    |    |    |    |    |
+| 2 x 22x departing in same direction as arrival                                                                  | 15               |       |    |    |    |    |    |    |
+| 2 x 22x departing in reverse direction to arrival                                                               | 20               |       |    |    |    |    |    |    |
+| Reversal                                                                                                        |                  |       |    |    |    |    |    |    |
+| Class 22x                                                                                                       | 5                |       |    |    |    |    |    |    |
+| 2 x Class 22x                                                                                                   | 6                |       |    |    |    |    |    |    |
+| Minimum Allowance for Freight Movements                                                                         |                  |       |    |    |    |    |    |    |
+| Reversal before/after propelling                                                                                | 2                |       |    |    |    |    |    |    |
+| movement                                                                                                        |                  |       |    |    |    |    |    |    |
+| Crew change                                                                                                     | 2*               |       |    |    |    |    |    |    |
+| Light engine reverse                                                                                            | 2                |       |    |    |    |    |    |    |
+| Runaround in stations                                                                                           | 20*              |       |    |    |    |    |    |    |
+| Runaround in yards or depots                                                                                    | 20               |       |    |    |    |    |    |    |
+| * For all New or Changed paths, with Existing paths being actively looked at and changed wherever possible.     |                  |       |    |    |    |    |    |    |
+| Generic Rolling Stock Classes                                                                                   |                  |       |    |    |    |    |    |    |
+| Train Class                                                                                                     | ITPS Timing Load |       |    |    |    |    |    |    |
+| Class 171 (Southern services)                                                                                   | Class 170        |       |    |    |    |    |    |    |
+| Class 375 and 377                                                                                               | Class 375        |       |    |    |    |    |    |    |
+| Adjustments to Sectional Running Times                                                                          |                  |       |    |    |    |    |    |    |
+| Movements                                                                                                       | Reason           | Value |    |    |    |    |    |    |
+| Approaching All Bays, Loops, Crossovers and                                                                     | Approach Control | {1⁄2} |    |    |    |    |    |    |
+| Occupied Platforms                                                                                              |                  |       |    |    |    |    |    |    |
+| Terminating trains arriving on half minutes in                                                                  | Station working  | {1⁄2} |    |    |    |    |    |    |
+| final timing link (with the exception of ARL                                                                    |                  |       |    |    |    |    |    |    |
+| services)                                                                                                       |                  |       |    |    |    |    |    |    |
+| For route divergence allowance see Station Entries.                                                             |                  |       |    |    |    |    |    |    |
+| All allowances mentioned in the exceptions should be included in train times when approaching the listed timing |                  |       |    |    |    |    |    |    |
+| point unless otherwise noted.                                                                                   |                  |       |    |    |    |    |    |    |
+| Trains originating on whole minutes                                                                             |                  |       |    |    |    |    |    |    |
+| CrossCountry* and Freight^ schedules must depart from origin on a whole minute. (This is due to IT systems      |                  |       |    |    |    |    |    |    |
+| requirements - *Integrale, ^TOPS).                                                                              |                  |       |    |    |    |    |    |    |

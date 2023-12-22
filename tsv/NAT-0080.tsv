@@ -1,0 +1,68 @@
+|              |            |            |                      |               |        |     |       |                   |                |       |             |     |
+|:-------------|:-----------|:-----------|:---------------------|:--------------|:-------|:----|:------|:------------------|:---------------|:------|:------------|:----|
+| Name         | Frequency  | Start Date | Weeks Run In         | Route         | TID    | Day | Dep   | From              | To             | Arr.  | Model Train | TOC |
+| Name         | Frequency  | Start Date | Weeks Run In         | Route         | TID    | Day | Dep   | From              | To             | Arr.  | Model Train | TOC |
+| PLP115       | 8 - weekly | 03/01/2024 | 40, 48, 04, 12, 20 & | Slatford      | 1Q26LS | WO  | 06.38 | SLATEFORD DEPOT   | CREWE C.S.     | 11.31 | HST7-125    | RG  |
+| A            |            |            | 28 & 36              | Depot -       |        |     |       |                   | (L&NWR SITE)   |       |             |     |
+|              |            |            |                      | Craiglockhar  |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | t Jn -        |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Slateford Jn  |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | - Carstairs - |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Crewe         |        |     |       |                   |                |       |             |     |
+| PLP114       | 8 - weekly | 02/01/2024 | 40, 48, 04, 12, 20 & | Derby RTC -   | 1Q26RR | TO  | 06.13 | DERBY             | EDINBURGH      | 13.16 | HST7-125    | RG  |
+|              |            |            | 28 & 36              | Colwich -     |        |     |       | R.T.C.(NETWORK    |                |       |             |     |
+|              |            |            |                      | WCML -        |        |     |       | RAIL)             |                |       |             |     |
+|              |            |            |                      | Glasgow -     |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Edinburgh -   |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Aberdeen -    |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Slatford      |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Depot         |        |     |       |                   |                |       |             |     |
+| PLP154       | 8 - weekly | 30/01/2024 | 44, 52, 08, 16, 24 & | Derby RTC -   | 1Q26RT | TO  | 06.13 | DERBY             | EDINBURGH      | 13.16 | HSMT        | RG  |
+|              |            |            | 32                   | Colwich -     |        |     |       | R.T.C.(NETWORK    |                |       |             |     |
+|              |            |            |                      | WCML -        |        |     |       | RAIL)             |                |       |             |     |
+|              |            |            |                      | Glasgow -     |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Edinburgh -   |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Aberdeen -    |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Slatford      |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Depot         |        |     |       |                   |                |       |             |     |
+| PLP114       | 4 - weekly | 02/01/2024 | 40, 44, 48, 52, 04,  | Derby RTC -   | 1Q26RS | TO  | 13.45 | EDINBURGH         | SLATEFORD      | 23.44 | HSMT        | RG  |
+| &            |            |            | 08, 12, 16, 20, 24,  | Colwich -     |        |     |       |                   | DEPOT          |       |             |     |
+| PLP154       |            |            | 28, 32 & 36          | WCML -        |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Glasgow -     |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Edinburgh -   |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Aberdeen -    |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Slatford      |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Depot         |        |     |       |                   |                |       |             |     |
+| PLP155       | 8 - weekly | 31/01/2024 | 44, 52, 08, 16, 24 & | Crewe         | 1Q27GB | WO  | 11.57 | CREWE C.S. (L&NWR | DERBY          | 19.20 | HSMT        | RG  |
+| B            |            |            | 32                   | LNWR -        |        |     |       | SITE)             | R.T.C.(NETWORK |       |             |     |
+|              |            |            |                      | Euston A      |        |     |       |                   | RAIL)          |       |             |     |
+|              |            |            |                      | and X -       |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Rugby -       |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Crewe -       |        |     |       |                   |                |       |             |     |
+|              |            |            |                      | Derby RTC     |        |     |       |                   |                |       |             |     |
+| Name         |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Name         |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Frequency    |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Frequency    |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Start Date   |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Start Date   |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Weeks Run In |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Weeks Run In |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Route        |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Route        |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| TID          |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| TID          |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Day          |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Day          |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Dep          |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Dep          |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| From         |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| From         |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| To           |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| To           |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Arr.         |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Arr.         |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Model Train  |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| Model Train  |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| TOC          |            |            |                      |               |        |     |       |                   |                |       |             |     |
+| TOC          |            |            |                      |               |        |     |       |                   |                |       |             |     |

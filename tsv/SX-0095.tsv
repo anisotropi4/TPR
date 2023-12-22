@@ -1,0 +1,53 @@
+|                                                                             |                                               |                                          |       |
+|:----------------------------------------------------------------------------|:----------------------------------------------|:-----------------------------------------|:------|
+| Gatwick Airport                                                             |                                               |                                          |       |
+| Trains terminating and then running ECS                                     | To allow staff to clear train, check for lost | 4 if train is formed of 8                |       |
+| in the same direction                                                       | property and lock doors                       | cars or more or                          |       |
+|                                                                             |                                               | formed of a Class 700                    |       |
+|                                                                             |                                               | 3 if a train is formed of                |       |
+|                                                                             |                                               | 5 to 7 cars                              |       |
+|                                                                             |                                               | 2 if a train is formed of                |       |
+|                                                                             |                                               | 4 car or less                            |       |
+| Converging Margins                                                          |                                               |                                          |       |
+| First Movement                                                              | Second Movement (correct headway to           | Value                                    |       |
+|                                                                             | be applied at next timing point)              |                                          |       |
+| Depart Platform 1 to Up Fast                                                | Depart Platform 2 / 3 to Up Slow              | 2                                        |       |
+| Depart Platform 1 to Up Fast                                                | Depart Platform 2 / 3 / 4 / 5 to Up Fast      | 21⁄2                                     |       |
+| Depart Platform 2 to Up Fast                                                | Depart Platform 1 / 3 / 4 / 5 to Up Fast      | 21⁄2                                     |       |
+| Depart Platform 3 to Up Fast                                                | Depart Platform 1 / 2 / 4 / 5 to Up Fast      | 21⁄2                                     |       |
+| Depart Platform 4 to Up Fast                                                | Arrive Platform 4 from Up Fast                | 2                                        |       |
+| Depart Platform 5 to Down Fast                                              | Arrive Platform 5 from Down Fast              | 2                                        |       |
+| Depart Platform 5 to Down Fast                                              | Depart Platform 6 / 7 to Down Fast            | 21⁄2                                     |       |
+| Depart Platform 5 to Up Fast                                                | Arrive Platform 5 from Up Fast                | 2                                        |       |
+| Depart Platform 6 to Down Fast                                              | Arrive Platform 6 from Down Fast              | 2                                        |       |
+| Depart Platform 6 to Down Fast                                              | Depart Platform 5 / 7 to Down Fast            | 21⁄2                                     |       |
+| Depart Platform 7 to Down Fast                                              | Arrive Platform 7 from Down Fast              | 2                                        |       |
+| Depart Platform 7 to Down Fast                                              | Depart Platform 6 / 7 to Down Fast            | 21⁄2                                     |       |
+| Junction Margins                                                            |                                               |                                          |       |
+| Passing trains use the same margin as a departure or arrival as appropriate |                                               |                                          |       |
+| First Movement                                                              | Second Movement                               | Margin                                   |       |
+| Between all conflicting movements, except as stated below                   | 3                                             |                                          |       |
+| Arrive/Pass any platform                                                    | Conflicting opposite direction departure      | 1                                        |       |
+| Depart platform 5 to Up Fast                                                | Arrive platform 5 from Down Fast              | 4                                        |       |
+| Depart platform 5 or 6 to Down Fast                                         | Arrive platform 5 or 6 from Up Fast           | 4                                        |       |
+| Arrive Platform 1 / 2 / 3 from Down Fast                                    | Pass Platform 4 to Up Fast                    | 3*                                       |       |
+| Depart platform 2 or 3 to CHS                                               | Arrive platform 1, 2 or 3 from Up Slow        | 4                                        |       |
+| Depart platform 1, 2 or 3                                                   | Depart from CHS to same platform              | 1                                        |       |
+| Depart platform 1, 2 or 3                                                   | Any conflicting departure from CHS            | 1                                        |       |
+| Arrive Platform 4 from Up Fast                                              | Depart from Platform 5 to Up Fast             | Same time                                |       |
+| Depart platform 5 to Up Fast                                                | Arrive platform 4 from Up Fast                | Same time                                |       |
+| Overlap Restrictions                                                        |                                               |                                          |       |
+| First Movement(s)                                                           | Second Movement                               | Signal                                   | Value |
+| Depart platform 1 to Down Slow                                              | Arrive platform 2 in Down Direction           | T249                                     | 2     |
+| Depart platform 1 to Up Slow                                                | Arrive platform 2 in Up Direction             | T252                                     | 2     |
+| Depart platform 1 to Up Slow AND any                                        | Up arrival into Platform 3                    | T250                                     | 2     |
+| parallel arrival or departure in platform 2                                 |                                               |                                          |       |
+| Down direction arrival into Platform 2                                      | Up direction arrival into Platform 3          | T250                                     | 2     |
+| Arrival in Platform 3 from Up Slow or CHS                                   | Arrive Platform 2 in Down Direction           | T250                                     | 2     |
+| Depart platform 3 to CHS                                                    | Arrive platform 2 in Down Direction           | T249                                     | 2     |
+| Depart platform 6 to Down Fast                                              | Arrive platform 5 from Down Fast              | T243                                     | 2     |
+| Permissive Working                                                          |                                               |                                          |       |
+| Attaching/Detaching and Platform Sharing is authorised as shown below -     |                                               |                                          |       |
+| Platform 2                                                                  | Both Directions                               | Attaching/Detaching and Platform Sharing |       |
+| Platform 3                                                                  | Both Directions                               | Attaching/Detaching and Platform Sharing |       |
+| Planning Notes                                                              |                                               |                                          |       |

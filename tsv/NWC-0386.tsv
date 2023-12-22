@@ -1,0 +1,56 @@
+|                       |          |        |                           |
+|:----------------------|:---------|:-------|:--------------------------|
+| STATION               | PLATFORM | LENGTH | NOTES                     |
+| Birmingham New Street | 2B       | 136    | BM5102 to BM6602          |
+| Birmingham New Street | 2        | 306    | BM6202 to BM5102          |
+| Birmingham New Street | 3A       | 171    | BM6203 to BM5503          |
+| Birmingham New Street | 3A       | 117    | BM6403 to BM5503          |
+| Birmingham New Street | 3B       | 136    | BM5103 to BM6603          |
+| Birmingham New Street | 3B       | 265    | BM5103 to BM6403          |
+| Birmingham New Street | 3        | 319    | BM6203 to BM5103          |
+| Birmingham New Street | 4A       | 207    | BM6204 to BM5504          |
+| Birmingham New Street | 4A       | 140    | BM6404 to BM5504          |
+| Birmingham New Street | 4B       | 141    | BM6604 to North Ramp      |
+| Birmingham New Street | 4B       | 293    | BM6404 to North Ramp      |
+| Birmingham New Street | 4C       | 102    | Buffer Stop to North Ramp |
+| Birmingham New Street | 4        | 359    | BM6204 to North Ramp      |
+| Birmingham New Street | 5A       | 136    | BM6205 to BM5505          |
+| Birmingham New Street | 5A       | 95     | BM6405 to BM5505          |
+| Birmingham New Street | 5A       | 219    | BM6405 to North Ramp      |
+| Birmingham New Street | 5A       | 95     | BM5505 to BM6405          |
+| Birmingham New Street | 5B       | 113    | BM6605 to North Ramp      |
+| Birmingham New Street | 5        | 260    | BM6205 to North Ramp      |
+| Birmingham New Street | 6A       | 139    | BM6206 to BM5506          |
+| Birmingham New Street | 6A       | 267    | BM6206 to BM5306          |
+| Birmingham New Street | 6B       | 161    | BM5106 to BM6606          |
+| Birmingham New Street | 6B       | 116    | BM5306 to BM6606          |
+| Birmingham New Street | 6        | 267    | BM5106 to BM6206          |
+| Birmingham New Street | 7A       | 188    | BM6207 to BM5507          |
+| Birmingham New Street | 7A       | 123    | BM6407 to BM5507          |
+| Birmingham New Street | 7B       | 120    | BM5107 to BM6607          |
+| Birmingham New Street | 7B       | 254    | BM5107 to BM6407          |
+| Birmingham New Street | 7        | 319    | BM5107 to BM6207          |
+| Birmingham New Street | 8A       | 170    | BM6208 to BM5508          |
+| Birmingham New Street | 8A       | 110    | BM6408 to BM5508          |
+| Birmingham New Street | 8A       | 271    | BM5108 to BM6408          |
+| Birmingham New Street | 8B       | 150    | BM5108 to BM6608          |
+| Birmingham New Street | 8B       | 81     | BM5308 to BM6608          |
+| Birmingham New Street | 8B       | 263    | BM6208 to BM5308          |
+| Birmingham New Street | 8        | 331    | BM5108 to BM6208          |
+| Birmingham New Street | 8        | 203    | BM5308 to BM6408          |
+| Birmingham New Street | 9A       | 153    | BM6209 to BM5509          |
+| Birmingham New Street | 9A       | 119    | BM6409 to BM5509          |
+| Birmingham New Street | 9A       | 287    | BM5109 to BM6409          |
+| Birmingham New Street | 9B       | 156    | BM5109 to BM6609          |
+| Birmingham New Street | 9B       | 92     | BM5309 to BM6609          |
+| Birmingham New Street | 9B       | 257    | BM6209 to BM5309          |
+| Birmingham New Street | 9        | 321    | BM5109 to BM6209          |
+| Birmingham New Street | 9        | 223    | BM5309 to BM6409          |
+| Birmingham New Street | 10A      | 175    | BM6210 to BM5510          |
+| Birmingham New Street | 10A      | 126    | BM6410 to BM5510          |
+| Birmingham New Street | 10B      | 134    | BM5110 to BM6610          |
+| Birmingham New Street | 10B      | 272    | BM5110 to BM6410          |
+| Birmingham New Street | 10       | 321    | BM5110 to BM6210          |
+| Birmingham New Street | 11A      | 162    | BM6211 to BM5511          |
+| Birmingham New Street | 11A      | 111    | BM6411 to BM5511          |
+| Birmingham New Street | 11B      | 162    | BM5111 to BM6611          |

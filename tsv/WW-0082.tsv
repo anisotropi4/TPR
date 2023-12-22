@@ -1,0 +1,46 @@
+|                                                                                        |         |       |             |                                                      |
+|:---------------------------------------------------------------------------------------|:--------|:------|:------------|:-----------------------------------------------------|
+| GW107 WORLE JUNCTION TO UPHILL JUNCTION VIA WESTON-SUPER-MARE                          |         |       |             |                                                      |
+| TIMING POINT                                                                           | DOWN    | UP    | NOTES       |                                                      |
+| Worle Junction to Weston-super-                                                        | AB+1    | AB+1  | Single line |                                                      |
+| Mare                                                                                   |         |       |             |                                                      |
+| Weston-super-Mare to Uphill                                                            | AB+1    | AB+1  | Single line |                                                      |
+| Junction                                                                               |         |       |             |                                                      |
+| GW108 FORDGATE TO PENZANCE                                                             |         |       |             |                                                      |
+| TIMING POINT                                                                           | DOWN    | UP    |             | NOTES                                                |
+| Fordgate to Cogload Jn                                                                 | 3*      | 3*    |             | *4 minutes following stopping/freight                |
+| Cogload Jn to Dawlish Warren                                                           | 4       | 4     |             |                                                      |
+| (exclusive)                                                                            |         |       |             |                                                      |
+| Dawlish Warren (inclusive) to                                                          | 3*      | 3*    |             | *4 minutes following stopping/freight                |
+| Newton Abbot West Jn                                                                   |         |       |             |                                                      |
+| Newton Abbot West Jn to Totnes                                                         | 6       | 6     |             |                                                      |
+| The following to be applied until Devon Resignalling is commissioned                   |         |       |             |                                                      |
+| Totnes to Ivybridge                                                                    | 8       | 10    |             |                                                      |
+| Ivybridge to Hemerdon                                                                  | 8       | 8     |             |                                                      |
+| Hemerdon to Tavistock Jn                                                               | 7       | 8*    |             | *An up freight train can follow a passenger train    |
+|                                                                                        |         |       |             | from Tavistock Jn after 4 minutes                    |
+| The following to be applied after Devon Resignalling is commissioned                   |         |       |             |                                                      |
+| Totnes to Rattery                                                                      | AB+1    | AB+1* |             | *Based on preceding train arrive/pass Totnes         |
+| Rattery to Aish                                                                        | AB+1    | AB+1  |             |                                                      |
+| Aish to Ivybridge                                                                      | AB+1*   | AB+1  |             | *Based on preceding train arrive/pass Ivybridge      |
+| Ivybridge to Hemerdon                                                                  | AB+0    | AB+0* |             | *Based on preceding train arrive/pass Ivybridge      |
+| Hemerdon to Tavistock Jn                                                               | AB+2    | AB+1  |             |                                                      |
+| Tavistock Jn to St. Budeaux Jn                                                         | 4       | 4     |             |                                                      |
+| From St. Budeaux Junction to Penzance down and up directions are described separately. |         |       |             |                                                      |
+| St.Budeaux Jn to Saltash (dep)                                                         | AB+2    |       |             | Single line.  AB section based on first train        |
+|                                                                                        |         |       |             | passing/departing Saltash.  If second train calls at |
+|                                                                                        |         |       |             | St Budeaux Ferry Road, AB section applies to         |
+|                                                                                        |         |       |             | departure from Ferry Road                            |
+| Saltash to St. Germans                                                                 | AB+2    |       |             |                                                      |
+| St. Germans to Menheniot Signal                                                        | AB+2    |       |             |                                                      |
+| DM260                                                                                  |         |       |             |                                                      |
+| Menheniot Signal DM260 to                                                              | AB+2    |       |             |                                                      |
+| Liskeard                                                                               |         |       |             |                                                      |
+| Liskeard to St. Pinnock Jn                                                             | AB+2    |       |             |                                                      |
+| St. Pinnock Jn to Bodmin                                                               | AB+1*   |       |             | * Based on preceding train arrive/pass Bodmin        |
+| Parkway                                                                                |         |       |             | Parkway                                              |
+| Bodmin Parkway to Lostwithiel                                                          | AB+1*   |       |             | *Based on preceding train arrive/pass Lostwithiel or |
+|                                                                                        |         |       |             | arrive Lostwithiel DGL                               |
+| Lostwithiel to Par                                                                     | 4*      |       |             | *5 minutes following freight                         |
+| Par to St Austell                                                                      | AB+1*   |       |             | *Based on preceding train arrive/pass St Austell     |
+| St Austell to Burngullow Jn                                                            | AB+11⁄2 |       |             |                                                      |

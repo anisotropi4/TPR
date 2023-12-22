@@ -1,0 +1,22 @@
+|                                                                                                                           |                           |                               |
+|:--------------------------------------------------------------------------------------------------------------------------|:--------------------------|:------------------------------|
+| LN928 SHIPLEY EAST JN TO BRADFORD FORSTER SQUARE                                                                          |                           |                               |
+| Bradford Forster Square                                                                                                   |                           |                               |
+| Platform End Conflicts                                                                                                    |                           |                               |
+| First Movement                                                                                                            | Second Movement           | Margin                        |
+| Arrive Platform 2 or 3                                                                                                    | Depart Platform 1, 2 or 3 | 1                             |
+| Depart Platform 2 or 3                                                                                                    | Arrive Platform 2 or 3    | 3                             |
+| Depart Platform 1                                                                                                         | Arrive Platform 1, 2 or 3 | 5                             |
+| Train Watering Points                                                                                                     | Available at the station  |                               |
+| LN930 SKIPTON MIDDLE JUNCTION TO RYLSTONE                                                                                 |                           |                               |
+| RYLSTONE                                                                                                                  |                           |                               |
+| Operating Note:                                                                                                           |                           |                               |
+| This Line operates as ‘One Train Working With No Train Staff’. Therefore, only one train is allowed on this branch        |                           |                               |
+| line at any one time. A second train is not allowed to enter the branch line/depart Skipton Down Through Siding           |                           |                               |
+| until the first train has returned to Skipton, or its loco if it has left wagons at Rylstone and has returned to Skipton. |                           |                               |
+| Only one train can perform a run round movement at Skipton at a time.                                                     |                           |                               |
+| LN932 SHIPLEY SOUTH JUNCTION TO SHIPLEY WEST JUNCTION                                                                     |                           |                               |
+| Shipley                                                                                                                   |                           |                               |
+| Adjustment to Sectional Running Times                                                                                     |                           |                               |
+| Movement Up                                                                                                               | Reason                    | Value                         |
+| Depart Platform 5 towards Bradford                                                                                        | Acceleration              | 1 to be applied after Shipley |

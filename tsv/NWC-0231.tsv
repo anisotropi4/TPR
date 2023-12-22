@@ -1,0 +1,46 @@
+|                                                                                         |                                                 |             |
+|:----------------------------------------------------------------------------------------|:------------------------------------------------|:------------|
+| Hatton North Jn                                                                         |                                                 |             |
+| Junction Margins                                                                        |                                                 |             |
+| First Movement                                                                          | Second Movement                                 | Value       |
+| Passing Hatton North Jn towards Hatton West                                             | Stopping train departs Hatton towards Dorridge  | 2           |
+| Jn                                                                                      |                                                 |             |
+| Passing Hatton North Jn towards Hatton West                                             | Passing Hatton from direction of Dorridge       | 3           |
+| Jn                                                                                      |                                                 |             |
+| Passing Hatton North Jn towards Hatton West                                             | Stopping train arrives Hatton from direction of | 31⁄2        |
+| Jn                                                                                      | Dorridge                                        |             |
+| Dorridge                                                                                |                                                 |             |
+| Adjustments to Sectional Running Times                                                  |                                                 |             |
+| Movement Down                                                                           | Reason                                          | Value       |
+| Train to platform 3 or Up and Down Goods                                                | Flashing Yellow Aspects                         | 1⁄2         |
+| Movement Up                                                                             | Reason                                          | Value       |
+| Up Passenger Loop to Dorridge start to pass                                             | Not at line speed by Dorridge                   | 2           |
+| (Applies approaching next timing point)                                                 |                                                 | DMU 1       |
+| Train from platform 3                                                                   | Slow speed crossover                            | 1⁄2         |
+|                                                                                         |                                                 | Approaching |
+|                                                                                         |                                                 | next timing |
+|                                                                                         |                                                 | point       |
+| Train from Up and Down Goods                                                            | Slow speed crossover                            | 1⁄2         |
+|                                                                                         |                                                 | Approaching |
+|                                                                                         |                                                 | next timing |
+|                                                                                         |                                                 | point       |
+| Train to platform 3                                                                     | Speed differential                              | 1           |
+| Junction Margins                                                                        |                                                 |             |
+| First Movement                                                                          | Second Movement                                 | Margin      |
+| Up non-stop                                                                             | Train departing Dorridge UPL                    | 2           |
+| Station working                                                                         |                                                 |             |
+| Up services shown to shunt at Dorridge must be shown to do so in the Up Passenger Loop. |                                                 |             |
+| Minimum Turnround Time – Trains changing direction at end of journey                    |                                                 |             |
+| Standard                                                                                | 5                                               |             |
+| Shunting to a different platform                                                        | 10                                              |             |
+| Bentley Heath Crossing                                                                  |                                                 |             |
+| Adjustments to Sectional Running Times                                                  |                                                 |             |
+| Movement Down                                                                           | Reason                                          | Value       |
+| Platform 3 or Up and Down Goods to Down                                                 | Not at line speed at Bentley Heath Crossing     | 11⁄2        |
+| Main                                                                                    |                                                 | Approaching |
+|                                                                                         |                                                 | next timing |
+|                                                                                         |                                                 | point       |
+| Class 168 or Chiltern Class 68 departing                                                | Not at line speed at Bentley Heath Crossing     | 1           |
+| Dorridge Platform 2                                                                     |                                                 | Approaching |
+|                                                                                         |                                                 | next timing |
+|                                                                                         |                                                 | point       |

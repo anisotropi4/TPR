@@ -1,0 +1,50 @@
+|                                                                 |       |       |      |                                            |
+|:----------------------------------------------------------------|:------|:------|:-----|:-------------------------------------------|
+| NW6003 CASTLEFIELD JN TO ALLERTON JN                            |       |       |      |                                            |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                      |
+| Trafford Park FLT                                               |       | –     | F    |                                            |
+| Trafford Park Euroterminal                                      |       | –     | F    |                                            |
+| Trafford Park                                                   | –     | –     | S    |                                            |
+| Humphrey Park                                                   | –     | –     | S    |                                            |
+| Urmston                                                         | –     | –     | S    |                                            |
+| Chassen Road                                                    | –     | –     | S    |                                            |
+| Flixton                                                         | –     | –     | S    |                                            |
+| Irlam                                                           | –     | –     |      | Timing point for all stopping trains and   |
+|                                                                 |       |       |      | non-stop services reversing at Glazebrook  |
+|                                                                 |       |       |      | East Jn                                    |
+| Glazebrook East Jn                                              | –     | –     |      | Passenger Loop in Down direction only      |
+|                                                                 |       |       |      | To/from Glazebrook M.S.C.                  |
+| Glazebrook                                                      | –     | –     | S    |                                            |
+| Birchwood                                                       | –     | –     |      |                                            |
+| Padgate                                                         | –     | –     | S    |                                            |
+| Warrington Central Sidings                                      |       | –     | S    | To/from Warrington Central                 |
+| Warrington Central                                              | –     | –     |      |                                            |
+| Warrington West                                                 | –     | –     | S    |                                            |
+| Sankey (for Penketh)                                            | –     | –     | S    |                                            |
+| Widnes                                                          | –     | –     | S    |                                            |
+| Hough Green                                                     | –     | –     |      |                                            |
+| Halewood                                                        | –     | –     | S    |                                            |
+| Hunts Cross                                                     | DML   |       |      | Platform detail must be shown              |
+|                                                                 | UDE   |       |      | DC Electric services can use platforms 2   |
+|                                                                 |       |       |      | and 3 but only via the UDE                 |
+| Hunts Cross West Jn                                             | –     | UML   |      | To/from Liverpool South Parkway            |
+|                                                                 |       | UDE*  |      | (Merseyrail) – NW8001                      |
+|                                                                 |       |       |      | * – DC Electric services must use UDE      |
+|                                                                 |       |       |      | (Single)                                   |
+| Allerton Jn                                                     |       |       |      | To/from Liverpool South Parkway –          |
+|                                                                 |       |       |      | NW2001                                     |
+| NW6004 WATER STREET JN TO SALFORD CENTRAL (ORDSALL CHORD LINES) |       |       |      |                                            |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                      |
+| Water Street Jn                                                 | –     | –     |      | To/from Deansgate – NW6001                 |
+| Irwell Street Jn                                                |       |       |      | Down Ordsall Chord only                    |
+| Salford Central                                                 | –     | –     |      | To/from Deal Street Jn – NW6007            |
+| NW6005 MANCHESTER VICTORIA EAST JN TO WINDSOR BRIDGE SOUTH JN   |       |       |      |                                            |
+| TIMING POINT                                                    | DOWN  | UP    | CODE | NOTES                                      |
+| Manchester Victoria East Jn                                     |       |       |      | To/from Miles Platting Jn – NW7001         |
+| Manchester Victoria                                             | FL SL | FL SL |      | Platform detail must be shown              |
+| Manchester Victoria West Jn                                     |       |       |      |                                            |
+| Manchester Victoria Turnback                                    | –     | –     |      | Access to/from Manchester Victoria via SL  |
+| Siding                                                          |       |       |      | only                                       |
+|                                                                 |       |       |      | See Section 5.3 for specific rules         |
+|                                                                 |       |       |      | applicable to trains to/from this location |
+| Deal Street Jn                                                  | –     | FL SL |      | To/from Ordsall Lane Jn – NW6007           |

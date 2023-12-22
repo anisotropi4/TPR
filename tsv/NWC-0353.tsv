@@ -1,0 +1,43 @@
+|                                            |                                         |                |
+|:-------------------------------------------|:----------------------------------------|:---------------|
+| Miles Platting Jn                          |                                         |                |
+| Adjustments to Sectional Running Times     |                                         |                |
+| Movement                                   | Reason                                  | Value          |
+| Trains joining Down Rochdale from Down     | Approach Control                        | 1⁄2            |
+| Rochdale Slow                              |                                         | Approaching    |
+|                                            |                                         | Miles Platting |
+|                                            |                                         | Jn             |
+| Trains joining Up Rochdale Slow from Up    | Approach Control                        | 1⁄2            |
+| Rochdale                                   |                                         | Approaching    |
+|                                            |                                         | Miles Platting |
+|                                            |                                         | Jn             |
+| Junction Margins                           |                                         |                |
+| First Movement                             | Second Movement                         | Margin         |
+| Pass from Down Slow to Ashton/Rochdale     | Pass from Rochdale                      | 2              |
+| Pass from Rochdale to Up Fast              | Pass from Down Slow to Ashton/Rochdale  | 3              |
+| Pass from Rochdale to Up Slow              | Pass from Down Slow to Ashton/Rochdale  | 31⁄2           |
+| Freight Pass from Down Slow to             | Pass from Rochdale                      | 3              |
+| Ashton/Rochdale                            |                                         |                |
+| Pass from Rochdale to Up Slow              | Freight Pass/Depart Manchester Victoria | Same Time      |
+| Freight pass from Rochdale                 | Pass to Ashton/Rochdale                 | 31⁄2           |
+| Thorpes Bridge Jn                          |                                         |                |
+| Adjustments to Sectional Running Times     |                                         |                |
+| Movement                                   | Reason                                  | Value          |
+| Pass from Brewery Jn towards Vitriol Works | Acceleration from slower speed junction | 1⁄2 After      |
+|                                            |                                         | Thorpes        |
+|                                            |                                         | Bridge Jn      |
+| Junction Margins                           |                                         |                |
+| First Movement                             | Second Movement                         | Margin         |
+| Pass from Rochdale                         | Pass to Dean Lane/Newton Heath TMD      | 3              |
+| Pass to Dean Lane/Newton Heath TMD         | Pass from Rochdale (stopping)           | 3              |
+| Pass to Dean Lane/Newton Heath TMD         | Pass from Rochdale (Non-Stop)           | 31⁄2           |
+| Pass to Dean Lane/Newton Heath TMD         | Pass from Rochdale (Freight)            | 4              |
+| Pass towards  Vitriol Works                | Depart DPL towards Vitriol Works        | 21⁄2           |
+| Newton Heath TMD                           |                                         |                |
+| Junction Margins                           |                                         |                |
+| First Movement                             | Second Movement                         | Margin         |
+| Arrive Newton Heath TMD (formed of up to 6 | Arrive Newton Heath TMD                 | 5              |
+| vehicles)                                  |                                         |                |
+| Depart Newton Heath TMD                    | Depart Newton Heath TMD                 | 5              |
+| Arrive Newton Heath TMD (formed of 7 or 8  | Down or Up train pass Thorpes Bridge Jn | 10             |
+| vehicles)                                  |                                         |                |

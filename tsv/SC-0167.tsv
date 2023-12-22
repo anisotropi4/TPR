@@ -1,0 +1,36 @@
+|                                                                                                                         |                |                  |
+|:------------------------------------------------------------------------------------------------------------------------|:---------------|:-----------------|
+| SC143 CRIANLARICH TO OBAN                                                                                               |                |                  |
+| General Restriction                                                                                                     |                |                  |
+| At all Token Exchange Points where a token exchange has to be carried out, a minimum dwell of 1 minute is               |                |                  |
+| required. At a number of TEPs along this route, it is possible to receive a Long Section Token, allowing the train to   |                |                  |
+| traverse the next two sections without an intermediate token exchange stop. A Long Section Token can only be            |                |                  |
+| issued if both sections are clear.                                                                                      |                |                  |
+|                                                                                                                         |                |                  |
+| The whole RETB area north of Helensburgh Upper is under the control of two consoles at Banavie PSB, covering            |                |                  |
+| (a) Helensburgh Upper to Oban, and (b) Upper Tyndrum to Mallaig. Therefore token exchanges within each area             |                |                  |
+| cannot take place simultaneously.  Arrivals at any two separate locations within the same console area must be a        |                |                  |
+| minimum of 1 minute apart.  However, trains passing at the same location can take place as shown below:-                |                |                  |
+| Dwell Time                                                                                                              |                |                  |
+| Where a token exchange takes place                                                                                      | 1              |                  |
+| Crossing Margins                                                                                                        |                |                  |
+| When both trains are able to fit into the crossing loop, the train that arrives first departs after the second train to |                |                  |
+| arrive has departed.                                                                                                    |                |                  |
+|                                                                                                                         |                |                  |
+| When one of the trains is longer than the crossing loop, the train longer than the crossing loop always departs first.  |                |                  |
+| Except when the first train is longer than the loop                                                                     | No crew change | With crew change |
+| First train arrive                                                                                                      | xx00           | xx00             |
+| Second train arrive                                                                                                     | xx01           | xx01             |
+| Second train depart                                                                                                     | xx02           | xx04             |
+| First train depart                                                                                                      | xx03           | xx05             |
+| When the first train is longer than the loop                                                                            | No crew change | With crew change |
+| First train arrive                                                                                                      | xx00           | xx00             |
+| Second train arrive                                                                                                     | xx01           | xx01             |
+| First train depart                                                                                                      | xx02           | xx04             |
+| Second train depart                                                                                                     | xx03           | xx05             |
+| Tyndrum Lower                                                                                                           |                |                  |
+| All trains must stop for token exchange purposes.                                                                       |                |                  |
+| For Down trains, see general restictions above.                                                                         |                |                  |
+| Dalmally                                                                                                                |                |                  |
+| All trains must stop for token exchange purposes, unless a Long Section Token has been issued at the                    |                |                  |
+| previous Token Exchange Point.                                                                                          |                |                  |

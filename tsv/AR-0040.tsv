@@ -1,0 +1,53 @@
+|                                                                 |         |         |      |                                                 |
+|:----------------------------------------------------------------|:--------|:--------|:-----|:------------------------------------------------|
+| EA1310 CAMDEN ROAD (WEST) JUNCTION TO RICHMOND                  |         |         |      |                                                 |
+| TIMING POINT                                                    | DOWN    | UP      | CODE | NOTES                                           |
+|                                                                 | WEST    | EAST    |      |                                                 |
+|                                                                 | BOUND   | BOUND   |      |                                                 |
+| Finchley Road & Frognal                                         | -       | -       | S    |                                                 |
+| West Hampstead                                                  | -       | -       |      |                                                 |
+| Brondesbury                                                     | -       | -       | S    |                                                 |
+| Brondesbury Park                                                | -       | -       | S    |                                                 |
+| Kensal Rise                                                     | -       | -       | S    |                                                 |
+| Kensal Green Turnback                                           | -       | -       | S    | All trains using siding                         |
+| Kensal Green Junction                                           | -       | -       |      | To/from Harlesden Junction – Refer to NW&C      |
+|                                                                 |         |         |      | Timetable Planning Rules – MD155                |
+|                                                                 |         |         |      | To/from Willesden Junction Low Level – Refer    |
+|                                                                 |         |         |      | to NW&C Timetable Planning Rules – MD150        |
+| Willesden Junction Turnback                                     | -       | -       | S    | All trains using the siding                     |
+|                                                                 |         |         |      | Tiploc - WLSDJHT                                |
+| Willesden Junction High                                         | -       | -       |      | Platform detail must be shown                   |
+| Level                                                           |         |         |      |                                                 |
+| Willesden Junction High                                         |         |         |      | To/from Mitre Bridge Junction – Refer to NW&C   |
+| Level Junction                                                  |         |         |      | Timetable Planning Rules – MD160                |
+| Acton Wells Junction                                            | -       | -       |      | To/from Acton East Junction – Refer to          |
+|                                                                 |         |         |      | Western & Wales Timetable Planning Rules –      |
+|                                                                 |         |         |      | GW130                                           |
+|                                                                 |         |         |      | To/from Dudding Hill Branch – EA1360            |
+|                                                                 |         |         |      | To/from Willesden South West Sidings – Refer    |
+|                                                                 |         |         |      | to NW&C Timetable Planning Rules – MD167        |
+| Acton Central                                                   | -       | -       | S    |                                                 |
+| South Acton                                                     | -       | -       |      |                                                 |
+| South Acton Junction                                            |         |         |      | To/from Kew East Junction – EA1330              |
+| Gunnersbury Junction                                            |         |         |      | To/from Turnham Green (LUL)                     |
+| Gunnersbury                                                     | -       | -       |      |                                                 |
+| Kew Gardens                                                     | -       | -       | S    |                                                 |
+| Richmond                                                        | -       | -       |      | Platform detail must be shown                   |
+| EA1320 CAMDEN ROAD WEST JUNCTION TO STRATFORD PLATFORMS 1 AND 2 |         |         |      |                                                 |
+| TIMING POINT                                                    | DOWN    | UP      | CODE | NOTES                                           |
+|                                                                 | EAST    | WEST    |      |                                                 |
+|                                                                 | BOUND   | BOUND   |      |                                                 |
+| Camden Road (West)                                              | -       | -       |      | Tiploc - CMDNRDJ                                |
+| Junction                                                        |         |         |      | To/from Gospel Oak – EA1310                     |
+|                                                                 |         |         |      | To/from Camden Jn – Refer to NW&C               |
+|                                                                 |         |         |      | Timetable Planning Rules – MD145                |
+| Camden Road                                                     | -       | -       | S    | Platform detail must be shown                   |
+| Camden Road Central                                             | -       | -       | X    | Timing point for Down trains on the Up Line and |
+| Junction                                                        |         |         |      | Down trains towards North London Incline        |
+|                                                                 |         |         |      | Tiploc – CMDNRCJ                                |
+| Camden Road Incline                                             |         |         |      | To/from Cedar Junction – Refer to Kent & HS1    |
+| Junction                                                        |         |         |      | Timetable Planning Rules – SO420                |
+| Camden Road East                                                | RL NL   | -   REV |      | Tiploc – CMDNREJ                                |
+| Junction                                                        | REV     |         |      |                                                 |
+| Caledonian Road &                                               | NL  REV | REV     | S    | Platform detail must be shown                   |
+| Barnsbury                                                       |         |         |      | (Platform 1 REV, Platform 2 NL)                 |

@@ -1,0 +1,36 @@
+|                                                                                                                  |                                             |         |
+|:-----------------------------------------------------------------------------------------------------------------|:--------------------------------------------|:--------|
+| Gunnersbury                                                                                                      |                                             |         |
+| Junction Margins                                                                                                 |                                             |         |
+| First Movement                                                                                                   | Second Movement                             | Margin  |
+| Train arrives Gunnersbury from South Acton                                                                       | Train departs Gunnersbury towards Turnham   | 1⁄2     |
+|                                                                                                                  | Green                                       |         |
+| Train departs Gunnersbury towards Turnham                                                                        | Train from South Acton arrives Gunnersbury  | 11⁄2    |
+| Green                                                                                                            |                                             |         |
+| Train departs Gunnersbury towards Turnham                                                                        | Train from South Acton passes Gunnersbury   | 2       |
+| Green                                                                                                            |                                             |         |
+| Minimum Turnround Time                                                                                           |                                             | 5       |
+| Richmond                                                                                                         |                                             |         |
+| Junction Margins                                                                                                 |                                             |         |
+| First Movement                                                                                                   | Second Movement                             | Margin  |
+| Depart platforms 3-7                                                                                             | Conflicting arrival                         | 3       |
+| Arrive platform 7                                                                                                | Depart platform 6                           | 1⁄2 LUL |
+| Reoccupation of platform                                                                                         | Minimum time allowed between one train      | 3       |
+|                                                                                                                  | departing and another arriving in the same  |         |
+|                                                                                                                  | platform including conflicting movements    |         |
+|                                                                                                                  | towards platforms                           |         |
+| Preferred Platforms                                                                                              |                                             |         |
+| Platforms 3 and 4                                                                                                | London Overground Services                  |         |
+| Platform 5                                                                                                       |                                             |         |
+| Platforms 6 and 7                                                                                                | London Underground District Line Services   |         |
+| Splitting and Coupling of trains permitted                                                                       | Platform 3 only for call on to attach units |         |
+| Minimum Turnround Time                                                                                           | 4 LUL                                       |         |
+| EA1320 CAMDEN ROAD WEST JUNCTION TO STRATFORD PLATFORMS 1 & 2                                                    |                                             |         |
+| All Stations on EA1320                                                                                           |                                             |         |
+| Platform Reoccupation                                                                                            | Exceptions shown under individual stations  | 21⁄2    |
+| Camden Road West Junction                                                                                        |                                             |         |
+| Junction Margins                                                                                                 |                                             |         |
+| Movement                                                                                                         |                                             | Margin  |
+| Fouling move                                                                                                     |                                             | 3       |
+| For ARS regulating purposes, in the Eastbound (Stratford) direction ARR and DEP times with activities A and * to |                                             |         |
+| be used and not pathing time for trains which have been timed passing Camden Junction (Route MD145)              |                                             |         |

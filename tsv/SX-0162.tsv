@@ -1,0 +1,16 @@
+|               |                         |        |                |
+|:--------------|:------------------------|:-------|:---------------|
+| STATION       | PLATFORM AND LINE       | USABLE | NOTES          |
+|               |                         | LENGTH |                |
+| Winchelsea    | - Single                | 80     | Down direction |
+| Winchelsea    | - Single                | 80     | Up direction   |
+| Wivelsfield   | 1 - Up Main             | 246    | Down direction |
+| Wivelsfield   | 1 - Up Main             | 246    | Up direction   |
+| Wivelsfield   | 2 - Down Main           | 246    | Down direction |
+| Wivelsfield   | 2 - Down Main           | 246    | Up direction   |
+| Woldingham    | 1 - Up East Grinstead   | 182    |                |
+| Woldingham    | 2 - Down East Grinstead | 182    |                |
+| Woodmansterne | 1 - Up Tattenham        | 123    |                |
+| Woodmansterne | 2 - Down Tattenham      | 123    |                |
+| Worthing      | 1 - Up Passenger Loop   | 249    |                |
+| Worthing      | 2 - Up Brighton         | 249    |                |

@@ -1,0 +1,57 @@
+|                     |           |        |                                            |
+|:--------------------|:----------|:-------|:-------------------------------------------|
+| STATION             | PLATFORM  | USABLE | NOTES                                      |
+|                     |           | LENGTH |                                            |
+| Newcastle           | 1         | 161    |                                            |
+| Newcastle           | 2         | 362    |                                            |
+| Newcastle           | 3         | 304    |                                            |
+| Newcastle           | 4         | 268    |                                            |
+| Newcastle           | 5         | 68     |                                            |
+| Newcastle           | 6         | 97     | Platforms 5 and 6 can be combined with a   |
+|                     |           |        | total length of 217m                       |
+| Newcastle           | 7         | 115    |                                            |
+| Newcastle           | 8         | 41     | Platforms 7 and 8 combined with a total    |
+|                     |           |        | length of 209m in Down direction, and 212m |
+|                     |           |        | in Up direction                            |
+| Newcastle           | 9         | 112    |                                            |
+| Newcastle           | 10        | 114    |                                            |
+| Newcastle           | 11        | 130    |                                            |
+| Newsham             | Down      | 100    |                                            |
+| Newsham             | Up        | 100    |                                            |
+| Newton Aycliffe     | Down      | 59     |                                            |
+| Newton Aycliffe     | Up        | 59     |                                            |
+| Normanton           | Down      | 81     |                                            |
+| Normanton           | Up        | 81     |                                            |
+| North Road          | Single    | 60     |                                            |
+| Northallerton       | Down      | 261    |                                            |
+| Northallerton       | Up        | 270    |                                            |
+| Northumberland Park | Single    | 100    |                                            |
+| Nunthorpe           | Down      | 86     |                                            |
+| Nunthorpe           | Up        | 84     |                                            |
+| Oakleigh Park       | Down Fast | 173    |                                            |
+| Oakleigh Park       | Down Slow | 173    |                                            |
+| Oakleigh Park       | Up Fast   | 174    |                                            |
+| Oakleigh Park       | Up Slow   | 174    |                                            |
+| Old Street          | Down      | 128    |                                            |
+| Old Street          | Up        | 128    |                                            |
+| Outwood             | Down      | 93     |                                            |
+| Outwood             | Up        | 93     |                                            |
+| Pallion             | Down      | 65     |                                            |
+| Pallion             | Up        | 65     |                                            |
+| Palmers Green       | Down      | 127    |                                            |
+| Palmers Green       | Up        | 137    |                                            |
+| Pannal              | Down      | 91     |                                            |
+| Pannal              | Up        | 91     |                                            |
+| Park Lane           | Down      | 65     |                                            |
+| Park Lane           | Up        | 65     |                                            |
+| Pegswood            | Down      | 89     |                                            |
+| Pegswood            | Up        | 89     |                                            |
+| Penistone           | Down      | 102    |                                            |
+| Penistone           | Up        | 121    |                                            |
+| Peterborough        | 1         | 326    | No longer a bay platform                   |
+| Peterborough        | 2         | 319    |                                            |
+| Peterborough        | 3         | 265    |                                            |
+| Peterborough        | 4         | 265    |                                            |
+| Peterborough        | 5         | 265    |                                            |
+| Peterborough        | 6         | 188    |                                            |
+| Peterborough        | 7         | 188    |                                            |

@@ -1,0 +1,36 @@
+|                                                                                                                      |                                            |              |
+|:---------------------------------------------------------------------------------------------------------------------|:-------------------------------------------|:-------------|
+| Girvan                                                                                                               |                                            |              |
+| Dwell Time                                                                                                           |                                            |              |
+| All Up trains (token duties)                                                                                         | 1                                          |              |
+| Down trains using Platform 1                                                                                         | 1                                          |              |
+| (token duties)                                                                                                       |                                            |              |
+| Junction Margins                                                                                                     |                                            |              |
+| First Movement                                                                                                       | Second Movement                            | Margin       |
+| Down train arriving Platform 2                                                                                       | Up train arriving Platform 1               | 2            |
+| Up train departing Platform 1                                                                                        | Down train departing Platform 2            | 2            |
+| Method of Operation                                                                                                  |                                            |              |
+| All terminating services using Platform 2 are required to shunt via signal GV26 before accessing Platform 1. Trains  |                                            |              |
+| reversing at GV26 signal are required to receive token to Barrhill therefore this line must be clear to permit shunt |                                            |              |
+| moves.                                                                                                               |                                            |              |
+| Passing Moves should be planned as follows                                                                           |                                            |              |
+|                                                                                                                      | Arr                                        | Dep          |
+| Down train                                                                                                           | XX.00                                      | XX.05        |
+| Up train                                                                                                             | XX.02                                      | XX.03        |
+| Barrhill                                                                                                             |                                            |              |
+| Operating Restriction                                                                                                |                                            |              |
+| Trains reversing at Barrhill must do so via Barrhill BR15 Signal                                                     |                                            |              |
+| Passing Moves should be planned as follows                                                                           |                                            |              |
+| First train arrive                                                                                                   | XX:00                                      |              |
+| Second train arrive                                                                                                  | XX:02                                      |              |
+| Second train depart                                                                                                  | XX:03                                      |              |
+| First train depart                                                                                                   | XX:05                                      |              |
+| SC061 SHIELDS JUNCTION TO PAISLEY CANAL                                                                              |                                            |              |
+| Corkerhill Depot Jn                                                                                                  |                                            |              |
+| Junction Margins                                                                                                     |                                            |              |
+| First Movement                                                                                                       | Second Movement                            | Margin       |
+| Depart Corkerhill Depot towards Shields Jn                                                                           | Depart Dumbreck towards Paisley Canal      | 3            |
+| Arrive Corkerhill station from Shields Jn                                                                            | Depart Corkerhill Depot towards Shields Jn | Simultaneous |
+| Pass from Paisley Canal                                                                                              | Pass towards Paisley Canal                 | 21⁄2         |
+| Paisley Canal                                                                                                        |                                            |              |
+| Minimum Turnround                                                                                                    | 5                                          |              |

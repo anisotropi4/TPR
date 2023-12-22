@@ -1,0 +1,37 @@
+|                                                                                                              |                                |        |
+|:-------------------------------------------------------------------------------------------------------------|:-------------------------------|:-------|
+| Barnhill                                                                                                     |                                |        |
+| Junction Margins                                                                                             |                                |        |
+| First Movement                                                                                               | Second Movement                | Margin |
+| Pass from Single Line                                                                                        | Pass to Single Line            | 31⁄2   |
+| Pass from Single Line                                                                                        | Depart to Single Line          | 2      |
+| Longforgan                                                                                                   |                                |        |
+| Planning Note                                                                                                |                                |        |
+| Pathing time must not be applied between Longforgan and Invergowrie in the Down direction due to there being |                                |        |
+| no intermediate signals.                                                                                     |                                |        |
+| SC123 BATHGATE TO HELENSBURGH (VIA SINGER)                                                                   |                                |        |
+| Airdrie                                                                                                      |                                |        |
+| Adjustments to Sectional Running Times                                                                       |                                |        |
+| Movement Up                                                                                                  | Reason                         | Value  |
+| Up trains from Coatdyke to Platform 1 between                                                                | Approach control               | 11⁄2   |
+| Coatbridge/Coatdyke and Airdrie                                                                              |                                |        |
+| Up trains from Coatdyke to Platform 2 between                                                                | Approach Control               | 1⁄2    |
+| Coatbridge/Coatdyke and Airdrie                                                                              |                                |        |
+| Dwell Time                                                                                                   |                                |        |
+| MU                                                                                                           | 1                              |        |
+| Junction Margins                                                                                             |                                |        |
+| First Movement                                                                                               | Second Movement                | Margin |
+| Down pass/depart                                                                                             | Up arrive Platform 1 or 2      | 3      |
+| Down pass/depart                                                                                             | Up arrive Down Carriage Siding | 3      |
+| Up arrive Platform 1 or Down Carriage Siding                                                                 | Pass/arrive Platform 2         | 3*     |
+| Arrive Platform 1                                                                                            | Down depart Platform 2         | 1⁄2    |
+| * Down trains may arrive at the same time if 1⁄2 adjustment is added to the SRT approaching Airdrie.         |                                |        |
+| Restriction                                                                                                  |                                |        |
+| Except in an emergency, no more than 6 vehicles may be permitted to occupy number 1 platform line.           |                                |        |
+| Coatbridge Sunnyside                                                                                         |                                |        |
+| Restrictions                                                                                                 |                                |        |
+| Pathing time must not be used between Coatbridge Sunnyside and Blairhill, due to there being no intermediate |                                |        |
+| signals.                                                                                                     |                                |        |
+|                                                                                                              |                                |        |
+| Pathing time must not be used between Coatbridge Sunnyside and Coatdyke, due to there being no intermediate  |                                |        |
+| signals.                                                                                                     |                                |        |

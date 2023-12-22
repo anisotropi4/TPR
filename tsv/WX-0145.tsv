@@ -1,0 +1,19 @@
+|                                                                                     |                           |        |
+|:------------------------------------------------------------------------------------|:--------------------------|:-------|
+| SW210 CLAPHAM JUNCTION TO READING (VIA RICHMOND)                                    |                           |        |
+| Clapham Junction                                                                    |                           |        |
+| See entry under route – SW100 and also Adjustments to Sectional Running Times below |                           |        |
+| Adjustment to Sectional Running Times                                               |                           |        |
+| For all freight timing loads in the Up Direction on Fast Line or Slow Line          |                           |        |
+| Movement                                                                            | Reason                    | Value  |
+| Trains passing towards Latchmere Junction or                                        | Speed Differential        | {1}    |
+| Longhedge Junction                                                                  |                           |        |
+| Point Pleasant Junction                                                             |                           |        |
+| Junction Margins                                                                    |                           |        |
+| First Movement                                                                      | Second Movement           | Margin |
+| Between all movements except as below                                               |                           | 3      |
+| Down Windsor Line service                                                           | Up train from East Putney | 2      |
+| Putney                                                                              |                           |        |
+| Connectional Allowances                                                             |                           |        |
+| All Services                                                                        | 5                         |        |
+| Dwell Times                                                                         |                           |        |

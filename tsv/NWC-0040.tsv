@@ -1,0 +1,57 @@
+|                                         |        |         |      |                                            |
+|:----------------------------------------|:-------|:--------|:-----|:-------------------------------------------|
+| MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE) |        |         |      |                                            |
+| TIMING POINT                            | DOWN   | UP      | CODE | NOTES                                      |
+| Water Eaton Road Jn                     | USL    |         | X    |                                            |
+| Bletchley South Jn                      | –      | SL      | X    |                                            |
+| Bletchley                               | FL SL  | FL SL   |      | Platform detail must be shown              |
+|                                         | RL –   |         |      | To/from Fenny Stratford – MD140            |
+| Bletchley North Jn                      |        |         |      | To/from Bletchley Relief 2                 |
+|                                         |        |         |      | To/from Bletchley Carriage Sidings         |
+| Bletchley Relief 1                      | RL     | RL      | S    | TIPLOC: BLTCDGL                            |
+| Bletchley Relief 2                      | RL     | RL      | S    | TIPLOC: BLTCUGL                            |
+| Bletchley Carriage Sidings              | – CWM  | –       |      |                                            |
+| Bletchley Flyover North Jn              |        |         |      |                                            |
+| Denbigh Hall South Jn                   | SL USL | – RL SL |      | Timing point for all trains on Slow Lines  |
+|                                         |        |         |      | and all crossing moves at this location    |
+|                                         |        |         |      | To/from Bletchley Flyover Jn – MD736       |
+|                                         |        |         |      | To/from Bletchley High Level – MD736       |
+| Denbigh Hall North Jn                   | FL     | SL      | X    |                                            |
+| Knowlhill Jn                            |        |         |      |                                            |
+| Milton Keynes South Jn                  |        |         |      |                                            |
+| Milton Keynes Central                   | FL SL  | FL SL   |      | Platform detail must be shown              |
+| Milton Keynes Signal KR1492             |        | –       | S    | For shunting between platforms 5 and 6     |
+| Milton Keynes North Jn                  |        |         |      |                                            |
+| Wolverton Signal KR1498                 | SL     | -       | S    | For trains to Wolverton Centre Sidings     |
+| Wolverton Centre Sidings                | -      | -       | S    |                                            |
+| Wolverton Signal KR1495                 | -      | SL      | S    | For trains to Wolverton Centre Sidings     |
+| Wolverton                               | FL SL  | FL SL   | S    |                                            |
+| Hanslope Jn                             | FL SL  | FL SL   |      | To/from Northampton – MD105                |
+| Weedon                                  | FL     | FL      |      |                                            |
+| Hillmorton Jn                           | FL –   | FL –    |      | To/from Long Buckby – MD105                |
+| Rugby South Jn                          |        |         |      |                                            |
+| Rugby                                   | FL SL  | FL DNL  |      | Platform detail must be shown              |
+|                                         | DCL    | UNL     |      | Down trains departing / passing platform 2 |
+|                                         | UDT    |         |      | towards Coventry must show ‘FL’ line code  |
+|                                         | UNL    |         |      | from Rugby to Rugby Trent Valley Junction  |
+| Rugby Signal RN4182                     |        | – SL    | S    | Up Goods Loop                              |
+| Rugby Signal RN4184                     |        | – SL    | S    | Up and Down through siding                 |
+| Rugby North Jn                          |        |         |      |                                            |
+| Rugby Signal RN4179                     | –      |         | S    | Up and Down through siding                 |
+| Rugby Trent Valley Jn                   | SL FL  | SL FL   |      | To/from New Bilton – MD180                 |
+|                                         | –      | UGL     |      | To/from Coventry – MD301                   |
+|                                         | UCL    | UNL     |      | * DCL line code for trains running bi-     |
+|                                         |        | DCL *   |      | directional on Down Coventry               |
+| Newbold Jn                              | SL FL  | SL FL   | X    |                                            |
+| High Oaks Jn                            | SL FL  | SL FL   | X    |                                            |
+| Brinklow Jn                             | FL     |         |      |                                            |
+| Attleborough South Jn                   | FL SL  |         |      |                                            |
+| Attleborough North Jn                   |        | FL      | X    |                                            |
+| Nuneaton Signal RN5433                  | SL     |         | S    |                                            |
+| Nuneaton South Jn                       |        |         |      | To/from Chilvers Coton Jn – MD410          |
+| Nuneaton                                | FL SL  | FL SL   |      | Platform detail must be shown              |
+|                                         | DC UC  | DB UB – |      | Up TV Slow: To/from Hinckley – MD232       |
+|                                         |        |         |      | Up TV Slow: From Nuneaton – MD232          |
+| Nuneaton North Jn                       |        |         |      | To/from Abbey Jn – MD555                   |
+| Ashby Jn                                |        | FL DSL  | X    |                                            |
+|                                         |        | DFL     |      |                                            |

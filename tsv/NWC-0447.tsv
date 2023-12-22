@@ -1,0 +1,42 @@
+|                                                                                |      |       |    |    |                                            |
+|:-------------------------------------------------------------------------------|:-----|:------|:---|:---|:-------------------------------------------|
+| MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)                                        |      |       |    |    |                                            |
+| Down – 2000 Sat – 1200 Sun (Euston to Rugby timed as 2 track railway using SL) |      |       |    |    |                                            |
+| Down – 1200-2100 Sun                                                           |      |       |    |    |                                            |
+| Location                                                                       | Type | FL/ML | SL | GL | Remarks                                    |
+| Approaching Tring                                                              | E    |       | 2  |    |                                            |
+| Approaching Milton Keynes Central                                              | E    | 1     | 1  |    |                                            |
+| Approaching Hanslope Jn                                                        | E    | 1     |    |    |                                            |
+| Approaching Hillmorton Jn                                                      | E    | 1     | 1  |    |                                            |
+| Up – 2000 Sat – 1200 Sun (Euston – Rugby timed as 2 track railway using SL)    |      |       |    |    |                                            |
+| Up – 1200-2130 Sun                                                             |      |       |    |    |                                            |
+| Location                                                                       | Type | FL/ML | SL | GL | Remarks                                    |
+| Approaching Rugby Trent Valley Jn                                              | E    | 1     |    |    |                                            |
+| Approaching Ledburn Jn                                                         | E    | 1     | 1  |    |                                            |
+| Approaching Tring                                                              | E    | 1     | 1  |    |                                            |
+| Approaching Wembley Central                                                    | E    |       | 2  |    | Only applies to freights routed to Wembley |
+|                                                                                |      |       |    |    | Yard or via Willesden Relief Lines         |
+| Approaching Willesden West                                                     | E    | 1     | 2  |    | Does not apply to trains that have         |
+| London Jn                                                                      |      |       |    |    | commenced their journey at Wembley         |
+|                                                                                |      |       |    |    | Yards, Wembley C Sidings or Intercity      |
+|                                                                                |      |       |    |    | Depot or ECS movements to/from             |
+|                                                                                |      |       |    |    | Willesden TMD                              |
+| MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)                                   |      |       |    |    |                                            |
+| Timing Section                                                                 | Type | FL/ML | SL | GL | Remarks                                    |
+| Down – 1200-2130 Sun                                                           |      |       |    |    |                                            |
+| Approaching Northampton                                                        | E    | 1     |    |    |                                            |
+| Approaching Daventry South Jn                                                  | E    | 1*    |    |    | * Trains terminating at Daventry Freight   |
+|                                                                                |      |       |    |    | Terminals                                  |
+| Approaching Hillmorton Jn                                                      | E    | 1     |    |    |                                            |
+| Up – 1200-2130 Sun                                                             |      |       |    |    |                                            |
+| Approaching Daventry North Jn                                                  | E    | 1*    |    |    | * Trains terminating at Daventry Freight   |
+|                                                                                |      |       |    |    | Terminals                                  |
+| Approaching Northampton                                                        | E    | 1     |    |    |                                            |
+| MD340 ASTON NORTH JN TO ALREWAS (EXCLUSIVE)                                    |      |       |    |    |                                            |
+| Timing Section                                                                 | Type | FL/ML | SL | GL | Remarks                                    |
+| Down – Sat to Mon                                                              |      |       |    |    |                                            |
+| Approaching Lichfield City                                                     | E    | 1*    |    |    | * Does not apply to services formed with   |
+|                                                                                |      |       |    |    | 323/730 units                              |
+| Up – Sat to Mon                                                                |      |       |    |    |                                            |
+| Approaching Aston                                                              | E    | 1*    |    |    | * Does not apply to services formed with   |
+|                                                                                |      |       |    |    | 323/730 units                              |

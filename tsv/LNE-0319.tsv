@@ -1,0 +1,57 @@
+|                   |              |        |                                         |
+|:------------------|:-------------|:-------|:----------------------------------------|
+| STATION           | PLATFORM     | USABLE | NOTES                                   |
+|                   |              | LENGTH |                                         |
+| Scarborough       | 3            | 163    |                                         |
+| Scarborough       | 4            | 129    |                                         |
+| Scarborough       | 5            | 122    |                                         |
+| Scunthorpe        | Down         | 143    |                                         |
+| Scunthorpe        | Up           | 138    |                                         |
+| Seaburn           | Down         | 65     |                                         |
+| Seaburn           | Up           | 65     |                                         |
+| Seaham            | Down         | 115    |                                         |
+| Seaham            | Up           | 115    |                                         |
+| Seamer            | Down         | 120    |                                         |
+| Seamer            | Up           | 125    |                                         |
+| Seaton Carew      | Down         | 125    |                                         |
+| Seaton Carew      | Up           | 125    |                                         |
+| Selby             | Bay Platform | 120    |                                         |
+| Selby             | Down         | 200    |                                         |
+| Selby             | Up           | 257    |                                         |
+| Sheffield         | 1            | 330    |                                         |
+| Sheffield         | 1a           | 68     | Down direction to S112 signal           |
+| Sheffield         | 1a           | 68     | Up direction to S101 signal             |
+| Sheffield         | 1b           | 146    | Down direction clear of 4060B points    |
+| Sheffield         | 1b           | 143    | Up direction to S116 signal             |
+| Sheffield         | TL           | 293    | Between S102 and S123, between S102 and |
+|                   |              |        | S113 64m                                |
+| Sheffield         | DSS          | 293    |                                         |
+| Sheffield         | 2            | 345    | Down direction to S127 signal           |
+| Sheffield         | 2            | 329    | Up direction to S104 signal             |
+| Sheffield         | 2c           | 58     | 54m on east side                        |
+| Sheffield         | 3            | 126    | Down direction to S128 signal           |
+| Sheffield         | 4            | 112    |                                         |
+| Sheffield         | 5            | 326    | Down direction                          |
+| Sheffield         | 5            | 237    | Up direction to S106 signal             |
+| Sheffield         | USS1         | 247    |                                         |
+| Sheffield         | USS2         | 247    |                                         |
+| Sheffield         | 6            | 351    |                                         |
+| Sheffield         | 7            | 107    | 135m on east side                       |
+| Sheffield         | 8            | 368    | To S139 signal in down direction        |
+| Sheffield         | 8            | 378    | Up direction                            |
+| Shepley           | Down         | 65     |                                         |
+| Shepley           | Up           | 65     |                                         |
+| Sherburn in Elmet | Down         | 77     |                                         |
+| Sherburn in Elmet | Up           | 83     |                                         |
+| Shildon           | Down         | 81     |                                         |
+| Shildon           | Up           | 105    |                                         |
+| Shipley           | 1            | 143    |                                         |
+| Shipley           | 2            | 106    | Down direction                          |
+| Shipley           | 2            | 115    | Up Direction                            |
+| Shipley           | 3            | 240    | Down direction                          |
+| Shipley           | 3            | 215    | Up Direction                            |
+| Shipley           | 4            | 198    |                                         |
+| Shipley           | 5            | 98     |                                         |
+| Shirebrook        | Down         | 79     |                                         |
+| Shirebrook        | Up           | 79     |                                         |
+| Shireoaks         | Down         | 97     |                                         |

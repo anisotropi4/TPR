@@ -1,0 +1,47 @@
+|                                        |                                             |                |
+|:---------------------------------------|:--------------------------------------------|:---------------|
+| Sandy                                  |                                             |                |
+| Hitchin to Sandy                       | DF to DS pass to pass; approach control     | 1  EMU         |
+|                                        |                                             | 2 HST/LH/      |
+|                                        |                                             | 180/225/80X    |
+| DS to DF pass to pass; differential    | 1                                           |                |
+| Sandy to Huntingdon                    | DF to DS pass to pass; approach control     | 1              |
+| DS to DF pass to pass; differential    | 1 180/EMU                                   |                |
+|                                        | 2 HST/LH/                                   |                |
+|                                        | 225/80X                                     |                |
+| Movement Up                            | Reason                                      | Value          |
+| Huntingdon to Sandy                    | UF to US pass to pass; approach control and | 1 EMU          |
+|                                        | differential                                | 2 HST/LH/      |
+|                                        |                                             | 180/225/80X    |
+|                                        | US to UF pass to pass; approach control at  | 1⁄2            |
+|                                        | Signal P266 and differential junction speed |                |
+| Sandy to Hitchin                       | UF to US pass to pass; approach control     | 1              |
+|                                        | US to UF pass to pass; differential         | 1 180/EMU      |
+|                                        |                                             | 2 HST/LH/      |
+|                                        |                                             | 225/80X        |
+| Junction Margins                       |                                             |                |
+| First Movement                         | Second Movement                             | Margin         |
+| Down train pass FL to SL               | Next DF train passes                        | 3              |
+| Up train crosses FL to SL              | Next UF train passes                        | 3              |
+| Pass Up Fast                           | Depart USL cross UFL                        | 2              |
+| Pass Down Fast                         | Depart DSL cross DFL                        | 2              |
+| St Neots                               |                                             |                |
+| Dwell Time                             |                                             |                |
+| All trains                             | 1                                           |                |
+| Adjustments to Sectional Running Times |                                             |                |
+| Movement Down                          | Reason                                      | Value          |
+| Sandy to St.Neots                      | DF to DS approach control (40mph crossover) | 1⁄2 EMU        |
+|                                        | for services stopping at St Neots           |                |
+| Movement Up                            | Reason                                      | Value          |
+| St. Neots to Sandy                     | US to UF acceleration (35mph crossover) for | 1⁄2 EMU        |
+|                                        | services stopping at St Neots               |                |
+| Junction Margins                       |                                             |                |
+| First Movement                         | Second Movement                             | Margin         |
+| Down train to clear to SL              | Before next non–stop train passes Sandy     | Pass Sandy     |
+|                                        |                                             | 1⁄2 before 1st |
+|                                        |                                             | train has      |
+|                                        |                                             | cleared to SL  |
+|                                        |                                             | at St Neots    |
+| Pass Up fast                           | Depart USL to UFL                           | 11⁄2 before    |
+|                                        |                                             | fast passes    |
+|                                        |                                             | Sandy          |

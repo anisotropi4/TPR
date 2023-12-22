@@ -1,0 +1,50 @@
+|                       |          |        |                                   |
+|:----------------------|:---------|:-------|:----------------------------------|
+| STATION               | PLATFORM | USABLE | NOTES                             |
+|                       |          | LENGTH |                                   |
+| Aberdeen              | 3        | 212    | Bay Platform                      |
+| Aberdeen              | 4        | 209    | Bay Platform                      |
+| Aberdeen              | 5        | 230    | Bay Platform                      |
+| Aberdeen              | 6S       | 247    | Up & Down Bi-Directional Platform |
+| Aberdeen              | 6N       | 193    | Up & Down Bi-Directional Platform |
+| Aberdeen              | 6        | 512    | Total Length of Platform 6N & 6S  |
+| Aberdeen              | 7S       | 173    | Up & Down Bi-Directional Platform |
+| Aberdeen              | 7N       | 178    | Up & Down Bi-Directional Platform |
+| Aberdeen              | 7        | 423    | Total Length of Platform 7N & 7S  |
+| Aberdour              | 1        | 147    | Up Platform                       |
+| Aberdour              | 2        | 184    | Down Platform                     |
+| Achanalt              |          | 58     | Single Platform                   |
+| Achnasheen            | 1        | 67     | Up Platform                       |
+| Achnasheen            | 2        | 113    | Down Platform                     |
+| Achnashellach         |          | 66     | Single Platform                   |
+| Addiewell             | 1        | 149    | Down Platform                     |
+| Addiewell             | 2        | 151    | Up Platform                       |
+| Airbles               | 1        | 132    | Down Platform                     |
+| Airbles               | 2        | 132    | Up Platform                       |
+| Airdrie               | 1        | 191    | Bay Platform                      |
+| Airdrie               | 2        | 130    | Down Platform                     |
+| Airdrie               | 3        | 150    | Up Platform                       |
+| Alexandra Parade      | 1        | 131    | Down Platform                     |
+| Alexandra Parade      | 2        | 127    | Up Platform                       |
+| Alexandria            |          | 129    | Single Platform                   |
+| Alloa                 | 1        | 151    | Bay Platform                      |
+| Alness                |          | 116    | Single Platform                   |
+| Altnabreac            |          | 95     | Single Platform                   |
+| Anderston             | 1        | 128    | Up Platform                       |
+| Anderston             | 2        | 128    | Down Platform                     |
+| Annan                 | 2        | 152    | Down Platform                     |
+| Annan                 | 1        | 130    | Up Platform                       |
+| Anniesland            | 1        | 142    | Up Platform                       |
+| Anniesland            | 2        | 142    | Down Platform                     |
+| Anniesland            | 3        | 123    | Bay Platform                      |
+| Arbroath              | 1        | 232    | Up Platform                       |
+| Arbroath              | 2        | 230    | Down Platform                     |
+| Ardgay                | 1        | 197    | Up Platform                       |
+| Ardgay                | 2        | 114    | Down Platform                     |
+| Ardlui                | 2        | 152    | Down Platform                     |
+| Ardlui                | 1        | 154    | Up Platform                       |
+| Ardrossan Harbour     | 1        | 170    | Bay Platform                      |
+| Ardrossan South Beach |          | 190    | Single Platform                   |
+| Ardrossan Town        |          | 170    | Single Platform                   |
+| Argyle Street         | 1 & 2    | 128    | Down Platform 1 / Up Platform 2   |
+| Arisaig               | 1 & 2    | 77     | Down Platform 1 / Up Platform 2   |

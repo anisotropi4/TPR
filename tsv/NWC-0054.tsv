@@ -1,0 +1,49 @@
+|                                                 |       |       |      |                                            |
+|:------------------------------------------------|:------|:------|:-----|:-------------------------------------------|
+| MD335 PERRY BARR WEST JN TO PERRY BARR SOUTH JN |       |       |      |                                            |
+| TIMING POINT                                    | DOWN  | UP    | CODE | NOTES                                      |
+| Perry Barr West Jn                              | –     | –     |      | To/from Soho East Jn – MD325               |
+| Perry Barr                                      | –     | –     |      | To/from Aston – MD320                      |
+| MD340 ASTON NORTH JN TO ALREWAS (EXCLUSIVE)     |       |       |      |                                            |
+| TIMING POINT                                    | DOWN  | UP    | CODE | NOTES                                      |
+| Aston North Jn                                  |       |       |      | To/from Aston – MD320                      |
+| Gravelly Hill                                   | –     | –     | S    |                                            |
+| Erdington                                       | –     | –     | S    |                                            |
+| Chester Road                                    | –     | –     | S    |                                            |
+| Wylde Green                                     | –     | –     | S    |                                            |
+| Sutton Coldfield                                | –     | –     | S    | Platform detail must be shown              |
+| Four Oaks                                       | –     | –     |      | Platform detail must be shown              |
+| Butlers Lane                                    | –     | –     | S    |                                            |
+| Blake Street                                    | –     | –     |      | Platform detail must be shown              |
+| Shenstone                                       | –     | –     | S    |                                            |
+| Lichfield City Jn                               |       |       |      | To/from Brownhills – MD350                 |
+| Lichfield City                                  | –     | –     |      | Platform detail must be shown              |
+| Lichfield City CS                               | –     | –     | S    |                                            |
+| Lichfield Trent Valley High Level               | –     | –     |      | Platform code UTS to be shown for trains   |
+|                                                 |       |       |      | planned to stop on the Up Sutton (non-     |
+|                                                 |       |       |      | platform) line                             |
+| Lichfield Trent Valley Jn                       | –     | –     | X    | To/from Lichfield Trent Valley Low Level – |
+|                                                 |       |       |      | MD355                                      |
+| Alrewas                                         | –     | –     |      | Single Line                                |
+|                                                 |       |       |      | To/from Wichnor Jn – Refer to East         |
+|                                                 |       |       |      | Midlands Timetable Planning Rules -        |
+|                                                 |       |       |      | LN3340                                     |
+| MD345 BESCOT JN TO RUGELEY NORTH JN (EXCLUSIVE) |       |       |      |                                            |
+| TIMING POINT                                    | DOWN  | UP    | CODE | NOTES                                      |
+| Bescot Jn                                       | –     | –     | X    | To/from Bescot Stadium – MD320             |
+| Pleck Jn                                        | FL SL | –     |      | To/from Darlaston Jn – MD360               |
+|                                                 |       |       |      | To/from Up Dudley Siding – MD370           |
+| Walsall Freight Terminal                        | –     |       |      |                                            |
+| Tasker Street Yard                              |       | –     |      |                                            |
+| Walsall South Jn                                |       |       |      |                                            |
+| Walsall                                         | –     | FL SL |      | Platform detail must be shown              |
+| Walsall North Jn                                |       |       |      |                                            |
+| Walsall Signal DR1362                           |       | –     |      | Timing point for trains shunting between   |
+|                                                 |       |       |      | platforms at Walsall                       |
+| Ryecroft Jn                                     | –     | –     |      | To/from Park Lane Jn– MD565                |
+| Bloxwich                                        | –     | –     |      |                                            |
+| Bloxwich North                                  | –     | –     | S    |                                            |
+| Landywood                                       | –     | –     | S    |                                            |
+| Mid Cannock Jn                                  | –     | –     |      | To/from Cannock FLT                        |
+| Cannock FLT                                     |       | –     | F    |                                            |
+| Cannock                                         | –     | –     | S    |                                            |

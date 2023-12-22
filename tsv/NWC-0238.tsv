@@ -1,0 +1,41 @@
+|                                                                                                           |                                            |        |
+|:----------------------------------------------------------------------------------------------------------|:-------------------------------------------|:-------|
+| Stourbridge Junction                                                                                      |                                            |        |
+| Assisting Locomotive in Rear, Working of Old Hill bank                                                    |                                            |        |
+| Freight trains towards Rowley Regis up Old Hill Bank need assisting above the following trailing weights. |                                            |        |
+| Class 37 – 585 tonnes                                                                                     |                                            |        |
+| Class 47 – 505 tonnes                                                                                     |                                            |        |
+| Class 56 – 835 tonnes                                                                                     |                                            |        |
+| Class 57 – 530 tonnes                                                                                     |                                            |        |
+| Class 60 – 1425 tonnes                                                                                    |                                            |        |
+| Class 66 – 1045 tonnes                                                                                    |                                            |        |
+| Class 66/6 – 1370 tonnes                                                                                  |                                            |        |
+| Class 67 – 420 tonnes / 12 vehicles                                                                       |                                            |        |
+|                                                                                                           |                                            |        |
+| Attachment of Banking Locomotive.  7 minutes. The Tiploc sequence for banking of trains is BLAKEDN –      |                                            |        |
+| STRBDGJ P/P – STRBJGL S/S (7min OP) and STRBJGL – ROWLEYR S/S (5 min OP)                                  |                                            |        |
+| Connectional Allowance                                                                                    | 2                                          |        |
+| Dwell Time                                                                                                |                                            |        |
+| DMU                                                                                                       | 1                                          |        |
+| Platform End Margins                                                                                      |                                            |        |
+| First Movement                                                                                            | Second Movement                            | Margin |
+| Train towards Rowley Regis, Down Goods                                                                    | Arrival into Platform 2 from Kidderminster | 4      |
+| Loop or Down Sidings from Platform 3                                                                      |                                            |        |
+| Train towards Rowley Regis from Platform 3                                                                | Arrival into Platform 3 from Rowley Regis  | 4      |
+| Arrival into Platform 2 from Kidderminster                                                                | Departure from Platform 3 towards Rowley   | 2      |
+|                                                                                                           | Regis                                      |        |
+| Departure from Platform 3 towards Rowley                                                                  | Departure from Platform 2 towards Rowley   | 4      |
+| Regis                                                                                                     | Regis                                      |        |
+| Train towards Rowley Regis from Platform 2                                                                | Arrival into Platform 2 from Rowley Regis  | 3      |
+| Junction Margins                                                                                          |                                            |        |
+| First Movement                                                                                            | Second Movement                            | Margin |
+| Passenger train passing or departing                                                                      | Freight train from Round Oak/Brierley Hill | 3      |
+| Stourbridge Junction towards Kidderminster                                                                |                                            |        |
+| Freight train passing Stourbridge Junction                                                                | Freight train from Round Oak/Brierley Hill | 4      |
+| towards Kidderminster                                                                                     |                                            |        |
+| Minimum Turnround Time – Trains changing direction at end of journey                                      |                                            |        |
+| Standard                                                                                                  | 5                                          |        |
+| Shunting to a different platform                                                                          | 10                                         |        |
+| MD435 SMALL HEATH SOUTH JN TO STOURBRIDGE NORTH JN                                                        |                                            |        |
+| Small Heath South Jn                                                                                      |                                            |        |
+| See entry under route MD401 Heyford to Bordesley Jn                                                       |                                            |        |

@@ -1,0 +1,54 @@
+|                                         |         |          |      |                                              |
+|:----------------------------------------|:--------|:---------|:-----|:---------------------------------------------|
+| LN600 SHAFTHOLME JUNCTION TO RESTON GSP |         |          |      |                                              |
+| TIMING POINT                            | DOWN    | UP       | CODE | NOTES                                        |
+|                                         |         |          |      | Timing point for all trains on the Slow Line |
+| King Edward Bridge South                | –  SL   | –        |      | To/from Norwood Jn – LN682                   |
+| Junction                                | UML     |          |      | To/from King Edward Bridge East Jn –         |
+|                                         |         |          |      | LN676                                        |
+| King Edward Bridge North                |         | –  SL    |      | Slow line only To/from King Edward Bridge    |
+| Junction                                |         |          |      | East Jn – LN620                              |
+| Newcastle West Junction                 |         |          |      | To/from Forth Banks – LN622                  |
+| Newcastle                               | –  DML  | – SL DSL |      | Platform detail must be shown                |
+|                                         | SL  UML | ML  DML  |      | Standard line designations                   |
+|                                         |         |          |      |                                              |
+|                                         |         | 8SL      |      | These line designations only to be used      |
+|                                         |         | 8DS      |      | when departing from Platform 7 via           |
+|                                         |         | 8ML      |      | Platform 8                                   |
+| Newcastle East Junction                 |         |          |      | To/From High Level Bridge Junction –         |
+|                                         |         |          |      | LN627                                        |
+| Manors                                  | –  ML   | –  SL    | S    | Services travelling on the slow line from    |
+|                                         |         |          |      | Newcastle platforms 5 to 8 and stopping at   |
+|                                         |         |          |      | Manors must use the following route          |
+|                                         |         |          |      | codes:                                       |
+|                                         |         |          |      | Newcastle to Manors – SL                     |
+|                                         |         |          |      | Manors to Heaton South Junction – ML         |
+|                                         |         |          |      |                                              |
+|                                         |         |          |      | Platform detail must be shown                |
+| Heaton South Junction                   | –  GL   | – DML    |      |                                              |
+|                                         |         | SL  UML  |      |                                              |
+| Heaton TRSMD                            |         | –        | S    |                                              |
+| Heaton North Junction                   | –       | –  GL    | X    |                                              |
+| Benton North Junction                   | –       | –        |      | To/from Newsham L.C. – LN694                 |
+| Cramlington                             | –       | –        | S    |                                              |
+| Morpeth                                 | –  GL   | –        |      | To/from Hepscott Jn – LN696                  |
+| Morpeth Loop                            |         |          |      |                                              |
+| Morpeth North Junction                  | –       |          | X    | To/from Hepscott Jn – LN694                  |
+| Pegswood                                | –       | –        | S    |                                              |
+| Butterwell Junction                     | –       | –        | X    | To/from Butterwell – LN700                   |
+| Widdrington                             | –       | –        | S    |                                              |
+| Chevington Loops                        | –       | –        | S    |                                              |
+| Acklington                              | –       | –        | S    |                                              |
+| Wooden Gate Junction                    | –       | –        | S    |                                              |
+| Alnmouth for Alnwick                    | –       | –        |      |                                              |
+| Chathill APCO                           | –       | –        |      | For 80x services that are changing power     |
+|                                         |         |          |      | for the Marshall Meadows feeder area         |
+| Chathill                                | –       | –        | S    |                                              |
+| Belford                                 | –       | –        |      |                                              |
+| Crag Mill Loops                         | –       | –        | S    |                                              |
+| Tweedmouth FD                           |         | –        | S    |                                              |
+| Berwick upon Tweed                      | –       | –        |      | Platform detail must be shown                |
+| Berwick Goods Loops                     | –       | –        | S    |                                              |
+| Signal EG403                            | –       |          |      | Down trains To Reston – SC147                |
+| Signal EG402                            |         | –        |      | Up trains From Reston – SC147                |
+| Reston GSP                              |         |          |      |                                              |

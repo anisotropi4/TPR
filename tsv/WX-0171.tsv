@@ -1,0 +1,57 @@
+|                        |               |     |                           |
+|:-----------------------|:--------------|----:|:--------------------------|
+| London Waterloo        | 4             | 208 |                           |
+| London Waterloo        | 5             | 208 |                           |
+| London Waterloo        | 6             | 208 |                           |
+| London Waterloo        | 7             | 245 | (see note in Section 5.3) |
+| London Waterloo        | 8             | 246 |                           |
+| London Waterloo        | 9             | 250 |                           |
+| London Waterloo        | 10            | 252 |                           |
+| London Waterloo        | 11            | 246 |                           |
+| London Waterloo        | 12            | 247 |                           |
+| London Waterloo        | 13            | 247 |                           |
+| London Waterloo        | 14            | 247 |                           |
+| London Waterloo        | 15            | 256 |                           |
+| London Waterloo        | 16            | 256 |                           |
+| London Waterloo        | 17            | 268 |                           |
+| London Waterloo        | 18            | 249 |                           |
+| London Waterloo        | 19            | 253 |                           |
+| London Waterloo        | 20            | 246 |                           |
+| London Waterloo        | 21            | 246 |                           |
+| London Waterloo        | 22            | 246 |                           |
+| London Waterloo        | 23            | 246 |                           |
+| London Waterloo        | 24            | 246 |                           |
+| Longcross              | 1 - Up        | 159 |                           |
+| Longcross              | 2 - Down      | 160 |                           |
+| Lymington Pier         | Single        | 163 |                           |
+| Lymington Town         | Single        |  78 | Up direction              |
+| Lymington Town         | Single        |  78 | Down direction            |
+| Maiden Newton          | 1 - Up        | 114 |                           |
+| Maiden Newton          | 2 - Down      | 114 |                           |
+| Malden Manor           | 1 - Up        | 208 |                           |
+| Malden Manor           | 2 - Down      | 205 |                           |
+| Martins Heron          | 1 - Up        | 205 |                           |
+| Martins Heron          | 2 - Down      | 209 |                           |
+| Micheldever            | 1 - Up        | 137 | Down direction            |
+| Micheldever            | 1 - Up        | 125 | Up direction              |
+| Micheldever            | 2 - Down      | 125 | Down direction            |
+| Micheldever            | 2 - Down      |  93 | Up direction              |
+| Milford                | 1 - Up        | 162 |                           |
+| Milford                | 2 - Down      | 155 |                           |
+| Millbrook              | 1 - Up Slow   | 182 |                           |
+| Millbrook              | 2 - Down Slow | 182 |                           |
+| Moreton                | 1 - Up        | 121 |                           |
+| Moreton                | 2 - Down      | 121 |                           |
+| Mortimer               | 1 - Down      |  84 |                           |
+| Mortimer               | 2 - Up        |  84 |                           |
+| Mortlake               | 1 - Up        | 205 |                           |
+| Mortlake               | 2 - Down      | 205 |                           |
+| Motspur Park           | 1 - Up        | 204 |                           |
+| Motspur Park           | 2 - Down      | 202 |                           |
+| Mottisfont & Dunbridge | 1 - Up        |  58 |                           |
+| Mottisfont & Dunbridge | 2 - Down      |  74 |                           |
+| Netley                 | 1 - Up        | 155 |                           |
+| Netley                 | 2 - Down      | 170 |                           |
+| New Malden             | 1 - Up Slow   | 208 |                           |
+| New Malden             | 2 - Up Fast   | 228 | (by special arrangement)  |
+| New Malden             | 3 - Down Fast | 228 | (by special arrangement)  |

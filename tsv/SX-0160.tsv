@@ -1,0 +1,57 @@
+|                            |                         |        |                |
+|:---------------------------|:------------------------|:-------|:---------------|
+| STATION                    | PLATFORM AND LINE       | USABLE | NOTES          |
+|                            |                         | LENGTH |                |
+| Shoreham-by-Sea            | 2 - Down Brighton       | 249    |                |
+| South Bermondsey           | 1 - Up South London     | 159    |                |
+| South Bermondsey           | 2 - Down South London   | 159    |                |
+| South Croydon              | 1 - Up Fast             | 156    |                |
+| South Croydon              | 2 - Down Fast           | 170    |                |
+| South Croydon              | 3 - Up Slow             | 170    |                |
+| South Croydon              | 4 - Slow Reversible     | 165    | Down direction |
+| South Croydon              | 4 - Slow Reversible     | 165    | Up direction   |
+| South Croydon              | 5 - Down Slow           | 165    |                |
+| South Merton               | 1 - Up St Helier        | 164    |                |
+| South Merton               | 2 - Down St Helier      | 162    |                |
+| Southbourne                | 1 - Up                  | 123    |                |
+| Southbourne                | 2 - Down                | 106    |                |
+| Southease                  | 1 - Up Seaford          | 123    |                |
+| Southease                  | 2 - Down Seaford        | 123    |                |
+| Southwick                  | 1 - Up Brighton         | 167    |                |
+| Southwick                  | 2 - Down Brighton       | 167    |                |
+| St Helier                  | 1 - Up St Helier        | 163    |                |
+| St Helier                  | 2 - Down St Helier      | 162    |                |
+| St Leonards Warrior Square | 1 - Up Hastings         | 165    |                |
+| St Leonards Warrior Square | 2 - Down Hastings       | 166    |                |
+| Streatham                  | 1 - Down Portsmouth     | 187    |                |
+| Streatham                  | 2 - Up Portsmouth       | 189    |                |
+| Streatham Common           | 1 - Down Slow           | 213    |                |
+| Streatham Common           | 2 - Up Slow             | 213    |                |
+| Streatham Common           | 3 - Down Fast           | 165    |                |
+| Streatham Common           | 4 - Up Fast             | 163    |                |
+| Streatham Hill             | 1 - Up Crystal Palace   | 183    |                |
+| Streatham Hill             | 2 - Down Crystal Palace | 205    |                |
+| Surrey Quays               | 1 – Up                  | 88     |                |
+| Surrey Quays               | 2 – Down                | 88     |                |
+| Sutton                     | 1 - Up Portsmouth       | 249    |                |
+| Sutton                     | 2 - Down Portsmouth     | 251    |                |
+| Sutton                     | 3 - Up Epsom Downs      | 203    |                |
+| Sutton                     | 4 - Down Epsom Downs    | 205    |                |
+| Sutton Common              | 1 - Up St Helier        | 158    |                |
+| Sutton Common              | 2 - Down St Helier      | 160    |                |
+| Sydenham                   | 1 - Up Slow             | 162    |                |
+| Sydenham                   | 2 - Down Slow           | 162    |                |
+| Tadworth                   | 1 - Up Tattenham        | 137    |                |
+| Tadworth                   | 2 - Down Tattenham      | 137    |                |
+| Tattenham Corner           | 1                       | 206    |                |
+| Tattenham Corner           | 2                       | 206    |                |
+| Tattenham Corner           | 3                       | 206    |                |
+| Thornton Heath             | 1 - Down Slow           | 202    |                |
+| Thornton Heath             | 2 - Up Slow             | 201    |                |
+| Thornton Heath             | 3 - Down Fast           | 202    |                |
+| Thornton Heath             | 4 - Up Fast             | 184    |                |
+| Three Bridges              | 1 - Up Passenger Loop   | 246    | Down direction |
+| Three Bridges              | 1 - Up Passenger Loop   | 246    | Up direction   |
+| Three Bridges              | 2 - Up Slow             | 246    | Down direction |
+| Three Bridges              | 2 - Up Slow             | 246    | Up direction   |
+| Three Bridges              | 3 - Down Slow           | 246    | Down direction |

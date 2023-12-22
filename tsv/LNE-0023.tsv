@@ -1,0 +1,53 @@
+|                                                  |        |        |      |                                             |
+|:-------------------------------------------------|:-------|:-------|:-----|:--------------------------------------------|
+| LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION |        |        |      |                                             |
+| TIMING POINT                                     | DOWN   | UP     | CODE | NOTES                                       |
+| Brookmans Park                                   | FL  SL | FL  SL | S    |                                             |
+| Welham Green                                     | SL     | SL     | S    |                                             |
+| Marshmoor                                        |        | FL     | X    |                                             |
+| Hatfield                                         | FL  SL | SL  FL |      | Timing point for trains routed UWF from     |
+|                                                  |        |        |      | Welwyn Garden City via Flyover, stopping    |
+|                                                  |        |        |      | and crossing trains                         |
+| Welwyn GC Rev Sidings                            | –      |        | S    |                                             |
+| Welwyn GC Signal K167                            | –      |        | S    |                                             |
+| Welwyn GC Signal K168                            |        | –      | S    |                                             |
+| Welwyn Garden City                               | FL  SL | FL  SL |      | Platform details must be shown for stopping |
+|                                                  |        | UWF    |      | trains and non–stop via platforms           |
+| Welwyn FD                                        | FL  SL | SL     | S    |                                             |
+| Welwyn Garden City Signal K180                   |        | –      | S    | TIPLOC (WLWY180)                            |
+| Welwyn Garden City Signal K182                   |        | –      | S    | TIPLOC (WLWY182)                            |
+| Welwyn Garden City Signal K184                   |        | –      | S    | TIPLOC (WLWY184)                            |
+| Welwyn Garden City Carriage                      |        | –      | S    |                                             |
+| Sidings                                          |        |        |      |                                             |
+| Digswell                                         | FL     | FL SL  |      |                                             |
+| Welwyn North                                     | FL     | FL     | S    |                                             |
+| Woolmer Green Junction                           | FL  SL | FL     |      |                                             |
+| Knebworth                                        | FL  SL | FL  SL | S    |                                             |
+| Langley Junction                                 | SL DL  | UL DL  |      | To/from Hertford North  – LN120             |
+|                                                  |        |        |      | Timing point for all trains running to/from |
+|                                                  |        |        |      | Stevenage Platform 5 and crossing trains    |
+| Langley Junction Signal K211                     | –      | –      | S    | For shunt moves to/from Langley Stone       |
+|                                                  |        |        |      | Terminal                                    |
+| Langley Redlands                                 |        | –      | S    |                                             |
+| Stevenage                                        | FL  SL | FL  SL |      | Platform detail must be shown               |
+|                                                  |        | DSL DL |      |                                             |
+| Stevenage Signal K214                            |        | FL  SL | S    | Only used for ECS reversal                  |
+| Hitchin Signal K687                              | –      |        | S    |                                             |
+| Hitchin Signal K217                              | –      | –      | S    | For shunt moves to/from Hitchin Up Sidings  |
+| Hitchin Up Sidings                               | –      | FL SL  | S    |                                             |
+| Hitchin                                          | FL  SL | FL  SL |      | Platform details must be shown for stopping |
+|                                                  | DCF    |        |      | trains and non–stop via platforms           |
+|                                                  |        |        |      | Trains to Line “DCF” not via Platform 2 to  |
+|                                                  |        |        |      | be shown as Platform “DFL”                  |
+| Cambridge Junction                               |        |        |      | To/from Royston  – LN125                    |
+| Hitchin Down Yard                                | SL     |        | S    |                                             |
+| Hitchin Signal K232                              |        | SL  –  | S    | Reversing point on Down Slow                |
+| Hitchin Up Yard                                  | –      | SL  –  | S    |                                             |
+| Hitchin North Junction                           |        |        |      | To Hitchin East Junction – LN126            |
+| Cadwell                                          |        | FL     | X    | Trains crossing to Fast Line                |
+| Arlesey                                          | SL     | SL     | S    |                                             |
+| Biggleswade Signal K235                          | FL  SL |        | S    | Reversing point on Up Slow                  |
+| Biggleswade Plasmor                              |        | –      | S    |                                             |
+| Biggleswade                                      | FL  SL | FL  SL |      | Platform details must be shown              |
+| Sandy                                            | FL  SL | FL  SL |      | Platform details must be shown for stopping |
+|                                                  |        |        |      | trains and non–stop via platforms           |

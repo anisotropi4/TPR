@@ -1,0 +1,44 @@
+|                                                |        |           |                         |         |         |
+|:-----------------------------------------------|:-------|:----------|:------------------------|:--------|:--------|
+| Wigan Springs Branch Stabling Sidings          |        |           |                         |         |         |
+| For southbound departures/arrivals:            |        |           |                         |         |         |
+|                                                | ARR    | DEP       |                         | ARR     | DEP     |
+| Springs Branch Stabling                        |        | XX.00     | Bamfurlong Jn.          |         | XX/00   |
+| Sidings                                        |        |           |                         |         |         |
+|                                                |        | "-"       |                         |         | "GL"    |
+| Springs Branch                                 |        | XX/05     | Springs Branch          | XXOP03* | XXOP13* |
+|                                                |        | "GL"      |                         |         | "-"     |
+| Bamfurlong Jn                                  |        | XX/07     | Springs Branch Stabling |         | XX.18   |
+|                                                |        |           | Sidings                 |         |         |
+|                                                |        | "SL" "FL" |                         |         |         |
+| For northbound departures/arrivals:            |        |           |                         |         |         |
+|                                                | ARR    | DEP       |                         | ARR     | DEP     |
+| Springs Branch Stabling                        |        | XX.00     | Wigan South Jn          |         | XX/00   |
+| Sidings                                        |        |           |                         |         |         |
+|                                                |        | "-"       |                         |         | "GL"    |
+| Springs Branch                                 | XXRM05 | XXRM09    | Springs Branch Jn       |         | XX/02   |
+|                                                |        | "GL"      |                         |         | "GL"    |
+| Springs Branch Jn                              |        | XX/11     | Springs Branch          | XXRM03  | XXRM07  |
+|                                                |        | "GL"      |                         |         | "-"     |
+| Wigan South Jn                                 |        | XX/13     | Springs Branch Stabling | XX.12   |         |
+|                                                |        |           | Sidings                 |         |         |
+| * Shunt from Down Goods Line to Up Goods Line. |        |           |                         |         |         |
+| Wigan Diesel Depot T.C.                        |        |           |                         |         |         |
+| For southbound departures/arrivals:            |        |           |                         |         |         |
+|                                                | ARR    | DEP       |                         | ARR     | DEP     |
+| Wigan Diesel Depot                             |        | XX.00     | Bamfurlong Jn.          |         | XX/00   |
+|                                                |        | "-"       |                         |         | "GL"    |
+| Springs Branch                                 |        | XX/05     | Springs Branch          | XXOP03* | XXOP13* |
+|                                                |        | "GL"      |                         |         | "-"     |
+| Bamfurlong Jn                                  |        | XX/07     | Wigan Diesel Depot      |         | XX.18   |
+|                                                |        | "SL" "FL" |                         |         |         |
+| For northbound departures/arrivals:            |        |           |                         |         |         |
+|                                                | ARR    | DEP       |                         | ARR     | DEP     |
+| Wigan Diesel Depot                             |        | XX.00     | Wigan South Jn          |         | XX/00   |
+|                                                |        | "-"       |                         |         | "GL"    |
+| Springs Branch                                 | XXRM05 | XXRM09    | Springs Branch Jn       |         | XX/02   |
+|                                                |        | "GL"      |                         |         | "GL"    |
+| Springs Branch Jn                              |        | XX/11     | Springs Branch          | XXRM03  | XXRM07  |
+|                                                |        | "GL"      |                         |         | "-"     |
+| Wigan South Jn                                 |        | XX/13     | Wigan Diesel Depot      | XX.12   |         |
+| * Shunt from Down Goods Line to Up Goods Line. |        |           |                         |         |         |

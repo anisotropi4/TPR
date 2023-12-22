@@ -1,0 +1,45 @@
+|                                                                                                           |                                                |              |
+|:----------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:-------------|
+| Gun Lane Junction                                                                                         |                                                |              |
+| Freight train passes to Trimley via TL                                                                    | Freight train passes to Derby Road from FS     | 3            |
+| Trimley                                                                                                   |                                                |              |
+| Adjustments to Sectional Running Times                                                                    |                                                |              |
+| Movement                                                                                                  | Reason                                         | Value        |
+| Up train from Felixstowe Beach Junction passing to                                                        | Approach control                               | {1}          |
+| TL line                                                                                                   |                                                |              |
+| Up train from Felixstowe North/Central to FS line                                                         | Speed differential from slower speed line      | {11⁄2} after |
+|                                                                                                           |                                                | Trimley      |
+| Up train from Felixstowe North/Central to TL line                                                         | Speed differential from slower speed line      | {1} after    |
+|                                                                                                           |                                                | Trimley      |
+| Down train towards Felixstowe North/Central from                                                          | Approach control                               | {1}          |
+| FS line                                                                                                   |                                                |              |
+| Down train towards Felixstowe Beach Junction from                                                         | Speed differential from slower speed line      | {1} after    |
+| TL line                                                                                                   |                                                | Trimley      |
+| Down train towards Felixstowe Beach Junction from                                                         | Not at line speed passing Trimley              | {1} after    |
+| FS line which has stopped at Trimley signal                                                               |                                                | Trimley      |
+| FW9029                                                                                                    |                                                |              |
+| Junction Margins                                                                                          |                                                |              |
+| First Movement                                                                                            | Second Movement                                | Margin       |
+| Freight train passes to Felixstowe Beach Junction                                                         | Freight train passes from Felixstowe           | 21⁄2         |
+| from FS                                                                                                   | North/Central crossing to FS                   |              |
+| Freight train passes to Felixstowe Beach Junction                                                         | Freight train passes from Felixstowe           | 31⁄2         |
+| from TL                                                                                                   | North/Central                                  |              |
+| Freight train passes towards Gun Lane Junction via                                                        | Freight train passes towards Felixstowe        | 3            |
+| TL                                                                                                        | North/Central crossing from FS                 |              |
+| Freight train passes towards Gun Lane Junction                                                            | Conflicting Down train departs from signal     | 2            |
+|                                                                                                           | FW9029 or FW9031                               |              |
+| Freight train passes from Felixstowe Beach                                                                | Freight train passes to Felixstowe Beach       | 31⁄2         |
+| Junction                                                                                                  | Junction from TL                               |              |
+| Restriction                                                                                               |                                                |              |
+| There are no down direction signals at Trimley station. This means that:                                  |                                                |              |
+| Down trains which require to be regulated require a stop at Trimley signal FW9029 (FS) or Trimley signal |                                                |              |
+| FW9031 (TL).                                                                                              |                                                |              |
+| A Down train cannot be routed into Trimley station if an Up train has passed Felixstowe Beach Junction   |                                                |              |
+| towards Trimley, even if the Up train is routed TL at Trimley.                                            |                                                |              |
+| At Trimley the up direction signal is located before the platform. This means that:                       |                                                |              |
+| An Up train cannot be routed into Trimley station if there is another train in the Trimley to Gun Lane   |                                                |              |
+| Junction section on the FS.                                                                               |                                                |              |
+| Felixstowe Beach Junction                                                                                 |                                                |              |
+| Junction Margins                                                                                          |                                                |              |
+| First Movement                                                                                            | Second Movement                                | Margin       |
+| Freight Train towards Felixstowe Beach Branch                                                             | Passenger Train departing from Felixstowe Town | 3            |

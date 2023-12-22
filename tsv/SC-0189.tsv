@@ -1,0 +1,32 @@
+|                                                 |                                            |        |
+|:------------------------------------------------|:-------------------------------------------|:-------|
+| Montrose                                        |                                            |        |
+| Adjustments to Sectional Running Times          |                                            |        |
+| Movement Down                                   | Reason                                     | Value  |
+| Down train non-stop through Up platform.  After | Speed restriction through crossover        | 1      |
+| Montrose                                        |                                            |        |
+| Dwell Time                                      |                                            |        |
+| LH                                              | 3                                          |        |
+| Junction Margins                                |                                            |        |
+| First Movement                                  | Second Movement                            | Margin |
+| Down train arrive/pass                          | Up train pass                              | 4      |
+| Down train pass/depart Up platform              | Up train arrive/pass                       | 4      |
+| Up train pass Usan                              | Up ECS depart to Montrose Up North Siding  | 2      |
+|                                                 | from Montrose                              |        |
+| Arrive Montrose Up No 1 Through Siding          | Up pass Craigo                             | 2      |
+| Stonehaven                                      |                                            |        |
+| Dwell Time                                      |                                            |        |
+| LH                                              | 3                                          |        |
+| Junction Margins                                |                                            |        |
+| First Movement                                  | Second Movement                            | Margin |
+| Up train departs Stonehaven to Signal SV40      | Up train depart/pass from Newtonhill A222  | 2      |
+|                                                 | signal                                     |        |
+| Craiginches South                               |                                            |        |
+| Adjustments to Sectional Running Times          |                                            |        |
+| Movement Down                                   | Reason                                     | Value  |
+| Down Freight pass towards Loop/terminal.        | Approach control                           | 1      |
+| Before Craiginches South                        |                                            |        |
+| Junction Margins                                |                                            |        |
+| First Movement                                  | Second Movement                            | Margin |
+| Up Freight Depart Craiginches Down Sidings      | Down Train Pass to Aberdeen                | 5 1⁄2  |
+| Down Train pass to Aberdeen                     | Up Freight Depart Craiginches Down Sidings | 1 1⁄2  |

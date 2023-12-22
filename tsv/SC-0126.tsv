@@ -1,0 +1,36 @@
+|                                                                                                                      |                                                                  |           |
+|:---------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|:----------|
+| Hunterston Junction                                                                                                  |                                                                  |           |
+| Depart to Hunterston High Level                                                                                      | Pass from Largs (not stopping Fairlie)                           | 4         |
+| Pass to Hunterston Low Level                                                                                         | Pass from Largs (not stopping Fairlie)                           | 4         |
+| Pass from Hunterston Low Level to Up Freight                                                                         | Pass to Largs (not stopping West Kilbride)                       | 4         |
+| Pass from Hunterston Low Level or Largs to Up                                                                        | Down depart West Kilbride                                        | Same time |
+| Freight                                                                                                              |                                                                  |           |
+| Pass to Hunterston Low Level                                                                                         | Depart Fairlie                                                   | Same time |
+| Depart to Hunterston High Level                                                                                      | Depart Fairlie                                                   | Same time |
+| Pass from Hunterston High Level                                                                                      | Arrive going to Hunterston High Level                            | 4         |
+| For trains arriving at Hunterston High Level Sidings                                                                 |                                                                  |           |
+|                                                                                                                      | Arr                                                              | Dep       |
+| Ardrossan South Beach                                                                                                |                                                                  | XX/XX     |
+| Hunterston Junction                                                                                                  | XXOP00                                                           | XXOP02    |
+| Hunterston H L Sdgs                                                                                                  | XX:XX                                                            |           |
+| Restriction                                                                                                          |                                                                  |           |
+| One train movement only can take place between Hunterston Junction and Hunterston Low Level at any one time.         |                                                                  |           |
+| Hunterston High Level                                                                                                |                                                                  |           |
+| Note: this location is outwith NR infrastructure. Information included for guidance only                             |                                                                  |           |
+| Junction Margins                                                                                                     |                                                                  |           |
+| First Movement                                                                                                       | Second Movement                                                  | Margin    |
+| Arrive Hunterston High Level Sidings                                                                                 | Depart Hunterston High Level Sidings                             | 5*        |
+| *GBRf services can depart 1 minute after arrival services as a shunter will be provided to operate set of points for |                                                                  |           |
+| departing service.                                                                                                   |                                                                  |           |
+| Largs                                                                                                                |                                                                  |           |
+| Adjustments to Sectional Running Times                                                                               |                                                                  |           |
+| Movement Down                                                                                                        | Reason                                                           | Value     |
+| Down train entering an occupied Platform                                                                             | Approach Control                                                 | 1         |
+| SC077 ARDROSSAN SOUTH BEACH TO ARDROSSAN HARBOUR                                                                     |                                                                  |           |
+| Ardrossan Town                                                                                                       |                                                                  |           |
+| Dwell Time                                                                                                           |                                                                  |           |
+| All Trains                                                                                                           | 1 Down trains to Harbour for operation of Level Crossing Plunger |           |
+| Ardrossan Harbour                                                                                                    |                                                                  |           |
+| Connectional Allowance                                                                                               | 14*                                                              |           |
+| *Between train and ferry services only                                                                               |                                                                  |           |

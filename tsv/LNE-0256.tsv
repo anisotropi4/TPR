@@ -1,0 +1,40 @@
+|                                               |                                   |                |
+|:----------------------------------------------|:----------------------------------|:---------------|
+| Adwick Junction                               |                                   |                |
+| Junction Margins                              |                                   |                |
+| First Movement                                | Second Movement                   | Margin         |
+| Pass Up Main                                  | Pass from Branch                  | 3              |
+| Pass from Branch                              | Pass Up Main                      | 4              |
+| Pass to/from Branch                           | Pass to/from Branch (single lead) | 4              |
+| South Kirkby Junction                         |                                   |                |
+| Adjustments to Sectional Running Times        |                                   |                |
+| Movement Down                                 | Reason                            | Value          |
+| Trains from Moorthorpe                        | Acceleration                      | 1 except 22X   |
+| Approaching Hare Park                         |                                   | and Freight    |
+|                                               |                                   | Classes 6/7/8  |
+| Trains from Moorthorpe that are passing South | Differential Junction Speed       | 1⁄2            |
+| Kirkby and stopping at Fitzwilliam            |                                   |                |
+| Trains from Doncaster                         | Differential junction speed       | -1⁄2 22X       |
+| Movement Up                                   | Reason                            | Value          |
+| Trains to Moorthorpe                          | Differential junction speed       | 1⁄2 HST        |
+| Trains to Doncaster                           | Differential junction speed       | -1 22X         |
+| Junction Margins                              |                                   |                |
+| First Movement                                | Second Movement                   | Margin         |
+| Pass Down Main                                | Pass to Branch                    | 3              |
+| Pass to Branch                                | Pass Down Main                    | 4 Passenger    |
+|                                               |                                   | 5 Freight      |
+| Hemsworth Loop                                |                                   |                |
+| Junction Margins                              |                                   |                |
+| First Movement                                | Second Movement                   | Margin         |
+| Arrive in Down Loop                           | Pass Down Main                    | Arrive 1       |
+|                                               |                                   | before Down    |
+|                                               |                                   | Passngr        |
+|                                               |                                   | passes South   |
+|                                               |                                   | Kirkby Jn (frm |
+|                                               |                                   | Moorthorpe).   |
+|                                               |                                   | Arrive 2       |
+|                                               |                                   | before Down    |
+|                                               |                                   | Passngr        |
+|                                               |                                   | passes South   |
+|                                               |                                   | Kirkby Jn (frm |
+|                                               |                                   | Doncaster).    |

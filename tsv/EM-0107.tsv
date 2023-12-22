@@ -1,0 +1,28 @@
+|                                                       |                                    |              |
+|:------------------------------------------------------|:-----------------------------------|:-------------|
+| Syston East Junction                                  |                                    |              |
+| Adjustments to Sectional Running Times                |                                    |              |
+| Movement Down                                         | Reason                             | Value        |
+| To Loughborough (Approaching Syston East              | Differential Junction speed        | 11⁄2 Freight |
+| Jn)                                                   |                                    |              |
+| Movement Up                                           | Reason                             | Value        |
+| From Loughborough (After Syston East Jn)              | Differential Junction speed        | 31⁄2 a)      |
+| a)Class 6 3200t                                       |                                    | 3 b)         |
+| b)Class 6 2600-3000t                                  |                                    | 21⁄2 c)      |
+| c)Class 6 2000-2400t or TR115/130                     |                                    | 2 d)         |
+| d)Class 4 1600t and Class 6 1600-1800t                |                                    | 11⁄2 e)      |
+| or TR100                                              |                                    | 1 f)         |
+| e)Class 4 400-1400t (including TR40)                  |                                    | 1⁄2 g)       |
+| and Class 6 1200-1400t or TR70/85                     |                                    |              |
+| f)Class 6 800-1000t or TR55                           |                                    |              |
+| g)Class 6 400-600t or TR40                            |                                    |              |
+| Junction Margins                                      |                                    |              |
+| First Movement                                        | Second Movement                    | Margin       |
+| Down Main to Down North Curve                         | Syston South Junction to Up Main   | 5            |
+| Syston South Junction to Up Main                      | Down Main to Down North Curve      | 3            |
+| Syston South Junction to Up Main                      | Down Main to Syston South Junction | 3            |
+| LN3625 NOTTINGHAM TO NEWARK FLAT CROSSING (EXCLUSIVE) |                                    |              |
+| Newark Castle                                         |                                    |              |
+| Dwell Time                                            |                                    |              |
+| All                                                   | 1                                  |              |
+| Minimum Turnround                                     | 8                                  |              |

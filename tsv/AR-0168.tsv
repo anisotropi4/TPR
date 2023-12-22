@@ -1,0 +1,56 @@
+|                         |                   |           |                                              |
+|:------------------------|:------------------|:----------|:---------------------------------------------|
+| Station                 | Platform          | Effective | Notes                                        |
+|                         |                   | Length m  |                                              |
+| Upminster               | 1 (Up)            | 247       |                                              |
+| Upminster               | 1a (Ockendon Bay) | 143       | 8-car multiple unit ECS reversal permitted   |
+| Upminster               | 2 (Down)          | 247       |                                              |
+| Upminster               | 6 (Romford)       | 91.7      |                                              |
+| Upper Holloway          | 1 (Up)            | 99.7      |                                              |
+| Upper Holloway          | 2 (Down)          | 91.8      |                                              |
+| Waltham Cross           | 1 (Up)            | 170       | 10-car 720 permitted with ASDO operation     |
+| Waltham Cross           | 2 (Down)          | 184       | 10-car 720 permitted with ASDO operation     |
+| Walthamstow Central     | 1 (Up)            | 187.4     |                                              |
+| Walthamstow Central     | 2 (Down)          | 182.3     |                                              |
+| Walthamstow Queens Road | 1 (Up)            | 84.7      |                                              |
+| Walthamstow Queens Road | 2 (Down)          | 84.7      |                                              |
+| Walton-on-the-Naze      | Single            | 175       | (165m in operational use for Class 720)      |
+| Wanstead Park           | 1 (Up)            | 95        |                                              |
+| Wanstead Park           | 2 (Down)          | 88.5      |                                              |
+| Ware                    | Single            | 276       |                                              |
+| Waterbeach              | 1 (Up)            | 167       |                                              |
+| Waterbeach              | 2 (Down)          | 167       | No ASDO until issue with AHB Xing resolved   |
+| Watlington              | 1 (Up)            | 90        | Trains longer than 4 cars can call providing |
+|                         |                   |           | they are equipped with SDO (Selective Door   |
+|                         |                   |           | Opening) equipment                           |
+| Watlington              | 2 (Down)          | 106       | Trains longer than 5 cars can call providing |
+|                         |                   |           | they are equipped with SDO (Selective Door   |
+|                         |                   |           | Opening) equipment                           |
+| Weeley                  | 1 (Up)            | 175       | 10-car 720 permitted with ASDO operation     |
+| Weeley                  | 2 (Down)          | 175       | 10-car 720 permitted with ASDO operation     |
+| West Ham                | 7 Up              | 248       | LTS route                                    |
+| West Ham                | 8 Down            | 248       | LTS route                                    |
+| West Hampstead          | 1 (Westbound)     | 105       |                                              |
+| West Hampstead          | 2 (Eastbound)     | 120       |                                              |
+| West Horndon            | 1 (Up)            | 248       |                                              |
+| West Horndon            | 2 (Down)          | 248       |                                              |
+| West Runton             | Single            | 97        |                                              |
+| Westcliff               | 1 (Up)            | 248       |                                              |
+| Westcliff               | 2 (Down)          | 248       |                                              |
+| Westerfield             | 1 (Up)            | 100       | (71m in operational use in Up Direction;     |
+|                         |                   |           | 91m in Down Direction)                       |
+| Westerfield             | 2 (Down)          | 100       | (88m in operational use)                     |
+| White Hart Lane         | 1 (Up)            | 188.6     | 10-car 720 permitted with ASDO operation     |
+|                         |                   |           | 12-car 745 permitted with ASDO operation     |
+| White Hart Lane         | 2 (Down)          | 188.6     | 10-car 720 permitted with ASDO operation     |
+|                         |                   |           | 12-car 745 permitted with ASDO operation     |
+| White Notley            | Single            | 249       |                                              |
+| Whittlesea              | 1 (Down)          | 45        | 3/4-car 755 permitted with ASDO operation    |
+| Whittlesea              | 2 (Up)            | 62        | 3/4-car 755 permitted with ASDO operation    |
+| Whittlesford Parkway    | 1 (Up)            | 254       |                                              |
+| Whittlesford Parkway    | 2 (Down)          | 254       |                                              |
+| Wickford                | 1 (Down Bay)      | 122.1     |                                              |
+| Wickford                | 2 (Down)          | 248       |                                              |
+| Wickford                | 3 (Up)            | 252       |                                              |
+| Wickford                | 4 (Up Bay)        | 105       | Class 720 NOT permitted into this platform   |
+| Wickham Market          | Single            | 80        |                                              |

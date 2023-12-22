@@ -1,0 +1,45 @@
+|                |                                                                                            |
+|:---------------|:-------------------------------------------------------------------------------------------|
+| Classification | Description                                                                                |
+| 1              | Express passenger train; or                                                                |
+|                | Nominated postal or parcels train; or                                                      |
+|                | Breakdown or overhead line equipment train going to clear the line or returning from there |
+|                | (1Z99); or                                                                                 |
+|                | Traction unit going to assist a failed train (1Z99)                                        |
+|                | Snow plough going to clear the line (1Z99)                                                 |
+| 2              | Ordinary passenger train; or                                                               |
+|                | Breakdown or overhead line equipment train not going to clear the line (2Z99)              |
+|                | Officers’ special train (2Z01)                                                             |
+| 3              | Freight train which can run at more than 75 mph; or                                        |
+|                | A parcels train; or                                                                        |
+|                | Autumn railhead treatment train; or                                                        |
+|                | Empty coaching stock train if specially authorised                                         |
+| 4              | Freight train which can run up to 75 mph                                                   |
+| 5              | Empty coaching stock train                                                                 |
+| 6              | Freight train which can run up to 60 mph                                                   |
+| 7              | Freight train which can run up to 45 mph                                                   |
+| 8              | Freight train which can run at, or is timed to run at, 35 mph or less                      |
+| 9              | London Overground East London Line services and Thameslink services; or                    |
+|                | Other passenger train if specially authorised                                              |
+| 0              | Light locomotive or locomotives                                                            |
+| Second         | Wessex Timing Area                                                                         |
+| Character      |                                                                                            |
+| A              | Waterloo and Alton                                                                         |
+| B              | Waterloo and Southampton Docks, Lymington Pier or Poole (not local trains between          |
+|                | Brockenhurst and Lymington Pier)                                                           |
+| C              | Waterloo and Reading via Hounslow (Class 1).                                               |
+|                | Waterloo and Reading via Twickenham (Class 2).                                             |
+|                | Victoria/ London Bridge and Portsmouth via Three Bridges and Horsham (Class 1).            |
+| D              | Waterloo and Dorking via Epsom (Class 2 not available).                                    |
+|                | Waterloo and Guildford via Epsom (Class 1 not available)                                   |
+| E              | To Network Rail ex GE area                                                                 |
+|                | Portsmouth and Southampton via Netley.                                                     |
+|                | Shepherd’s Bush and Clapham Junction (Class 2)                                             |
+| F              | Waterloo and Woking/Guildford.                                                             |
+|                | Portsmouth and Cardiff                                                                     |
+| G              | Waterloo and Guildford/Portsmouth via Cobham                                               |
+|                | East London Line to Clapham Junction (Class 9)                                             |
+| H              | Waterloo and Shepperton.                                                                   |
+|                | East London Line from Clapham Junction (Class 9)                                           |
+| I              | Victoria and Sutton/Epsom/Dorking/Horsham via Mitcham Junction (semi-fast class 1,         |
+|                | stopping class 2)                                                                          |

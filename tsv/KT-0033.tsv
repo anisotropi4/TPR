@@ -1,0 +1,55 @@
+|                                                            |      |     |      |                                              |
+|:-----------------------------------------------------------|:-----|:----|:-----|:---------------------------------------------|
+| SO130 LONDON CHARING CROSS TO DOVER PRIORY (VIA TONBRIDGE) |      |     |      |                                              |
+| TIMING POINT                                               | DOWN | UP  | CODE | NOTES                                        |
+| Pluckley                                                   | -    | -   | S    |                                              |
+| Chart Leacon T&R.S.M.D.                                    | -    | -   |      | ECS moves only                               |
+| Ashford West Junction                                      | SL   | -   | X    | TIPLOC ASHFWJN to be used                    |
+|                                                            | USL  |     |      | To/from Charing - SO140                      |
+|                                                            |      |     |      |                                              |
+|                                                            |      |     |      | Timing point for trains to/from Slow Lines.  |
+|                                                            |      |     |      | Line Code must be shown                      |
+| Ashford International                                      | -    | -   |      | Platform detail including through lines must |
+|                                                            | SL   | SL  |      | be shown.                                    |
+|                                                            |      |     |      | TIPLOC ASHFKY is used for trains on          |
+|                                                            |      |     |      | platforms 1, 2, 5 and 6 and the through      |
+|                                                            |      |     |      | lines                                        |
+|                                                            |      |     |      | TIPLOC ASHFKI is used for trains on          |
+|                                                            |      |     |      | platforms 3 and 4 only                       |
+|                                                            |      |     |      | To/from Ham Street – Refer to Sussex         |
+|                                                            |      |     |      | Timetable Planning Rules - SO600             |
+|                                                            |      |     |      | To/from and Ashford Down Yard - SO220        |
+| Ashford Down Side Tamper Siding                            | -    | -   | F S  | TIPLOC ASHFTMP                               |
+|                                                            |      |     |      | Timing point for trains to and from Down     |
+|                                                            |      |     |      | Tamper Siding                                |
+| Ashford Up Sidings                                         | -    | -   | F S  | TIPLOC ASHFUPS                               |
+|                                                            |      |     |      | Timing point for trains to and from          |
+|                                                            |      |     |      | Newtown Sidings                              |
+| Ashford P.A.D.                                             | -    | -   | F S  |                                              |
+| Ashford Crane Depot                                        | -    | -   | F S  | Timing point for trains to and from Crane    |
+|                                                            |      |     |      | Depot                                        |
+| Ashford Down Sidings                                       | -    | -   |      | See Route SO220 Ashford - Ramsgate(via       |
+|                                                            |      |     |      | Canterbury West)                             |
+| Ashford East Berthing Sidings                              | -    | -   | F S  | TIPLOC ASHFEBS                               |
+|                                                            |      |     |      | Siding numbers to be specified               |
+|                                                            |      |     |      | Access controlled by separate shunters       |
+| Ashford East Junction                                      | -    | -   | X    | Timing point for trains to/from Slow Lines.  |
+|                                                            |      | SL  |      | TIPLOC ASHFEJN to be used                    |
+|                                                            |      | DSL |      | To/from and Ashford Down Yard - SO220        |
+| Sevington Loop                                             | -    | -   | S    | To/from Sevington Sidings - SO130K           |
+|                                                            |      |     |      | Timing Point for trains to and from Ashford  |
+|                                                            |      |     |      | International                                |
+| Herringe                                                   | -    | -   | X    | Timing point for use during single line      |
+|                                                            |      |     |      | working                                      |
+| Westenhanger                                               | -    | -   | S    |                                              |
+| Sandling                                                   | -    | -   | S    |                                              |
+| Saltwood Junction                                          | -    | -   |      | To/from Network Rail/Eurotunnel Boundary     |
+|                                                            |      |     |      | - SO130H                                     |
+| Folkestone West                                            | -    | -   | S    |                                              |
+| Folkestone Central                                         | -    | -   |      |                                              |
+| Folkestone East                                            | -    | -   |      |                                              |
+| Folkestone East Train Roads                                | -    | -   | S    | Timing Point for trains to and from          |
+|                                                            |      |     |      | Folkestone East Train Roads                  |
+| Dover Priory                                               | -    | -   |      | Platform detail must be shown                |
+|                                                            |      |     |      | To/from Buckland Junction - SO160            |
+| Dover Priory Sidings                                       |      |     |      | Timing Point for trains to and from Sidings  |

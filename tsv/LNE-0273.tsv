@@ -1,0 +1,47 @@
+|                                                                                            |                                               |        |
+|:-------------------------------------------------------------------------------------------|:----------------------------------------------|:-------|
+| Church Fenton                                                                              |                                               |        |
+| Adjustments to Sectional Running Times                                                     |                                               |        |
+| Movement Down                                                                              | Reason                                        | Value  |
+| Train crossing to LSL at Church Fenton                                                     | Approach control                              | 1      |
+| Approaching Church Fenton                                                                  |                                               |        |
+| Non–stop train from Sherburn crossing to LSL                                               | Acceleration                                  | 2      |
+| Approaching Colton Junction                                                                |                                               |        |
+| Movement Up                                                                                | Reason                                        | Value  |
+| Non-stop trains through platform 3                                                         | Approach control                              | 2      |
+| Approaching Church Fenton                                                                  |                                               |        |
+| Junction Margins                                                                           |                                               |        |
+| First Movement                                                                             | Second Movement                               | Margin |
+| Pass to Leeds                                                                              | Depart to Leeds                               | 21⁄2   |
+| Pass to York (Normanton lines)                                                             | Depart to Milford (Platform 3)                | 1      |
+| Pass to York (Normanton lines)                                                             | Pass to Milford (Platform 3)                  | 31⁄2   |
+| Pass/depart Platform 3 to Milford                                                          | Pass/arrive from Milford                      | 4*     |
+| Arrive from York                                                                           | Pass from York                                | 3      |
+| Pass/arrive from York                                                                      | Depart to York (crossing NNL)                 | 1      |
+| Depart to York (crossing NNL)                                                              | Pass from York                                | 31⁄2   |
+| Depart to York (crossing NNL)                                                              | Arrive from York                              | 5      |
+| Pass/depart to York (Platform 3)                                                           | Pass from York                                | 5      |
+| Pass/depart to York (Platform 3)                                                           | Arrive from York                              | 4      |
+| Pass from York (LSL or NNL)                                                                | Arrive Platform 3 via different line from NNL | 3 $    |
+| Pass from York (LSL)                                                                       | Pass to York (crossing from DL to NNL)        | 4      |
+| Pass from York (NNL to LSL)                                                                | Pass from Milford (NNL)                       | 11⁄2   |
+| Pass from Milford (NNL)                                                                    | Pass from York (NNL to LSL)                   | 4      |
+| * May be reduced by 1⁄2 if stopping at Sherburn                                            |                                               |        |
+| $ May be reduced to 2 if second train has a minimum of 2 minutes pathing time on approach. |                                               |        |
+| Colton South Junction                                                                      |                                               |        |
+| Junction Margins                                                                           |                                               |        |
+| First Movement                                                                             | Second Movement                               | Margin |
+| Up LSL pass Colton Junction                                                                | Down Crossing movement from NNL pass          | 6      |
+|                                                                                            | Colton Junction                               |        |
+| Up LSL pass Colton Junction                                                                | Down Crossing movement depart from NNL        | 2      |
+|                                                                                            | signals at Colton South Junction              |        |
+| Down Crossing movement pass Colton                                                         | Up LSL pass Colton Junction                   | 3      |
+| Junction                                                                                   |                                               |        |
+| Up Crossing movement pass Colton Junction                                                  | Down NNL pass Colton Junction                 | 6      |
+| Down NNL pass Colton Junction                                                              | Up Crossing movement pass Colton Junction     | 3      |
+| LN858 MILNER ROYD JUNCTION TO MILL LANE JUNCTION                                           |                                               |        |
+| Dryclough Junction                                                                         |                                               |        |
+| Adjustments to Sectional Running Times                                                     |                                               |        |
+| Movement Up                                                                                | Reason                                        | Value  |
+| From Halifax to Greetland Junction                                                         | Deceleration                                  | 1⁄2    |
+| Movement Down                                                                              | Reason                                        | Value  |

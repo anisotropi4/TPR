@@ -1,0 +1,11 @@
+|                                            |                                                |        |
+|:-------------------------------------------|:-----------------------------------------------|:-------|
+| Woking Up Yard Entry/Exit                  |                                                |        |
+| First Movement                             | Second Movement                                | Margin |
+| Train departs Woking Up Yard Entry/Exit to | Pass/Depart Woking Up Yard Entry/Exit from     | 3      |
+| Woking Up Yard Sidings                     | Woking Up Reception to Woking Platform 1       |        |
+| Train departs Woking Up Yard Entry/Exit to | Up service arrives at Woking Platform 1 from   | 2      |
+| Woking Up Yard Sidings                     | Woking Junction                                |        |
+| Train departs Woking Up Yard Entry/Exit to | Down service arrives at Woking Platform 1 from | 2      |
+| Woking Up Yard Sidings                     | Down Fast or Down Slow                         |        |
+| Planning note                              |                                                |        |

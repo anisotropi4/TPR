@@ -1,0 +1,30 @@
+|                                                                                                     |                             |                           |                   |
+|:----------------------------------------------------------------------------------------------------|:----------------------------|:--------------------------|:------------------|
+| Aldwarke Junction                                                                                   |                             |                           |                   |
+| Adjustments to Sectional Running Times                                                              |                             |                           |                   |
+| Movement Down                                                                                       | Reason                      | Value                     |                   |
+| Trains from Masborough Junction.                                                                    | Differential junction speed | -11⁄2 142/150             |                   |
+| Approaching Swinton                                                                                 |                             |                           |                   |
+| Trains from Rotherham Central                                                                       | Differential junction speed | 1 185/22x*/HST*           |                   |
+| Approaching Swinton                                                                                 |                             | 11⁄2 158                  |                   |
+|                                                                                                     |                             | *Can be reduced to 1⁄2 if |                   |
+|                                                                                                     |                             | train is routed towards   |                   |
+|                                                                                                     |                             | Mexborough at Swinton     |                   |
+| Trains to the Roundwood Chord Approaching                                                           | Approach control            | 11⁄2                      |                   |
+| Aldwarke Junction                                                                                   |                             |                           |                   |
+| Movement Up                                                                                         | Reason                      | Value                     |                   |
+| Trains from Roundwood Chord to Masborough                                                           | Acceleration                | 1                         |                   |
+| Jn                                                                                                  |                             |                           |                   |
+| Approaching Holmes Junction                                                                         |                             |                           |                   |
+| Junction Margins                                                                                    |                             |                           |                   |
+| 2nd Move →                                                                                          | Pass from Rotherham         | Pass UML from Swinton     | Pass to Thrybergh |
+| 1st  Move ↓                                                                                         | Central                     |                           | Junction          |
+| Pass UML from Swinton                                                                               | 21⁄2                        |                           | 3                 |
+| Pass from Rotherham                                                                                 | No conflict                 | 4                         | 3                 |
+| Central                                                                                             |                             |                           |                   |
+| Pass to Thrybergh Jn                                                                                | 3                           | 4                         |                   |
+| Pass DML from                                                                                       | 21⁄2                        | No conflict               |                   |
+| Masborough Jn                                                                                       |                             |                           |                   |
+| Pass from Thrybergh Jn                                                                              | 4                           | 4*                        | 4                 |
+| *Different routes                                                                                   |                             |                           |                   |
+| Trains from Rotherham Central to Roundwood Chord can run via UML and not conflict with train on DML |                             |                           |                   |

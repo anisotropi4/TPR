@@ -1,0 +1,44 @@
+|                                                                                                                |                                                    |              |
+|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------|:-------------|
+| Dock Junction South                                                                                            |                                                    |              |
+| Adjustments to Sectional Running Times                                                                         |                                                    |              |
+| Movement Down                                                                                                  | Reason                                             | Value        |
+| All trains from down fast to down slow                                                                         | 20 mph crossover                                   | 1⁄2          |
+| Junction Margins                                                                                               |                                                    |              |
+| First Movement                                                                                                 | Second Movement                                    | Margin       |
+| All conflicting moves except for below:                                                                        |                                                    | 2            |
+| Up arrive at Churchyard Sidings                                                                                | Down depart from St Pancras                        | 1            |
+| Kentish Town                                                                                                   |                                                    |              |
+| Attachment/Detachment                                                                                          | Attachment/detachment of units is not permitted    |              |
+| Dwell Time                                                                                                     |                                                    |              |
+| 700                                                                                                            | 4 when terminating and then continuing ECS in same |              |
+|                                                                                                                | direction                                          |              |
+| Junction Margins and Platform Re–occupation                                                                    |                                                    |              |
+| First movement                                                                                                 | Second Movement                                    | Margin       |
+| Departure from platform 1, 2, 3 or 4                                                                           | Arrival in platform 2, 3 or 4 (opposite direction) | 4            |
+| Departure from platform 1                                                                                      | Arrival in platform 1 (opposite direction)         | 3            |
+| Depart or Pass platform 1                                                                                      | Pass or Arrive platform 1 (same direction)         | 21⁄2         |
+| Depart or Pass platform 2                                                                                      | Pass or Arrive platform 2 (same direction)         | 21⁄2         |
+| Pass or arrive into Platform 1/2/3/4                                                                           | Conflicting departure from Platform 1/2/3/4        | 1            |
+| Depart or Pass to DS (then DS from Carlton                                                                     | Depart or Pass to DS (then DF from Carlton         | 21⁄2         |
+| Road)                                                                                                          | Road)                                              |              |
+| Depart or Pass to DS (then DF from Carlton                                                                     | Depart or Pass to DS (then DS from Carlton         | 21⁄2         |
+| Road)                                                                                                          | Road)                                              |              |
+| Depart platform 3 or 4                                                                                         | Arrive platform 3 or 4 (same direction)            | 21⁄2         |
+| Up trains booked to run to/via platforms 2, 3 and 4 should have the line code from Carlton Road Junction shown |                                                    |              |
+| as DSL                                                                                                         |                                                    |              |
+| Carlton Road Junction                                                                                          |                                                    |              |
+| Adjustments to Sectional Running Times                                                                         |                                                    |              |
+| Movement Up                                                                                                    | Reason                                             | Value        |
+| Up Slow to Up Fast and Up Slow to U/D Slow                                                                     | Approach control signal WH214                      | {1⁄2} before |
+| Up Fast to Down Slow                                                                                           | Approach control signal WH14                       | {1} before   |
+|                                                                                                                |                                                    | {1⁄2} after  |
+| Junction Margins                                                                                               |                                                    |              |
+| First Movement                                                                                                 | Second Movement                                    | Margin       |
+| All conflicting moves on slow lines excluding freight movements                                                | 2*                                                 |              |
+| Up Slow to Up Slow                                                                                             | Down Tottenham to Down Slow                        | 2            |
+| Down Tottenham to Down Slow                                                                                    | Up Slow to Up Slow                                 | 4            |
+| Down Slow to Down Fast                                                                                         | Up Fast to Up Fast                                 | 3            |
+| Up Fast to Up Fast (Passenger)                                                                                 | Down Slow to Down Fast                             | 2            |
+| Up Fast to Up Fast (Freight)                                                                                   | Down Slow to Down Fast                             | 3            |
+| Pass DF to DF                                                                                                  | Pass DS to DF                                      | 21⁄2         |

@@ -1,0 +1,58 @@
+|                               |        |       |      |                                                  |
+|:------------------------------|:-------|:------|:-----|:-------------------------------------------------|
+| EA1011 SEVEN KINGS TO IPSWICH |        |       |      |                                                  |
+| TIMING POINT                  | DOWN   | UP    | CODE | NOTES                                            |
+| Witham Signal L763            | -      |       | S    | Timing point to be used for trains required to   |
+|                               |        |       |      | reverse on the Up Main toward Witham Station     |
+| Witham Signal L761            | -      |       | S    | Timing point to be used for trains required to   |
+|                               |        |       |      | reverse on the Down Main                         |
+| Witham                        | - UML  | - DML |      | Platform detail must be shown                    |
+|                               |        |       |      | Down trains using UML will be routed via         |
+|                               |        |       |      | Platform 1 at Kelvedon                           |
+| Witham Up Tamper Siding       | -      |       | F    | Tiploc – WITHSDG                                 |
+| Witham Junction               |        |       |      | To/from Braintree – EA1070                       |
+| Witham Down Passenger         | -      | -     |      | Timing point for stopping trains.  Also used for |
+| Loop                          |        |       |      | trains from Platform 4 at Witham towards         |
+|                               |        |       |      | Colchester                                       |
+| Witham Up Passenger           |        | -     |      | Trains via Witham Platform 1 to be timed at      |
+| Loop                          |        |       |      | Witham Up Loop (Tiploc - WITHMUL) where          |
+|                               |        |       |      | possible as this is the preferred routing        |
+| Kelvedon                      | -      | -     | S    |                                                  |
+| Marks Tey                     | - UM   | -     |      | Platform detail must be shown                    |
+|                               |        |       |      | Line code UM applies only during bi-             |
+|                               |        |       |      | directional working on the Up Line in the Down   |
+|                               |        |       |      | direction                                        |
+| Marks Tey Junction            |        |       |      | To/from Sudbury – EA1080                         |
+| Marks Tey Tarmac              | -      | -     | F    | Multiple FOC Location                            |
+| Marks Tey Up Passenger        | -      | -     | S    |                                                  |
+| Loop                          |        |       |      |                                                  |
+| Colchester South Junction     |        |       |      | To/from Down Goods, Up Goods and Carriage        |
+|                               |        |       |      | Sidings                                          |
+| Colchester Signal CO1033      | -      |       | S    | Tiploc – CLCH033. For trains required to shunt   |
+|                               |        |       |      | on Up Main London End behind CO1033 with         |
+|                               |        |       |      | an RM in the Location Activity field             |
+| Colchester Goods Loop         | -      | -     | S    | Tiploc – CLCHGL                                  |
+| Colchester T.C.               | -      | -     | S    | Tiploc – CLCHSTY                                 |
+| Colchester CS                 | DM DPL | -     | S    | Only trains to/from CS                           |
+| Colchester Up Passenger       |        | -     |      | Timing point for all trains routed via the loop  |
+| Loop                          |        |       |      |                                                  |
+| Colchester Sudbury Siding     |        | -     | S    | Tiploc – CLCHUSS. Formerly Sudbury Dock          |
+| Colchester                    | -      | -     |      | Platform detail must be shown                    |
+|                               | CR     | DM    |      | Line code DM applies only during bi-directional  |
+|                               | CR3    | UGL   |      | working on the Down Line in the Up Direction     |
+|                               | DA     | DGL   |      | Line codes CR and DA apply to trains towards     |
+|                               |        |       |      | Colchester East Gate Junction                    |
+|                               |        |       |      | Line code CR3 for trains routed from Platform    |
+|                               |        |       |      | 3 via Up Main (avoiding Platform 4) towards      |
+|                               |        |       |      | Colchester East Gate Junction.                   |
+| Colchester Up Clacton Siding  | -      | -     | S    | Tiploc – CLCHUCS. Formerly Colchester            |
+|                               |        |       |      | Bridge Road                                      |
+| Colchester Junction           |        |       |      | To/from Clacton – EA1090                         |
+| Manningtree Signal CO747      | -      |       | S    | Tiploc – MANN747. For trains required to         |
+|                               |        |       |      | shunt between Platforms 2 and 3 or vice versa    |
+|                               |        |       |      | with an RM in the Location Activity field        |
+| Manningtree                   | -      | -     |      | Platform detail must be shown                    |
+|                               |        |       |      | Platform 2 to be shown for services that are     |
+|                               |        |       |      | required to reverse or start towards             |
+|                               |        |       |      | Manningtree North or East Junctions over the     |
+|                               |        |       |      | Up lines                                         |

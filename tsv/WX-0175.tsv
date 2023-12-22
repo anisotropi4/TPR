@@ -1,0 +1,58 @@
+|                   |                     |     |                |
+|:------------------|:--------------------|----:|:---------------|
+| Virginia Water    | 2 - Down            | 238 |                |
+| Virginia Water    | 3 - Up Chertsey     | 131 | Up direction   |
+| Virginia Water    | 3 - Up Chertsey     | 164 | Down direction |
+| Virginia Water    | 4 - Down Chertsey   | 205 |                |
+| Walton on Thames  | 1 - Up Slow         | 245 |                |
+| Walton on Thames  | 2 - Down Slow       | 245 |                |
+| Wanborough        | 1 - Up              |  90 |                |
+| Wanborough        | 2 - Down            |  90 |                |
+| Wandsworth Town   | 1 - Down Slow       | 205 |                |
+| Wandsworth Town   | 2 - Down Fast       | 206 |                |
+| Wandsworth Town   | 3 - Up Fast         | 206 |                |
+| Wandsworth Town   | 4 - Up Slow         | 212 |                |
+| Wareham           | 1 - Up              | 174 |                |
+| Wareham           | 2 - Down            | 174 |                |
+| West Byfleet      | 1 - Up Slow         | 245 |                |
+| West Byfleet      | 2 - Down Fast       | 245 |                |
+| West Byfleet      | 3 - Down Slow       | 245 |                |
+| Weybridge         | 1 - Up Bay Platform | 205 |                |
+| Weybridge         | 2 - Up Slow         | 233 |                |
+| Weybridge         | 3 - Down Slow       | 250 |                |
+| Weymouth          | 1                   | 120 |                |
+| Weymouth          | 2                   | 272 |                |
+| Weymouth          | 3                   | 272 |                |
+| Whimple           | Single              |  78 | Down direction |
+| Whimple           | Single              |  78 | Up direction   |
+| Whitchurch        | 1 - Up              | 219 |                |
+| Whitchurch        | 2 - Down            | 219 |                |
+| Whitton           | 1 - Up              | 206 |                |
+| Whitton           | 2 - Down            | 206 |                |
+| Wimbledon         | 5 - Up Slow         | 230 | Down direction |
+| Wimbledon         | 5 - Up Slow         | 230 | Up direction   |
+| Wimbledon         | 6 - Up Fast         | 230 | Down direction |
+| Wimbledon         | 6 - Up Fast         | 230 | Up direction   |
+| Wimbledon         | 7 - Down Fast       | 230 |                |
+| Wimbledon         | 8 - Down Slow       | 225 |                |
+| Winchester        | 1 - Up              | 247 |                |
+| Winchester        | 2 - Down            | 247 |                |
+| Winchfield        | 1 - Up Slow         | 161 |                |
+| Winchfield        | 2 - Down Slow       | 198 |                |
+| Windsor and Eton  | 1 - Up              | 217 |                |
+| Riverside         |                     |     |                |
+| Windsor and Eton  | 2 - Down            | 218 |                |
+| Riverside         |                     |     |                |
+| Winnersh          | 1 - Up              | 168 |                |
+| Winnersh          | 2 - Down            | 166 |                |
+| Winnersh Triangle | 1 - Up              | 166 |                |
+| Winnersh Triangle | 2 - Down            | 166 |                |
+| Witley            | 1 - Up              | 165 |                |
+| Witley            | 2 - Down            | 165 |                |
+| Woking            | 1 - Up Slow         | 253 | Down direction |
+| Woking            | 1 - Up Slow         | 253 | Up direction   |
+| Woking            | 2 - Up Fast         | 254 | Down direction |
+| Woking            | 2 - Up Fast         | 251 | Up direction   |
+| Woking            | 3 - Up Bay          | 255 |                |
+| Woking            | 4 - Down Fast       | 252 | Down direction |
+| Woking            | 4 - Down Fast       | 256 | Up direction   |

@@ -1,0 +1,46 @@
+|                                                               |                                               |                    |
+|:--------------------------------------------------------------|:----------------------------------------------|:-------------------|
+| Barking                                                       |                                               |                    |
+| Junction Margins                                              |                                               |                    |
+| Movement                                                      | Margin                                        |                    |
+| Fouling move where the first movement is a non-stopping train | 21⁄2 unless                                   |                    |
+|                                                               | listed below                                  |                    |
+| First movement                                                | Second movement                               | Margin             |
+| Up train departs platform 5 towards West Ham                  | Down train arrives platform 7 from West Ham   | 21⁄2               |
+| Down train arrives/passes platform 7 from                     | Up train departs platform 5 towards West Ham  | Simultaneous       |
+| West Ham                                                      |                                               |                    |
+| Down train arrives/passes platform 7 from                     | Up train passes platform 5 towards West Ham   | 1⁄2                |
+| West Ham                                                      |                                               |                    |
+| Up train pass/depart platform 8                               | Up freight depart Ripple Road Junction        | 1                  |
+| ECS depart to East Ham EMUD                                   | Up train depart towards West Ham              | 3                  |
+| Depart platform 7 towards Tilbury or Barking                  | Arrive platform 8 from Upminster via Up       | 3                  |
+| Riverside                                                     | Connecting Line (UCL)                         |                    |
+| Margin for overlap timeout at Barking Upney Junction          |                                               |                    |
+| First movement                                                | Second movement                               | Margin             |
+| Train arrives onto the Up Connecting Line at                  | Up train arrives into platform 5              | 21⁄2               |
+| Barking Upney Junction from platform 7 or 8                   |                                               |                    |
+| Up train arrives into platform 5                              | Train arrives onto the Up Connecting Line at  | 21⁄2               |
+|                                                               | Barking Upney Junction from platform 7 or 8   |                    |
+| Overlap Restrictions                                          |                                               |                    |
+| First Movement                                                | Second Movement                               | Margin             |
+| Up train arriving platform 8                                  | Up train departing platform 7 towards Barking | 3 mins to allow    |
+|                                                               | Station Junction or West Ham via the Up       | for overlap to     |
+|                                                               | Tilbury (shared overlap across 2207 points)   | timeout            |
+| Up train departing platform 7 towards Barking                 | Up train arriving platform 8 (shared overlap  | 2 mins to allow    |
+| Station Junction or West Ham via the Up                       | across 2207 points)                           | for first train to |
+| Tilbury                                                       |                                               | clear overlap      |
+| Length Limits                                                 |                                               |                    |
+| Platform 1 Reversing Moves                                    | 28 SLUs                                       |                    |
+| Platform 7                                                    | 38 SLUs                                       |                    |
+| Platform 8                                                    | 38 SLUs                                       |                    |
+| Up Connecting Line Both Directions                            | 36 SLUs                                       |                    |
+| Upminster                                                     |                                               |                    |
+| Adjustments to Sectional Running Times                        |                                               |                    |
+| Movement                                                      | Reason                                        | Value              |
+| Freight pass to Ockendon                                      | Approach control and via slow speed           | {1}                |
+|                                                               | crossover                                     |                    |
+| Freight pass from Ockendon                                    | Acceleration and via slow speed crossover     | {1}                |
+|                                                               |                                               | approaching        |
+|                                                               |                                               | next timing        |
+|                                                               |                                               | point              |
+| Dwell Time                                                    |                                               | 1 peak only        |

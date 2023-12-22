@@ -1,0 +1,47 @@
+|                                                         |         |         |      |                                       |
+|:--------------------------------------------------------|:--------|:--------|:-----|:--------------------------------------|
+| LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY)              |         |         |      |                                       |
+| TIMING POINT                                            | DOWN    | UP      | CODE | NOTES                                 |
+| St Mary’s North Jn                                      | DS DF   | UF      | X    | TIPLOC DRBYSMN                        |
+| Breadsall                                               | –       | – US DF | X    |                                       |
+| Duffield                                                | –       | –       | S    |                                       |
+| Belper                                                  | –       | –       | S    |                                       |
+| Broadholme                                              | DBL     | –       | X    |                                       |
+| Ambergate Jn                                            | –       | – UBL   |      | To/from Ambergate – LN3246            |
+| Clay Cross Down Loop                                    | DGL     |         | S    |                                       |
+| Clay Cross North Jn                                     | ML EL   | –       |      | To/from Alfreton – LN3207             |
+| Chesterfield South Jn                                   | ML UM¥  | ML EL   |      | ¥ Only applies to trains on the Down  |
+|                                                         | DBH     |         |      | Erewash                               |
+| Chesterfield                                            | ML DBH  | ML UBH  |      | *Only applies to trains on the DBH    |
+|                                                         |         | DBH*    |      | approaching Chesterfield.             |
+|                                                         |         | DM€     |      | €Only applies to trains for the Derby |
+|                                                         |         |         |      | direction.                            |
+| Tapton Junction                                         | –       | ML UBH  |      | To/from Dore Station Junction – LN804 |
+|                                                         |         | DBH     |      | Refer to LNE Timetable Planning Rules |
+|                                                         |         |         |      |                                       |
+|                                                         |         |         |      | To/from Barrow Hill North Junction –  |
+|                                                         |         |         |      | LN806 Refer to LNE Timetable Planning |
+|                                                         |         |         |      | Rules                                 |
+| LN3204 TRENT SOUTH JUNCTION TO NOTTINGHAM EAST JUNCTION |         |         |      |                                       |
+| TIMING POINT                                            | DOWN    | UP      | CODE | NOTES                                 |
+| Trent South Jn                                          | –       | FL SL   |      | To/from Loughborough – LN3201         |
+| Trent East Jn                                           | – DPL   | –       |      | TIPLOC TRENT                          |
+|                                                         |         |         |      | To/from Sheet Stores Jn – LN3228      |
+|                                                         |         |         |      | To/from Toton South Jn – LN3207       |
+| Down Trent Loop                                         |         |         |      |                                       |
+| Meadow Lane Crossing                                    | –       |         | S    |                                       |
+| Attenborough Jn                                         | –       | –       | X    | To/from Meadow Lane Jn – LN3264       |
+| Attenborough                                            | –       | –       | S    |                                       |
+| Beeston                                                 | –       | –       | S    |                                       |
+| Beeston South Jn                                        | DNS     | –       |      |                                       |
+|                                                         | DNF     |         |      |                                       |
+|                                                         | UNS –   |         |      |                                       |
+| Beeston Down Sidings                                    |         | –       | F    |                                       |
+| Beeston Signal TN4931                                   | – UNS   |         | S    |                                       |
+| Beeston Sims                                            |         | UNS     | F    |                                       |
+| Lenton South Jn                                         | –       | DNS     | X    | To/from Lenton North Jn – LN3249      |
+| Mansfield Jn                                            | A B C D | DNS     |      | To/from Radford Jn – LN3252           |
+|                                                         |         | UNF     |      |                                       |
+|                                                         |         | UNS     |      |                                       |
+| Nottingham                                              | –       | A B C D |      | Platform detail must be shown         |
+|                                                         |         |         |      | To/from Netherfield Jn – LN3625       |

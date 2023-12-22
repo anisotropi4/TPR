@@ -1,0 +1,49 @@
+|                                                      |       |       |      |                                            |
+|:-----------------------------------------------------|:------|:------|:-----|:-------------------------------------------|
+| SO500 LONDON VICTORIA TO BRIGHTON                    |       |       |      |                                            |
+| TIMING POINT                                         | DOWN  | UP    | CODE | NOTES                                      |
+|                                                      | WCR   | WCR   |      | Use TIPLOC LOVR255                         |
+| Lovers Walk T&RSMD                                   | -     | -  CR |      | Show CR for ECS moves to Preston Park      |
+|                                                      | WCR   | WCR   |      | only                                       |
+|                                                      |       |       |      | Show WCR for movements to Brighton         |
+|                                                      |       |       |      | Platform 2 only                            |
+|                                                      |       |       |      | Controlled by a depot signaller            |
+| Brighton Reception Road                              | -     | -     |      | Timing point for all movements to or from  |
+|                                                      |       |       |      | Brighton Down Sidings                      |
+| Shunt Signal 1249                                    | DML   | UML   |      | Shunt Signal available for ECS             |
+|                                                      |       |       |      | movements                                  |
+|                                                      |       |       |      | Use TIPLOC BRGH249                         |
+| Brighton Down Sidings                                | -     | -     |      | ECS movements to/from Brighton or          |
+|                                                      |       |       |      | Brighton Reception Road. Siding detail     |
+|                                                      |       |       |      | must be shown (1N, 1S or 2)                |
+|                                                      |       |       |      | Access controlled by TOC shunter           |
+| Montpelier Junction                                  |       |       |      | To/from London Road - SO620                |
+|                                                      |       |       |      | For planning purposes this timing point is |
+|                                                      |       |       |      | shown as Brighton                          |
+| Shunt Signal 1261                                    |       | UML   |      | Shunt Signal available for ECS             |
+|                                                      |       |       |      | movements                                  |
+|                                                      |       |       |      | Use TIPLOC BRGH261                         |
+| Lovers Walk Signal 1262                              |       | CR    |      | Shunt Signal available for ECS             |
+|                                                      |       |       |      | movements                                  |
+|                                                      |       |       |      | Use TIPLOC LOVR262                         |
+| Lovers Walk Signal 1267                              |       | CR    |      | Shunt Signal available for ECS             |
+|                                                      |       |       |      | movements                                  |
+|                                                      |       |       |      | Use TIPLOC LOVR267                         |
+| Brighton Down Neck Sidings                           | DML - |       |      | Use TIPLOC BRGHDNK                         |
+| Brighton                                             |       | -     |      | Platform detail must be shown.             |
+|                                                      |       | CR    |      | To/from Hove - SO630                       |
+|                                                      |       | UML   |      | CR to be used for passenger train          |
+|                                                      |       |       |      | movements from Brighton to Preston Park    |
+|                                                      |       |       |      | along the Carriage Road (Signal Box        |
+|                                                      |       |       |      | Instruction)                               |
+| SO500A SELHURST JUNCTION TO GLOUCESTER ROAD JUNCTION |       |       |      |                                            |
+| TIMING POINT                                         | DOWN  | UP    | CODE | NOTES                                      |
+| Selhurst Junction                                    |       |       |      | To/from Selhurst - SO500                   |
+|                                                      |       |       |      | For planning purposes this timing point is |
+|                                                      |       |       |      | shown as Selhurst                          |
+| Gloucester Road Junction                             | -     | -     |      | To/from West Croydon - SO510               |
+| SO500B COPYHOLD JUNCTION TO ARDINGLY                 |       |       |      |                                            |
+| TIMING POINT                                         | DOWN  | UP    | CODE | NOTES                                      |
+| Copyhold Junction                                    | -     | -     |      | To/from Haywards Heath - SO500             |
+| Ardingly Sidings                                     | -     |       | S    |                                            |
+| Ardingly (Goods)                                     |       | -     | S    |                                            |

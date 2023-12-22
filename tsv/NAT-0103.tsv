@@ -1,0 +1,64 @@
+|            |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+|:-----------|:-------|:-----------|:--------|:----------------|:-------|:------|:-------------|:---------------------|:---------------------|:------|:------|:----|
+| Name       | Freq.  | Start Date | Weeks   | Route           | TID    | Day   | Dep          | From                 | To                   | Arr   | Model | TOC |
+|            |        |            | Running |                 |        |       |              |                      |                      |       | Train |     |
+|            |        |            | eeks    | Model           |        |       |              |                      |                      |       |       |     |
+| Name       | Freq.  | Start Date | Route   | TID             | Day    | Dep   | From         | To                   | Arr                  | TOC   |       |     |
+|            |        |            | unning  | Train           |        |       |              |                      |                      |       |       |     |
+| UTU051     | 8 -    | 19/12/2023 | 38, 46, | Woking -        | 3Q01CA | TO    | 23.38        | WOKING UP YARD       | EASTLEIGH EAST YARD  | 06.52 | UTU-  | RG  |
+|            | weekly |            | 02, 10, | Wimbledon -     |        |       |              | RECP.                |                      |       | T     |     |
+|            |        |            | 18,     | Basingstoke -   |        |       |              |                      |                      |       |       |     |
+|            |        |            | 26 & 34 | Reading -       |        |       |              |                      |                      |       |       |     |
+|            |        |            |         | Basingstoke -   |        |       |              |                      |                      |       |       |     |
+|            |        |            |         | Woking -        |        |       |              |                      |                      |       |       |     |
+|            |        |            |         | Eastleigh       |        |       |              |                      |                      |       |       |     |
+| UTU034     | 8 -    | 19/01/2023 | 42, 49, | Hither Green -  | 3Q01ES | FO    | 23.07        | HITHER GREEN         | NEW BARNET           | 01.07 | UTU-  | RG  |
+| N          | weekly |            | 05, 13, | Kings Cross -   |        |       |              | P.A.D.               |                      |       | T     |     |
+|            |        |            | 21 &    | FL - Grantham - |        |       |              |                      |                      |       |       |     |
+|            |        |            | 29      | Derby RTC       |        |       |              |                      |                      |       |       |     |
+|            |        | 20/012024  | 43, 50, | 3Q02ES          | SO     | 01.14 | NEW BARNET   | LONDON KINGS CROSS   | 01.36                | UTU-  | RG    |     |
+|            |        |            | 06, 14, |                 |        |       |              |                      |                      | T     |       |     |
+|            |        |            | 22 &    |                 |        |       |              |                      |                      |       |       |     |
+|            |        |            | 30      |                 |        |       |              |                      |                      |       |       |     |
+|            |        | 20/01/2024 | 43, 50, | 3Q03ES          | SO     | 02.07 | LONDON KINGS | DERBY R.T.C.(NETWORK | 07.51                | UTU-  | RG    |     |
+|            |        |            | 06, 14, |                 |        |       | CROSS        | RAIL)                |                      | T     |       |     |
+|            |        |            | 22 &    |                 |        |       |              |                      |                      |       |       |     |
+|            |        |            | 30      |                 |        |       |              |                      |                      |       |       |     |
+| UTU007     | 8 -    | 25/01/2024 | 43, 51, | Tyseley -       | 3Q02SB | ThO   | 23.42        | TYSELEY L.M.D.       | DERBY R.T.C.(NETWORK | 08.17 | UTU-  | RG  |
+|            | weekly |            | 07, 15, | Bordesley -     |        |       |              |                      | RAIL)                |       | R     |     |
+|            |        |            | 23 &    | Banbury -       |        |       |              |                      |                      |       |       |     |
+|            |        |            | 31      | Leamington Spa  |        |       |              |                      |                      |       |       |     |
+|            |        |            |         | - Coventry -    |        |       |              |                      |                      |       |       |     |
+|            |        |            |         | Leamington Spa  |        |       |              |                      |                      |       |       |     |
+|            |        |            |         | - Bordesley -   |        |       |              |                      |                      |       |       |     |
+|            |        |            |         | Derby           |        |       |              |                      |                      |       |       |     |
+| Name       |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Name       |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Freq.      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Freq.      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Start Date |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Start Date |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Weeks      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Running    |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| eeks       |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| unning     |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Route      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Route      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| TID        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| TID        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Day        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Day        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Dep        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Dep        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| From       |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| From       |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| To         |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| To         |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Arr        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Arr        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Model      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Train      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Model      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| Train      |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| TOC        |        |            |         |                 |        |       |              |                      |                      |       |       |     |
+| TOC        |        |            |         |                 |        |       |              |                      |                      |       |       |     |

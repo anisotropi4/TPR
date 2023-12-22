@@ -1,0 +1,20 @@
+|                                          |                                      |        |
+|:-----------------------------------------|:-------------------------------------|:-------|
+| Twickenham Junction                      |                                      |        |
+| Adjustment to Sectional Running Times    |                                      |        |
+| Movements                                | Reason                               | Value  |
+| All freight timing loads routed via up   |                                      | {11⁄2} |
+| passenger loop                           |                                      |        |
+| Whitton Junction                         |                                      |        |
+| Adjustments to Sectional Running Times   |                                      |        |
+| Movements                                | Reason                               | Value  |
+| Train from Hounslow Junction towards     | Speed Differential                   | {1⁄2}* |
+| Whitton/Twickenham                       |                                      |        |
+| * Applies approaching next timing point. |                                      |        |
+| Junction Margins                         |                                      |        |
+| First Movement                           | Second Movement                      | Margin |
+| Between all movements except as below    |                                      | 2      |
+| Train from Feltham Junction towards      | Train from Hounslow Junction towards | 21⁄2#* |
+| Twickenham                               | Twickenham                           |        |
+| Train from Hounslow Junction towards     | Train from Feltham Junction towards  | 3      |
+| Twickenham                               | Twickenham                           |        |

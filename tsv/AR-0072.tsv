@@ -1,0 +1,49 @@
+|                                                                 |                   |                              |                                         |
+|:----------------------------------------------------------------|:------------------|:-----------------------------|:----------------------------------------|
+| EA1440 WESTERFIELD JUNCTION TO FELIXSTOWE TOWN                  |                   |                              |                                         |
+| TIMING POINTS INCLUDED                                          | DOWN              | UP                           | NOTES                                   |
+| Westerfield Junction (excl) to                                  | AB+2              | TCB time as AB. Single line  |                                         |
+| Derby Road (excl)                                               |                   |                              |                                         |
+| Derby Road (excl) to                                            | AB+2              |                              | TCB time as AB. Single line             |
+| Derby Road Signal FW9017                                        |                   |                              |                                         |
+| Derby Road Signal FW9017 to                                     | AB+2              |                              | TCB time as AB. Single line             |
+| Levington Signal FW9023                                         |                   |                              |                                         |
+| Levington Signal FW9023 to                                      | AB+2              |                              | TCB time as AB. Single line             |
+| Gun Lane Junction                                               |                   |                              |                                         |
+| Gun Lane Junction to                                            |                   | AB+2                         | TCB time as AB. Single line             |
+| Levington Signal FW9024                                         |                   |                              |                                         |
+| Levington Signal FW9024 to                                      |                   | AB+2                         | TCB time as AB. Single line             |
+| Derby Road Signal FW9018                                        |                   |                              |                                         |
+| Derby Road Signal FW9018 to                                     |                   | AB+2                         | TCB time as AB. Single line             |
+| Derby Road (excl)                                               |                   |                              |                                         |
+| Gun Lane Junction to                                            | AB+2*             | AB+2^                        | TCB time as AB                          |
+| Trimley                                                         |                   |                              | * Exclusive of dwell at Trimley station |
+|                                                                 |                   |                              | ^ Inclusive of dwell at Trimley station |
+| Trimley to                                                      | AB+2^             | AB+2*                        | TCB time as AB. Single line             |
+| Felixstowe Beach Junction                                       |                   |                              | * Exclusive of dwell at Trimley station |
+|                                                                 |                   |                              | ^ Inclusive of dwell at Trimley station |
+| Felixstowe Beach Junction to                                    | One Train Working | Single line. TCB plan as OTW |                                         |
+| Felixstowe Town                                                 |                   |                              |                                         |
+| EA1450 TRIMLEY TO FELIXSTOWE NORTH AND CENTRAL TERMINALS        |                   |                              |                                         |
+| TIMING POINTS INCLUDED                                          | DOWN              | UP                           | NOTES                                   |
+| Trimley to Felixstowe North and                                 | AB+2              | Single line. TCB plan as AB. |                                         |
+| Central Terminals                                               |                   |                              |                                         |
+| EA1460 FELIXSTOWE BEACH JUNCTION TO FELIXSTOWE BEACH (FOR SOUTH |                   |                              |                                         |
+| QUAY FREIGHTLINER TERMINAL)                                     |                   |                              |                                         |
+| TIMING POINTS INCLUDED                                          | DOWN              | UP                           | NOTES                                   |
+| Felixstowe Beach Junction to                                    | AB+2              | Single line. TCB plan as AB. |                                         |
+| Felixstowe Creek R.S.                                           |                   |                              |                                         |
+| (Felixstowe South Quay                                          |                   |                              |                                         |
+| Freightliner Terminal boundary)                                 |                   |                              |                                         |
+| EA1470 NORWICH THORPE JUNCTION TO LOWESTOFT                     |                   |                              |                                         |
+| TIMING POINTS INCLUDED                                          | DOWN              | UP                           | NOTES                                   |
+| Norwich to Whitlingham                                          | 4                 | 4                            |                                         |
+| Junction                                                        |                   |                              |                                         |
+| Whitlingham Junction to                                         | AB+1              | AB+1                         | TCB plan as AB                          |
+| Brundall                                                        |                   |                              |                                         |
+| Brundall to Cantley                                             | AB+1              | AB+1                         | TCB plan as AB                          |
+| Cantley to Reedham Junction                                     | AB+1              | AB+1                         | TCB plan as AB                          |
+| Reedham Junction to Reedham                                     | AB+1              | AB+1                         | TCB plan as AB                          |
+| Swing Bridge                                                    |                   |                              |                                         |
+| Reedham Swing Bridge to                                         | AB+1              | AB+1                         | TCB plan as AB                          |
+| Somerleyton                                                     |                   |                              |                                         |

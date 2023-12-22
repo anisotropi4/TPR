@@ -1,0 +1,49 @@
+|                                                                                                           |                                   |                  |
+|:----------------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------|
+| Thornaby                                                                                                  |                                   |                  |
+| Junction Margins                                                                                          |                                   |                  |
+| First Movement                                                                                            | Second Movement                   | Margin           |
+| Pass from Bowesfield Junction to Down Main                                                                | Pass from Goods Line              | 21⁄2             |
+| Pass from Bowesfield Junction to Down Main                                                                | Depart Signal TY198/TY194/TY197   | 1*               |
+| Pass from Bowesfield Junction to Goods Line                                                               | Pass from Goods Line              | 3                |
+| Pass from Bowesfield Junction to Goods Line                                                               | Depart Signal TY198/TY194/TY197   | 11⁄2^            |
+| Arrive from Bowesfield Junction                                                                           | Pass from Goods Line              | 2                |
+| Pass from Goods Line                                                                                      | Pass from Bowesfield Junction     | 31⁄2*            |
+| Pass from Goods Line                                                                                      | Arrive from Bowesfield Junction   | 4*               |
+| Pass from Goods Line                                                                                      | Pass to Goods Line                | 4*               |
+| * If first train is 640m to be increased by 1⁄2                                                           |                                   |                  |
+| ^ If first trains is over 600m to be increased by 1⁄2                                                     |                                   |                  |
+| Where the second movement is Pass from Goods Line this is based on the second train having yellow signals |                                   |                  |
+| Newport East Junction                                                                                     |                                   |                  |
+| Adjustments to Sectional Running Times                                                                    |                                   |                  |
+| Movement Down                                                                                             | Reason                            | Value            |
+| Down Goods to Down Fast                                                                                   | Acceleration                      | 1                |
+|                                                                                                           |                                   | 11⁄2 for freight |
+|                                                                                                           |                                   | over 600m        |
+|                                                                                                           |                                   | To be applied    |
+|                                                                                                           |                                   | approaching      |
+|                                                                                                           |                                   | next timing      |
+|                                                                                                           |                                   | point            |
+| Down Main to Down Slow                                                                                    | Approach control                  | 1                |
+| Movement Up                                                                                               | Reason                            | Value            |
+| Up Fast to Up Goods                                                                                       | Approach control                  | 1                |
+| Pass Up Slow to Up Main                                                                                   | Acceleration                      | 1                |
+|                                                                                                           |                                   | 11⁄2 for freight |
+|                                                                                                           |                                   | over 600m        |
+|                                                                                                           |                                   | To be applied    |
+|                                                                                                           |                                   | approaching      |
+|                                                                                                           |                                   | next timing      |
+|                                                                                                           |                                   | point            |
+| Junction Margins                                                                                          |                                   |                  |
+| First Movement                                                                                            | Second Movement                   | Margin           |
+| All Conflicting Moves                                                                                     | 3*                                |                  |
+| Down Main to Down Fast                                                                                    | Up Fast to Up Goods               | 2*               |
+| Down Main to Down Fast                                                                                    | Up Slow to Up Main                | 21⁄2*            |
+| Down Main to Down Slow                                                                                    | Up Fast to Up Goods               | 21⁄2^            |
+| Down Main to Down Slow                                                                                    | Depart Signal DS6875 to Down Fast | 11⁄2*            |
+| Down Goods to Down Fast                                                                                   | Down Main to Down Slow            | 21⁄2^            |
+| Up Fast to Up Goods                                                                                       | Up Slow to Up Main                | 31⁄2*            |
+| Up Slow to Up Goods or Up Main                                                                            | Down Goods to Down Fast           | 31⁄2*            |
+| Up Slow to Up Main                                                                                        | Up Fast to Up Goods               | 31⁄2*            |
+| * If first train is over 641m to be increased by 1⁄2                                                      |                                   |                  |
+| ^ If first trains is over 600m to be increased by 1⁄2                                                     |                                   |                  |

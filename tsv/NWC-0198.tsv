@@ -1,0 +1,31 @@
+|                                                                                                                  |                 |                                    |
+|:-----------------------------------------------------------------------------------------------------------------|:----------------|:-----------------------------------|
+| Watford Junction DC                                                                                              |                 |                                    |
+| Platform end conflicts (platforms 1 – 4)                                                                         |                 |                                    |
+| First movement                                                                                                   | Second movement | Margin                             |
+| Arrive                                                                                                           | Depart          | 1                                  |
+| Depart                                                                                                           | Arrive          | 3                                  |
+| MD130 WATFORD JUNCTION TO ST ALBANS ABBEY                                                                        |                 |                                    |
+| Watford Junction                                                                                                 |                 |                                    |
+| See entry under route MD101 Euston to Armitage Jn (exclusive)                                                    |                 |                                    |
+| Watford North                                                                                                    |                 |                                    |
+| Dwell Time                                                                                                       |                 | 1 (applies in Down direction only) |
+| St Albans Abbey                                                                                                  |                 |                                    |
+| Minimum Turnround Time – Trains changing direction at end of journey                                             |                 |                                    |
+| Standard                                                                                                         | 5               |                                    |
+| MD137 HARLESDEN JN TO WEMBLEY CENTRAL (WEMBLEY YARD LINES)                                                       |                 |                                    |
+| Railnet Reception                                                                                                |                 |                                    |
+| Planning Restriction                                                                                             |                 |                                    |
+| Trains to/from HLG or REV line codes must travel via ‘track code’ numbers 1 or HLG                               |                 |                                    |
+| Trains to/from PRDC must travel via ‘track code’’ numbers 1-4                                                    |                 |                                    |
+| Trains to/from Willesden OTM Sidings must travel via ‘track code’ number 4                                       |                 |                                    |
+| Wembley Reception & Departure Lines 1-7                                                                          |                 |                                    |
+| Planning Restriction                                                                                             |                 |                                    |
+| Reception Line No 1 must not be used for stabling trains. It needs to be kept free for run round movements,      |                 |                                    |
+| attaching and detaching, and for access to the loco sidings from the North. No train should be planned to occupy |                 |                                    |
+| Reception Line 1 for greater than 60 minutes.                                                                    |                 |                                    |
+| MD140 BLETCHLEY TO BEDFORD ST JOHNS (INCLUSIVE)                                                                  |                 |                                    |
+| Bletchley                                                                                                        |                 |                                    |
+| See entry under route MD101 Euston to Armitage Jn (exclusive)                                                    |                 |                                    |
+| Forders Sidings                                                                                                  |                 |                                    |
+| Run–round Allowance                                                                                              | 30 minutes      |                                    |

@@ -1,0 +1,40 @@
+|                                                               |                                                |                                |
+|:--------------------------------------------------------------|:-----------------------------------------------|:-------------------------------|
+| MD801 WOLVERHAMPTON NORTH JN TO ABBEY FOREGATE JN (EXCLUSIVE) |                                                |                                |
+| Codsall                                                       |                                                |                                |
+| Adjustments to Sectional Running Times                        |                                                |                                |
+| Movement Down                                                 | Reason                                         | Value                          |
+| Approaching Cosford when using Bushbury to                    | Slow speed junction                            | Class 6                        |
+| Oxley Stafford Road Jn chord                                  |                                                | S04 1⁄2                        |
+|                                                               |                                                | S06, S08 and TR-40 1           |
+|                                                               |                                                | S10, S12, TR-55 and TR-70 11⁄2 |
+|                                                               |                                                | S14 and TR-85 2                |
+|                                                               |                                                | S16, S18 and TR-100 21⁄2       |
+|                                                               |                                                | S20 and TR-115 and above 3     |
+|                                                               |                                                |                                |
+|                                                               |                                                | Class 4                        |
+|                                                               |                                                | S04 11⁄2                       |
+|                                                               |                                                | S06, S08, S10, S12, S14 and    |
+|                                                               |                                                | TR-40 2                        |
+|                                                               |                                                | S16, TR-55 and above 21⁄2      |
+| Dwell Time                                                    |                                                |                                |
+| DMU                                                           | 1                                              |                                |
+| Shifnal                                                       |                                                |                                |
+| Dwell Time                                                    |                                                |                                |
+| DMU                                                           | 1                                              |                                |
+| Madeley Jn                                                    |                                                |                                |
+| Adjustments to Sectional Running Times                        |                                                |                                |
+| Movement Down                                                 | Reason                                         | Value                          |
+| Cosford to Madeley to Wellington pass to pass                 | SRTs are based on trains to Ironbridge Branch  | -2 Freight                     |
+|                                                               |                                                | Before                         |
+| Movement Up                                                   | Reason                                         | Value                          |
+| Wellington to Madeley to Cosford pass to pass                 | SRTs are based on trains off Ironbridge Branch | -2 Freight                     |
+|                                                               |                                                | After                          |
+| Telford Central                                               |                                                |                                |
+| Dwell Time                                                    |                                                |                                |
+| Class 80x                                                     | 11⁄2                                           |                                |
+| DMU                                                           | 1                                              |                                |
+| Wellington                                                    |                                                |                                |
+| Adjustments to Sectional Running Times                        |                                                |                                |
+| Movement Down                                                 | Reason                                         | Value                          |
+| To Donnington Freight Terminal                                | Slow speed turnout at Donnington Jn            | 1 Freight                      |

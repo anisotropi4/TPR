@@ -1,0 +1,15 @@
+|                                                 |                                             |        |
+|:------------------------------------------------|:--------------------------------------------|:-------|
+| Preston Ribble Jn                               |                                             |        |
+| Adjustments to Sectional Running Times          |                                             |        |
+| Movement Down                                   | Reason                                      | Value  |
+| Trains on the Down Fast crossing to any         | Approach control                            | 1      |
+| through platform other than platforms 3 or 4 at |                                             |        |
+| Preston or routed to the Down Goods or Up &     |                                             |        |
+| Down Goods                                      |                                             |        |
+| Trains crossing from the Down Slow to Down      | Approach control                            | 1      |
+| Fast, Up Fast, Up Slow or Down Goods            |                                             |        |
+| Junction Margins                                |                                             |        |
+| First Movement                                  | Second Movement                             | Margin |
+| Up train arrives in platform 3 at Preston       | Train from Down Fast routed to platforms 2, | 4*     |
+|                                                 | 3C, 4, 4C or 5 at Preston                   |        |

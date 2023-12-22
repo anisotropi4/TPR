@@ -1,0 +1,46 @@
+|                                                               |       |       |      |                                     |
+|:--------------------------------------------------------------|:------|:------|:-----|:------------------------------------|
+| LN892 PONTEFRACT EAST JUNCTION TO FERRYBRIDGE SOUTH JUNCTION  |       |       |      |                                     |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                               |
+| Pontefract East Junction                                      | –     | –     | X    | To/from Pontefract Monkhill – LN882 |
+| Ferrybridge South Junction                                    |       |       |      | To/from Milford Jn – LN804          |
+| LN894 KNOTTINGLEY SOUTH JUNCTION TO KNOTTINGLEY EAST JUNCTION |       |       |      |                                     |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                               |
+| Knottingley South Junction                                    | –     | –     |      | To/from Shaftholme Jn – LN888       |
+| Knottingley East Junction                                     | –     | –     | FSX  | To/from Sudforth Lane – LN882       |
+| LN896 DRAX POWER STATION BRANCH                               |       |       |      |                                     |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                               |
+| Drax Branch Jn                                                | –     | –     | FX   | To/from Sudforth Lane – LN882       |
+| Drax Power Station Signal D17                                 | –     |       |      |                                     |
+| Drax Power Station                                            | –     | –     |      |                                     |
+| LN898 NEVILLE HILL EAST JUNCTION TO HULL                      |       |       |      |                                     |
+| TIMING POINT                                                  | DOWN  | UP    | CODE | NOTES                               |
+| Neville Hill East Junction                                    | –     | GL  – | X    | To/from Leeds – LN836               |
+| Cross Gates                                                   | –     | –     |      |                                     |
+| Garforth                                                      | –     | –     | S    |                                     |
+| East Garforth                                                 | –     | –     | S    |                                     |
+| Micklefield                                                   | –     | –     |      |                                     |
+| Micklefield Junction                                          |       |       |      | To/from Church Fenton – LN902       |
+| South Milford                                                 | –     | –     | S    |                                     |
+| Gascoigne Wood Junction                                       | –     | –     |      | To/from Sherburn Jn – LN878         |
+|                                                               |       |       |      | To/from Milford Jn – LN804          |
+| Gascoigne Wood Down Loop                                      | –     | –     | S    |                                     |
+| Gascoigne Wood Down Sidings                                   | –     | –     | S    |                                     |
+| Gascoigne Wood Up Sidings                                     | –     | –     | S    |                                     |
+| Hambleton West Junction                                       | –     | –     |      | To/from Hambleton South Jn – LN904  |
+| Hambleton East Junction                                       | –     | –     |      | To/from Hambleton North Jn – LN906  |
+| Selby West Junction                                           | –  UL | –     | X    | To Selby Platform 3                 |
+|                                                               |       |       |      | To/from Selby Canal Jn – LN908      |
+| Selby South Junction                                          |       |       |      | To/from Selby Canal Jn – LN910      |
+| Selby                                                         | –     | –     |      | Platform detail must be shown       |
+| Barlby Loop                                                   | –     | –     | S    |                                     |
+| Selby Potter Group                                            |       | –     | S    |                                     |
+| Wressle                                                       | –     | –     | S    |                                     |
+| Howden                                                        | –     | –     | S    |                                     |
+| Eastrington                                                   | –     | –     | S    |                                     |
+| Gilberdyke Junction                                           |       |       |      | To/from Goole – LN912               |
+| Gilberdyke                                                    | –     | –     |      |                                     |
+| Broomfleet                                                    | –     | –     | S    |                                     |
+| Brough                                                        | –     | –     |      |                                     |
+| Melton (Ferriby) Omya                                         | -     |       | F    |                                     |
+| Melton Lane LC                                                |       | -     | S    |                                     |

@@ -1,0 +1,40 @@
+|                                             |                                             |         |
+|:--------------------------------------------|:--------------------------------------------|:--------|
+| Bedlington                                  |                                             |         |
+| Pass from Bedlington Sidings towards West   | Arrive Bedlington from Newsham              | 4       |
+| Sleekburn Junction                          |                                             |         |
+| Pass to West Sleekburn Junction             | Arrival Bedlington from Newsham             | Headway |
+| Pass to West Sleekburn Junction             | Pass to Morpeth                             | Headway |
+| Passenger Depart to West Sleekburn          | Freight Pass from Morpeth to Newsham or     | 2       |
+|                                             | Bedlington Sidings                          |         |
+| Passenger Depart to West Sleekburn          | Freight Depart from Morpeth to Newsham or   | 1       |
+|                                             | Bedlington Sidings                          |         |
+| Pass to West Sleekburn Junction             | Pass from Morpeth to Newsham                | 3       |
+| Pass to West Sleekburn Junction             | Freight depart from Morpeth to Newsham      | 11⁄2    |
+| Freight Pass from Morpeth to Newsham        | Passenger Depart to West Sleekburn Junction | 2       |
+|                                             | (stopping Bedlington)                       |         |
+| Freight Pass from West Sleekburn            | Freight pass from Morpeth                   | Headway |
+| Freight pass from Newsham to Morpeth        | Freight pass to West Sleekburn              | 4       |
+| Hepscott Junction                           |                                             |         |
+| Junction Margins                            |                                             |         |
+| First Movement                              | Second Movement                             | Margin  |
+| Pass to Morpeth                             | Pass from Morpeth North Junc                | 4       |
+| Pass to Morpeth                             | Depart Up Loop                              | 2       |
+| Pass to Morpeth North                       | Pass from Morpeth                           | 4       |
+| Arrive Up Loop                              | Arrive Down Loop                            | 3       |
+| Arrive up Loop                              | Depart Down Loop                            | 1       |
+| LN702 BEDLINGTON NORTH TO LYNEMOUTH ALCAN   |                                             |         |
+| West Sleekburn Junction                     |                                             |         |
+| Junction Margins                            |                                             |         |
+| First Movement                              | Second Movement                             | Margin  |
+| Freight pass from Bedlington to Blyth       | Passenger pass from Ashington to Bedlington | 3       |
+| Freight pass from Bedlington to Blyth       | Freight pass from Ashington to Bedlington   | 31⁄2    |
+| Freight pass from Bedlington to Blyth       | Passenger pass to Ashington from Bedlington | 31⁄2    |
+| Freight pass from Bedlington to Blyth       | Freight pass from Bedlington to Ashington   | 41⁄2    |
+| Passenger pass from Bedlington to Ashington | Freight pass from Bedlington to Blyth       | Headway |
+| Freight pass from Bedlington to Ashington   | Freight pass from Bedlington to Blyth       | Headway |
+| Passenger pass from Ashington to Bedlington | Freight pass from Bedlington to Blyth       | 11⁄2    |
+| Passenger pass from Ashington to Bedlington | Freight pass from Blyth to Bedlington       | 31⁄2    |
+| Freight pass from Blyth to Bedlington       | Passenger pass from Ashington to Bedlington | Headway |
+| Freight pass from Blyth to Bedlington       | Freight pass from Ashington to Bedlington   | Headway |
+| Freight pass from Ashington to Bedlington   | Freight pass from Blyth to Bedlington       | Headway |

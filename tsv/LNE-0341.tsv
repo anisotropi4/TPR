@@ -1,0 +1,37 @@
+|                                                     |      |      |    |         |                                           |
+|:----------------------------------------------------|:-----|:-----|:---|:--------|:------------------------------------------|
+| LN910 TEMPLE HIRST JUNCTION TO SELBY SOUTH JUNCTION |      |      |    |         |                                           |
+| Timing Section                                      | Type | LH   | MU | Freight | Remarks                                   |
+|                                                     |      | HST  |    |         |                                           |
+|                                                     |      | 80X  |    |         |                                           |
+| Down                                                |      |      |    |         |                                           |
+| Approach Selby                                      | E    | 1    | 1  | 1       |                                           |
+| LN912 THORNE JUNCTION TO GILBERDYKE JUNCTION        |      |      |    |         |                                           |
+| Timing Section                                      | Type | LH   | MU | Cl 6    | Remarks                                   |
+|                                                     |      | HST  | LL |         |                                           |
+|                                                     |      | EPU  |    |         |                                           |
+|                                                     |      | Cl 4 |    |         |                                           |
+|                                                     |      | 22X  |    |         |                                           |
+| Down – Weekdays                                     |      |      |    |         |                                           |
+| Approaching Gilberdyke                              | P    | 1    | 1  |         |                                           |
+| Approach Goole                                      | P    |      | 1  |         | Terminating trains only                   |
+| Up – Weekdays                                       |      |      |    |         |                                           |
+| Approach Thorne Junction                            | E    |      | 1  |         | Northern services only. Does not apply to |
+|                                                     |      |      |    |         | services starting at Goole                |
+| LN914 HULL TO SEAMER WEST JUNCTION                  |      |      |    |         |                                           |
+| Timing Section                                      | Type | LH   | MU | Cl 6    | Remarks                                   |
+|                                                     |      | HST  | LL |         |                                           |
+|                                                     |      | EPU  |    |         |                                           |
+|                                                     |      | Cl 4 |    |         |                                           |
+|                                                     |      | 22X  |    |         |                                           |
+| Down – Weekdays                                     |      |      |    |         |                                           |
+| Approach Beverley                                   | P    |      | 1  |         | Terminating Northern services only        |
+| Approach Bridlington                                | E    | 2    | 1  |         |                                           |
+|                                                     | P    |      | 1  |         |                                           |
+| Approach Seamer                                     | E    | 2    | 1  |         |                                           |
+| Up – Weekdays                                       |      |      |    |         |                                           |
+| Approach Bridlington                                | E    |      | 1  |         |                                           |
+|                                                     | P    |      | 1  |         |                                           |
+| Approach Hull                                       | E    | 2    | 1* |         | *Does not apply to services starting at   |
+|                                                     |      |      |    |         | Beverley                                  |
+| P                                                   |      | 1    |    |         |                                           |

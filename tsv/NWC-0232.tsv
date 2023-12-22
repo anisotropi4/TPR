@@ -1,0 +1,43 @@
+|                                                                                                                      |                             |           |
+|:---------------------------------------------------------------------------------------------------------------------|:----------------------------|:----------|
+| Bentley Heath Crossing                                                                                               |                             |           |
+| Movement Up                                                                                                          | Reason                      | Value     |
+| Up train to Platform 3 or Up and Down Goods or                                                                       | Approach Control            | 1⁄2       |
+| Up Dorridge Passenger Loop having stopped at                                                                         |                             |           |
+| Widney Manor                                                                                                         |                             |           |
+| Up train to Platform 3 or Up and Down Goods or                                                                       | Approach Control            | 1         |
+| Up Dorridge Passenger loop (not stopped at                                                                           |                             |           |
+| Widney Manor)                                                                                                        |                             |           |
+| Junction Margins                                                                                                     |                             |           |
+| First Movement                                                                                                       | Second Movement             | Margin    |
+| Up train arrives at Dorridge Up & Down Goods                                                                         | Down train departs Dorridge | 1         |
+| Loop                                                                                                                 |                             |           |
+| Up train arrives at Dorridge Up & Down Goods                                                                         | Down train passes Dorridge  | 11⁄2      |
+| Loop                                                                                                                 |                             |           |
+| Solihull                                                                                                             |                             |           |
+| Dwell Time                                                                                                           |                             |           |
+| Class 22x                                                                                                            | 11⁄2                        |           |
+| DMU                                                                                                                  | 1                           |           |
+| Tyseley                                                                                                              |                             |           |
+| Adjustments to Sectional Running Times                                                                               |                             |           |
+| Movement Down                                                                                                        | Reason                      | Value     |
+| Passenger train moving to slow line prior to                                                                         | Approach control            | 1         |
+| Tyseley station                                                                                                      |                             |           |
+| Movement Up                                                                                                          | Reason                      | Value     |
+| Passenger train moving from slow line after                                                                          | Slow speed crossover        | 1 After   |
+| Tyseley station                                                                                                      |                             |           |
+| Junction Margins                                                                                                     |                             |           |
+| First Movement                                                                                                       | Second Movement             | Margin    |
+| All conflicting moves                                                                                                |                             | 3 Before/ |
+|                                                                                                                      |                             | 1 After   |
+| The interlocking prevents the setting of a route on the US into Tyseley station with routes set for a train from the |                             |           |
+| DM to DS.                                                                                                            |                             |           |
+| Tyseley Up and Down Through Sidings                                                                                  |                             |           |
+| Planning Note                                                                                                        |                             |           |
+| It is preferable for trains arriving in the Up Direction to perform a Run Round to arrive on the Tyseley Up Through  |                             |           |
+| Siding and Run Round via the Tyseley Down Through Siding. It is possible for a train on the Tyseley Down             |                             |           |
+| Through Siding to Run Round via LJ1295 signal (Up Dorridge) at Tyseley South Jn and Small Heath station. The         |                             |           |
+| Run Round should be planned with careful consideration of the opportunities between other services on the Up         |                             |           |
+| and Down Bordesley and Up and Down Snow Hill.                                                                        |                             |           |
+| Run Round via Tyseley Down Through Siding                                                                            | 25 minutes                  |           |
+| Run Round via Main Line                                                                                              | 35 minutes                  |           |

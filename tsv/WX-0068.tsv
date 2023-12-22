@@ -1,0 +1,40 @@
+|                                  |             |             |                                                  |
+|:---------------------------------|:------------|:------------|:-------------------------------------------------|
+| SW260 ASCOT TO ASH VALE JUNCTION |             |             |                                                  |
+| TIMING POINT                     | DOWN        | UP          | NOTES                                            |
+| Bagshot – Camberley              | AB+2        | AB+2*       | TCB plan as AB.                                  |
+|                                  |             |             | * Based on time previous train passes/departs    |
+|                                  |             |             | Bagshot.                                         |
+| Camberley – Frimley              | AB+1        | AB+2*       | TCB plan as AB.                                  |
+|                                  |             |             | * Based on time previous train passes/departs    |
+|                                  |             |             | Camberley.                                       |
+| Frimley – Frimley Junction       | AB+1        | AB+2*       | TCB plan as AB.                                  |
+|                                  |             |             | * Based on time previous train passes/departs    |
+|                                  |             |             | Frimley.                                         |
+| Frimley Junction – Ash Vale      | 5 – Non-    | 5 – Non-    | TCB Single Line                                  |
+| Junction                         | stopping    | stopping    |                                                  |
+|                                  | 51⁄2 -      | 51⁄2 -      |                                                  |
+|                                  | Stopping    | Stopping    |                                                  |
+| SW265 GUILDFORD TO WOKINGHAM     |             |             |                                                  |
+| TIMING POINT                     | DOWN        | UP          | NOTES                                            |
+| Guildford – North Camp           | 21⁄2 - Non- | 21⁄2 - Non- |                                                  |
+|                                  | stopping    | stopping    |                                                  |
+|                                  | 31⁄2 -      | 31⁄2 -      |                                                  |
+|                                  | Stopping    | Stopping    |                                                  |
+| North Camp – Blackwater          | AB+1⁄2      |             | TCB plan as AB.                                  |
+| Blackwater – Blackwater Signal   | AB+21⁄2*    |             | TCB plan as AB.                                  |
+| BEF2979                          |             |             | * Second train cannot arrive at Blackwater until |
+|                                  |             |             | 21⁄2 minutes after the preceding train passes    |
+|                                  |             |             | Signal BEF2979.                                  |
+| Blackwater Signal BEF2979 –      | AB+1        |             | TCB plan as AB.                                  |
+| Wokingham                        |             |             |                                                  |
+| Wokingham – Sandhurst Signal     |             | AB+1*       | TCB plan as AB.                                  |
+| BEF2982                          |             |             | *  A train may depart Wokingham to Signal        |
+|                                  |             |             | BEF2994 before the preceding train has           |
+|                                  |             |             | cleared the section to BEF2982. A train may      |
+|                                  |             |             | depart BEF2994 signal 1 minute after the         |
+|                                  |             |             | previous train passes BEF2982.                   |
+| Signal BEF2982 – Blackwater      |             | AB+2        | TCB plan as AB.                                  |
+| Signal BEF2978                   |             |             |                                                  |
+| Blackwater Signal BEF2978 –      |             | AB+2        | TCB plan as AB.                                  |
+| North Camp                       |             |             |                                                  |

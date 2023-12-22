@@ -1,0 +1,44 @@
+|      |                                                                                          |
+|:-----|:-----------------------------------------------------------------------------------------|
+| TID  | Class 1 services (WTT)                                                                   |
+| 1Axx | London Victoria and Brighton (fast) – not to be used for Gatwick Express services        |
+| 1Bxx | London Victoria/London Bridge and Bognor Regis via Horsham                               |
+| 1Cxx | London Victoria/London Bridge and Portsmouth via Horsham (portion of 1Bxx / 1Cxx)        |
+|      | Trains terminating at Chichester from London to be numbered in the range 1C80-99         |
+| 1Dxx | London Waterloo and Dorking via Epsom (Class 2 not available)                            |
+| 1Exx | London Bridge and Uckfield                                                               |
+| 1Fxx | London Victoria/London Bridge and Eastbourne / Hastings / Ore / Seaford                  |
+| 1Gxx | London Victoria and Gatwick Airport (Up services ODD, Down services as EVEN)             |
+| 1Hxx | London Victoria/London Bridge and Littlehampton via Hove                                 |
+| 1Ixx | London Victoria and Sutton / Epsom / Dorking / Horsham via Mitcham Junction (semi-fast)  |
+|      | Stops ONLY at Clapham Junction between London Victoria and Streatham North               |
+|      | Junction, regardless of its booked line                                                  |
+| 1Jxx | London Bridge to Bognor via Littlehampton                                                |
+|      | Trains terminating at Chichester to be numbered in the range 1J80-99                     |
+|      | London to Brighton via Horsham and Littlehampton (STP)                                   |
+| 1Kxx | London Bridge and Epsom / Guildford via West Croydon (semi-fast)                         |
+| 1Lxx | London Victoria and East Grinstead                                                       |
+| 1Nxx | Brighton and Southampton Central via Swanwick                                            |
+|      | Trains terminating at Chichester to be numbered in the range 1N80-99                     |
+| 1Oxx | Reading and Gatwick Airport                                                              |
+|      | Trains flexed to terminate at Redhill numbered in the range 1O01-10                      |
+|      | West of England / South Wales to Brighton via Salisbury and Havant                       |
+| 1Pxx | London Bridge and Caterham (semi-fast)                                                   |
+| 1Qxx | Network Rail Test Trains                                                                 |
+| 1Rxx | London Victoria and Reigate                                                              |
+| 1Sxx | Brighton and Portsmouth Harbour/Chichester/Havant (not via Littlehampton)                |
+|      | Trains terminating at Chichester from Brighton to be numbered in the range 1S80-99       |
+| 1Txx | London Victoria and Gatwick Airport/Three Bridges via Redhill                            |
+| 1Uxx | Brighton and Hastings / Ore (semi-fast services)                                         |
+| 1Vxx | Gatwick Airport / Redhill and Reading                                                    |
+|      | Brighton and West of England / South Wales via Salisbury and Havant                      |
+| 1Wxx | London Victoria and Brighton (Gatwick Express)                                           |
+|      | (Up services ODD, Down services as EVEN)                                                 |
+| 1Xxx | NOT USED                                                                                 |
+| 1Yxx | Brighton and Southampton Central via Eastleigh                                           |
+|      | London Victoria to Tattenham Corner/Caterham where ‘fast’ mainline services are diverted |
+| 1Zxx | Special Traffic/Charter services                                                         |
+|      | Must NOT be used for WTT services                                                        |
+|      | STP additional trains not conforming to any route code                                   |
+| TID  | Class 2 services (WTT)                                                                   |
+| 2Axx | Redhill and Tonbridge                                                                    |

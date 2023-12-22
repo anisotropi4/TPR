@@ -1,0 +1,47 @@
+|                   |                                                                               |                                                |               |
+|:------------------|:------------------------------------------------------------------------------|:-----------------------------------------------|:--------------|
+| Earles Sidings SB |                                                                               |                                                |               |
+|                   | Freight train departs Down Goods Loop/Earles                                  | Passenger train passes on Down Main            | 41⁄2          |
+|                   | Sidings towards Bamford                                                       |                                                |               |
+|                   | Freight train departs Down Goods Loop/Earles                                  | Down Freight Train arrives Down Goods          | 5             |
+|                   | Sidings towards Bamford                                                       | Loop/Earles Sidings.                           |               |
+|                   | Train passes on Down Main                                                     | Freight train/light engine departs from Signal | 2             |
+|                   |                                                                               | ES30 on Up Main to Down Goods Loop/Earles      |               |
+|                   |                                                                               | Sidings                                        |               |
+|                   | Train passes on Down Main                                                     | Down train departs from Earles Sidings/Down    | 2             |
+|                   |                                                                               | Loop to Down Main                              |               |
+|                   | Chinley East Jn                                                               |                                                |               |
+|                   | Adjustments to Sectional Running Times                                        |                                                |               |
+|                   | Movement                                                                      | Reason                                         | Value         |
+|                   | Pass to Chinley South Jn                                                      | Approach control                               | 1             |
+|                   | Pass from Chinley South Jn                                                    | Acceleration                                   | 1⁄2*          |
+|                   | *Applied approaching next timing point                                        |                                                |               |
+|                   | Chinley North Jn                                                              |                                                |               |
+|                   | Adjustments to Sectional Running Times                                        |                                                |               |
+|                   | Movement                                                                      | Reason                                         | Value         |
+|                   | Pass from Chinley South Jn                                                    | Acceleration                                   | 1* Freight up |
+|                   |                                                                               |                                                | to 2400T      |
+|                   |                                                                               |                                                | 11⁄2* Freight |
+|                   |                                                                               |                                                | 2400T or      |
+|                   |                                                                               |                                                | above         |
+|                   | *Applied approaching next timing point                                        |                                                |               |
+|                   | New Mills South Jn                                                            |                                                |               |
+|                   | Adjustments to Sectional Running Times                                        |                                                |               |
+|                   | Movement (Down)                                                               | Reason                                         | Value         |
+|                   | Pass to New Mills Central                                                     | Approach Control                               | 1%            |
+|                   |                                                                               |                                                | passenger     |
+|                   |                                                                               |                                                | 2 freight     |
+|                   | Pass from New Mills Central                                                   | Acceleration                                   | 1* Passenger  |
+|                   |                                                                               |                                                | 2* Freight up |
+|                   |                                                                               |                                                | to 1600T      |
+|                   |                                                                               |                                                | 11⁄2* Freight |
+|                   |                                                                               |                                                | 1600T to      |
+|                   |                                                                               |                                                | 2000T         |
+|                   |                                                                               |                                                | 1* Freight    |
+|                   |                                                                               |                                                | 2200T to      |
+|                   |                                                                               |                                                | 2600T         |
+|                   |                                                                               |                                                | 1⁄2* Freight  |
+|                   |                                                                               |                                                | 2800T or      |
+|                   |                                                                               |                                                | greater       |
+|                   | % Does not apply to 150 timing loads as the adjustment is included in the SRT |                                                |               |
+|                   | *Applied approaching next timing point                                        |                                                |               |

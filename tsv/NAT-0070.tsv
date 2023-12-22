@@ -1,0 +1,55 @@
+|       |                 |      |            |                       |                       |                    |                    |                    |                    |
+|:------|:----------------|:-----|:-----------|:----------------------|:----------------------|:-------------------|:-------------------|:-------------------|:-------------------|
+| Type  | Days            | TID  | Start Time | Origin                | Destination           |                    |                    |                    |                    |
+| RHTT  | SX              | 3S86 | 16:29      | Effingham Jn C.H.S.   | Effingham Jn C.H.S.   |                    |                    |                    |                    |
+| RHTT  | SX              | 3S88 | 04:50      | Effingham Jn C.H.S.   | Effingham Jn C.H.S.   |                    |                    |                    |                    |
+|       | RHTT            |      | SU         | 3W81                  |                       | 6:24               |                    | Totton Yard        | Totton Yard        |
+|       | RHTT            |      | SO         | 3W81                  |                       | 5:58               |                    | Totton Yard        | Totton Yard        |
+|       | RHTT            |      | SX         | 3W81                  |                       | 5:53               |                    | Totton Yard        | Totton Yard        |
+|       | RHTT            |      | SX         | 3W81                  |                       | 6:10               |                    | Totton Yard        | Totton Yard        |
+|       | RHTT            |      | SU         | 3W82                  |                       | 4:25               |                    | Totton Yard        | Totton Yard        |
+|       | RHTT            |      | SO         | 3W82                  |                       | 7:34               |                    | Totton Yard        | Totton Yard        |
+|       | RHTT            |      | SX         | 3W82                  |                       | 6:11               |                    | Totton Yard        | Totton Yard        |
+|       | RHTT            |      | SX         | 3W82                  |                       | 9:37               |                    | Totton Yard        | Totton Yard        |
+| RHTT  | SX              | 3Y11 | 06:37      | Effingham Junction    | Wimbledon E.M.U.D.    |                    |                    |                    |                    |
+|       |                 |      |            | Neck                  |                       |                    |                    |                    |                    |
+|       | RHTT            | 6:37 |            |                       |                       |                    |                    |                    |                    |
+|       | De-Icer         |      | SX         | 8Y82                  |                       | 1:27               |                    | Effingham Jn C.H.S | Effingham Jn C.H.S |
+|       | De-Icer         |      | SU         | 8Y82                  |                       | 0:24               |                    | Effingham Jn C.H.S | Effingham Jn C.H.S |
+|       | De-Icer         |      | SO         | 8Y82                  |                       | 1:27               |                    | Effingham Jn C.H.S | Effingham Jn C.H.S |
+|       | De-Icer         |      | SU         | 8Y83                  |                       | 0:08               |                    | Effingham Jn C.H.S | Effingham Jn C.H.S |
+|       | De-Icer         |      | SO         | 8Y83                  |                       | 9:33               |                    | Effingham Jn C.H.S | Effingham Jn C.H.S |
+|       | De-Icer         |      | SX         | 8Y83                  | 18:25                 | Effingham Jn C.H.S | Effingham Jn C.H.S |                    |                    |
+|       | De-Icer         |      | SX         | 8Y84                  | 19:38                 | Totton Yard        | Totton Yard        |                    |                    |
+|       | De-Icer         |      | SO         | 8Y84                  | 20:16                 | Totton Yard        | Totton Yard        |                    |                    |
+|       | De-Icer         |      | SU         | 8Y84                  | 20:27                 | Totton Yard        | Totton Yard        |                    |                    |
+|       | De-Icer         |      | SX         | 8Y85                  | 21:05                 | Totton Yard        | Totton Yard        |                    |                    |
+|       | De-Icer         |      | SO         | 8Y85                  | 20:11                 | Totton Yard        | Totton Yard        |                    |                    |
+|       | De-Icer         |      | SU         | 8Y85                  | 20:18                 | Totton Yard        | Totton Yard        |                    |                    |
+|       | Western & Wales |      |            |                       |                       |                    |                    |                    |                    |
+| RHTT  |                 |      |            |                       |                       |                    |                    |                    |                    |
+| RHTT  |                 |      |            |                       |                       |                    |                    |                    |                    |
+| 06:37 |                 |      |            |                       |                       |                    |                    |                    |                    |
+| 6:37  |                 |      |            |                       |                       |                    |                    |                    |                    |
+| RHTT  | Su              | 3J11 | 20:32      | St Blazey LIP         | Par                   |                    |                    |                    |                    |
+|       |                 |      | 21:06      |                       |                       |                    |                    |                    |                    |
+| RHTT  | TO              | 3J12 | 01:21      | Par                   | Westbury              |                    |                    |                    |                    |
+| RHTT  | TSX             | 3J12 | 01:21      | Par                   | Westbury              |                    |                    |                    |                    |
+| RHTT  | SO              | 3J12 | 01:21      | Par                   | Westbury              |                    |                    |                    |                    |
+| RHTT  | MSX             | 3J13 | 08:50      | Westbury              | St Blazey LIP         |                    |                    |                    |                    |
+|       |                 |      | 08:46      |                       |                       |                    |                    |                    |                    |
+| RHTT  | MO              | 3J13 | 08:50      | Westbury              | St Blazey LIP         |                    |                    |                    |                    |
+|       |                 |      | 08:46      |                       |                       |                    |                    |                    |                    |
+| RHTT  | SO              | 3J13 | 09:08      | Westbury              | St Blazey LIP         |                    |                    |                    |                    |
+| RHTT  | Su              | 3J14 | 08:32      | St Blazey LIP         | Par                   |                    |                    |                    |                    |
+| RHTT  | Su              | 3J15 | 13:24      | Par                   | St Blazey LIP         |                    |                    |                    |                    |
+|       |                 |      | 13:45      |                       |                       |                    |                    |                    |                    |
+| RHTT  | SX              | 3J41 | 14:53      | Didcot Fuelling Point | Didcot Fuelling Point |                    |                    |                    |                    |
+| RHTT  | SU              | 3J41 | 18:30      | Didcot Fuelling Point | Didcot Fuelling Point |                    |                    |                    |                    |
+| RHTT  | SX              | 3J42 | 22:30      | Didcot Fuelling Point | Didcot Fuelling Point |                    |                    |                    |                    |
+| RHTT  | SU              | 3J42 | 22:58      | Didcot Fuelling Point | Didcot Fuelling Point |                    |                    |                    |                    |
+| RHTT  | MO              | 3J43 | 02:53      | Didcot Fuelling Point | Didcot Fuelling Point |                    |                    |                    |                    |
+| RHTT  | SO              | 3J43 | 03:58      | Didcot Fuelling Point | Didcot Parkway        |                    |                    |                    |                    |
+| RHTT  | MSX             | 3J43 | 03:11      | Didcot Fuelling Point | Didcot Parkway        |                    |                    |                    |                    |
+| RHTT  | MSX             | 3J44 | 05:25      | Didcot Parkway        | Didcot Fuelling Point |                    |                    |                    |                    |
+| RHTT  | SO              | 3J44 | 05:28      | Didcot Parkway        | Didcot Fuelling Point |                    |                    |                    |                    |

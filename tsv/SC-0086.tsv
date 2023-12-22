@@ -1,0 +1,32 @@
+|                                                                                                         |                                                 |           |
+|:--------------------------------------------------------------------------------------------------------|:------------------------------------------------|:----------|
+| Ravenstruther                                                                                           |                                                 |           |
+| Junction Margins                                                                                        |                                                 |           |
+| First Movement                                                                                          | Second Movement                                 | Margin    |
+| Arrive Ravenstruther                                                                                    | Down train pass Carstairs South Junction        | 1⁄2       |
+| Arrive Ravenstruther                                                                                    | Down train pass Carstairs East Junction         | Same time |
+| Arrive Ravenstruther                                                                                    | Depart Carstairs (including loops)              | 1⁄2       |
+| Down Train pass Lanark Junction                                                                         | Depart Ravenstruther                            | 1         |
+| No pathing time to be inserted in Ravenstruther train schedules whilst propelling in the Carstairs area |                                                 |           |
+| Lanark Junction                                                                                         |                                                 |           |
+| Adjustments to Sectional Running Times                                                                  |                                                 |           |
+| Movement Up                                                                                             | Reason                                          | Value     |
+| All trains towards Ravenstruther                                                                        | Approach Control                                | 1         |
+| approaching Lanark Junction                                                                             |                                                 |           |
+| All trains towards Lanark                                                                               | Approach Control                                | 1⁄2       |
+| Approaching Lanark Junction                                                                             |                                                 |           |
+| Junction Margins                                                                                        |                                                 |           |
+| First Movement                                                                                          | Second Movement                                 | Margin    |
+| Up train to Lanark                                                                                      | Down train from Carstairs South Junction (not   | 3         |
+|                                                                                                         | stopping Carstairs) capable of achieving        |           |
+|                                                                                                         | linespeed (100mph)                              |           |
+| Up train to Lanark                                                                                      | Down train from Carstairs South Junction (not   | 4         |
+|                                                                                                         | stopping Carstairs) running less than linespeed |           |
+|                                                                                                         | (100mph)                                        |           |
+| Up train to Lanark                                                                                      | Depart Carstairs Station/Down Passenger Loop    | Same time |
+| Down train pass from Carstairs                                                                          | Pass to Lanark                                  | 21⁄2      |
+| Carluke                                                                                                 |                                                 |           |
+| Adjustments to Sectional Running Times                                                                  |                                                 |           |
+| Movement Down                                                                                           | Reason                                          | Value     |
+| Trains timed as 385 that have come from                                                                 | Slow speed over Lanark Junction                 | 1⁄2       |
+| Lanark                                                                                                  |                                                 |           |

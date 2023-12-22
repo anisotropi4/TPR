@@ -1,0 +1,40 @@
+|                                                                                                         |                                              |             |
+|:--------------------------------------------------------------------------------------------------------|:---------------------------------------------|:------------|
+| Milton Keynes Central                                                                                   |                                              |             |
+| Depart Platforms 1 or 2 to Bletchley                                                                    | Depart Platform 2a towards Bletchley High    | 3           |
+| (Passenger)                                                                                             | Level                                        |             |
+| Depart Platform 5 to Up Fast                                                                            | Up train arrive Platform 4                   | 3           |
+| $ ^  The normal headway applies at the next mandatory timing point – see section 5.2                    |                                              |             |
+| Minimum Turnround Time – Trains changing direction at end of journey                                    |                                              |             |
+| EMU up to 4 car, except:                                                                                | 5                                            |             |
+| Class 377 4 or 5 car                                                                                    | 4                                            |             |
+| EMU 6 to 8 car, except:                                                                                 | 6                                            |             |
+| Class 377 8 car                                                                                         | 5                                            |             |
+| EMU 9 to 12 car                                                                                         | 8                                            |             |
+| Class 196 (EWR)                                                                                         | 5                                            |             |
+| Platform Re-occupation                                                                                  |                                              |             |
+| First Movement                                                                                          | Second Movement                              | Margin      |
+| Pass platform 6 towards Hanslope Jn                                                                     | Arrive platform 6 from Down Fast             | 21⁄2        |
+| Trains entering or leaving passenger service and continuing in same direction (inclusive of Dwell Time) |                                              |             |
+| West Midlands Trains entering service                                                                   | 2                                            |             |
+| West Midlands Trains leaving service                                                                    | 3 (4-car EMU), 6 (8 car EMU), 9 (12 car EMU) |             |
+| Wolverton                                                                                               |                                              |             |
+| Dwell Time                                                                                              |                                              |             |
+| Class 350 EMU                                                                                           | 1                                            |             |
+| Hanslope Jn                                                                                             |                                              |             |
+| Adjustments to Sectional Running Times                                                                  |                                              |             |
+| Movement Down                                                                                           | Reason                                       | Value       |
+| Down Fast to Down Northampton                                                                           | Differential Junction speed                  | 1⁄2         |
+|                                                                                                         |                                              | approaching |
+|                                                                                                         |                                              | Hanslope Jn |
+|                                                                                                         |                                              | and 1⁄2     |
+|                                                                                                         |                                              | approaching |
+|                                                                                                         |                                              | next timing |
+|                                                                                                         |                                              | point       |
+| Down Slow to Down Fast                                                                                  | Differential Junction speed                  | 1⁄2         |
+|                                                                                                         |                                              | approaching |
+|                                                                                                         |                                              | Hanslope Jn |
+|                                                                                                         |                                              | and 1⁄2     |
+|                                                                                                         |                                              | approaching |
+|                                                                                                         |                                              | next timing |
+|                                                                                                         |                                              | point       |

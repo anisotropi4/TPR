@@ -1,0 +1,38 @@
+|                                                              |      |          |      |                                      |
+|:-------------------------------------------------------------|:-----|:---------|:-----|:-------------------------------------|
+| LN814 TINSLEY NORTH JUNCTION TO SHEFFIELD TRAM TRANSFER LINE |      |          |      |                                      |
+| TIMING POINT                                                 | DOWN | UP       | CODE | NOTES                                |
+| Tinsley North Junction                                       | –    | –        |      | Tram Only To/from LN830              |
+| Sheffield Tram W210                                          | –    | –        |      |                                      |
+| LN815 PARKGATE JUNCTION TO SHEFFIELD TRAM PARKGATE TRANSFER  |      |          |      |                                      |
+| LINE                                                         |      |          |      |                                      |
+| TIMING POINT                                                 | DOWN | UP       | CODE | NOTES                                |
+| Parkgate Junction                                            | –    | –        |      | Tram Only To/from LN830              |
+| Sheffield Tram Parkgate                                      | –    | –        |      |                                      |
+| LN816 BEIGHTON JUNCTION TO WOODHOUSE JUNCTION                |      |          |      |                                      |
+| TIMING POINT                                                 | DOWN | UP       | CODE | NOTES                                |
+| Beighton Junction                                            | –    | –        |      | To/from Barrow Hill North Jn – LN806 |
+| Beighton Station Junction Signal                             |      |          |      |                                      |
+| Box                                                          |      |          |      |                                      |
+| Woodhouse Junction                                           | –    | –        |      | To/from Woodburn Jn – LN736          |
+| LN818 HOLMES JUNCTION TO ROTHERHAM CENTRAL JUNCTION (HOLMES  |      |          |      |                                      |
+| CURVE)                                                       |      |          |      |                                      |
+| TIMING POINT                                                 | DOWN | UP       | CODE | NOTES                                |
+| Holmes Junction                                              | –    | –        |      | To/from Meadowhall – LN804           |
+| Rotherham Booth’s                                            |      | –        | S    |                                      |
+| Rotherham Central Junction                                   | –    | –        |      | To/from Aldwarke Jn – LN830          |
+| LN824 MOORTHORPE JUNCTION TO SOUTH KIRKBY JUNCTION           |      |          |      |                                      |
+| TIMING POINT                                                 | DOWN | UP       | CODE | NOTES                                |
+| Moorthorpe                                                   | –    | –        |      | To/from Swinton – LN804              |
+| South Kirkby Junction                                        | –    | –        |      | To/from Hare Park Jn – LN836         |
+| LN826 DONCASTER SOUTH YORKSHIRE JUNCTION TO SWINTON          |      |          |      |                                      |
+| TIMING POINT                                                 | DOWN | UP       | CODE | NOTES                                |
+| South Yorkshire Junction                                     |      |          |      | To/from Doncaster – LN101            |
+| St James’ Junction                                           | GL   | GL       | X    | To/from Bridge Jn – LN832            |
+| Doncaster Signal D1470                                       |      | –        | S    |                                      |
+| Hexthorpe Sdgs                                               | GL   | GL       | S    |                                      |
+| Hexthorpe Junction                                           | –    | –  GL AL |      | To/from Bentley Jn – LN766           |
+| Cadeby Up Goods Loop                                         |      | –        | S    |                                      |
+| Conisbrough                                                  | –    | –        | S    |                                      |
+| Mexborough                                                   | –    | –        |      | To/from Thrybergh Jn – LN828         |
+| Swinton                                                      | –    | –        |      | To/from Aldwarke Jn – LN804          |

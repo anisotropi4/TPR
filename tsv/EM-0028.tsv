@@ -1,0 +1,47 @@
+|                                                              |      |    |      |                                          |
+|:-------------------------------------------------------------|:-----|:---|:-----|:-----------------------------------------|
+| LN3505 NORTH STAFFORD JUNCTION TO STOKE JUNCTION (EXCLUSIVE) |      |    |      |                                          |
+| TIMING POINT                                                 | DOWN | UP | CODE | NOTES                                    |
+| North Stafford Jn                                            | –    |    |      | To/from Derby – LN3501                   |
+| Tutbury and Hatton                                           | –    | –  |      |                                          |
+| Uttoxeter                                                    | –    | –  | S    |                                          |
+| Uttoxeter SB                                                 |      |    |      |                                          |
+| Uttoxeter DGL                                                | –    |    | S    |                                          |
+| Blythe Bridge                                                | –    | –  | S    |                                          |
+| Caverswall UGL                                               |      | –  | S    |                                          |
+| Caverswall DGL                                               | –    |    | S    |                                          |
+| Caverswall                                                   | –    | –  |      |                                          |
+| Longton                                                      | –    | –  |      |                                          |
+| Foley Crossing Signal Box                                    |      |    |      |                                          |
+| NW&C/LNE Route Boundary                                      |      |    |      | 1 mile 40 chains – NW5012. Refer to      |
+|                                                              |      |    |      | NW&C Timetable Planning Rules            |
+| Stoke Jn                                                     |      | –  |      | To/from Stoke on Trent – NW5009.  Refer  |
+|                                                              |      |    |      | to NW&C Timetable Planning Rules         |
+| LN3515 MELBOURNE JUNCTION TO SINFIN SIDINGS                  |      |    |      |                                          |
+| TIMING POINT                                                 | DOWN | UP | CODE | NOTES                                    |
+| Melbourne Jn                                                 | –    |    |      | To/from Derby – LN3501                   |
+| Sinfin Sidings                                               | –    |    |      |                                          |
+| LN3520 SHEET STORES JUNCTION TO STENSON JUNCTION             |      |    |      |                                          |
+| TIMING POINT                                                 | DOWN | UP | CODE | NOTES                                    |
+| Sheet Stores Jn                                              | –    | –  |      | To/from Trent Jn – LN3201                |
+| East Midlands Gateway Terminal                               | –    |    | S    | TIPLOC EMGTWT                            |
+| East Midlands Gateway Signal                                 | –    |    | S    | TIPLOC EMGT457                           |
+| SS4457                                                       |      |    |      | Exit signal for East Midlands Gateway    |
+|                                                              |      |    |      | Terminal                                 |
+| East Midlands Gateway Arrival                                |      | –  | S    | TIPLOC EMGTWA                            |
+|                                                              |      |    |      | Arrival signal for East Midlands Gateway |
+|                                                              |      |    |      | Terminal                                 |
+| Gateway West Junction                                        | –    | –  | X    | TIPLOC CDONGWJ                           |
+|                                                              |      |    |      | To/from East Midlands Gateway Terminal   |
+| Castle Donington                                             | –    | –  |      |                                          |
+| East Midlands Distribution Centre                            |      | –  | S    |                                          |
+| Stenson Jn                                                   | –    | –  |      | To/from Burton on Trent – LN3501         |
+| LN3525 KNIGHTON JUNCTION TO LEICESTER JUNCTION               |      |    |      |                                          |
+| TIMING POINT                                                 | DOWN | UP | CODE | NOTES                                    |
+| Knighton Jn                                                  | –    |    |      | Single line to Bagworth Jn.              |
+|                                                              |      |    |      | To/from Wigston North Jn – LN3201        |
+| Knighton Jn Signal LR326                                     |      | –  | S    |                                          |
+| Leicester Signal LR327                                       | –    |    |      | Mandatory in the Down direction          |
+| Bagworth Jn                                                  | –    | –  |      |                                          |
+| Cliffe Hill Stud Farm Quarry                                 | –    | –  | F    |                                          |
+| Cliffe Hill Ground Frame                                     | –    | –  | X    |                                          |

@@ -1,0 +1,43 @@
+|                                                                                                                        |                                                     |           |
+|:-----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------|:----------|
+| LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION                                                                       |                                                     |           |
+| London King’s Cross                                                                                                    |                                                     |           |
+| Adjustments to Sectional Running Times                                                                                 |                                                     |           |
+| Movement Up                                                                                                            | Reason                                              | Value     |
+| Entering a platform that is already occupied                                                                           | Calling-on from signals protecting                  | 1⁄2 *     |
+|                                                                                                                        | platforms                                           |           |
+| * Where this results in an arrival at King’s Cross on a half minute for a service not permitted to do so, <1⁄2> should |                                                     |           |
+| be added to round up to a full minute                                                                                  |                                                     |           |
+| Connectional Allowance                                                                                                 | 15                                                  |           |
+| Platform end conflicts                                                                                                 |                                                     |           |
+| Depart to arrive where conflict occurs in                                                                              |                                                     | 4         |
+| King’s Cross throat                                                                                                    |                                                     |           |
+| Depart to arrive where conflict occurs at                                                                              |                                                     | 6         |
+| Belle Isle Junction                                                                                                    |                                                     |           |
+| Arrive to depart where conflict occurs in                                                                              |                                                     | 1         |
+| King’s Cross throat                                                                                                    |                                                     |           |
+| Exceptions are as follows:                                                                                             |                                                     |           |
+| First Movement                                                                                                         | Second Movement                                     | Margin    |
+| Depart Platform 0-1 to Down Fast via                                                                                   | Conflicting arrival into Platforms 0-1 via Line A   | 5         |
+| Line A                                                                                                                 |                                                     |           |
+| Depart Platform 1-2 to Down Fast via                                                                                   | Arrive into Platform 0-1 via Line BX                | 5         |
+| Line B                                                                                                                 |                                                     |           |
+| Depart Platforms 2-5 to Down Fast via                                                                                  | Conflicting arrival into Platforms 2-5 via Line C   | 5         |
+| Line CX                                                                                                                |                                                     |           |
+| Depart Platforms 5-7 to Down Fast via                                                                                  | Conflicting arrival into Platforms 6-7 via Line C   | 5         |
+| Line D                                                                                                                 |                                                     |           |
+| Depart Platforms 8-10 to Down Slow via                                                                                 | Conflicting arrival into Platforms 8-10 via Line EX | 5         |
+| Line F                                                                                                                 |                                                     |           |
+| Arrive Platform 0-1 from Line BX                                                                                       | Conflicting departure from Platform 1-2 to Line B   | Same time |
+| Arrive Platform 2-5 from Line DX                                                                                       | Conflicting departure from Platform 5-7 to Line D   | Same time |
+| Arrive Platform 6-7 from Line C                                                                                        | Depart Platform 2-5 to Line C or CX                 | Same time |
+| Arrive Platform 6-7 from Line D                                                                                        | Depart Platform 2-5 to Line CX                      | Same time |
+| Arrive Platform 8-10 from Line EX                                                                                      | Conflicting departure from Platform 7 to Line E     | Same time |
+| Arrive Platform 9-10 from Line EX                                                                                      | Conflicting departure from Platform 8 to Line E     | Same time |
+| Minimum Turnround                                                                                                      |                                                     |           |
+|                                                                                                                        | All Times                                           |           |
+| From Middlesbrough, Yorkshire and                                                                                      | 30                                                  |           |
+| stations south thereof (LNER)                                                                                          |                                                     |           |
+| From Newcastle, Sunderland (LNER)                                                                                      | 35                                                  |           |
+| and Berwick-upon-Tweed                                                                                                 |                                                     |           |
+| From Scotland (LNER)                                                                                                   | 40                                                  |           |

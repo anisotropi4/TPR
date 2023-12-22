@@ -1,0 +1,52 @@
+|                                                           |      |       |      |                                                |
+|:----------------------------------------------------------|:-----|:------|:-----|:-----------------------------------------------|
+| EA1450 TRIMLEY TO FELIXSTOWE NORTH AND CENTRAL TERMINALS  |      |       |      |                                                |
+| TIMING POINT                                              | DOWN | UP    | CODE | NOTES                                          |
+| Trimley                                                   | -    | FS TL |      | To/from Westerfield Junction – EA1440.         |
+|                                                           |      |       |      | Network Rail Boundary at 00m 73ch              |
+| North Quay Branch Signal                                  | -    |       |      | Tiploc – FLXSNQ2                               |
+| NQ2                                                       |      |       |      |                                                |
+| North Quay Branch Signal                                  |      | -     |      | Tiploc – FLXS074                               |
+| FW9074                                                    |      |       |      |                                                |
+| North Quay Branch Signal                                  | -    | -     |      | Tiploc – FLXSNQ4                               |
+| NQ4                                                       |      |       |      |                                                |
+| Oysterbed Road Sidings                                    | -    | -     |      | Tiploc - FLXSOYS                               |
+|                                                           |      |       |      | Arriving trains to be shown with arrival and   |
+|                                                           |      |       |      | departure times for North Terminal acceptance  |
+|                                                           |      |       |      | purposes. Departing trains from North Terminal |
+|                                                           |      |       |      | can be timed to pass or be shown with arrival  |
+|                                                           |      |       |      | and departure times subject to inbound         |
+|                                                           |      |       |      | workings                                       |
+| Felixstowe New North                                      | -    | -     |      | Tiplocs -                                      |
+| Terminal                                                  |      |       |      | FLXSNEW (Felixstowe North DBC)                 |
+|                                                           |      |       |      | FLXSNFL (Felixstowe North FLT)                 |
+|                                                           |      |       |      | FLXSNGB (Felixstowe North GBRF)                |
+| Felixstowe Central                                        | -    | -     |      | Tiplocs -                                      |
+| Terminal (former North)                                   |      |       |      | FLXSCDB (Felixstowe Central DBC)               |
+|                                                           |      |       |      | FLXSCFL (Felixstowe Central FLT)               |
+|                                                           |      |       |      | FLXSCGB (Felixstowe Central GBRF)              |
+| EA1460 FELIXSTOWE BEACH JUNCTION TO FELIXSTOWE BEACH      |      |       |      |                                                |
+| TIMING POINT                                              | DOWN | UP    | CODE | NOTES                                          |
+| Felixstowe Beach Junction                                 | -    | -     |      | To/from Westerfield Junction – EA1440          |
+| Felixstowe Beach                                          | -    | -     |      |                                                |
+| Felixstowe Creek R.S.                                     | -    | -     |      | Network Rail Boundary                          |
+| Felixstowe South Quay                                     | -    | -     |      | Tiplocs -                                      |
+| Freightliner Terminal                                     |      |       |      | FLXSSEW (Felixstowe South DBC)                 |
+|                                                           |      |       |      | FLXSSGB (Felixstowe South GBRF)                |
+|                                                           |      |       |      | FLXSSRT (Felixstowe South FL)                  |
+| EA1470 NORWICH THORPE JUNCTION AND TROWSE SWING BRIDGE TO |      |       |      |                                                |
+| LOWESTOFT                                                 |      |       |      |                                                |
+| TIMING POINT                                              | DOWN | UP    | CODE | NOTES                                          |
+| Trowse Swing Bridge                                       | -    | -     |      | To/from Wensum Junction via Through Siding     |
+|                                                           |      |       |      | To/from Trowse Junction – EA1013               |
+| Norwich Thorpe Junction                                   | -    |       |      | See Route EA1013 for Line codes to be used     |
+|                                                           |      |       |      | towards Norwich station                        |
+|                                                           |      |       |      | To/from Norwich – EA1013                       |
+| Crown Point Depot                                         | -    | -     | S    |                                                |
+| Crown Point Reception Road                                | -    | -     | S    |                                                |
+| Crown Point Signal CP1494                                 |      | -     | S    |                                                |
+| Wensum Junction                                           |      |       |      | To/from Trowse Swing Bridge via Through        |
+|                                                           |      |       |      | Siding                                         |
+| Crown Point Signal CP1498                                 |      | -     | S    |                                                |
+| Whitlingham Junction                                      | -    | -     |      | To/from Cromer – EA1480                        |
+| Brundall Gardens                                          | -    | -     | S    |                                                |

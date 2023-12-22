@@ -1,0 +1,39 @@
+|                                                                                                            |                                |        |
+|:-----------------------------------------------------------------------------------------------------------|:-------------------------------|:-------|
+| Grove Park Down Sidings, Carriage Service Shed and Up Sidings                                              |                                |        |
+| Berthing Facilities                                                                                        |                                |        |
+| Location                                                                                                   | Cars                           | Notes  |
+| ECS Allowances                                                                                             | Margin                         |        |
+| The following minimum times between successive arrivals and departures apply:                              |                                |        |
+| Carriage Service Shed (CSD)                                                                                | 5                              |        |
+| Carriage Service Shed (CSD) via carriage washer                                                            | 5                              |        |
+| Down Carriage Holding Sidings (CHS) at same end                                                            | 5                              |        |
+| Up Carriage Holding Sidings (CHS) to/from Hither                                                           | 8                              |        |
+| Green direction                                                                                            |                                |        |
+| Up Carriage Holding Sidings (CHS) to/from Grove Park                                                       | 5                              |        |
+| direction                                                                                                  |                                |        |
+| NOTE: As many movements as possible to/from the Carriage Service Shed (CSD) are to be via the carriage     |                                |        |
+| washer, whilst taking into consideration pathing and train crew constraints.                               |                                |        |
+| Grove Park                                                                                                 |                                |        |
+| Dwell Time                                                                                                 |                                |        |
+| All services                                                                                               | 1                              |        |
+| Connectional Allowance                                                                                     | 4                              |        |
+| Chislehurst                                                                                                |                                |        |
+| Adjustments to Sectional Running Times                                                                     |                                |        |
+| Movement Down                                                                                              | Reason                         | Value  |
+| Down Fast train to Reversible Chatham Loop                                                                 | Speed Differential             | 11⁄2   |
+| Movement Up                                                                                                | Reason                         | Value  |
+| Applies to the following Timing Loads on the Up Fast line or Up Slow Line which have travelled from the Up |                                |        |
+| Chatham Loop and the Reversible Chatham Loop:                                                              |                                |        |
+| Class 4 less than 600 tonnes                                                                               | Speed Differential             | 1⁄2*   |
+| Class 4 between 600 and 1000T inclusive                                                                    | Speed Differential             | 1*     |
+| Class 4 over 1000T                                                                                         | Speed Differential             | 11⁄2*  |
+| Class 6                                                                                                    | Speed Differential             | 1⁄2*   |
+| * allowance to be applied at the next timing point                                                         |                                |        |
+| Overlap Restrictions                                                                                       |                                |        |
+| First Movement                                                                                             | Second Movement                | Margin |
+| Down Fast train to Reversible Chatham Loop                                                                 | Down train arrive on Down Slow | 21⁄2   |
+| Down Fast train to Reversible Chatham Loop                                                                 | Down train pass on Down Slow   | 3      |
+| Planning Note                                                                                              |                                |        |
+| Trains crossing from Down Slow to Down Fast via points 1009/1010 between Chislehurst and Petts Wood        |                                |        |
+| Junction must show line code FL at Chislehurst for ARS to operate correctly.                               |                                |        |

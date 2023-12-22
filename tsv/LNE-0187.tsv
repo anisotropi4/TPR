@@ -1,0 +1,39 @@
+|                                             |                                  |           |
+|:--------------------------------------------|:---------------------------------|:----------|
+| Morpeth                                     |                                  |           |
+| Dwell Time                                  |                                  |           |
+| DMU                                         | 1                                |           |
+| Adjustments to Sectional Running Times      |                                  |           |
+| Movement Down                               | Reason                           | Value     |
+| Junction Margins                            |                                  |           |
+| First Movement                              | Second Movement                  | Margin    |
+| Passenger arrive Down Loop (Morpeth North   | Pass Morpeth Down Main           | 11⁄2      |
+| Jn)                                         |                                  |           |
+| LH Freight arrive Down Loop (Morpeth North  | Pass Morpeth Down Main           | 31⁄2      |
+| Jn)                                         |                                  |           |
+| Down terminating train to Branch            | Down/Up non–stop pass            | 5         |
+| Down Freight pass to Branch                 | Down/Up non–stop pass            | 6         |
+| Up Passenger pass Morpeth                   | Arrive from reversing siding     | 3         |
+| Up Passenger arrive Up Loop                 | Up non–stop pass                 | 6         |
+| Up Freight arrive Up Loop                   | Up non–stop pass                 | 7         |
+| Pass from Branch                            | Pass to Branch                   | 4         |
+| Minimum Turnround                           | 10 Shunt via sidings             |           |
+| Morpeth North Junction                      |                                  |           |
+| Junction Margins                            |                                  |           |
+| First Movement                              | Second Movement                  | Margin    |
+| Depart pass from Branch                     | Up pass Morpeth                  | 6         |
+| Pass to Branch                              | Up pass Morpeth                  | 7         |
+| Pass from Branch                            | Up pass Morpeth                  | 4         |
+| Down Passenger pass Morpeth                 | Depart Down Loop                 | 2         |
+| Up train pass Morpeth                       | Depart from Branch               | 1         |
+| Down Passenger pass Morpeth                 | Depart from Branch               | 2         |
+| Pegswood                                    |                                  |           |
+| Dwell Time                                  |                                  |           |
+| DMU                                         | 1⁄2                              |           |
+| Butterwell Junction                         |                                  |           |
+| Junction Margins                            |                                  |           |
+| First Movement                              | Second Movement                  | Margin    |
+| Up Passenger train passes Alnmouth          | Pass to branch (before Up train) | 5         |
+| Up Freight train passes Alnmouth            | Pass to Branch (before Up train) | 9         |
+| Up train passes/arrives Morpeth/Morpeth UPL | Depart/Pass Down Main to Branch  | Same time |
+| (or Morpeth North if going to Blyth & Tyne) |                                  |           |

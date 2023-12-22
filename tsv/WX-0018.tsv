@@ -1,0 +1,37 @@
+|                                                          |         |         |      |                                             |
+|:---------------------------------------------------------|:--------|:--------|:-----|:--------------------------------------------|
+| SW100B NINE ELMS JUNCTION TO LINFORD STREET JUNCTION     |         |         |      |                                             |
+| TIMING POINT                                             | DOWN    | UP      | CODE | NOTES                                       |
+| Nine Elms Junction                                       | -       | WL  RVL |      | To/from Vauxhall - SW100                    |
+| Linford Street Junction                                  | -       | -       | X    | Timing point for services to/from Nine Elms |
+|                                                          |         |         |      | Junction only.                              |
+|                                                          |         |         |      | To/from Factory Junction - SO110            |
+| SW100C WEST LONDON JUNCTION TO LATCHMERE JUNCTION (NO 3) |         |         |      |                                             |
+| TIMING POINT                                             | DOWN    | UP      | CODE | NOTES                                       |
+| West London Junction                                     | -       | WL  RVL |      | To/from Nine Elms Junction - SW100          |
+| (Windsor Side)                                           |         |         |      |                                             |
+| Latchmere Junction (No 3)                                | -       | -       |      | For planning purposes, timing point shown   |
+|                                                          |         |         |      | as Latchmere Junction.                      |
+|                                                          |         |         |      | To/from West Brompton - SO250               |
+| SW100D CLAPHAM JUNCTION TO LONGHEDGE JUNCTION            |         |         |      |                                             |
+| TIMING POINT                                             | DOWN    | UP      | CODE | NOTES                                       |
+| Clapham Junction                                         | -       | FL  SL  |      | Platform detail must be shown.              |
+| (Windsor Side)                                           |         |         |      | To/from Wandsworth Town - SW210             |
+| Longhedge Junction                                       | -       | -       |      | To/from Factory Junction - SO250.           |
+|                                                          |         |         |      | To/from Stewarts Lane Junction - SO 250B    |
+| SW100E CLAPHAM JUNCTION TO LATCHMERE JUNCTION (NO 2)     |         |         |      |                                             |
+| TIMING POINT                                             | DOWN    | UP      | CODE | NOTES                                       |
+| Clapham Junction                                         | -       | FL  SL  |      | Platform detail must be shown.              |
+| (Windsor Side)                                           | DLC     |         |      | To/from Wandsworth Town - SW210             |
+|                                                          | ULC     |         |      |                                             |
+| Latchmere Junction (No 2)                                | -       | ULC     |      | For planning purposes timing point shown    |
+|                                                          |         | DLC     |      | as Latchmere Junction                       |
+|                                                          |         |         |      | To/from West Brompton - SO250               |
+| SW105 CLAPHAM JUNCTION TO WEYMOUTH                       |         |         |      |                                             |
+| TIMING POINT                                             | DOWN    | UP      | CODE | NOTES                                       |
+| Clapham Junction                                         | FL  SL  | MFL     |      | Platform detail must be shown.              |
+| (Main Line)                                              |         | MSL     |      | To/from Vauxhall - SW100                    |
+| Earlsfield                                               | FL  SL  | SL      | S    |                                             |
+| Durnsford Road Staff Halt                                |         | FL  SL  | S  X | Up trains only                              |
+| Wimbledon Park C.S.D.                                    | FL  UFL | FL  SL  | S    | ECS moves only                              |
+|                                                          | USL     |         |      |                                             |

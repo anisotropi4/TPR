@@ -1,0 +1,51 @@
+|                                                       |       |       |      |                                             |
+|:------------------------------------------------------|:------|:------|:-----|:--------------------------------------------|
+| GW440 YATE SOUTH JUNCTION TO WESTERLEIGH              |       |       |      |                                             |
+| TIMING POINT                                          | DOWN  | UP    | CODE | NOTES                                       |
+| Westerleigh Refuse Terminal                           | –     |       | S    |                                             |
+| GW450 STOKE GIFFORD JUNCTION TO BRISTOL EAST JUNCTION |       |       |      |                                             |
+| TIMING POINT                                          | DOWN  | UP    | CODE | NOTES                                       |
+| Stoke Gifford Junction                                |       |       |      | To/from Bristol Parkway – GW600             |
+| Stoke Gifford Depot                                   | –     |       |      | Primary Entrance                            |
+| Filton Junction                                       | –     | –     |      | To/from Patchway – GW540                    |
+| Filton Abbey Wood                                     | ML RL | UF DF |      | Platform detail must be shown.              |
+| Horfield Junction                                     | ML RL | ML RL |      | Trains to Up Bristol Loop line must run via |
+|                                                       |       |       |      | Down Filton Relief line.                    |
+| Ashley Down                                           | RL    | RL    | S    |                                             |
+| Narroways Hill Junction                               | RL    | RL    |      | To/from Clifton Down – GW454 To/ From       |
+|                                                       |       |       |      | Relief Lines Only. Timing point for trains  |
+|                                                       |       |       |      | on RL only.                                 |
+| Stapleton Road                                        | –     | –     | S    | Platform detail must be shown.              |
+|                                                       | RL    | RL    |      |                                             |
+| Lawrence Hill                                         | –     | –     | S    | Platform detail must be shown.              |
+|                                                       | RL    | RL    |      |                                             |
+| Lawrence Hill GF                                      | –     | –     | S    |                                             |
+| Barrow Road RTS                                       |       | –     | S    |                                             |
+| Dr. Days Junction                                     | DF DR | ML RL |      | To/from North Somerset Jn – GW530           |
+|                                                       |       |       |      | *trains to North Somerset Jn or Bristol     |
+|                                                       |       |       |      | Barton Hill WRD                             |
+|                                                       |       |       |      |                                             |
+|                                                       |       |       |      | Trains to Up Bristol Loop line must run via |
+|                                                       |       |       |      | Down Filton Relief line.                    |
+| Bristol Barton Hill WRD                               | –     | –     | S    |                                             |
+| Bristol Signal BL1820                                 | –     |       |      | Tiploc BRST820 – Maximum 5 car              |
+|                                                       |       |       |      | turnback                                    |
+|                                                       |       |       |      | Trains from Bristol Signal BL1820 must not  |
+|                                                       |       |       |      | be timed at Bristol East Junction due to    |
+|                                                       |       |       |      | ARS requirements                            |
+| Bristol East Junction                                 | DM DF | UF UR |      | To/from Bristol Temple Meads – GW105        |
+|                                                       | UM UF |       |      |                                             |
+|                                                       | UR DR |       |      | The line code from Bristol East Jn to       |
+|                                                       |       |       |      | Bristol TM refers to the line when passing  |
+|                                                       |       |       |      | the East Gantry except for moves from       |
+|                                                       |       |       |      | Down Filton Main to P11/12 which should     |
+|                                                       |       |       |      | show DF if routed via 7117pts (preferred)   |
+|                                                       |       |       |      | or UM if routed via 7110pts reversed and    |
+|                                                       |       |       |      | 7119pts reversed (non-preferred.)           |
+| he line code from Bristol East Jn to                  |       |       |      |                                             |
+| ristol TM refers to the line when passing             |       |       |      |                                             |
+| he East Gantry except for moves from                  |       |       |      |                                             |
+| own Filton Main to P11/12 which should                |       |       |      |                                             |
+| how DF if routed via 7117pts (preferred               |       |       |      |                                             |
+| r UM if routed via 7110pts reversed and               |       |       |      |                                             |
+| 119pts reversed (non-preferred.)                      |       |       |      |                                             |

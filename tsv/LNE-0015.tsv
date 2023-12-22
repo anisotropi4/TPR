@@ -1,0 +1,51 @@
+|         |                                                                            |                                               |
+|:--------|:---------------------------------------------------------------------------|:----------------------------------------------|
+|         |                                                                            | Newcastle – Reading                           |
+|         | 1Wxx                                                                       | London Kings Cross – Aberdeen                 |
+|         |                                                                            | London Kings Cross – Inverness                |
+|         |                                                                            | London Kings Cross - Stirling                 |
+|         |                                                                            | Leeds – Aberdeen                              |
+|         |                                                                            | Sheffield – Hull – Bridlington via Goole      |
+|         | 1Xxx                                                                       | Not used                                      |
+|         | 1Yxx                                                                       | York (starters) – London Kings Cross          |
+|         |                                                                            | Newcastle (starters) – London Kings Cross     |
+|         |                                                                            | Sunderland – London Kings Cross via Newcastle |
+|         |                                                                            | Middlesbrough – London Kings Cross            |
+|         |                                                                            | Berwick Upon Tweed – London Kings Cross       |
+|         |                                                                            | Leeds – Barnsley – Sheffield – Nottingham     |
+|         |                                                                            | Nottingam – Sheffield – Barnsley - Leeds      |
+|         | 1Zxx                                                                       | Not to be used in the WTT                     |
+| TID     | Great Northern / Thameslink Suburban Class 2 services (WTT)                |                                               |
+| 2B01-79 | Hertford North to Moorgate                                                 |                                               |
+| 2B00-78 | Moorgate or King’s Cross to Hertford North                                 |                                               |
+| 2B81-97 | Hertford North to Moorgate via SL2                                         |                                               |
+| 2B80-96 | Moorgate or King’s Cross to Hertford North via SL2                         |                                               |
+| 2Cxx    | King’s Cross to Cambridge stopping services                                |                                               |
+|         | Cambridge to King’s Cross stopping services                                |                                               |
+| 2Dxx    | Stevenage, Hertford North or Gordon Hill to King’s Cross (odd)             |                                               |
+|         | Moorgate or King’s Cross to Stevenage Platform 4 via Hertford North (even) |                                               |
+| 2F01-79 | Stevenage to Moorgate via Hertford North                                   |                                               |
+| 2F00-78 | Moorgate or King’s Cross to Stevenage Bay via Hertford North               |                                               |
+| 2F81-99 | Stevenage to Moorgate via Hertford North and SL2                           |                                               |
+| 2F80-98 | Moorgate or King’s Cross to Stevenage via SL2 and Hertford North           |                                               |
+| 2G01-79 | Gordon Hill to Moorgate                                                    |                                               |
+| 2G00-78 | Moorgate or King’s Cross to Gordon Hill                                    |                                               |
+| 2G81-99 | Gordon Hill to Moorgate via SL2                                            |                                               |
+| 2G80-98 | Moorgate or King’s Cross to Gordon Hill via SL2                            |                                               |
+| 2K01-97 | Welwyn GC to Moorgate via SL2                                              |                                               |
+| 2K00-96 | Moorgate to Welwyn GC via SL2                                              |                                               |
+| 2K98-99 | Moorgate staff trains                                                      |                                               |
+| 2Lxx    | King’s Cross to Letchworth stopping services via Welwyn Garden City        |                                               |
+| 2Pxx    | Peterborough to King’s Cross stopping services                             |                                               |
+|         | King’s Cross to Peterborough stopping services                             |                                               |
+| 2R01-97 | Royston, Baldock or Letchworth to King’s Cross stopping services           |                                               |
+| 2R00-78 | King’s Cross to Royston stopping services via Welwyn Garden City           |                                               |
+| 2R80-96 | King’s Cross to Baldock stopping services via Welwyn Garden City           |                                               |
+| 2V01-99 | Welwyn GC to Moorgate                                                      |                                               |
+| 2V00-98 | Moorgate to Welwyn GC                                                      |                                               |
+| 2W01-79 | Alexandra Palace or Finsbury Park to Moorgate or King’s Cross              |                                               |
+| 2W00-78 | Moorgate or King’s Cross to Finsbury Park or Alexandra Palace              |                                               |
+| 2W81-99 | Alexandra Palace to Moorgate or King’s Cross via SL2                       |                                               |
+| 2W80-98 | Moorgate or King’s Cross to Alexandra Palace via SL2                       |                                               |
+| 2Yxx    | Welwyn GC to King’s Cross (includes Thameslink services)                   |                                               |
+|         | King’s Cross to Welwyn GC (includes Thameslink services)                   |                                               |

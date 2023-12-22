@@ -1,0 +1,31 @@
+|                                                                                                 |                          |                     |        |
+|:------------------------------------------------------------------------------------------------|:-------------------------|:--------------------|:-------|
+| GW600 WOOTTON BASSETT JUNCTION TO PILNING                                                       |                          |                     |        |
+| Wootton Bassett Junction                                                                        |                          |                     |        |
+| Adjustment to Sectional Running Times (show approaching this location)                          |                          |                     |        |
+| Movement                                                                                        | Reason                   | Timing Load         | Value  |
+| Crossing into Wootton Bassett Up Goods                                                          | Slow turnout speed into  | All traffic (Except | +{2}   |
+| Loop from the up main                                                                           | the loop (20mph)         | Class 66)           |        |
+| Hullavington Up and Down Goods Loops                                                            |                          |                     |        |
+| Adjustment to Sectional Running Times (show approaching this location)                          |                          |                     |        |
+| Movement                                                                                        | Reason                   | Timing Load         | Value  |
+| Crossing into the goods loops                                                                   | Slow turnout into loops  | All traffic (Except | +{2}   |
+|                                                                                                 | (20mph)                  | Class 66)           |        |
+| Chipping Sodbury Up and Down Goods Loops                                                        |                          |                     |        |
+| Adjustment to Sectional Running Times (show approaching this location)                          |                          |                     |        |
+| Movement                                                                                        | Reason                   | Timing Load         | Value  |
+| Crossing into the goods loops                                                                   | Slow crossing move into  | All traffic (Except | +{2}   |
+|                                                                                                 | loops (20 mph)           | Class 66)           |        |
+| Westerleigh Junction                                                                            |                          |                     |        |
+| Adjustment to Sectional Running Time (to be shown approaching this location)                    |                          |                     |        |
+| Movement                                                                                        | Reason                   | Timing Load         | Value  |
+| From Bristol Parkway platform 1 or platform 2                                                   | Slow turn out at Bristol | HST/22x/80x/387     | +{1⁄2} |
+|                                                                                                 | Parkway                  |                     |        |
+| From Bristol Parkway platform 4 or Up                                                           | Slow turn out at Bristol | HST/22X/80x/387     | +{1⁄2} |
+| Passenger Loop Start to Pass                                                                    | Parkway                  |                     |        |
+| From Bristol Parkway to Yate                                                                    | Slow speed at            | HST/22X80x          | +{1⁄2} |
+|                                                                                                 | Westerleigh Junction     |                     |        |
+| Planning Note                                                                                   |                          |                     |        |
+| 150, 158 and HSTGW4 SRTs are based on running to/from Yate therefore no adjustment is required. |                          |                     |        |
+| Junction Margins (Westbound trains)                                                             |                          |                     |        |
+| First Movement                                                                                  | Second Movement          | Margin              | Notes  |

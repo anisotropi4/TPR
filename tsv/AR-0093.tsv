@@ -1,0 +1,41 @@
+|                                                                                                              |                                                                 |             |
+|:-------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------|:------------|
+| Chelmsford                                                                                                   |                                                                 |             |
+| Connectional Allowance                                                                                       | 3                                                               |             |
+| Dwell Time                                                                                                   | 1                                                               |             |
+|                                                                                                              | 2 AM peak: ECS to passenger train starting from Platform 2      |             |
+| Junction Margins                                                                                             |                                                                 |             |
+| First Move                                                                                                   | Second Move                                                     | Margin      |
+| Down train pass/depart Platform 2 towards                                                                    | Up train pass/arrive Platform 2 from                            | 3           |
+| Witham                                                                                                       | Chelmsford DPL                                                  |             |
+| Up passenger/ECS train pass Platform 1                                                                       | Up train depart Platform 2 towards UML                          | 2           |
+| Up train pass/depart Platform 2 towards UML                                                                  | Down train pass/arrive Platform 2 from DML                      | 3           |
+| Splitting and Coupling of trains permitted                                                                   | Detaching of trains is permitted in platforms 1, 2 and Down     |             |
+|                                                                                                              | Passenger Loop for ECS only. Attaching is not permitted.        |             |
+| Witham                                                                                                       |                                                                 |             |
+| Adjustments to Sectional Running Times                                                                       |                                                                 |             |
+| Movement                                                                                                     | Reason                                                          | Value       |
+| Approaching Up direction moves to Platform 1                                                                 | Via slow speed crossover                                        | {1}         |
+| not timed at Passenger Loop                                                                                  |                                                                 |             |
+| Approaching Down Direction moves to                                                                          | Via slow speed crossovers                                       | {1⁄2}       |
+| Platforms 1 & 4                                                                                              |                                                                 |             |
+| Up passenger trains departing Platforms 1, 3 &                                                               | Via slow speed crossover                                        | {1⁄2}       |
+| 4 (not required for freight trains which include                                                             |                                                                 | approaching |
+| this allowance in the SRT)                                                                                   |                                                                 | next timing |
+|                                                                                                              |                                                                 | point       |
+| Connectional Allowance                                                                                       | 2                                                               |             |
+| Dwell Time                                                                                                   | 1 Peak time only                                                |             |
+|                                                                                                              | 1 Class 745/755 operated services                               |             |
+| Junction Margins                                                                                             |                                                                 |             |
+| First Movement                                                                                               | Second Movement                                                 | Margin      |
+| Down train pass/arrive Platform 3                                                                            | Up train depart Platform 4                                      | 1           |
+| Up train depart Platform 4                                                                                   | Down train pass/arrive                                          | 3           |
+| Down train arrives Platform 1 or 4                                                                           | Down passenger/ECS train pass Platform 3                        | 2           |
+| Converging Margins                                                                                           |                                                                 |             |
+| First Movement                                                                                               | Second Movement                                                 | Margin      |
+| Up passenger/ECS train pass Platform 2                                                                       | Up train depart Platform 1, 3 or 4                              | 2           |
+| Up passenger/ECS train depart Platform 2                                                                     | Up freight train depart Platform 1                              | 2           |
+| Overlap Restriction                                                                                          |                                                                 |             |
+| It is not possible for an Up train to arrive in Platform 2 simultaneous with an Up departure from Platform 4 |                                                                 |             |
+| Splitting and Coupling of trains permitted                                                                   | Attaching and Detaching permitted in platforms 1 and 4 only for |             |
+|                                                                                                              | class 1, 2, 3 ECS, 5 ECS, 9 and 0                               |             |

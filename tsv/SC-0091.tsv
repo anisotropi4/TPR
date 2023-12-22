@@ -1,0 +1,40 @@
+|                                                                                                               |                                               |           |
+|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------|:----------|
+| Uddingston / Uddingston Junction                                                                              |                                               |           |
+| Adjustments to Sectional Running Times                                                                        |                                               |           |
+| Movement Up                                                                                                   | Reason                                        | Value     |
+| Up Trains calling at both Uddingston and                                                                      | Acceleration to line speed.                   | 1⁄2 158   |
+| Bellshill approaching Bellshill                                                                               |                                               | 1 150/156 |
+| Junction Margins                                                                                              |                                               |           |
+| First Movement                                                                                                | Second Movement                               | Margin    |
+| Pass Uddingston Junction from Holytown                                                                        | Depart to Motherwell                          | 1         |
+| Pass Uddingston Junction from Holytown                                                                        | Pass to Motherwell                            | 3         |
+| Pass/depart to Motherwell                                                                                     | Pass from Down Holytown (calling Bellshill)   | 3         |
+| Pass/depart to Motherwell                                                                                     | MU pass from Holytown (not calling Bellshill) | 3         |
+| Pass/depart to Motherwell                                                                                     | LH pass from Holytown (not calling Bellshill) | 4         |
+| Restriction                                                                                                   |                                               |           |
+| Whilst a train is in transit between Uddingston Junction and Viewpark Sidings, a second train cannot be timed |                                               |           |
+| towards Mossend West until 1 minute after the first train has come to a stand in Viewpark Sidings.            |                                               |           |
+| Platform Re-occupation                                                                                        |                                               |           |
+| First Movement                                                                                                | Second Movement                               | Margin    |
+| Up depart to Bellshill                                                                                        | Up arrive                                     | 3         |
+| Restriction                                                                                                   |                                               |           |
+| Pathing time must not be used between Uddingston Junction & Uddingston, owing to signaling constraints.       |                                               |           |
+| Newton East Junction                                                                                          |                                               |           |
+| Junction Margins                                                                                              |                                               |           |
+| First Movement                                                                                                | Second Movement                               | Margin    |
+| Pass Down Main                                                                                                | Depart South Connecting Line                  | 1         |
+| Pass Down Main                                                                                                | Depart Newton to Uddingston                   | 1         |
+| Up pass/depart from South Connecting Line                                                                     | Depart Uddingston                             | 1         |
+| Up pass/depart from South Connecting Line                                                                     | Pass from Uddingston (not calling Uddingston) | 3         |
+| Restriction                                                                                                   |                                               |           |
+| Down trains cannot stand on South Connecting Line, except when reversing from Newton Station.                 |                                               |           |
+| No pathing time or other allowances to be inserted between Newton East Junction and Newton in Down direction. |                                               |           |
+| Newton                                                                                                        |                                               |           |
+| Refer to SC023                                                                                                |                                               |           |
+| Newton West Junction                                                                                          |                                               |           |
+| Junction Margins                                                                                              |                                               |           |
+| First Movement                                                                                                | Second Movement                               | Margin    |
+| Pass Down Main                                                                                                | Pass to Newton                                | 2         |
+| Pass to Newton                                                                                                | Pass Down Main                                | 21⁄2      |
+| Pass Down Main                                                                                                | Depart to Newton                              | 1         |

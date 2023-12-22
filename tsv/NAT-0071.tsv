@@ -1,0 +1,40 @@
+|      |       |      |            |                        |                        |
+|:-----|:------|:-----|:-----------|:-----------------------|:-----------------------|
+| Type | Days  | TID  | Start Time | Origin                 | Destination            |
+| RHTT | SX    | 3S31 | 18:15      | Gloucester Horton Rd   | Gloucester Horton Rd   |
+| RHTT | SU    | 3S31 | 13:11      | Gloucester Horton Rd   | Worcester Shrub Hill   |
+| RHTT | FO    | 3S32 | 22:37      | Gloucester Horton Rd   | Cheltenham Lansdown    |
+|      |       |      |            |                        | Loop                   |
+| RHTT | FSX   | 3S32 | 22:37      | Gloucester Horton Rd   | Cheltenham Lansdown    |
+|      |       |      |            |                        | Loop                   |
+| RHTT | MO    | 3S32 | 00:31      | Worcester Shrub Hill   | Didcot Parkway         |
+| RHTT | SO    | 3S33 | 10:49      | Cheltenham Lansdown    | Gloucester Horton Rd   |
+|      |       |      |            | Loop                   |                        |
+| RHTT | MSX   | 3S33 | 11:08      | Cheltenham Lansdown    | Gloucester Horton Rd   |
+|      |       |      |            | Loop                   |                        |
+| RHTT | MO    | 3S33 | 05:23      | Didcot Parkway         | Gloucester Horton Rd   |
+| RHTT | FO    | 3S59 | 19:42      | Bristol Kingsland Road | Bristol Kingsland Road |
+| RHTT | MWTho | 3S59 | 19:42      | Bristol Kingsland Road | Bristol Kingsland Road |
+| RHTT | SU    | 3S59 | 14:41      | Bristol Kingsland Road | Bristol Kingsland Road |
+| RHTT | TO    | 3S59 | 19:42      | Bristol Kingsland Road | Bristol Kingsland Road |
+| RHTT | TO    | 3S61 | 18:54      | Margam T.C.            | Margam T.C.            |
+| RHTT | FO    | 3S61 | 18:54      | Margam T.C.            | Margam T.C.            |
+| RHTT | MWO   | 3S61 | 18:54      | Margam T.C.            | Margam T.C.            |
+| RHTT | ThO   | 3S61 | 18:54      | Margam T.C.            | Margam T.C.            |
+| RHTT | SU    | 3S61 | 16:50      | Margam T.C.            | Margam T.C.            |
+|      |       |      | 17:23      |                        |                        |
+| RHTT | SO    | 3S62 | 01:43      | Margam T.C.            | Margam T.C.            |
+| RHTT | WO    | 3S62 | 01:43      | Margam T.C.            | Margam T.C.            |
+|      |       |      | 01:23      |                        |                        |
+| RHTT | TThO  | 3S62 | 01:43      | Margam T.C.            | Margam T.C.            |
+|      |       |      | 01:23      |                        |                        |
+| RHTT | FO    | 3S62 | 01:43      | Margam T.C.            | Margam T.C.            |
+|      |       |      | 01:38      |                        |                        |
+| RHTT | FO    | 3S71 | 21:20      | Shrewsbury Coleman     | Shrewsbury Coleman     |
+|      |       |      | 21:13      | SS                     | SS                     |
+| RHTT | MO    | 3S71 | 21:20      | Shrewsbury Coleman     | Shrewsbury Coleman     |
+|      |       |      | 21:13      | SS                     | SS                     |
+| RHTT | TWThO | 3S71 | 21:20      | Shrewsbury Coleman     | Shrewsbury Coleman     |
+|      |       |      | 21:13      | SS                     | SS                     |
+| RHTT | SU    | 3S71 | 19:43      | Shrewsbury Coleman     | Shrewsbury Coleman     |
+|      |       |      | 19:36      | SS                     | SS                     |

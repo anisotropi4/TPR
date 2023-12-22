@@ -1,0 +1,45 @@
+|                                                   |                                                 |              |
+|:--------------------------------------------------|:------------------------------------------------|:-------------|
+| Collingtree Road Jn                               |                                                 |              |
+| Junction Margins                                  |                                                 |              |
+| First Movement                                    | Second Movement                                 | Margin       |
+| Pass Courteenhall Jn to Northampton               | Pass from Northampton Gateway to                | 5            |
+|                                                   | Northampton                                     |              |
+| Pass from Northampton Gateway to                  | Pass Courteenhall Jn to Hanslope Jn             | 5 Passenger/ |
+| Northampton                                       |                                                 | 6 Freight    |
+| Northampton                                       |                                                 |              |
+| Adjustments to Sectional Running Times            |                                                 |              |
+| Movement Down                                     | Reason                                          | Value        |
+| Arrive/pass platform 1                            | Approach control on signal RY1015               | 1            |
+| Movement Up                                       | Reason                                          | Value        |
+| Up Northampton Fast to platforms 3, 4 or 5        | Approach control on signal RY1036               | 1            |
+| Up and Down Slow to platforms 4 or 5              | Approach control on signal RY1038               | 1            |
+| Attachment/Detachment                             | 9 for Class 350                                 |              |
+| Dwell Time                                        |                                                 |              |
+| Standard                                          | 1                                               |              |
+| Class 22x/390/80x                                 | 11⁄2                                            |              |
+| West Midlands Trains                              | 1 (11⁄2 if crew change booked)                  |              |
+| Junction Margins and Platform Reoccupation        |                                                 |              |
+| First Movement                                    | Second Movement                                 | Margin       |
+| Depart platforms 1, 4 or 5 to the Up & Down       | Arrive UML, platforms 2, 3 or Riverside Sidings | Parallel     |
+| Slow                                              | from Up Northampton Fast, Down Goods            |              |
+|                                                   | Loop, Kings Heath Traincare Depot               |              |
+| Arrive UML, platform 1, 4 or 5 from Up            | Arrive platform 2, 3 or Riverside Siding from   | Parallel     |
+| Northampton Fast, or Up and Down Slow             | Down Goods Loop or Kings Heath Traincare        |              |
+|                                                   | Depot                                           |              |
+| Depart platforms 1, 4 or 5 to the Down            | Arrive Northampton via Up Northampton Fast      | 41⁄2         |
+| Northampton Fast, Down Goods Loop or Kings        |                                                 |              |
+| Heath Traincare Depot                             |                                                 |              |
+| Depart platforms 2, 3 or Riverside Sidings to the | Arrive Northampton via Up Northampton Fast      | 6            |
+| Up & Down Slow                                    |                                                 |              |
+| Depart platforms 2, 3 or Riverside Sidings        | Arrive platform 2, 3 or Riverside Siding via Up | 5            |
+| towards Long Buckby via Down Northampton          | Northampton Fast, Up and Down Slow or Up        |              |
+| Fast                                              | Reception                                       |              |
+| Depart platforms 2, 3 or Riverside Sidings        | Arrive platforms 2, 3 or Riverside Sidings from | 6            |
+| towards Long Buckby via Down Northampton          | Down Goods Loop or Kings Heath Traincare        |              |
+| Fast                                              | Depot                                           |              |
+| Down train arrives platforms 2 or 3               | Down train departs from Riverside Sidings or    | 1            |
+|                                                   | platforms 2 or 3                                |              |
+| Down train arrives into platform 2                | Up train arrives into platform 3                | 3            |
+| Down train departs from platforms 2, 3 or         | Down train arrives in either platforms 2 or 3   | 4            |
+| Riverside Sidings                                 |                                                 |              |

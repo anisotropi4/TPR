@@ -1,0 +1,48 @@
+|                                                                                                                |                        |                             |                            |
+|:---------------------------------------------------------------------------------------------------------------|:-----------------------|:----------------------------|:---------------------------|
+| Shunt move from E619                                                                                           | Conflicting down train | 4                           |                            |
+| signal arrives Taunton                                                                                         | passes Taunton         |                             |                            |
+| platform 2 or 3                                                                                                |                        |                             |                            |
+| Shunt move from E619                                                                                           | Down train arrives     | 3                           | Shunt move should arrive   |
+| signal arrives Taunton                                                                                         | Taunton platform 3     |                             | platform 3 and down train  |
+| platform 2                                                                                                     |                        |                             | use platform 2 if possible |
+| Fairwater Yard                                                                                                 |                        |                             |                            |
+| Access to/from Fairwater Yard in the Cogload direction is only via the Up/Down Relief line. Such trains should |                        |                             |                            |
+| be timed to run via the UDR to gain the main lines at Taunton East Junction.                                   |                        |                             |                            |
+| Norton Fitzwarren Jcn                                                                                          |                        |                             |                            |
+| Access to/from West Somerset Railway is only via the Up/Down Relief line – there is no route to/from the main  |                        |                             |                            |
+| lines. Access to/from the Up/Down Relief to/from the main lines is via Taunton East Junction.                  |                        |                             |                            |
+| Adjustments to Sectional Running Times (allowance to be shown approaching this location)                       |                        |                             |                            |
+| Movement                                                                                                       | Reason                 | Timing Load                 | Value                      |
+| Up Main to Down/Up Relief                                                                                      | 25mph crossover        | All traffic                 | {1}                        |
+|                                                                                                                | and approach           |                             |                            |
+|                                                                                                                | control                |                             |                            |
+| Adjustments to Sectional Running Times (allowance to be shown after this location)                             |                        |                             |                            |
+| Movement                                                                                                       | Reason                 | Timing Load                 | Value                      |
+| Trains on the Down Main at Norton                                                                              | Not at line speed at   | 150 to 166 / GWR Short Form | {1⁄2}                      |
+| Fitzwarren having stopped at                                                                                   | Norton Fitzwarren      | HST (HSTGW4)                |                            |
+| Taunton                                                                                                        |                        | 80x                         | {1⁄2}                      |
+|                                                                                                                |                        | D455                        | {1⁄2}                      |
+|                                                                                                                |                        | LD60                        | {1⁄2}                      |
+|                                                                                                                |                        | LD75                        | {1⁄2}                      |
+|                                                                                                                |                        | Class 6 400t-1800t/TR40-    | {1⁄2}                      |
+|                                                                                                                |                        | TR100                       |                            |
+|                                                                                                                |                        | Class 6 2000t-3000t/TR115-  | {1}                        |
+|                                                                                                                |                        | TR130                       |                            |
+| Trains from Fairwater Yard or the                                                                              | Not at line speed at   | 150 to 166 / GWR Short Form | {1⁄2}                      |
+| Down/Up Relief / Taunton Goods                                                                                 | Norton Fitzwarren      | HST (HSTGW4)                |                            |
+| passing Norton Fitzwarren                                                                                      |                        | HST/ 80x                    | {1}                        |
+|                                                                                                                |                        | 22x                         | {1}                        |
+|                                                                                                                |                        | 75-57350                    | {1}                        |
+|                                                                                                                |                        | D455                        | {1⁄2}                      |
+|                                                                                                                |                        | LD60                        | {1}                        |
+|                                                                                                                |                        | LD75                        | {11⁄2}                     |
+|                                                                                                                |                        | Class 6 400t-600t/TR40      | {1}                        |
+|                                                                                                                |                        | Class 6 800t-1200t/TR55-    | {11⁄2}                     |
+|                                                                                                                |                        | TR70                        | {2}                        |
+|                                                                                                                |                        | Class 6 1400t-1800t/TR85-   |                            |
+|                                                                                                                |                        | TR100                       | {21⁄2}                     |
+|                                                                                                                |                        | Class 6 2000t-2400t/TR115-  |                            |
+|                                                                                                                |                        | TR130                       | {3}                        |
+|                                                                                                                |                        | Class 6 2600t-3000t         |                            |
+| Tiverton Parkway                                                                                               |                        |                             |                            |

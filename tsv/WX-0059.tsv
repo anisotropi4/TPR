@@ -1,0 +1,53 @@
+|                                            |       |       |                                                  |
+|:-------------------------------------------|:------|:------|:-------------------------------------------------|
+| SW115 WORTING JUNCTION TO EXETER ST DAVIDS |       |       |                                                  |
+| TIMING POINT                               | DOWN  | UP    | NOTES                                            |
+| Gillingham – Templecombe                   | AB+1* | AB+1^ | Single line. TCB plan as AB.                     |
+|                                            |       |       | * Service in the Down direction can depart       |
+|                                            |       |       | Gillingham 1 minute after the previous train has |
+|                                            |       |       | departed from Templecombe.                       |
+|                                            |       |       |                                                  |
+|                                            |       |       | ^ Service in the Up direction cannot arrive into |
+|                                            |       |       | Templecombe until 1 minute after the previous    |
+|                                            |       |       | train has arrived at Gillingham.                 |
+| Templecombe – Sherborne                    | AB+1* | AB+1  | TCB plan as AB.                                  |
+|                                            |       |       | * Service in the Down direction can depart       |
+|                                            |       |       | Templecombe 1 minute after the previous          |
+|                                            |       |       | service has arrived at Sherborne that is formed  |
+|                                            |       |       | of a maximum of 5 vehicles. Otherwise, it must   |
+|                                            |       |       | wait until 1 minute after the service has        |
+|                                            |       |       | departed Sherborne as it will be sitting foul of |
+|                                            |       |       | the overlap.                                     |
+| Sherborne – Yeovil Junction                | AB+1* | AB+1^ | TCB plan as AB.                                  |
+|                                            |       |       | * Service in the Down direction can enter the    |
+|                                            |       |       | platform at Sherborne 1 minute after the         |
+|                                            |       |       | previous train has arrived at Yeovil Junction    |
+|                                            |       |       |                                                  |
+|                                            |       |       | ^ Service in the Up direction can depart Yeovil  |
+|                                            |       |       | Junction 1 minute after a service at Sherborne   |
+|                                            |       |       | has departed.                                    |
+| Yeovil Junction – Crewkerne                | AB+1* | AB+1  | Single line. TCB plan as AB.                     |
+|                                            |       |       | * Service in the Down direction can depart       |
+|                                            |       |       | Yeovil Junction 1 minute after the previous      |
+|                                            |       |       | service departs Crewkerne                        |
+| Crewkerne – Chard Junction                 | AB+1  | AB+1* | Single line. TCB plan as AB.                     |
+|                                            |       |       | * Service in the Up direction can leave Chard    |
+|                                            |       |       | Junction 1 minute after the previous service     |
+|                                            |       |       | has departed Crewkerne                           |
+| Chard Junction – Axminster East            | AB+1  | AB+1  | Single line. TCB plan as AB.                     |
+| Junction                                   |       |       |                                                  |
+| Axminster East Junction –                  |       |       | Passing point.                                   |
+| Axminster West Junction                    |       |       |                                                  |
+| Axminster West Junction - Honiton          | AB+1* | AB+1  | Single line. TCB plan as AB.                     |
+|                                            |       |       | * Service in the Down direction can depart/pass  |
+|                                            |       |       | Axminster West Junction 1 minute after the       |
+|                                            |       |       | previous down service has departed Honiton       |
+| Honiton – Feniton                          | AB+1* | AB+2^ | Single line. TCB plan as AB.                     |
+|                                            |       |       | * Service in Down direction can depart Honiton   |
+|                                            |       |       | 1 minute after previous service has              |
+|                                            |       |       | passed/departed Feniton.                         |
+|                                            |       |       |                                                  |
+|                                            |       |       | ^ Service in Up direction can pass/arrive into   |
+|                                            |       |       | Feniton 2 minutes after the previous service     |
+|                                            |       |       | has arrived into Honiton.                        |
+| Feniton - Pinhoe                           | AB+1  | AB+1  | Single line. TCB plan as AB.                     |

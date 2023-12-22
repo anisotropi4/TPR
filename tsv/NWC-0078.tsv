@@ -1,0 +1,47 @@
+|                                                                                                |       |       |      |                                              |
+|:-----------------------------------------------------------------------------------------------|:------|:------|:-----|:---------------------------------------------|
+| NW1023 HAYDOCK BRANCH JN TO KELBIT P. S.                                                       |       |       |      |                                              |
+| TIMING POINT                                                                                   | DOWN  | UP    | CODE | NOTES                                        |
+| Haydock Branch Jn                                                                              | –     | SL    |      | Single Line from Haydock Branch Jn to        |
+|                                                                                                |       |       |      | Kelbit Private Sidings                       |
+|                                                                                                |       |       |      | To/from Bamfurlong Jn – NW1001               |
+| Kelbit Private Sidings                                                                         |       | –     |      |                                              |
+| NW1025 BAMFURLONG SIDINGS JN TO INCE MOSS JN (INCE MOSS CHORD                                  |       |       |      |                                              |
+| LINE)                                                                                          |       |       |      |                                              |
+| TIMING POINT                                                                                   | DOWN  | UP    | CODE | NOTES                                        |
+| Bamfurlong Sidings Jn                                                                          |       |       |      | For timing purposes this location is shown   |
+|                                                                                                |       |       |      | as Bamfurlong Jn                             |
+| Ince Moss Jn                                                                                   | –     | GL    |      | To/from St. Helens Central – NW2023          |
+| NW1027 PRESTON SOUTH JN TO STRAND ROAD                                                         |       |       |      |                                              |
+| TIMING POINT                                                                                   | DOWN  | UP    | CODE | NOTES                                        |
+| Preston South Jn                                                                               |       |       |      | Single Line from Preston South Jn to/from    |
+|                                                                                                |       |       |      | Network Rail Boundary                        |
+|                                                                                                |       |       |      | To/from Preston Ribble Jn – NW1001           |
+| Strand Road L.C.                                                                               |       |       |      | Network Rail Boundary (line continues to     |
+|                                                                                                |       |       |      | Preston Docks)                               |
+| Preston Docks Petrofina                                                                        |       | –     |      |                                              |
+| Note: the only timing link currently used is Preston Docks Petrofina to/from Preston Ribble Jn |       |       |      |                                              |
+| NW2001 WEAVER JN TO LIVERPOOL LIME STREET                                                      |       |       |      |                                              |
+| TIMING POINT                                                                                   | DOWN  | UP    | CODE | NOTES                                        |
+| Weaver Jn                                                                                      | –     | FL    |      | To/from Acton Bridge – NW1001                |
+| Halton Jn                                                                                      |       | –     |      | To/from Frodsham Jn – NW3021                 |
+| Runcorn Jn                                                                                     |       |       |      |                                              |
+| Runcorn                                                                                        | –     | –     |      | To/from Folly Lane Sidings – NW2003          |
+| Ditton East Jn                                                                                 | FL SL | –     |      | Note: between 0001 and 0545 Tuesdays         |
+|                                                                                                |       |       |      | to Fridays, all trains between Ditton Jn and |
+|                                                                                                |       |       |      | Allerton Jn must be timed via "SL".          |
+|                                                                                                |       |       |      | To/from Ditton Reception Sidings             |
+| Widnes Transport Technology                                                                    |       | –     | S    | TIPLOC WIDNTTF                               |
+| Centre                                                                                         |       |       |      | To/from Ditton Reception Sidings             |
+| Ditton Reception Sidings                                                                       | –     | –     | S    |                                              |
+| Ditton West Jn                                                                                 | SL    | –     | F    | To/from Ditton Reception Sidings             |
+| Halewood East Jn                                                                               |       |       |      | To/from Halewood (Jaguar Cars)               |
+| Halewood (Jaguar Cars)                                                                         | SL    | SL    | F    |                                              |
+| Halewood West Jn                                                                               |       |       |      | To/from Halewood (Jaguar Cars)               |
+| Speke East Jn                                                                                  |       |       |      | For planning purposes this location is       |
+|                                                                                                |       |       |      | shown as Speke Jn                            |
+| Speke Jn                                                                                       | FL SL | FL SL | X    |                                              |
+| Speke West Jn                                                                                  |       |       |      | For planning purposes this location is       |
+|                                                                                                |       |       |      | shown as Speke Jn                            |
+| Allerton East Jn                                                                               |       |       |      | To/from Garston Jn – NW2007                  |
+| Allerton Jn                                                                                    |       |       |      | To/from Hunts Cross West Jn – NW6003         |

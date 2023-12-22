@@ -1,0 +1,38 @@
+|                                                                                                                 |                                                |                      |
+|:----------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:---------------------|
+| Three Bridges Up Thameslink Depot                                                                               |                                                |                      |
+| Acceptance of trains                                                                                            |                                                |                      |
+| First Movement                                                                                                  | Second Movement                                | Margin               |
+| Train departs Three Bridges Platform 2 or 3 and                                                                 | Following movement departs Three Bridges into  | 8                    |
+| enters the Up Thameslink Depot                                                                                  | the Up Thameslink Depot                        |                      |
+| Example, first train departs Three Bridges towards Up Thameslink Depot at xx.00. Second movement into Depot     |                                                |                      |
+| can depart Three Bridges at xx.08.                                                                              |                                                |                      |
+| Berthing Facilities                                                                                             |                                                |                      |
+| Siding                                                                                                          | Cars*                                          | Notes                |
+| Road 1                                                                                                          | 36                                             |                      |
+| Road 2                                                                                                          | 24                                             |                      |
+| Road 3                                                                                                          | 24                                             |                      |
+| Road 4                                                                                                          | 24                                             |                      |
+| * Assumed to be Class 700 EMU stock. A maximum of six planned arrivals or departures is allowed on Depot at any |                                                |                      |
+| one time.                                                                                                       |                                                |                      |
+| Margins between arrivals and departures                                                                         |                                                |                      |
+| First Movement                                                                                                  | Second Movement                                | Margin               |
+| Train arrives at Three Bridges Up Thameslink                                                                    | Train departs from Three Bridges Up Thameslink | 6                    |
+| Depot from Three Bridges station                                                                                | Depot towards Three Bridges station            |                      |
+| Margins between successive departures                                                                           |                                                |                      |
+| First Movement                                                                                                  | Second Movement                                | Margin               |
+| Train departs from Three Bridges Up Thameslink                                                                  | Following movement departs Three Bridges Up    | 6                    |
+| Depot and passes Three Bridges station                                                                          | Thameslink Depot towards Three Bridges station |                      |
+|                                                                                                                 | either stopping or not stopping                |                      |
+| Train departs from Three Bridges Up Thameslink                                                                  | Following movement departs Three Bridges Up    | 8                    |
+| Depot and stops at Three Bridges station (assumes                                                               | Thameslink Depot towards Three Bridges station |                      |
+| 1 minute dwell at Three Bridges)                                                                                | either stopping or not stopping                |                      |
+| Copyhold Junction                                                                                               |                                                |                      |
+| Adjustment to Sectional Running Times                                                                           |                                                |                      |
+| Movement                                                                                                        | Reason                                         | Value                |
+| All trains crossing from DLH (Down Loop)                                                                        | Speed differential due to 40mph                | {1⁄2}*               |
+| to Up Main                                                                                                      | crossover                                      |                      |
+| All trains crossing from the Down Main to                                                                       | Approach Control and speed differential        | {1}                  |
+| the ULH (Up Loop)                                                                                               | due to 20mph crossover                         | approaching Copyhold |
+|                                                                                                                 |                                                | Junction             |
+| *applied at the next timing point                                                                               |                                                |                      |

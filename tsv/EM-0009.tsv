@@ -1,0 +1,32 @@
+|                    |                                                                               |
+|:-------------------|:------------------------------------------------------------------------------|
+| Classification     | Description                                                                   |
+| 1                  | Express passenger train; or                                                   |
+|                    | Nominated postal or parcels train; or                                         |
+|                    | Breakdown or overhead line equipment train going to clear the line (IZ99); or |
+|                    | Traction unit going to assist a failed train (1Z99)                           |
+|                    | Snow plough going to clear the line (1Z99)                                    |
+| 2                  | Ordinary passenger train; or                                                  |
+|                    | Officers’ special train (2Z01)                                                |
+| 3                  | Freight train if specially authorised; or                                     |
+|                    | A parcels train; or                                                           |
+|                    | Autumn-railhead treatment train; or                                           |
+|                    | Empty coaching stock train if specially authorised                            |
+| 4                  | Freight train which can run up to 75 mph (120 km/h)                           |
+| 5                  | Empty coaching stock train                                                    |
+| 6                  | Freight train which can run up to 60 mph (95 km/h)                            |
+| 7                  | Freight train which can run up to 45 mph (70 km/h)                            |
+| 8                  | Freight train which can run up to 35 mph (55 km/h)                            |
+| 9                  | Class 373 train; or                                                           |
+|                    | Other passenger train if specially authorised                                 |
+| 0                  | Light locomotive or locomotives                                               |
+| Passenger Services |                                                                               |
+| TID                | Class 1 services (WTT)                                                        |
+| 1Axx               | NOT USED                                                                      |
+| 1Bxx               | Nottingham to St Pancras                                                      |
+|                    | Leeds or Lincoln via Nottingham to St Pancras                                 |
+| 1Cxx               | Sheffield to St Pancras                                                       |
+|                    | Scarborough/York/Leeds via Sheffield to St Pancras                            |
+| 1Dxx               | Birmingham New Street to Nottingham                                           |
+|                    | St Pancras to Nottingham                                                      |
+|                    | St Pancras to Leeds/Lincoln/Derby via Nottingham                              |

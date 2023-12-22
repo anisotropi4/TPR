@@ -1,0 +1,34 @@
+|                                            |             |                                                   |                                                    |
+|:-------------------------------------------|:------------|:--------------------------------------------------|:---------------------------------------------------|
+| NW4003 PRESTON FYLDE JN TO DEEPDALE JN     |             |                                                   |                                                    |
+| TIMING POINT                               | DOWN        | UP                                                | NOTES                                              |
+| Preston Fylde Jn to Deepdale Jn            | Single Line | One train In Section (OTS)                        |                                                    |
+| NW4005 PRESTON FYLDE JN TO BLACKPOOL NORTH |             |                                                   |                                                    |
+| TIMING POINT                               | DOWN        | UP                                                | NOTES                                              |
+| Preston Fylde Jn to Blackpool              | 3           | 3                                                 |                                                    |
+| North                                      |             |                                                   |                                                    |
+| NW4007 KIRKHAM NORTH JN TO BLACKPOOL SOUTH |             |                                                   |                                                    |
+| TIMING POINT                               | DOWN        | UP                                                | NOTES                                              |
+| Kirkham & Wesham to Kirkham                | TCB*        | TCB*                                              | * For train planning purposes this section of line |
+| West Jn                                    |             |                                                   | should be treated as being AB+2                    |
+| Kirkham West Jn to Blackpool               | *           | * Single line - One Train in Section (OTS)        |                                                    |
+| South                                      |             |                                                   |                                                    |
+| NW4011 MORECAMBE SOUTH JN TO MORECAMBE     |             |                                                   |                                                    |
+| TIMING POINT                               | DOWN        | UP                                                | NOTES                                              |
+| Morecambe South Jn to Bare                 | *           | * Single line, One train in Section (OT)          |                                                    |
+| Lane                                       |             | Single lead at Morecambe South Jn                 |                                                    |
+| Bare Lane to Morecambe                     | *           | * Single line. OT applies throughout on Down and  |                                                    |
+|                                            |             | Up Morecambe.                                     |                                                    |
+|                                            |             | OT applies on Down and Up Heysham between         |                                                    |
+|                                            |             | Bare Lane and Morecambe. OT applies between       |                                                    |
+|                                            |             | Morecambe Jn GF and Heysham                       |                                                    |
+| NW4013 HEST BANK TO BARE LANE              |             |                                                   |                                                    |
+| TIMING POINT                               | DOWN        | UP                                                | NOTES                                              |
+| Hest Bank to Bare Lane                     | *           | * Single line, TCB timed as AB+2                  |                                                    |
+|                                            |             | Single lead at Hest Bank                          |                                                    |
+| NW4017 MORECAMBE JN TO HEYSHAM PORT        |             |                                                   |                                                    |
+| TIMING POINT                               | DOWN        | UP                                                | NOTES                                              |
+| Morecambe Jn to Heysham Port               | *           | * Single line. OT applies on Heysham Line between |                                                    |
+|                                            |             | Bare Lane and Morecambe. OT applies between       |                                                    |
+|                                            |             | Morecambe Jn GF and Heysham. See section 5.3      |                                                    |
+|                                            |             | for planning rules for trains to/from Heysham     |                                                    |

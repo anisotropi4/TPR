@@ -1,0 +1,35 @@
+|                                                          |                                                |         |
+|:---------------------------------------------------------|:-----------------------------------------------|:--------|
+| EA1450 TRIMLEY TO FELIXSTOWE NORTH AND CENTRAL TERMINALS |                                                |         |
+| Felixstowe Signal NQ4                                    |                                                |         |
+| Junction Margins                                         |                                                |         |
+| First Movement                                           | Second Movement                                | Margin  |
+| Inbound train from Trimley passes                        | Outbound train to Trimley passes               | 8       |
+| Felixstowe NQ4                                           | Felixstowe NQ4                                 |         |
+| EA1460 FELIXSTOWE BEACH JUNCTION TO FELIXSTOWE BEACH     |                                                |         |
+| Felixstowe Creek Sidings                                 |                                                |         |
+| Junction Margins                                         |                                                |         |
+| First Movement                                           | Second Movement                                | Margin  |
+| Freight train arrives at Creek RS from site of           | Freight train departs Creek RS towards site of | 3       |
+| Felixstowe Beach Station                                 | Felixstowe Beach Station                       |         |
+| EA1470 NORWICH THORPE JUNCTION TO LOWESTOFT              |                                                |         |
+| Brundall                                                 |                                                |         |
+| Dwell Time                                               | 1                                              |         |
+| Single Line Reoccupation                                 | 21⁄2                                           |         |
+| Reedham                                                  |                                                |         |
+| Dwell Time                                               |                                                | 1       |
+| Single Line reoccupation                                 | To or from Great Yarmouth                      | 21⁄2    |
+| Oulton Broad North                                       |                                                |         |
+| Dwell Time                                               | 1                                              |         |
+| Coke Ovens Junction                                      |                                                |         |
+| Junction Margins                                         |                                                |         |
+| First Movement                                           | Second Movement                                | Margin  |
+| Up train passes                                          | Down train crosses to Up Lowestoft line        | 11⁄2    |
+| Lowestoft                                                |                                                |         |
+| Junction Margins                                         |                                                |         |
+| First Movement                                           | Second Movement                                | Margin  |
+| Arrive platform 3 or 4                                   | Depart different platform                      | 1       |
+| Depart platform 2                                        | Arrive platform 2                              | 4       |
+| Terminal Length                                          |                                                |         |
+| Reception                                                |                                                | 48 SLUs |
+| Splitting and Coupling of trains permitted               | All platforms                                  |         |

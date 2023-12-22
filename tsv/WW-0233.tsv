@@ -1,0 +1,43 @@
+|                                             |                                              |      |
+|:--------------------------------------------|:---------------------------------------------|:-----|
+| Freight train Down Main to Line C           | Train crossing Line B to Up Relief or Line D | 3    |
+|                                             | to Up Main                                   |      |
+| Passenger train Line B to Up Main           | Train crossing Line C to Up Main             | 21⁄2 |
+| Passenger train Line B to Up Main           | Train crossing Line E to Up Main             | 3    |
+| Freight train Line B to Up Main             | Train crossing Line C to Up Main             | 3    |
+| Freight train Line B to Up Main             | Train crossing Line E to Up Main             | 4    |
+| Freight train Line D/E to Up Relief         | Train crossing Down Relief to Line B/D or E  | 41⁄2 |
+| Passenger train Line D/E to Up Relief       | Train crossing Down Relief to Line B/D or E  | 31⁄2 |
+| Passenger train Line D to Up Relief         | Train crossing Down Main to Line D or E      | 2    |
+| Freight train Line D to Up Relief           | Train crossing Down Main to Line D or E      | 21⁄2 |
+| Freight train Down Relief to Line C         | Train crossing Line D to Up Main/Up Relief   | 3    |
+|                                             | or Line C to Up Relief                       |      |
+| Passenger train Down Relief to Line C       | Train crossing Line D to Up Main/Up Relief   | 21⁄2 |
+|                                             | or Line C to Up Relief                       |      |
+| Passenger train Down Main to Line E         | Train crossing Line D to Up Relief or Up     | 3    |
+|                                             | Main                                         |      |
+| Passenger train Down Main to Line E         | Train crossing Line B to Up Relief           | 21⁄2 |
+| Freight train Down Main to Line E           | Train crossing Line D to Up Relief or Up     | 4    |
+|                                             | Main                                         |      |
+| Freight train Down Main to Line E           | Train crossing Line B to Up Relief           | 3    |
+| Passenger train Line C to Up Main/Up Relief | Train crossing Down Main to Line C           | 2    |
+| Passenger train Line C to Up Main/Up Relief | Train crossing Down Relief to Line C         | 31⁄2 |
+| Freight train Line C to Up Main             | Train crossing Down Main to Line C           | 21⁄2 |
+| Freight train Line C to Up Main             | Train crossing Down Relief to Line C         | 31⁄2 |
+| Freight train Line C to Up Relief           | Train crossing Down Main to Line C           | 3    |
+| Freight train Line C to Up Relief           | Train crossing Down Relief to Line C         | 41⁄2 |
+| Passenger train Down Relief to Line B       | Train crossing Down Main to Line C or Line   | 2    |
+|                                             | D to Up Relief                               |      |
+| Freight train Down Relief to Line B         | Train crossing Down Main to Line C or Line   | 21⁄2 |
+|                                             | D to Up Relief                               |      |
+| Passenger train Line E to Up Main           | Train crossing Down Main to Line E           | 3    |
+| Freight train Line E to Up Main             | Train crossing Down Main to Line E           | 31⁄2 |
+| Passenger train Line B to Up Relief         | Train crossing Down Main to Line C           | 3    |
+| Freight train Line B to Up Relief           | Train crossing Down Main to Line C           | 21⁄2 |
+| Passenger train Line B to Up Relief         | Train crossing Down Main to Line E           | 4    |
+| Freight train Line B to Up Relief           | Train crossing Down Main to Line E           | 3    |
+| Passenger train Line B to Up Relief         | Train crossing Down Relief to Line C         | 41⁄2 |
+| Freight train Line B to Up Relief           | Train crossing Down Relief to Line C         | 31⁄2 |
+| Passenger train Line D to Up Relief         | Train crossing Down/Up Relief to Line C or   | 3    |
+|                                             | Down Main to Line E                          |      |
+| Passenger train Line D to Up Relief         | Train crossing Down Main to Line C           | 2    |

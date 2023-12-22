@@ -1,0 +1,49 @@
+|                                                    |      |       |      |                                            |
+|:---------------------------------------------------|:-----|:------|:-----|:-------------------------------------------|
+| NW5009 COLWICH JN TO CHEADLE HULME                 |      |       |      |                                            |
+| TIMING POINT                                       | DOWN | UP    | CODE | NOTES                                      |
+| Bradwell Up Sidings Land                           |      | – GL  | F    | To/from Longport Jn                        |
+| Recovery Sidings                                   |      |       |      |                                            |
+| Longport Signal SOT573                             | –    |       | S    | For trains to Land Recovery Sidings        |
+|                                                    |      |       |      | Bradwell Up Sidings                        |
+| Bradwell Jn                                        | –    | GL    | X    |                                            |
+| Kidsgrove Signal SOT587                            | –    |       | S    |                                            |
+| Kidsgrove Jn                                       |      |       |      | For timing purposes this location is shown |
+|                                                    |      |       |      | as Kidsgrove                               |
+| Kidsgrove                                          | –    | –     |      | To/from Alsager – NW1005                   |
+| Congleton                                          | –    | –     |      |                                            |
+| Macclesfield Signal MD4833                         |      | –     | S    | For trains reversing on the Down Stoke     |
+| Macclesfield South Jn                              |      |       |      |                                            |
+| Macclesfield                                       | –    | –     |      | Platform detail must be shown              |
+| Macclesfield North Jn                              |      |       |      |                                            |
+| Prestbury                                          | –    | –     | S    |                                            |
+| Adlington (Cheshire)                               | –    | –     | S    |                                            |
+| Poynton                                            | –    | –     | S    |                                            |
+| Bramhall                                           | –    | –     | S    |                                            |
+| Bramhall Jn                                        |      |       |      |                                            |
+| Cheadle Hulme                                      |      | –     |      | To/from Adswood Road Jn – NW5001           |
+|                                                    |      |       |      | Platform detail must be shown              |
+| NW5010 GLEBE STREET JN TO CALDON QUARRY            |      |       |      |                                            |
+| TIMING POINT                                       | DOWN | UP    | CODE | NOTES                                      |
+| Glebe Street Jn                                    |      |       |      | To/from Stoke-on-Trent – NW5009            |
+| Milton Jn, former site of                          |      |       |      | Change of mileage 3m 51ch/0m 0ch           |
+| Endon                                              |      |       |      |                                            |
+| Network Rail/Churnet Valley                        |      |       |      | 6m 37ch                                    |
+| Railway lease boundary                             |      |       |      |                                            |
+| Leek Brook Jn                                      | –    | –     |      | Change of mileage 6m 65ch/0m 0ch           |
+| Ipstones Loop                                      |      |       |      |                                            |
+| Network Rail/Churnet Valley                        |      |       |      | 7m 53ch                                    |
+| Railway lease boundary                             |      |       |      |                                            |
+| Caldon Quarry                                      |      |       |      |                                            |
+| End of the Line                                    |      |       |      | 7m 79ch                                    |
+| NW5011 HEATON NORRIS JN TO GUIDE BRIDGE STATION JN |      |       |      |                                            |
+| TIMING POINT                                       | DOWN | UP    | CODE | NOTES                                      |
+| Heaton Norris Jn                                   | DB   | FL SL |      | To/from Stockport – NW5001                 |
+| Ash Bridge Jn                                      | –    | UB    |      | Trains reversing on the Down Branch at     |
+|                                                    |      |       |      | signal HN49 to be timed here               |
+| Reddish South                                      | –    | –     | S    |                                            |
+| Denton Station Jn                                  | –    | –     |      |                                            |
+| Denton                                             | –    | –     | S    |                                            |
+| Denton Jn                                          | –    | –     |      | Single line from Denton Jn to/from Guide   |
+|                                                    |      |       |      | Bridge Station Jn                          |
+|                                                    |      |       |      | To/from Ashton Moss North Jn – NW7021      |

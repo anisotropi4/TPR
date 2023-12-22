@@ -1,0 +1,44 @@
+|                                           |                                                                        |                       |
+|:------------------------------------------|:-----------------------------------------------------------------------|:----------------------|
+| Harpenden                                 |                                                                        |                       |
+| intermediate signals                      |                                                                        |                       |
+| Luton Airport Parkway                     |                                                                        |                       |
+| Connectional Allowance                    | 4 between Thameslink services                                          |                       |
+|                                           | 10 between East Midlands Railway and Thameslink services               |                       |
+| Dwell Time                                |                                                                        |                       |
+| EMU                                       | 1⁄2  1 minute for Down Bedford trains                                  |                       |
+| 180/222                                   | 11⁄2  2 minutes in the Up morning and Down evening peak                |                       |
+| 360                                       | 1                                                                      |                       |
+| Platform Re-occupation                    |                                                                        |                       |
+| First Movement                            | Second Movement                                                        | Margin                |
+| Depart Platform 2 towards Luton           | Arrive Platform 2 from Harpenden or Harpenden                          | 1 after 1st train has |
+|                                           | Junction                                                               | arrived at Luton      |
+| Luton                                     |                                                                        |                       |
+| Adjustments to Sectional Running Times    |                                                                        |                       |
+| Movement Down                             | Reason                                                                 | Value                 |
+| Down Slow to Platform 2                   | Approach control signal WH299                                          | 1                     |
+| Platform 1 or 2 to Down Slow              | 20mph through crossover – to be applied                                | 2                     |
+|                                           | approaching next timing point                                          |                       |
+| Movement Up                               | Reason                                                                 | Value                 |
+| Up Slow to Platform 2                     | Approach control on signal WH304                                       | 1                     |
+| Platform 3 to Up Fast                     | 20mph through crossover                                                | 1⁄2                   |
+| Thameslink schedules originating at Luton | Running brake test                                                     | 1⁄2 after Luton       |
+| Connectional Allowance                    | 4 between Thameslink services                                          |                       |
+|                                           | 10 between East Midlands Railway and Thameslink services               |                       |
+| Dwell Time                                |                                                                        |                       |
+| All Thameslink services                   | 11⁄2* may be reduced to 1 minute by agreement with TOC)                |                       |
+| LH                                        | 11⁄2                                                                   |                       |
+| 180/222                                   | 11⁄2#  #2 minutes in the Up morning and Down evening peak              |                       |
+| 360                                       | 1                                                                      |                       |
+| Minimum Turnround                         |                                                                        |                       |
+| DMU                                       | 6                                                                      |                       |
+| Class 700                                 | 10 Passenger to Passenger. May be reduced to 8 minutes for 8 car Class |                       |
+|                                           | 700 if ECS movement is involved.                                       |                       |
+| Via shunt                                 | 15 DMU/EMU                                                             |                       |
+| Junction Margins                          |                                                                        |                       |
+| First Movement                            | Second Movement                                                        | Margin                |
+| Platform 1 to Down Slow via Up Slow       | Up Slow to Platforms 1, 2, 3 or 4                                      | 5                     |
+| Platform 2 to Down Slow via Up Slow       | Up Slow to Platforms 1, 2, 3 or 4                                      | 5                     |
+| Platform 3 to Down Slow                   | Up Slow to Platforms 3 or 4                                            | 5                     |
+| Up Fast passenger pass through Platform 4 | Depart Platform 3 to Up Fast                                           | 21⁄2                  |
+| (not calling at Luton Airport Parkway)    |                                                                        |                       |

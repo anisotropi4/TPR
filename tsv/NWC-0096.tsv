@@ -1,0 +1,53 @@
+|                                                |          |          |      |                                           |
+|:-----------------------------------------------|:---------|:---------|:-----|:------------------------------------------|
+| NW5001 CREWE NORTH JN TO MANCHESTER PICCADILLY |          |          |      |                                           |
+| TIMING POINT                                   | DOWN     | UP       | CODE | NOTES                                     |
+| Stockport Signal ST2.116/118                   | FL       | SL FL –  |      | Timing point for trains to/from Stockport |
+|                                                |          |          |      | Carriage Sidings or shunting between      |
+|                                                |          |          |      | platforms on Down Fast                    |
+| Heaton Norris Jn                               | FL SL    | FL SL    |      | Track code UGL to be shown for trains     |
+|                                                |          |          |      | using the Up Goods Loop                   |
+|                                                |          |          |      | Down trains stopping at Heaton Chapel     |
+|                                                |          |          |      | and/or Levenshulme must be routed Down    |
+|                                                |          |          |      | Slow                                      |
+|                                                |          |          |      | Trains for Longsight South must be routed |
+|                                                |          |          |      | Down Fast                                 |
+|                                                |          |          |      | To/from Ash Bridge Jn – NW5011            |
+| Heaton Chapel                                  | SL       | SL       | S    | Platforms are on Slow Lines only          |
+| Levenshulme                                    | SL       | SL       | S    | Platforms are on Slow Lines only          |
+| Slade Lane Jn                                  | FL SL    | FL SL    |      | To/from Heald Green – NW5003              |
+| Longsight (South Jn)                           | –        | FL SL    | X    | Timing point for trains to/from Longsight |
+|                                                |          |          |      | TMD                                       |
+| Longsight TMD                                  | –        | –        | S    |                                           |
+| Longsight Excursion Platform                   | GL       | –        | S    | TIPLOC LNGSEPL                            |
+| Longsight Down Goods Loop                      | SL GL    | FL SL GL | S    | Bi–directional Loop                       |
+| Manchester International Depot                 | GL       | GL       | S    | TIPLOC LNGSFLW                            |
+| Longsight Up & Down Goods Loop                 | GL       | FL       | S    | Bi–directional Loop                       |
+| Longsight North Jn                             | FL SL GL | FL GL    | X    | Also known as Longsight Depot Jn          |
+|                                                |          |          |      | Timing point for all trains to/from Up &  |
+|                                                |          |          |      | Down Goods and Longsight Carriage         |
+|                                                |          |          |      | Maintenance Depot                         |
+| Ardwick Jn                                     | FL SL EL | FL SL GL |      | To/from Ashburys – NW5015                 |
+| Mayfield Goods Loop                            | SL       | SL       | S    | Bi–directional Loop (Access only to/from  |
+|                                                |          |          |      | Manchester Piccadilly Platforms 9 – 14)   |
+| Engine Siding                                  | –        |          | S    |                                           |
+| Manchester Piccadilly East                     |          |          |      | To/from Manchester Oxford Road (via       |
+| Junction                                       |          |          |      | Manchester Piccadilly Platforms 13 and    |
+|                                                |          |          |      | 14) – NW6001                              |
+| Manchester Piccadilly                          |          | FL SL EL |      | Platform detail must be shown including   |
+|                                                |          |          |      | HS for Holding Siding. The Holding Siding |
+|                                                |          |          |      | is not electrified.                       |
+| NW5003 WILMSLOW TO SLADE LANE JN (STYAL LINES) |          |          |      |                                           |
+| TIMING POINT                                   | DOWN     | UP       | CODE | NOTES                                     |
+| Wilmslow                                       | –        | –        |      | Platform detail must be shown             |
+|                                                |          |          |      | To/from Alderley Edge – NW5001            |
+| Styal Jn                                       |          |          |      |                                           |
+| Styal                                          | –        | –        | S    |                                           |
+| Heald Green South Jn                           | –        | –        |      | To/from Heald Green West Jn – NW5005      |
+| Heald Green North Jn                           |          |          |      | To/from Heald Green West Jn – NW5007      |
+| Heald Green                                    | –        | –        |      |                                           |
+| Gatley                                         | –        | –        | S    |                                           |
+| East Didsbury                                  | –        | –        | S    |                                           |
+| Burnage                                        | –        | –        | S    |                                           |
+| Mauldeth Road                                  | –        | –        | S    |                                           |
+| Slade Lane Jn                                  | FL SL    | –        |      | To/from Ardwick Jn – NW5001               |

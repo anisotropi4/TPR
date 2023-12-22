@@ -1,0 +1,44 @@
+|                                                                                                                   |                                                                  |        |
+|:------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|:-------|
+| Kensington Olympia                                                                                                |                                                                  |        |
+| Adjustment to Sectional Running Times                                                                             |                                                                  |        |
+| Movement                                                                                                          | Reason                                                           | Value  |
+| All non-stop movements crossing from Up                                                                           | Approach Control/ 25mph Slow Crossover                           | {1}    |
+| West London to Down Platform Loop                                                                                 |                                                                  |        |
+| All non-stop movements crossing from                                                                              | Approach Control/25mph Slow Crossover                            | {1⁄2}  |
+| Down West London to Down Platform Loop                                                                            |                                                                  |        |
+| Dwell Times                                                                                                       |                                                                  |        |
+| Southern Services only                                                                                            |                                                                  | 1      |
+| Overlap Restrictions                                                                                              |                                                                  |        |
+| First Movement                                                                                                    | Second Movement                                                  | Margin |
+| Train departs Shepherds Bush on the                                                                               | Train departs or passes Kensington Olympia on the                | 1      |
+| Down West London in the direction of Mitre                                                                        | Down West London in the direction of Shepherds Bush              |        |
+| Bridge Junction                                                                                                   |                                                                  |        |
+| Train departs/passes Shepherds Bush                                                                               | Train departs Kensington Olympia Platform 2 on the               | 1      |
+| Platform 1 on the Up West London and                                                                              | Down West London crossing to the Up West London into             |        |
+| arrives into Kensington Olympia platform 3                                                                        | Platform 1 at Shepherds Bush                                     |        |
+| Train arrives at Kensington Olympia                                                                               | Train approaching TVC801 on the Down West London                 | 2      |
+| Platform 2 from Shepherds Bush                                                                                    | at Kensington Olympia going north                                |        |
+| Train arrives at Kensington Olympia                                                                               | Train approaching TVC698 on the Down West London                 | 2      |
+| Platform 2 from West Brompton                                                                                     | at Kensington Olympia going south                                |        |
+| Permissive Working                                                                                                |                                                                  |        |
+| Attaching/Detaching and Platform Sharing is authorised as shown below:-                                           |                                                                  |        |
+| Platform 2                                                                                                        | Attaching/Detaching and Platform Sharing permissible for Class   |        |
+|                                                                                                                   | 377, 378 and Class 710 only, maximum of 10-cars. This applies in |        |
+|                                                                                                                   | both directions.                                                 |        |
+| Shepherds Bush                                                                                                    |                                                                  |        |
+| Dwell Times                                                                                                       |                                                                  |        |
+| All services                                                                                                      | 1                                                                |        |
+| Minimum Turnround – Passenger Stock                                                                               |                                                                  |        |
+|                                                                                                                   | Margin                                                           |        |
+| Platform 2 Down                                                                                                   | 6*                                                               |        |
+| * Applies to trains terminating from the Kensington Olympia direction and starting back towards Kensington        |                                                                  |        |
+| Olympia in Platform 2 only. The time includes an allowance for shunting the train to enable the driver to observe |                                                                  |        |
+| signal TVC806.Train not to exceed 4 cars.                                                                         |                                                                  |        |
+| Overlap Restrictions                                                                                              |                                                                  |        |
+| First Movement                                                                                                    | Second Movement                                                  | Margin |
+| Train departs or passes Kensington                                                                                | Train departs Shepherds Bush towards                             | 1      |
+| Olympia towards West Brompton                                                                                     | Kensington Olympia                                               |        |
+| West Brompton                                                                                                     |                                                                  |        |
+| Dwell Times                                                                                                       |                                                                  |        |
+| Southern Services only                                                                                            | 1                                                                |        |

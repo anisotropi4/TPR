@@ -1,0 +1,28 @@
+|                                          |                    |                |                             |
+|:-----------------------------------------|:-------------------|:---------------|:----------------------------|
+| Up train arrives or passes Westbury      | Conflicting shunt  | 2              |                             |
+|                                          | move to Westbury   |                |                             |
+|                                          | departs W707       |                |                             |
+|                                          | signal             |                |                             |
+| Down train to Warminster departs or      | Conflicting shunt  | 21⁄2           |                             |
+| passes Westbury platform 1               | move to Westbury   |                |                             |
+|                                          | platform 1 departs |                |                             |
+|                                          | W707 signal        |                |                             |
+| Shunt move from W707 arrives Westbury    | Conflicting Up     | 3              |                             |
+|                                          | train from         |                |                             |
+|                                          | Fairwood Jcn or    |                |                             |
+|                                          | Warminster         |                |                             |
+|                                          | arrives or passes  |                |                             |
+|                                          | Westbury           |                |                             |
+| Shunt move from W707 arrives Westbury    | Up train from      | 5              |                             |
+|                                          | Fairwood Jcn       |                |                             |
+|                                          | arrives Westbury   |                |                             |
+|                                          | Down Yard or       |                |                             |
+|                                          | Westbury DR line   |                |                             |
+| Up train towards Bradford Jcn departs or | Shunt move to      | 3 – following  | Apply passenger margin      |
+| passes Westbury                          | W722 signal or     | passenger      | when following light engine |
+|                                          | Down Trowbridge    |                | or ECS.                     |
+|                                          | Siding departs     | 4* – following | * If freight departs from a |
+|                                          | Westbury or        | freight        | standing start, margin is   |
+|                                          | Westbury DMU       |                | increased to 5 minutes.     |
+|                                          | Sidings            |                |                             |

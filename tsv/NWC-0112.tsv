@@ -1,0 +1,56 @@
+|                                                |      |    |      |                                            |
+|:-----------------------------------------------|:-----|:---|:-----|:-------------------------------------------|
+| NW8011 MANN ISLAND JN TO WEST KIRBY (VIA LOOP) |      |    |      |                                            |
+| TIMING POINT                                   | DOWN | UP | CODE | NOTES                                      |
+| Mann Island Jn                                 |      |    |      | Single line from Mann Island Jn to James   |
+|                                                |      |    |      | Street via Liverpool Central               |
+|                                                |      |    |      | One way loop from James Street Platform    |
+|                                                |      |    |      | 1                                          |
+|                                                |      |    |      | To/from Canning Street Jn – NW8011         |
+| James Street                                   | –    |    |      | Platform detail must be shown as follows:  |
+|                                                |      |    |      | 1 for trains from Hamilton Square          |
+|                                                |      |    |      | continuing around the Loop or for          |
+|                                                |      |    |      | terminating trains from Hamilton Square if |
+|                                                |      |    |      | the Loop line is not available             |
+|                                                |      |    |      | 2 for terminating trains from Hamilton     |
+|                                                |      |    |      | Square or for trains continuing via Stock  |
+|                                                |      |    |      | Interchange Line (see NW8003)              |
+| Moorfields (Deep Level)                        | –    |    |      | Must be timed through Platform 3           |
+| Liverpool Lime Street (Deep                    | –    |    |      | Must be timed through Platform A           |
+| Level)                                         |      |    |      |                                            |
+| Liverpool Central (Deep Level)                 | –    |    |      | Must be timed through Platform 3           |
+| James Street                                   | –    |    |      | Platform detail must be shown as follows:  |
+|                                                |      |    |      | 1 for trains starting at James Street      |
+|                                                |      |    |      | towards Hamilton Square after working a    |
+|                                                |      |    |      | previous service from Hamilton Square      |
+|                                                |      |    |      | terminating at James Street when the Loop  |
+|                                                |      |    |      | line is not available                      |
+|                                                |      |    |      | 2 for trains from Stock Interchange Line   |
+|                                                |      |    |      | (see NW8003)                               |
+|                                                |      |    |      | 3 for trains from Loop                     |
+| Mann Island Jn                                 |      |    |      | Start/end of Down/Up line separation       |
+| Canning Street Jn                              |      |    |      | To Down Chester Line via Platform 2 at     |
+|                                                |      |    |      | Hamilton Square – NW8013                   |
+| Hamilton Square                                | –    | –  |      | Platform detail must be shown as follows:  |
+|                                                |      |    |      | 1 for trains towards James Street          |
+|                                                |      |    |      | 2 for trains towards Birkenhead Central    |
+|                                                |      |    |      | 3 for trains towards West Kirby            |
+| Hamilton Square Jn                             |      |    |      | From Up Chester Line – NW8013              |
+| Conway Park                                    | –    | –  | S    | Platform detail must be shown              |
+| Mersey Tunnel (End/start of                    |      |    |      | 16 chains from Birkenhead Park             |
+| Underground Section)                           |      |    |      |                                            |
+| Birkenhead Park                                | –    | –  | S    | Platform detail must be shown              |
+| Birkenhead North                               | –    | –  |      | Platform detail must be shown              |
+|                                                |      |    |      | To/from Birkenhead North TMD via           |
+|                                                |      |    |      | Passenger Loop                             |
+| Birkenhead North TMD                           | –    | –  | S    |                                            |
+| Bidston East Jn                                | –    | –  |      | To/from Birkenhead North TMD               |
+|                                                |      |    |      | To/from New Brighton – NW8015              |
+| Bidston West Jn                                |      |    |      | To/from Stabling siding                    |
+| Bidston                                        | –    | –  |      | Platform detail must be shown              |
+| Bidston Dee Jn                                 |      |    |      | To/from Dee Marsh Jn – Western & Wales     |
+|                                                |      |    |      | Timetable Planning Rules - NW3007          |
+| Leasowe                                        | –    | –  | S    | Platform detail must be shown              |
+| Moreton (Merseyside)                           | –    | –  | S    | Platform detail must be shown              |
+| Meols                                          | –    | –  | S    | Platform detail must be shown              |
+| Manor Road                                     | –    | –  | S    | Platform detail must be shown              |

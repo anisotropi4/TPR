@@ -1,0 +1,48 @@
+|                                                       |          |        |      |                                              |
+|:------------------------------------------------------|:---------|:-------|:-----|:---------------------------------------------|
+| SW200 HAMPTON COURT JUNCTION TO GUILFORD (VIA COBHAM) |          |        |      |                                              |
+| TIMING POINT                                          | DOWN     | UP     | CODE | NOTES                                        |
+| Hampton Court Junction                                | -        | FL  SL |      | To/from Surbiton - SW105                     |
+| Hinchley Wood                                         | -        | -      | S    |                                              |
+| Claygate                                              | -        | -      | S    |                                              |
+| Oxshott                                               | -        | -      | S    |                                              |
+| Cobham and Stoke D’Abernon                            | -        | -      | S    |                                              |
+| Effingham Junction                                    | -        | -      |      | To/from Bookham - SW205                      |
+| Effingham Jn. C.H.S.                                  | -        |        | S    |                                              |
+| Effingham Junction Neck                               | -        | -      | S    |                                              |
+| Effingham Jn Signal GD1322                            |          | -      | S    |                                              |
+| Horsley                                               | -        | -      | S    |                                              |
+| Clandon                                               | -        | -      | S    |                                              |
+| London Road                                           | -        | -      | S    |                                              |
+| Guildford Signal GD1301                               | -        |        | S    |                                              |
+| Guildford                                             | -        | -      |      | Platform detail must be shown.               |
+|                                                       |          |        |      | To/from Shalford Junction - SW110            |
+| SW205 LEATHERHEAD TO EFFINGHAM JUNCTION               |          |        |      |                                              |
+| TIMING POINT                                          | DOWN     | UP     | CODE | NOTES                                        |
+| Leatherhead                                           | -        | -      |      | Platform detail must be shown.               |
+|                                                       |          |        |      | To/from Ashtead - SW180                      |
+| Bookham                                               | -        | -      | S    |                                              |
+| Effingham Junction                                    | -        | -      |      | To/from Horsley - SW200                      |
+| SW210 CLAPHAM JUNCTION TO READING (VIA RICHMOND)      |          |        |      |                                              |
+| TIMING POINT                                          | DOWN     | UP     | CODE | NOTES                                        |
+| Clapham Junction (Windsor                             | FL  SL   | WFL    |      | Platform detail must be shown.               |
+| Side)                                                 |          | WSL    |      | To/from West London Junction (W) -           |
+|                                                       |          |        |      | SW100.                                       |
+|                                                       |          |        |      | To/from Longhedge Junction - SW100D.         |
+|                                                       |          |        |      | To/from Latchmere Junction (No 2) -          |
+|                                                       |          |        |      | SW100E                                       |
+| Wandsworth Town                                       | FL  SL   | FL  SL | S    |                                              |
+| Point Pleasant Junction                               | -     SL | FL     | X    | Timing point for trains to/from East Putney. |
+|                                                       |          |        |      | To/from East Putney - SW225                  |
+| Putney                                                | FL  SL   | FL  SL | S    |                                              |
+| Barnes                                                | -        | FL  SL |      | Platform detail must be shown.               |
+|                                                       |          |        |      | To/from Barnes Bridge - SW230                |
+| Barnes Signal W1090                                   |          | -      | S    |                                              |
+| Mortlake                                              | -        | -      | S    |                                              |
+| North Sheen                                           | -        | -      | S    |                                              |
+| Richmond Signal 2105                                  | -        |        | S    |                                              |
+| Richmond                                              | -        | -      |      | Platform detail must be shown                |
+| St Margarets                                          | -  UFL   | -      | S  X | Timing point for all Up trains and Down      |
+|                                                       |          |        |      | trains crossing to Up Twickenham             |
+| Twickenham Signal 2121                                | -        |        | S    |                                              |
+| Twickenham Signal 2123                                | -        |        | S    |                                              |

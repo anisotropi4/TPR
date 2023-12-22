@@ -1,0 +1,41 @@
+|                                                                        |                                          |               |
+|:-----------------------------------------------------------------------|:-----------------------------------------|:--------------|
+| Lostock Hall Jn                                                        |                                          |               |
+| Adjustments to Sectional Running Times                                 |                                          |               |
+| Movement                                                               | Reason                                   | Value         |
+| Departing Lostock Hall Jn – All passing trains                         | Acceleration to line speed               | 1             |
+| from Farington Jn                                                      |                                          |               |
+| Approaching Lostock Hall Jn – All trains to                            | Approach control                         | 1             |
+| Farington Jn                                                           |                                          |               |
+| Blackburn                                                              |                                          |               |
+| Adjustments to Sectional Running Times                                 |                                          |               |
+| Movement                                                               | Reason                                   | Value         |
+| All Down trains routed to Platforms 1 or 3                             | Approach Control on signal PN451         | 1⁄2           |
+| All freight trains from Lostock Hall Jn routed to                      | Approach Control on signal PN451         | 2             |
+| the Up and Down Goods                                                  |                                          |               |
+| All passenger trains from Daisyfield Jn routed                         | Slow speed junction                      | 1⁄2           |
+| to Platform 2 or from the Clitheroe line routed                        |                                          |               |
+| to Platform 4                                                          |                                          |               |
+| Dwell Time                                                             |                                          |               |
+| DMU                                                                    | 1                                        |               |
+| Permissive Working                                                     |                                          |               |
+| Attaching/Detaching and Platform Sharing is authorised as shown below: |                                          |               |
+| Platform 1                                                             | Attaching/Detaching only                 |               |
+| Platform 2                                                             | Prohibited                               |               |
+| Platform 3                                                             | Attaching/Detaching and Platform Sharing |               |
+| Platform 4                                                             | Prohibited                               |               |
+| Daisyfield Jn                                                          |                                          |               |
+| Adjustments to Sectional Running Times                                 |                                          |               |
+| Movement                                                               | Reason                                   | Value         |
+| Approaching Daisyfield Jn - All Up trains routed                       | Approach Control                         | 1⁄2           |
+| to Platforms 1 and 2 at Blackburn.                                     |                                          |               |
+| All freight trains from the Up East Lancs routed                       | Approach Control                         | 11⁄2          |
+| to the Blackburn Up and Down Goods                                     |                                          | approaching   |
+|                                                                        |                                          | Daisyfield Jn |
+|                                                                        |                                          | and 1⁄2       |
+|                                                                        |                                          | approaching   |
+|                                                                        |                                          | Blackburn     |
+| Junction Margins                                                       |                                          |               |
+| First Movement                                                         | Second Movement                          | Margin        |
+| Pass from Up Hellifield line                                           | Pass from Blackburn on Down line         | 4             |
+| Pass on Up or Down East Lancs line                                     | Pass from Up Hellifield line             | 3             |

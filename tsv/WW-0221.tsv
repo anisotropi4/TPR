@@ -1,0 +1,45 @@
+|                                                                                                                    |                                               |             |
+|:-------------------------------------------------------------------------------------------------------------------|:----------------------------------------------|:------------|
+| Machynlleth                                                                                                        |                                               |             |
+| First Movement                                                                                                     | Second Movement                               | Margin      |
+| Up DMU into Down platform                                                                                          | Down DMU into Up platform                     | Parallel    |
+| Up DMU into Down platform                                                                                          | Down Loco hauled into Up platform             | 3           |
+| Up Loco Hauled into Down platform                                                                                  | Down DMU into Up platform                     | Parallel* a |
+| Up Loco Hauled into Down platform *b                                                                               | Down DMU into Up platform                     | 3*b         |
+| Up Loco Hauled into Down platform                                                                                  | Down Loco hauled into Up platform             | 5           |
+| Down DMU into Up platform                                                                                          | Up DMU into Down platform                     | Parallel    |
+| Down DMU into Up platform                                                                                          | Up Loco hauled into Down platform             | Parallel* a |
+| Down DMU into Up platform                                                                                          | Up Loco hauled into Down platform  *b         | 4*b         |
+| Down Loco Hauled into Up platform                                                                                  | Up DMU into Down platform                     | 21⁄2        |
+| Down Loco Hauled into Up platform                                                                                  | Up Loco hauled into Down platform             | 41⁄2        |
+| Down DMU into Down platform                                                                                        | Up DMU into Up platform                       | 21⁄2        |
+| Down DMU into Down platform                                                                                        | Up Loco hauled into Up platform               | 4           |
+| Down Loco Hauled into Down platform                                                                                | Up DMU into Up platform                       | 21⁄2        |
+| Down Loco Hauled into Down platform                                                                                | Up Loco hauled into Up platform               | 4           |
+| * a This applies to up direction light locos and trains up to 120m long                                            |                                               |             |
+| * b This applies to up trains longer than 120m which require to stop ahead of the platform in order to be clear of |                                               |             |
+| the junction in rear                                                                                               |                                               |             |
+| Station Working                                                                                                    |                                               |             |
+| Permissive working is not permitted, with the exception of attaching/detaching movements.                          |                                               |             |
+| Turnround Allowance                                                                                                | 5                                             |             |
+| Dovey Jn and Dovey Jn Down Loop                                                                                    |                                               |             |
+| Connectional Allowance                                                                                             | 4                                             |             |
+| Dwell Time                                                                                                         |                                               |             |
+| Power                                                                                                              | 1*                                            |             |
+| Platform usage                                                                                                     |                                               |             |
+| Platform detail MUST be shown                                                                                      |                                               |             |
+| If trains to and from Aberystwyth are planned to pass at Dovey Junction, the up (from Aberystwyth) train must      |                                               |             |
+| arrive into platform 2a, the down train (from Machynlleth) must travel via Dovey Jn Down Loop and then into        |                                               |             |
+| platform 2b.                                                                                                       |                                               |             |
+| If there is no passing movement, trains to Aberystwyth are not required to travel via Dovey Jn Down Loop.          |                                               |             |
+| Cambrian coast trains can only use platform 1                                                                      |                                               |             |
+| Platform end conflicts                                                                                             |                                               |             |
+| First Movement                                                                                                     | Second Movement                               | Margin      |
+| DMU from Aberystwyth into platform 2a                                                                              | DMU to Aberystwyth into Down Loop             | Parallel    |
+| DMU from Aberystwyth into platform 2a                                                                              | Loco hauled  to Aberystwyth into Down Loop    | 21⁄2        |
+| Loco Hauled from Aberystwyth into platform 2a                                                                      | DMU to Aberystwyth into Down Loop             | 41⁄2        |
+| Loco Hauled from Aberystwyth into platform 2a                                                                      | Loco hauled to Aberystwyth into Down Loop     | 51⁄2        |
+| DMU from Machynlleth into Down Loop                                                                                | DMU from Aberystwyth into platform 2a         | Parallel    |
+| DMU from Machynlleth into Down Loop                                                                                | Loco hauled from Aberystwyth into platform 2a | 2           |
+| Loco hauled from Machynlleth into Down Loop                                                                        | DMU from Aberystwyth into platform 2a         | 21⁄2        |
+| Loco hauled from Machynlleth into Down Loop                                                                        | Loco hauled from Aberystwyth into platform 2a | 3           |

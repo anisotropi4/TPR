@@ -1,0 +1,57 @@
+|                                    |       |          |      |                                            |
+|:-----------------------------------|:------|:---------|:-----|:-------------------------------------------|
+| SW105 CLAPHAM JUNCTION TO WEYMOUTH |       |          |      |                                            |
+| TIMING POINT                       | DOWN  | UP       | CODE | NOTES                                      |
+| Church Lane Junction               | RG  - | FL  SL   |      |                                            |
+|                                    |       | DFL      |      |                                            |
+|                                    |       | BKR      |      |                                            |
+| Maritime East Junction             | RG  - | RG  BKR  | F    | Timing point for trains on Redbridge       |
+|                                    |       |          |      | Goods and Maritime Back Road               |
+| Southampton MCT                    | -     | -        | F    |                                            |
+| Maritime West Junction             | RG  - | RG  -    | F    | Timing point for trains on Redbridge       |
+|                                    |       |          |      | Goods                                      |
+| Redbridge Reception Sidings        | -     | -        | F    |                                            |
+| Redbridge Signal E973              | -     |          | S    |                                            |
+| Redbridge                          | -     | RG  -    |      |                                            |
+| Redbridge Junction                 |       |          |      | To/from Romsey - SW150                     |
+| Totton                             | -     | -     DL |      | Platform detail must be shown              |
+| Totton Yard                        | -     |          | F  S |                                            |
+| Totton Fawley Loops                | -     | -        | S  X | To/from Marchwood – SW155                  |
+| Ashurst New Forest                 | -     | -        | S    |                                            |
+| Beaulieu Road                      | -     | -        | S    |                                            |
+| Brockenhurst                       | -     | -        |      | Platform detail must be shown.             |
+|                                    |       |          |      | To/from Lymington Town - SW160             |
+| Brockenhurst Down Siding           | -     |          | S    |                                            |
+| Brockenhurst Up Siding             |       | -        | S    |                                            |
+| Brockenhurst Signal BH62           |       | -        | S    |                                            |
+| Sway                               | -     | -        | S    |                                            |
+| New Milton                         | -     | -        | S    |                                            |
+| Hinton Admiral                     | -     | -        | S    |                                            |
+| Christchurch                       | -     | -        | S    |                                            |
+| Pokesdown                          | -     | -        | S    |                                            |
+| Bournemouth Sig BC1011             | -     |          | S    |                                            |
+| Bournemouth                        | -     | -        |      | Platform detail must be shown              |
+| Bournemouth Middle Sdg             |       | -        | S    |                                            |
+| Bournemouth Up Siding              | -     |          | S    |                                            |
+| Bournemouth Signal BC164           |       | -        | S    |                                            |
+| Branksome Signal BC1021            | -     |          | S    | Shunt moves only                           |
+| Branksome                          | -     | -        |      | Platform detail must be shown.             |
+|                                    |       |          |      | (ECS reversing moves only)                 |
+| Bournemouth T&R.S.M.D.             |       | -        | S    | ECS workings to/from Branksome             |
+| Parkstone                          | -     | -        | S    |                                            |
+| Poole                              | -     | -        |      | Platform detail must be shown              |
+| Poole Signal PW5200                |       | -        | S    |                                            |
+| Poole S.S.                         | -     | -        | S    |                                            |
+| Poole Signal PW5210                |       | -        | S    |                                            |
+| Hamworthy                          | -     | -        | S  X | Timing point for all freight trains to and |
+|                                    |       |          |      | from Hamworthy Goods - Route SW165         |
+| Hamworthy Junction                 | -     | -        |      | To/from Hamworthy Goods - SW165            |
+| Holton Heath                       | -     | -        | S    |                                            |
+| Wareham Down Sidings               | -     |          | S    |                                            |
+| Wareham                            | -     | -        |      | Platform detail must be shown              |
+| Wareham Signal PW5242              |       | -        | S    | Shunt moves only                           |
+| Worgret Junction                   | -     | -        | X    | Timing point for all trains to and from    |
+|                                    |       |          |      | Furzebrook and the Swanage Railway         |
+|                                    |       |          |      | To/from Swanage Railway - SW105B           |
+| Wool Signal PW5255                 | -     |          | S    | Shunt moves only                           |
+| Wool Signal PW5659                 | -     |          | S    | Shunt moves only                           |

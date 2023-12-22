@@ -1,0 +1,47 @@
+|                 |                   |           |                                          |
+|:----------------|:------------------|:----------|:-----------------------------------------|
+| Station         | Platform          | Effective | Notes                                    |
+|                 |                   | Length m  |                                          |
+| Pitsea          | 1                 | 250       |                                          |
+| Pitsea          | 2                 | 250       |                                          |
+| Pitsea          | 3                 | 251       |                                          |
+| Pitsea          | 4                 | 244       |                                          |
+| Ponders End     | 1 (Up)            | 167       | 10-car 720 permitted with ASDO operation |
+| Ponders End     | 2 (Down)          | 166       | 10-car 720 permitted with ASDO operation |
+| Prittlewell     | 1 (Up)            | 247       |                                          |
+| Prittlewell     | 2 (Down)          | 247       |                                          |
+| Purfleet        | 1 (Up)            | 266       |                                          |
+| Purfleet        | 2 (Down)          | 246       |                                          |
+| Rainham         | 1 (Up)            | 247       |                                          |
+| Rainham         | 2 (Down)          | 242       |                                          |
+| Rayleigh        | 1 (Up)            | 249       |                                          |
+| Rayleigh        | 2 (Down)          | 250       |                                          |
+| Rectory Road    | 1 (Up)            | 186       |                                          |
+| Rectory Road    | 2 (Down)          | 187       |                                          |
+| Reedham         | 1 (Up)            | 175       | (91m in operational use)                 |
+| Reedham         | 2 (Down)          | 192       | (83m in operational use)                 |
+| Richmond        | 3                 | 120       |                                          |
+| Richmond        | 4                 | 120       |                                          |
+| Richmond        | 5                 | 120       |                                          |
+| Richmond        | 6                 | 129       |                                          |
+| Richmond        | 7                 | 129       |                                          |
+| Rochford        | 1 (Up)            | 249       |                                          |
+| Rochford        | 2 (Down)          | 249       |                                          |
+| Romford         | 1 (Bay)           | 85.6      |                                          |
+| Romford         | 2 (Up Main)       | 211       | 10-car 720 permitted with ASDO operation |
+| Romford         | 3 (Down Main)     | 211       | 10-car 720 permitted with ASDO operation |
+| Romford         | 4 (Up Electric)   | 211       | 10-car 720 permitted with ASDO operation |
+| Romford         | 5 (Down Electric) | 211       | 10-car 720 permitted with ASDO operation |
+| Roughton Road   | Single            | 60        | 4-car 755 permitted with ASDO operation  |
+| Roydon          | 1 (Up)            | 172       | 10-car 720 permitted with ASDO operation |
+| Roydon          | 2 (Down)          | 170       | 10-car 720 permitted with ASDO operation |
+| Rye House       | 1 (Up)            | 186       | 10-car 720 permitted with ASDO operation |
+| Rye House       | 2 (Down)          | 170       | 10-car 720 permitted with ASDO operation |
+| St James Street | 1 (Up)            | 188.9     |                                          |
+| St James Street | 2 (Down)          | 189.6     |                                          |
+| St Margarets    | 1 (Up)            | 199       | 10-car 720 permitted with ASDO operation |
+| St Margarets    | 2 (Down)          | 167       | 10-car 720 permitted with ASDO operation |
+| Salhouse        | 1 (Up)            | 83        | (75.3m in operational use)               |
+| Salhouse        | 2 (Down)          | 128.8     | (81m in operational use)                 |
+| Sawbridgeworth  | 1 (Up)            | 281       |                                          |
+| Sawbridgeworth  | 2 (Down)          | 249       |                                          |

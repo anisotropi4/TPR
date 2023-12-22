@@ -1,0 +1,7 @@
+|                                                                                                                 |
+|:----------------------------------------------------------------------------------------------------------------|
+| Departures after arrivals                                                                                       |
+| When the moves are conflicting at least one minute should be allowed.                                           |
+| Example: arrive Platform 1 10.06; depart Platform 3 10.07 or later.                                             |
+| Exception when arrival is in Platform 4 from the South, when departures can be at the same time as the arrival. |
+| Arrivals after departures                                                                                       |
