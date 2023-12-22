@@ -1,0 +1,69 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version: 4.1
+London North Eastern                    Revised Final Rules for                        Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                    Page: 328 of 368
+
+
+LN600 SHAFTHOLME JUNCTION TO RESTON GSP
+Timing Section              Type     LH      MU      Freight     Remarks
+                                     HST
+                                     80x
+                                     22x
+
+Down
+Approach Colton Jn          E        1       1       1
+Approach                    P        1       1
+Darlington/Darlington DGL   E                        1
+Approach Birtley Jn         E        1       1       1
+                                                                 Services which Terminate between Newcastle
+Approach Berwick            E        1       1       1           and Berwick are to receive this allowance
+                                                                 approaching their terminating location
+Up
+                                                                 Services which have originated on Blyth & Tyne
+Approach Heaton South Jn    E        1       1       1           routes (LN694/LN702/LN704) do not require this
+                                                                 allowance
+                            P        1       1
+Approaching Darlington
+                            E                        1
+                                                                 Services on the SL are to receive this allowance
+Approaching Skelton Jn      E        1       1       1
+                                                                 approaching Skelton Bridge Jn
+
+
+LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THE
+COAST
+Timing Section              Type     LH      MU      Freight     Remarks
+                                     HST
+                                     80x
+
+Down
+Approach Eaglescliffe       E        1       1       1           Approaching Eaglescliffe from Yarm
+Approach Hartlepool         E        1       1                   Terminating services only
+                                                                 Approaching Sunderland from Ryhope Grange
+Approach Sunderland         E        1       1       1
+                                                                 Jn
+Approach Pelaw Metro Jn     E                1                   Tyne & Wear Metro only
+                            P        1       1
+Approach Park Lane Jn
+                            E        1       1       2
+Up
+Approach Sunderland         E        1       1*      1           All Northern and TWM terminating services only
+Approach Northallerton
+                            E        1       1       1
+East Junction
+
+
+
+
+ LN628 SOUTH HYLTON TO SUNDERLAND SOUTH JUNCTION
+ Timing Section                     Type    LH      MU         Freight   Remarks
+                                            HST     LL
+                                            EPU
+                                            22X
+
+ Up – Weekdays
+ Approach South Hylton              E                 1
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:     28th July 2023
+West and Central
+                                                                                       Page:    64 of 443
+
+
+NW1009 BASFORD HALL JN TO SANDBACH SOUTH JN (INDEPENDENT LINES)
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Basford Hall Jn                         IL        FL SL              To/from Madeley – NW1001
+Crewe Sorting Sidings South                        UTS               Timing point for all Up Trains on UTS
+                                                                     Track code detail must be shown
+                                                                     TIPLOC: CREWSSS
+New Middle Sidings                                  –         S      TIPLOC: CREWNMS
+Basford Hall Up Through Siding                     UTS               Timing point for all Up Trains on UTS
+Stop Board                                                           Track code detail must be shown
+                                                                     TIPLOC: CREWUSB
+Crewe Basford Hall Yard                  –           –        S      TIPLOC: CREWBHM
+(Freightliner)
+Crewe Signal BH34/36                    IL                           Timing point for all down trains on the IL
+                                                                     Track code detail must be shown
+                                                                     TIPLC: CREWH34
+Crewe Signal NH43/44                    –            IL              Timing point for all Up Trains on IL
+                                                                     From Crewe South Yard/ Crewe Coal
+                                                                     Sidings (DRS)
+                                                                     TIPLOC: CREWH44
+Crewe South Yard                        –            –        S      TIPLOC: CREWESY
+Crewe Coal Sidings (DRS)                –            –        S      TIPLOC: CREWSYC
+Crewe Sorting Sidings North SB          IL –     IL UTS –            To/from Gresty Lane – NW1013
+                                                                     To/from Crewe South Yard Bypass
+                                                                     To/from Crewe Basford Hall Yard
+                                                                     (Freightliner)
+Crewe South Yard Bypass                 –            –               Timing point for all trains to/from Crewe
+                                                                     South Jn
+                                                                     To/from Crewe South Yard/ Crewe Coal
+                                                                     Sidings (DRS)
+                                                                     TIPLOC: CREW543
+Crewe Signal SG5/SG9                    IL                           Timing point for all Down trains on IL
+                                                                     Track code detail must be shown
+                                                                     TIPLOC: CREWSG5
+Crewe Signal NH10/12                                 IL              Timing point for all Up trains on IL
+                                                                     Track code detail must be shown
+                                                                     TIPLOC: CREWH10
+Salop Goods Jn SB                       IL           IL              From Crewe North Jn – NW1015
+                                                                     To/from Crewe Coal Yard – NW1017
+Sandbach Signal MS3723                  –                     S      TIPLOC: SBCH723
+Sandbach South Jn                                                    To/from Sandbach – NW5001
+
+
+NW1011 GRESTY LANE TO SALOP GOODS JN
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Gresty Lane Jn                           –           –               To/from Nantwich – NW1007
+Salop Goods Jn SB                       IL           –               To/from Sandbach – NW5001
+                                                                     To/from Crewe Coal Yard – NW1017
+
+
+
+
+                              Electronic copy - uncontrolled when printed

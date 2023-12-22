@@ -1,0 +1,56 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                     Date:    27th October 2023
+                                            Timetable 2024                               Page:    148 of 178
+
+Feltham
+First Movement                                     Second Movement                                  Margin
+Between all movements except as below                                                               3
+Up train to Feltham Depot                          Down train from Feltham Junction                 4½
+Up train to Feltham Depot                          Up train from Staines                            3½
+Down train from Feltham Junction                   Up train passes to Feltham Depot                 2
+Down train from Feltham Junction                   Up train departs to Feltham Depot                1
+Down train passes from Feltham Depot               Down train from Feltham Junction                 4
+
+
+Staines Up Goods Loop
+
+Minimum Reversal Time
+Non-gangwayed SWR Stock (2 x 5-car Class 701 or            9 minutes
+707)
+
+
+Staines
+
+Berthing Facilities
+                        Cars               Notes
+No 1 Siding             10
+No 2 Siding             10
+No 3 Siding             10
+Up Loop                 10
+
+Connectional Allowances
+All Services                          5
+
+Dwell Times
+All Services                          1
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Down train passes/departs towards Windsor          Up train passes/arrives from Virginia Water       4*
+Up train departs Platform 2                        Down train arrives/passes Platform 2              3½
+Up train arrives/passes Platform 1 from Virginia   Down train passes Platform 2 towards Windsor 2
+Water
+* Can be reduced to 3 minutes if the second train has at least 1 minute of pathing time approaching Staines.
+
+Limit of Shunt
+                                    Length Limit
+Up Platform (clear of BEF2186)      231m (exclusive of standback)
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

@@ -1,0 +1,57 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                       Version:   4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                            Page:    87 of 242
+
+Cambuslang
+
+Connectional Allowance              3
+
+Platform Re-occupation              3
+
+
+
+Rutherglen East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Down train from Newton West Junction to         Flashing Yellows                                 ½
+Down Slow
+
+Movement Up                                     Reason                                           Value
+Up train from Up Slow going to Up Main          Acceleration                                     ½
+Up train from Up Argyle going to Up Main not    Acceleration                                     1
+stopping Cambuslang                                                                              Approaching
+                                                                                                 next timing
+                                                                                                 point
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Pass Down Main to Down Slow                     Pass from Up Fast to Up Main                     3
+Pass Up Fast to Up Main                         Pass Down Main to Down Slow                      2
+Pass Up Slow to Up Main                         Pass from Down Carmyle                           3
+Pass from Down Carmyle                          Pass Up Slow to Up Main                          2½
+
+
+Rutherglen Central Junction
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Passenger Pass Down Slow to Down Argyle         Pass Rutherglen East Jn Up Slow                  3
+Goods train pass Down Slow to Down Argyle       Pass Rutherglen East Jn Up Slow                  3½
+Passenger train pass Rutherglen East Jn Up      Pass Down Slow to Down Argyle                    1
+Slow
+Goods train pass Rutherglen East Jn Up Slow     Pass Down Slow to Down Argyle                    1½
+
+Note
+An Up Train of no more than 170m can stand on Up Slow between Rutherglen West Junction and Rutherglen
+Central Junction but not when trains need to pass towards Down Argyle.
+
+Restriction
+No allowances can be placed between Rutherglen Central Junction and Rutherglen Station.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

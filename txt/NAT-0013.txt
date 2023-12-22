@@ -1,0 +1,44 @@
+                                                      OFFICIAL
+
+
+Network Rail                                                                                          Version 4.0
+National                                                                                      Date: 28th July 2023
+                                     Final Proposal for Subsidiary Change 2024
+                                                  Page 12 of 114
+1.6 Junction Margins
+ 1.6.1       The values listed in Section 5.3 of the TPR are Junction Margins and Station Planning Rules. This
+             section covers calculating margins for both conventional and European Train Control System
+             signalling.
+
+ 1.6.2       A Junction Margin is the minimum permissible time interval between two trains that are performing
+             conflicting moves at a timing point, such that the second train can meet its SRT. This is expressed
+             in multiples of half minutes derived from the technical value expressed in seconds.
+
+ 1.6.3       Where necessary and appropriate, differential junction margins shall be created for different
+             combinations of:
+
+         •     Train type (including weight, length and speed)
+         •     Stopping or passing movements
+         •     Diverging or converging movements
+
+         For example, a train accelerating from rest across a junction will require a greater margin to avoid
+         impact on the second train, than a train crossing the same junction at line speed. The stopping
+         pattern of both trains must also be taken into account so that acceleration or deceleration relative to
+         line speed is taken into account.
+
+ 1.6.4       The calculation of a junction margin consists of a number of components:
+
+         1) Time taken between the front of the first train passing the timing point and its rear clearing the
+            relevant track circuit or axle counter
+
+         2) Time taken for the signaller or Automatic Route Setting to reset the route and the signals to clear
+            or updated Movement Authority issued for the second train
+
+         3) Time taken between the second train sighting the relevant signal, such that it can meet its SRTs,
+            or from point before ETCS indication to reduce speed due to the first train and its front passing
+            the timing point
+
+
+
+
+                                  Electronic copy – uncontrolled when printed

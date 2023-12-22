@@ -1,0 +1,61 @@
+ NETWORK RAIL                              Timetable Planning Rules                         Version:   4.2
+ Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                  Change                      Date:    27th October 2023
+                                                Timetable 2024                                Page:    178 of 178
+
+
+6 Timetabling Considerations
+6.1 Advertised and Working Times
+It is not permissible for trains to be specified to be advertised to arrive before or depart after the booked times stated
+in the working timetable (WTT).
+
+It is permissible for trains to be specified to be advertised to depart before the booked times stated in the working
+timetable in the following circumstances;
+
+(i) Where the WTT departure time is delayed to achieve the required headway behind a preceding train or margin
+    following a conflicting move.
+
+(ii) As an aid to punctual departure where this practice has been agreed between the Train Operator and Network
+     Rail.
+
+By agreement between the Train Operator and Network Rail, trains may be specified to be advertised to arrive after
+the booked times stated in the WTT. This agreement is used instead of engineering/performance allowances.
+
+ Weekdays (Monday to Saturday)
+ Movement                                              Differential                         Reason
+
+ All SX trains arriving at Waterloo between 0700       Advertised to arrive 2 minutes
+ and 1000                                              later than the WTT time
+ All SX trains departing from Waterloo between         Advertised to arrive 2 minutes
+ 1600 and 1900                                         later than the WTT time at the
+                                                       ultimate destination UNLESS by
+                                                       doing so onward connections are
+                                                       severed. Such instances must be
+                                                       agreed by the service specifier’s
+                                                       performance manager.
+ Other trains may be advertised to depart earlier                                           In order to maintain
+ or later at the discretion of the service specifier                                        standard departure patterns
+
+
+6.2 Timing of Light Locomotives
+It is a general principle that all light locomotive movements will be timed. Any exceptions to this must be agreed by
+the appropriate Operational Planning Manager.
+
+6.3 Two-Track Timetable Railway
+On the following sections of route the timetable will be planned such that it can be operated over two tracks (one
+Down and one Up) over the sections of line shown below.
+
+ LOCATION/LIMITS                             LINES                               DAYS                    TIMES
+ Waterloo to Queenstown Road                 Down Main Slow                      TWThF & Su              0015 to 0505
+ Platforms 1-10 to 615B, 614B, 613B,         Down Main Fast
+ 612B Points                                 Up Main Slow
+                                             Up Main Fast
+ Waterloo to Clapham Junction                All Windsor Lines & Up Main         SO                      0035 to 0500
+ Platforms 12-19 to 653A, 651, 649A,         Relief
+ 647A Points
+ Queenstown Road to Wimbledon                Down Main Fast                      TWThFS & Su             0005 to 0500
+ 614A, 613A Points to 734                    Up Main Fast
+ Points/Diamond
+
+
+                                       Electronic copy - uncontrolled when printed.

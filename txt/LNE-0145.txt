@@ -1,0 +1,35 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+London North Eastern                      Revised Final Rules for                         Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                     Page: 142 of 368
+
+
+Newark North Gate
+Down arrival into Platform 3 or Goods Loop         Down Main freight pass                              3
+Down arrival into Platform 3 or Goods Loop         Up Main passenger arrival                           3
+Down arrival into Platform 3 or Goods Loop         Up Main passenger pass                              2
+Down arrival into Platform 3 or Goods Loop         Up Main freight pass                                3
+Down train passes Newark NG                        Down train depart loop                              1
+Up arrival into Platform 3 or Goods Loops from     Up Main passenger pass                              2
+Up Main
+Up arrival into Platform 3 or Goods Loops from     Up Main freight pass                                3½
+Up Main
+Up Train depart Newark NG                          Up train depart loop                                2½
+Down train departs Platform 3/GL to Crossing       Up train arrives into Platform 3/GL from Up         5
+Curve                                              Main
+Passenger Up Main pass                             Depart Platform 3 to Up Main                        2
+Freight Up Main pass                               Depart Platform 3 to Up Main                        3
+
+Minimum Turnround                     7 – DMU/EMU 20 – LNER
+
+Platform Re–occupation
+Same direction                        3
+
+Planning note
+All 80X services to/from LN206 will require a minimum 1½ minute stop in the station for power changeover purposes in
+either direction. Where a station dwell already exists, there is sufficient timing within to undertake the power
+changeover. All non-stop & ECS services will still require this 1½ mins stop, and it should be denoted an OP stop.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

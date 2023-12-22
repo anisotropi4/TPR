@@ -1,0 +1,64 @@
+                                                OFFICIAL
+
+NETWORK RAIL                            Timetable Planning Rules                        Version:    4
+Scotland                   Final Rules for Subsidiary Change Timetable 2024               Date:     28/07/2023
+                                                                                          Page:     40 of 242
+
+SC151 PORTOBELLO TO LEITH SOUTH YARD (GOODS LINE)
+TIMING POINT                    DOWN        UP             CODE   NOTES
+
+Portobello Junction             –           –                     To/from Niddrie South Junction ‘Millerhill
+                                                                  Line’ – SC161
+                                                                  To/from Niddrie West Junction ‘Suburban
+                                                                  Line’ – SC163
+Joppa Straight                  –
+Edinburgh Signal EP854          –           –              S      Trains to/from Joppa Straight
+Leith South                     –           –              F
+
+
+SC153 CRAIGENTINNY JUNCTION TO POWDERHALL (GOODS LINE)
+TIMING POINT                    DOWN        UP             CODE   NOTES
+
+Craigentinny Junction           –           –                     To/from Portobello Junction – SC147
+Powderhall Refuse Siding        –           –              F
+
+
+SC155 MONKTONHALL JUNCTION TO MILLERHILL YARD
+TIMING POINT                    DOWN        UP             CODE   NOTES
+
+Monktonhall Junction            –           –                     To/from Prestonpans – SC147
+Millerhill East Junction
+Millerhill Signal EM14          –                                 All down trains to Millerhill Yard to be
+                                                                  timed to stop at this location
+Millerhill West Junction
+Millerhill Yard                 –           –                     Platform / Running Line detail must be
+                                                                  shown
+
+
+SC161 MILLERHILL YARD TO PORTOBELLO JUNCTION (MILLERHILL LINE)
+TIMING POINT                    DOWN        UP             CODE   NOTES
+
+Millerhill Yard                 –           –                     Platform / Running Line detail must be
+                                                                  shown
+Newcraighall                    –           –                     To/from Tweedbank – SC164
+Niddrie South Junction                                            To/from Haymarket West Junction –
+                                                                  SC165
+Brunstane                       –           –              S
+Portobello Junction             –           –
+
+
+SC163 PORTOBELLO JUNCTION TO NIDDRIE WEST JUNCTION (SUBURBAN
+LINE)
+TIMING POINT                    DOWN        UP             CODE   NOTES
+
+Portobello Junction             –           –                     To/from Edinburgh Waverley – SC147/
+                                                                  SC149
+                                                                  To/from Niddrie South Junction ‘Millerhill
+                                                                  Line’ – SC161
+Edinburgh Signal EP605          -           -              S      Reversal Point
+Niddrie West Junction           –           –                     To/from Haymarket West Junction –
+                                                                  SC165
+
+
+
+                               Electronic copy - uncontrolled when printed.

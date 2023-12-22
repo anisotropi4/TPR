@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version: 4.1
+London North Eastern                     Revised Final Rules for                          Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                      Page: 126 of 368
+
+
+Woolmer Green
+
+Adjustments to Sectional Running Times
+Movement Down                       Reason                                                 Value
+Down Main to Down Slow              Deceleration                                           ½*
+                                                                                           180/387/700/80x/91/HST
+*Not required for services that have called at Welwyn North
+
+Movement Up                               Reason                                           Value
+Up Slow to Up Main                        Acceleration – to be applied after Woolmer       ½ 180/80x/91/HST
+                                          Green Junction
+*Not required for services calling at Welwyn North
+
+Junction Margins – Down direction
+First Movement                           Second Movement                                   Margin
+All margins (unless stated below)                                                          3
+Down Main to Down Slow passenger         Down Main to Down Fast passenger                  2½
+
+Junction Margins – Up direction
+First Movement                              Second Movement                               Margin
+Up Fast to Up Main (not calling at          Up Slow to Up Main (not calling at Welwyn     2#
+Welwyn North)                               North)
+Up Fast to Up Main (not calling at          Up Slow to Up Main (calling at Welwyn         1½#
+Welwyn North)                               North)
+Up Fast to Up Main (not calling at          Depart Up Slow (Signal K632) to Up Main       1½
+Welwyn North)
+Up Fast to Up Main (calling at Welwyn       Up Fast or Slow to Up Main (not calling at    4
+North)                                      Welwyn North)
+Up Slow to Up Main (calling at Welwyn Up Fast or Slow to Up Main (not calling at          4
+North)                                      Welwyn North)
+#Where the first train is an express service timed at 100mph or above, the converging margin here should take
+
+precedence over the headway i.e. no pathing time should be applied to the second train between Woolmer Green
+Junction and Welwyn Garden City for the purpose of artificially re-establishing a higher headway value than the
+margin given; the general headway of 3 minutes should naturally restore itself by Potters Bar.
+
+Planning Note
+Where possible, pathing allowances should not be applied between Woolmer Green and Digswell
+
+
+Stevenage
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                             Value
+Stevenage to Hitchin                              DF to DS pass to pass; junction differential       ½ 180 /EMU
+                                                                                                     1 HST/LH/
+                                                                                                     225/80X
+                                                  DS to DF pass to pass (use for Hertford            1 180/EMU
+                                                  diversions)                                        1½ HST/LH/
+                                                                                                     225/80X
+Stevenage to Hitchin                              US or UF to DF (for originating trains at during   ½
+                                                  engineering works); differential junction speed
+Woolmer Green to Stevenage                        DF to DS pass to pass; approach control and        1
+                                                  differential junction speed
+                                                  DF to DS pass to stop; approach control and        ½
+                                                  differential junction speed
+                                                  DS to DF pass to pass; approach control and        ½ 180 /EMU
+
+                                   Electronic copy - uncontrolled when printed.

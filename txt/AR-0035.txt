@@ -1,0 +1,70 @@
+                                                        OFFICIAL
+
+
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.1
+Anglia                  Amended Final Principal and Subsidiary Change Timetable                12th September
+                                                                                       Date:
+                                                  2024                                         2023
+                                                                                       Page:   32 of 183
+
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION
+TIMING POINT                     DOWN         UP           CODE    NOTES
+
+Chesterton Junction Yard         -            -            F       Please note that this location is parallel to
+                                                                   Cambridge North station and trains do not need
+                                                                   to be timed at both locations.
+                                                                   Tiploc – CESTRTR for DB Cargo
+                                                                   Tiploc – CESTFHH for Freightliner
+                                                                   Tiploc – CESTGBR for GB Railfreight
+                                                                   Tiploc – CESTRTB for other operators
+Chesterton Junction Yard         -            -            X
+North Junction
+Waterbeach                       -            -
+Dimmock’s Cote Level             -            -            S       Timing point required for engineering trains
+Crossing                                                           travelling to/from a worksite nearby only
+Ely Signal CA253                 -                         S       Old Sutton Junction. For reversals from Ely
+                                                                   Reception
+Ely Dock Junction                DL UL -      -                    To/from Chippenham Junction – EA1540.
+                                                                   Line code must be shown
+Ely Recp.                        DL           -            F       Down Goods Loop/Down Through Siding.
+                                                                   Line code must be shown on departure
+Ely                              DL UL        UL DL -              Platform detail must be shown.
+                                                                   Line code must be shown
+Ely Signal CA288/CA290                        UL DL        S       Timing point for reversals
+                                                                   Line code must be shown
+Ely Papworth Sidings             -            -            F       Locations within Yard either DB Cargo, GBRf or
+                                                                   FLHH
+                                                                   Tiploc dependent on traffic
+                                                                   Tiploc – ELYYPAW for DB Cargo
+                                                                   Tiploc – ELYYGBF for GBRf
+                                                                   Tiploc – ELYYFLT for Freightliner
+Ely North Junction               -            UL DL                Line code must be shown.
+                                              EWC                  To/from King’s Lynn – EA1162,
+                                                                   To/from Ely West Junction – EA1550,
+                                                                   To/from Peterborough – EA1560,
+                                                                   To/from Norwich – EA1580
+
+
+EA1162 ELY NORTH JUNCTION TO KING’S LYNN
+TIMING POINT                     DOWN         UP           CODE    NOTES
+
+Ely North Junction               -            UL DL                Line code must be shown.
+                                              EWC                  To/from Ely – EA1161,
+                                                                   To/from Ely West Junction – EA1550
+Littleport Signal L24            -                         S       Trains to be held at Littleport Signal L24 if
+                                                                   required for pathing purposes. See Littleport
+                                                                   Signal L22 for details.
+Littleport                       -            -                    Platform detail must be shown
+Littleport Signal L22            -                         S       Trains which exceed the platform length may
+                                                                   not be held in Littleport station. Trains up to
+                                                                   300m in length may be held at Littleport L22.
+                                                                   Trains in excess of 300m in length must be held
+                                                                   at Littleport Signal L24.
+Downham Market                   -            -                    Platform detail must be shown
+Downham Market Reception         -                         F
+Downham Market Signal            -            -            S       For trains required to reverse
+DM8
+
+
+
+                                     Electronic copy - uncontrolled when printed.

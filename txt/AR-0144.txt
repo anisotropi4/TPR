@@ -1,0 +1,73 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                       Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                      Date:
+                                               2024                                           2023
+                                                                                     Page:    141 of 183
+
+Purfleet
+
+Junction Margins
+First Move                                       Second Move
+Train Arrives P1                                 Train 2 departs into Purfleet Long Sidings         3
+Train departs P2 into Purfleet Long Sidings      Train arrives P1                                   5
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                             Value
+Departures passing Purfleet from Purfleet Long
+                                                                                                    {2} after
+Siding for trains timed at Deep Wharf LC (via    Not linespeed passing Purfleet
+                                                                                                    Purfleet
+UR1166 signal)
+                                                 2 minute OP stop required at Purfleet for trains
+Purfleet
+                                                 entering Purfleet Long Sidings to await            2
+                                                 clearance from PIC to enter Long Sidings
+Outbound
+                                                 Op Stop for trains departing Purfleet Long
+UR1176 Signal                                                                                       2
+                                                 Sidings from West Thurrock Sidings
+
+Terminal Lengths
+Purfleet Deep Water Wharf (Car traffic)                                                             103 SLUs
+Purfleet Deep Water Wharf (Intermodal traffic)                                                      68 SLUs
+Foster Yeoman Sidings                                                                               31 SLUs
+West Thurrock Sidings                                                                               64 SLUs
+
+
+Purfleet Long Siding
+
+Restrictions
+Purfleet Long Siding is split into three sections: The Spur, Jurgens Long Siding and Velacotts Long Siding. No
+more than one train may be in each of these three sections at any time. For timetabling purposes Jurgens Long
+Siding is between Purfleet and Jurgens LC. For timetabling purposes Velacotts Long Siding is between Jurgens
+LC and West Thurrock Headshunt. For timetabling purposes, The Spur is not currently used. These sections
+should be treated as AB sections.
+
+
+Deep Wharf LC
+
+Trains to or from Purfleet Foster Yeoman & to West Thurrock Sidings
+All trains must stop to operate the level     OP stop                                               2
+crossing at Deep Wharf LC
+
+Trains to Purfleet Deep Water Wharf
+All trains to Purfleet Deep Water Wharf must     RR Allowance (due to distance the loco must        45
+have a RR at Deep Wharf LC before propelling     travel via 2267 points, Up Tilbury and
+back into the terminal. No other trains should   2265/2266 points)
+be planned onto any part of Purfleet Long
+Siding until the RR is complete and the train
+has arrived into Purfleet Deep Water Wharf.
+
+Trains from Purfleet Deep Water Wharf
+All trains from Purfleet Deep Water Wharf must   OP stop                                            2
+be timed with an OP stop at Deep Wharf LC
+before departing Purfleet Long Siding via
+UR1166 signal, 2266 & 2265 points to Purfleet.
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

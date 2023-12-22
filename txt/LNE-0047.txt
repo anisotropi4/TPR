@@ -1,0 +1,60 @@
+NETWORK RAIL                   Timetable Planning Rules                    Version: 4.1
+London North Eastern             Revised Final Rules for                     Date: 12 October 2023
+                            Subsidiary Change Timetable 2024                 Page: 44 of 368
+
+
+LN742 KILLINGHOLME TO BROCKLESBY JUNCTION
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Killingholme                 –
+  Immingham Headshunt RR     –                     S
+  Immingham Signal 253       –                     S        Trains on Down Killingholme only
+  Immingham HIT              –                     S
+  Immingham Bulk Terminal    –                     S
+  Immingham Ore Terminal     –                     S
+  Immingham Storage West     –                     S
+  Immingham Mineral Quay     –                     S
+Immingham West Junction      –          –
+  Immingham Dock CT          –                     S
+  Immingham Pad 1            –                     S
+Humber Road Junction         –          –                   To/from Immingham East Jn – LN740
+  Lindsey Oil Refinery       –          –          S
+  Humber Oil Refinery        –          –          S
+Ulceby North Junction                                       To/from Barton-on-Humber – LN744
+Ulceby                       –          –
+Ulceby South Junction                                       To/from Habrough Jn – LN741
+Brocklesby Junction          ML GL      –                   To/from Barnetby – LN736
+
+
+LN744 ULCEBY NORTH JUNCTION TO BARTON ON HUMBER
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Ulceby North Junction                                       To/from Ulceby – LN742
+Thornton Abbey               –          –          S        All trains in the down direction must come
+                                                            to a stand to wait for the Drivers White
+                                                            Lights for Barton Road Level Crossing
+Goxhill                      –          –          S
+Oxmarsh                      –          –          S        # Stop required for Token Working
+New Holland                  –          –          S
+Barrow Haven                 –          –          S
+Barton on Humber             –          –
+
+
+
+LN746 COTTAM POWER STATION TO CLARBOROUGH JUNCTION
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Cottam Power Station         –
+Clarborough Junction         –          –                   To/from Retford – LN736
+
+
+LN748 RETFORD WESTERN JUNCTION TO THRUMPTON WEST JUNCTION
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Retford Western Junction     –                              To/from Retford (High Level) – LN101
+Thrumpton West Junction      –          –                   To/from Worksop – LN736
+
+
+
+
+                            Electronic copy - uncontrolled when printed.

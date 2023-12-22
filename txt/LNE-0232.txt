@@ -1,0 +1,58 @@
+NETWORK RAIL                                     Timetable Planning Rules                                      Version: 4.1
+London North Eastern                               Revised Final Rules for                                       Date: 12 October 2023
+                                              Subsidiary Change Timetable 2024                                   Page: 229 of 368
+
+
+                             Immingham West Junction                                                           196 Routes Detailed in the Matrix
+2nd Move         Pass       Pass    Pass on   Pass on     Pass on     Pass on    Pass on     Pass on   Pass on    Pass on    Pass on     Pass on    Pass on    Pass on
+   →             on Up     on Up       Up        Up          Up          Up         Up          DN        DN         DN         DN          DN         DN         DN
+                K’holm     K’holm   K’holme   K’holme     K’holme     K’holme    K’holme     K’holme   K’holme    K’holme    K’holme     K’holme    Ki’holme   Ki’holme
+                e to IBT    e to     to IBT    to HIT        to          to         to         from      from       from     from HIT    from IBT   from IBT   from IBT
+                  Ore       IBT       Coal    No. 1 or    Western     Henders    Mineral     Mineral   Henders    Western     No.1 or       Coal       Coal    Ore Line
+                  Line      Coal     Pad 2      No.2        Jetty     on Quay     Quay        Quay     on Quay      Jetty       No.2       Pad 2      Pad 1
+                           Pad 1               Arrival/    Arrival                                                Departur    Arrival/
+                                              Departur    Line (for                                                e Line    Departur
+                                                  e        Simon                                                   (from       e Line
+                                                          Storage                                                  Simon
+                                                          West) †                                                 Storage
+                                                                                                                   West)
+                                                                                1st Move ↓
+Pass on Up
+K’holme to       n/a        H         H          H           H          H           H          P         P            P          P          9          9         n/a
+  IBT Ore
+    Line
+Pass on Up
+K’holme to        H         n/a       H          H           H          H           H          P         P            P          P          9         n/a         9
+ IBT Coal
+   Pad 1
+Pass on Up
+K’holme to        H         H         n/a        H           H          H           H          P         P            P          P         n/a         9          9
+ IBT Coal
+   Pad 2
+Pass on Up
+K’holme to
+ HIT No. 1       6½*       6½*       6½*        n/a          H          H           H          8          8           8          7          9          9          9
+  or No.2
+   Arrival/
+ Departure
+Pass on Up
+K’holme to
+  Western
+Jetty Arrival    6½*       6½*       6½*         H          n/a         H           H          8        10½          n/a         7          9          9          9
+  Line (for
+   Simon
+  Storage
+  West) †
+Pass on Up
+K’holme to       6½*       6½*       6½*         H           H          n/a         H          8         n/a        12½          7          9          9          9
+Henderson
+    Quay
+Pass on Up
+K’holme to       6½*       6½*       6½*         H           H          H          9½*        14½         8           8          7          9          9          9
+  Mineral
+    Quay
+
+
+
+
+                                                                        Electronic copy - uncontrolled when printed.

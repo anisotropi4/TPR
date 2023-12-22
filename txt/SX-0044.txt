@@ -1,0 +1,61 @@
+NETWORK RAIL                            Timetable Planning Rules                    Version:   4.3
+Route: Sussex                           Final Rules for Subsidiary                  Date:      18th October 2023
+                                              Timetable 2024 OFFICIAL
+                                                                                    Page:      40 of 163
+
+SO650 BALHAM JUNCTION TO BECKENHAM JUNCTION
+TIMING POINT                        DOWN         UP          CODE       NOTES
+
+West Norwood Junction               -            -                      To/from Tulse Hill - SO680C
+West Norwood                        -            -                      Platform detail must be shown
+Gipsy Hill                          -            -           S
+Crystal Palace Signal TVC167                     -                      Use TIPLOC CRYS167
+Crystal Palace                      -            -                      Platform detail must be shown
+                                                                        To/from Sydenham - SO510A
+Bromley Junction                    -            -                      To/from Norwood Junction - SO650A
+Birkbeck                            -            -           S
+Beckenham Junction Shunt Signal     -            -                      Use TIPLOC BCKN167
+VS167
+Beckenham Junction                  -            -                      To/from Shortlands Junction - Refer to
+                                                                        Kent Timetable Planning Rules -SO110
+
+
+
+
+SO650A BROMLEY JUNCTION TO NORWOOD JUNCTION
+TIMING POINT                        DOWN         UP          CODE       NOTES
+
+Bromley Junction                    -            -                      To/from Crystal Palace - SO650
+Norwood Perturbation Sidings        FL SL -      FL SL                  Stabling not allowed – turnback moves
+                                                                        only
+                                                                        Use TIPLOC NORWDDY
+                                                                        Entry via 1520 points only
+Norwood Junction                    FL SL        -                      Platform detail must be shown
+                                                                        To/from West Croydon - SO510
+                                                                        To/from Windmill Bridge Junction -
+                                                                        SO510B
+
+
+
+SO660 PURLEY TO CATERHAM
+TIMING POINT                        DOWN         UP          CODE       NOTES
+
+Purley                              -            FL SL                  Platform detail must be shown
+                                                                        To/from Purley Oaks - SO500
+Chipstead Line Junction                                                 To/from Reedham - SO660A
+                                                                        For planning purposes this timing point is
+                                                                        shown as Purley
+Purley Shunt Signal T1100           -            -                      Use TIPLOC PURL100
+Purley Shunt Signal T1102           -            -                      Use TIPLOC PURL102
+Kenley                              -            -           S
+Whyteleafe                          -            -           S
+Whyteleafe South                    -            -           S
+Caterham Signal T1361               -            -                      Use TIPLOC CATE361
+Caterham Up Sidings                              -                      T1362 available
+                                                                        SIDINGS TIPLOC = CATECHS
+Caterham                                         -                      Platform detail must be shown
+
+
+
+
+                               Electronic copy - uncontrolled when printed

@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                           Version: 4.1
+London North Eastern                     Revised Final Rules for                            Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                        Page: 122 of 368
+
+
+Alexandra Palace
+                                                  For services departing from Bounds Green           1½
+                                                  Depot to US2 Start to pass; for acceleration       HST/LH/80X
+                                                  purposes
+
+Junction Margins
+When first movement is in the Down direction
+First Movement                               Second Movement                                         Margin
+Pass FL                                      Depart SL to FL                                         1½
+Pass FL                                      Pass SL to FL                                           2*
+Arrive/pass SL from FL                       Pass FL                                                 3
+
+When first movement is in the Up direction
+First Movement                                  Second Movement                                Margin
+Pass FL                                         Pass SL to FL                                  2*
+Pass FL                                         Depart SL to FL                                1½
+Pass SL                                         Depart SL2 to SL                               1½
+Pass SL                                         Pass SL2 to SL                                 2*
+Depart SL not calling at Hornsey                Depart SL2 to SL calling at Hornsey            2
+Pass SL2                                        Pass SL to SL2                                 2*
+*May be reduced to 1½ if second train has 1 minute or more pathing time approaching Alexandra Palace
+
+Dwell Time
+All trains                            1 minute unless reduced to 30 seconds by agreement with Train Operator
+
+Platform Re–occupation
+In Down direction                    2
+In Up direction                      2½
+
+
+New Southgate
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Cross UFL to USL                                  Up fast passes Potters Bar                          Same time
+
+
+
+
+New Barnet
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down train to cross to SL                         Next fast train passes Alexandra Palace             ½
+Up train cross to SL                              Next train passes Potters Bar                       1
+Fast passes Alexandra Palace                      Depart USL to UFL                                   1 before
+Fast passes Alexandra Palace                      Pass USL to UFL                                     Same time
+Fast passes Potters Bar                           Depart/pass DSL to DFL                              Same time
+
+Dwell Time
+1 – May be reduced to ½ minute outside SX peak hours following discussion with operator
+
+
+Potters Bar
+
+Adjustment to sectional running times
+                                 Electronic copy - uncontrolled when printed.

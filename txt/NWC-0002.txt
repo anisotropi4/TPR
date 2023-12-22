@@ -1,0 +1,60 @@
+                                         OFFICIAL
+
+
+
+
+             F- added Odd Class 2 for trains Oxford to Milton Keynes via East West Rail
+             F- added Even Class 2 for trains Milton Keynes to Oxford via East West Rail
+             J - added Class 1 trains from Birmingham International/New Street to
+             Crewe via Shrewsbury
+             K- Amended Birmingham New Street to Crewe to now show Class 2 Stafford
+             to Crewe, this represents new service pattern.
+             K- Amended Crewe to Derby to show Class 1 Derby to Crewe, this now
+             represents the class of the service and the direction it is applied.
+             R - added Class 1 trains from Birmingham International/New Street to
+             Manchester Piccadilly via Shrewsbury, Chester and Warrington Bank Quay
+
+    1.3.2    Days of Operation
+             No change
+
+    1.3.3    Traction and Rolling Stock
+             HSTGW4 removed as no longer in use.
+             HST references removed throughout the document
+
+    1.3.4    Line Codes
+             BL line code deleted. This is not used
+             CYL line code added for Claydon Loop
+             DC line code, second definition corrected to Down (Nuneaton) Chord
+             UC line code, corrected to Up (Nuneaton) Chord
+
+    1.3.5    Activity and Other Codes
+             No change
+
+
+
+2   Route Description
+
+    2.1      Planning Geography
+             MD101     Denbigh Hall South Jn. Correction of reference MD736 to refer
+                       to Bletchley High Level.
+                       Bletchley Relief 1. TIPLOC ID added to allow easier identification
+                       of line
+                       Bletchley Relief 2. TIPLOC ID added to allow easier identification
+                       of line
+                       Lichfield Trent Valley Low Level. X added to code to reflect
+                       trains crossing to the Chord Line.
+             MD140     Fenny Stratford Jn. Note amended to refer to route MD741
+                       towards Flyover Summit Jn
+             MD232     Nuneaton. DC line code corrected to show Down (Nuneaton)
+                       Chord
+             MD301     Grand Jn. Note amended to reflect Timing point can be omitted
+                       from 150+ schedules
+             MD306     Five Ways. Note amended to reflect Timing Point can be omitted
+                       from 150+ schedules
+                       Ashchurch. Note amended to reflect Timing Point can be omitted
+                       from 150+ schedules
+
+
+
+
+                                            2

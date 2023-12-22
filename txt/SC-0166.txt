@@ -1,0 +1,63 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                           Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024                  Date:    28/07/2023
+                                                                                                  Page:    161 of 242
+
+Spean Bridge
+
+All trains must stop for token exchange purposes.
+
+For Up trains, see general restictions above.
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                              Value
+If diverted via Up Platform when passing           Driving at caution across points approaching        3
+stabled train                                      Spean Bridge
+
+
+
+Fort William Junction
+
+Goods trains arriving from Spean Bridge, require a 2 minute RM at Fort William Junction before propelling to Alcan
+or Yard. Whilst the propelling move is in progress, no train can proceed to/from Banavie and no train can pass
+Spean bridge towards Fort William.
+For Down trains, see general restictions above.
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Pass to/from Spean Bridge, Alcan, Yard             Pass from Banavie                                   3½
+Pass to/from Banavie, Yard                         Pass from Spean Bridge                              4
+Pass to Spean Bridge                               Depart Alcan                                        3
+Pass to Banavie or Yard                            Depart Alcan                                        1
+Pass to Spean Bridge, Banavie                      Depart Yard                                         1
+Arrive Alcan                                       Pass from Banavie                                   3½
+
+
+
+Fort William
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                              Value
+Train arriving into occupied Platform              Approach Control                                    1
+
+Dwell Time
+All through trains requiring           10 from Glasgow
+watering                               8 from Mallaig
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Arrive from Fort William Junction                  Depart to Fort William Junction                     1
+
+Note
+Normally trains departing Fort William Station need to be in possession of the relevant token towards Spean
+Bridge or Loch Eil Outward Bound. However, trains heading towards Loch Eil Outward Bound may leave Fort
+William Station without a token, provided a TW stop is inserted at Fort William Junction for both the train from Fort
+William and the train to Fort William.
+
+Train Watering Points                  Platform 2 also Platform 1 for trains of 4 vehicles or less
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

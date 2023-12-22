@@ -1,0 +1,64 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:    4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:     28th July 2023
+West and Central
+                                                                                    Page:     393 of 443
+
+STATION                           PLATFORM         LENGTH      NOTES
+
+Rufford                           Up                      61   Additional 16m beyond signal
+Rugby                             1                      270
+Rugby                             2                      348
+Rugby                             3                      196
+Rugby                             4                      357
+Rugby                             5                      300
+Rugby                             6                      190
+Rugeley Town                      1                       88
+Rugeley Town                      2                       88
+Rugeley Trent Valley              Up Slow                145
+Rugeley Trent Valley              Down Fast              132
+Rugeley Trent Valley              Branch                  90
+Runcorn                           Down                   298
+Runcorn                           Up                     328
+Runcorn East                      Down                   185
+Runcorn East                      Up                     185
+Ryder Brow                        1                       99
+Ryder Brow                        2                       99
+
+St. Albans Abbey                  Single                 109
+St. Annes–on–the–Sea              Single                 129
+St. Bees                          1                      106
+St. Bees                          2                      101
+St. Helens Central                Down                   163
+St. Helens Central                Up                     161
+St. Helens Junction               Down                   121
+St. Helens Junction               Up                     119
+St. Michaels                      1                      130   Up line
+St. Michaels                      2                      130   Down line
+Salford Central                   1                      136   Bi–directional
+Salford Central                   2                      140   Bi–directional
+Salford Crescent                  1                      130   Bi–directional. Up & Down Bolton line
+Salford Crescent                  2                      130   Bi–directional. Down Bolton line
+Salwick                           Down                    93   Additional 155.5m OOU
+Salwick                           Up                      93   Additional 155.5m OOU
+Sandbach                          1                      165   Up Main line
+Sandbach                          2                      168   Down Main line
+Sandbach                          3                      168   Bi–directional
+Sandhills                         1                      129   Bi–directional
+Sandhills                         2                      130   Down line
+Sandwell & Dudley                 1                      270
+Sandwell & Dudley                 2                      268
+Sankey (for Penketh)              Down                    92
+Sankey (for Penketh)              Up                      98
+Saunderton                        1                      147
+Saunderton                        2                      147   143m to stop board
+Seaforth & Litherland             1                      128   Up line
+Seaforth & Litherland             2                      127   Down line
+Seascale                          Down                    57   Additional 85.2m unlined
+Seascale                          Up                      36   Additional 106.1m unlined
+Seer Green                        1                      167
+Seer Green                        2                      167
+Sellafield                        Down                    50   Additional 41.2m unlined
+
+
+
+                            Electronic copy - uncontrolled when printed

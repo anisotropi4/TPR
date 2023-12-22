@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                           25th August 2023
+                                                                                   Date:
+                                        Timetable 2024                             Page:     118 of 168
+
+
+Bearstead
+
+Berthing Facilities
+Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operational
+restrictions
+
+
+Hollingbourne
+
+Berthing Facilities
+Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operational
+restrictions
+
+
+Harrietsham
+
+Berthing Facilities
+Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operational
+restrictions
+
+
+Charing
+
+Berthing Facilities
+Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operational
+restrictions
+
+
+Hothfield
+
+Limit of Shunt
+Down Maidstone (clear of shunt signal ME341)
+Up Maidstone (clear of shunt signal ME343)
+
+Freight Length Restrictions                                                                        Length Limit
+Hothfield Tarmac Sidings                                                                           54 SLU
+
+Planning Note
+Freight trains should be planned as follows:
+Down direction– Freight timed into the Hothfield Sidings, next train can pass/depart Charing 2 ½ minutes later
+Freight to cross 444A & 445A points over into Hothfield Substation (Beechbrook Farm Loop).
+Engine required to runaround at Hothfield Substation (Beechbrook Farm Loop).
+Up direction – Freight train cannot leave Hothfield Substation (Beechbrook Farm Loop) until an Up service has
+passed ME218 signal. 445A points can be set to enter the Up Maidstone before propelling back across 441A &
+442A points into Hothfield Sidings.
+10 minutes is required for propelling services into Hothfield Sidings
+
+
+SO140A OTFORD JUNCTION TO SEVENOAKS
+
+Sevenoaks
+See entry under route SO130
+
+
+                                   Electronic copy - uncontrolled when printed

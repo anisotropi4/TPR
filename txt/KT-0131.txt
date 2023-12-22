@@ -1,0 +1,62 @@
+NETWORK RAIL                               Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                             25th August 2023
+                                                                                       Date:
+                                            Timetable 2024                             Page:    127 of 168
+
+
+ SO280 FARRINGDON TO HERNE HILL
+
+ Farringdon
+
+ Connectional Allowance                3
+
+ Dwell Time
+ All Southbound Services                            1        AC to DC traction changeover takes place here
+ All Northbound Services                            1        DC to AC traction changeover normally takes place at
+                                                             City Thameslink.
+
+ Platform Reoccupation
+ Same direction                                              1½
+ Opposite direction Platform 4 only                          3
+
+
+ Smithfield Sidings
+
+ Berthing Facilities
+ Location                   Cars       Notes
+ Siding No 1                8
+ Siding No 2                8
+
+ Planning Restrictions
+ Class 375/465/466 units are prohibited from working to Smithfield Sidings due to OHLE clearance issues
+ between City Thameslink and Smithfield Sidings/London Blackfriars.
+ Please also refer to the Sectional Appendix, Route SO280, Route Clearance
+
+
+ City Thameslink
+
+ Connectional Allowance                3
+
+ Dwell Time
+ All Northbound Services                            1        DC to AC traction changeover takes place here..
+ All Southbound Services                            1        AC to DC traction changeover will normally occur at
+                                                             Farringdon..
+
+ Junction Margins/Platform Reoccupation
+ Same direction                       1½
+
+ First Movement                                      Second Movement                                  Margin
+ Northbound departure from Platform 1 to             Arrival from Smithfield Sidings                  3
+ Farringdon
+ Northbound departure from Platform 2 to             Arrival in Platform 2 from Farringdon            4
+ Farringdon
+ Southbound departure from Platform 1 or 2           Northbound arrival in Platform 2                 3
+ Southbound departure from Platform 1                Northbound arrival in Platform 1 or 2            3
+
+ Planning Restrictions
+ Class 375/465/466 units are prohibited from working to City Thameslink due to OHLE clearance issues between
+ City Thameslink and Smithfield Sidings/London Blackfriars.
+ Please also refer to the Sectional Appendix, Route SO280, Route Clearance
+
+                                      Electronic copy - uncontrolled when printed

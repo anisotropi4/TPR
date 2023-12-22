@@ -1,0 +1,65 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                            Timetable Planning Rules                     Version:   4.1
+East Midlands                     Final Subsidiary Change Rules 2024                   Date:    13th September
+                                                                                                2023
+                                                                                       Page:    54 of 123
+
+Harpenden
+intermediate signals
+Luton Airport Parkway
+
+Connectional Allowance              4 between Thameslink services
+                                    10 between East Midlands Railway and Thameslink services
+
+Dwell Time
+EMU                                 ½ 1 minute for Down Bedford trains
+180/222                             1½ 2 minutes in the Up morning and Down evening peak
+360                                 1
+
+Platform Re-occupation
+First Movement                      Second Movement                                         Margin
+Depart Platform 2 towards Luton     Arrive Platform 2 from Harpenden or Harpenden           1 after 1st train has
+                                    Junction                                                arrived at Luton
+
+
+Luton
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Down Slow to Platform 2                          Approach control signal WH299                     1
+Platform 1 or 2 to Down Slow                     20mph through crossover – to be applied           2
+                                                 approaching next timing point
+
+Movement Up                                      Reason                                            Value
+Up Slow to Platform 2                            Approach control on signal WH304                  1
+Platform 3 to Up Fast                            20mph through crossover                           ½
+Thameslink schedules originating at Luton        Running brake test                                ½ after Luton
+
+Connectional Allowance              4 between Thameslink services
+                                    10 between East Midlands Railway and Thameslink services
+
+Dwell Time
+All Thameslink services             1½* may be reduced to 1 minute by agreement with TOC)
+LH                                  1½
+180/222                             1½# #2 minutes in the Up morning and Down evening peak
+360                                 1
+
+Minimum Turnround
+DMU                                 6
+Class 700                           10 Passenger to Passenger. May be reduced to 8 minutes for 8 car Class
+                                    700 if ECS movement is involved.
+Via shunt                           15 DMU/EMU
+
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Platform 1 to Down Slow via Up Slow              Up Slow to Platforms 1, 2, 3 or 4                 5
+Platform 2 to Down Slow via Up Slow              Up Slow to Platforms 1, 2, 3 or 4                 5
+Platform 3 to Down Slow                          Up Slow to Platforms 3 or 4                       5
+Up Fast passenger pass through Platform 4        Depart Platform 3 to Up Fast                      2½
+(not calling at Luton Airport Parkway)
+
+
+
+                                        Electronic copy - uncontrolled when printed.

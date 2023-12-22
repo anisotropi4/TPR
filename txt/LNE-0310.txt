@@ -1,0 +1,62 @@
+NETWORK RAIL               Timetable Planning Rules                    Version: 4.1
+London North Eastern         Revised Final Rules for                     Date: 12 October 2023
+                        Subsidiary Change Timetable 2024                 Page: 307 of 368
+
+
+STATION                    PLATFORM      USABLE       NOTES
+                                         LENGTH
+
+Dore & Totley              Single 1      100 152
+Dore & Totley              2             152
+Drayton Park               Down          124
+Drayton Park               Up            124
+Driffield                  Down          124
+Driffield                  Up            103
+Dronfield                  Down          111
+Dronfield                  Up            111
+Dunston                    Down          94
+Dunston                    Up            93
+Durham                     Down          295
+Durham                     Up            264
+Eaglescliffe               Down          208
+Eaglescliffe               Up            190
+East Boldon                Down          65
+East Boldon                Up            65
+East Garforth              Down          102
+East Garforth              Up            102
+Eastrington                Down          90
+Eastrington                Up            90
+Egton                      Single        80
+Elland                     Up            125
+Elland                     Down          125
+Elsecar                    Down          130
+Elsecar                    Up            99
+Enfield Chase              Down          126
+Enfield Chase              Up            125
+Essex Road                 Down          128
+Essex Road                 Up            128
+Featherstone               Down          101
+Featherstone               Up            101
+Fellgate                   Down          65
+Fellgate                   Up            65
+Ferriby                    Down          110
+Ferriby                    Up            170
+Filey                      Down          119
+Filey                      Up            112
+Finsbury Park              1             245
+Finsbury Park              2             245
+Finsbury Park              3             257          To sighting point of K384 signal. Full length
+                                                      263m
+Finsbury Park              4             249
+Finsbury Park              5             246.5
+Finsbury Park              6             178
+Finsbury Park              7             239.5
+Finsbury Park              8             168
+Fitzwilliam                Down          93
+Fitzwilliam                Up            93
+Frizinghall                Down          98
+Frizinghall                Up            98
+Gainsborough Central       Down          138
+Gainsborough Central       Up            138
+Gainsborough Lea Road      Down          145
+                        Electronic copy - uncontrolled when printed.

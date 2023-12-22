@@ -1,0 +1,53 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+London North Eastern                    Revised Final Rules for                      Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                  Page: 160 of 368
+
+
+Pyewipe Junction
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+Pass West Holmes Junction to Gainsborough        Pass to Boultham Junction                     5
+Pass to Boultham Junction                        Pass West Holmes Junction to Gainsborough     3
+Pass from Boultham Junction                      Pass to Boultham Junction                     4
+
+
+Gainsborough Lea Road
+Dwell Time
+All                                  1
+
+
+Bessacarr Junction
+
+Adjustment to sectional running time
+Movement Down                                    Reason                                        Value
+Approaching Bessacarr Junction – for trains to   Approach Control                              1½ Freight
+Black Carr Junction or Up Lincoln Flyover                                                      ½ Passenger
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+All conflicting moves                                                                          3
+
+
+LN185 ALLINGTON WEST JUNCTION TO SKEGNESS
+Allington West Junction
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+Pass from Nottingham towards Grantham            Pass from Sleaford                            4
+Pass from Sleaford                               Pass to Grantham                              4
+
+
+Allington North Junction
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+Pass from Sleaford towards Allington West        Pass from Allington East towards Sleaford     3½
+Junction
+Pass from Allington East towards Sleaford        Pass from Sleaford towards Allington West     2½
+                                                 Junction
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

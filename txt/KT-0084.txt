@@ -1,0 +1,61 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                              25th August 2023
+                                                                                        Date:
+                                          Timetable 2024                                Page:         80 of 168
+
+
+STANDARD VALUES – MINIMUM
+EMU
+Class 466  1 min       1 min                     1 min         1 min            1 min         1 min
+EMU
+Class 700                                                      4 mins                         4 mins
+EMU
+Class 707                                        1 min                          1 min
+EMU
+
+Generic Rolling Stock Classes
+Train Class                                                    ITPS Timing Load                       TPR Values
+Class 171 DMU                                                  170100 timing load                     Class 171 values
+Class 375 EMU                                                  375 timing load                        Class 375 values
+Class 376 EMU                                                  465 timing load                        Class 465 values
+Class 377 EMU                                                  375 timing load                        Class 375 values
+Class 387 EMU                                                  375 timing load                        Class 387 values
+Class 395 EMU                                                  395 timing load                        Class 395 values
+Class 465/466 EMU                                              465 timing load                        Class 465 values
+Class 700 EMU                                                  700 timing load                        Class 700 values
+Class 707 EMU                                                  465 timing load                        Class 465 values
+
+Junction Margins
+Between all conflicting movements at London Area Junctions between                2
+London Termini and Orpington (exclusive), Otford Junction and Gillingham
+inclusive
+Between all conflicting movements at all other junctions                          3
+Between all conflicting movements following a class 4, 6, 7 or non-               3
+seasonal class 8
+Resetting of route for a departing service following the arrival/passing of       1
+conflicting inwards service
+
+Platform Reoccupation
+Platform re-occupation in the same direction unless stated otherwise              2
+Platform re-occupation for movements in opposing directions                       3
+
+Minimum allowance for freight movements
+Reversal before/after propelling movement                                2
+Crew change                                                              2
+Light engine reverse                                                     2
+Change of Locomotive                                                     10
+Runround in stations                                                     20
+Runround in yards or depots                                              20
+
+Permissive Working
+Where attaching/detaching and platform sharing is permitted, only class 1, 2, 3, ECS 5, 9 and 0 trains are allowed
+to undertake permissive working. See Sectional Appendix
+
+Station Allowances
+These minimum allowances may be increased by negotiation for specific traffic needs. Any subsequent reduction
+in these allowances must be agreed by Network Rail.
+
+Minimum Turnround
+Stock                       1-2 Car       3-4 Car        5-6 Car        8 Car      9-10 Car       12 Car          Eurostar
+                                      Electronic copy - uncontrolled when printed

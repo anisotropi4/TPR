@@ -1,0 +1,62 @@
+NETWORK RAIL                             Timetable Planning Rules                        Version: 4.1
+London North Eastern                       Revised Final Rules for                         Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                     Page: 4 of 368
+
+
+
+1.1 Index of Routes
+Information arranged on a line of route basis in this document is presented in the following order:
+
+ LN101                       London King’s Cross to Shaftholme Jn
+ LN105                       Moorgate to Finsbury Park Jn
+ LN110                       Canonbury West Jn to Finsbury Park Jn
+ LN115                       Copenhagen Jn to Camden Road Central Jn
+ LN120                       Wood Green North Junction to Langley Jn (via Hertford)
+ LN125                       Hitchin Cambridge Jn to Royston (inclusive)
+ LN126                       Hitchin North Junction to Hitchin East Junction
+ LN135                       King’s Dyke (exclusive) to Crescent Junction
+ LN145                       Marholm Junction to Glinton Junction
+ LN147                       Helpston Junction to Uffington
+ LN150                       Flyover East Jn to Decoy North Jn
+ LN155                       Flyover East Jn to Loversall Jn (Up Loversall Curve)
+ LN160                       Loversall Carr Jn to Flyover West Jn
+ LN165                       Harringay Park Jn to Harringay Jn
+ LN170                       Werrington Jn to Flyover East Jn (via Lincoln)
+ LN175                       Sleaford South Jn to Sleaford East Jn
+ LN180                       Sleaford West Jn to Sleaford North Jn
+ LN185                       Allington West Jn to Skegness
+ LN190                       Allington East Jn to Allington North Jn (Allington Chord)
+ LN195                       Grantham Nottingham Branch Jn to Allington West Jn (inclusive)
+ LN200                       Wrawby Jn to Pelham Street Jn
+ LN206                       Newark Flat Crossing (inclusive) to West Holmes Jn
+ LN210                       Newark Crossing Curve line
+ LN215                       Boultham Jn to Pyewipe Jn
+ LN220                       Bessacarr Jn to Black Carr Jn
+ LN235                       Rossington Colliery Branch
+ LN600                       Shaftholme Jn to Reston GSP
+ LN618                       Holgate Jn to Skelton Jn
+ LN620                       King Edward Bridge East Jn to King Edward Bridge North Jn
+ LN622                       Forth branch
+ LN624                       Northallerton Castle Hills Jn to Castle Hills West GF
+ LN626                       Northallerton High Jn to Northallerton East Jn
+ LN627                       Longlands Jn to Newcastle East Jn via the Coast
+ LN628                       South Hylton to Sunderland South Jn
+ LN629                       Pelaw Metro Jn to Pelaw South Jn
+ LN630                       Pelaw North Jn to Pelaw Metro Jn
+ LN631                       Darlington South Jn to Eaglescliffe South Jn
+ LN632                       Stockton Cut Jn to Saltburn
+ LN634                       Guisborough Jn to Whitby
+ LN636                       Beam Mill Jn to Slag Road (Lackenby)
+ LN638                       Grangetown Shell Jn to Cleveland Freightliner Terminal (Wilton)
+ LN640                       ICI Wilton Coal Terminal
+ LN642                       Saltburn West Jn to Boulby Potash Mine
+ LN644                       Hartburn Jn to Bowesfield Jn
+ LN646                       Norton-on-Tees South to Ferryhill South Jn
+ LN648                       Norton-on-Tees West to Norton-on-Tees East
+ LN652                       Billingham Jn to Seal Sands Storage
+ LN656                       Seaton-on-Tees Branch
+ LN662                       Ryhope Grange Jn to Hendon
+ LN664                       Boldon East Jn to Boldon North Jn
+ LN666                       Boldon West Jn to Tyne Dock
+ LN670                       Jarrow Branch
+                                      Electronic copy - uncontrolled when printed.

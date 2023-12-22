@@ -1,0 +1,64 @@
+                                                         OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                            Version:    4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                        12th September
+                                                                                             Date:
+                                                2024                                                 2023
+                                                                                             Page:   54 of 183
+
+4.6 Engineers Trains Restrictions
+Some On Track Machines (OTMs) do not reliably activate track circuits. These OTMs must use one of the
+following special reporting numbers 6Z09, 7Z09 or 8Z09*. Because these OTMs do not reliably activate track
+circuits it is not possible to apply the headways and junction margins as outlined in the Timetable Planning Rules
+consistently and it is therefore not possible for Operational Planning to provide timings for these movements.
+* Source GE/RT 8000-OTM
+
+4.7 Driver Only Operation Limits
+Driver only operation (DOO) of passenger trains is permitted within the East Anglia Region as listed. Driver only
+operation of non-passenger trains – DOO (NP) – is, however, permitted on all routes.
+
+When special trains are required to run DOO (NP) over the following routes, it must be ascertained that competent
+staff are available to deal with these trains at the forwarding and receiving terminals, yards, sidings etc., or where
+locomotive changes take place en route. Furthermore, signal boxes are to be advised of these additional DOO
+(NP) services, with particular reference to Empty Coaching Stock (ECS) trains.
+
+In the table below, the following abbreviations apply:
+
+Pass – Passenger trains with power operated sliding doors
+ECS Slam – Empty Coaching Stock with slam doors
+ECS Slide – Empty Coaching Stock with power operated sliding doors
+NA – Not authorised
+P – Permitted
+# - Permitted for short notice movements when all other DOO (NP) conditions are fulfilled and all doors are locked
+before departure. Authorisation must be obtained from Network Rail Operations Control before this can be applied.
+Line of route
+
+EA1010 LIVERPOOL STREET TO SEVEN KINGS
+ROUTE SECTION                                                       PASS                       ECS SLIDE
+
+Liverpool Street to Seven Kings                                     P (not 745 Norwich IC)     P
+
+
+EA1011 SEVEN KINGS TO IPSWICH
+ROUTE SECTION                                                       PASS                       ECS SLIDE
+
+Seven Kings (excl) to Colchester                                    P (not 745 Norwich IC)     P
+Colchester (excl) to Ipswich                                        P (not 745 Norwich IC)     P
+
+
+EA1040 ROMFORD TO UPMINSTER
+ROUTE SECTION                                                       PASS                       ECS SLIDE
+
+Romford to Upminster                                                P                          P
+
+
+EA1050 SHENFIELD JUNCTION TO SOUTHEND VICTORIA
+ROUTE SECTION                                                       PASS                       ECS SLIDE
+
+Shenfield Junction to Southend Victoria                             P                          P
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

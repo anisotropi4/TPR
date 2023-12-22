@@ -1,0 +1,60 @@
+NETWORK RAIL                         Timetable Planning Rules                      Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                     Page:    369 of 443
+
+Dent
+
+Dwell Time
+LH/HST                             2
+All other                          1 Sundays Only
+
+
+Garsdale
+
+Dwell Time
+LH/HST                             2
+All other                          1
+
+
+Kirkby Stephen
+
+Dwell Time
+LH/HST                             2
+All other                          1 Sundays Only
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Shunting between arrival platform and a different departure platform                             10
+
+
+Appleby
+
+Dwell Time
+LH/HST                             2
+All other                          1 (2 applies 1030 to 1300 Down direction and 1430 to 1830 Up direction)
+
+
+Kirkby Thore British Gypsum
+
+For southbound arrivals                                     For northbound
+                                                            departures
+Culgaith SB Level Crossing pass                             Kirkby Thore British      XX.00
+                                                            Gypsum dep
+Kirkby Thore SB arr                XXOP00                   Culgaith SB Level         XX/XX
+                                                            Crossing pass
+Kirkby Thore SB dep                XXOP01
+Kirkby Thore GPS KT 55 arr         XXOP03
+Kirkby Thore GPS KT 55 dep         XXOP07
+Kirkby Thore British Gypsum arr    XX.15
+
+
+Langwathby
+
+Dwell Time
+LH/HST                             2
+All other                          1
+
+
+
+
+                             Electronic copy - uncontrolled when printed

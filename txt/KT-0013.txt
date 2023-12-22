@@ -1,0 +1,64 @@
+NETWORK RAIL                         Timetable Planning Rules                       Version: 4.1
+Kent & HS1                                                 OFFICIAL
+                                   Final Proposal for Subsidiary                              25th August 2023
+                                                                                    Date:
+                                       Timetable 2024                               Page:     9 of 168
+
+
+     TID         East London Line / Thameslink Service Groups
+    9Axx         East London Line to Crystal Palace
+   9A01-89       Thameslink STP shuttles between Plumstead / Dartford and Gillingham / Rainham when
+                 access to London Bridge is not available.
+   9A90-99       Thameslink LTP shuttles between Dartford and Gillingham / Rainham
+    9Bxx         East London Line from Crystal Palace
+    9Cxx         East London Line to West Croydon
+    9Dxx         East London Line from West Croydon
+    9Exx         East London Line to New Cross
+                 St Albans City and St Pancras International (all stations services) – Not to be used for services
+                 through the Thameslink Core beyond St Pancras and south thereof
+     9Fxx        East London Line from New Cross
+     9Gxx        East London Line to Clapham Junction
+                 Bedford and St Pancras International (semi-fast services) – Not to be used for services
+                 through the Thameslink Core beyond St Pancras and south thereof
+     9Hxx        East London Line from Clapham Junction and Battersea Park
+                 Luton and St Pancras International (all stations services) – Not to be used for services IN
+                 through the Thameslink Core beyond St Pancras and south thereof
+    9Ixx         East London Line to/from New Cross Gate
+    9Jxx         Peterborough and Horsham via London Bridge and Redhill
+9Kxx 9K00-75     Luton / Kentish Town and Orpington via Catford
+9K76-88 (even    Orpington to West Hampstead via Catford or London Victoria via Catford (Sundays)
+  numbers)
+9K90-98 (even    Orpington to London Blackfriars via Catford
+  numbers)
+    9Lxx         Bedford and East Grinstead via London Bridge – Northbound services terminating at London
+                 Bridge (Central) must be allocated numbers between 70 and 99
+     9Mxx        Bedford and St Pancras International (all stations services) – Not to be used for services
+                 through the Thameslink Core beyond St Pancras and south thereof East London Line services
+                 to Battersea Park
+ 9N80 – 9N99     Bedford and Littlehampton via London Bridge and Hove
+   9N00-21       Bedford and Three Bridges / Brighton overnight services diverted via London Bridge (“QY”
+                 paths in WTT to match LTP 9W00-21 via Herne Hill north of Blackfriars Jn and south of
+                 Windmill Bridge Jn).
+   9N30-99       RESERVED FOR VSTP EMERGENCIES
+   9O01-79       St Albans and Sutton via Mitcham Eastfields, Sutton and St Albans via Wimbledon
+   9O80-88       Sutton via Wimbledon to West Hampstead, Kentish Town or Blackfriars
+   9O90-98       Sutton via Wimbledon to Luton or Bedford
+9P01-75          Luton and Rainham or Gillingham via Woolwich Arsenal
+   9P00-75
+ 9P76-88 (even   Rainham/Gillingham to West Hampstead
+   numbers)
+ 9P81-89 (odd    Bedford to Rainham / Gillingham (fast from St Albans)
+   numbers)
+   9P90-97       Shuttle services between London Bridge / Dartford and Rainham / Gillingham via Greenwich
+                 via Woolwich Arsenal
+ 9P98 & 9P99     Services between West Hampstead and Rainham via Lewisham and Bexleyheath
+    9Qxx         NOT USED
+   9R00-69       Bedford and Gatwick Airport/Three Bridges / Brighton via London Bridge and Redhill -
+                 Northbound services terminating at London Bridge (Central) must be allocated numbers
+                 between 70 and 79 and 70 to 99 SO and SUN
+   9R80-99       Bedford and Gatwick Airport/Three Bridges/Brighton via London Bridge and Redhill that have a
+                 maximum of four station calls between Bedford and St Pancras (applies SX)
+     9Sxx        Cambridge and Gatwick Airport/Three Bridges/Brighton via London Bridge and Quarry Lines
+
+
+                                  Electronic copy - uncontrolled when printed

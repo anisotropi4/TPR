@@ -1,0 +1,59 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version: 4.1
+London North Eastern                   Revised Final Rules for                      Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                  Page: 134 of 368
+
+
+Fletton Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                            Value
+Down Main to Down Slow for services stopping    Differential junction speed       ½* passenger approaching
+at Peterborough                                                                   Fletton Junction
+                                                                                  *does not apply to GTR as
+                                                                                  allowance is included in
+                                                                                  SRT
+
+Movement Up                                     Reason                            Value
+Pass Up Slow to Up Main                         Acceleration – to be applied      Passenger
+Or                                              approaching Conington South       1½ 80x/91/HST
+HAW timing loads (pass from Up Slow or Up       Junction                          1 Other
+Fast)
+                                                                                  Freight
+                                                                                  Class 4:
+                                                                                  1 400t
+                                                                                  1½ 600t
+                                                                                  2 800t
+                                                                                  2½ 1,000t – 1,600t
+
+                                                                                  Class 6:
+                                                                                  ½ 400t
+                                                                                  1 600t
+                                                                                  1½ 800t – 1,200t
+                                                                                  2 1,400t – 1,600t
+                                                                                  2½ 1,800t – 2,200t
+                                                                                  3 2,400t – 2,600t
+Up Fast to Up Main having:                      Acceleration – not at linespeed   Passenger
+    a) Stopped at Peterborough, or              by Fletton Junction; to be        ½ 80x/91/HST
+    b) Passed via Platform 1 or 2, or           applied approaching Conington
+    c) Passed via Platform 3 from the Up Slow   South Junction                    Freight
+                                                                                  Class 4:
+       or Signal P458                                                             ½ 800t
+                                                                                  1 1,000t
+                                                                                  1½ 1,200t – 1,600t
+
+                                                                                  Class 6:
+                                                                                  ½ 1,400t – 1,600t
+                                                                                  1 1,800t
+                                                                                  1½ 2,000t
+                                                                                  2 2,200t
+                                                                                  2½ 2,400t – 2,600t
+
+Junction Margins
+First Movement                                  Second Movement                   Margin
+Pass to Down Slow                               Pass Down Fast                    3
+Pass Up Main                                    Up Slow to Up Main                2
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

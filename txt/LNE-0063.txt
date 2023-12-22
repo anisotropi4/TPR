@@ -1,0 +1,48 @@
+NETWORK RAIL                     Timetable Planning Rules                    Version: 4.1
+London North Eastern               Revised Final Rules for                     Date: 12 October 2023
+                              Subsidiary Change Timetable 2024                 Page: 60 of 368
+
+
+LN874 METHLEY JUNCTION TO WHITWOOD JUNCTION
+TIMING POINT                   DOWN       UP         CODE     NOTES
+
+Methley Junction               –          –                   To/from Woodlesford – LN872
+Whitwood Junction              –          –          X        To/from Castleford – LN854
+
+
+LN875 CASTLEFORD WEST JUNCTION TO PONTEFRACT WEST JUNCTION
+TIMING POINT                   DOWN       UP         CODE     NOTES
+
+Castleford West Junction                                      To/from Castleford – LN854
+Glasshoughton                  –          –          S
+Pontefract West Junction                                      To/from Pontefract Monkhill – LN882
+
+
+LN878 SHERBURN JUNCTION TO GASCOIGNE WOOD
+TIMING POINT                   DOWN       UP         CODE     NOTES
+
+Sherburn Junction              –          –          X        To/from Church Fenton – LN854
+Gascoigne Wood Junction        –          –                   To/from Hambleton West Jn – LN898
+
+
+LN880 YORK TO SCARBOROUGH
+TIMING POINT                   DOWN       UP         CODE     NOTES
+
+York                           –          – NNL               Platform detail must be shown
+                                          LSL                 To/from Colton Jn – LN600
+Scarborough Bridge Junction    –          –
+Bootham                        -                     S        Steam locomotive watering point in down
+                                                              direction
+Strensall                      –          –
+Barton Hill                    –
+Kirkham Abbey                  –          –
+Malton                         –          –
+Weaverthorpe                   –          –
+Seamer West Junction                                          To/from Filey – LN914
+Seamer                         –          –
+Scarborough                               –                   Platform detail must be shown
+
+
+
+
+                              Electronic copy - uncontrolled when printed.

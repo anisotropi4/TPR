@@ -1,0 +1,57 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                             25th August 2023
+                                                                                     Date:
+                                        Timetable 2024                               Page:     4 of 168
+
+
+
+1.1 Index of Routes
+    Information arranged on a line of route basis in this document is presented in the following order:
+
+     SO110       London Victoria to Ramsgate (via Herne Hill and Chatham)
+     SO110A      Bickley Junction to Petts Wood Junction
+     SO110B      Gillingham to Chatham Dockyard
+     SO130       London Charing Cross to Dover Priory (via Tonbridge)
+     SO130A      London Cannon Street to Metropolitan Junction
+     SO130B      London Cannon Street to London Bridge
+     SO130C      Tanners Hill Junction to Lewisham Vale Junction
+     SO130D      St Johns Junction to Lewisham Junction
+     SO130E      Parks Bridge Junction to Ladywell Junction
+     SO130F      Courthill Loop North Junction to Courthill Loop South Junction
+     SO130G      Chislehurst Junction to St Mary Cray Junction
+     SO130H      Saltwood Junction to CTRL/ET Boundary
+     SO130K      Sevington Loop to Sevington Sidings
+     SO140       Swanley to Ashford International (via Maidstone East)
+     SO140A      Otford Junction to Sevenoaks
+     SO150       Sittingbourne Western Junction to Sheerness On Sea
+     SO150A      Sittingbourne Eastern Junction to Sittingbourne Middle Junction
+     SO160       Faversham to Dover Priory
+     SO170       Tonbridge to Bopeep Junction
+     SO180       Paddock Wood to Maidstone West
+     SO200       Refer to Sussex Timetable Planning Rules - SO600
+     SO210       Refer to Sussex Timetable Planning Rules – SO610
+     SO220       Ashford to Ramsgate (via Canterbury West)
+     SO240       Buckland Junction to Minster East Junction (via Deal and Sandwich)
+     SO240A      Minster South Junction to Minster West Junction
+     SO250       Factory Junction to Mitre Bridge Junction
+     SO250A      Grosvenor Bridge Junction to Factory Junction
+     SO250B      Battersea Pier Junction to Longhedge Junction
+     SO250C      Longhedge Junction to Pouparts Junction
+     SO250D      Falcon Junction to Latchmere Junction No 1
+     SO260       Brixton Junction to Shortlands Junction (Catford Loop)
+     SO280       Farringdon to Herne Hill
+     SO280A      Blackfriars Junction to Metropolitan Junction
+     SO280B      Loughborough Junction to Cambria Junction
+     SO280C      Loughborough Junction to Canterbury Road Junction
+     SO290       North Kent East Junction to Dartford Junction (via Greenwich)
+     SO290A      Blackheath Junction to Charlton Junction
+     SO290B      Angerstein Junction to Angerstein Wharf
+     SO300       Lewisham Junction to Crayford Creek Junction (via Bexleyheath)
+     SO300A      Slade Green Junction to Perry Street Fork Junction
+     SO310       Hither Green to Maidstone West (via Sidcup)
+     SO310A      Lee Spur Junction to Lee Loop Junction
+     SO310B      Crayford Spur ‘A’ Junction to Crayford Spur ‘B’ Junction
+     SO310C      Strood to Rochester Bridge Junction
+     SO320       Hoo Junction to Grain Sidings
+                                   Electronic copy - uncontrolled when printed

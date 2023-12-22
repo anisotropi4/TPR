@@ -1,0 +1,64 @@
+NETWORK RAIL                        Timetable Planning Rules                         Version:   4.2
+Route: Wessex                   Final Rules for Subsidiary OFFICIAL
+                                                           Change                      Date:    27th October 2023
+                                         Timetable 2024                                Page:    15 of 178
+
+SW100 LONDON WATERLOO TO CLAPHAM JUNCTION
+TIMING POINT                     DOWN         UP          CODE        NOTES
+
+London Waterloo                  MSL                                  Platform detail must be shown.
+                                 MFL
+                                 UMR
+                                 DW UW
+                                 RVL
+                                 WR1
+                                 WR2
+Waterloo C.H.S.                               -           S
+International Junction
+Waterloo West Crossings          MSL          MSL
+                                 MFL          MFL
+                                 WFL          UMR
+                                 WSL          UW RVL
+                                 RVL          WR1
+                                              WR2
+Carlisle Lane Junction
+Vauxhall                         MFL          WL RVL      S X
+                                 MSL          MFL
+                                 WFL          MSL
+                                 WSL
+                                 RVL
+Nine Elms Junction               WL RVL       WL RVL                  To/from Linford Street Junction - SW100B
+                                 UWL                                  All trains on Windsor Lines must be timed
+                                                                      at this point
+Queenstown Road                  MSL          WL MFL      S X         Platform detail must be shown for trains
+                                 MFL          RVL                     planned via Platforms 2 or 3 or the
+                                 WSL                                  Windsor Reversible (RVL).
+                                 WFL                                  Timing point for all trains on the Windsor
+                                 RVL                                  Lines, and trains crossing to/from Windsor
+                                                                      side to/from Main Line
+West London Junction             WSL          WL RVL      X           To/from Latchmere Junction (No 3) -
+(Windsor Side)                   WFL                                  SW100C
+                                                                      All up trains and only down trains to
+                                                                      Clapham Yard or Latchmere Junction are
+                                                                      timed here
+West London Junction             -            MFL         X           Timing point for all trains to/from Clapham
+(Main Line)                                                           Yard
+Clapham Junction Signal W1047    -                        S           Timing point for ECS trains on WFL
+                                                                      reversing into Clapham Yard
+Clapham Junction Signal W1049    -                        S           Timing point for ECS trains on WSL
+                                                                      reversing into Clapham Yard
+Clapham Yard                                  WFL         S           ECS moves only
+                                              WSL
+                                              MFL
+Clapham Junction                 FL SL        WFL                     Platform detail must be shown.
+(Windsor Side)                                WSL                     To/from Longhedge Junction - SW100D.
+                                                                      To/from Latchmere Junction (No 2) -
+                                                                      SW100E.
+                                                                      To/from Wandsworth Town - SW210
+Clapham Junction                 FL SL        MFL                     Platform detail must be shown.
+(Main Line)                                   MSL                     To/from Earlsfield - SW105
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

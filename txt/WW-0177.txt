@@ -1,0 +1,59 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                 Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                Date:    6th October 2023
+                                          Change Timetable 2024                       Page:    174 of 289
+
+
+Clifton Down
+
+Dwell Time
+15x                                               1
+
+
+Junction Margins
+First Movement                                    Second Movement                      Margin
+Arriving from Avonmouth                           Departure to Avonmouth               1
+Arriving from Bristol                             Departure to Bristol                 Simultaneous
+
+Redland
+
+Dwell Time
+15x & 16x                                         ½
+
+
+Montpelier
+
+Dwell Time
+15x & 16x                                        ½
+
+
+GW480 SWINDON TO STANDISH JUNCTION
+
+Kemble
+
+Dwell Time
+15x                                          1
+* Extended to 2 minutes on the Down 1630-2030 hrs and before 09.00 on the Up, Monday to Friday
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                    Reason                            Timing                Value
+                                                                              Load
+Down trains to the Up Platform              Approach control and slow speed   All Traffic           {1½}
+                                            crossover
+
+Stroud
+
+Dwell Time
+15x                                              1
+
+Stonehouse
+
+Dwell Time
+15x                                              1
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

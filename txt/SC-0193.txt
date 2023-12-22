@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                        Version:    4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024               Date:     28/07/2023
+                                                                                              Page:     188 of 242
+
+Dalwhinnie
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                              Value
+Down train using Up platform. Approaching         Slow speed Junction                                 2
+Dalwhinnie
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down Arrive Down Platform                         Up Arrive Up platform                               3
+Down Arrive Down Platform                         Up Pass Up platform                                 4
+Up Arrive/pass                                    Down Arrive Down platform                           3
+Up Pass                                           Down Arrive Up platform                             5
+Up Arrive/pass                                    Down Pass                                           4
+Up Arrive/pass                                    Down Depart                                         1
+
+Operating Instructions
+Down trains may ‘overtake’ another Down train. When the train being overtaken stands at the Down platform the
+following margin applies to the overtaking train.
+First Movement                                    Second Movement                                Margin
+Up Depart/Pass Up Platform                        Down train via Up Platform, pass Dalnaspidal   3
+
+
+
+Kingussie
+
+Adjustment to Sectional Running Times
+Movement Up                                      Reason                    Traction                   Value
+Passing via loop                                 Slow speed crossover      All                        ½
+                                                 Acceleration              MU and HST                 ½*
+                                                                           Loco hauled                1*
+                                                                           passenger and freight
+*Applied approaching next timing point
+
+Dwell Time
+HST Power Doors                      1½
+MU                                   1
+
+Junction Margins
+First Movement                                   Second Movement                                      Margin
+Up Arrive/Pass                                   Down Depart                                          ½
+Up Arrive                                        Down Pass                                            4
+Up Arrive                                        Down Arrive                                          3*
+Down Arrive/Pass                                 Up Depart                                            1
+Down Arrive                                      Up Pass                                              3½
+Down Arrive                                      Up Arrive                                            3½*
+*Can be reduced to 1 minute if {2} inserted approaching Kingussie due to sighting signal at danger.
+
+Loop Length Restriction/Operating Instructions
+Trains using Platform 1 must not exceed 307 metres/48 SLU; trains using Up Loop (Platform 2) must not exceed
+358 metres / 56 SLU. A train exceeding these lengths can pass (i.e. not stop) another train subject to the above
+margins.
+Stopping trains normally use the Down platform, except when passing/being passed by a Down service.
+Up trains may ‘overtake’ another Up train, the train being overtaken standing at the Up platform, the overtaking
+train stopping at or passing through the Down platform.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

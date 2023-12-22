@@ -1,0 +1,49 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version: 4.1
+London North Eastern                   Revised Final Rules for                      Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                  Page: 224 of 368
+
+
+Shireoaks East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                          Value
+Train from Worksop Yard after Shireoaks East   Differential junction speed                     1
+Junction
+Trains not stopping at Worksop going towards   Differential junction speed and approach        1
+Woodend Junction                               control
+Approaching Shireoaks East Jn
+Passenger/Light Engines from a stop at         Differential junction speed and approach        ½
+Worksop, going towards Woodend Junction.       control
+Approaching Shireoaks East Junction
+
+Movement Up                                    Reason                                          Value
+Train from Mansfield to Worksop                Differential junction speed                     ½ (1 for
+Approaching Worksop                                                                            above
+                                                                                               1400t/TR85)
+Train to Worksop Yard                          Differential junction speed                     1
+Approaching Shireoaks East Jn
+
+Junction Margins
+First Movement                                Second Movement                                 Margin
+Pass from Woodend Junction                    Pass to Shireoaks station                       3
+Pass to Shireoaks station                     Pass from Woodend Junction                      3
+Restriction:
+    • No allowances to be applied between Shireoaks East Junction and either Yard and/or Reception lines in
+        either direction
+    • Up Reception Lines 1 and 2 can accommodate loco + 26 HTA wagons
+    • Worksop Yard manager can be contacted on 01302-575203
+
+
+Shireoaks Station (West Junction)
+
+Junction Margins: Times based on Shireoaks station
+First Movement                              Second Movement                                    Margin
+Pass to Woodend Junction                    Arrive/pass from Shireoaks East Junction           5
+Pass from Shireoaks East Junction           Pass to Woodend Junction                           3
+Depart Shireoaks station to Sheffield       Pass to Woodend Junction                           3
+Pass from Woodend Junction                  Pass to Woodend Junction                           4
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

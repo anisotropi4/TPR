@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                       Version:    4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                      Date:     6th October 2023
+                                         Change Timetable 2024                             Page:     125 of 289
+
+
+                                                                                                    particular train
+                                                                                                    plus 1 minute
+
+Adjustment to Sectional Running Time (to be shown approaching location)
+Movement                                        Reason                        Timing Load            Value
+Crossing to the UPL at Scours Lane Junction     Approach Control              All Class 4 and 6      {1}
+                                                                              trains
+
+Adjustment to Sectional Running Times (to be shown after this location)
+Movement                Reason          Timing Load                   Value
+Crossing from the URL   Acceleration    Class 4 and 6 1400T           {½} having stopped at Scours Lane
+having come from
+Scours Lane Junction                    Class 4 and 6 1600T           {1} having stopped at Scours Lane
+
+                                            Class 6 1800T and 2000T           {1½} having stopped at Scours Lane
+
+                                            Class 6 2200T and 2400T           {2} having stopped at Scours Lane
+
+Tilehurst
+
+Crossing and conflicting moves
+First Movement                                    Second Movement                                   Margin
+Departure from Tilehurst down relief platform     Arrival into Tilehurst down relief platform or    5 minutes
+up direction (reversing move)                     down main platform having crossed down
+                                                  relief to down main at Tilehurst East Jn
+
+Turnround Allowances (From Paddington)
+Class 80X (5 car)               6
+Class 80X (9/10 Car)            8
+Class 16x/387/319/769           7
+
+Moreton Cutting
+
+Adjustment to Sectional Running Times (to be shown after this location)
+Movement                                   Reason                     Timing Load                    Value
+Crossing at Moreton Cutting having stopped Acceleration               Class 4 600T and               {½}
+at Didcot East Junction                                               800T
+                                                                      Class 6 1000T                  {½}
+                                                                      and 1200T
+                                                                      Class 4 1000T                  {1}
+                                                                      Class 6 1400T                  {1}
+                                                                      Class 4 1200T                  {1½}
+                                                                      and 1400T
+                                                                      Class 6 1600T                  {1½}
+                                                                      and 1800T
+                                                                      Class 4 1400T                  {2}
+                                                                      Class 6 2000T                  {2}
+                                                                      Class 4 1600T                  {2½}
+                                                                      Class 6 2200T                  {2½}
+                                                                      Class 6 2400T                  {3}
+
+Didcot East Junction
+
+Adjustment to Sectional Running Times
+Movement                                        Reason                      Timing Load            Value
+
+
+                                    Electronic copy - uncontrolled when printed.

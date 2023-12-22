@@ -1,0 +1,64 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                      Version:    4
+Scotland                    Final Rules for Subsidiary Change Timetable 2024             Date:     28/07/2023
+                                                                                         Page:     21 of 242
+
+SC023 MOTHERWELL TO NEWTON (VIA HAMILTON)
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Hamilton E.G. Steele             –           –              F
+Blantyre                         –           –              S
+Newton Turnback Sdg              –           –              S
+Newton                           –           –                     Platform detail must be shown
+                                                                   To/from Uddingston Junction – SC001
+                                                                   To/from Rutherglen East Junction – SC001
+                                                                   To/from Kirkhill – SC055
+
+
+SC024 LARKHALL TO HAUGHHEAD JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Larkhall                         –           –                     Platform detail must be shown
+Merryton                         –           –              S
+Allanton Loop                    –           –              S
+Chatelherault                    –           –              S
+Haughhead Junction               –           –                     To/from Hamilton Central SC023
+
+
+SC025 RUTHERGLEN TO FINNIESTON JUNCTIONS
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Rutherglen                       –           –                     To/from Rutherglen Central Junction –
+                                                                   Sc001
+Rutherglen North Junction        –           –              X      To/from Rutherglen West Junction –SC027
+Dalmarnock                       –           –              S
+Bridgeton                        –           –              S
+Argyle Street                    –           –              S
+Glasgow Central Low Level        –           –                     Platform detail must be shown
+Anderston                        –           –              S      Platform detail must be shown
+Exhibition Centre                –           –              S      Platform detail must be shown
+Finnieston East Junction         –
+Finnieston West Junction                     –                     To/from Hyndland East Junction – SC123
+
+
+SC027 RUTHERGLEN WEST JUNCTION TO RUTHERGLEN NORTH JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Rutherglen West Junction         –           SL             X      To/from Glasgow Central – SC001
+Rutherglen North Junction        –           –              X      To/from Finnieston West Junction – SC025
+
+
+SC029 LARKFIELD JUNCTION TO SHIELDS JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Larkfield Junction               –           –                     To/from Shawfield – SC001
+Terminus Junction                –           –                     To/from Muirhouse Central Junction -
+                                 UTT                               SC049
+Shields Junction                 –           –                     To/from Paisley Gilmour Street – SC059
+                                                                   To/from Paisley Canal – SC061
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

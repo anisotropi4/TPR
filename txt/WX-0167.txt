@@ -1,0 +1,64 @@
+NETWORK RAIL                   Timetable Planning Rules                        Version:   4.2
+Route: Wessex              Final Rules for Subsidiary OFFICIAL
+                                                      Change                     Date:    27th October 2023
+                                    Timetable 2024                               Page:    165 of 178
+
+Blackwater            1 - Up                            85
+Blackwater            2 - Down                          85
+Bookham               1 - Up                           200
+Bookham               2 - Down                         201
+Botley                1 - Up                           132
+Botley                2 - Down                         132
+Bournemouth           1 - Up Bay                        84
+Bournemouth           2 - Up                           247       Down direction
+Bournemouth           2 - Up                           247       Up direction
+Bournemouth           3 - Down                         263       Down direction
+Bournemouth           3 - Down                         263       Up direction
+Bournemouth           4 - Down Extension               206
+Bournemouth           3 & 4 - Down                     522
+Bracknell             1 - Up                           222
+Bracknell             2 - Down                         209
+Bramley               1 - Up                            90
+Bramley               2 - Down                          84
+Branksome             1 - Up                           114
+Branksome             2 - Down                         114
+Brentford             1 - Up                           205
+Brentford             2 - Down                         205
+Brockenhurst          1 - Up Passenger Loop            262       Down direction
+Brockenhurst          1 - Up Passenger Loop            240       Up direction
+Brockenhurst          2 - Up                           260
+Brockenhurst          3 - Down                         243
+Brockenhurst          4 - Down Passenger Loop          243       Down direction
+Brockenhurst          4 - Down Passenger Loop          195       Up direction (to Signal BH8)
+Brookwood             1 - Up Slow                      248
+Brookwood             2 - Down Slow                    248
+Bursledon             1 - Up                           167
+Bursledon             2 - Down                         167
+Byfleet and New Haw   1 - Up Slow                      247
+Byfleet and New Haw   2 - Down Slow                    247
+
+Camberley             1 - Up                           132
+Camberley             2 - Down                         136
+Chandlers Ford        1 – Down & Up                    100
+Chertsey              1 - Down                         211
+Chertsey              2 - Up                           209
+Chessington North     1 - Up                           207
+Chessington North     2 - Down                         205
+Chessington South     Single                           204
+Chetnole              Single                            45       Down direction
+Chetnole              Single                            45       Up direction
+Chilworth             1 - Up Reading                    85
+Chilworth             2 - Down Reading                  92
+Chiswick              1 - Up                           205
+Chiswick              2 - Down                         205
+Christchurch          1 - Up                           185
+Christchurch          2 - Down                         185
+Clandon               1 - Up                           204
+Clandon               2 - Down                         206
+Clapham Junction      1 - Up Bay                        92
+Clapham Junction      2 - Up Bay                       102
+Clapham Junction      3 - Up Windsor Slow              214
+Clapham Junction      4 - Up Windsor Fast              215
+Clapham Junction      5 - Down Windsor Fast            213
+
+                           Electronic copy - uncontrolled when printed.

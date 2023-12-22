@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                        Page:    178 of 443
+
+Nuneaton
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                             Value
+Down Fast to Platform 1 or 2 (if stopping)       Slow speed crossover at Nuneaton South Jn,         1
+                                                 Approach Control
+Down Fast to Platform 1 or 2 (non-stop trains)   Slow speed crossover at Nuneaton South Jn,         2
+                                                 Approach Control
+Depart platforms 1 or 2 to Down Fast             Acceleration after passing Nuneaton North          1
+                                                 Junction                                           approaching
+                                                                                                    Amington Jn
+Pass platforms 1 or 2 to Down Fast               Acceleration after passing Nuneaton North          2
+                                                 Junction                                           approaching
+                                                                                                    Amington Jn
+Depart platform 5 to Down Fast or Down Slow      Acceleration after passing Nuneaton North          1 approach
+                                                 Junction                                           Amington Jn
+Pass platform 5 to Down Fast or Down Slow        Acceleration after passing Nuneaton North          2 approach
+                                                 Junction                                           Amington Jn
+
+Movement Up                                      Reason                                             Value
+Up Fast to Platform 5 (if stopping)              Slow speed crossover at Nuneaton North Jn,         1
+                                                 approach control
+Up Fast to Platform 5 (non-stop trains)          Slow speed crossover at Nuneaton North Jn,         2
+                                                 approach control
+Depart platform 5 to Up Fast                     Slow speed crossover at Nuneaton South Jn           1 approach
+                                                                                                     Rugby Trent
+                                                                                                     Valley Jn *
+Pass platform 5 to Up Fast                        Slow speed crossover at Nuneaton South Jn          2 approach
+                                                                                                     Rugby Trent
+                                                                                                     Valley Jn *
+* - allowance to be inserted at High Oaks Jn or Newbold Jn if crossing there prior to Rugby Trent Valley Jn
+
+Dwell Time
+Class 22x/390/80x                      1½
+All other DMU/EMU                      1
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Train from Hinckley direction to Canal Farm Jn   Train from Abbey Jn via Platform 7                 5
+via Midland Yard Jn (Nuneaton North Chord)
+Train from Hinckley direction to Canal Farm Jn   Train from Abbey Jn stopping at Platform 6         Parallel*
+via Midland Yard Jn (Nuneaton North Chord)
+Train from Hinckley direction to Canal Farm Jn   Train from Abbey Jn passing Platform 6             1*
+via Midland Yard Jn (Nuneaton North Chord)
+Train to Hinckley passing or departing from      Train from Hinckley to Canal Farm Jn via           4
+platform 7                                       Midland Yard Jn (Nuneaton North Chord)
+Train to Hinckley passing or departing from      Train from Hinckley to platform 6                  4
+platform 6
+
+* These moves are parallel at Midland Yard Jn
+
+
+
+
+                               Electronic copy - uncontrolled when printed

@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+London North Eastern                     Revised Final Rules for                       Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                   Page: 225 of 368
+
+
+Brancliffe East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Pass to Maltby                                   Approach Control                                  1
+Between Shireoaks & Brancliffe East Jn.
+
+Movement Up                                      Reason                                            Value
+Pass from Maltby                                 Differential junction speed                       1
+Between Brancliffe East Jn. & Shireoaks
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Pass/depart to Maltby                             Pass from Kiverton Park                          4
+Pass from Kiverton Park                           Pass/depart to Maltby                            2
+Restrictions:
+    • A train from Woodend, going to Dinnington on South Yorkshire Joint, or vice versa, must be allowed a
+        minimum total of 3½ minutes, SRT and { }, between Shireoaks Station and Brancliffe East Junction, and
+        vice versa, due to combination of line speeds and Approach Control signalling
+    • An up train from Kiveton Park must pass Brancliffe Junction at least 1 minute before a following train can
+        arrive or pass Kiveton Park.
+
+
+
+Woodhouse Junction
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Pass to Beighton Junction from Woodburn          Pass from Kiveton Park                            4
+Pass to Beighton Junction from Woodburn          Depart Sidings to Kiveton Park (see also          1½ after MU
+                                                 Restrictions)                                     2½ after LH
+                                                 Clear 10s(MU) 1m(LH) reset 30s move 30s
+Pass from Kiveton Park                           Pass to Beighton Junction                         4
+Arrive Sidings                                   Depart Sidings                                    2
+
+
+Woodburn Junction
+
+Junction Margins
+First Movement                              Second Movement                                        Margin
+Pass from Tinsley East Junction             Pass to Tinsley East Junction                          4
+Pass from Tinsley East Junction             Pass to Woodhouse Junction                             4
+Pass to Woodhouse Junction                  Pass from Tinsley East Junction                        3
+Pass to Deepcar                             Pass from Tinsley East Jn / Nunnery ML Jn              4
+Pass from Woodhouse Jn/Tinsley East Jn      Pass to Deepcar                                        3
+*+1 if second train LH
+Restriction:
+    • Tokenless One Train Working on Stocksbridge Line
+    • EMR Class 5s turn-back on Up Worksop, east of Woodburn Junction
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

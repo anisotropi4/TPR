@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+London North Eastern                    Revised Final Rules for                       Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                   Page: 174 of 368
+
+
+Darlington
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                         Value
+Train from York to Platform 4B via Bypass Line    Slower approach speed                          2
+Train passing through Platform 4                  Deceleration                                   1*
+                                                  Acceleration                                   1* approaching
+                                                                                                 next timing point
+*May be reduced to ½ for trains timed at 75mph or below
+Trains from Down Main to Platform 1 – 3           Approach control                               1
+Trains from Up Saltburn terminating in            TPWS                                           ½
+Platforms 2 & 3
+Non–stop trains from Eaglescliffe to the Down     Acceleration                                   2 approaching
+Main                                                                                             next timing point
+Movement Up                                       Reason                                         Value
+Train to Platform 4B                              Approach control                               1
+
+
+Dwell Time
+185                                               1½
+22x                                               1½
+DMU/EMU                                           2
+LH/80x                                            2
+
+Junction Margins
+South end movements
+2nd move Depart to   Pass to    Arrive        Pass       Depart        Arrive       Arr Plat   Arrive     Arrive
+→           York      York       from         from      to E’cliffe Platform         4 from   Plat 1-3   Platform
+1st move                        E’cliffe      York                    4A from       York via    from      1 from
+↓                                                                     E’cliffe      Bypass      York     N’castle
+Arr/pass      1         4                       4           1                                     4*         P
+from
+E’cliffe
+Pass to       2                    4                        2             4
+York
+Dep to                             5*           5           3            5*                       5*
+York
+Dep to        3         5          5*           5                        5*                       5*
+E’cliffe
+Pass          1                    4*                       1            4*                                 4½
+from
+York
+Arr Plat                                                                 4*
+4 from
+York
+Arr Plat                                                                                4                    P
+4A from
+E’cliffe
+North End movements
+2nd move   Pass from     Arrive     Depart to     Depart to       Pass to        Arrive      Arrive    Arrive from
+→             York    Platform 4 Newcastle         Bishop          York        Platform 1 Platform 4     Bishop
+                      from York                   Auckland                        from       from       Auckland
+1st move ↓                                                                    Newcastle Newcastle
+Pass from                                3                                         4½          4
+York
+Depart to                                             3                                        5*           4*
+
+                                   Electronic copy - uncontrolled when printed.

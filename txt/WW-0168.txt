@@ -1,0 +1,66 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                  Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                 Date:    6th October 2023
+                                          Change Timetable 2024                        Page:    165 of 289
+
+
+Honeybourne North Junction
+
+Trains to/from Honeybourne Sidings or Long Marston
+Trains from Moreton in the Marsh – Trains from Moreton in the Marsh going to either Honeybourne Sidings or
+Long Marston will come to a stand behind E2483 Signal. E2483 Signal is a ground position signal. When the
+route is set from the Down Main to Honeybourne Through Siding, E2483 will show a proceed aspect. The
+formation of the train must have a driving cab at both ends.
+Trains to Moreton in the Marsh – Trains from either Honeybourne Sidings or Long Marston going to Moreton in
+the Marsh will come to a stand behind E2442 Signal at Honeybourne North Jn. E2442 Signal is a 3-aspect signal
+with an associated position light signal. When the route is set for the train to proceed towards Moreton in the
+Marsh, E2442 will show either a yellow or a green main aspect. The position light signal only applies to
+movements towards the Through Siding. The formation of the train must have a driving cab at both ends.
+Trains to/from Moreton in the Marsh
+Departures                                                  Arrivals
+                                       Arr          Dep                                      Arr          Dep
+Honeybourne Staff Hut                               XX:XX         Moreton in Marsh                        XX/XX
+Honeybourne N Jn                       XXRMXX       XXRMXX        Honeybourne                             XX/XX
+Honeybourne                                         XX/XX         Honeybourne N Jn           XXRMXX       XXRMXX
+Moreton in Marsh                                    XX/XX         Honeybourne Staff          XX:XX        XXRMXX
+                                                                  Hut
+
+Token Exchange
+Down Trains                         2 minutes
+Up Trains                           5 minutes
+Trains can enter the line between Moreton and Evesham 2 minutes after the section is clear.
+
+Evesham
+
+Allowances for terminating services
+First Movement                                     Second Movement         Timing Load             Margin
+Passenger train arriving from the Down            Shunt via the single     DMU                     15 minutes¥
+direction                                         line to form an Up       80x                     20 minutes ¥
+                                                  service.
+Passenger train arriving from the Up direction    Turn-round in Up         DMU                     5 minutes
+                                                  Platform to form a       80x                     10 minutes
+                                                  Down service
+¥ increased by 5 minutes if working by pilotman in operation
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Arriving from Norton Jn                           Departing to Norton Jn                           Simultaneous
+
+Dwell Time
+80x                                  1½
+DMU                                  1
+
+GW401 ASHCHURCH (INCL.) TO WESTERLEIGH JUNCTION
+
+Ashchurch
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                    Reason                            Timing                 Value
+                                                                              Load
+From the Down Main to Down Loop             Slow speed at loop entry (25 mph) All traffic            +{1}
+
+Dwell Time
+
+                                    Electronic copy - uncontrolled when printed.

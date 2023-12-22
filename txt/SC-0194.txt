@@ -1,0 +1,54 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                            Version:    4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024                   Date:     28/07/2023
+                                                                                                    Page:     189 of 242
+
+
+Kincraig
+
+Junction Margins
+First Movement                                       Second Movement                                      Margin
+Down Arrive Loop                                     Up Pass                                              5
+Up Arrive Loop                                       Down Pass                                            4
+Up/down pass on Mainline                             Depart Loop in opposite direction                    1
+
+Restriction
+Trains planned to stop must use the Loop.
+Trains may ‘overtake’ another train running in the same direction, the train being overtaken standing in the Loop,
+the overtaking train passing through on the Main line.
+
+
+
+Aviemore
+
+Dwell Time
+HST Power Doors                        1½
+LH                                     2
+
+Junction Margins
+First Movement                                       Second Movement                                      Margin
+Arrive/pass from Kingussie                           Depart to Kingussie/HA313                            1
+Arrive from Kingussie/HA313                          Pass to Kingussie/HA313                              3
+Arrive/pass from Carrbridge                          Depart to Carrbridge                                 Same Time
+Arrive from Carrbridge                               Pass to Carrbridge                                   3
+
+Arrive/pass Kincraig                                 Depart/Pass to HA313                                 Same Time
+
+
+Operating Instructions
+Platforms are Bi-Directional so it is possible for train to arrive in either platform and be overtaken by a train
+travelling in the same direction via the opposite platform.
+
+Arrivals from opposing directions can be simultaneous.
+
+Junction Margins (Speyside)
+The following additional margins apply:
+First Movement                                       Second Movement                                      Margin
+Down arrive Aviemore Strathspey                      Up Pass Aviemore platform 2                          4
+Down arrive Aviemore Strathspey                      Arrive Aviemore platform 2                           5
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

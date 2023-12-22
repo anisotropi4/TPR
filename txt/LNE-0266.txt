@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+London North Eastern                    Revised Final Rules for                      Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                  Page: 263 of 368
+
+
+
+
+Hammerton Street Junction
+
+Junction Margin
+First Movement                                 Second Movement                                 Margin
+Up train passes Mill Lane Junction towards     Down train crosses to Up Bradford               7
+Leeds
+
+
+LN854 HALL ROYD JUNCTION TO COLTON JUNCTION
+Hebden Bridge
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Dep Platform 1 to Leeds                        Arr Platform 1 ex Leeds                         3½
+
+Minimum Turnround
+From Leeds utilising same           6
+platform
+From Leeds and replatformed         10
+
+
+Milner Royd Junction
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Pass to Hebden Bridge from Halifax             Pass towards Greetland Junction                 2
+Pass towards Greetland Junction                Pass from Halifax                               3½
+Pass from Halifax not stopping at Sowerby      Depart from Greetland Junction direction        3
+Bridge
+Pass from Halifax stopping at Sowerby Bridge   Depart from Greetland Junction direction        5
+
+
+Greetland Junction
+
+Adjustments to Sectional Running Times
+Movement Eastbound                             Reason                                          Value
+Pass from Dryclough                            Acceleration from 20 mph                        ½. To be
+                                                                                               applied after
+                                                                                               Greetland
+                                                                                               Junction
+Movement Westbound                             Reason                                          Value
+Pass to Dryclough Junction                     Approach Control                                ½. To be
+                                                                                               applied
+                                                                                               approaching
+                                                                                               Greetland
+                                                                                               Junction
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Pass to Dryclough Junction                     Pass from Milner Royd Junction                  3
+Pass to Dryclough Junction                     Depart to Bradley Wood                          1
+Pass from Milner Royd Junction                 Pass to Dryclough Junction                      2½
+Pass from Milner Royd Junction                 Depart to Dryclough Junction                    1
+Pass from Milner Royd Junction                 Pass from Dryclough Junction                    3½
+
+                                  Electronic copy - uncontrolled when printed.

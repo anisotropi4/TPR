@@ -1,0 +1,63 @@
+                                                   OFFICIAL
+
+
+Network Rail                                                                                    Version 4.0
+National                                                                                Date: 28th July 2023
+                                 Final Proposal for Subsidiary Change 2024
+                                             Page 18 of 114
+1.12.3.1   Option 1: TOVR submitted with new SRT proposal from
+           Timetable Participant
+       •    Timetable Participant submits TOVR with missing SRTs and proposal for new SRTs to Network
+            Rail (NR)
+       •    NR receives TOVR and proposal for new SRTs and pauses TOVR response period
+       •    NR undertakes quality assurance activity of proposed SRTs (within 5 working days of receipt)
+       •    If proposed SRTs pass quality assurance, NR consult new SRTs with affected Timetable
+            Participants (5 working days). If proposed SRTs do not pass quality assurance, the TOVR is
+            rejected and the Timetable Participant is asked to resubmit their request with revised SRT
+            proposals.
+       •    After the consultation period ends, NR considers responses and makes a decision about whether
+            to take SRTs forward, make amendments or reject the proposal (within 1 working day)
+       •    NR informs affected Timetable Participants of the decision and inputs SRTs into Bplan (within 1
+            working day)
+       •    TOVR response period restarts, usual validation process follows
+
+1.12.3.2   Option 2: TOVR submitted with missing SRTs
+       •    Timetable Participant submits TOVR with missing SRTs
+       •    NR receives TOVR and pauses TOVR and provides Timetable Participant with option to propose
+            new SRTs or to ask NR to undertake SRT calculation exercise and propose new SRTs
+       •    If Timetable Participant chooses to propose new SRTs, follow Option 1
+       •    If Timetable Participant requests that NR proposes new SRTs, NR will calculate SRTs (within 7
+            working days). NR may use computer modelling, TRATIM, observed data, or other sources of data
+            that it deems appropriate in calculating the SRT value.
+       •    NR consult new SRTs with affected Timetable Participants. The consultation period is 5 working
+            days.
+       •    After the consultation period ends, NR considers responses and makes decision about whether to
+            take SRTs forward, make amendments or reject the proposal (within 1 working day)
+       •    NR informs affected Timetable Participants of decision (within 1 day)
+       •    Timetable Participant re-submits TOVR with new SRTs to NR and usual validation process follows
+
+1.12.3.3    Option 3a: TOVR submitted with missing SRTs (A4C
+            schedules only)
+       •    Timetable Participant submits TOVR with missing SRTs
+       •    NR receives TOVR and validates using TRT generated within TPS, confirming that this looks to be
+            accurate.
+       •    NR informs Timetable Participant of missing SRT at time of response to TOVR and gives option to
+            propose new SRTs or to ask NR to undertake SRT calculation exercise and propose new SRTs
+            (Option 1 or 2)
+       •    Option 1 or 2 is followed, SRT is finalised and schedule updated as required.
+
+            Option 3b: TOVR submitted with missing SRTs, requiring expediated consultation
+       •    Timetable Participant submits TOVR with missing SRTs and proposal for new SRTs to Network
+            Rail (NR)
+       •    NR receives TOVR and proposal for new SRTs and pauses TOVR response period
+       •    NR undertakes quality assurance activity of proposed SRTs (within 2 working days of receipt)
+       •    If proposed SRTs pass quality assurance, NR consult new SRTs with affected Timetable
+            Participants (3 working days).
+       •    After the consultation period ends, NR considers responses and makes a decision about whether
+            to take SRTs forward, make amendments or reject the proposal. SRTs taken forward will be input
+            into B-plan (within 1 working day).
+       •    TOVR response period restarts and usual validation process follows
+
+
+
+                               Electronic copy – uncontrolled when printed

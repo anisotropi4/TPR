@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                        Version:    4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024               Date:     28/07/2023
+                                                                                              Page:     84 of 242
+
+Motherwell
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                           Value
+All trains from Uddingston Junction routed into   Approach Control                                 1
+Platform 3 / Platform 4 / Hamilton Goods Loop /
+Motherwell Weighs C.S.
+Up train that has come from Mossend South         Acceleration                                     1
+Junction not stopping at Motherwell                                                                approaching
+                                                                                                   next timing
+                                                                                                   point
+
+Movement Down                                     Reason                                           Value
+All trains from Shieldmuir routed to pass         Approach Control before Motherwell for slow      2
+towards Mossend South Jn                          speed crossover
+
+Dwell Time
+DMU/EMU                               1
+LH, 390                               1½
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Hamilton lines arrival from Mossend South Jn      Non-Stop to/from Law Jn                          4
+Hamilton lines departure towards Mossend          Non-Stop to/from Law Jn                          4
+South Jn
+Hamilton lines departure towards Mossend          Arrive Platform 1 from Uddingston Junction       3½
+South Jn
+Hamilton lines departure towards Mossend          Depart Platform 3 or 4 to Derby Sidings          2
+South Jn
+Hamilton lines arrival from the North             Arriving Platform 2#                             Same time (#
+                                                                                                   3 minutes for
+                                                                                                   trains of more
+                                                                                                   than 8
+                                                                                                   coaches)
+Hamilton lines arrival from Uddingston            Arrive Platform 1 from Mossend South             Same time$
+Down Departure Platform 2                         Hamilton Lines Up Arrival                        3
+Depart platform 2 to Uddingston                   Depart Hamilton Lines                            2
+Down train arrives Platform 2 8 Car Maximum       Hamilton Lines Up Arrival                        Same time*
+Up train arrive/pass Platform 1 from              Depart Hamilton Lines towards Mossend South      1
+Uddingston                                        Jn, Braidhirst Loop or Motherwell Depot
+Up train arrive/pass Platform 1 from              Arrive Platform 3 from Mossend South Jn          3
+Uddingston
+Down Train pass Platform 2 to Uddingston          Depart Hamilton Lines towards Mossend South      1½
+                                                  Jn, Braidhurst Loop or Motherwell Depot
+Depart Platform 4 or Goods Loop to Down           Arrive/pass from Up Hamilton                     3
+Hamilton
+Depart Platform 4 or Goods Loop to Down           Arrive Platform 3 from Uddingston or Up          3½
+Hamilton                                          Coatbridge
+Arrive Platform 4 from Up Hamilton                Depart Goods Loop to Down Hamilton               1
+Down Train pass/depart Platform 2 towards         Hamilton Lines arrival from North                3
+Uddingston
+Depart/pass from Station to Braidhurst            Arrival/Pass from Uddingston towards Law Jn      4
+Loop/Motherwell Depot
+Depart/pass from Station to Braidhurst            From Uddingston to Hamilton Line                 4&
+Loop/Motherwell Depot
+Hamilton Lines: Platforms 3, 4 and Goods Loop.
+
+
+
+                                    Electronic copy - uncontrolled when printed.

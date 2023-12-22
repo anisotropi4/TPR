@@ -1,0 +1,60 @@
+ NETWORK RAIL                             Timetable Planning Rules                         Version:   4.2
+ Route: Wessex                        Final Rules for Subsidiary OFFICIAL
+                                                                 Change                      Date:    27th October 2023
+                                               Timetable 2024                                Page:    68 of 178
+
+5.2.2 General Capacity Constraints
+The standard headway as shown in 5.2.1 is defined as the minimum planned interval between trains at their closest
+point in any route section as shown. Assumptions as to the capacity of any particular route section should not be
+made solely by the information contained within this sub-section.
+
+Network Rail will expect operators to allow greater margins between trains, where possible, in order that the finished
+timetable is robust.
+
+If trains are deliberately timed to close up on a preceding train, additional allowances must be inserted.
+
+In the interests of a more robust timetable and performance, it is intended that bids from operators for additional
+services over certain lines and junctions which have minimal spare capacity will be limited for both permanent and
+amended train working, with the following exceptions:
+
+a) Where usage already exceeds the capacity limit, operators will be permitted to retain existing paths but will be
+   encouraged to move trains away from the critical period or route section where there are acceptable
+   customer/cost considerations. If an operator relinquishes a path in the critical period, other operators would not
+   be able to re-occupy the path.
+b) If an operator wishes to bid for an additional train/s in the critical period or over the critical route section, that
+   request will be tabled for discussion. Normally, additional bids that breach the capacity limit will not be accepted
+   but in exceptional circumstances may be accepted subject to all parties affected acknowledging and accepting
+   the performance risks.
+
+
+Where single line working is to operate or trains are to be routed to run on a line other than that normally planned for
+them, constraints on capacity will apply – see Engineering Access Statement.
+
+The following special capacity and timing restrictions apply in addition to the constraints stated elsewhere in this
+document:
+
+
+ SW100 LONDON WATERLOO TO CLAPHAM JUNCTION
+ LINE/LOCATION                 SECTION                 CRITICAL           REMARKS
+                                                       TIMES SX
+
+ Clapham Junction              Latchmere/Ludgate       07.00 – 09.00      From Ludgate Line /Latchmere Reversible
+                               Lines                   16.30 – 18.30      to Down Windsor Lines (Plats 5/6)/Clapham
+                                                                          Yard
+ London Waterloo and           It is intended to       06.00 – 21.00      In peak periods no more than 25 non stop
+ Woking                        restrict usage to       EWD                trains per hour will be permitted on the fast
+                               90% of capacity                            Lines
+
+
+ SW100C WEST LONDON JUNCTION TO LATCHMERE JUNCTION (NO 3)
+ LINE/LOCATION                 SECTION                 CRITICAL           REMARKS
+                                                       TIMES SX
+
+ North Pole Junction and       No more than 13         All day            Stopping services are likely to absorb more
+ Latchmere Junction (No 3)     paths per hour in                          than one path
+                               each direction
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

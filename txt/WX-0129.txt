@@ -1,0 +1,64 @@
+NETWORK RAIL                              Timetable Planning Rules                            Version:    4.2
+Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                 Change                         Date:     27th October 2023
+                                               Timetable 2024                                   Page:     127 of 178
+
+Aldershot
+All Services                            4
+
+Dwell Times
+All Services                             1
+
+Junction Margins
+First Movement                                        Second Movement                                        Margin
+Between all movements except as below                                                                        3
+Down arrival                                          Up departure crossing behind                           1
+
+Overlap Restrictions
+First Movement                                    Second Movement                          Signal            Margin
+Down train arrives at Platform 2                  Down train departs Platform 3            WK433             1
+Down train departs Platform 3                     Down train arrives at Platform 2         WK433             3
+
+Limit of Shunt
+                                         Length Limit
+Up Main Platform (clear of WK422)        12 cars
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                Up Main                                             Prohibited
+Platform 2                Down Main                  (Down direction)         Attaching/Detaching
+Platform 3                Down Platform Loop                                  Prohibited
+In all circumstances a second train is prohibited from entering Platform 2 if it will not attach to the first train
+
+
+Farnham
+
+Dwell Times
+All Services                            1
+
+Junction Margins
+First Movement                                        Second Movement                                        Margin
+Between all movements except as below                                                                        3
+Up arrival                                            Down ECS to shed crossing behind                       1
+
+Limit of Shunt
+                                        Length Limit
+Down Platform (Clear of WK443)          10 cars
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                Up Main                    (Up direction)               Attaching/Detaching
+Platform 2                Down Main                  (Up direction)               Attaching/Detaching *
+* A second train is prohibited from entering Platform 2 if it will not attach to the first train
+
+
+Farnham Signal WK438
+
+Train Length Restrictions
+The standage at Farnham Signal WK438 to avoid fouling 2330 points is 426 metres
+
+Planning note
+
+
+
+                                       Electronic copy - uncontrolled when printed.

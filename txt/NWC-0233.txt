@@ -1,0 +1,51 @@
+NETWORK RAIL                           Timetable Planning Rules                   Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024       Date:    28th July 2023
+West and Central
+                                                                                    Page:    221 of 443
+
+
+
+Tyseley LMD
+
+Operating Restriction for Departures
+ECS following each other in the same direction must be planned to depart a minimum of 5 minutes apart.
+However, trains can be planned to pass Small Heath South Junction or Tyseley South Junction a minimum of 3
+minutes (headway) apart. Pathing time may therefore be used approaching Small Heath South Junction or
+Tyseley South Junction if required.
+
+There is no restriction for ECS departing Tyseley Depot in opposite directions.
+
+
+Small Heath South Jn
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                        Value
+Up Bordesley to Up Slow/Tyseley depot             Junction differential                         1
+
+Junction Margins
+First Movement                                    Second Movement                               Margin
+All conflicting moves                                                                           3 Before/
+                                                                                                1 After
+
+
+Bordesley Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                        Value
+From Tyseley (Tyseley to St. Andrew’s Jn)         Junction differential                         ½ After
+From Tyseley towards St Andrew’s Jn               Junction differential                         ½*
+* applies approaching next timing point
+
+Movement Up                                       Reason                                        Value
+To Tyseley (St. Andrew’s Jn to Tyseley)           Junction differential                         ½ Before
+From St Andrew’s Jn towards Tyseley               Junction differential                         ½
+
+Junction Margins
+First Movement                                    Second Movement                               Margin
+All conflicting moves                                                                           3 before/
+                                                                                                3 after
+
+
+
+
+                              Electronic copy - uncontrolled when printed

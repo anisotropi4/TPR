@@ -1,0 +1,51 @@
+                                                OFFICIAL
+
+
+Network Rail                                                                                Version 4.0
+National                                                                            Date: 28th July 2023
+                                Final Proposal for Subsidiary Change 2024
+                                             Page 70 of 114
+Type           Days    TID          Start Time       Origin                  Destination
+
+RHTT           SX      3S31         18:15           Gloucester Horton Rd     Gloucester Horton Rd
+RHTT           SU      3S31         13:11           Gloucester Horton Rd     Worcester Shrub Hill
+RHTT                                                                         Cheltenham Lansdown
+               FO      3S32         22:37           Gloucester Horton Rd     Loop
+                                                                             Cheltenham Lansdown
+RHTT           FSX     3S32         22:37           Gloucester Horton Rd     Loop
+RHTT           MO      3S32         00:31           Worcester Shrub Hill     Didcot Parkway
+RHTT                                                Cheltenham Lansdown
+               SO      3S33         10:49           Loop                     Gloucester Horton Rd
+RHTT                                                Cheltenham Lansdown
+               MSX     3S33         11:08           Loop                     Gloucester Horton Rd
+RHTT           MO      3S33         05:23           Didcot Parkway           Gloucester Horton Rd
+RHTT           FO      3S59         19:42           Bristol Kingsland Road   Bristol Kingsland Road
+RHTT           MWTho   3S59         19:42           Bristol Kingsland Road   Bristol Kingsland Road
+RHTT           SU      3S59         14:41           Bristol Kingsland Road   Bristol Kingsland Road
+RHTT           TO      3S59         19:42           Bristol Kingsland Road   Bristol Kingsland Road
+RHTT           TO      3S61         18:54           Margam T.C.              Margam T.C.
+RHTT           FO      3S61         18:54           Margam T.C.              Margam T.C.
+RHTT           MWO     3S61         18:54           Margam T.C.              Margam T.C.
+RHTT           ThO     3S61         18:54           Margam T.C.              Margam T.C.
+                                    16:50
+RHTT           SU      3S61         17:23           Margam T.C.              Margam T.C.
+RHTT           SO      3S62         01:43           Margam T.C.              Margam T.C.
+RHTT                                01:43
+               WO      3S62         01:23           Margam T.C.              Margam T.C.
+RHTT                                01:43
+               TThO    3S62         01:23           Margam T.C.              Margam T.C.
+RHTT                                01:43
+               FO      3S62         01:38           Margam T.C.              Margam T.C.
+                       3S71         21:20           Shrewsbury Coleman       Shrewsbury Coleman
+RHTT           FO                   21:13           SS                       SS
+                       3S71         21:20           Shrewsbury Coleman       Shrewsbury Coleman
+RHTT           MO                   21:13           SS                       SS
+                       3S71         21:20           Shrewsbury Coleman       Shrewsbury Coleman
+RHTT           TWThO                21:13           SS                       SS
+                                    19:43           Shrewsbury Coleman       Shrewsbury Coleman
+RHTT           SU      3S71         19:36           SS                       SS
+
+
+
+
+                              Electronic copy – uncontrolled when printed

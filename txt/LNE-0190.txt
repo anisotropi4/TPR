@@ -1,0 +1,18 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version: 4.1
+London North Eastern                     Revised Final Rules for                        Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                    Page: 187 of 368
+
+
+LN626 NORTHALLERTON HIGH JUNCTION TO NORTHALLERTON EAST
+JUNCTION
+Notes:
+   • No pathing to be inserted between Northallerton East Junction and Northallerton station in either direction;
+       if necessary, an ’A’ stop must be inserted at signal Y478 in Up direction or Northallerton East Junction in
+       Down direction
+   • An up train standing at signal Y478 must not exceed 380m
+   • A down train standing at Northallerton East Junction must not exceed 210m
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

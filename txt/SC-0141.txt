@@ -1,0 +1,64 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                        Version:    4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024               Date:     28/07/2023
+                                                                                             Page:     136 of 242
+
+Polmont
+
+Connectional Allowance               3
+
+Adjustments to Sectional Running Times
+Movement Down                     Reason                                     Value
+Passing trains travelling towards Approach Control                           1
+Grangemouth Junction
+Passing train timed as class 385  Approach Control                           ½
+towards Grangemouth Junction
+
+Movement Up                              Reason                              Value
+Passing trains from Grangemouth          Slower Speed over Polmont           ½ approaching next timing point
+Junction                                 Junction
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Train pass towards Carmuirs East                  Up Passenger train not stopping Falkirk High    4
+Train pass towards Carmuirs East                  Up Passenger train from stop at Falkirk High    3½
+Passenger train from Falkirk High                 Train towards Carmuirs East                     2½
+Up train departs Polmont Station                  Up train departs either Up North/Up South       2
+                                                  Loop
+Up train (non-stopping Polmont) passes from       Train (stopping Polmont) pass from Up           3
+Falkirk High                                      Grahamston
+
+
+
+Greenhill Upper Junction
+
+Adjustments to Sectional Running Times
+Movement Down/Up                                  Reason                                          Value
+Up train timed at 90mph+ routed towards           Deceleration to be applied approaching          ½^
+Greenhill Lower Junction                          Greenhill Upper Junction
+Down train timed at 90mph+ routed towards         Acceleration to be applied approaching Croy     ½^
+Croy
+
+^ Value Does not apply to trains timed as HSTSR5 & 385
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Up Passenger towards Falkirk High                 Down depart from Branch towards Croy            1
+Up Passenger towards Falkirk High                 Down passenger from Carmuirs West Jn            2
+Down passenger from Carmuirs West Jn              Up Pass towards Falkirk High                    2½
+
+Restriction
+A maximum of 1½ minutes pathing time to be shown approaching Greenhill Upper Junction for Up trains passing
+to Greenhill Lower Junction, any further pathing time needs to be shown between Greenhill Upper and Lower
+Junctions
+
+
+Croy
+
+Connectional Allowance                            3
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

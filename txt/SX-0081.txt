@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                   Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                    Page:      77 of 163
+
+SO500 LONDON VICTORIA TO BRIGHTON
+
+London Victoria (Central)
+For London Victoria (Eastern) Refer to Kent Timetable Planning Rules - SO110
+
+Platform 19                          12*
+* Maximum to be berthed in Platforms 9-19 = 60 cars
+Trains formed of a 12 car Class 700 EMUs must not be planned to use Platforms 9-19 for passenger provision,
+due to operational restrictions
+
+Connectional Allowance              15*
+* Connectional allowance of 10 minutes applies to Southeastern and Southern
+
+ECS Moves
+ECS Moves to Selhurst T&R.S.M.D after the morning peak are to be routed via Streatham Common
+
+Headway                              2½ *
+* Following consecutive departures from Platforms 13-19 to the Down Brighton Slow
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+Between any departure and conflicting arrival at Victoria (Central) platforms 9 to 19 except where    3
+otherwise stated below
+Depart Platforms 12-19 to either the Brighton      Any conflicting inwards service                    5
+Reversible or the Up Carriage Sidings
+Depart Platform 14 or 15 to the Down Slow          Any conflicting arrival from the Up Slow           4*
+*Due to overlap issue on signal TVC532. Second train has to wait at signal TVC538 whilst first train crosses to the
+Down Slow via 240 crossover
+Depart Platforms 16-19 to Down Brighton Fast       Departure from Up Carriage Sidings into            2
+                                                   Platforms 12-15
+Train departing from or passing signal TVS47       Departure from London Victoria towards             2
+at Stewarts Lane Junction towards Stewarts         Stewarts Lane Junction
+Lane Depot/Longhedge Junction or Factory
+Junction
+Train departing from or passing signal TVC546 Departure from London Victoria towards                  2
+at Battersea Pier Junction towards London          Stewarts Lane Junction
+Victoria
+
+Passenger Stock Turnround Allowances
+                               Margin
+Main Line Services             12
+(Loaded to Loaded)
+Suburban Services              7
+(Loaded to Loaded)
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below:-
+Platform 9                          Attaching/Detaching and Platform Sharing
+Platform 10                         Attaching/Detaching and Platform Sharing
+Platform 11                         Attaching/Detaching and Platform Sharing
+Platform 12                         Attaching/Detaching and Platform Sharing
+Platform 13                         Attaching/Detaching and Platform Sharing
+Platform 14                         Attaching/Detaching and Platform Sharing
+Platform 15                         Attaching/Detaching and Platform Sharing
+Platform 16                         Attaching/Detaching and Platform Sharing
+Platform 17                         Attaching/Detaching and Platform Sharing
+Platform 18                         Attaching/Detaching and Platform Sharing
+Platform 19                         Attaching/Detaching and Platform Sharing
+                               Electronic copy - uncontrolled when printed

@@ -1,0 +1,43 @@
+NETWORK RAIL                      Timetable Planning Rules                    Version: 4.1
+London North Eastern                Revised Final Rules for                     Date: 12 October 2023
+                               Subsidiary Change Timetable 2024                 Page: 23 of 368
+
+
+LN105 MOORGATE TO FINSBURY PARK JUNCTION
+TIMING POINT                    DOWN       UP         CODE     NOTES
+
+Moorgate                        –                              Platform details must be shown
+  Moorgate Signal K42                      –          S
+Old Street                      –          –          S
+Essex Road                      –          –          S
+Highbury and Islington          –          –          S        Platform details must be shown
+  Drayton Park Signal K43       –                     S
+Drayton Park                    –          –                   DC/AC change over
+  Drayton Park Signal K46                  –          S
+Finsbury Park                   FL SL                          To/from Alexandra Palace – LN101
+                                SL2
+
+
+LN110 CANONBURY WEST JUNCTION TO FINSBURY PARK JUNCTION
+TIMING POINT                    DOWN       UP         CODE     NOTES
+
+Canonbury West Jn               –          –                   To/from North London Line – EA1320
+Highbury Vale Jn                –          –
+  Finsbury Park Signal K53      –                     S
+Finsbury Park                   SL SL2     –                   To/from Alexandra Palace – LN101
+
+
+
+
+LN115 COPENHAGEN JUNCTION TO CAMDEN ROAD CENTRAL JUNCTION
+TIMING POINT                    DOWN       UP         CODE     NOTES
+
+Copenhagen Junction             –          SL         X        To/From Alexandra Palace – LN101
+York Way North Junction         –          –                   To/from Silo Curve Jn – SO410A
+Camden Road Incline Junction                                   To/from Cedar Jn – SO420
+Camden Road Central Junction    –          –          X        To/from North London Line – EA1320
+
+
+
+
+                               Electronic copy - uncontrolled when printed.

@@ -1,0 +1,64 @@
+NETWORK RAIL                        Timetable Planning Rules                      Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                     Page:   386 of 443
+
+STATION                           PLATFORM        LENGTH      NOTES
+
+Lapworth                           2 Down               184
+Lapworth                           1 Up                 120
+Layton                             1                    145   Up line
+Layton                             2                    148   Down line
+Lazonby & Kirkoswald               Down                  94
+Lazonby & Kirkoswald               Up                    94
+Lea Green                          Down                 146
+Lea Green                          Up                   146
+Lea Hall                           Down                 185
+Lea Hall                           Up                   184
+Leamington Spa                     1                    150   Bay
+Leamington Spa                     2                    308   Down
+Leamington Spa                     3                    222   Up
+Leamington Spa                     4                    113   Bay
+Leasowe                            1                    128   Up line
+Leasowe                            2                    129   Down line
+Ledbury                            Down                 100
+Ledbury                            Up                    98
+Leighton Buzzard                   1                    256   Down Fast
+Leighton Buzzard                   2                    256   Up Fast
+Leighton Buzzard                   3                    256   Down Slow
+Leighton Buzzard                   4                    257   Up Slow
+Levenshulme                        Down                 128   Additional 40m OOU
+Levenshulme                        Up                   130   Additional 40m OOU
+Leyland                            1                    151   Down Slow
+Leyland                            2                    140   Up Slow
+Leyland                            3                    142   Down Fast
+Leyland                            4                    143   Up Fast
+Lichfield City                     Down                 149
+Lichfield City                     Up                   225
+Lichfield City                     Up                   172   To Signal AN 163
+Lichfield Trent Valley High Level  Single               150
+Lichfield Trent Valley Low Level   Down                 271
+Lichfield Trent Valley Low Level   Up                   255
+Lidlington                         Down                  66
+Lidlington                         Up                    51
+Littleborough                      1                    121
+Littleborough                      2                    117
+Little Kimble                      Single                90
+Little Sutton                      1                    135   Down line
+Little Sutton                      2                    135   Up line
+Liverpool Central (Deep Level)     3                    128   Loop line in one direction only (Wirral Line)
+Liverpool Central (Low Level)      1                    136   Bi–directional (Northern Line)
+Liverpool Central (Low Level)      2                    136   Bi–directional (Northern Line)
+Liverpool James Street see James Street
+Liverpool Lime Street (Deep        A                    128   Loop line in one direction only (Wirral Line)
+Level)
+Liverpool Lime Street (Mainline)   1                    220
+Liverpool Lime Street (Mainline)   2                    221
+Liverpool Lime Street (Mainline)   3                    154
+Liverpool Lime Street (Mainline)   4                    154
+Liverpool Lime Street (Mainline)   5                    181
+Liverpool Lime Street (Mainline)   6                    270
+
+
+
+                           Electronic copy - uncontrolled when printed

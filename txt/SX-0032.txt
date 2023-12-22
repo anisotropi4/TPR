@@ -1,0 +1,64 @@
+NETWORK RAIL                             Timetable Planning Rules                     Version:   4.3
+Route: Sussex                            Final Rules for Subsidiary                   Date:      18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                      Page:      28 of 163
+
+SO510A SYDENHAM TO CRYSTAL PALACE
+TIMING POINT                         DOWN            UP          CODE     NOTES
+
+Crystal Palace                       -               -                    Platform detail must be shown
+                                                                          To/from Gipsy Hill - SO650
+Sydenham Junction                    -               -                    For planning purposes this timing point is
+                                                                          shown as Sydenham
+Sydenham                                             FL SL                To/from Crystal Palace - SO510A
+
+
+SO510B NORWOOD JUNCTION TO WINDMILL BRIDGE JUNCTION
+TIMING POINT                         DOWN            UP          CODE     NOTES
+
+Norwood Junction                     FL SL           FL SL                Platform detail must be shown
+                                                                          To/from Anerley - SO510
+                                                                          To/from Bromley Junction - SO650A
+Norwood Junction Shunt Signal        SL              FL SL                Use TIPLOC NORWD16
+T1016
+Norwood Junction Shunt Signal        SL                                   Use TIPLOC NORWD08
+T1008
+Norwood Junction Shunt Signal        SL FL                                Use TIPLOC NORWD10
+T1010
+Norwood Junction Perturbation        FL SL -         FL SL                Use TIPLOC NORWD17
+Sidings Shunt Signal T1017
+Norwood Junction Perturbation        FL SL -         FL SL                Use TIPLOC NORWD18
+Sidings Shunt Signal T1018
+Norwood Perturbation Sidings         FL SL -         FL SL                Stabling not allowed – turnback moves
+                                                                          only
+                                                                          Use TIPLOC NORWDDY
+                                                                          Entry via 1520 points only
+Norwood Fork Junction                   SL           FL SL       X        Timing point for all Up direction services
+Windmill Bridge Junction             FL SL           FL SL                To/from East Croydon - SO500
+                                     RVF
+
+
+SO511A HIGHBURY AND ISLINGTON TO NEW CROSS GATE
+TIMING POINT                             DOWN    UP          CODE    NOTES
+
+Highbury and Islington                       -   -                   To Highbury Transfer Track Up Direction and
+                                                                     from Highbury Transfer Track Down Direction –
+                                                                     Refer to Anglia Timetable Planning Rules –
+                                                                     Route EA1320
+                                                                     Platform detail must be shown.
+                                                                     TIPLOC HIGHBYE applies to East London Line
+                                                                     services using Platforms 1 and 2
+                                                                     TIPLOC HIGHBYA applies to this timing point on
+                                                                     route EA1320
+Canonbury                                -       -           S       Platform detail must be shown.
+                                                                     TIPLOC CNNBELL applies to East London Line
+                                                                     services using Platforms 1 and 2
+                                                                     TIPLOC CNNB applies to this timing point on
+                                                                     Route EA1320
+TfL/NR Boundary                          -       -                   TIPLOC ELLBNLL
+Dalston Junction                         -       -                   Platform detail must be shown
+
+
+
+
+                                Electronic copy - uncontrolled when printed

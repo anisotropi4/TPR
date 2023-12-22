@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version:   4.2
+Route: Wessex                        Final Rules for Subsidiary OFFICIAL
+                                                                Change                 Date:    27th October 2023
+                                              Timetable 2024                           Page:    110 of 178
+
+Poole Yard
+
+Up train arriving in Poole Sidings
+
+Freight Length Restrictions
+The freight length restriction is 47 SLUs
+
+
+Hamworthy
+
+Dwell Times
+All services                          1
+
+Junction Margins
+First Movement                                     Second Movement                                Margin
+Between all movements                                                                             4
+
+
+Wareham
+
+Berthing Facilities
+                                      Cars                    Notes
+Down Siding                           12
+
+Dwell Times
+All Services                          1
+
+Junction Margins
+First Movement                                     Second Movement                                Margin
+Between all movements except as below                                                             3
+Down Main Line departure                           Up train from Furzebrook                       8
+
+
+Wool
+
+Dwell Times
+All Services                          1
+
+
+Moreton
+
+Junction Margins
+First Movement                                     Second Movement                                Margin
+Re-occupation of Single Line                                                                      1
+
+Station Working Requirements
+Up trains must not be timed to stop for more than 1 minute due to level crossing arrangements
+
+
+Dorchester South
+
+Dwell Times
+All Services                          1½
+
+Junction Margins
+First Movement                                     Second Movement                                Margin
+
+                                     Electronic copy - uncontrolled when printed.

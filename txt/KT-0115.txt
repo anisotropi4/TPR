@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                         Timetable 2024                             Page:    111 of 168
+
+
+Ashford International
+
+
+Applies to the following Timing Loads for trains which have travelled on the Up Hastings (from Rye):
+Freight up to 600T inclusive at 60mph             Speed Differential                                 1
+Freight between 601 - 1000T inclusive at          Speed Differential                                 1½
+60mph
+Freight between 1001 - 1200T inclusive at         Speed Differential                                 2
+60mph
+Freight between 1201 - 1600T inclusive at         Speed Differential                                 2½
+60mph
+Freight between 1601 - 2400T inclusive at         Speed Differential                                 3
+60mph
+
+Applies to the following Timing Loads for trains which have travelled on the Up Canterbury
+Freight up to 800T inclusive at 60mph             Speed Differential                                ½
+Freight between 801 - 1200T inclusive at          Speed Differential                                1
+60mph
+Freight between 1201 - 1600T inclusive at         Speed Differential                                1½
+60mph
+Freight between 1601 - 2400T inclusive at         Speed Differential                                2
+60mph
+Freight up to 800T inclusive at 75mph             Speed Differential                                ½
+Freight between 801 - 1200T inclusive at          Speed Differential                                1
+75mph
+Freight between 1201 - 1600T inclusive at         Speed Differential                                1½
+75mph
+Freight between 1601 - 2400T inclusive at         Speed Differential                                2
+75mph
+
+Berthing Facilities
+Location                     Cars                 Notes
+Platform 3                   18                   Eurostar Only
+Platform 4                   18                   Eurostar Only
+Down Loop (Platform 6)       12
+Up Loop (Platform 1)         12
+Up Berthing Sidings 3        8                    Siding numbers to be specified in the timetable
+Up Berthing Sidings 4        8                    Siding numbers to be specified in the timetable
+Up Berthing Sidings 5        7                    Siding numbers to be specified in the timetable
+Up Berthing Sidings 6        6                    Siding numbers to be specified in the timetable
+East Berthing Sidings No     12                   Siding numbers to be specified in the timetable
+1
+East Berthing Sidings No     12                   Siding numbers to be specified in the timetable
+2
+
+Connectional Allowance
+Standard minimum                                  5
+Services to/from Hastings Line                    6 Trains to and from Eastbourne, Hastings and Rye should
+                                                  be timetabled to maintain a minimum 6 minute connection
+                                                  into and out of Southeastern High Speed services to and
+                                                  from London St Pancras. Where there is a need to flex
+                                                  services, this requirement must be taken into account to
+                                                  avoid connections being broken
+Connections to/from Eurostar platforms            25
+
+                                    Electronic copy - uncontrolled when printed

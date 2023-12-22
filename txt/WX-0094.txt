@@ -1,0 +1,64 @@
+NETWORK RAIL                              Timetable Planning Rules                       Version:   4.2
+Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                 Change                    Date:    27th October 2023
+                                               Timetable 2024                              Page:    92 of 178
+
+Winchester
+All Services                            1½
+
+Junction Margins
+First Movement                                        Second Movement                                Margin
+Down train passes/departs Platform 2                  Train departs from Baltic Siding towards       1
+                                                      Platform 2
+
+Platform Re-occupation
+                                        Margin
+Up line                                 3
+
+Restrictions
+It is not possible for a down train to terminate in platform 1.
+
+
+Shawford Down Junction
+
+Adjustment to Sectional Running Times
+Movement                                             Reason                                           Value
+All services crossing to Down Slow                   Slow Crossover                                   {½}
+
+
+Shawford Up Junction
+
+Adjustment to Sectional Running Times
+Movement                                             Reason                                           Value
+Up passenger trains passing from Up Slow to          Speed Differential                               {½}*
+Up Main not stopping at Shawford
+* Applies approaching next timing point
+
+NOTE: Services on the Up Slow or Up Fast must not have more than 1 minute of pathing time between Eastleigh
+and Shawford Up Junction. Services requiring regulation should instead be timed with a stop at Shawford Up
+Junction. No pathing is to be applied between Shawford Up Junction and Shawford.
+
+
+Allbrook
+
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+Between all movements except as below                                                                 3
+Down Fast or Down Slow Line train                    Up train departing Reception Road                2
+
+
+
+Eastleigh Signal E26
+
+Length Restrictions
+A train standing at Signal E26 on the Down Slow which exceeds 612m / 95 SLU in length (exclusive of standback
+allowance) will foul Allbrook Junction. Therefore, junction margins at Allbrook must be based on the train’s
+departure time at Signal E26 if over length.
+
+
+Eastleigh East Junction
+
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,63 @@
+NETWORK RAIL                               Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                             25th August 2023
+                                                                                       Date:
+                                              Timetable 2024                           Page:     83 of 168
+
+
+ Brixton
+
+ Overlap Restrictions
+ First Movement                                 Second Movement                   Reason                 Margin
+ Up train from the Catford Loop                 Up train pass/arrive Platform 1   VS114 Signal           2*
+ Up train arrive Platform 1                     Up train pass from Catford Loop   VS114 Signal           2
+ *2½ following freight
+
+
+ Herne Hill
+
+ Dwell Time
+ All Thameslink services                1
+
+ Adjustments to Sectional Running Times
+ Movement Down                                        Reason                                         Value
+ All freight trains which are being routed via        Speed differential                             1
+ Tulse Hill
+ Down trains from London Blackfriars not              Approach control on signal VS123               1*
+ calling at Herne Hill
+ Down trains from London Blackfriars towards          Acceleration from 20mph crossover              {½}
+ Kent House not calling at Herne Hill                                                                approaching
+                                                                                                     Kent House
+ Down trains from Brixton towards Tulse Hill          Approach control on signal VS151 and 20mph     {½}
+ not calling at Herne Hill                            crossover                                      approaching
+                                                                                                     Herne Hill
+ *adjustment only applies when margin at Herne Hill is less than 2 minutes
+
+ Movement Up                                          Reason                                         Value
+ All freight trains from Tulse Hill towards           Speed differential                             1½
+ Brixton or from Loughborough Junction                                                               approaching
+ towards Kent House                                                                                  next timing
+                                                                                                     point
+ Up trains from Kent House towards Blackfriars        Approach control on signal VS126 and 20mph     {½}
+ not calling at Herne Hill                            crossover                                      approaching
+                                                                                                     Herne Hill
+ Up trains from Kent House running non-stop           Approach control on signal VS134 and 15mph     {½}
+ via platform 1 at Herne Hill                         crossover                                      approaching
+                                                                                                     Herne Hill
+ Up trains towards Brixton running non-stop via       Acceleration from 30mph crossover              {½}
+ platform 1 at Herne Hill                                                                            approaching
+                                                                                                     Brixton
+
+ Connectional Allowance                4
+
+ Junction Margins
+ First Movement                                 Second Movement                                      Margin
+ Up non-stop towards Brixton                    Down departure for Tulse Hill                        1
+ Down non-stop from Brixton                     Up departure towards Loughborough                    1
+                                                Junction
+ Up train passing Platform 2 towards Brixton    Up train departing Platform 1 towards                1
+                                                Loughborough Junction
+ Down train passing Platform 3 towards          Down train departing Platform 4 towards              1
+ Beckenham Junction                             Tulse Hill
+ Down train into turnback siding                Down train arrives/passes Herne Hill                 3
+                                   Electronic copy - uncontrolled when printed

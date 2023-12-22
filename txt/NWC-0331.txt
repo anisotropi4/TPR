@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:      4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:       28th July 2023
+West and Central
+                                                                                          Page:    319 of 443
+
+Longsight CMD: access from Longsight South Jn
+
+Planning notes and restrictions
+    • Trains exiting Longsight CMD at Longsight South Jn must have a dot-stop of zero minutes duration (show
+       ‘A’ in activities column)
+    • Trains entering Longsight CMD at Longsight South Jn must be travelling on either the Down Fast or Down
+       Styal approaching Slade Lane Jn.
+
+
+Longsight Down Goods
+
+Junction Margins
+First Movement                                   Second Movement                                      Margin
+Train arriving in Down Goods from Ardwick Jn     Train on Down Slow Line cannot pass Slade            As stated
+                                                 Lane Jn until the first movement has arrived in      under second
+                                                 the Down Goods                                       movement
+
+
+Longsight North Jn
+
+Planning note
+Trains exiting Longsight CMD at Longsight North Jn must have a dot-stop of zero minutes duration (show ‘A’ in
+activities column).
+The Up & Down Goods line is the preferred route between Longsight North Jn and Ardwick Jn for trains to/from
+Longsight CMD.
+
+
+Ardwick Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                               Value
+Down trains which have stopped at                Not reaching line speed after departing station      ½
+Levenshulme
+Down trains to Manchester Piccadilly platforms   To compensate for shorter distance between           -1
+13 and 14 formed of light locomotives, DMU,      Ardwick Jn and Manchester Piccadilly 13/14
+EMU, 22x, Loco Hauled passenger services         platforms compared to that between Ardwick Jn
+and NMT                                          and Manchester Piccadilly Platforms 1 to 12.
+
+Movement Up                                      Reason                                               Value
+All Up locomotive hauled trains except ECS       Length of train leaving low speed area               ½
+trains for Longsight
+All ECS trains for Ardwick T.M.D.                Slow speed approach to Depot                         ½
+All ECS trains for Longsight CMD via Up East     Slow speed approach to Longsight                     1
+or Up Fast
+All ECS trains for Longsight CMD via Up Slow     Slow speed approach to Longsight                     ½
+Up trains starting from Manchester Piccadilly    To compensate for shorter distance between           -1
+Platforms 13 and 14 to the Up Slow line to       Manchester Piccadilly 13/14 platforms and
+Slade lane Jn., formed of light locomotives,     Ardwick Jn compared to that between
+DMU, EMU, 22x, Loco Hauled passenger             Manchester Piccadilly Platforms 1 to 12 and
+services and NMT                                 Ardwick Jn
+DOES NOT APPLY TO MOVEMENTS TO
+LONGSIGHT C.S.
+
+
+
+
+                             Electronic copy - uncontrolled when printed

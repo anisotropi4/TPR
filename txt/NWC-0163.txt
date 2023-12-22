@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:   151 of 443
+
+
+NW9001 EARLES SIDINGS (INCL.) TO EDGELEY JN NO.1
+TIMING POINT                         DOWN         UP       NOTES
+
+Edale to Edale Signal EE16                        AB+2
+Chinley East Jn to Edale                          AB+2^    ^ Any train following a freight train can pass Chinley
+                                                           East Jn 1 minute after the preceding freight passes
+                                                           Edale
+                                                           Freight trains can pass Chinley East Jn 4 minutes
+                                                           after an Up Passenger train
+Chinley North Jn to Chinley East                  AB+2
+Jn
+Chinley North to Hazel Grove High    4            4
+Level Jn
+Hazel Grove High Level Jn to         AB+2         AB+2     Single Line. TCB – planned as AB+2
+Hazel Grove
+Hazel Grove to Edgeley Jn No.1       3            3
+
+
+
+NW9003 CHINLEY EAST JN TO CHINLEY SOUTH JN (CHORD LINE)
+TIMING POINT                         DOWN         UP       NOTES
+
+Chinley East Jn to Chinley South         *             *   * TCB planned as AB+2
+Jn
+
+
+NW9005 CHINLEY NORTH JN TO BUXTON
+TIMING POINT                         DOWN         UP       NOTES
+
+Chinley North Jn to Chinley South        *             *   * TCB planned as AB+2
+Jn
+Chinley South Jn to Chinley Signal   AB+2
+CY168
+Chinley Signal CY168 to Peak         AB+2
+Forest SB
+Peak Forest South SB to Chinley                   AB+2
+South Jn
+Peak Forest South SB to Great        AB+2         AB+2
+Rocks Jn SB
+Great Rocks Jn SB to Buxton SB                *            * Single line. Time as AB+2 for successive trains.
+                                                           Please refer to Section 5.3 NW9005 Chinley North
+                                                           Jn to Buxton
+
+
+NW9007 NEW MILLS SOUTH JN TO ASHBURYS EAST JN
+TIMING POINT                         DOWN         UP       NOTES
+
+New Mills South Jn to New Mills      AB+2         AB+2
+Central SB
+New Mills Central SB to Marple       4            4
+Wharf Jn
+Marple Wharf Jn to Romiley           3            3
+Romiley to Ashburys East Jn          4            4
+
+
+
+
+                             Electronic copy - uncontrolled when printed

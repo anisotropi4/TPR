@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version:     4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                   Date:      27th October 2023
+                                             Timetable 2024                             Page:      129 of 178
+
+
+Basingstoke Signal BE547
+
+Train Length Restrictions
+Maximum standage at Basingstoke Signal BE547 clear of 2606A points                            743m / 116 SLU
+
+
+SW130 EASTLEIGH EAST JUNCTION TO ROMSEY
+Eastleigh East Junction
+
+See also entry under route – SW105
+
+
+Eastleigh Single Line Junction
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Re-occupation of Single Line                                                                          3*
+* 1 minute from a standing start at signal E97
+
+Maximum standage from Eastleigh signal E97 clear of 436 points                                       94 SLUs
+Maximum standage from Eastleigh signal E97 clear of 442 points                                       121 SLUs
+Note: Train arriving from Eastleigh Platform 2/3 needs to be at a stand at Signal E97 before a down train can
+proceed from Signal E30 to Signal E32
+
+
+Romsey Single Line Junction
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Train passes from Eastleigh Single Line Jn        Train passes to Eastleigh Single Line Jn            3
+Train passes from Eastleigh Single Line Jn        Train departs to Eastleigh Single Line Jn           1
+
+Train Length Restrictions
+Maximum standage behind Signal E882 clear of 588 points                                       476m / 74 SLU
+
+
+Romsey Signal E883
+
+Train Length Restrictions
+Maximum standage behind Signal E883 clear of 585 points                                       577m / 90 SLU
+
+
+Romsey
+
+See also entry under route – SW150
+
+
+SW135 EASTLEIGH WEST JUNCTION TO FAREHAM
+
+Eastleigh West Junction
+See entry under route – SW105
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

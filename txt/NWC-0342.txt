@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024           Date:     28th July 2023
+West and Central
+                                                                                         Page:    330 of 443
+
+Manchester Oxford Road
+
+Arrive into any platform 3, 4 or 5 from            Arrive into platform 3 or 4 from Manchester       2½
+Deansgate                                          Piccadilly
+Train over 94 metres but less than 137 metres      Arrive/pass platform 4 from Deansgate             4
+arrive into platform 3 from Deansgate
+
+Station Planning Restrictions
+    • Avoid using platform 1 for passenger trains if possible because there is no lift access for passengers
+    • Platforms 2, 3 and 4 should not be used to terminate turnback services except by special arrangement.
+    • A train from Deansgate longer than 137 metres cannot turnback in platform 3 due to signal sighting.
+    • A train from Deansgate cannot arrive/depart/pass via platform 4 if a train longer than 137 metres is
+        occupying platform 3
+    • A train from Manchester Piccadilly cannot arrive/pass platform 1 if a service longer than 111 metres is
+        occupying platform 2.
+    • A train from Deansgate cannot arrive/depart/pass platform 1 if a service longer than 111 metres is
+        occupying platform 2
+    • A train from Manchester Piccadilly or Deansgate cannot arrive/depart/pass platform 3 if a service longer
+        than 91 metres is occupying platform 4.
+
+Platform reoccupation                              2 for platforms 1, 2, 3 and 4
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below:
+Platform 1                                          Attaching/Detaching only
+Platform 2                                          Attaching/Detaching only
+Platform 3                                          Attaching/Detaching only
+Platform 4                                          Attaching/Detaching only
+Platform 5                                          Attaching/Detaching and Platform Sharing*
+* Permissive working is only possible in platform 5 if the second train less than 41m
+
+
+Deansgate
+
+Dwell Time                            1 Peak (Trains towards Manchester Oxford Road 0745 to 0900 SX and from
+                                      Manchester Oxford Road 1620 to 1800 SX)
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Down passenger train passes towards Water          Up train arrives at or passes Deansgate from      3
+Street Jn                                          Trafford Park East Jn
+Down freight train passes Water Street Jn          Up train arrives at or passes Deansgate from      3
+                                                   Trafford Park East Jn
+Up passenger train or light engine from Trafford   Down train departs or passes Deansgate            1
+Park East Jn arrives at or passes Deansgate        towards Water Street Jn
+Up freight passes Manchester Oxford Road           Down train departs or passes Deansgate            1
+                                                   towards Water Street Jn
+Planning Restrictions
+No pathing time or other allowance to be shown between Deansgate and Manchester Oxford Road in the Up
+direction as there is no intermediate signal between these locations.
+
+Platform reoccupation                              2
+
+
+
+
+                              Electronic copy - uncontrolled when printed

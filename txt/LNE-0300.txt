@@ -1,0 +1,54 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+London North Eastern                    Revised Final Rules for                      Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                  Page: 297 of 368
+
+
+Bridges Junction
+
+Junction Margins
+First Movement                                  Second Movement                                Margin
+Pass to Hull Docks                              Pass from Hull Docks                           5
+Pass to Hull Docks                              Start from Hull Docks                          3
+
+
+
+LN922 WHITEHALL WEST JUNCTION TO HELLIFIELD SOUTH JUNCTION
+Armley Junction
+
+Junction Margins
+First Movement                                  Second Movement                                Margin
+Pass Up Shipley (Passenger)                     Cross from Down Harrogate to Shipley           3
+Pass Up Shipley (Freight)                       Cross from Down Harrogate to Shipley           4
+Cross from Down Harrogate to Shipley            Pass Up Shipley                                3
+Cross from Down Harrogate to Shipley            Freight depart Down Shipley                    2
+Pass to Harrogate                               Cross from Up Shipley to Up Harrogate          3
+Cross from Up Shipley Slow to Up Harrogate      Pass to Harrogate                              2½
+
+
+Kirkstall Loop
+
+Junction Margins
+First Movement                                  Second Movement                                Margin
+Arrive Down Loop                                Pass Armley Junction in Down direction         1
+Pass Apperley Junction in Down direction        Depart Down Loop                               Same time
+Arrive Up Loop                                  Pass Apperley Junction in Up direction         Same time
+Pass Armley Junction in Up direction            Depart Up Loop                                 Same time
+
+
+Apperley Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                     Reason                                         Value
+Trains from Ilkley non-stop to Leeds            Acceleration                                   ½
+Approaching Armley Junction
+
+Junction Margins
+First Movement                                  Second Movement                                Margin
+Pass Up Main                                    Pass to Branch                                 3
+Pass to Branch                                  Pass Up Main                                   3
+Pass from Branch                                Pass to Branch                                 3
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

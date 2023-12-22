@@ -1,0 +1,56 @@
+ NETWORK RAIL                            Timetable Planning Rules                     Version:   4.3
+ Route: Sussex                           Final Rules for Subsidiary                   Date:      18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                       Page:     4 of 163
+
+1.1 Index of Routes
+Information arranged on a line of route basis in this document is presented in the following order:
+
+ S0250      Factory Junction to Mitre Bridge Junction
+ SO250A     Grosvenor Bridge Junction to Factory Junction
+ SO250B     Battersea Pier Junction to Longhedge Junction
+ SO250C     Pouparts Junction to Longhedge Junction
+ SO250D     Falcon Junction to Latchmere Junction (No1)
+ SO500      London Victoria to Brighton
+ SO500A     Selhurst Junction to Gloucester Road Junction
+ SO500B     Copyhold Junction to Ardingly
+ SO500C     Preston Park to Hove
+ SO510      London Bridge to Epsom Downs
+ SO510A     Sydenham to Crystal Palace
+ SO510B     Norwood Junction to Windmill Bridge Junction
+ SO511A     Highbury and Islington to New Cross Gate
+            (Values for TfL Infrastructure determined in conjunction with TfL – Boundaries shown in section 2.1)
+ SO511B     Canal Junction to New Cross
+            (Values for TfL Infrastructure determined in conjunction with TfL – Boundaries shown in section 2.1)
+ SO520      Three Bridges to Havant (via Horsham)
+ SO520A     Ford Junction to Littlehampton Junction
+ SO530      South Croydon Junction to East Grinstead
+ SO540      Hurst Green Junction to Uckfield
+ SO550      Redhill to Tonbridge
+ SO560      Redhill to Gomshall
+ SO590      Keymer Junction to Eastbourne
+ SO600      Willingdon Junction to Ashford International
+ SO610      Appledore to Lydd Town
+ SO620      Brighton to Seaford
+ SO620A     Newhaven Harbour to Newhaven Marine (Old Station)
+ SO630      Brighton to Littlehampton
+ SO640      Barnham to Bognor Regis
+ SO645      Battersea Park to Peckham Rye (Atlantic Lines)
+ SO650      Balham Junction to Beckenham Junction
+ SO650A     Bromley Junction to Norwood Junction
+ SO660      Purley to Caterham
+ SO660A     Purley to Tattenham Corner
+ SO680      South Bermondsey Junction to Horsham
+ SO680A     Herne Hill to Tulse Hill
+ SO680B     Tulse Hill to Leigham Junction
+ SO680C     Tulse Hill to West Norwood Junction
+ SO680D     Streatham Junction to Streatham Common
+ SO680E     Streatham North Junction to Streatham South Junction
+ SO681      Surrey Quays (Silwood Junction) to Old Kent Road Junction
+            (Values for TfL Infrastructure determined in conjunction with TfL – Boundaries shown in section 2.1)
+ SO700      Streatham South Junction to Sutton (via Wimbledon)
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

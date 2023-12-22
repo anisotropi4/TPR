@@ -1,0 +1,68 @@
+                                                   OFFICIAL
+
+
+NETWORK RAIL                       Timetable Planning Rules                    Version:     4.1
+Anglia              Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                 Date:
+                                              2024                                          2023
+                                                                                 Page:      173 of 183
+
+EA1012 IPSWICH TO TROWSE JUNCTION
+Approaching Location               Type    Value          Value   Remarks
+                                           Down           Up
+Europa Jn                          E                      1*      * Does not apply to Greater Anglia 9Pxx
+                                                                  services
+Trowse Jn                          E       1
+
+
+EA1050 SHENFIELD TO SOUTHEND VICTORIA
+Down                                                              Remarks
+Approaching Wickford               E                  1
+Approaching Southend Victoria      E                  1           For pathing purposes may instead be
+                                                                  applied approaching Prittlewell
+Approaching Southend Victoria      E                  4           For the use of SIMBIDS. Including (Sun)
+                                                                  and (MO). See Engineering Access
+                                                                  Statement for detailed timings
+Up                                                                Remarks
+Approaching Wickford               E                  1           Terminating trains only
+Approaching Mountnessing Jn        E                  1
+Approaching Mountnessing Jn        E                  4           For the use of SIMBIDS. Including (Sun)
+                                                                  and (MO). See Engineering Access
+                                                                  Statement for detailed timings
+
+
+EA1060 WICKFORD JUNCTION TO SOUTHMINSTER
+Down                                                              Remarks
+Approaching Southminster           E                  1
+Up                                                                Remarks
+Approaching Wickford               E                  1           Terminating trains only
+
+
+EA1070 WITHAM JUNCTION TO BRAINTREE
+Down                                                              Remarks
+Approaching Braintree              E                  1
+Up                                                                Remarks
+Approaching Witham                 E                  1           Terminating trains only
+
+
+EA1090 COLCHESTER JUNCTION TO CLACTON-ON-SEA
+Down                                                              Remarks
+Approaching Thorpe-le-Soken        E                  1
+Approaching Clacton                E                  1
+Up                                                                Remarks
+Approaching Thorpe-le-Soken        E                  1           Terminating trains only
+Approaching Colchester             E                  1
+
+
+EA1100 EAST GATE JUNCTION & HYTHE JUNCTION TO COLCHESTER TOWN
+Down                                                              Remarks
+Approaching Colchester Town        E                  1           Applies to services starting from beyond
+                                                                  Colchester (Main Line)
+Up                                                                Remarks
+Approaching Colchester Main Line   E                  1           Applies to services starting from beyond
+Station                                                           Colchester Town
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

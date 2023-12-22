@@ -1,0 +1,53 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version:   4.3
+Route: Sussex                       Final Rules for Subsidiary                  Date:      18th October 2023
+                                          Timetable 2024 OFFICIAL
+                                                                                Page:      45 of 163
+
+Surrey Quays Silwood   -             -                   To/From Surrey Quays – SO511A
+Junction
+ELL/Network Rail
+Boundary
+Old Kent Road          -             -                   To/From Queens Road Peckham – SO680
+Junction
+
+
+
+
+SO700 STREATHAM SOUTH JUNCTION TO SUTTON (VIA WIMBLEDON)
+TIMING POINT                    DOWN         UP          CODE       NOTES
+
+Streatham South Junction        -            -   SL                 To/from Streatham - SO680
+                                                 RVL                To/from Streatham North Junction -
+                                                                    SO680E
+Tooting                         -            -           S
+Haydons Road                    -            -                      Timing point for all Down direction services
+                                                                    and Up stopping services
+Wimbledon (Sussex Side)         UHL          -                      Platform detail must be shown
+                                DHL
+Wimbledon West Junction         FL SL        FL SL                  TIPLOC – WDONWJ
+                                UHL          UHL
+                                                                    Timing point for trains to/from Wessex
+                                DHL          DHL
+                                                                    Side and for all trains between Wimbledon,
+                                -
+                                                                    Wimbledon Chase, St Helier and Sutton
+
+                                                                    To/from Wimbledon (Wessex Side) - Refer
+                                                                    to Wessex Timetable Planning Rules -
+                                                                    SW105
+                                                                    To/from Raynes Park - Refer to Wessex
+                                                                    Timetable Planning Rules - SW105
+Wimbledon Chase                 -            - UHL       S
+South Merton                    -            -           S
+Morden South                    -            -           S
+St Helier                       -            -
+Sutton Common                   -            -           S
+West Sutton                     -            -
+Sutton                          -            -                      Platform detail must be shown
+                                                                    To/from Carshalton Beeches - SO510
+                                                                    To/from Carshalton - SO680
+
+
+
+
+                           Electronic copy - uncontrolled when printed

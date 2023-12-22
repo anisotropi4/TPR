@@ -1,0 +1,64 @@
+NETWORK RAIL                              Timetable Planning Rules                          Version:    4.2
+Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                 Change                       Date:     27th October 2023
+                                               Timetable 2024                                 Page:     116 of 178
+
+Fratton East
+Between all movements except as below                                                                      3
+Passing Down Service                                 Up train from Fratton CSD crossing behind             1
+
+
+Fratton
+
+Dwell Times
+All Services                            1
+
+Station Working Requirements
+Down 10 and 12 car trains should be Platformed on the Down Main Line
+
+
+Fratton S.S.
+
+Acceptance of Trains
+Minimum Margin                          10
+
+Dispatch of Trains
+Minimum Margin                        10*
+* A margin of 2 Minutes is to apply between arrivals and departures.
+
+
+Fratton C.S.D.
+
+Acceptance of Trains
+Minimum Margin                          10
+
+Dispatch of Trains
+Minimum Margin                        10*
+* A margin of 2 Minutes is to apply between arrivals and departures.
+
+
+Fratton Staff Halt
+
+Junction Margins
+First Movement                                      Second Movement                                         Margin
+Arrival at Fratton C.S.D.                           Arrival at Fratton S.S./Fuel Point                      10
+Arrival at Fratton S.S./Fuel Point                  Arrival at Fratton C.S.D.                               10
+Departure from Fratton C.S.D.                       Departure from Fratton S.S./Fuel Point                  10
+Departure from Fratton S.S./Fuel Point              Departure from Fratton C.S.D.                           10
+Arrival at Fratton C.S.D.                           Departure from Fratton S.S./Fuel Point                  2
+Arrival at Fratton S.S./Fuel Point                  Departure from Fratton C.S.D.                           2
+A train standing at the Staff Halt blocks the route across 7 points. It is not possible for a train to depart Fratton
+C.S.D./Fratton S.S. towards Portsmouth whilst a train is stood at the Staff Halt.
+
+
+Portsmouth and Southsea Down Carriage Sidings
+
+Berthing Facilities
+                                       Cars                     Notes
+No 1 Road                              12
+No 2 Road                              12
+No 3 Road                              8
+
+
+
+                                      Electronic copy - uncontrolled when printed.

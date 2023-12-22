@@ -1,0 +1,60 @@
+NETWORK RAIL                            Timetable Planning Rules                         Version:     4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                      Date:      27th October 2023
+                                             Timetable 2024                                Page:      84 of 178
+
+Surbiton
+All services except as below                                                                     1
+Up direction services departing between 0645 and 0915 or Down direction services arriving        1½
+between 1600 and 2000 Monday to Friday
+
+Station Working Requirements
+All trains that stop additionally at Surbiton (for Hampton Court Flower Show) are to be advertised 3 minutes later at
+destination.
+
+Restriction
+An Up train cannot depart/pass Surbiton until after the previous Up train via the same line has passed Berrylands
+Junction. This is because there is only one signal section between Surbiton and Berrylands Junction on both the
+Up Fast and Up Slow lines.
+
+
+Hampton Court Junction
+
+Adjustment to Sectional Running Times
+Movement                                           Reason                                               Value
+Down trains towards Hinchley Wood passing          Speed Differential                                   {1}
+Surbiton
+Up trains from Hinchley Wood passing Surbiton      Speed Differential                                   {1}*
+* Applies approaching next timing point.
+
+
+Esher
+
+Dwell Times
+EMU’s                                   1*
+All Trains that stop additionally for   $
+Sandown Park Race Meetings
+* Up direction services departing between 0730 and 0845 Monday to Friday.
+$ To allow extra stops at this station during Sandown Park Race Meetings dwell times at surrounding stations may
+be reduced with agreement from the Business Manager. This is only permissible on days of the Race Meetings
+
+Station Working Requirements
+All trains that stop additionally at Esher (for Sandown Park races) are to be advertised 3 minutes later at
+destination
+
+
+Walton on Thames
+
+Dwell Times
+Class 450                             1
+
+
+Weybridge
+
+Adjustment to Sectional Running Times
+Movement                                           Reason                                               Value
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

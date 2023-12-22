@@ -1,0 +1,65 @@
+                                                       OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                      Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:    6th October 2023
+                                           Change Timetable 2024                            Page:    243 of 289
+
+
+80x                                     1
+15x / 175                               ½*
+* Request Stop
+
+Manorbier
+
+Dwell Time
+80x                                     1½
+15x / 175                               ½ Down direction, 1 min. Up Direction
+
+Lamphey
+
+Dwell Time
+80x                                     1
+15x / 175                               ½*
+* Request Stop
+
+Pembroke
+
+Dwell Time
+80x                                     1½
+15x / 175                               ½
+
+Pembroke Dock
+
+Turnround allowances
+                                       DMU                     Class 80X (5 car)
+                                       10*                     15
+* May be reduced to 5 minutes for the last service of the day and for early morning / late evening services from/to
+Carmarthen
+
+GW960 CLARBESTON ROAD TO MILFORD HAVEN
+
+Haverfordwest
+
+Dwell Time
+150 to 175                              1
+
+Johnston
+
+Dwell Time
+150 to 175                              ½*
+* Request Stop
+
+Milford Haven
+
+Turnround allowances
+                                              LH                         DMU
+From East of Cardiff                          40                         20*
+From Cardiff and West thereof #               20                         10#
+* may be reduced to 5 mins for the last service of the day from East of Cardiff
+# may be reduced to 5 mins for early morning / late evening services from / to Carmarthen
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

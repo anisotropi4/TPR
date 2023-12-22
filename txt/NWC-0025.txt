@@ -1,0 +1,63 @@
+NETWORK RAIL                        Timetable Planning Rules                      Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                    Page:    13 of 443
+
+Second      Third      Route and/or Destination
+Character   and
+            Fourth
+            Number
+            9x         Class 1 trains Manchester Airport to Liverpool via Warrington Central
+                       Class 1 Transport for Wales services Chester to Liverpool
+            4x         Class 2 trains Preston to Ormskirk
+            odd        Class 2 trains Crewe/Manchester Airport/Manchester/Wigan/Warrington Bank
+            1x/2x/3x   Quay to Liverpool via St Helens Junction
+            even       Class 2 trains Liverpool to Warrington Bank Quay via St Helens Junction
+            2x/3x
+            even       Class 2 trains Liverpool to Wigan via St Helens Central
+            5x/6x
+            8x         Class 2 trains Manchester Victoria to Wigan via Atherton
+            odd        Class 2 trains Watford Junction to St. Albans Abbey
+            even       Class 2 trains St. Albans Abbey to Watford Junction
+            even 50-   Class 1 Transpennine trains Scarborough to Liverpool Lime Street
+            90
+            32, 34,    Euston to Liverpool Lime Street via SL to Northampton, Birmingham New
+            36         Street, Wolverhampton, Madeley and Crewe
+                       Southbound LUL trains to Queen’s Park
+                       ECS via turnback siding at Wembley Stadium passing through or terminating
+                       in the Up platform at Wembley Stadium
+            Odd        Class 2 trains Oxford to Milton Keynes
+            Even       Class 2 trains Milton Keynes to Oxford
+G                      To Birmingham area – bounded by Rugby (exclusive), Hinckley (exclusive),
+                       Wichnor Jn (exclusive), Rugeley Town (exclusive), Penkridge (exclusive),
+                       Abbey Foregate (exclusive), Hartlebury, Barnt Green, Heyford, Bicester Town
+                       (exclusive)
+                       Class 1 trains Marylebone to Birmingham Snow Hill
+                       Class 2 trains Marylebone to Gerrards Cross or Birmingham Snow Hill
+                       Class 5 trains Marylebone to Gerrards Cross or Birmingham Snow Hill
+                       Class 1 trains London to Worcester via Kemble
+                       Class 2 local services between Great Malvern/Worcester and Gloucester
+            00-39      Class 2 trains Manchester Piccadilly to Hadfield
+            40-79      Class 2 trains Hadfield to Manchester
+            8x/9x      Class 2 trains Manchester to Hadfield (circular services)
+                       Merseyrail trains to Liverpool Central Low Level
+            odd        Leamington Spa to Nuneaton
+            even       Nuneaton to Leamington Spa
+                       ECS to Soho TMD, Birmingham New Street or Wolverhampton
+                       ECS moves to Oxley CMD formed off a 9Gxx service terminating at
+                       Birmingham New Street or Wolverhampton
+H                      To Manchester South area – bounded by Totley Tunnel East, Macclesfield,
+                       Alderley Edge, Knutsford, Padgate, Water Street Jn, Ashburys, Guide Bridge
+            00-59      Class 1 trains Euston to Manchester Piccadilly via Stoke-on-Trent
+            60-98      Class 1 trains Euston to Manchester Piccadilly via Crewe and Wilmslow
+            0x         Class 2 trains Blackpool North – Hazel Grove
+            3x         Class 2 trains Chester/Greenbank to Manchester Piccadilly
+            4x         Class 1 trains Liverpool to Manchester Airport via Warrington Central
+            4x         Class 2 trains Crewe to Manchester Piccadilly via Stockport
+            5x/6x/7x   Rose Hill to Manchester Piccadilly via Hyde
+            8x         Stoke-on-Trent to Manchester Piccadilly
+            9x         Class 2 trains Hazel Grove and Alderley Edge to Manchester Piccadilly
+
+
+
+                           Electronic copy - uncontrolled when printed

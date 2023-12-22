@@ -1,0 +1,61 @@
+NETWORK RAIL                      Timetable Planning Rules                      Version:   4
+Region: North        Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                  Page:    15 of 443
+
+Second      Third    Route and/or Destination
+Character   and
+            Fourth
+            Number
+            1x       Class 2 trains Manchester (and beyond) to Stoke-on-Trent
+            3x       Manchester to Crewe via Stockport
+            6x       Manchester Victoria to Headbolt Lane via Atherton
+            8x       Southport to Alderley Edge via Stockport
+                     Marylebone to Kidderminster
+                     Birmingham Snow Hill line trains to Kidderminster
+                     Merseyrail trains to Headbolt Lane
+L                    To the Anglia Route
+            60-98    Liverpool to Birmingham New Street
+                     Class 2 trains Birmingham Moor Street or Stratford-upon-Avon to Leamington
+                     Spa
+                     Class 1 trains Worcester to London via Kemble
+                     Class 2 local services between Banbury and Oxford
+                     Class 2 CrossCity trains to Lichfield City
+                     ECS to Lichfield City
+            7x       Class 2 trains Blackburn/Manchester Victoria to Wigan/Southport via
+                     Atherton
+M                    To the North West & Central Region
+            01-24    Class 9 trains Edinburgh to Liverpool Lime Street via York and Huddersfield
+                     (departure hour to match headcode number)
+            9x       Glasgow/Edinburgh to Manchester/Manchester Airport
+            even     Class 2 trains York to Manchester Piccadilly via Wakefield Westgate and
+                     Huddersfield
+            7x       Services from Scotland via West Midlands or Trent Valley
+                     Hereford/Malvern/Worcester stations to Birmingham New Street
+                     ECS moves to Oxley CMD formed off a 9Mxx service terminating at
+                     Birmingham New Street
+N                    To Preston area – bounded by Euxton Jn, Farington Curve Jn, Garstang,
+                     Horrocksford Jn, Hall Royd Jn, Littleborough, Entwistle, Adlington
+            0x       Class 2 trains Ormskirk to Preston
+                     Class 2 trains Newcastle (and beyond) to Carlisle (both directions)
+            1x       Class 2 trains Preston (and beyond) to Colne
+            5x       Class 2 trains Rochdale/Manchester Victoria/Blackburn to Clitheroe
+            6x       Class 2 trains Hazel Grove to Blackpool North
+            5x/6x    Class 1 trains Manchester Airport to Blackpool
+            8x       Class 1 trains Liverpool to Blackpool
+            8x       Class 2 trains Colne to Preston
+            9x       Class 2 trains Southport/Wigan/Manchester Victoria to Blackburn via
+                     Todmorden
+                     Class 1 trains Stansted Airport/Cambridge to Birmingham New Street via
+                     Leicester
+            odd      Class 1 trains Euston to Northampton via FL to Ledburn Jn
+            odd      Class 2 trains Euston to Northampton
+            even     Class 2 trains Northampton to Euston
+                     ECS to Kings Heath TMD or Northampton/ECS to Longbridge
+                     Marylebone to Bicester North
+                     Class 2 CrossCity trains to Longbridge
+                     Merseyrail trains to New Brighton
+
+
+
+                         Electronic copy - uncontrolled when printed

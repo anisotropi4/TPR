@@ -1,0 +1,44 @@
+                                                     OFFICIAL
+
+
+Network Rail                                                                                         Version 4.0
+National                                                                                     Date: 28th July 2023
+                                  Final Proposal for Subsidiary Change 2024
+                                               Page 13 of 114
+
+
+
+
+ 1.6.5   A basic junction margin is the sum of 1, 2 and 3 rounded to the next half-minute above to form the
+         planning margin.
+
+ 1.6.6   If this does not provide a sufficient performance buffer, performance uplift will be added. This will
+         be an agreed uplift to the sum of the 1 and 3, before adding 2 (this is fixed) and finally rounding to
+         the next half-minute above or below. For example, train 1 takes 73 seconds to clear the relevant
+         track circuit after leaving the timing point (1). The signaller takes 9 seconds to reset the route for
+         train 2 across the junction (2). In order for train 2 to meet its SRTs, the train takes 62 seconds to
+         reach the timing point for the junction (3). Ergo, the margin is (73 + 9 + 62) seconds = 144 seconds,
+         + 6 seconds uplift to round up to 150 seconds, with any additional uplift agreed as appropriate.
+
+ 1.6.7   Network Rail will seek to model most combinations of stopping and non-stopping trains for
+         passenger and freight services as agreed with stakeholders.
+
+1.7 Platform Reoccupation
+ 1.7.1   The values listed in Section 5.3 of the TPR are Junction Margins and Station Planning Rules.
+
+ 1.7.2   Platform Reoccupation is the time between one train departing and a second train arriving at a
+         location at the same platform in the same direction or movement authority. This value need not be
+         calculated on the least restrictive signal aspect, but the second train in the sequence must be able
+         to meet its SRTs.
+
+ 1.7.3   In the absence of a specific value for Platform Reoccupation the value may be taken as the
+         applicable non-stop Planning Headway, noting however that Planning Headway and Platform
+         Reoccupation are not linked.
+
+ 1.7.4   Platform Reoccupation is measured separately to station dwell time.
+
+ 1.7.5 The calculation of a Platform Reoccupation will be undertaken (in seconds) by either:
+   • Time taken for the first train to depart the timing point and its rear clearing the relevant track circuit or
+      axle counter; plus
+
+                                Electronic copy – uncontrolled when printed

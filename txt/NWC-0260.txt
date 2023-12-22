@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:     28th July 2023
+West and Central
+                                                                                       Page:     248 of 443
+
+Aylesbury
+
+Junction Margins
+First Movement                                       Second Movement                                Margin
+Down train arrive Platform 3                         Up train from Aylesbury Vale Parkway           3*
+                                                     arrive/pass Platform 2
+Down train arrive Platform 3                         Down train towards Aylesbury Vale Parkway      3*
+                                                     arrive/pass Platform 2
+*Doesn’t apply if first movement is arriving permissively into platform 3
+
+Reoccupation of Single Lines
+To/from Princes Risborough
+A minimum of 1 minute to be allowed between a Down train arriving off the single line from Princes Risborough
+and an Up train departing onto the single line towards Princes Risborough
+
+To/from Aylesbury Vale Parkway or Claydon LNE Jn
+A minimum of 1 minute to be allowed between an Up train arriving off the single line from Claydon LNE Jn and a
+Down train departing onto the single line towards Claydon LNE Jn.
+
+
+MD715 NEASDEN SOUTH JN TO NEASDEN JN
+
+Neasden South Jn
+See entry under route MD701 Marylebone to Aynho Jn
+
+
+Neasden Jn
+
+Reoccupation of Single Lines
+A minimum of 3 minutes to be allowed between a train arriving or passing off the single line from Neasden South
+and another train departing or passing onto the single line towards Neasden South
+
+
+MD720 PRINCES RISBOROUGH TO AYLESBURY
+
+Princes Risborough
+
+Reoccupation of Single Lines
+Access to the single line towards Aylesbury is governed by the minimum platform reoccupation margin at Princes
+Risborough
+
+
+Aylesbury
+
+See entry under route MD712 Amersham to Aylesbury
+
+
+MD726 AYLESBURY TO CLAYDON WEST JN
+MD725 AYLESBURY TO CLAYDON L&NE JN
+
+Aylesbury
+
+See entry under route MD712 Amersham to Aylesbury
+
+
+
+                               Electronic copy - uncontrolled when printed

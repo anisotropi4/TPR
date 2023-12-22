@@ -1,0 +1,65 @@
+NETWORK RAIL                            Timetable Planning Rules                         Version:   4.3
+Route: Sussex                           Final Rules for Subsidiary                       Date:      18th October 2023
+                                              Timetable 2024 OFFICIAL
+                                                                                         Page:      72 of 163
+
+STANDARD VALUES – MINIMUM
+
+Junction Margins
+Movement                                                                                                        Margin
+Between all conflicting movements except as below                                                               2
+Between all conflicting movements following a class 4, 6, 7 or non-seasonal class 8                             3
+Resetting of route for a departing service following the arrival/pass of a conflicting inwards service          1
+
+Platform Re-occupation
+Platform re-occupation in the same direction unless stated otherwise                                            2
+Reoccupation of platforms when a change of direction or a conflicting move is involved                          3
+
+Minimum Turnround – Passenger Stock
+Stock              1 or 2 Car 3 car 3 or 4              4, 5     5 or    7 or     7, 8      9 or    10 or 12        12 Car
+                                    Car                 or 6     6       8        or 9      10      Car
+                                                        car      Car     Car      Car       Car
+Class 158 DMU            3 Mins               4 Mins
+(GWR)
+Class 158/159 DMU        3 Mins       4                 5                         6                 7 Mins
+(SWR)                                 Mins              Mins                      Mins
+Class 165/166 DMU        3 Mins               3 Mins             4^      5
+(GWR)                                                            Mins    Mins
+Class 171 DMU            3 Mins               4 Mins             4       5        5         6
+                                                                 Mins    Mins     Mins      Mins
+
+Class 375/377 EMU                             4 Mins             4       5        5                 6 Mins
+(Southern Services)                                              Mins    Mins     Mins
+Class 378/710 EMU                             5 mins             6       7                  8                       8 mins
+                                                                 Mins    mins               mins
+                                                                 #
+Class 387 EMU                                 4 Mins                     5                                          6 Mins
+(Southern & Gatwick                                                      Mins
+Express Services)
+Class 450 EMU                                 5 Mins             5       6                                          7 Mins
+                                                                 Mins    Mins
+Class 455 EMU                                 6 Mins                     7                          8 Mins          8 Mins
+(South Western                                                           Mins
+Railway Services)
+Class 458 EMU                                                    6                          7
+                                                                 Mins                       Mins
+Class 700 EMU                                                            8                                          10 Mins
+                                                                         Mins
+Class 701 EMU                                                    6                                  7 Mins
+                                                                 Mins
+Class 707 EMU                                                    6                          7
+                                                                 Mins                       Mins
+^ 3 Minutes applies to 5 cars
+# - The following exceptions apply: Passenger to ECS 5 minutes, ECS to ECS 5 minutes
+
+Minimum Allowance for Class 4, 6, 7 or non-seasonal Class 8 movements
+Reversal before/after propelling movement                 2
+Crew change                                               2
+Light engine reverse                                      2
+Change of Locomotive                                      10
+Runaround in stations                                     20
+Runaround in yards or depots                              20
+
+
+
+                                  Electronic copy - uncontrolled when printed

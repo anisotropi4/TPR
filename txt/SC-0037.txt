@@ -1,0 +1,63 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                      Version:    4
+Scotland                     Final Rules for Subsidiary Change Timetable 2024             Date:     28/07/2023
+                                                                                          Page:     32 of 242
+
+SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH)
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Greenhill Upper Junction          –           –
+Croy                              –           –                     Platform detail must be shown
+Gartshore Down Passenger Loop     –                          S
+Gartshore Up Passenger Loop                   –              S
+Lenzie                            DEG         –
+                                  UEG
+Cadder (East End)                 –
+Cadder East Departure             −           −              S      Access to/from Cadder HST Depot
+Cadder Down Passenger Loop        –           –              S
+Cadder Up Passenger Loop          –           –              S
+Cadder HST Depot                  −           −              S
+Cadder West Departure             −           −              S      Access to/from Cadder HST Depot
+                                  UEG
+Cadder (West End)
+Bishopbriggs                      DEG         UEG
+                                  UEG         DEG
+Cowlairs East Junction            DEG         UEG            X      To/from Cowlairs North Junction – SC116
+                                  UEG         DEG
+Eastfield Passenger Loop          –           –              S
+Cowlairs West Junction            DEG         UEG                   To/from Cowlairs North Junction – SC115
+                                  UEG         DEG                   To/from Springburn – SC103
+Cowlairs Passenger Loop           –           –              S
+Cowlairs South Junction           DEG         UEG                   To/from Springburn – SC106
+                                  UEG         DEG
+Glasgow Queen Street                          UEG                   Platform detail must be shown
+                                              DEG
+
+
+SC109 POLMONT TO CARMUIRS WEST JUNCTION
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+
+Polmont                           –           –                     To/from Linlithgow – SC107
+
+Polmont Up North PL                           –              S
+Grangemouth Junction              –           –
+Falkirk Grahamston                –           –              S      Platform detail must be shown
+Camelon                           –           –              S      Platform detail must be shown
+Carmuirs East Junction            –           –                     To/from Larbert Junction – SC110
+
+Carmuirs West Junction            –           –                     To from Greenhill Upper Junction – SC107
+
+
+SC110 CARMUIRS EAST JUNCTION TO LARBERT JUNCTION
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Carmuirs East Junction            –           –                     To/from Carmuirs West Junction – SC109
+
+Larbert Junction                  –           –                     To/from Stirling – SC119
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

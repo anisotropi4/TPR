@@ -1,0 +1,70 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                   Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable              12th September
+                                                                                   Date:
+                                                2024                                       2023
+                                                                                  Page:    169 of 183
+
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION
+LOCATION                        DIRECTION USABLE LENGTH            NOTES
+                                          SLU    METRES
+
+Ely Down Goods Loop             Down          90       576         Between CA760 & CA255
+                                                                   No access to or from EA1540
+Ely Down Goods/Freight Loop     Down          179      1145        Between CA760 & CA273
+                                                                   No access to or from EA1540
+Ely Down Freight Loop           Down          60       384         Between CA762 & CA273
+                                                                   No access to or from Route EA1540
+Ely Down Freight Siding         Down          60       384         Between CA764 & CA765
+                                                                   No access to or from Route EA1540
+Ely Up Goods Loop               Both          85       544         Between CA287 & CA270
+                                                                   Access to or from Route EA1540 and Route
+                                                                   EA1161
+                                                                     Length extends to 111 SLUs / 710m
+                                                                        between CA287 & CA262. This allows
+                                                                        access to or from Route EA1540 only
+                                                                   Not electrified
+Ely Up Engineers Stabling       Both          59       377         Between CA272 & CA769
+Siding                                                             Access to or from Route EA1540 via Up
+                                                                   Main and Route EA1161
+                                                                   Not electrified
+
+
+EA1280 STRATFORD CENTRAL JUNCTION TO COPPERMILL JUNCTION
+LOCATION                        DIRECTION USABLE LENGTH            NOTES
+                                          SLU    METRES
+
+Temple Mills Loop               Both          137      880         Between signals S715 and S706
+
+
+EA1300 SOUTH TOTTENHAM WEST JUNCTION TO SEVEN SISTERS JUNCTION
+LOCATION                        DIRECTION USABLE LENGTH            NOTES
+                                          SLU    METRES
+
+Seven Sisters Chord             Both          14       92          Between signals L1327 and S16
+
+
+EA1320 CAMDEN ROAD WEST JUNCTION TO STRATFORD PLATFORMS 1 AND 2
+LOCATION                        DIRECTION USABLE LENGTH            NOTES
+                                          SLU    METRES
+
+Lea Junction/Up Channelsea      Up          65         419         Clear of Up Channelsea Curve
+Loop (Signal NL1286)            (Westbound)                          Length extends to 110 SLUs / 707m
+                                                                        clear of Stratford Central Junction
+                                                                        (Down Temple Mills Line), will prevent
+                                                                        trains passing on the Up Channelsea
+                                                                        Curve from Stratford
+
+
+EA1370 GOSPEL OAK TO BARKING TILBURY LINE JUNCTION WEST
+LOCATION                        DIRECTION USABLE LENGTH            NOTES
+                                          SLU    METRES
+
+Upper Holloway Up Goods         Up            49       314
+Loop (Up Reception Line)
+
+
+
+                                 Electronic copy - uncontrolled when printed.

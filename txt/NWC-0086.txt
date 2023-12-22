@@ -1,0 +1,66 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                    Page:    74 of 443
+
+
+NW3023 EDGELEY JN No.2 TO MICKLE TRAFFORD
+TIMING POINT                      DOWN        UP          CODE     NOTES
+
+Edgeley Jn No.2                        –        FL SL              To/from Stockport – NW5001
+Edgeley Signal EY1.20                             –         S      Regulating point for trains on the Up
+                                                                   Liverpool. Refer to Edgeley Jn No.2
+                                                                   Planning Restrictions in section 5.3 for
+                                                                   further detail
+Cheadle Village Jn                     –           –               Single line from Cheadle Village Jn to/from
+                                                                   Sharston Jn
+Sharston Jn                            –           –
+Northenden RTS                                              F
+Northenden Jn Signal NJ8                                    S
+Northenden Jn                          –           –               To/from Hazel Grove High Level Jn –
+                                                                   NW9017
+Skelton Jn                             –           –               Trains using Down Goods Loop or to/from
+                                                                   Partington – NW3025 only
+Deansgate Jn                           –           –               Single line from Deansgate Jn to/from
+                                                                   Navigation Road
+Navigation Road                        –           –
+Deansgate Jn Signal DJ19               –           –        S      Timing point for trains shunting between
+                                                                   platforms at Altrincham
+Altrincham                             –           –
+Hale                                   –           –
+Ashley                                 –           –        S
+Mobberley                              –           –
+Knutsford                              –           –        S
+Plumley                                –           –        S
+Plumley West SB                        –           –
+Lostock Gralam                         –           –        S
+Lostock Works                          –           –        F
+Northwich East Jn                    – GL          –               To/from Down & Up Goods line only.
+                                                                   Also Goods Loop in Up direction only.
+                                                                   Down trains proceeding towards Northwich
+                                                                   South Jn must cross to the "GL" at this
+                                                                   point
+Northwich T.C.                         –        – GL        F
+Northwich                              –        – GL               Up trains from Northwich South Jn must
+                                                                   run via the "GL" at this point and proceed
+                                                                   via Northwich East Jn
+Northwich Station Jn                                               To/from Northwich South Jn – NW3031
+Northwich West Jn                      –           –               Trains to/from Northwich South Jn only –
+                                                                   NW3029
+Hartford East Jn                       –           –               Trains to/from Oakleigh Sidings only –
+                                                                   NW3033
+Hartford West Jn                                                   To/from Hartford North Jn – NW3035
+Greenbank Signal 9                     –           –        S      For reversing moves to/from Greenbank
+Greenbank                              –           –
+Hartford C.L.C. Jn                     –           –        X      To/from Hartford Jn only – NW3037
+Hartford C.L.C. Jn
+Cuddington                             –           –        S
+Delamere                               –           –        S
+Mouldsworth                            –           –               Single line from 31 miles 13 chains to/from
+                                                                   Mickle Trafford
+Mickle Trafford                        –           –               To/from Chester – NW3003
+
+
+
+
+                            Electronic copy - uncontrolled when printed

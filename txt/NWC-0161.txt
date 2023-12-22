@@ -1,0 +1,57 @@
+NETWORK RAIL                             Timetable Planning Rules                        Version:   4
+Region: North               Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                           Page:    149 of 443
+
+
+NW8005 SANDHILLS JN TO ORMSKIRK
+TIMING POINT                          DOWN           UP         NOTES
+
+Sandhills Jn to Walton Jn             3½$            3$         $ 2½ applies for ECS following a passenger service
+                                                                in Down direction and 2 in the Up direction
+Walton Jn to Ormskirk                 6              6
+
+
+NW8007 BOOTLE JN TO AINTREE EMERGENCY G. F.
+TIMING POINT                          DOWN           UP         NOTES
+
+Bootle Jn to Aintree Emergency                   *              * Single line - One Train in Section (OTS)
+Ground Frame
+
+
+NW8009 WALTON JN TO HEADBOLT LANE
+TIMING POINT                          DOWN           UP         NOTES
+
+Walton Jn to Kirkby                        5              5
+Kirkby to Headbolt Lane                    *                    * Two bi-directional single lines between Kirkby and
+                                                                Headbolt Lane. See section 5.3 for junction margin
+                                                                rules.
+Headbolt Lane to Fazakerley                              AB+0   TCB timed as AB
+(exclusive)
+Fazakerley (inclusive) to Walton                          5
+Jn
+
+
+NW8011 MANN ISLAND JN TO WEST KIRBY (VIA LOOP)
+TIMING POINT                          DOWN           UP         NOTES
+
+Mann Island Jn to Mann Island Jn            Single Line         TCB 2 minute headway applies
+(via Loop)
+Mann Island Jn to Birkenhead          2              2
+North
+Birkenhead North to Bidston Dee       3              3
+Jn
+Bidston Dee Jn to West Kirby          5              5
+
+
+NW8013 CANNING STREET JN TO HOOTON SOUTH JN
+TIMING POINT                          DOWN           UP         NOTES
+
+Canning Street Jn/Hamilton            3              3
+Square to Rock Ferry
+Rock Ferry to Hooton South Jn         5              5
+
+
+
+
+                                Electronic copy - uncontrolled when printed

@@ -1,0 +1,66 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    27 of 443
+
+
+MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)
+TIMING POINT                          DOWN       UP         CODE     NOTES
+
+Brent Reception and Departure             –        REV –             Track code must be shown
+                                                                     Timing point for trains from Railnet
+                                                                     Reception via REV and to/from Willesden
+                                                                     Brent Sidings
+                                                                     To/from Railnet Reception – MD137
+                                                                     TIPLOC WLSDBRR
+Sudbury Jn                              SL –      UR DR        X     Timing point for all trains not passing on
+                                        UDR         –                the slow lines
+                                                                     To/from Loco Holding Sidings and
+                                                                     Wembley Receptions 1-7 via ‘–‘ – MD137
+                                                                     To/From Willesden Up/Down Relief via
+                                                                     ‘UDR’ – MD166
+                                                                     To/From Wembley Yard South Jn –
+                                                                     MD166
+Wembley Central Jn                                                   For timing purposes this location is shown
+                                                                     as Wembley Central
+Wembley Central                         FL SL    FL SL CL            Platform detail must be shown
+                                                  – UDR              To Willesden Up/Down Relief via ‘UDR‘ –
+                                                                     MD166
+                                                                     To/from Wembley InterCity Depot via CL –
+                                                                     MD136
+                                                                     To/from Wembley yards – MD137
+North Wembley Jn                         FL         SL         X
+Harrow & Wealdstone                    FL SL       FL SL             Platform detail must be shown
+Bushey                                 FL* SL      FL SL       S     * set down only
+                                                                     Platform detail must be shown
+Watford South Jn                         SL        FL SL       X
+Watford Yard                                        SL         S
+Watford Junction                        FL SL      FL SL             Platform detail must be shown
+                                                    DC               To/from Watford High Street DC Lines –
+                                                                     MD120
+                                                                     To/from St Albans Abbey – MD130
+Watford North Jn                         FL       SL DSL       X
+                                                    DFL
+Up Kings Langley Loop                               SL         S
+Kings Langley                           FL SL      FL SL       S
+Apsley                                  FL SL      FL SL       S
+Hemel Hempstead South Jn                 SL                    X     Shunting moves and trains to/from
+                                                                     Boxmoor Sidings only
+Hemel Hempstead Boxmoor                               SL       S
+Sidings
+Hemel Hempstead                         FL SL      FL SL       S     Platform detail must be shown
+Bourne End Jn (Herts)                   FL SL      FL SL
+Berkhamsted                             FL SL      FL SL       S
+Tring South Jn
+Tring Signal WT1425                                            S     For trains to Tring Civil Engineers Sidings
+Tring Civil Engineers Sidings                                  S
+Tring                                   FL SL      FL SL             Platform detail must be shown
+Tring North Jn                           SL         FL         X
+Cheddington                             FL SL      FL SL       S
+Ledburn Jn                              FL SL      FL SL
+Leighton Buzzard                        FL SL      FL SL       S
+Drayton Road Jn                          SL         FL         X
+
+
+
+                                Electronic copy - uncontrolled when printed

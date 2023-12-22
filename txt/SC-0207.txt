@@ -1,0 +1,62 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                          Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                 Date:    28/07/2023
+                                                                                                Page:    202 of 242
+
+
+
+
+Garve
+
+All trains must stop for token exchange purposes
+
+Dwell Time
+All Down trains (Level Crossing       2
+Plunger and RETB duties)
+
+
+Achnasheen
+
+All trains must stop for token exchange purposes, unless a Long Section Token has been issued at the
+previous Token Exchange Point.
+
+
+Strathcarron
+
+All trains must stop for token exchange purposes
+
+Dwell Time
+All Down trains (Level Crossing       2
+Plunger and RETB duties)
+
+
+
+Stromeferry
+
+All trains must stop for token exchange purposes unless a Long Section Token has been issued at the
+previous Token Exchange Point.
+
+Any train undertaking a permissive move to Kyle of Lochalsh must stop here for token exchange.
+
+
+Kyle of Lochalsh
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                             Value
+Down train arriving Platform 2                     Operation of Ground Frame                          10
+
+Movement Up                                           Reason                                            Value
+Loco Hauled train departing Platform 2                Operation of Ground Frame                         10
+Multiple Unit train departing Platform 2              Operation of Ground Frame                         3
+Restriction
+All trains to be planned to arrive at Platform 1, except in extreme circumstances.
+If a train is the process of shunting, then the section from Stromeferry to Kyle of Lochalsh is occupied and a token
+for this section cannot be issued at Stromeferry or a long section token issued at Strathcarron.
+Any such shunt move can commence 5 minutes after an Up train has departed. Minimum time required is 12
+minutes (MU) and 20 minutes (loco hauled).
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

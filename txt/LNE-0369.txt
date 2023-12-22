@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                            Version: 4.1
+London North Eastern                      Revised Final Rules for                             Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                         Page: 366 of 368
+
+
+
+
+                            Newcastle Area Timing Points 2
+                                                                                MANDATORY TIMING POINT                  CROSSING TRAINS
+                                                                                                                        ONLY
+                                                                                STOPPING TRAINS
+                                                                                ONLY
+
+
+                                                                                                             Timing Points and Running Lines
+                                                                                                             Blank line applies where identity is not shown
+
+
+                                 FORTH
+                                 BANKS
+                                  [FRTHBKL
+                                  ]
+                                                                    LN600
+                                                                                                                                       G
+                                                                                                                   HEATON              L         HEATON N
+                                                      NEWCASTL                          MANOR
+                                                                                                                   S
+                                                                                                                  JUNCTION                       JUNCTION
+                                                      E[NWCSTLE                         S
+                                                                                       [MANORS]
+                                                                                                                  [HTONSJN]                     [HTONNJN]
+                                                       ]                    S                            S
+                                                                            L                            L                             G
+                                                                                                                                       L
+                                            S
+                                            L
+                           KING EDWARD                                                HIGH                                         HEATON
+                            BRIDGE N                                                  LEVEL
+                                                                                       BRIDGE                                      T&RSM
+                            JN
+                             [KEBGNJN                                                  JN
+                                                                                      [HLBDGJN                                     D
+                                                                                                                                 [HTONTMD]
+                       S     ]                                                        ]
+                       L
+
+                TO
+                KING
+                EDWARD BRIDGE
+                  STH JN
+                                                     KING EDWARD                      GREENSFIE                    PARK
+                                                       BRIDGE E                       LD
+                                                                                       JUNCTION                    LANE
+                                                                                                                   JUNCTION
+                                                       JN
+                                                        [KEBGEJ                        [GRNSFD                      [PKLNJN
+                                                        N]          LN627/676          J]                           ]
+
+
+
+
+                                                             Electronic copy - uncontrolled when printed.

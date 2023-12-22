@@ -1,0 +1,51 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024              Date:    28th July 2023
+West and Central
+                                                                                           Page:    270 of 443
+
+Golborne Jn
+
+All freight trains joining Down Main from Down     Acceleration from Slow Speed Junction               3 after
+Lowton with trailing load of 1200t or greater                                                          Golborne Jn
+Movement Up                                        Reason                                              Value
+All trains to Winwick Jn joining Up Main from      Acceleration from Slower Speed Junction             1 after
+Up Slow                                                                                                Golborne Jn.
+All trains timed as Class 15x joining Up Lowton    Approach Control
+                                                                                                       ½
+from Up Main
+All trains (except Class15x) joining Up Lowton     Approach Control
+                                                                                                       1½
+from Up Main
+
+
+Springs Branch
+
+Trains for either Springs Branch Stabling Sidings or Wigan Diesel Depot T.C. will arrive/depart via the two
+headshunts at Springs Branch. The following rules describe the margins between successive arrivals or
+departures to/from the Stabling Sidings or Diesel Depot and should be read in conjunction with the timing
+information shown below for these locations.
+
+Margins between successive arrivals
+First Movement                                     Second Movement                                      Margin
+Arrive Springs Branch for either Springs Branch    Following movement arrives Springs Branch for 5*
+Stabling sidings or Wigan Diesel Depot             either Springs Branch Stabling sidings or
+                                                   Wigan Diesel Depot
+* A margin of 10 minutes is required after the second of a pair of trains have arrived before the next arrival can be
+accepted at Springs Branch
+
+A train can depart Springs Branch towards either Springs Branch Stabling Sidings or Wigan Diesel Depot a
+minimum of 2 minutes after a second arrival.
+
+Margins between successive departures
+First Movement                                     Second Movement                                     Margin
+Depart from Springs Branch having arrived          Following movement departs Springs Branch           5*
+from either Springs Branch Stabling sidings or     having arrived from either Springs Branch
+Wigan Diesel Depot                                 Stabling sidings or Wigan Diesel Depot
+
+* A margin of 10 minutes is required after the second of a pair of trains have departed before the next departure
+can be timed at Springs Branch
+
+
+
+
+                               Electronic copy - uncontrolled when printed

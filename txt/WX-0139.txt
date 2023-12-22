@@ -1,0 +1,61 @@
+NETWORK RAIL                              Timetable Planning Rules                          Version:   4.2
+Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                 Change                       Date:    27th October 2023
+                                               Timetable 2024                                 Page:    137 of 178
+
+SW170A WILTON JUNCTION G.S.P. TO QUIDHAMPTON SIDINGS
+
+Wilton Junction G.S.P.
+
+See entry under route – SW170
+
+
+SW175 CASTLE CARY TO DORCHESTER JUNCTION
+
+Yeovil Pen Mill
+
+Adjustment to Sectional Running Times
+Movement                                            Reason                                               Value
+Down passenger trains routed via Platform 1         Speed Differential                                   {2}
+
+Connectional Allowance            60
+Connectional allowance between Yeovil Junction and Yeovil Pen Mill
+
+Dwell Times
+All train classes to or from Maiden    2
+Newton, including test trains
+
+Junction Margins
+First Movement                                      Second Movement                                      Margin
+Between all movements except as below                                                                    4
+Reoccupation of single line towards Yeovil                                                               4
+Junction/ Maiden Newton
+Reoccupation of single line towards Castle                                                               1
+Cary
+Arrival of first train                              Arrival of second train                              3
+
+Simultaneous Moves Not Permitted
+Down train arriving Platform 3                      Up train arriving Platform 1/2
+Up train arriving Platform 1/2                      Down train arriving Platform 3
+
+Station Working Requirements
+Down passenger trains should use Platform 1 whenever possible
+
+
+Maiden Newton
+
+Dwell Times
+All Down train classes including       2
+test trains
+All Up train classes including test    3
+trains
+
+Junction Margins
+First Movement                                       Second Movement                                     Margin
+Re-occupation of Single Line                                                                             *
+* Depart 1 minute after arrival of up train. Depart 4 minutes after arrival of down train
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

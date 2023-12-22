@@ -1,0 +1,63 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                   Timetable Planning Rules                      Version:   4
+Scotland                          Final Rules for Subsidiary Change Timetable 2024             Date:    28/07/2023
+                                                                                               Page:    217 of 242
+
+5.4.1 Loop Lengths
+The table below shows the maximum length of train that may use each of the loops at the following locations. All
+lengths are in SLU (Standard Length Unit – an SLU measures 21 feet) and metres. All lengths are measured from
+the signal at the exit of the loop to the block joint in rear unless stated otherwise. All lengths quoted exclude
+allowance for locomotives or stand back unless stated otherwise. Check Sectional Appendix for locations where
+standage is not quoted.
+
+
+ SC001 GRETNA JUNCTIONN TO GLASGOW CENTRAL (VIA BEATTOCK)
+ LOCATION                        DIRECTION          USABLE LENGTH         NOTES
+                                                    METRES   SLU
+ Quintinshill UPL                Up                 579      90
+ Quintinshill DPL                Down               566      88
+ Lockerbie DPL                   Down               548      85
+ Lockerbie UPL                   Up                 686      107
+ Beattock DPL                    Down               641      100
+ Beattock UPL                    Up                 631      98
+ Beattock Summit DPL             Down               594      92
+ Beattock Summit UPL             Up                 608      95
+ Abington DPL                    Down               634      99
+ Abington UPL                    Up                 744      116
+ Carstairs DPL                   Down               790      123          Distance between GMC417 and
+                                                                          GMC430 signals is 406m
+                                 Up                 406           63
+ Carstairs UPL                   Up                 684           106
+                                 Down               504           78
+ Carstairs Platform Line         Up                 365           57
+                                 Down               215           33
+ Law DPL                         Down               564           88
+ Law UPL                         Up Holytown        733           114
+ Motherwell UGL (Dalzell)        Up                 1101          172
+ Glasgow Central Sidings
+ No1                                                145           22
+ No2                                                145           22
+ No3                                                165           25
+ No4                                                148           23
+ No5                                                128           19
+
+ SC031 GRETNA JN TO GLASGOW CENTRAL (VIA KILMARNOCK)
+ LOCATION                   DIRECTION             USABLE LENGTH          NOTES
+                                                  METRES SLU
+ Thornhill UPL              Up                    620m     97SLU
+ Mauchline
+ Up Branch                  Up                    377m        59SLU
+ Down Branch                Down                  448m        70SLU
+ New Cumnock UGL            Up                    325m        51SLU
+ Kilmarnock DPL             Down                  330m        52SLU
+
+ SC045 EAST KILBRIDE to BUSBY JN
+ LOCATION                   DIRECTION              USABLE LENGTH         NOTES
+                                                   METRES SLU
+ Hairmyres Loop (CL)        Crossing Point         300      46
+
+
+
+
+                                        Electronic copy - uncontrolled when printed.

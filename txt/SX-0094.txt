@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version:   4.3
+Route: Sussex                           Final Rules for Subsidiary                      Date:      18th October 2023
+                                              Timetable 2024 OFFICIAL
+                                                                                        Page:      90 of 163
+
+Earlswood
+Junction Margins
+First Movement                                      Second Movement                                      Margin
+Pass Up Fast to Up Redhill                          Pass Down Slow having not called at Redhill or       3
+                                                    Earlswood
+Pass Down Fast/Quarry to Down Slow                  Pass Up Fast to Up Quarry                            2½
+
+
+Salfords Aggregate Sidings
+
+Berthing Facilities
+Location                                           Usable Length                 Notes
+                                               SLU            METRES
+Reception number 1 siding                       27               176             Between 1149 and 1142 signal
+Number 2 siding                                 47               305
+Siding for unloading                            48               318
+Cripple siding                                  11                70
+Headshunt                                       31               203
+
+Planning Restrictions
+One train working (excludes light locomotives)
+
+
+Horley
+
+Planning Note
+Please note that a second train cannot be planned to arrive at Horley until the first train has arrived at Gatwick
+Airport due to one signal being between the two stations.
+
+
+Gatwick Airport
+
+Adjustment to Sectional Running Times
+Movement                                            Reason                                      Value
+All movements from Up Slow to platforms 1 and       Approach control on Signal T260             {½}
+platform 3 via Signal T260
+All movements from Down Slow to platforms 1         Approach control on Signal T239             {½}*
+and 2
+All movements from Down Fast to Platforms 1,        Approach Control on Signal T237             {1}*
+2 and 3
+Train passing through Platform 1,2 & 3 from the     Train not running at line speed             {1}**
+Down Fast                                           having used 40mph crossovers
+Depart Platform 5 to Up Fast                        Speed differential for slow speed           {1}***
+                                                    crossover (1707 points)
+* Not applicable if the train has stopped at Horley
+** Applies only to trains not stopping at Gatwick Airport. To be applied approaching next timing point
+*** To be applied approaching next timing point
+
+Connectional Allowances
+All Services                              10
+Dwell times
+All Services                              1½
+
+Exceptions
+Activity                                       Reason                                           Value
+
+
+
+                                 Electronic copy - uncontrolled when printed

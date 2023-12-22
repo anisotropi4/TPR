@@ -1,0 +1,57 @@
+NETWORK RAIL                             Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                          Timetable 2024                            Page:     126 of 168
+
+
+ Nunhead
+ Connectional Allowance              4
+
+ Dwell Time
+ All Thameslink Services             1
+
+
+ Catford
+
+ Dwell Time
+ All Thameslink Services             1
+
+
+ Bellingham
+
+ Dwell Time
+ All Thameslink Services             1
+
+ Berthing Facilities
+ Location                   Cars           Notes
+ Down Sidings 1             8
+ Down Sidings 2             8
+ Down Sidings 3             8
+ Headshunt                  8
+
+ Overlap Restrictions
+ First Movement                                      Second Movement                                       Margin
+ Train arrives or passes platform 1 from Sidings     Down train arrive/pass platform 2                     2
+ Train departs platform 1 to Sidings or towards      Down train arrive/pass platform 2                     2
+ Shortlands Junction
+
+ Planning Restrictions
+ When a movement from the Down Sidings to the Down Catford Loop takes place, occupation of Platform 1 is
+ necessary to reverse
+
+
+ Ravensbourne
+
+ Length Limits
+ A train exceeding 424m/66SLU in length will foul 842 points in rear at Shortlands Junction when standing at
+ VS486 on the Up Ravensbourne Chord
+ Therefore, junction margins must be based on train’s departure time at Ravensbourne
+ A train exceeding 365m/57SLU in length will foul 833 points in rear at Shortlands Junction when standing at
+ VS484
+ Therefore, junction margins must be based on train’s departure time at Ravensbourne
+
+
+
+
+                                    Electronic copy - uncontrolled when printed

@@ -1,0 +1,65 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                          Version:    4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024                 Date:     28/07/2023
+                                                                                                 Page:     195 of 242
+
+ Keith Station
+
+ Dwell Time
+ MU                                     ½
+ LH                                     1
+
+ Note
+ Terminating trains use Branch Platform. Cannot use when Royal Scotsman stabled. Terminating train cannot
+ arrive Station (Main Platform) from Keith Loop whilst preceding train en route to Elgin SB, or when train has been
+ accepted from Elgin SB.
+
+
+Elgin
+
+Adjustments to Sectional Running Times
+Movement Down                                       Reason                                      Value
+Down train pass Platform 2                          Slower speed route                          ½ DMU/HST (to be
+                                                                                                shown approaching
+                                                                                                Forres)
+Arriving Occupied Platform                          Permissive Working                          1
+
+Movement Up                                         Reason                                      Value
+Up train pass Platform 2                            Slower speed route                          ½ DMU/HST (to be
+                                                                                                shown approaching
+                                                                                                Keith or Keith Jn)
+
+Dwell Time                                             1 DMU
+
+Junction Margins
+First Movement                                      Second Movement                             Margin
+Arrive/Pass from Keith                              Depart to Keith                             Same time
+Arrive from Keith                                   Pass to Keith                               ½
+Pass from Keith                                     Pass to Keith                               1
+Arrive from Forres (via Elgin Loop)                 Pass to Forres (via East Single)            Same time
+Arrive from Forres (via East Single)                Pass to Forres (via Elgin Loop)             ½
+Arrive/Pass from Forres                             Depart to Forres                            Same time
+Pass from Forres                                    Pass to Forres                              1
+Depart/Pass to Elgin Yard                           Arrive/Pass from Keith (via East Single)    7½
+
+Note
+If not crossing another, trains use Platform 1.
+When an Up train divides, the Up portion must depart a minimum of 1 minute before the Down portion.
+
+
+Forres
+
+Dwell Time                                ½ DMU
+                                          1 LH
+
+Junction Margins
+First Movement                                       Second Movement                                      Margin
+Arrive/Pass from Elgin                               Depart to Elgin                                      Same time
+Arrive from Elgin                                    Pass to Elgin                                        ½
+Pass from Elgin                                      Pass to Elgin                                        1
+Arrive/Pass from Nairn                               Depart to Nairn                                      Same time
+Arrive/Pass from Nairn                               Pass to Nairn                                        1
+
+
+                                       Electronic copy - uncontrolled when printed.

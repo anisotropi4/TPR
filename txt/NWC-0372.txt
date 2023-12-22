@@ -1,0 +1,57 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                       Page:    360 of 443
+
+New Mills South Jn
+
+
+Junction Margins
+First Movement                                  Second Movement                                      Margin
+Pass from Hazel Grove Freight                   Pass to Romiley                                      3½
+Pass from Hazel Grove Passenger                 Pass to Romiley                                      3
+Pass to Romiley Passenger                       Pass to Chinley                                      2½
+Pass to Romiley Freight                         Pass to Chinley                                      3
+
+
+Hazel Grove High Level Jn
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                            Value
+Down train to Down Cheadle Loop                  Approach control                                  2
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Pass to New Mills Passenger                     Pass from New Mills                              3
+Pass to New Mills Freight                       Pass from New Mills                              4
+Pass to Stockport Passenger                     Pass from Northenden                             3½
+Pass to Stockport Freight                       Pass from Northenden                             4½
+Margins can be reduced by ½ minute if the second train has a minimum of 1 minute pathing allowance
+approaching Hazel Grove High Level Jn
+
+
+Hazel Grove
+
+Adjustments to Sectional Running Times
+Movement                                       Reason                                            Value
+Up trains routed via Platform 2 or terminating Approach Control and Slow speed turnout           ½*
+Up train arriving Platform 1 simultaneous or   Approach control due to restricted signalling     ½*
+within 2 minutes of a train routed from the Up overlap
+& Down Hope Valley via Platform 2
+* In circumstances where both allowances are applicable, only one ½ allowance is required to be applied
+All Down trains departing Platform 1           Slow speed turnout                                ½ approaching
+                                                                                                 next timing point
+All Down trains passing Platform 1             Approach Control and Slow speed turnout           ½ approaching
+                                                                                                 Hazel Grove
+                                                                                                 and ½
+                                                                                                 approaching
+                                                                                                 next timing point
+
+Dwell Time
+Standard                                                                                         1
+Up Trains terminating and ECS to Up or Down Sidings                                              3
+
+
+
+
+                              Electronic copy - uncontrolled when printed

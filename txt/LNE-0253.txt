@@ -1,0 +1,61 @@
+NETWORK RAIL                         Timetable Planning Rules                   Version: 4.1
+London North Eastern                   Revised Final Rules for                    Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                Page: 250 of 368
+
+
+Hexthorpe Junction
+First Movement                                Second Movement                               Margin
+Pass to Sheffield                             Pass to GL                                    3
+Pass to GL                                    Pass from Doncaster                           4
+Pass to Doncaster                             Pass from Avoiding Line                       3
+Pass from Avoiding Line                       Pass to Doncaster                             4
+
+
+Mexborough
+
+Adjustments to Sectional Running Times
+Movement Down                                 Reason                                        Value
+Trains approaching Mexborough towards         Differential junction speed                   ½ Class 1, 5
+Thrybergh Jn                                                                                or 9
+Movement Up                                   Reason                                        Value
+Trains approaching Hexthorpe Jn from          Acceleration                                  ½ Class 1, 5
+Thrybergh                                                                                   or 9
+Junction Margins
+First Movement                                Second Movement                               Margin
+Pass to Swinton                               Pass from Thrybergh Junction                  4
+Pass from Thrybergh Junction                  Pass to Swinton                               4
+Pass from Thrybergh Junction                  Pass to Thrybergh Junction                    4
+Pass to Thrybergh Junction                    Pass from Thrybergh Junction                  5
+
+
+LN828 MEXBOROUGH JUNCTION TO ALDWARKE JUNCTION VIA KILNHURST
+Thrybergh Junction
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Train from Single Line                        Train to Single Line                          4
+
+
+LN830 ALDWARKE JUNCTION TO WOODBURN JUNCTION
+Aldwarke UES
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Train arrives Aldwarke UES from north         Pass Aldwarke Junction                        3
+Train arrives Aldwarke UES from south         Pass Aldwarke Junction                        4
+
+
+
+Parkgate Junction
+
+Minimum Turnround
+Supertram 3*
+*Reductions to be agreed between the TOC & Operational Planning Manager LNE, Network Rail
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Up Pass/Dept Rotherham Central                Tram Depart Parkgate                          3
+Tram Depart Parkgate                          Up Depart Rotherham Central                   1½
+Tram Depart Parkgate                          Up Pass Rotherham Central                     2
+
+                                 Electronic copy - uncontrolled when printed.

@@ -1,0 +1,64 @@
+                                                       OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                      Version:      4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:       6th October 2023
+                                           Change Timetable 2024                            Page:       14 of 289
+
+
+ Reporting            Description
+ number
+
+ 9Rxx                 Elizabeth line to Reading
+ 9Txx                 Elizabeth line to Heathrow Terminal 5
+ 9Uxx                 Elizabeth line to Abbey Wood
+ 9Wxx                 Elizabeth line to Shenfield
+ [Even numbered]
+
+1.3.2 Days of Operation
+The following abbreviations are used to identify the day or days that a train operates.
+ Abbreviation      Description
+ M                 Monday
+ T                 Tuesday
+ W                 Wednesday
+ Th                Thursday
+ F                 Friday
+ S                 Saturday
+ Su                Sunday
+ EWD               Every Week Day (Monday to Saturday)
+ Daily             Every day – Integrated Train Planning System (ITPS) will not accept this; there must be a
+                   separate entry for Sundays.
+ Suffixes
+ O                 Adding this indicates that the train will run only on that day or those days shown
+ X                 Adding this indicates that the train will not run on that day or those days shown
+
+ General
+ BHX               Denotes that this train does not run on a bank holiday
+
+1.3.3 Traction and Rolling Stock
+ Abbreviation      Description
+ 15X               DMU classes 150/153/155/156/158/159
+ 17X               DMU classes 170/171/172 and 175
+ 197               DMU Class 197
+ 22X               DMU classes 220/221/222
+ 230               DMU Class 230
+ 231               DMU Class 231
+ 769               Bi-mode class 769
+ 80X               Bi-mode classes 800/802
+ Castle            “Mini HST” GWR 2+4 HST (HSTGW4)
+ DMU               Any diesel multiple unit (incl. GWR Castle Class (HST) & 769 in diesel mode) (excluding
+                   classes 180/22X)
+ EMU               Any electric multiple unit (incl. 769 in electric mode)
+ ECS               Empty Coaching Stock includes empty diesel and electric multiple units.
+ HST               Trains consisting of two Class 43 locomotives and Mk 3 passenger vehicles
+                   (except for GWR (HST) Castle class)
+ LH                A passenger or parcels train hauled or propelled by one or more locomotives
+ LHCV              Locomotive hauled coaching vehicles
+ Power             Passenger stock equipped with power operated external doors
+ Power Door        Class 150, 153, 156, 158, 159, 165, 166, 168, 170, 171, 172, 175, 180, 220, 221, 222
+ DMU
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

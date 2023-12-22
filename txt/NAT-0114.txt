@@ -1,0 +1,45 @@
+                                                        OFFICIAL
+
+
+     Network Rail                                                                                   Version 4.0
+     National                                                                               Date: 28th July 2023
+                                        Final Proposal for Subsidiary Change 2024
+                                                    Page 113 of 114
+     •       Data may need to be narrowed down to build a fuller picture of where the source issue is with
+             dwell adherence. Dwell time variances can exist for certain types of day, direction of travel, or
+             day of the week. Details of the main variances are included in 1.1.3 of the associated rounding
+             methodology.
+
+     •       Equally, to find the root cause of a poor performing station dwell it may be necessary to broaden
+             the data analysis. A poor performing dwell could be linked to incorrect SRTs on a line of route,
+             or, over-dwelling due to waiting for a path at a proceeding junction. This, together with the
+             cumulative rounding stipulated in the rounding methodology supports a holistic review of TPR
+             values and performance information, rather than looking at single dwells in isolation.
+
+Consultation
+Consulting means relevant persons are kept informed on plans and progress. To effectively consult a
+station dwell review, the following activities should be completed:
+
+         •     The data that is used to prompt the review should be shared with all impacted parties.
+
+         •     Any supporting or contradicting data that is held by the affected parties should be shared to
+               provide comparison. The data sources that are used for the review are agreed.
+
+         •     A project plan with dates for reviewing and making decisions should be agreed.
+
+         •     Progress is reported against the plan as an agenda item at relevant route TPR forums.
+
+         •     Any decision that is made should be issued accompanied with supporting data and reasoning.
+
+         •     Any decisions that are made should be cognisant of how the change will be implemented, and
+               an implementation plan will be made with affected Operators (this could include phased
+               implementation).
+
+
+The process flow chart on the next page provides a high-level summary of the activities that should take
+place during a station dwell review
+
+
+
+
+                                      Electronic copy – uncontrolled when printed

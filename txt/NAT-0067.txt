@@ -1,0 +1,66 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                             Version 4.0
+National                                                                         Date: 28th July 2023
+                               Final Proposal for Subsidiary Change 2024
+                                            Page 66 of 114
+Type           Days   TID          Start Time       Origin                 Destination
+
+RHTT                                               Tonbridge Engineers     Tonbridge Engineers
+               SX     3S76         09:10           Sidings                 Sidings
+RHTT                  3S76         09:20           Tonbridge Engineers     Tonbridge Engineers
+               SO                  09:47           Sidings                 Sidings
+RHTT                  3S76                         Tonbridge Engineers     Tonbridge Engineers
+               SU                  07:12           Sidings                 Sidings
+RHTT                                               Tonbridge Engineers     Tonbridge Engineers
+               SX     3S78         08:29           Sidings                 Sidings
+RHTT                  3S78                         Tonbridge Engineers     Tonbridge Engineers
+               SO                  08:32           Sidings                 Sidings
+RHTT                  3S78                         Tonbridge Engineers     Tonbridge Engineers
+               SU                  08:42           Sidings                 Sidings
+RHTT                                               Tonbridge West Yard     Tonbridge West Yard
+               SX     3W74         05:36           GBRF                    GBRF
+RHTT                  3W74                         Tonbridge West Yard     Tonbridge West Yard
+               SO                  06:05           GBRF                    GBRF
+RHTT                  3W74                         Tonbridge West Yard     Tonbridge West Yard
+               SU                  06:11           GBRF                    GBRF
+RHTT                                               Tonbridge West Yard     Tonbridge West Yard
+               SX     3W75         15:08           GBRF                    GBRF
+RHTT                  3W75                         Tonbridge West Yard     Tonbridge West Yard
+               SO                  15:22           GBRF                    GBRF
+RHTT                  3W75                         Tonbridge West Yard     Tonbridge West Yard
+               SU                  14:45           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+RHTT           SX     3W90         02:58           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+RHTT           SO     3W90         04:25           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+RHTT           SU     3W90         07:13           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+De-Icer        SX     3Y74         09:40           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+De-Icer        SO     3Y74         09:37           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+De-Icer        SU     3Y74         09:12           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+De-Icer        SX     3Y75         22:32           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+De-Icer        SO     3Y75         23:32           GBRF                    GBRF
+                                                   Tonbridge West Yard     Tonbridge West Yard
+De-Icer        SU     3Y75         23:26           GBRF                    GBRF
+                                                   Tonbridge West Yard     Purley Down Siding
+De-Icer        SX     3Y90         11:59           GBRF
+                                                   Tonbridge West Yard     London Bridge
+De-Icer        SU     3Y90         16:07           GBRF
+                                                   Purley Down Siding      Tonbridge West Yard
+De-Icer        FO     3Y90         22:19                                   GBRF
+                                                   Purley Down Siding      Tonbridge West Yard
+De-Icer        FSX    3Y90         22:19                                   GBRF
+                                                   Tonbridge West Yard     Purley Down Siding
+De-Icer        SO     3Y90         14:35           GBRF
+                                                   London Bridge           Tonbridge West Yard
+De-Icer        SU     3Y90         23:13                                   GBRF
+                                                   Purley Down Siding      Tonbridge West Yard
+De-Icer        SO     3Y90         20:35                                   GBRF
+                             Electronic copy – uncontrolled when printed

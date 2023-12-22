@@ -1,0 +1,59 @@
+NETWORK RAIL                             Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                          Timetable 2024                            Page:     74 of 168
+
+
+SO400 ST PANCRAS INTERNATIONAL TO HIGH SPEED 1/ET BOUNDARY
+TIMING POINT                         DOWN         UP          NOTES
+
+Standard Headways                    3            3
+Exceptions:
+4 minute headway is required at Ashford West Junction for Eurostar trains when following slower trains
+2½ minute headway is permissible at Stratford International West Junction when the first train has run non stop
+and the second train has stopped at Stratford International
+2½ minute headway is permissible at Stratford International East Junction when the first train has run non stop
+and the second train has stopped at Stratford International
+2½ minute headway is permissible at Ebbsfleet International West Junction when the first train has run non stop
+and the second train has stopped at Ebbsfleet International
+2½ minute headway is permissible at Ebbsfleet International East Junction when the first train has run non stop
+and the second train has stopped at Ebbsfleet International
+2½ minute headway is permissible at Ashford International West Junction when the first train has run non stop via
+the Ashford Avoiding Line SO400 and the second train has stopped at Ashford International
+2½ minute headway is permissible at Ashford International East Junction when the first train has run non stop via
+the Ashford Avoiding Line SO400 and the second train has stopped at Ashford International
+
+
+SO410A REGENTS CANAL JUNCTION TO YORK WAY NORTH JUNCTION
+TIMING POINT                         DOWN         UP          NOTES
+
+Regents Canal Junction – York        4            3           Single Line
+Way North Junction
+
+
+SO410B SILO CURVE JUNCTION TO CEDAR JUNCTION
+TIMING POINT                         DOWN         UP          NOTES
+
+Silo Curve Junction – Cedar          4            3           Single Line
+Junction
+
+
+SO420 YORK WAY SOUTH JUNCTION TO CAMDEN ROAD INCLINE JUNCTION
+TIMING POINT                         DOWN         UP          NOTES
+
+York Way South Junction –            4            6*          Single Line
+Camden Road Incline Junction                                  * Includes 2 minute stop at AF41 signal
+
+
+SO430 STRATFORD INTERNATIONAL WEST JUNCTION TO TEMPLE MILLS
+DEPOT
+TIMING POINT                         DOWN         UP          NOTES
+
+Stratford International West         4            4           Single Line
+Junction – Temple Mills Depot
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

@@ -1,0 +1,46 @@
+NETWORK RAIL                     Timetable Planning Rules                        Version:   4.2
+Route: Wessex                Final Rules for Subsidiary OFFICIAL
+                                                        Change                     Date:    27th October 2023
+                                      Timetable 2024                               Page:    38 of 178
+
+
+
+
+SW255 VIRGINIA WATER TO WEYBRIDGE
+TIMING POINT                  DOWN         UP          CODE        NOTES
+
+Virginia Water                -            -                       Platform detail must be shown.
+                                                                   To/from Egham - SW210
+Virginia Water Signal 2706                 -           S
+Chertsey                      -            -
+Addlestone                    -            -           S
+Addlestone Junction           -            -                       To/from Byfleet and New Haw - SW255A
+Weybridge Sig. WK1102         -                        S
+Weybridge                         SL       -                       Platform detail must be shown.
+                                                                   To/from Walton on Thames - SW105
+
+
+SW255A ADDLESTONE JUNCTION TO BYFLEET JUNCTION
+TIMING POINT                  DOWN         UP          CODE        NOTES
+
+Addlestone Junction           -            -                       To/from Addlestone - SW255
+Byfleet Junction                                                   For planning purposes, timing point shown
+                                                                   as Byfleet and New Haw.
+                                                                   To/from Byfleet and New Haw - SW105
+
+
+SW260 ASCOT TO ASH VALE JUNCTION
+TIMING POINT                  DOWN         UP          CODE        NOTES
+
+Ascot                         -            -                       Platform detail must be shown.
+                                                                   To/from Sunningdale - SW210
+Bagshot                       -            -
+Camberley                     -            -
+Frimley                       -            -
+Frimley Junction              -            -
+Ash Vale Junction                                                  To/from Ash Vale - SW120
+
+
+
+
+                             Electronic copy - uncontrolled when printed.

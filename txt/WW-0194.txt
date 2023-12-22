@@ -1,0 +1,62 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                 Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                Date:    6th October 2023
+                                        Change Timetable 2024                       Page:    191 of 289
+
+
+Westbury Down TC Entry/Exit
+
+Adjustments to Sectional Running Times
+Movement                                                  Reason                               Value
+From Westbury Down TC                                     Acceleration                         {2½}
+                                                                                               approaching
+                                                                                               next timing
+                                                                                               point
+
+Junction Margins
+First Movement                                    Second Movement                              Margin
+Depart/pass Westbury to Fairwood Jn               Depart to Fairwood Jn                        3½
+Depart/pass Westbury to Warminster                Depart to Fairwood Jn                        4
+Depart/pass Westbury to Warminster                Depart to Warminster                         Headway
+Arrive/pass Westbury from Warminster              Depart to Fairwood Jn                        1
+Depart/pass Westbury to Fairwood Jn               Pass from Fairwood Jn                        6½
+Pass from Fairwood Jn                             Depart/pass Westbury to Warminster or        1½
+                                                  Fairwood Jn
+Pass from Fairwood Jn                             Arrive/pass Westbury from Warminster         4½
+Depart/pass Westbury to Warminster                Pass from Fairwood Jn                        4
+Arrive/pass Westbury from Warminster              Pass from Fairwood Jn                        1
+Pass from Warminster                              Depart/pass Westbury to Warminster           1½
+Depart to Fairwood Jn                             Depart/pass Westbury to Warminster           1½
+Depart to Fairwood Jn                             Arrive/pass Westbury from Warminster         5½
+
+Planning Note
+All Down trains must be planned to stop at Westbury Down TC Entry/Exit.
+Note: this TIPLOC cannot be used for shunting into the Down Yard; a subsequent TIPLOC is required.
+
+GW570 CLINK ROAD JUNCTION TO BLATCHBRIDGE JUNCTION
+
+Clink Road Jn
+See entry under route – GW500
+
+
+Frome Signal W297
+Junction Margins
+First Movement                                    Second Movement                                Margin
+Up Pass Clink Road Jn from Frome North Jn         Up Pass Frome Signal W297                      2
+Up Pass Clink Road Jn from Frome North Jn         Up Depart Frome Signal W297                    1*
+*Increase by 1 if first movement is freight
+
+Frome North Junction
+Junction Margins
+First Movement                                    Second Movement                                Margin
+Down pass/depart to Whatley Quarry                Up pass from Blatchbridge Jn/Frome             3
+Down pass/depart to Frome/Blatchbridge Jn         Up pass from Whatley Quarry to UF              4
+Up pass to Clink Road Jn                          Conflicting Down pass                          3
+Up pass to Clink Road Jn                          Conflicting Down depart                        1*
+*Increase by ½ if first movement is freight
+
+
+
+                                   Electronic copy - uncontrolled when printed.

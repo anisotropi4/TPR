@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version: 4.1
+London North Eastern                     Revised Final Rules for                      Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                  Page: 120 of 368
+
+
+
+
+Finsbury Park
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                           Value
+Finsbury Park to Alexandra Palace                 Differential Junction Speed                      ½
+DS to DF (all movements)
+
+Finsbury Park to Alexandra Palace                 Slow crossover                                   1*
+DS to DS2                                                                                          approaching
+                                                                                                   Harringay
+*An additional half minute should be shown at Alexandra Palace if the service crosses back to US
+
+Movement Up                                       Reason                                           Value
+Alexandra Palace to Finsbury Park                 Approach Control and Differential Junction       1 EMU
+UF to US (all movements)                          Speed                                            1½ HST/LH/
+                                                                                                   180/225/80X
+
+Dwell Time
+Class 379 and 387                    1
+Class 700 and 717                    1½ - may be reduced to 1 by TOC agreement
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Depart Platform 7 to SL                           Depart Platform 8 to SL                          2
+Depart Platform 7 to SL2                          Depart Platform 8 to SL                          2
+Depart/Pass Platform 8 to SL                      Depart Platform 7 to SL2                         2
+Arrive USL from UFL                               Pass UFL                                         2½
+Depart Platform 4 to DFL                          Arrive Platform 4 from UFL                       4
+Pass DFL                                          Depart DSL to DFL                                1½^
+Pass DFL                                          Pass DSL to DFL                                  2$
+$May be 1½ if second train has 1 minute or more pathing time approaching Finsbury Park
+
+^Headway between these services may be reduced to 2½ minutes as far as Potters Bar
+
+Platform Re–occupation
+In Down direction                    2
+In Up direction                      2½
+
+
+Harringay
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                      Value
+Pass SL2 to Ferme Park                         Approach control at signal K413             1
+Pass SL2 to Hornsey Reversing Sidings          Approach control at signal K413             ½
+Pass from Harringay Park Jn                    Acceleration from lower line speed          1 freight ≤800t/TR40
+                                                                                           1½ passenger/ECS or
+                                                                                           freight ≤1400t/TR85
+                                                                                           2 freight ≥1600t/TR100
+
+Movement Up                                    Reason                                      Value
+Cross from US2 to US1                          Slow crossover                              ½
+
+Junction Margins
+                                    Electronic copy - uncontrolled when printed.

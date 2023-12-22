@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                       Page:   417 of 443
+
+
+MD810 MADELEY JN TO IRONBRIDGE POWER STATION
+Timing Section                      Type     FL/ML    SL       GL    Remarks
+
+Down SX Daytime
+Approaching Lightmoor Jn            E        1
+
+
+MD910 PERSHORE (INCLUSIVE) TO NORTON JN
+Down – Daily
+Location                            Type     FL/ML        SL   GL    Remarks
+Approaching Worcestershire          E            1*                  * Does not apply to services formed with
+Parkway                                                              165, 166 units
+                                                                     To be applied at Norton Jn for trains that
+                                                                     do not call at Worcestershire Parkway
+
+
+MD940 WORCESTER SHRUB HILL TO SHELWICK JN
+Down – Daily
+Location                            Type     FL/ML        SL   GL    Remarks
+Approaching Ledbury                 E            1
+Approaching Shelwick Jn             E            1*                  * Does not apply to services formed with
+                                                                     165, 166 and 769 units
+
+Up – Daily
+Location                            Type     FL/ML        SL   GL    Remarks
+Approaching Henwick Worcester       E            1*                  * Does not apply to services formed with
+Foregate Street                                                      165, 166 and 769 units
+
+
+NW1001 ARMITAGE JN (INCLUSIVE) TO PRESTON FYLDE JN
+Down
+Location                            Type     FL/ML    SL       GL    Remarks
+Approaching Colwich                 E        1        1              0545 – 2355
+Approaching Basford Hall Jn         E        1        1
+Approaching Euxton Jn               E        1        1
+Approaching Preston Ribble Jn       E        1        1
+
+Up
+Location                            Type     FL/ML    SL       GL    Remarks
+Approaching Weaver Jn               E        1
+Approaching Crewe Coal Yard         E        1        1
+Approaching Norton Bridge           E        1                       Applies to Class 1 and 9 passenger trains
+                                                                     only
+Approaching Stafford                E                 1*             Does not apply to trains from NW5008
+                                                                     Norton Bridge to Stone Jn or trains
+                                                                     crossing Up Fast to Up Slow at Doxey Jn
+
+                                                                     * Apply approaching Stafford North Jn if
+                                                                     crossing Up Slow to Up Fast
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,45 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                 OFFICIAL
+                                   Final Proposal for Subsidiary                          25th August 2023
+                                                                                Date:
+                                      Timetable 2024                            Page:    50 of 168
+
+
+SO470 ASHFORD WEST JUNCTION (AD947 AND AD949 SIGNALS) TO ASHFORD
+INTERNATIONAL
+TIMING POINT                       DOWN       UP          CODE        NOTES
+
+Line codes on SO470 apply forward from the timing point against which they are shown
+Ashford International           -           DWC                 Only applies to trains which routed via the
+                                            UWC                 Ashford CTRL Chords
+
+
+
+
+SO480 ASHFORD INTERNATIONAL TO ASHFORD EAST JUNCTION (AD954 AND
+AD956 SIGNALS)
+TIMING POINT                       DOWN       UP          CODE        NOTES
+
+Line codes on SO480 apply forward from the timing point against which they are shown
+Ashford International           -           DWC                 Only applies to trains which routed via the
+                                            UWC                 Ashford CTRL Chords
+Ashford East Junction           DNC         UEC                 CTRL TIPLOC to be used
+                                UPC         DEC                 To/from Westenhanger Crossovers –
+                                                                SO400
+                                                                To/from Ashford International Station –
+                                                                SO130
+
+
+SO490 DOLLANDS MOOR WEST JUNCTION TO DOLLANDS MOOR SIDINGS
+TIMING POINT                       DOWN       UP          CODE        NOTES
+
+Line codes on SO490 apply forward from the timing point against which they are shown
+Dollands Moor West Junction     FRC         DNC                 To/from Westenhanger Crossover –
+                                            UPC                 SO400
+Dollands Moor Sidings (AD759    -           FRC
+Signal)
+
+
+
+
+                                  Electronic copy - uncontrolled when printed

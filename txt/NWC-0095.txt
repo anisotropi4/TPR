@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:     28th July 2023
+West and Central
+                                                                                      Page:    83 of 443
+
+
+NW4041 DALTON JN TO PARK SOUTH JN
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Dalton Jn                               –           –               To/from Ulverston – NW4033
+Park South Jn                           –           –               To/from Foxfield – NW4033
+
+
+NW5001 CREWE NORTH JN TO MANCHESTER PICCADILLY
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Crewe North Jn                          –                           To/from Crewe – NW1001
+Crewe Up Manchester Loop                            –               Loop in Up direction only (for Up trains
+                                                                    timed into Platforms 1 or 5 at Crewe
+                                                                    station conflicting with Down train from
+                                                                    Platform 1 or 5 on Up Manchester line)
+Crewe Signal CE154                                  –               Timing point for all Up trains
+Sandbach South Jn                                                   To/from Salop Goods Jn SB – NW1009
+Sandbach                                –        FL IL              Platform detail must be shown
+Sandbach North Jn                                 –          X      Only trains to/from Middlewich lines to be
+                                                                    timed here
+                                                                    To/from Middlewich – NW3029
+Holmes Chapel                           –           –        S
+Goostrey Jn
+Goostrey                                –           –        S
+Chelford South Jn
+Chelford Loop                           –           –        S      Up & Down Passenger Loops
+Chelford North Jn
+Chelford                                –           –        S
+Alderley Edge Up Siding                 –                    S      TIPLOC ALDEUPS
+Alderley Edge Down Siding               –                    S      TIPLOC ALDEDNS
+Alderley Edge South Jn
+Alderley Edge                           –           –               Platform detail must be shown
+
+Alderley Edge North Jn
+Wilmslow Down Reversing Siding          –                    S
+Wilmslow South Jn                                                   To/from Heald Green South Jn – NW5003
+Wilmslow                                –           –               Platform detail must be shown
+Wilmslow North Jn
+Handforth                               –           –        S
+Cheadle Hulme South Jn
+Cheadle Hulme                           –           –               Platform detail must be shown
+                                                                    To/from Macclesfield – NW5009
+Cheadle Hulme North Jn
+Adswood Road Jn                      FL SL         –
+Edgeley Jn No.1                      FL SL       FL SL              To/from Hazel Grove – NW9001
+Edgeley Jn No.2                      FL SL         –                To/from Cheadle Village Jn – NW3023
+Edgeley Jn                                                          For planning purposes this location is
+                                                                    shown as Edgeley Jn No.2
+Stockport                            FL SL       FL SL              Platform detail must be shown
+Stockport Carriage Sidings           FL SL                          See Section 5.3 for specific rules
+                                                                    applicable to trains to/from this location
+Stockport Signal ST2.88/89             SL         FL –              Timing point for trains to/from Stockport
+                                                                    Carriage Sidings or shunting between
+                                                                    platforms on Down Slow
+
+
+
+
+                             Electronic copy - uncontrolled when printed

@@ -1,0 +1,45 @@
+                                                   OFFICIAL
+
+
+Network Rail                                                                                   Version 4.0
+National                                                                               Date: 28th July 2023
+                                 Final Proposal for Subsidiary Change 2024
+                                             Page 34 of 114
+
+ For Freight Operators –
+
+                             FOUR CHARACTER TRAIN IDENTIFICATION SYSTEM
+
+ 1) GENERAL
+The first four characters of the train ID number above each column in the timetable
+provide the following information :
+
+The first figure indicates the classification of the train. The
+second character can indicate the destination area.
+The third and fourth figures represent the individual number of the train.
+
+
+ The remaining fifth and sixth character(s) are used for timetable production purposes only and
+ should be disregarded.
+
+2) Freight Headcode Designations –
+
+For inter-regional headcodes, the 2nd character designates destination region (local acceptions can
+apply by agreement with Route Operations). Please see table below –
+
+Destination of Service                                Inter-regional 2nd Character for Freight
+Eastern Region                                        E
+Anglia Region                                         L
+London Midland Region                                 M
+ Southern Region                                      O
+ Scotland Region                                      S
+ Western Region                                       V
+If a service stays within a region, then another letter will be used to indictate the destination, or in
+some cases, the route – these can be found in the Route Timetable Planning Rules.
+
+A map of inter-regional areas can be found in Appendix H.
+
+
+
+
+                               Electronic copy – uncontrolled when printed

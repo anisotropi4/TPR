@@ -1,0 +1,59 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                       Version:   4
+Scotland                    Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                          Page:    27 of 242
+
+SC061 SHIELDS JUNCTION TO PAISLEY CANAL
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Shields Junction                 DCK         –                     To/from Terminus Junction – SC029
+                                 UCK                               To/from High St Junction – SC131
+                                                                   To/from Bridge Street Junction – SC059
+
+Shields Jn No1 Line              –           –              S
+Shields TMDE                     –           –              S
+Dumbreck                         DCK         UCK            S
+                                 UCK
+Corkerhill Depot Junction        –           UCK            X      Trains to/from Paisley Canal only
+Corkerhill CSMD                  –           DCK            S
+                                             UCK
+Corkerhill                       –           –              S
+Mosspark                         –           –              S
+Crookston Loop                   –           –              S
+Crookston                        –           –              S
+Hawkhead                         –           –              S
+Paisley Canal                                –
+
+
+SC063 CARDONALD JUNCTION TO DEANSIDE (GOODS LINE)
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Cardonald Junction               DA          UA UG          X
+Cardonald North Junction         –           –              F
+Deanside Loop                    –           –              F
+Deanside C.P.A.                  –           –              F      To/from Shields Junction – SC059
+
+
+SC065 PAISLEY GILMOUR STREET TO GOUROCK
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Paisley Gilmour Street           –           DA UA                 To/from Shields Junction – See SC059
+                                             DG UG
+Paisley St James                 –           –              S
+Bishopton                        –           –              P
+Langbank                         –           –              S
+Woodhall                         –           –              S
+Port Glasgow                     –           –              P
+Wemyss Bay Junction              –           –                     To/from Wemyss Bay – See SC067
+Bogston                          –           –              S
+Cartsdyke                        –           –              S
+Greenock Central                 –           –
+Greenock West                    –           –
+Fort Matilda                     –           –              S
+Gourock                                      –                     Platform detail must be shown
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

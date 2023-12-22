@@ -1,0 +1,53 @@
+NETWORK RAIL                             Timetable Planning Rules               Version:   4.3
+Route: Sussex                            Final Rules for Subsidiary             Date:      18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                Page:      66 of 163
+
+SO680B TULSE HILL TO LEIGHAM JUNCTION
+TIMING POINT                         DOWN                  UP                  NOTES
+
+Tulse Hill – Leigham Junction        3                     3
+
+
+SO680C TULSE HILL TO WEST NORWOOD JUNCTION
+TIMING POINT                         DOWN                  UP                  NOTES
+
+Tulse Hill – West Norwood            3                     3
+Junction
+
+
+SO680D STREATHAM JUNCTION TO STREATHAM COMMON
+TIMING POINT                         DOWN                  UP                  NOTES
+
+Streatham Junction – Streatham       3                     3
+Common
+
+SO680E STREATHAM NORTH JUNCTION TO STREATHAM SOUTH JUNCTION
+TIMING POINT                         DOWN                  UP                  NOTES
+
+Streatham North Junction –           3                     3
+Streatham South Junction
+
+
+SO681 SURREY QUAYS SILWOOD JUNCTION TO OLD KENT ROAD JUNCTION
+TIMING POINT                         DOWN                  UP                  NOTES
+
+Surrey Quays (Silwood Junction)      3                     3
+to Old Kent Road Junction
+
+
+SO700 STREATHAM SOUTH JUNCTION TO SUTTON (VIA WIMBLEDON)
+TIMING POINT                         DOWN                  UP                  NOTES
+
+Streatham South Junction             4 - Non-Stopping      4 - Non-Stopping
+(exclusive of Streatham South        6 - Stopping          6 - Stopping
+Junction) – Wimbledon
+Wimbledon – Wimbledon Chase          3 - Non-Stopping      3 - Non-Stopping
+                                     5 - Stopping          5 - Stopping
+Wimbledon Chase – Sutton             5½ - Non-Stopping     5½ - Non-Stopping
+                                     7½ - Stopping         7½ - Stopping
+
+
+
+
+                                Electronic copy - uncontrolled when printed

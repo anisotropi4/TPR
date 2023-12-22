@@ -1,0 +1,63 @@
+NETWORK RAIL                         Timetable Planning Rules               Version:   4.3
+Route: Sussex                        Final Rules for Subsidiary             Date:      18th October 2023
+                                           Timetable 2024 OFFICIAL
+                                                                            Page:      53 of 163
+
+
+
+
+SO620 BRIGHTON TO SEAFORD
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Brighton and Lewes (including movements reversing     P                                   P
+at Lewes on position light signal TLW58)
+Lewes and Seaford                                     P                                   P
+
+
+SO620A NEWHAVEN HARBOUR TO NEWHAVEN MARINE (OLD STATION)
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Newhaven Harbour Junction and Newhaven Marine         NA                                  P
+
+
+SO630 BRIGHTON TO LITTLEHAMPTON
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Brighton/Preston Park and Littlehampton               P                                   P
+
+SO640 BARNHAM TO BOGNOR REGIS
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Barnham and Bognor Regis                              P                                   P
+
+
+SO645 BATTERSEA PARK TO PECKHAM RYE (ATLANTIC LINES)
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Battersea Park and Peckham Rye (Atlantic Lines)       P                                   P
+
+
+SO650 BALHAM JUNCTION TO BECKENHAM JUNCTION
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Balham Junction and Beckenham Junction                P                                   P
+
+
+SO650A BROMLEY JUNCTION TO NORWOOD JUNCTION
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Bromley Junction and Norwood Junction                 P                                   P
+
+
+SO660 PURLEY TO CATERHAM
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+Purley and Caterham                                   P                                   P
+
+
+SO680 SOUTH BERMONDSEY JUNCTION TO HORSHAM
+ROUTE SECTION                                         PASS                                ECS SLIDE +
+
+South Bermondsey Junction and Horsham                 P                                   P
+
+                              Electronic copy - uncontrolled when printed

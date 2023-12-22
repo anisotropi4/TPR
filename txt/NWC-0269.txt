@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    257 of 443
+
+
+
+
+Newlands East
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                             Value
+From Worcester Foregate Street Platform 2 only     Slow speed crossover at Henwick                    1
+
+
+
+Malvern Link
+
+Dwell Time
+Standard                             1
+
+
+Great Malvern
+
+Connectional Allowance               7
+
+Dwell Time
+80x                                  1½
+Terminating 80x                      4 – 9 Car, 3 – 5 Car
+150 to 172                           1
+
+Turnround allowances
+From                                    16x      DMU        Class 80X (5 car)    Class 80X (9/10 Car)
+Worcester Direction (Via Malvern         15        14
+Wells)
+London Paddington                                           16*                  25$
+* Can be reduced to 15 if two drivers are provided
+$ Can be reduced to 20 if two drivers are provided
+
+
+Malvern Wells
+
+Capacity Constraints
+i) If there is an Up train in the section between Ledbury and Malvern Wells a Down train cannot arrive at/or pass
+Malvern Wells until 2 minutes after the Up train has passed Malvern Wells;
+
+ii) ECS movements from the direction of Great Malvern, that are to reverse at Malvern Wells, should arrive no later
+than 2 minutes before the arrival of an Up train at Ledbury;
+
+iii) An ECS movement reversing at Malvern Wells can depart from Malvern Wells towards Newlands East L.C.
+Signal Box with an Up train in the section between Ledbury and Malvern Wells;
+
+iv) ECS movements towards Great Malvern, that have reversed at Malvern Wells must not arrive Great Malvern
+until 3 mins after the previous train has passed Newlands East Signal Box. It is permitted to place pathing time
+between Malvern Wells and Great Malvern; MW5 signal protects the AB section. This principle can also be applied
+to an Up train from Ledbury following a preceding train towards Newlands East, provided the second train has {1}
+inserted approaching Malvern Wells for Restrictive signalling aspects.
+
+v) A 9/10 car class 80x formation booked to reverse at Malvern Wells MUST do so via the single line section and
+therefore requires the section to Ledbury to be CLEAR and is subject to note ii).
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,56 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version: 4.1
+London North Eastern                     Revised Final Rules for                        Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                    Page: 105 of 368
+
+
+LN860 DIGGLE JUNCTION TO COPLEY HILL EAST JUNCTION: Down Direction
+HEADWAY AT                FOLLOWING         FOLLOWING        NOTES
+                          NON-STOP          STOPPER
+Diggle Junction           See notes         See notes        This section is TCB. It is operated as one section
+                                                             Marsden to Diggle Junction as though it were AB
+Marsden                   4                 4
+Huddersfield (arriving)   4*                4*               *3½ if arriving at different platforms
+Huddersfield (depart)     4*                4                *2½ if calling at Deighton and/or diverging at Bradley
+                                                             Junction, following non–stop; 3½ consecutive fasts
+                                                             Huddersfield if coming from different platforms
+Bradley Junction          2½                4
+Heaton Lodge East Jn      2½*               3                *3 following freight going towards Healey Mills
+Mirfield East Junction    2½                4*               * 3 if only stopping at Mirfield
+Dewsbury                  2½                5*               * 3½ if not stopping at Batley
+                                                             4 for a class 185 stopping at Batley
+Morley                    3                 4½*              * 3 if non stop to Leeds
+                                                             *6 If following a train that is stopping at both White
+                                                             Rose and Cottingley
+Trains maybe timed 2 minutes apart at Whitehall Junction
+Stopping headway from Mirfield East Junction is based on stopping at Mirfield, Ravensthorpe, Dewsbury, Batley,
+Morley, Cottingley/White Rose.
+
+LN860 COPLEY HILL EAST JUNCTION TO DIGGLE JUNCTION: Up Direction
+HEADWAY AT                FOLLOWING         FOLLOWING        NOTES
+                          NON-STOP          STOPPER
+Whitehall Jn              2½$               5*               * 6 if following a train stopping at both White Rose
+                                                             and Cottingley
+                                                             $ Can be reduced to 2 minutes if ½ pathing is
+                                                             included in the second train approaching the next
+                                                             timing point after Whitehall Jn
+Morley                    2½                5
+Dewsbury                  2½                 4½*             * 3 if not stopping at Ravensthorpe
+Thornhill LNW Junction    2½                2½
+Mirfield East J (FL)      2½                4
+Mirfield East J (SL)      4                 4
+Heaton Lodge Junction     2½                3
+Bradley Junction          2½                3
+Huddersfield (arriving)   2½                2½
+Huddersfield (depart)     4                 4
+Marsden (arriving)        -                 4½
+Marsden (departing)       See notes         See notes       This section is TCB. It is operated as one section
+                                                            Diggle Junction to Marsden as though it were AB
+                                                            (Second train can depart Marsden 1 after first train
+                                                            has passed Diggle)
+Stopping headway to Thornhill LNW Junction is based on a train stopping at White Rose/Cottingley, Morley,
+Batley, Dewsbury,
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

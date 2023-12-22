@@ -1,0 +1,31 @@
+                                                         OFFICIAL
+
+
+Network Rail                                                                                            Version 4.0
+National                                                                                        Date: 28th July 2023
+                                     Final Proposal for Subsidiary Change 2024
+                                                 Page 30 of 114
+(iii)    dates applicable                                              M
+(iv)     location                                                      M
+(v)      associated train TOC id                                       M    (if not Access Proposals TOC)
+
+E8 Train Formation details
+(Required for each train for each section of its journey)
+
+(i)      dates applicable                                                 M
+(ii)     start location                                                   M
+(iii)    end location                                                     M
+(iv)     locomotive/MU class                                              M
+(v)      train length                                                     M
+(vi)     maximum speed                                                    M
+(vii)    trailing load                                                    M
+(viii)   route availability                                               M
+(ix)     special axle load/gauge requirements                             M
+(iix)    applicable RT3973 form                                           M
+
+Note:     Items 6(i) to (iv) and items 7(i) to (iv) can be met by provision of rolling stock diagrams.
+
+
+
+
+                                   Electronic copy – uncontrolled when printed

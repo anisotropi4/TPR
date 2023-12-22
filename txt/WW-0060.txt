@@ -1,0 +1,65 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                       Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales        Final Principal and Preliminary Proposal for Subsidiary
+                                                           OFFICIAL                    Date:    6th October 2023
+                                       Change Timetable 2024                           Page:    57 of 289
+
+
+GW890 COURT SART JUNCTION / BRITON FERRY WEST JUNCTION TO
+MORLAIS JUNCTION (SWANSEA DISTRICT LINE)
+TIMING POINT                        DOWN       UP             CODE   NOTES
+
+Llangyfelach Tunnel East Signal     –                                Timing point for all Down trains
+PT3541
+Llangyfelach Tunnel West                       –                     Timing point for all Up trains
+Signal PT3536
+Llangyfelach Tunnel West            –                                Timing point for all Down trains
+Signal PT3543
+Glanlliw Signal PT3540                         –                     Timing point for all Up trains
+Grovesend Signal PT3544                        –                     Timing point for all Up trains
+Grovesend Colliery Loop Junction    –          –              X      To/from Hendy Jn – GW897
+Morlais Junction                    –          –                     To/from Llandeilo Jn – GW910
+
+GW8901 DYNEVOR JUNCTION TO JERSEY MARINE JUNCTION SOUTH
+TIMING POINT                        DOWN       UP             CODE   NOTES
+
+Dynevor Jn                          –          –                     To Briton Ferry West Jn (UP) / from Court
+                                                                     Sart Jn (DOWN) – GW890
+Neath Abbey Wharf                   –                         S
+
+Neath Signal PT7594                 –          –              S      Reversal point for Neath Abbey Wharf
+Jersey Marine South Signal          –                         S
+PT3593
+Jersey Marine Jn South              –          –                     To/from Swansea Burrows Sidings –
+                                                                     GW892
+
+GW892 CWMGWRACH TO BURROWS SIDINGS
+TIMING POINT                        DOWN       UP             CODE   NOTES
+
+Cwmgwrach                           –
+Neath & Brecon Jn                   –          –                     To/from Onllwyn – GW893
+Neath & Brecon Jn Down Loop         –                                Timing point for all Down trains
+Jersey Marine Jn South              –          –                     To/from Jersey Marine Jn North – GW892
+                                                                     To/from Dynevor Jn – GW8901
+Signal PT3597                       –                                Timing point for all Down trains
+Signal PT3594                                  –                     Timing point for all Up trains
+Swansea Burrows Sorting                        –
+Sidings
+
+GW893 ONLLWYN TO NEATH & BRECON JUNCTION
+TIMING POINT                        DOWN       UP             CODE   NOTES
+
+Onllwyn                             –
+Brynteg Loading Pad                                           S
+Neath & Brecon Junction             –          –                     To/from Jersey Marine Jn South – GW892
+
+GW894 JERSEY MARINE JUNCTION NORTH TO JERSEY MARINE JUNCTION
+SOUTH
+TIMING POINT                        DOWN       UP             CODE   NOTES
+
+Jersey Marine Junction North        –          –                     To/from Morlais Jn – GW890
+Jersey Marine Junction South        –          –                     To/from Signals 3594/3597 – GW892
+
+
+                                   Electronic copy - uncontrolled when printed.

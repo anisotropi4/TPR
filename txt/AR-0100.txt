@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                          Version:    4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                      12th September
+                                                                                           Date:
+                                                2024                                               2023
+                                                                                         Page:     97 of 183
+
+EA1012 IPSWICH TO TROWSE JUNCTION
+
+Ipswich Yard
+
+
+Length Limits
+The table below shows the distance from the signal at one exit to the signal at the other exit from the loop/siding.
+These lengths do NOT take into account defensive driving policy / stand-back from signals / space required for
+run-round moves.
+Line                          Signal From       Signal To          Length
+ Up and Down Goods Line       CO322             CO337               87 SLUs / 562m
+ No 1 Reception               GPL 812           CO341              111 SLUs / 712m
+ No 2 Reception               GPL 814           CO827              125 SLUs / 801m
+ No 3 Reception               GPL 816           CO829              108 SLUs / 696m
+ No 4 Reception               GPL 818           CO825               69 SLUs / 444m
+
+
+East Suffolk Junction
+
+Adjustments to Sectional Running Times
+Movement                         Timing Load                      Reason                            Allowance
+All trains which have departed   Freight trains up to             Speed Differential                {1½} approaching
+from Ipswich SS or travelled via 1800t/TR100 inclusive                                              Europa Junction
+the Down & Up Goods line         Freight trains over              Speed Differential                {1} approaching
+                                 1800t/TR100 (exclusive)                                            Europa Junction
+
+Adjustments to Sectional Running Times for timing loads shown in the Up Direction between Stowmarket
+and Ipswich East Suffolk Junction for trains which will be travelling to Ipswich SS or via DUL
+Movement                                      Reason                                           Allowance
+Up Freight Trains                             Speed differential                               {1½}
+
+Junction Margin
+Movement                                                                                                Margin
+Fouling move                                                                                            3
+Before divergence of following move                                                                     3
+After merge                                                                                             3
+
+
+Europa Junction
+
+Adjustments to Sectional Running Times
+Movement                      Timing Load                             Reason                            Allowance
+Applicable to timing loads    Class 6 1600t to 1800t                  Speed Differential                {½}
+shown for trains which have   inclusive & TR100
+departed from Ipswich SS or   Class 6 2000t to 2200t                  Speed Differential                {1}
+have travelled via the Down & inclusive & TR115
+Up Goods line, to be applied  Class 6 over 2200t (exclusive)          Speed Differential                {1½}
+after Europa Junction         & TR130
+approaching next timing point Class 4 over 1600t (exclusive)          Speed Differential                {½}
+Applicable to Down direction  Class 6 over 1400t (exclusive)          Speed Differential                {½}
+freight trains from Boss Hall & TR100 and above
+Junction                      Class 4 over 800t (exclusive)           Speed Differential                {½}
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

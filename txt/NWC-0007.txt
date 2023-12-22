@@ -1,0 +1,63 @@
+                                     OFFICIAL
+
+
+
+
+        NW3023 Headway between Plumley West SB and Greenbank now
+               extended to Hartford C.L.C Jn. Section between Greenbank and
+               Mouldsworth now shortened and is between Hartford C.L.C Jn
+               and Mouldsworth. Note amended to remove 4 minute headway
+               between Greenbank and Hartford C.L.C where trains diverged as
+               no longer required with splits.
+        NW9001 Existing entry deleted and replaced by new section. This collects
+               headway sections between Earles Sidings SB and Chinley North
+               Jn by direction. Change to the headway shown at Edale to
+               Chinley East/North Jn from AB to AB+2
+
+5.2.2   General Capacity Constraints
+        No change
+
+5.3     Junction Margins and Station Planning Rules
+        Added Postal and test trains to light engines for explanation of passenger
+        trains for application of different margins where this applies
+        Standard Values- Minimum
+        Minimum Turnround entry added to Chiltern Railways services for DMU and
+        Class 68 and Mk.3 coaches. Can be reduced on agreement with operator
+        MD101      Wembley Central. Adjustments to Sectional Running Times -
+                   Down direction. Amended final entry for Class 6 to correctly state
+                   over 2400t (inclusive). Avoids confusion with previous banding.
+                   Denbigh Hall South Jn. Adjustments to Sectional Running Times
+                   - Down direction. Current entry deleted and replaced with
+                   adjustments based on stock type and trailing load. For passenger
+                   this becomes a standard {1} and for freight based on Tratim data.
+                   Clarified that adjustment applies approaching next timing point
+                   and reason changed to Acceleration.
+                   Adjustments to Sectional Running Times - Up direction. Current
+                   entry deleted. New value of 1½ applies to all movements crossing
+                   from the Slow Lines in the Up direction.
+                   Junction margins are re-proposed. These include additional
+                   margins for TK4133 signal and simplify some of the margins
+                   shown previously. Some margins increased by ½ where first
+                   movement is over 620m
+                   Milton Keynes Central. Junction margins – annotations for notes
+                   standardized to National TPR requirements. Up direction
+                   movements grouped together. Two new margins added for
+                   movements diverging at Denbigh Hall South Jn.
+        MD105      Courteenhall Jn. Note under junction margins amended to show
+                   (1) vice {1} to correct the circumstances when a reduced margin
+                   can be applied
+                   Collingtree Road Jn. Second margin, second movement, added
+                   'Courteenhall Jn' to indicate that timing of second train is when it
+                   passes that location
+        MD301      Coventry. Adjustments to Sectional Running Times, Movement
+                   Up. Corrected header text to 'Passing Trains from Berkswell
+                   towards Gibbet Hill Jn' to reflect correct direction
+                   Grand Jn. Junction Margins three and four have been
+                   recalculated and uplifted by 1 and ½ respectively. Additional
+                   margin shown for Pass from Up Coventry to Up Derby followed by
+                   Pass on Down Coventry from Stechford, 2½ . Final margin has
+                   been recalculated and uplifted by ½ .
+
+
+
+                                        7

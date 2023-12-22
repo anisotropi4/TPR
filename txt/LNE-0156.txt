@@ -1,0 +1,35 @@
+NETWORK RAIL                            Timetable Planning Rules                         Version: 4.1
+London North Eastern                      Revised Final Rules for                          Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                      Page: 153 of 368
+
+
+LN125 HITCHIN CAMBRIDGE JUNCTION TO ROYSTON (INCLUSIVE)
+Letchworth Garden City
+
+Dwell Time
+EMU                                   1
+
+Passenger to ECS allowance
+Class 379/387/717 – passenger to ECS                                                        3
+Class 700 – passenger to ECS                                                                4
+
+Junction Margins
+First Movement                                      Second Movement                                     Margin
+Arrive/pass from A/D line                           Arrive Down platform                                3½
+Depart/pass from C S reception                      Arrive/pass to C S reception from Up direction      3
+Pass/Depart Up Platform                             Arrive from A/D line                                3
+Depart/Pass Down platform                           Arrive Up platform from A/D line                    3
+
+Platform Re–occupation
+Platform Re-occupation in the same direction 3 minutes
+
+Turnrounds                            All shunt movements to be timed
+
+Planning Restriction
+If a train is occupying Platform 2 at Letchworth, it is not possible to route another train from Letchworth A/D Lines
+to Platform 1 due to the overlap on Signal K949 preventing the route being set.
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

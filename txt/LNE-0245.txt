@@ -1,0 +1,62 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version: 4.1
+London North Eastern                   Revised Final Rules for                      Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                  Page: 242 of 368
+
+
+Meadowhall
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                          Value
+Trains via Masborough Junction stopping at      Differential junction speed                     -½ DMU
+Meadowhall. Approaching Holmes Junction
+
+Dwell Time
+All                                 1
+
+Minimum Turnround                       5. 4 only from Barnsley
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Depart Platforms 1 – 4                          Arrive same platform from same direction        3
+Depart Platform 4 to Barnsley                   Arrive Platform 4 from Barnsley                 4
+Depart Platform 4 to SL                         Arrive Platform 4 from Sheffield                3
+
+Planning Note
+No pathing allowances should be applied between Meadowhall and Wincobank Junction as there are no
+intermediate signals
+
+
+Holmes Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                     Reason                                          Value
+Trains via Masborough Junction stopping at      Faster approach speed                           -½ DMU
+Meadowhall. Approaching Meadowhall
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Pass from Aldwarke Junction                     Pass to Rotherham Central                        2½
+Pass to Rotherham Central                       Pass from Aldwarke Junction                      3½*
+Pass from Rotherham Central                     Pass to Rotherham Central                        3
+Pass to Rotherham Central                       Pass Down ML                                     3½
+Pass UML                                        Pass from Rotherham Central                      2½
+*May be reduced by ½ minute if second train has at least 1 minute pathing allowance between Aldwarke Junction
+and Holmes Junction.
+
+
+Masborough Junction
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Pass from Treeton Junction                      Pass to Treeton Junction                        4
+Pass to Treeton Junction                        Pass from Treeton Junction                      5
+Pass to Holmes Junction                         Pass from Treeton Junction                      2 after Up
+                                                                                                service
+                                                                                                passes
+                                                                                                Holmes Jn
+Pass from Treeton Junction                      Pass to Holmes Junction                         1 ½ before
+                                                                                                Up service
+                                                                                                passes
+                                                                                                Aldwarke Jn
+
+
+                                  Electronic copy - uncontrolled when printed.

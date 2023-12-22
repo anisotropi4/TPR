@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                         Version: 4.1
+London North Eastern                       Revised Final Rules for                          Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                      Page: 147 of 368
+
+
+Doncaster
+Pass Down Fast                                      Arrive Platform 1-3 from Adwick                      3½
+Pass Up Fast                                        Arrive Platform 1-3 from Adwick                      3
+Pass Platform 1-3 to south                          Arrive Platform 1-3 from Adwick                      3½
+First train arrive                                  Arrive Platform 1-3 from Adwick                      3
+
+Where second movement is from Shaftholme Junction
+Depart towards Thorne Junction           Arrive Platform 0-1 from Shaftholme Junction via                5*
+                                         Thorne Slow                                                     *Can be 4½
+                                                                                                         if departing
+                                                                                                         Platform 0
+Depart towards Thorne Junction                      Arrive Platform 1-3 from Shaftholme Junction via     4½*
+                                                    Up Slow                                              *Can be 4 if
+                                                                                                         departing
+                                                                                                         Platform 0
+Depart Platform 3b to north (to all routes)         Arrive Platform 1-3 from Shaftholme Junction via     4½
+                                                    Up Slow
+Depart Platform 4-8 towards Thorne Junction         Pass Up Fast passenger                               3
+Depart Platform 4-8 towards Thorne Junction         Pass Up Fast freight                                 4
+Depart Platform 3b towards Sheffield                Pass Up Fast passenger                               2½
+Depart Platform 3b towards Sheffield                Pass Up Fast freight                                 3½
+Depart Platform 4-8 to north (to all routes)        Conflicting arrival into Platform 4-8 from           4½
+                                                    Shaftholme Junction
+Pass Down/Up Fast                                   Arrive Platform 4-8 from Shaftholme Junction         4
+Pass towards Thorne Junction                        Arrive Platform 0-1 from Shaftholme Junction via     4½
+                                                    Thorne Slow
+Pass towards Thorne Junction                        Arrive Platform 1-3 from Shaftholme Junction via     4
+                                                    Up Slow
+First train arrive                                  Conflicting arrival into Platform 0-1 from           4½
+                                                    Shaftholme Junction via Thorne Slow
+First train arrive                                  Conflicting arrival into Platform 1-3 from           4
+                                                    Shaftholme Junction via Up Slow
+Arrive Platform 4-8 from Thorne Junction            Pass Up Fast                                         2
+
+Where second movement is from Thorne Junction
+Depart Platform 0-3 to Thorne Junction via Up Conflicting arrival into Platform 0-3 from Thorne          2½
+Slow                                          Junction via Thorne Slow
+Depart to north (to all routes)               Conflicting arrival into Platform 4-8 from Thorne          4
+                                              Junction
+Pass Down/Up Fast                             Arrive Platform 4-8 from Thorne Junction                   3
+Arrive from Adwick/Shaftholme Junction        Conflicting arrival into Platform 4-8 from Thorne          3
+                                              Junction
+Arrive from Adwick/Shaftholme Junction        Conflicting arrival into Platform 0-3 from Thorne          2
+                                              Junction via Thorne Slow
+
+Minimum Turnround                      7 – Leeds EMU services, but not 2 consecutive
+                                       10 – DMU/EMU from Leeds, Sheffield, Humberside area, Lincolnshire and
+                                       Peterborough. Any reduction must be specially agreed
+
+Planning Restrictions
+a) Trains from the Sheffield direction arriving into Platform 3b will hold the overlap so trains cannot arrive into
+Platform 1 from the Up Main line/Leeds Line. Trains from the Shaftholme Junction direction can access Platform 1
+simultaneously by using the Down Thorne Slow line which will add an extra 1 minute running time. This should be
+shown in the timetable as Adjustment allowance.
+
+b) Trains longer than 234m arriving in the Up direction into Platform 3a will foul the block joint in rear and prevent
+
+                                     Electronic copy - uncontrolled when printed.

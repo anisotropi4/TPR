@@ -1,0 +1,64 @@
+NETWORK RAIL                             Timetable Planning Rules                         Version:    4.2
+Route: Wessex                        Final Rules for Subsidiary OFFICIAL
+                                                                Change                      Date:     27th October 2023
+                                              Timetable 2024                                Page:     108 of 178
+
+Christchurch
+All Passenger Services                 1
+
+
+Bournemouth
+
+Adjustment to Sectional Running Times
+Movements                                         Reason                                                  Value
+Down trains departing Platform 3 routed via the   Speed Differential                                      {1}*
+up line
+* These allowances should appear in the section from Bournemouth
+
+Berthing Facilities
+                                       Length
+Middle Siding No 1                     175m
+Middle Siding No 2                     260m
+
+Connectional Allowance
+All Services except below              5
+All South Western Railway              3
+services
+
+Dwell Times
+All Services                           2
+
+Junction Margins
+First Movement                                       Second Movement                                      Margin
+Down departures via Up Line from Platforms 2         Up arrivals                                          4
+&3
+
+Simultaneous Moves Not Permitted
+Up train arrives at Platform 2*                               Train arrives or departs Platform 1
+Down train arrives at Platform 2                              Train to/from Platform 3 at country end of station via
+                                                              2034 points
+* Not applicable if attaching to a train standing in Platform 2.
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1      Up Bay                                        Prohibited
+Platform 2      Up Main                  (Both directions)    Attaching/Detaching
+Platform 3      Down Main                (Both directions)    Attaching/Detaching
+Platform 4      Down Main                (Both directions)    Prohibited
+
+Platform Re-occupation
+All trains (opposing direction)        3
+All trains (same direction)            2
+
+
+Branksome
+
+Junction Margins
+First Movement                                      Second Movement                                      Margin
+Between all movements except as below                                                                    3
+Down Main Line train                                Up Bournemouth Depot train                           1
+
+Limit Of Shunt
+
+
+                                     Electronic copy - uncontrolled when printed.

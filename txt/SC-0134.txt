@@ -1,0 +1,47 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                            Version:     4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024                   Date:      28/07/2023
+                                                                                                   Page:      129 of 242
+
+Coatbridge Central
+train on the Up Slow.
+A Down train must have departed Coatbridge 1 minute before a train can be signaled from Up Slow towards
+Langloan.
+
+
+Coatbridge Freightliner Terminal / Down Goods Loop
+
+Adjustments to Sectional Running Times
+Movement Down                                        Reason                                               Value
+Train departing Coatbridge FLT towards               Acceleration to be applied between Gartsherrie       2
+Cumbernauld                                          South and Garnqueen North Junctions
+
+Junction Margins
+First Movement                                       Second Movement                                      Margin
+Up depart/pass Coatbridge Central                    Up depart FLT / Down Goods Loop                      2
+Down pass Gartsherrie                                Up depart FLT / Down Goods Loop                      1
+Down pass Gartsherrie South Junction to              Down depart FLT / Down Goods Loop to Down            2
+Cumbernauld                                          Stepps
+Down pass Gartsherrie South Junction to              Down depart FLT / Down Goods Loop to Down            3
+Cumbernauld                                          Cumbernauld
+Down pass Gartcosh Junction to Down Stepps           Down depart FLT / Down Goods Loop to Down            2
+                                                     Stepps
+Down pass Gartsherrie South Junction to Down         Down depart FLT / Down Goods Loop to Down            2
+Stepps                                               Cumbernauld
+Arrive Coatbridge FLT from Shunt Neck                Depart Down Goods Loop to Shunt Neck                 1
+
+Restriction
+
+Electrically hauled trains must propel into Coatbridge FLT due to electrification limits inside the terminal. Electric
+locos departing from Down end of Coatbridge FLT must reverse via Shunt Neck. Electric light locos may
+arrive either end of the terminal.
+
+Down trains should reverse via Shunt Neck.
+
+There is no access to Coatbridge FLT for up trains from Garnqueen North Junction.
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

@@ -1,0 +1,69 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                     Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                12th September
+                                                                                   Date:
+                                               2024                                         2023
+                                                                                   Page:    24 of 183
+
+EA1012 IPSWICH TO TROWSE JUNCTION
+TIMING POINT                  DOWN          UP           CODE   NOTES
+
+Lakenham                                    -            XS     Tiploc - TROWLKJ
+                                                                Timing point for Up Services crossing from bi-
+                                                                directional Down Line and for reversal moves
+                                                                at GPL CO1747
+Trowse Junction               -             -                   Line code DM required for Up Services using
+                                            DM                  bi-directional Down Line to Lakenham
+                                                                To/from Norwich – EA1013
+
+
+EA1013 TROWSE JUNCTION TO NORWICH
+TIMING POINT                  DOWN          UP          CODE    NOTES
+
+Trowse Junction               -             -                   Line code DM required for Up Services using
+                                            DM                  bi-directional Down Line to Lakenham
+                                                                To/from Ipswich – EA1012
+                                                                To/from Ely – EA1580
+Norwich Victoria Sidings      -                         S
+Trowse Down & Up              -             -           S       Tiploc - TROWSE
+Passenger Loop
+Trowse Yard                                 -           F       Tiplocs - TROWSEY, TROWFHH, TROWGBR
+Trowse GPL CO1760                           -           S       Timing point to be used for reversal moves
+Trowse Swing Bridge           C D           -                   To/from Crown Point Depot/Wensum Junction
+                                                                via Through Siding – EA1470
+Norwich Thorpe Junction       ECW           CD                  To/from Whitlingham Junction – EA1470
+Norwich Goods Yard                          -           F       Tiplocs - NRCHTC & NRCHGBF
+Norwich Low Level Sidings                   -           S       Tiploc - NRCHLL
+Norwich Royal Dock                          -           S       Tiploc - NRCHDK
+                                                                Includes Short Dock, Long Dock, Royal Dock
+Norwich Station Jubilee                     E           S       Only trains to/from CS
+Sidings                                                         Tiploc - NRCHCSD
+Norwich                       -             ECW                 Platform detail must be shown – use platform
+                                                                code MS for Middle Siding
+
+
+EA1020 CARPENTERS ROAD SOUTH JUNCTION TO CARPENTERS ROAD
+NORTH JUNCTION – CARPENTERS ROAD CURVE
+TIMING POINT                  DOWN          UP           CODE    NOTES
+
+Carpenters Road South         -             BL DBL               To/from Liverpool Street – EA1010
+Junction                                    ML
+Carpenters Road North                                            To/from Channelsea South Junction – EA1150
+Junction
+Channelsea Junction           AL -          -                    AL to be used for trains routed via Channelsea
+                                                                 Up Loop to Signal NL1286 at Lea Junction
+                                                                 (NB direction change)
+
+
+EA1030 FOREST GATE JUNCTION TO WOODGRANGE PARK JUNCTION
+TIMING POINT                  DOWN          UP           CODE    NOTES
+
+Forest Gate Junction          -             ML EL                To/from Liverpool Street - EA1010
+Woodgrange Park Junction                                         To/from Barking – EA1370
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

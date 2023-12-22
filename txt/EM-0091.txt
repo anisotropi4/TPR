@@ -1,0 +1,59 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.1
+East Midlands                    Final Subsidiary Change Rules 2024                   Date:    13th September
+                                                                                               2023
+                                                                                       Page:   89 of 123
+
+
+
+
+Alfreton
+
+Dwell Time
+DMU                                1
+LH/222                             1½
+
+
+
+
+LN3213 FARRINGDON TO KENTISH TOWN JUNCTION (MOORGATE LINES)
+Farringdon
+
+                         For Farringdon please see Kent Timetable Planning Rules
+
+
+St Pancras International (Low Level)
+
+Connectional Allowance                        3 to Thameslink services
+                                              15 to Eurostar/EMR platforms
+
+Dwell Time
+All                                           1
+
+Minimum Turnround
+Class 700                                     8 8-car
+                                              10 12-car
+
+Junction Margins and Platform Re–occupation
+First Movement                           Second Movement                                              Margin
+Same Direction                                                                                        1½
+Depart/pass Platform A or B to NB Line   Arrive/pass Platform B from SB Line                          3
+Depart/pass Platform A to NB Line        Arrive/pass Platform A or B from SB Line                     3
+
+Depart/pass Platform A towards Dock Jn        Arrive / pass Platform A or B from Dock Jn North via    6
+North via SB Line                             SB Line
+
+Depart/pass Platform A or B towards Dock      Arrive / pass Platform A or B from Up & Down Relief     6
+Jn North via NB Line                          (Dock Jn North) via either line
+
+Arrive Platform B from SB Line                Depart Platform A to NB Line                            1
+Depart Platform B to Down Canal Tunnel        Arrive Platform B from SB Line                          3
+Depart Platform A to Up Canal Tunnel          Arrive Platform A from SB Line                          3
+Depart Platform A to Clerkenwell Crossovers   Arrive Platform A or B from Clerkenwell Crossovers      6
+Depart Platform B to Clerkenwell Crossovers   Arrive Platform A or B from Clerkenwell Crossovers      6
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

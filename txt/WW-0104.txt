@@ -1,0 +1,63 @@
+                                                       OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                       Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                      Date:    6th October 2023
+                                           Change Timetable 2024                             Page:    101 of 289
+
+
+5.3 Junction Margins and Station Planning Rules
+The definition for Junction Margins and Station Planning Rules is listed in Section 6.6 - 6.10 of the National TPRs.
+Line of Route
+All times shown are in minutes. Where adjustments to sectional running times are shown, the value must be added
+to the normal SRTs shown in B Plan. Negative adjustments are specially identified.
+
+Minimum station allowances are the minimum practical for the particular type of stock. These are shown with
+exceptions being listed by line of route where applicable.
+Light Engine movements, postal and test trains to be treated as passenger trains when applying margins/ allowances
+where there is a freight/ passenger difference.
+
+
+
+STANDARD VALUES – MINIMUM
+Adjustment to Sectional Running Times
+A ½ minute adjustment should be included in all trains* approaching the termination point, where otherwise the
+terminating time would include an odd half-minute.
+*Except at London Paddington to allow trains to run at 2½ minute headways if required, and except at Twyford and
+Henley (for self-contained Henley Branch services ONLY), to enable a half-hourly service frequency.
+
+Brake Testing
+Great Western Railway 80X services require a {½}-minute running brake test allowance to be included in each
+schedule timed using 802-E or 802-D timing loads, at the first practical opportunity that a running speed of 40mph
+or higher is achievable, or prior to the first stop (whichever occurs first.) This is a mandatory allowance, to apply at
+the start of each journey, after any driver change, change to train formation or any reversal en-route. It is not to be
+applied during local shunt moves or ECS moves on/off depots. Where doubt exists, please request advice from the
+Train Operator
+Trains originating on whole minutes
+CrossCountry* and Freight^ schedules must depart from origin on a whole minute. (This is due to limitations with IT
+system requirements – *Integrale, ^TOPS)
+
+Entering an occupied Platform        {1}
+
+
+Attachment of Locomotives/Units - GW routes
+22x                                  7
+DMU (15x)                            5
+DMU (Cardiff Valleys 150)            3
+DMU (159)                            2
+DMU (170)                            4
+DMU (175)                            6
+DMU (165 / 166)                      5
+(D)EMU (387, 769#)                   7 (if loaded passenger trains)
+                                     5 (if ECS trains coupling together)
+Class 80X (5 car)                    6 (8 at Bristol Temple Meads only)
+Class 197                            5*
+# - value may be revised for this stock type following operational experience
+*If 2 drivers are present
+
+Attachment of Locomotives/Units - NW routes
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

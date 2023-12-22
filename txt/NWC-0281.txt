@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    269 of 443
+
+Warrington R.M.T.
+
+For southbound departures/arrivals:
+                         ARR                DEP                                         ARR              DEP
+Warrington R.M.T.                           XX.00           Warrington Bank Quay*                        XX/00 or
+                                                                                                         XX.00
+                                        "-"                                                              "FL" "USL"
+Dallam Jn                               XX/02         Dallam Jn                                          XX/02
+                                        "FL" "SL"                                                        "-"
+Warrington Bank Quay                    XX/04*        Warrington R.M.T.                 XX.05
+* Add {1} between Acton Grange Jn and Warrington Bank Quay.
+
+Junction Margins
+First Movement                                      Second Movement                                  Margin
+Train on Down Fast Line crossing at Dallam Jn       Train on Up Slow Line                            3
+to Up Slow Line and then running into the
+R.M.T.
+
+Restriction
+WTT services using the bay platforms at Warrington R.M.T. should not be planned to use diesel traction.
+
+
+Winwick Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                       Reason                                           Value
+All trains on Down Fast from Dallam Bridge          Approach control                                 ½ Before
+joining Down Earlestown                                                                              Winwick Jn.
+All trains on Down Slow from Warrington Bank        Approach control                                 ½ Before
+Quay joining Down Main                                                                               Winwick Jn.
+
+Movement Up                                         Reason                                           Value
+All trains joining Up Fast from Up Earlestown       Acceleration from slower speed junction          ½ After
+                                                                                                     Winwick Jn.
+
+
+Golborne Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                       Reason                                           Value
+All trains formed of Classes 185, 220, 221, 390,    Acceleration from Slow Speed Junction            ½ After
+80x, HST joining Down Slow from Down                                                                 Golborne Jn
+Lowton
+Trains from Winwick Jn. joining Down Slow           Approach Control                                 ½
+from Down Main (multiple units and HST)
+Trains from Winwick Jn. joining Down Slow           Approach Control                                 1
+from Down Main (LH coaching stock)
+Trains from Winwick Jn. joining Down Slow           Approach Control                                 ½
+from Down Main (freight timed at 75mph)
+All MU and HST trains joining Down Main from        Acceleration from Slow Speed Junction            1 after
+Down Lowton                                                                                          Golborne Jn.
+All LH trains joining Down Main from Down           Acceleration from Slow Speed Junction            1½ after
+Lowton                                                                                               Golborne Jn.
+All freight trains joining Down Main from Down      Acceleration from Slow Speed Junction            2 after
+Lowton with trailing load of less than 1200t                                                         Golborne Jn.
+
+
+
+                              Electronic copy - uncontrolled when printed

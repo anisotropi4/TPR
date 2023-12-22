@@ -1,0 +1,46 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                    Date:    27th October 2023
+                                           Timetable 2024                              Page:    155 of 178
+
+
+Kew Bridge
+
+Adjustments to Sectional Running Times
+Movements                                           Reason                                         Value
+Down train departing Kew Bridge Platform 1          Speed Differential                             {1}*
+towards Brentford
+* Applies approaching next timing point.
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Down train departs Platform 1 towards Brentford   Up train arrives/passes Platform 1 from          4
+                                                  Brentford
+
+
+Old Kew Junction
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Down train from Kew East Junction                 Down train departs/passes Kew Bridge            3
+Down train departs Kew Bridge Platform 1          Up train towards Kew East Junction              4
+towards Brentford
+Down train from Kew East Junction                 Up train towards Kew East Junction              4
+Down train from Kew East Junction towards         Up train arrives/passes Kew Bridge from         4
+Brentford                                         Brentford
+Up train arrives/passes Kew Bridge from           Down train from Kew East Junction               2½
+Brentford
+Up train towards Kew East Junction                Down train from Kew East Junction               4
+Up train towards Kew East Junction                Down train departs Kew Bridge Platform 1        2
+Up train passes/arrives at Kew Bridge             Up train towards Kew East Junction              2½
+Up train towards Kew East Junction                Up train passes/arrives at Kew Bridge           4
+
+
+Hounslow
+
+Dwell Times
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

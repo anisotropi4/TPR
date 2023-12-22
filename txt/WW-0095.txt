@@ -1,0 +1,65 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                      Version:   4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:    6th October 2023
+                                           Change Timetable 2024                            Page:    92 of 289
+
+
+GW734 DOVEY JUNCTION TO PWLLHELI
+TIMING POINT                           DOWN        UP            NOTES
+
+Dovey Jn to Tywyn                      AB+2*       AB+2*         * ERTMS but timed as AB
+Tywyn to Barmouth                      AB+2*       AB+2*
+Barmouth to Llanaber                   AB+2*       AB+2*
+Llanaber to Harlech                    AB+2*       AB+2*
+Harlech to Porthmadog                  AB+2*       AB+2*
+Porthmadog to Penychain                AB+2*       AB+2*
+Penychain to Pwllheli                  AB+2*       AB+2*
+
+GW735 SHREWSBURY CREWE JUNCTION TO NANTWICH
+TIMING POINT                           DOWN        UP            NOTES
+
+Shrewsbury to Harlescott Crossing      AB+2*       AB+2*         *TCB but timed as AB
+Harlescott Crossing to Wem             AB+2*       AB+2*
+Wem to Prees                           AB+2*       AB+2*
+Prees to Wrenbury                      AB+2*       AB+2*
+Wrenbury to Nantwich                   AB+2*       AB+2*
+
+GW750 HEREFORD BRECON CURVE GF TO MEB SIDING
+TIMING POINT                           DOWN        UP            NOTES
+
+Hereford Brecon Curve GF to                 Single Line          One train working
+MEB Siding
+
+GW740 MAINDEE EAST JUNCTION TO MAINDEE NORTH JUNCTION
+TIMING POINT                           DOWN        UP            NOTES
+
+Maindee East to Maindee North               Single Line          One train working
+
+GW770 EBBW VALE TOWN TO GAER JUNCTION (WESTERN VALLEY LINE)
+TIMING POINT                           DOWN        UP            NOTES
+
+Ebbw Vale Town to Aberbeeg Jn               Single Line          One train working.
+                                                                 A train can be reversed at Aberbeeg Jn behind
+                                                                 PJ1915 whilst a train is in the section PJ1914 to
+                                                                 Ebbw Vale Town.
+Aberbeeg Jn to Risca South Jn          8          8
+Risca South Jn to Park North Jn                AB+2              Single line
+                                                                 TCB but timed as AB+2
+Park North Jn to Park Jn               4          4
+Park Jn to Gaer Jn                             AB+2              Single line
+                                                                 TCB but timed as AB+2
+
+GW773 MACHEN QUARRY TO PARK JUNCTION
+TIMING POINT                           DOWN        UP            NOTES
+
+Machen Quarry to Park Junction              Single Line          One train working
+
+GW780 PARK JUNCTION TO EBBW JUNCTION
+TIMING POINT                           DOWN        UP            NOTES
+
+Park Junction to Ebbw Junction         AB+2*       AB+2*         * TCB but timed as AB
+
+
+                                     Electronic copy - uncontrolled when printed.

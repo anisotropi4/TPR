@@ -1,0 +1,51 @@
+NETWORK RAIL                                 Timetable Planning Rules                               Version: 4.1
+London North Eastern                           Revised Final Rules for                                Date: 12 October 2023
+                                          Subsidiary Change Timetable 2024                            Page: 365 of 368
+
+
+
+
+                        Newcastle Area Timing Points 1
+
+
+
+                                         MANDATORY TIMING POINT
+
+                                         STOPPING TRAINS ONLY
+                                                                                                                       METROCENTRE
+                                                                                                                        [GTSHDMC]
+                                         CROSSING TRAINS ONLY
+
+
+
+
+                                                                                                        LN682           DUNSTON
+                                                                                                                         [DNSN]
+                       Timing Points and Running Lines
+                       Blank line applies where identity is not shown
+
+
+                                                                                                                       NORWOOD
+                                                                                                                       JUNCTION
+                                                                                                                        [NRWDJN]
+
+                                                                                            LN684
+                                                   TYNE (YARD)                                       LOW FELL
+                                                                                                                                     TO NEWCASTLE
+                                                 SORTING SIDINGS                                       R.M.T
+                                                     [TYNEY]                                        [LOWFRMT]
+                                                                                                                                             TO KING
+                                                                                                                                             EDWARD
+                                                                                                                                             BRIDGE
+                                                                                                                                          SL N JN
+                          BIRTLEY                        SL                     LOW FELL                                   KING EDWARD
+                         JUNCTION                                               JUNCTION                                    BRIDGE S JN
+                         [BRTLYJN]                                              [LOWFELJ]                                    [KEBGSJN]    TO KING
+                                                                                                      LN600                               EDWARD
+                                                                                                                                          BRIDGE
+                                                                                                                                          E JN
+
+
+
+
+                                                                        Electronic copy - uncontrolled when printed.

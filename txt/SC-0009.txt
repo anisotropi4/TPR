@@ -1,0 +1,64 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                        Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024               Date:    28/07/2023
+                                                                                               Page:    4 of 242
+
+1.1 Index of Routes
+Information arranged on a line of route basis in this document is presented in the following order:
+  SC001                      Gretna Junction to Glasgow Central (Via Beattock)
+  SC003                      Carstairs South Junction to Haymarket East Junction
+  SC005                      Carstairs to Carstairs East Jn
+  SC007                      Midcalder Junction to Holytown Junction
+  SC009                      Lanark to Lanark Junction
+  SC011                      Law Junction to Uddingston Junction (Via Holytown)
+  SC013                      Wishaw Central Junction to Shieldmuir Junction
+  SC015                      Mossend East Junction to Mossend North Junction
+  SC017                      Mossend East Junction to Mossend South Junction
+  SC019                      Mossend South Junction to Mossend West Junction
+  SC023                      Motherwell to Newton (Via Hamilton)
+  SC024                      Larkhall to Haughhead Junction
+  SC025                      Rutherglen to Finnieston Junctions
+  SC027                      Rutherglen West Junction to Rutherglen North Junction
+  SC029                      Larkfield Junction to Shields Junction
+  SC031                      Gretna Junction to Glasgow Bridge Street Junction (Via Kilmarnock)
+  SC035                      Bank Junction to Knockshinnoch
+  SC036                      Greenburn Junction to Greenburn Open Cast
+  SC039                      Kilmarnock to Barassie
+  SC045                      East Kilbride to Busby Junction
+  SC047                      Muirhouse South Junction to Larkfield Junction
+  SC049                      Muirhouse Central Junction to Terminus Junction
+  SC051                      Muirhouse Central Junction to Muirhouse North Junction (Via Cathcart)
+                             (Cathcart Circle)
+  SC053                      Neilston to Cathcart West Junction
+  SC055                      Newton to Cathcart West Junction
+  SC057                      Cathcart East Junction to Cathcart North Junction
+  SC059                      Glasgow Bridge Street Junction to Stranraer (Via Paisley Gilmour Street)
+  SC061                      Shields Junction to Paisley Canal
+  SC063                      Cardonald Junction to Deanside (Goods Line)
+  SC065                      Paisley Gilmour Street to Gourock
+  SC067                      Wemyss Bay Junction to Wemyss Bay
+  SC073                      Kilwinning to Largs
+  SC077                      Ardrossan South Beach to Ardrossan Harbour
+  SC081                      Byrehill to Dubbs Junction
+  SC085                      Ayr Harbour to Newton Junction
+  SC087                      Newton Junction to Mauchline (Goods Line)
+  SC089                      Annbank to Killoch Colliery
+  SC091                      Dalrymple Junction to Chalmerston (Goods Line)
+  SC093                      Motherwell to Greenhill Lower Junction
+  SC097                      Whifflet South Junction to Sunnyside Junction (Goods Line)
+  SC099                      Whifflet North Junction to Rutherglen East Junction
+  SC101                      Coatbridge Junction to Langloan Junction
+  SC103                      Garnqueen North Junction to Cowlairs West Junction
+  SC105                      Gartsherrie South Junction to Gartcosh Junction
+  SC106                      Sighthill West Junction to Cowlairs South Junction
+  SC107                      Edinburgh to Glasgow Queen Street (Via Falkirk High)
+  SC109                      Polmont Junction to Carmuirs West Junction
+  SC110                      Carmuirs East Junction to Larbert Junction
+  SC111                      Newbridge Junction to Bathgate
+  SC113                      Winchburgh Junction to Dalmeny Junction
+  SC115                      Cowlairs North Junction to Knightswood North Junction
+  SC115 (0)                  Maryhill Park Jn to Anniesland Bay Platform
+
+
+                                     Electronic copy - uncontrolled when printed.

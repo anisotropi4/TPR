@@ -1,0 +1,64 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:     4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:      28th July 2023
+West and Central
+                                                                                    Page:      260 of 443
+
+Stafford
+
+Platform End Margins and Junction Margins (south end)
+First movement                                  Second movement                                   Value
+Depart platform 1 or 3 towards Up Slow or Up    Pass Stafford on Down Fast                        3
+Penkridge
+Pass on Up Fast towards Colwich                 Depart platform 1 to any conflicting route        2
+Depart platform 3 to Up Fast                    Pass Stafford on Down Fast                        3½
+Pass platform 4 towards Penkridge               Depart platform 1 towards Penkridge               2½
+Pass Stafford platform 4 towards Whitehouse     Pass Stafford platform 4 towards Penkridge        2½
+Jn via the Up Slow
+Pass or depart from Stafford platform 4 towards Pass Stafford platform 4 towards Whitehouse       2½
+Penkridge                                       Jn via the Up Slow
+Pass on Down Fast                               Depart platform 1 to Up Slow or Up Penkridge      2
+Pass on Down Fast                               Depart platform 3 in either the Down or Up        2
+                                                direction
+Up arrive platform 6 from the Up Slow           Down arrive platform 5                            2½
+Up arrive platform 6 from Up Slow               Down pass platform 5                              3
+Up arrive platform 5 or 6                       Up Depart platform 5 or 6                         1½
+
+Platform End Margins and Junction Margins (north end)
+First movement                              Second movement                                       Value
+Depart/pass platform 5 and crossing to Down Arrive/pass platform 5 but not crossing at            2½
+Fast at Doxey Jn                            Doxey Jn
+Depart/pass platform 5 but not crossing at  Arrive/pass platform 5 and crossing to Down           2
+Doxey Jn                                    Fast at Doxey Jn
+Arrive Stafford Goods Loop from Up Slow     Depart platform 5 or 6                                1
+Depart platform 5 or 6                      Arrive Stafford Goods Loop from Up Slow               3
+Arrive / pass platform 4                    Depart platform 5 or 6 or Stafford Goods Loop         2
+                                            if crossing Down Fast at Doxey Jn
+Pass on Down Fast or Pass on Up Fast        Down depart platform 1                                2
+Down depart platform 1                      Pass on Up Fast                                       3½
+Down arrive at platform 5                   Up arrive at platform 6 from Up Slow                  3
+Down pass platform 5 to Down Slow           Up arrive at platform 6 from Up Slow                  3
+Down train from platform 5 to Down Fast     Up arrive at Platform 6 from Up Slow                  3½
+Up arrive platform 6 from Up Slow           Up arrive/pass platform 4 from Up Slow                3½
+Down arrive platform 5 or 6                 Down depart platform 5 or 6                           1½
+Down depart platform 5 or 6                 Down arrive platform 5 or 6                           1½
+
+Platform Reoccupation
+Same Direction                     2
+Opposite Direction                 4
+
+
+
+Stafford Doxey Jn
+
+Junction Margins
+First movement                                 Second movement                                    Value
+Down Slow to Down Fast at Stafford Doxey Jn    Arrive / pass platform 4 at Stafford               4½
+Up Fast to Up Slow at Stafford Doxey Jn        Down depart platform 1 or 3 at Stafford            2
+Up Fast to Up Slow at Stafford Doxey Jn        Pass Stafford on Down Fast                         3
+Pass Stafford on Down Fast                     Up Fast to Up Slow at Stafford Doxey Jn            1
+Down depart platform 1 or 3 at Stafford        Up Fast to Up Slow at Stafford Doxey Jn            2
+
+
+
+
+                            Electronic copy - uncontrolled when printed

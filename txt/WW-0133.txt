@@ -1,0 +1,67 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                    Version:    4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                   Date:     6th October 2023
+                                         Change Timetable 2024                          Page:     130 of 289
+
+
+An up train arrives Swindon                       A down train departs Swindon via conflicting       1 minute
+                                                  route
+A down train arrives Swindon                      An up train departs Swindon via a conflicting      1 minute
+                                                  route
+
+Wootton Bassett Junction
+
+Adjustment to Sectional Running Time
+Movement                                       Reason                       Timing Load           Value
+Pass to Hullavington                           70mph junction               Timing loads over     {½}
+                                                                            75mph
+Pass from Hullavington                         70mph junction               Timing loads over     {½} Approaching
+                                                                            75mph                 next timing point
+
+Planning Note
+Down direction adjustments approaching Wootton Bassett jn must be applied in addition to any Down direction
+adjustment at Swindon
+
+Chippenham
+
+Adjustments to Sectional Running Times
+Movement                                       Reason                       Timing Load           Value
+Down pass if routed to Bradford Jn at          Approach control             Freight               {½}
+Thingley Jn
+
+Dwell Time
+Class LH                             2
+Class 15x – 16x                      1
+Class 80x/22x                        1½
+
+Station Working
+The signalling constraints deny parallel moves between Chippenham and Thingley Jcn when relying on Bi-
+Directional signalling.
+Trains can only reverse in Chippenham station from the West (Thingley Jcn direction).
+
+Thingley East Junction
+
+Adjustment to Sectional Running Times
+Movement                                       Reason                       Timing Load           Value
+Down pass if routed to Bradford Jn at          Approach control             80x                   {1}
+Thingley Jn or crossing to UM                                               Freight               {½}
+Up pass from DM to UM (not stopping at         Acceleration                 DMU                    {½}*
+Chippenham)                                                                 80x/22x                {1}*
+                                                                            Freight 1600           {½}*
+                                                                            tonnes trailing
+                                                                            load and above
+Up pass from DM to UM (stopping at             Acceleration                 80x                   {½}*
+Chippenham)
+*Applied approaching next timing point
+
+Thingley Junction
+
+Adjustment to Sectional Running Time
+Movement                                       Reason                       Timing Load           Value
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

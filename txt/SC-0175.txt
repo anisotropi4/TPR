@@ -1,0 +1,55 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                      Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024             Date:    28/07/2023
+                                                                                             Page:    170 of 242
+
+Portobello Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                          Value
+Down trains from Monktonhall Junction to Leith    For Approach control                            1
+branch between Monktonhall Junction and
+Portobello Junction
+Down Trains from Niddrie South or Niddrie         For acceleration differential.                  ½ Passenger
+West Junctions between Portobello Junction                                                        1 Freight
+and Craigentinny Junction
+
+Movement Up                                       Reason                                          Value
+Up Trains from Leith Branch to Monktonhall        For acceleration differential.                  1
+Junction between Portobello Junction and
+Monktonhall Junction
+Up Trains from Craigentinny Junction to Niddrie   For Approach control                            1 except 22X
+South or Niddrie West Junctions between                                                           1½ 22X
+Craigentinny Junction and Portobello Junction
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Down Train pass towards Leith                     Up train pass from Edinburgh                    3 Passenger
+                                                                                                  4 Freight
+Up Train pass towards Monktonhall/Niddrie         Down Train pass towards Leith                   4
+Junctions
+Up/Down Train Pass                                Down train pass from Niddrie Junctions          6
+                                                  towards Leith
+Up Train pass from Leith towards Niddrie          Up train pass from Edinburgh                    3 Passenger
+Junctions                                                                                         4 Freight
+Down Train pass to Craigentinny Junction          Up Depart towards Brunstane                     1
+
+
+Craigentinny Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                          Value
+Down Trains from Craigentinny Depot between       For acceleration differential                   1*
+Craigentinny Junction and Abbeyhill Junction
+*Reduce to ½ if stopping at Abbeyhill Junction
+
+Movement Up                                       Reason                                          Value
+Up Trains from Powderhall Branch between          For acceleration differential.                  1
+Craigentinny Junction and Portobello Junction
+Up train pass to Craigentinny TMD                 Approach Control/Slow Speed Route               1½
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

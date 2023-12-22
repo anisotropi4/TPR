@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version: 4.1
+London North Eastern                     Revised Final Rules for                     Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                 Page: 167 of 368
+
+
+Hambleton North Junction
+                                                                                           1 1000 to 1800t
+                                                                                           1½ 2000t plus
+
+                                                                                           To be applied
+                                                                                           approaching the
+                                                                                           next timing point
+Movement Up                                       Reason                                   Value
+Pass to Hambleton East Junction                   Approach Control                         1 Passenger*
+
+                                                                                           1½ 75mph Freight
+
+                                                                                           1 60mph Freight
+* Adjustment not required for 15x, 158, 195 as this is included in the SRT
+
+Junction Margins
+First Movement                                    Second Movement                          Margin
+Pass from Branch                                  Pass Up Main                             4
+Pass Up Main                                      Pass from Branch                         3
+Pass Up Main                                      Depart from Branch                       1
+Pass Down Main                                    Depart from Branch                       2
+Pass Down Main                                    Pass from Branch                         3
+
+
+Colton Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                   Value
+Pass NNL from Church Fenton To York and not       Differential speeds                      ½ for timing loads
+crossing to the Leeds line at Colton North                                                 above 100mph
+Junction
+                                                                                           To be applied
+                                                                                           approaching York
+
+Junction Margins
+First Movement                                    Second Movement                               Margin
+Pass NNL to Church Fenton                         Pass from Hambleton                           4
+Pass from Hambleton                               Pass NNL to Church Fenton                     4
+
+
+
+Colton North Junction
+
+Adjustment to Sectional Running Times
+Movement Up                                        Reason                                  Value
+Train crossing from LSL towards Hambleton          Acceleration                            ½ for timing loads
+                                                                                           above 100mph
+
+                                                                                           To be applied
+                                                                                           after Colton
+                                                                                           Junction
+
+Junction Margins
+First Movement                                    Second Movement                               Margin
+Up LSL pass Colton Junction                       Down crossing movement pass Colton Junction   3
+Down crossing movement pass Colton Junction       Up LSL pass Colton Junction                   5
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,70 @@
+                                                       OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                         Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                    12th September
+                                                                                         Date:
+                                                2024                                             2023
+                                                                                        Page:    99 of 183
+
+Diss
+
+Terminal Lengths
+Up Through Siding                                                                                      23 SLUs
+Headshunt                                                                                              57 SLUs
+
+
+EA1013 TROWSE JUNCTION TO NORWICH
+
+Trowse
+
+Restriction
+Trowse Yard can only accommodate one train at a time – single train working. Light engine movements to be
+treated as an exception to this, i.e. light engines are permitted to depart and arrive when there is a set of wagons
+already in the sidings.
+Trains departing Trowse towards Trowse Jn (EA1012 or EA1580) require a run-round move to be included in the
+schedule. The loco will use the Up Main for this movement so there must be a suitable train slot between other
+booked services.
+
+
+Trowse Swing Bridge
+
+Junction Margin                                                                                        Margin
+Between all opposing movements                                                                         3
+
+
+Wensum Curve
+
+Standage Length
+Through Siding                                                                                         40 SLUs
+
+Junction Margins
+Trains longer than 40 SLUs stopped at Wensum Junction may foul Trowse Swing Bridge. In this circumstance the
+junction margin at Trowse Swing Bridge applies between the departure time for the first train departing Wensum
+Junction and the passing time of the second train at Trowse Swing Bridge.
+
+
+Norwich Thorpe Junction
+
+Junction Margins
+First Movement                                      Second Movement                                    Value
+Departure from Norwich passes Thorpe                Conflicting movement towards Norwich               1½
+Junction
+
+Standage Length
+Line C                                              From CO566 to CO567 clear of 2857 pts              25 SLU 160m
+                                                    From CO567 clear of 2848pts at Swing Bridge        36 SLU 228m
+Line D                                              From CO564 to CO565 clear of 2858B pts             35 SLU 221m
+                                                    From CO565 clear of 2849pts at Swing Bridge        44 SLU 279m
+
+
+Norwich Goods Yard
+
+Note: The sidings on the down (south) side of Norwich station may be shown differently in different documents.
+The Goods Yard (Thorpe Yard / Riverside Freight Depot) is not electrified and refers to the sidings where CO570
+signal is the departure signal. (Tiplocs NRCHTC, NRCHGBF).
+Terminal Length                                                                                      37 SLUs
+
+
+
+                                  Electronic copy - uncontrolled when printed.

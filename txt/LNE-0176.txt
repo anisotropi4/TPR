@@ -1,0 +1,40 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version: 4.1
+London North Eastern                      Revised Final Rules for                       Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                   Page: 173 of 368
+
+
+Northallerton
+Pass from Eaglescliffe to Up Slow                   Acceleration                                  1 To be
+                                                                                                  applied
+                                                                                                  approaching
+                                                                                                  next timing
+                                                                                                  point
+
+Junction Margins
+First Movement                                       Second Movement                           Margin
+Depart to Eaglescliffe                               Pass Down Main                            4½
+Depart to Eaglescliffe                               Pass Up Main                              4½
+Depart to Eaglescliffe                               Arrive Up Main                            4
+Arrive/pass Up Main                                  Depart to Eaglescliffe                    1
+Arrive/pass Up Main                                  Pass to Eaglescliffe                      3
+Pass Up Main                                         Pass/arrive from Eaglescliffe             3
+Depart Up Main                                       Arrive from Eaglescliffe                  4*
+Passenger Pass Up Main to SL                         Pass Up Main                              4
+Passenger Depart Up Main to SL                       Pass Up Main                              4½
+Freight Pass Up Main to SL                           Pass Up Main                              5
+Depart Down Platform to Up                           Pass Down Main                            5½
+Depart Down Platform to USL                          Pass Up Main                              4½
+* 3 if train from Eaglescliffe has pathing allowance
+
+
+Darlington Down Passenger Loop
+
+Junction Margins
+First Movement                                      Second Movement                               Margin
+Down Passenger Arrive at Darlington DPL             Down Arrival Darlington Station               4
+Down Freight Arrive Darlington DPL                  Down Arrival Darlington Station               5
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

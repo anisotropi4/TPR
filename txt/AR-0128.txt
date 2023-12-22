@@ -1,0 +1,68 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                        Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                   12th September
+                                                                                        Date:
+                                                2024                                            2023
+                                                                                       Page:    125 of 183
+
+Foxton
+
+Movement                                           Reason                                           Value
+Down freight from Foxton Exchange Sidings          Acceleration                                     {1}
+pass to Shepreth Branch Junction                                                                    approaching
+                                                                                                    next timing
+                                                                                                    point
+Up freight to Foxton Exchange Sidings pass         Via slow speed crossover                         {1}
+from Shepreth Branch Junction
+
+Junction Margins
+First Movement                                     Second Movement                                  Margin
+Freight departs Foxton Down platform in the Up     Down non-stop train passes Foxton                4
+direction towards Royston
+Freight departs Foxton Down platform in the Up     Down stopping service arrives at Foxton          3½
+direction towards Royston
+Freight departs Foxton Down platform in the Up     Down non-stop train passes Foxton                4½
+direction to Foxton Exchange Sidings
+Freight departs Foxton Down platform in the Up     Down stopping services arrives at Foxton         4
+direction to Foxton Exchange Sidings
+Up train non-stop to Royston passes Foxton         Freight departs Foxton Down platform in the      2
+                                                   Up direction towards Royston
+Up passenger departs Shepreth Station              Freight departs Foxton Down platform in the      2
+                                                   Up direction towards Royston
+Down non-stop train passes Foxton                  Freight arrives at Foxton from Foxton            3
+                                                   Exchange Sidings
+Down train departs Foxton                          Freight arrives at Foxton from Foxton            4
+                                                   Exchange Sidings
+Down train pass/depart Foxton                      Down Freight from Foxton Exchange Sidings        3
+                                                   pass towards Cambridge
+
+
+EA1270 KING’S LYNN JUNCTION TO MIDDLETON TOWERS
+
+Middleton Towers
+
+Restriction
+Middleton Towers can only accommodate one train at a time – single train working. Light engine movements to be
+treated as an exception to this, i.e. light engines are permitted to depart and arrive when there is a set of wagons
+already in the sidings.
+
+
+EA1280 STRATFORD CENTRAL JUNCTION TO COPPERMILL JUNCTION
+
+Stratford Station
+See entry on Route EA1010 Liverpool Street to Seven Kings
+
+
+Ruckholt Road Jn
+
+Junction Margins
+First Movement                                   Second movement                                        Value
+Pass towards Orient Way CS                       Next train pass towards Orient Way CS                  3*
+* A third movement requires an increased margin of 7 minutes
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

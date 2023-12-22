@@ -1,0 +1,58 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version:   4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                          Page:    110 of 443
+
+
+MD355 LICHFIELD TRENT VALLEY JN TO LICHFIELD TRENT VALLEY (CHORD
+LINE)
+ROUTE SECTION                        SX                        SO                          SUN
+
+Lichfield Trent Valley Jn to         Open from 0600            0001 – 0600                 0730-1230
+Lichfield Trent Valley               Monday                    1815 – 0015 (Sun)
+
+
+MD726 AYLESBURY TO CLAYDON WEST JN
+MD725 AYLESBURY TO CLAYDON L&NE JN
+ROUTE SECTION                        SX                        SO                          SUN
+
+Aylesbury to Aylesbury Vale          Open continuously         Open continuously           Open continuously
+Parkway
+Aylesbury Vale Parkway to            Open as required for      Open as required for        Open as required for
+Quainton Road                        traffic                   traffic                     traffic
+Quainton Road to Claydon West        Temporarily out of use    Temporarily out of use      Temporarily out of use
+Jn(via Calvert)
+
+
+MD736 OXFORD NORTH JN (EXCLUSIVE) TO DENBIGH HALL SOUTH JN
+ROUTE SECTION                        SX                        SO                          SUN
+
+Oxford North Jn to Oxford            Open continuously         Open continuously           Open continuously
+Parkway
+Oxford Parkway to Bicester           Open continuously         Open continuously           Open continuously
+Gavray Jn
+Bicester Gavray Jn to Denbigh        Temporarily out of use    Temporarily out of use      Temporarily out of use
+Hall South Jn
+
+
+MD910 PERSHORE (INCLUSIVE) TO NORTON JN
+ROUTE SECTION                        SX                        SO                          SUN
+
+Evesham SB to Norton Jn              0515 – 0010               0515 – 0010                 0900 - 0010
+
+
+
+MD940 WORCESTER SHRUB HILL TO SHELWICK JN
+ROUTE SECTION                        SX                        SO                          SUN
+
+Worcester Shrub Hill to Henwick      Continuous                Continuous                  00:10 (closes)
+                                                                                           08:00 (opens)
+Henwick to Newland East              0510 – 0000               0510 – 0000                 0830 – 2335
+Newland East to Malvern Wells        0510 – 0000               0510 – 0000                 0830 – 2330
+Malvern Wells to Ledbury             0500 – 2350               0500 – 2350                 0830 – 2330
+Ledbury to Shelwick Jn               0450 – 2340               0450 – 0000                 1210 – 2325
+
+
+
+
+                               Electronic copy - uncontrolled when printed

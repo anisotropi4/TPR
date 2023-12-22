@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:     4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:      28th July 2023
+West and Central
+                                                                                          Page:     272 of 443
+
+Springs Branch Jn
+
+Junction Margins
+First Movement                                    Second Movement                                      Margin
+Pass from Up and Down Slow                        Pass Down Slow from St. Helens                       5
+Pass from Up and Down Slow                        Pass Down Slow from Golborne direction -             3
+                                                  Passenger
+Pass from Up and Down Slow                        Pass Down Slow from Golborne direction –             4
+                                                  Freight
+Pass from Down Slow to Down Main                  Pass from Up and Down Slow                           3
+
+
+Wigan North Western
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                               Value
+All Down trains (except Classes 221 and 390)      Due to the close proximity of the timing points      ½ at Wigan
+booked to stop at Wigan North Western             when trains are reducing speed between               South Jn
+                                                  Springs Branch Jn and Wigan South Jn the
+                                                  pass to pass time is extended.
+Trains not longer than 5 x 23 meters length       Acceleration to line speed from 10mph                1
+overall departing or passing Platforms 1 or 6     crossover
+towards Balshaw Lane Jn
+Trains longer than 5 x 23 meters length overall   Acceleration to line speed from 10mph                2
+departing or passing Platforms 1 or 6 towards     crossover
+Balshaw Lane Jn
+
+Movement Up                                       Reason                                               Value
+All Up trains passing Platforms 1 or 6            Approach control and slow speed crossover            3
+All Up trains stopping at Platforms 1 or 6        Approach control and slow speed crossover            2
+
+Dwell Time
+EMU/DMU                               1
+LH/HST                                2
+
+Junction Margins
+First Movement                                    Second Movement                                      Margin
+Stopping train departing from Wigan Wallgate      Train departing from Wigan North Western             4
+towards Crow Nest Jn                              towards Crow Nest Jn (NW6009)
+Train departure from Platform 1 towards           Train passing on Up Main Line                        5*
+Balshaw Lane
+Train passing on Up Main Line                     Train departure from Platform 1 towards              2
+                                                  Balshaw Lane Jn
+Train arrival into Platform 1 from Balshaw Lane   Train passing on Up Main Line                        5*
+Jn
+Train arrival into Platform 6 from Balshaw Lane   Train passing on Up Main Line                        5*
+Jn
+* 4 minutes if stopping
+
+Platform Reoccupation Time            3½
+
+
+
+
+                               Electronic copy - uncontrolled when printed

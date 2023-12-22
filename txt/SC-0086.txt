@@ -1,0 +1,50 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                       Version:    4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024              Date:     28/07/2023
+                                                                                               Page:     81 of 242
+
+Ravenstruther
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Arrive Ravenstruther                               Down train pass Carstairs South Junction            ½
+Arrive Ravenstruther                               Down train pass Carstairs East Junction             Same time
+Arrive Ravenstruther                               Depart Carstairs (including loops)                  ½
+Down Train pass Lanark Junction                    Depart Ravenstruther                                1
+No pathing time to be inserted in Ravenstruther train schedules whilst propelling in the Carstairs area
+
+
+
+Lanark Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                        Reason                                            Value
+All trains towards Ravenstruther                   Approach Control                                  1
+approaching Lanark Junction
+All trains towards Lanark                          Approach Control                                  ½
+Approaching Lanark Junction
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Up train to Lanark                                 Down train from Carstairs South Junction (not     3
+                                                   stopping Carstairs) capable of achieving
+                                                   linespeed (100mph)
+Up train to Lanark                                 Down train from Carstairs South Junction (not     4
+                                                   stopping Carstairs) running less than linespeed
+                                                   (100mph)
+Up train to Lanark                                 Depart Carstairs Station/Down Passenger Loop      Same time
+Down train pass from Carstairs                     Pass to Lanark                                    2½
+
+
+Carluke
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                            Value
+Trains timed as 385 that have come from            Slow speed over Lanark Junction                   ½
+Lanark
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

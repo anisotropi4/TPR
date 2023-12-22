@@ -1,0 +1,59 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                       Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                             Page:    145 of 242
+
+Dunblane
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                           Value
+Terminating services into Platform 3             Approach control                                 1
+Terminating services into Platform 2             Approach control                                 ½
+
+Movement Up                                      Reason                                           Value
+Up depart Platform 2 or 3                        Slow speed crossover                             ½*
+*Applied approaching next timing point
+
+Dwell Time
+MU                                   1
+LH Slam Doors                        2
+HST Power Doors                      1½
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Depart/pass platform 2 to Dunblane Signal        Depart Platform 3 to Dunblane SB                 2
+DB43
+Depart platform 3 to Dunblane Signal DB43        Depart platform 2 to Dunblane SB                 2
+Depart/pass platform 1 to Stirling               Arrive from Dunblane SB                          3
+Depart platform 2/3 to Stirling                  Arrive from Dunblane SB                          3½
+Depart Dunblane SB to Platform 1/3               Arrive/Pass Platform 2                           4½
+Depart platform 2 to Stirling                    Arrive platform 3 from Stirling                  4½
+Depart platform 2 to Stirling                    Arrive/pass platform 2 from Stirling             4
+Depart platform 3 to Stirling                    Arrive platform 3 from Stirling                  4½
+Depart platform 3 to Stirling                    Arrive/pass platform 2 from Stirling             4
+
+
+Blackford Freight Terminal
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Up Passenger Pass Blackford                      Arrive into Freight Terminal having stopped at   4
+                                                 Blackford South Junction
+Up Freight Pass Blackford                        Arrive into Freight Terminal having stopped at   4½
+                                                 Blackford South Junction
+Arrive into Freight Terminal having stopped at   Up Passenger Pass Blackford                      2
+Blackford South Junction
+Arrive into Freight Terminal having stopped at   Up Freight Pass Blackford                        2
+Blackford South Junction
+For trains to Blackford Freight Terminal
+
+                                                          ARR                           DEP
+Greenloaning                                                                            XX/XX
+Blackford South Junction                                  XXOP00                        XXOP00½
+Blackford Freight Terminal                                XX†03
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

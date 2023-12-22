@@ -1,0 +1,61 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version:     4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024          Date:      28th July 2023
+West and Central
+                                                                                        Page:      136 of 443
+
+
+NW2015 ORDSALL LANE JN TO EDGE HILL
+TIMING POINT                         DOWN           UP       NOTES
+
+Ordsall Lane Jn to Former Edge       3              3        4 when following Class 4, 6, 7 or 8
+Hill SB
+
+
+NW2017 ECCLES TO WEASTE
+TIMING POINT                         DOWN           UP       NOTES
+
+Eccles to Weaste                                *            * Single line - One Train in Section (OTS)
+
+
+NW2019 PARKSIDE JN TO LOWTON JN (EAST CURVE LINES)
+TIMING POINT                         DOWN           UP       NOTES
+
+Parkside Jn to Lowton Jn             4              4
+
+
+NW2021 EARLESTOWN SOUTH JN TO EARLESTOWN WEST JN (LIVERPOOL
+CURVE)
+TIMING POINT                         DOWN           UP       NOTES
+
+Earlestown South Jn to                          *            * Single line – TCB timed as AB+2
+Earlestown West Jn                                           Single lead at both ends of line
+
+
+NW2023 SPRINGS BRANCH JN TO HUYTON JN (ST HELENS LINES)
+TIMING POINT                         DOWN           UP       NOTES
+
+Springs Branch Jn to Huyton Jn       4              4
+
+
+NW2025 ST. HELENS STATION JN TO RAVENHEAD JN
+TIMING POINT                         DOWN           UP       NOTES
+
+St. Helens Station Jn to                        *            * Single line - One Train in Section (OTS)
+Ravenhead Jn
+
+
+NW2027 EDGE HILL BOOTLE BRANCH JN TO LIVERPOOL DOCKS
+TIMING POINT                         DOWN           UP       NOTES
+
+Bootle Branch Jn to Edge Lane Jn     AB+2*          AB+2*    * Signalling is TCB, however the signal spacing
+Edge Lane Jn to Bootle Jn            AB+2*          AB+2*    requires that AB planning rules apply
+Bootle Jn to Stop Board 1            *                       * Only one train permitted between these locations
+Stop Board 1 to Strand Road          *                       * Only one train permitted between these locations
+Level Crossing
+Strand Road Level Crossing to                       *        * Only one train permitted between these locations
+Bootle Jn
+
+
+
+
+                               Electronic copy - uncontrolled when printed

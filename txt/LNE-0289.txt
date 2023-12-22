@@ -1,0 +1,59 @@
+NETWORK RAIL                         Timetable Planning Rules                       Version: 4.1
+London North Eastern                   Revised Final Rules for                        Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                    Page: 286 of 368
+
+
+Knottingley East Junction (England Lane)
+Junction Margins
+First Movement                                 Second Movement                                  Margin
+Pass from Shaftholme                           Pass to Crofton                                  5
+Pass to Crofton                                Pass from Shaftholme Junction                    3
+Pass from Knottingley South Junction           Pass to Knottingley South Junction               5
+
+
+Sudforth Lane SB
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                           Value
+Trains from Sudforth Lane Sidings towards      Acceleration                                     2
+Whitley Bridge.                                                                                 Approaching
+                                                                                                next timing
+                                                                                                point
+Movement Up                                    Reason                                           Value
+Trains from Sudforth Lane Sidings towards      Differential junction speed                      2
+Knottingley East Jn.                                                                            Approaching
+                                                                                                next timing
+                                                                                                point
+
+
+Whitley Bridge Junction
+
+Junction Margins
+First Movement                                 Second Movement                                  Margin
+Pass from Eggborough PS                        Pass Down Goole                                  4
+
+Pass Down Goole                                Pass from Eggborough PS                          4
+
+
+
+Drax Branch Junction
+
+Junction Margins
+First Movement                                 Second Movement                                  Margin
+Pass from Drax PS                              Pass Down Goole                                  4
+
+Pass Down Goole                                Pass from Drax PS                                4
+
+
+
+
+LN886 MONK BRETTON LOOP TO CROFTON EAST JUNCTION
+Monk Bretton Loop
+Restriction:
+One train working exists between Oakenshaw South Junction and Monk Bretton. Monk Bretton loop is only used
+for locomotive run round
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

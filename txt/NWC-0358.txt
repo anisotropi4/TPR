@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024            Date:     28th July 2023
+West and Central
+                                                                                         Page:    346 of 443
+
+Accrington
+
+Dwell Time
+Class 158                            1
+
+
+Gannow Jn
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                            Value
+Approaching Gannow Jn - All Down trains            Approach Control                                  ½
+(except those that have called at Rose Grove)
+joining the Up & Down Colne
+After Gannow Jn - All Up trains coming off the     Acceleration to main line speed from slow         ½
+Up and Down Colne                                  speed junction
+
+
+Burnley Manchester Road
+
+Dwell Time
+DMU                                  1
+
+
+Stansfield Hall Jn
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                        Value
+Down train passing from Todmorden                Acceleration from Todmorden West Curve        {½} After Stansfield
+                                                                                               Hall Jn
+Up train passing towards Todmorden               Approach Control                              {1} Approaching
+                                                                                               Stansfield Hall Jn
+
+Simultaneous Moves Not permitted
+A Down train from Hall Royd Jn planned to stand or show pathing time approaching Stansfield Hall Jn must have
+a margin of 3 minutes before or after any conflicting move over the Todmorden West Curve. This is due to the
+overlap of PN339 signal extending across Stansfield Hall Jn.
+
+
+Hall Royd Jn
+
+See entry under route NW7001 Manchester Victoria West Jn to Hebden Bridge
+
+
+NW7011 FARINGTON JN TO LOSTOCK HALL JN (LOSTOCK HALL LINES)
+
+Lostock Hall Jn
+
+See entry under route NW7009 Farington Curve Jn to Hall Royd Jn (East Lancs Line)
+
+
+NW7013 DAISYFIELD JN TO HELLIFIELD
+
+Daisyfield Jn
+See entry under route NW7009 Farington Curve Jn to Hall Royd Jn (East Lancs Line)
+
+
+                              Electronic copy - uncontrolled when printed

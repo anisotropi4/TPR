@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:      28th July 2023
+West and Central
+                                                                                         Page:   242 of 443
+
+South Ruislip
+
+Adjustment to Sectional Running Times
+Movement Down                                  Reason                                               Value
+Passenger, ECS or light engine pass from       Not at line speed passing South Ruislip              ½
+Greenford branch or SL (Down Northolt Loop)                                                         approaching
+from Northolt Park Jn                                                                               next timing
+                                                                                                    point
+Freight pass from SL (Down Northolt Loop)      Not at line speed passing South Ruislip              1
+                                                                                                    approaching
+                                                                                                    next timing
+                                                                                                    point
+
+Movement Up                                    Reason                                               Value
+Passenger trains towards Greenford Branch      Not at line speed at South Ruislip                   1
+(NOT required from West Ruislip platform 4)
+Pass South Ruislip from LUL reversing siding   Not at line speed at South Ruislip                   Class 165/8 1
+                                                                                                    approaching
+                                                                                                    next timing
+                                                                                                    point
+Pass towards Northolt Waste Terminal           Approach control                                     1
+
+
+Junction Margins
+First Movement                                 Second Movement                                      Margin
+Pass on Down Main                              Depart Platform 3 to Down Main                       2
+Pass towards Northolt/Greenford via platform   Pass on Down Main                                    3
+3
+Pass towards Northolt/Greenford via platform   Arrive South Ruislip from SL (Down Northolt          3
+3                                              Loop)
+Pass from Northolt Refuse siding               Pass on Down Main                                    4
+
+
+West Ruislip
+
+Connectional Allowance              3
+
+Adjustment to Sectional Running Times
+Movement Down                                  Reason                                               Value
+Train crossing to platform 4 at West Ruislip   Approach control                                     1
+Pass West Ruislip to LUL reversing siding      Approach control                                     1
+Departing platform 4 towards Gerrards Cross    Slow speed crossover                                 1
+                                                                                                    approaching
+                                                                                                    next timing
+                                                                                                    point
+
+Movement Up                                    Reason                                               Value
+Pass towards Greenford branch or Northolt      Approach control                                     ½ Passenger
+Waste Sidings (NOT required from West                                                               1 Freight
+Ruislip platform 4)
+Pass from HS2 terminal via Platform 4          Not at line speed passing West Ruislip               ½ Freight
+towards South Ruislip                                                                               approaching
+                                                                                                    next timing
+                                                                                                    point
+
+
+
+
+                             Electronic copy - uncontrolled when printed

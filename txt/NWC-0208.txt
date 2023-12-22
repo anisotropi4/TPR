@@ -1,0 +1,60 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:      28th July 2023
+West and Central
+                                                                                        Page:   196 of 443
+
+Watery Lane (Down/Up Stour Goods)
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                             Value
+Trains to Down Stour Goods                      Approach control                                   {1} ECS and
+                                                                                                   light engine;
+                                                                                                   {1½} freight at
+                                                                                                   Dudley Port
+
+Movement Up                                     Reason                                             Value
+Trains from the Up Stour Goods Loop             Not at line speed passing Dudley Port              {1} to be
+                                                                                                   applied at
+                                                                                                   next timing
+                                                                                                   point after
+                                                                                                   Dudley Port
+
+Junction Margins
+First Movement                                  Second Movement                                    Margin
+Pass Dudley Port to Watery Lane (Down Stour
+                                                Down Pass/Arrive Dudley Port                       4
+Goods)
+Down Depart/Pass Dudley Port, not stopping
+                                                Depart Watery Lane (Down Stour Goods)              2½
+Tipton
+Down Depart/Pass Dudley Port, stopping
+                                                Depart Watery Lane (Down Stour Goods)              3½
+Tipton
+Arrive Watery Lane (Up Stour Goods)             Up Pass Dudley Port                                4
+Arrive Watery Lane (Up Stour Goods)             Up Arrive Dudley Port                              5
+Up Pass/Depart Dudley Port                      Depart Watery Lane (Up Stour Goods)                2
+
+
+Monmore Green
+
+Junction Margins
+First Movement                                  Second Movement                                    Margin
+Up train passes or departs Wolverhampton        Freight train to/from Wolverhampton Steel          5
+towards Dudley Port                             Terminal crosses Monmore Green
+Down freight to Wolverhampton Steel Terminal    Up train passes or departs Wolverhampton           1½
+crosses Monmore Green                           towards Dudley Port
+
+
+Wolverhampton
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                             Value
+From Dudley Port to Platforms 2, 3 and 4 via    Approach Control                                   1
+BW388A/BW388B points
+
+Connectional Allowance              7
+
+
+
+
+                             Electronic copy - uncontrolled when printed

@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                           Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024               Date:    28th July 2023
+West and Central
+                                                                                            Page:    197 of 443
+
+Wolverhampton
+
+Dwell Time
+Class 221 (AWC), 390, 805, 807        2 (3 minutes if crew change booked)
+
+                                      8 minutes for terminating services continuing as an ECS in the same
+                                      direction
+
+                                      5 minutes for services entering service formed from ECS in the same
+                                      direction
+Class 22X (CrossCountry)              1½
+DMU/EMU                               1
+
+Minimum Turnround Time – Trains changing direction at end of journey
+DMU/EMU                       10, except:
+Wolverhampton to Walsall      5
+services
+Class 390                     30
+
+Platform End Conflicts
+First movement                                          Second movement                                   Margin
+Down train arrives in platform 1                        Up train departs from platform 5                  1
+Down arrival from Portobello Jn direction into          Up train departs from platforms 3 or 4            1
+platforms 1, 2 or 5                                     towards Dudley Port
+Down train departs from platform 6                      Down train arrives in platform 1                  3
+Up train departs from platform 4 towards Dudley         Down arrival from Portobello Jn direction into 4
+Port                                                    platforms 1, 2 or 5
+Up train departs from platform 5                        Down train arrives in platform 1                  4
+Up train departs from platforms 2, 3 or 4               Conflicting Down train arrives in platforms 2,    3
+                                                        3 or 4
+Up train departs from platforms 2, 3 or 4 towards       Up train departs from platforms 2, 3 or 4         2½
+Portobello Jn                                           towards Dudley Port
+Up train departs from platforms 2, 3 or 4 towards       Up train departs from platforms 2, 3 or 4         2½
+Dudley Port                                             towards Portobello Jn
+Down train depart platforms 3 or 4                      Up train arrives platform 2, 3 or 4               4
+Up train depart platform 2                              Down train arrives platform 1                     Parallel*
+Up train depart platform 2                              Up train arrive platform 3                        3£
+Up train depart platform 3                              Up train arrive platform 2                        Parallel**
+*Must not be a up arrival into platform 3 within 3 minutes before or after an up arrival into platform 2
+£Movement can be simultaneous if there is no down arrival into platform 1 within 1 minute before or 4 minutes
+after an up train departs platform 2
+**Must not be down arrival into platform 1 within 3 minutes before or after an up arrival into platform 2
+
+Platform Reoccupation
+Bay Platforms                         4
+Through Lines                         3 for same direction moves
+                                      4 for opposite direction moves
+Platform Restriction
+Services formed of an 11 car Class 390 will block the route in the Down direction into platform 2. An arrival in the
+Down direction may be planned into platform 2 provided there is no simultaneous arrival in the Up direction into
+platform 3
+There is no route in the Up direction from platforms 1 or 5 towards Portobello Jn
+Platform 6 is not signalled for passenger arrivals
+
+
+
+
+                               Electronic copy - uncontrolled when printed

@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 180 of 368
+
+
+King Edward Bridge North Junction
+
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Pass from King Edward Bridge South Junction       Pass to King Edward Bridge South Junction        3
+
+
+Newcastle
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                           Value
+Train departing from Platforms 5,6,7 and 8 to     Differential junction speed at Argyle Street     ½ to be
+Morpeth, timed FL.                                Junction                                         applied
+                                                                                                   approaching
+                                                                                                   Heaton South
+                                                                                                   Jn
+Trains arriving Platforms 9, 10, 11 and 12        TPWS                                             1
+
+Movements Up                                      Reason                                           Value
+Trains arriving Platforms 5,6,7 and 8 from        Differential junction speed at Argyle Street     ½
+Morpeth timed FL.                                 Junction
+Trains arriving Platform 1                        TPWS                                             ½
+
+Connectional Allowance               8
+
+Platform Reoccupation                3
+
+Conflicting Moves
+Movement                                                                                           Margin
+Between trains in the same direction Platforms 2 – 4.                                              4
+Between arrivals from opposite directions                                                          4
+
+First Movement                                    Second Movement                                  Margin
+Arrive Platform 2 from West                       Arrive Platform 1                                4
+Depart Platform 3 to West                         Arrive Platform 4 from East                      4
+
+West End movements
+Movement                                                                                           Margin
+Between first arriving and second departing                                                        1
+Between two consecutive arrivals                                                                   3
+Between first departing and second arriving (LH/HST)                                               5
+Between first departing and second arriving (DMU)                                                  4
+Between two consecutive departures                                                                 3
+First Movement                                   Second Movement                                   Margin
+Depart Platform 2/3 to West                      Arrive Platform 2/3 from Forth Banks              4
+Arrive Platform 8 from West                      Arrive Platform 7 from East                       3
+Arrive Platform 8 from West                      Depart Platform 7 to Up Slow Line                 1
+Arrive Platform 7 from West                      Arrive Platform 8 from West                       3
+Depart Platform 7 to West via Up Slow            Depart Platform 8 to East                         2
+Depart Platform 7 to Up Slow Line                Arrive Platform 8 from West                       3
+Depart Platform 3/4 to West                      Arrive opposite Platform from East                3
+Arrive Platform 3/4 from East                    Depart opposite Platform to West                  3
+Arrive Platform 3 from down main                 Arrive Platform 4 from up main                    1
+Arrive Platform 4 from up main                   Arrive Platform 3 from down main                  1
+
+                                    Electronic copy - uncontrolled when printed.

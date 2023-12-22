@@ -1,0 +1,52 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+London North Eastern                     Revised Final Rules for                       Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                   Page: 340 of 368
+
+
+5.5.2 SX Night time (See routes for applicable times)
+SX daytime allowances apply to those routes excluded from this section
+
+ LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION
+ Timing Section                      Type     LH      MU      Cl 6, 7    Remarks
+                                              HST     LL      &8
+                                              80X
+                                              EPU
+                                              Cl 4
+                                              22X
+
+ Additional Engineering Allowance
+ Down and Up – Monday night/Tuesday morning to Friday night/Saturday morning
+ King’s Cross – Hitchin           E      3       3        3    00:01 TWThF – 05:45 TWThF
+                                                               All trains to be timed over the Slow lines
+                                                               with [3] approaching Holloway in the Up
+                                                               and Hitchin in the Down.
+ Hitchin to Peterborough          E                            2300 FSX to 0600 MSX
+                                         7       7        7    Down Fast approaching Huntingdon
+                                         3       3        3    Down Main approaching Fletton
+                                        10*     10*     10*    Up Fast approaching Hitchin
+                                         3*      3*      3*    Up Slow approaching Hitchin
+                                                               *trains crossing at Cadwell to have [3]
+                                                               approaching that location only
+ Peterborough – Stoke             E                            2300 SX to 0530 MX. All trains timed Slow
+                                                               lines
+                                         2       2        2    Down Slow approaching Stoke Junction
+                                         2       2        2    Up Slow after Tallington Junction
+ Stoke - Grantham                 E     20      20       20    (B)
+
+ Grantham - Newark                   E         20       20      20       (B)
+
+                                     E         20       20      20       (B)
+ Newark - Loversall Carr Junction
+ Loversall Carr Junction –           E          5#      5#      5#       2250 SX – 0505 MX
+ Doncaster
+
+ (A) Only one allowance per train between King’s Cross and Hitchin
+ (B) Only one allowance per train between Stoke Jn – Loversall Carr Jn. To commence on the Down after the
+ passage of 1D36 King’s Cross – Leeds and finish before the passage of 1Y00 York to King’s Cross. No other
+ train should be timed to pass these services within SLW times.
+ #Trains timed FL throughout only. Not applicable to trains starting or terminating in Doncaster Yards
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

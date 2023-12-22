@@ -1,0 +1,54 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                   Version:   4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024          Date:    28/07/2023
+                                                                                           Page:    83 of 242
+
+Shieldmuir
+
+Adjustments to Sectional Running Times
+Movement up                                        Reason                                        Value
+Up train pass to Wishaw                            Approach Control                              1
+Up train pass to RMT                               Approach Control                              1½
+Up train travelling to Wishaw that is calling at   Approach Control                              ½
+Shieldmuir
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Down pass                                       Up pass to RMT                                   3½
+Down depart                                     Up pass to RMT                                   4½
+Depart/pass to RMT                              Down pass                                        4
+Depart/pass to RMT                              Down arrive from Law Junction                    4
+Depart/pass to RMT/Law Junction                 Down arrive from Wishaw                          3½
+Down pass from Law Junction                     Down arrive from Wishaw                          3½*
+Down pass/arrive from Wishaw                    Up arrive from Motherwell                        3½
+Down pass/arrive from Wishaw                    Up pass (stopping Motherwell)                    3
+Down pass/arrive from Wishaw                    Up pass (not stopping Motherwell)                2½
+*Can be reduced to 2½ if {1} added before Shieldmuir
+
+
+Dalzell Loop
+
+Junction Margins
+First Movement                                     Second Movement                               Margin
+Up depart Shieldmuir towards Wishaw                Up depart Loop towards Law                    2
+Up depart Shieldmuir towards Law Junction          Up depart Loop towards Law                    3½
+Up depart Shieldmuir towards Wishaw                Up depart Loop towards Wishaw                 3½
+Up depart Shieldmuir towards Law Junction          Up depart Loop towards Wishaw                 2
+Up pass Shieldmuir towards Wishaw                  Up depart Loop towards Law                    1
+Up pass Shieldmuir towards Law Junction            Up depart Loop towards Law                    2½
+Up pass Shieldmuir towards Wishaw                  Up depart Loop towards Wishaw                 2½
+Up pass Shieldmuir towards Law Junction            Up depart Loop towards Wishaw                 1
+Down pass/arrive Shieldmuir from Wishaw            Up depart Loop                                1
+Up arrive Loop                                     Up arrive Platform 1 at Motherwell            2
+Up arrive Loop                                     Up pass Platform 1 at Motherwell              2½
+
+Planning Notes
+Up trains to Up Goods Loop must have ½ minute OP stop in Platform 1 at Motherwell to depart on a sub signal.
+No pathing or other allowances to be applied between Motherwell and Up Goods Loop.
+No pathing or other allowances to be applied between Up Goods Loop and Shieldmuir.
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024              Date:    28th July 2023
+West and Central
+                                                                                           Page:    350 of 443
+
+Stalybridge
+
+Train arrives/passes Stalybridge that has called   Train arrives/passes from Ashton Moss North        3½
+at Ashton Under Lyne                               Jn
+
+*Normal headway to be applied at next shared timing point
+
+Platform Reoccupation
+
+Minimum reoccupation margin in platform 4 is 2½ between stopping services or a stopping service after a non-
+stop train has passed
+
+Station Working
+It is possible to recess a freight up to 54 SLU/ 346m on the Up and Down Middle Line (Platform 3) in the Down
+direction and 58 SLU/ 372m in the Up.
+
+
+Diggle Jn
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                              Value
+All Down trains running via the Down               Approach Control                                    2
+Passenger Loop (allowance to be incorporated
+into the schedule between Greenfield and
+Diggle Jn).
+
+
+NW7025 PHILLIPS PARK WEST JN TO ASHBURYS WEST JN
+Operating Restriction
+Due to weight restrictions on certain bridges, a light locomotive or locomotive-hauled train must not be planned to
+pass any other train/vehicle between Philips Park South Jn and Ashburys West Jn.
+Multiple Unit trains may, however, be allowed to pass one another without restriction.
+
+
+NW8001 HUNTS CROSS WEST JN TO SOUTHPORT
+
+Hunts Cross West Jn
+
+See entry under route NW6003 Castlefield Jn to Allerton Jn
+
+
+Liverpool Central (Low Level)
+
+Connectional Allowance                10
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Between all conflicting movements (limited to                                                          2½*
+six in each direction per hour), except:
+Depart Platform 1 in Down direction                Arrive Platform 2 in Down direction                 1½
+
+Platform Reoccupation Time            2½
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,62 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                       Version:   4
+Scotland                     Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                           Page:    22 of 242
+
+SC031 GRETNA JUNCTION TO GLASGOW BRIDGE STREET JUNCTION (VIA
+KILMARNOCK)
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Gretna Junction                   –           –                     To/from Carlisle Refer to North West &
+                                                                    Central Timetable Planning Rules
+                                                                    (NW4001)
+Route Boundary: NW&C/Scotland                                       115 miles 40 chains
+Gretna Green                      –           –              S      Platform detail must be shown
+Eastriggs MOD                     –           –              F
+Annan                             –           –
+Dumfries                          –           –                     Platform detail must be shown
+Holywood                          –           –
+Thornhill                         –           –
+Sanquhar                          –           –              S
+Kirkconnel                        –           –
+New Cumnock U.R.S.                –           –              F
+New Cumnock                       –           –                     Platform detail must be shown
+Bank Junction                     –           –              F      To/from Knockshinnoch/Greenburn –
+                                                                    SC035/SC036
+Auchinleck                        –           –              S      Platform detail must be shown
+Mauchline                         –           –                     To/from Annbank – SC087
+Kilmarnock                        –           –                     Platform detail must be shown
+                                                                    To/from Barassie Junction – SC039
+Kilmaurs                          –           –              S
+Lochridge Junction                DM UM       −
+Stewarton                         DM UM       UM DM          S      Platform detail must be shown
+Dunlop                            DM UM       UM DM          S      Platform detail must be shown
+Lugton SB                         –           UM DM
+Barrhead                          –           –                     Platform detail must be shown
+Nitshill                          –           –              S
+Priesthill & Darnley              –           –              S
+Kennishead                        –           –              S
+Busby Junction                    –           –                     To/from Thornliebank – SC045
+Pollokshaws West                  –           –              S
+Crossmyloof                       –           –              S
+Muirhouse South Junction          –           –                     To/from Larkfield Junction – SC047
+Muirhouse Central Junction        –           –              X      Trains to/from Cathcart West Junction via
+                                                                    Maxwell Park should be timed here.
+                                                                    To/from Pollockshields West
+                                                                    To/from Terminus Junction
+Muirhouse North Junction          –           –                     To/from Pollokshields East – SC051
+Glasgow Bridge Street Junction    –           –                     To/from Eglinton St Junction – SC001
+
+
+SC035 BANK JUNCTION TO KNOCKSHINNOCH
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Bank Junction                     –           –              F      To/from Kilmarnock – SC031
+Greenburn Junction                –           –              X      Only for trains to/from Greenburn
+                                                                    Opencast SC036
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

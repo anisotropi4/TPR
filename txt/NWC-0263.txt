@@ -1,0 +1,52 @@
+NETWORK RAIL                         Timetable Planning Rules                      Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                     Page:    251 of 443
+
+Bicester Depot Reception Lines
+
+Adjustments to Sectional Running Times
+Movement Down                               Reason                                        Value
+For services stopping or terminating in the Entering Reception Line on Ground Position    ½
+Reception Lines/Depot                       Light Signal
+
+
+Bicester Village
+
+Junction Margins
+First Movement                              Second Movement                               Margin
+Down train arrives or passes from Claydon   Up train routed towards Bicester Gavray Jn    1
+West Jn
+
+Dwell Time
+Class 196                           1
+
+
+Bicester Gavray Junction
+
+Junction Margins
+First Movement                              Second Movement                               Margin
+Pass to Princes Risborough                  Passenger Pass from Claydon West Junction     2
+Pass to Princes Risborough                  Freight Pass from Claydon West Junction       2½
+
+
+Winslow
+
+Dwell Time
+Class 196                               1
+
+
+Bletchley High Level
+
+Dwell Time
+Class 196                               1
+
+
+Denbigh Hall South Jn
+
+See entry under route MD101 Euston to Armitage Jn (exclusive)
+
+
+
+
+                             Electronic copy - uncontrolled when printed

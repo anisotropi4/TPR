@@ -1,0 +1,58 @@
+NETWORK RAIL                        Timetable Planning Rules                      Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                    Page:    409 of 443
+
+
+NW6003 CASTLEFIELD JN TO ALLERTON JN
+LOCATION                        DIRECTION       USABLE LENGTH        NOTES
+                                                 SLU    METRES
+Glazebrook East Jn Down         Down              44      288
+Passenger Loop
+
+
+NW7001 MANCHESTER VICTORIA WEST JN TO HEBDEN BRIDGE
+LOCATION                        DIRECTION       USABLE LENGTH        NOTES
+                                                 SLU    METRES
+Brewery Jn Down Passenger       Down              74      479        Between Brewery Jn and Thorpes
+Loop                                                                 Bridge Jn
+Thorpes Bridge Jn Up            Up                71         455     Between Thorpes Bridge Jn and
+Passenger Loop                                                       Brewery Jn
+Vitriol Works Up Goods Loop     Up                49         320
+Castleton Down Goods Loop       Down              59         382
+
+
+NW7009 FARINGTON CURVE JN TO HALL ROYD JN (EAST LANCS LINE)
+LOCATION                        DIRECTION       USABLE LENGTH        NOTES
+                                                 SLU    METRES
+King Street Siding              Down              81      519        Standage from PN449 signal to PN455
+                                                                     at Taylor Street. A train stood at PN449
+                                                                     will prevent access to/from King Street
+                                                                     Depot
+King Street Siding              Up                81         519     Standage form PN455 signal to PN449
+                                                                     at Blackburn Bolton Jn. A train
+                                                                     occupying the full length will prevent
+                                                                     access to/from King Street Depot
+
+
+NW7021 MILES PLATTING JN TO MARSDEN
+LOCATION                        DIRECTION       USABLE LENGTH        NOTES
+                                                 SLU    METRES
+Diggle Down Passenger Loop      Down              49      320
+
+
+NW9001 DORE WEST JN TO EDGELEY JN NO.1 (HOPE VALLEY LINES)
+NW9001 EARLES SIDINGS (INCL.) TO EDGELEY JN NO.1
+LOCATION                        DIRECTION       USABLE LENGTH        NOTES
+                                                 SLU    METRES
+Earles Sidings Down Goods       Down              55      358
+Loop
+Hazel Grove Down Cheadle        Down              64         410     To Northenden Jn only
+Loop
+Hazel Grove Down Siding         Down              23         150
+Hazel Grove Up Siding           Up                23         150
+
+
+
+
+                              Electronic copy - uncontrolled when printed

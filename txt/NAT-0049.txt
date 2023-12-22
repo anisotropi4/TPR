@@ -1,0 +1,67 @@
+                                                 OFFICIAL
+
+
+Network Rail                                                                                     Version 4.0
+National                                                                                 Date: 28th July 2023
+                               Final Proposal for Subsidiary Change 2024
+                                            Page 48 of 114
+
+Appendix H – List of Definitions
+Term                       Definition
+Bplan                      Electronic repository for train planning geography values. These values
+                           include: Tiplocs, Network links, SRTs/Timing links, valid platform numbers
+                           and codes.
+
+Conditional Timing Point   Conditional timing points only need to be used when a particular activity
+                           takes place at those locations. Allowances (e.g. acceleration, deceleration
+                           and approach control) should be included in SRTs where this represents
+                           the fastest possible SRT for the Network Link.
+
+Cumulative Rounding        Throughout the course of a journey timings for SRTs and dwells will need
+                           rounding to ensure that the cumulative technical time for a section and the
+                           cumulative SRT + dwell time for a section are balanced and do not usually
+                           diverge by more than ±15 seconds.
+
+Decision Criteria          Where Network Rail is required to decide any matter in this Part D its
+                           objective shall be to share capacity on the Network for the safe carriage of
+                           passengers and goods in the most efficient and economical manner in the
+                           overall interest of current and prospective users and providers of railway
+                           services (“the Objective”).
+
+                           In achieving the Objective, Network Rail shall apply any or all of the
+                           considerations in paragraphs (a)-(k) below (“the Considerations”) in
+                           accordance with Condition D4.6.3 below:
+
+                           (a) maintaining, developing and improving the capability of the Network;
+                           (b) that the spread of services reflects demand;
+                           (c) maintaining and improving train service performance;
+                           (d) that journey times are as short as reasonably possible;
+                           (e) maintaining and improving an integrated system of transport for
+                               passengers and goods;
+                           (f) the commercial interests of Network Rail (apart from the terms of any
+                               maintenance contract entered into or proposed by Network Rail) or any
+                               Timetable Participant of which Network Rail is aware;
+                           (g) seeking consistency with any relevant Route Utilisation Strategy;
+                           (h) that, as far as possible, International Paths included in the New
+                               Working Timetable at D-48 are not subsequently changed;
+                           (i) mitigating the effect on the environment;
+                           (j) enabling operators of trains to utilise their assets efficiently; and
+                           (k) avoiding changes, as far as possible, to a Strategic Train Slot other
+                               than changes which are consistent with the intended purpose of the
+                               Strategic Path to which the Strategic Train Slot relates; and
+                           (l) avoiding a change to any International Freight Train Slot included in
+                               part B of an International Freight Capacity Notice shall be changed
+
+Engineering Recovery       Additional time included in train schedules to cover the impact of planned
+Allowance                  temporary speed restrictions associated with engineering works on the
+                           network.
+
+Junction Margin            The minimum permissible time interval between two trains that are
+                           performing conflicting moves at a timing point. This is expressed in
+                           multiples of half minutes derived from the technical value expressed in
+                           seconds.
+
+Mandatory Timing Point     Mandatory timing points are generally major junctions and stations, TRUST
+                           points, and locations where trains start and terminate. Other locations may
+                           be defined as mandatory to assist planning and train reporting, but care
+                            Electronic copy – uncontrolled when printed

@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                   Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                    Page:      70 of 163
+
+STANDARD VALUES – MINIMUM
+
+
+Connectional Allowance                          5 minutes
+
+Detachment of Units:
+Standard                                        3
+
+Detachment of Units – Southern Services Only
+Class                                     Allowance                    Comments
+171                                       3                            2 applies for ECS
+377 or 387                                4
+
+Detachment of Units – South Western Railway Services Only
+Class                             Allowance                                     Comments
+450                               4
+455                               2
+458                               5
+701                               4
+707                               4
+
+Dwell Time
+Standard                                                     ½
+Dwell times may be varied during the production of timings for trains in conjunction with engineering work or other
+special traffic arrangements at the discretion of the Operational Planning Project Manager.
+
+Dwell Times – Empty Coaching Stock to Passenger Service in the same direction except where otherwise
+specified*
+Stock           1 or 2   3 or 4      5 or 6      8 Car        7 or   9 or 10 Car 10 or 12 Car 12 Car
+                Car      Car         Car                      9
+                                                              Car
+Class 158 DMU 1 min      1 min       1 min       1 min        1      1 min        1 min         1 min
+                                                              min
+Class 159 DMU            1 min       1 min                    1                                 1 min
+                                                              min
+Class 165/166   1 min    1 min       1 min       1 min        1      1 min        1 min         1 min
+DMU                                                           min
+Class 171 DMU 1 min      1 min       1 min       1 min        1      1 min        1 min         1 min
+                                                              min
+Class 375/377            1 min       1 min       1 min        1      1 min        1 min         1 min
+EMU                                                           min
+(Southern
+Services)
+Class 378/710            1 min       1 min
+EMU
+Class 387 EMU            1 min                   1 min                                          1 min
+(Southern &
+Gatwick
+Express
+Services)
+Class 450 EMU            1 min                   1 min                                          1 min
+Class 455 EMU            1 min                   1 min                                          1 min
+(South Western
+Railway
+Services)
+Class 458 EMU                        1 min                           1 min
+Class 700 EMU                                    1 min                                          1 min
+Class 701 EMU                        1 min                                        1 min
+Class 707 EMU                        1 min                                        1 min
+                           Electronic copy - uncontrolled when printed

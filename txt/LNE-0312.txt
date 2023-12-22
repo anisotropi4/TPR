@@ -1,0 +1,63 @@
+NETWORK RAIL                 Timetable Planning Rules                    Version: 4.1
+London North Eastern           Revised Final Rules for                     Date: 12 October 2023
+                          Subsidiary Change Timetable 2024                 Page: 309 of 368
+
+
+STATION                      PLATFORM      USABLE       NOTES
+                                           LENGTH
+
+Harringay                    Down          125
+Harringay                    Up            126
+Harrogate                    1             221          Trains from Leeds, departing in York direction
+Harrogate                    1             191          To H26 signal. Trains from Leeds or York,
+                                                        departing in Leeds direction
+Harrogate                    3             243
+Hartlepool                   1             76
+Hartlepool                   2             153 in the
+                                           Down
+                                           direction
+                                           137 in the
+                                           up
+                                           direction
+Hartlepool                   3             157
+Hatfield                     Down Fast     170
+Hatfield                     Down Slow     170
+Hatfield                     Up Slow       170
+Hatfield and Stainforth      Down          111
+Hatfield and Stainforth      Up            107
+Hathersage                   1             95
+Hathersage                   2             100
+Havenhouse                   Down          48
+Havenhouse                   Up            34
+Haydon Bridge                Down          108
+Haydon Bridge                Up            110
+Headingley                   Down          97
+Headingley                   Up            97
+Healing                      Down          56
+Healing                      Up            56
+Hebden Bridge                Down          110
+Hebden Bridge                Up            121
+Heckington                   Down          96
+Heckington                   Up            108
+Heighington                  Down          103
+Heighington                  Up            90
+Hensall                      Down          50
+Hensall                      Up            50
+Hertford North               1             154
+Hertford North               2             153
+Hertford North               3             145
+Hessle                       Down          105
+Hessle                       Up            105
+Heworth                      Down          120
+Heworth                      Up            120
+Hexham                       Down          102
+Hexham                       Up            102
+Highbury and Islington       Down          126
+(Northern City Line)
+Highbury and Islington       Up            128
+(Northern City Line)
+Hitchin                      Down          249
+Hitchin                      Up            247
+Honley                       Single        65
+
+                          Electronic copy - uncontrolled when printed.

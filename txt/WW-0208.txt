@@ -1,0 +1,63 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                  Date:    6th October 2023
+                                           Change Timetable 2024                         Page:    205 of 289
+
+
+                               220/221      DMU          GWR Short Form       Class 80X    Class 80X (9/10 Car)
+                                                         HST (HSTGW4)         (5 car)
+From Paddington                 30                                            25           30
+From Birmingham                 30
+From North of Birmingham        30
+From Bristol/Plymouth           20          10            10                  15           20
+From Truro/ Falmouth                        5
+From Par                                    5*            6                   7            10
+* : 3 minutes acceptable, if not sequential in unit diagram
+
+GW680 PENWITHERS JUNCTION TO FALMOUTH
+
+Penryn
+
+Dwell Time
+15x                                    1
+
+Platform working:
+Up trains MUST be timed to arrive before a down train.
+Trains in the up direction must arrive at least 3 minutes before a down train. Departure can be simultaneous.
+Up trains cannot use the down loop.
+
+Penmere
+
+Dwell Time
+15x                                    1
+
+Falmouth Town
+
+Dwell Time
+15x                                    1
+
+GW690 ST. ERTH TO ST. IVES
+
+St. Erth
+
+Dwell Time
+15x                                    ½*
+* : For through trains only.
+
+Lelant Saltings
+
+Dwell Time
+15x                                    ½
+
+Lelant
+
+Dwell Time
+15x                                    ½*
+* : Request Stop
+
+Carbis Bay
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,60 @@
+NETWORK RAIL                       Timetable Planning Rules                       Version: 4.1
+London North Eastern                 Revised Final Rules for                        Date: 12 October 2023
+                                Subsidiary Change Timetable 2024                    Page: 150 of 368
+
+
+
+
+Palmers Green
+Dwell Time
+                                 1 Up peak Trains arriving King’s Cross/Moorgate 0700 – 0959 SX
+                                 1 Down peak Trains departing King’s Cross/Moorgate 1600 – 1859 SX
+
+
+Winchmore Hill
+Dwell Time
+All services                     1 - May be reduced to ½ minute outside SX peak hours following discussion with
+                                 operator
+
+
+Enfield Chase
+Dwell Time
+                                 1 Up peak Trains arriving King’s Cross/Moorgate 0700 – 0959 SX
+                                 1 Down peak Trains departing King’s Cross/Moorgate 1600 – 1859 SX
+                                 Trains terminating at Gordon Hill may have a ½ minute dwell time by
+                                 agreement with the Train Operator if deemed appropriate
+
+
+Gordon Hill
+
+Junction Margins
+First Movement                                  Second Movement                      Margin
+Arrive Up Bay                                   Arrive /Pass Up Platform             3
+Arrive Up Bay                                   Depart Up Platform                   1
+Arrive Up Main                                  Depart Up Bay                        1
+Depart Up Bay                                   Arrive/Pass Up Platforms             3
+Depart/Pass Up Main                             Arrive Up Bay                        2½*
+                                                                                     *Can be reduced to 2 if
+                                                                                     the second train is
+                                                                                     calling at Enfield Chase
+Pass Up Main                                    Depart Up Bay                        2
+
+Adjustments to Sectional Running Times
+Movement Down                                 Reason                                             Value
+Trains arriving Up Bay                        Approach Control                                   ½
+
+Dwell Time
+All services                     1 - May be reduced to ½ minute outside SX peak hours following discussion with
+                                 operator
+
+
+Hertford North
+
+Dwell Time
+All services                     1 - May be reduced to ½ minute outside SX peak hours following discussion with
+                                 operator
+
+Adjustments to Sectional Running Times
+Movement Down                                 Reason                                           Value
+Trains Arriving Down Bay                      Approach Control                                 ½
+                               Electronic copy - uncontrolled when printed.

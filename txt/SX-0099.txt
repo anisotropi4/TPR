@@ -1,0 +1,59 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version:   4.3
+Route: Sussex                           Final Rules for Subsidiary                    Date:      18th October 2023
+                                              Timetable 2024 OFFICIAL
+                                                                                      Page:      95 of 163
+
+Three Bridges
+
+The non-stop headway applies for consecutive trains arriving at or passing Three Bridges providing the second train
+uses a different platform and the correct headway has been applied at the previous timing point irrespective of calling
+pattern. National TPR section 1.5.5 Application of Planning Headways refers.
+
+
+Three Bridges Down Thameslink Sidings
+
+Overlap Restrictions
+
+First Movement                                  Second Movement                      Reason                    Margin
+Train departs Three Bridges Platforms 4         Following movement departs Three Bridges into the Down         20
+or 5 and enters the Down Thameslink             Thameslink Sidings
+Sidings
+Example, first train departs Three Bridges towards Down Thameslink Sidings at xx.00. Second movement into
+Sidings can depart Three Bridges at xx.20. This margin provides an allowance for the first train to use the washer,
+reverse in the headshunt and stable. 8 minutes applies if the second train not washing.
+All trains arriving at the Down Sidings must be planned with a ‘dot’ stop at Three Bridges station. This is because
+the train will be brought to a stand or near stand at signal T273 before receiving a proceed aspect into the sidings.
+
+Berthing Facilities
+Siding                                  Cars*                         Notes
+Stabling Siding No 1                    24                            2 x 12 cars, 3 x 8 cars or 1 x 12 car and 1 x 8
+                                                                      car
+Stabling Siding No 2                    24                            2 x 12 cars, 3 x 8 cars or 1 x 12 car and 1 x 8
+                                                                      car
+Stabling Siding No 3                    12                            1 x 12 car or 1 x 8 car
+* Assumed to be Class 700 stock
+
+Margins between arrivals and departures
+First Movement                          Second Movement                                                        Margin
+Train arrives at Three Bridges Down     Train departs from Three Bridges Down Thameslink Sidings               6
+Thameslink Sidings from Three Bridges   towards Three Bridges station
+station
+
+Margins between successive departures
+First Movement                          Second Movement                                                        Margin
+Train departs from Three Bridges Down   Following movement departs Three Bridges Down                          6
+Thameslink Sidings and passes Three     Thameslink Sidings towards Three Bridges station either
+Bridges station                         stopping or not stopping
+Train departs from Three Bridges Down   Following movement departs Three Bridges Down                          8
+Thameslink Sidings and stops at Three   Thameslink Sidings towards Three Bridges station either
+Bridges station (assumes 1 minute dwell stopping or not stopping
+at Three Bridges)
+
+Planning Note
+Pathing or performance allowances must not be placed between Three Bridges and Three Bridges Down
+Thameslink Sidings in either direction as there are no intermediate signals
+
+
+
+
+                                Electronic copy - uncontrolled when printed

@@ -1,0 +1,59 @@
+NETWORK RAIL                            Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                          25th August 2023
+                                                                                    Date:
+                                           Timetable 2024                           Page:     131 of 168
+
+
+Slade Green
+
+Junction Margins
+First Movement                                      Second Movement                             Margin
+Depart/pass Platform 2 to Slade Green Depot         Arrive/pass Slade Green Platform 2          3½
+Depart/pass Platform 2 to Slade Green Depot         Pass Slade Green Platform 2 towards         3
+                                                    Perry Street Fork Junction
+Depart/pass Platform 2 to Slade Green Depot         Arrive Slade Green Platform 2               3
+
+Connectional Allowance                 4
+
+Crew Change Times                                                                                        Value
+Class 376/465/466 units                                                                                  1½ *
+* - Crew changes must be assumed for Dartford/Greenwich SLOW services calling off-peak only
+
+Planning Note
+Please be aware that by holding any train longer than 4 coaches or 82m between Slade Green Junction and
+Crayford Creek Junction, the end of train is likely to foul the junction at the opposing end.
+
+
+Slade Green Up Carriage Sidings
+
+Planning Restriction
+Freight trains must not be booked to recess within this location
+
+
+Crayford Creek Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                        Reason                                           Value
+All Freight trains that have travelled via the     Speed Differential                               ½
+Crayford Spur
+
+
+Crayford Spur ‘A’ Junction
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                           Value
+ALL trains travelling onto the Crayford Spur       Speed Differential/Approach Control              1
+
+Movement                                           Reason                                           Value
+ALL trains from the Crayford Spur towards          Speed Differential                               ½
+Crayford Creek Junction
+
+Planning Restriction
+All trains travelling between Crayford Spur ‘A’ Junction and Crayford Spur ‘B’ Junction should be shown a dot stop
+at Crayford Spur timing point (which is located on the Spur) to enable ARS to regulate trains correctly
+
+
+
+
+                                     Electronic copy - uncontrolled when printed

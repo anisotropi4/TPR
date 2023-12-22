@@ -1,0 +1,65 @@
+NETWORK RAIL                         Timetable Planning Rules                    Version:   4.3
+Route: Sussex                        Final Rules for Subsidiary                  Date:      18th October 2023
+                                           Timetable 2024 OFFICIAL
+                                                                                 Page:      20 of 163
+
+
+
+
+SO250D FALCON JUNCTION TO LATCHMERE JUNCTION (NO 1)
+TIMING POINT                     DOWN         UP          CODE       NOTES
+
+Falcon Junction                  -            -                      For ITPS purposes, timing point shown as
+                                                                     Clapham Junction.
+                                                                     To/from Wandsworth Common – SO500
+Clapham Junction                 - UWL        -
+Latchmere Junction (No 1)        -            - DWL                  For ITPS purposes, timing point shown as
+                                                                     Latchmere Junction.
+                                                                     To/from Imperial Wharf - SO250
+
+
+SO500 LONDON VICTORIA TO BRIGHTON
+TIMING POINT                     DOWN         UP          CODE       NOTES
+
+London Victoria                  FL SL                               Platform detail must be shown
+                                 BRV
+                                 -
+London Victoria C.H.S.                        -                      Use TIPLOC VICTCS
+                                                                     Siding detail must be shown (S1 or S2)
+Battersea Pier Junction          DBF          FL                     To/from Stewarts Lane Junction - SO250B
+                                 DBS          SL
+                                 BRV          BRV
+                                 RVL
+                                 -
+Battersea Pier Staff Halt                     UBF                    Use TIPLOC BATRSH
+                                 BRV          BRV
+Battersea Pier C.H.S.                         -                      Use TIPLOC BATRPHS
+                                                                     Siding detail must be shown (S1 or S2)
+Battersea Park                   DBF          UBS         X          Timing point for all trains on Slow Lines
+                                 DBS          BRV                    and crossing moves from fast lines only.
+                                              UBF                    Platform detail must be shown (SL)
+                                                                     To/from Factory Junction - SO645
+Clapham Junction Signal TVC141                UBF         S          Use TIPLOC CLPH141
+Pouparts Junction                DBF          UBA                    To/from Longhedge Junction - SO250C
+                                 DBS          UBF
+                                              UBS
+Clapham Junction Signal TVC587   DBS                      S          Use TIPLOC CLPH587
+Clapham Junction                 DBF          UBF                    Platform detail must be shown
+(Sussex Side)                    DBS          UBS
+Falcon Junction                                                      For ITPS purposes, timing point shown as
+                                                                     Clapham Junction.
+                                                                     To/from Latchmere Junction (No 1) -
+                                                                     SO250D
+Wandsworth Common                DBF          UBF         S
+                                 DBS          UBS
+Balham                           DBF          UBF                    Platform detail must be shown
+                                 DBS          UBS
+                                 DCP
+Balham Junction                                                      To/from Streatham Hill - SO650
+Streatham North Junction         FL SL        FL SL                  To/from Streatham South Junction -
+                                                                     SO680E
+
+
+
+
+                            Electronic copy - uncontrolled when printed

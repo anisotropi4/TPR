@@ -1,0 +1,68 @@
+                                                       OFFICIAL
+
+
+Network Rail                                                                                          Version 4.0
+National                                                                                      Date: 28th July 2023
+                                  Final Proposal for Subsidiary Change 2024
+                                              Page 29 of 114
+(iii) timing load/traction type/max speed                           M
+(iv) headcode (2 chrs)                                              O
+(v)    UIC identifier                                               O
+(vi) DOO indicator                                                  O
+(vii) accommodation                                                 M    (for passenger services)
+(viii) branding                                                     O
+(ix) catering                                                       O
+(x)    TRUST operating characteristics                              O
+(xi) reservations                                                   O
+(xii) sleeping accommodation                                        O
+(xiii) train class                                                  M
+(xiv) TRUST train category                                          M
+
+E4 Train Stops (Commercial Activities)
+(Required for each stop for each train where passengers may join and/or alight or an associated commercial
+activity is required for non-passenger trains)
+
+(i)      location                                                     M
+(ii)     arrival time                                                 M
+(iii)    departure time                                               M
+(iv)     advertised arrival time                                      O
+(v)      advertised departure time                                    O
+(vi)     platform/siding number                                       M
+(vii)    activity codes                                               O
+
+E5 Train Stops (Operational Activities)
+(Required for each stop for each train where passengers may NEITHER join and/or alight or an associated
+operational activity is required for non-passenger trains)
+
+(i)      location                                                     M
+(ii)     arrival time                                                 M
+(iii)    departure time                                               M
+(iv)     advertised arrival time                                      -
+(v)      advertised departure time                                    -
+(vi)     platform/siding number                                       M
+(vii)    activity codes                                               M
+
+E6 Train movements
+(Required for each journey leg of each train)
+
+(i)      start location                                               M
+(ii)     start condition (start or pass)                              M
+(iii)    Start time                                                   M
+(iv)     end location                                                 M
+(v)      end condition (start or pass)                                M
+(vi)     end time                                                     M
+(vii)    running line code                                            M
+
+
+(viii)   engineering allowance                                        M     (if applicable)
+(ix)     performance allowance                                        M     (if applicable)
+(x)      pathing allowance                                            M     (if applicable)
+(xi)     timing adjustment                                            M     (if applicable)
+
+E7 Train Associations
+(Required for each train association)
+
+(i)      association type                                             M
+(ii)     associated train id                                          M
+
+                                     Electronic copy – uncontrolled when printed

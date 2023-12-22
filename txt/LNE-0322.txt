@@ -1,0 +1,62 @@
+NETWORK RAIL              Timetable Planning Rules                    Version: 4.1
+London North Eastern        Revised Final Rules for                     Date: 12 October 2023
+                       Subsidiary Change Timetable 2024                 Page: 319 of 368
+
+
+STATION                   PLATFORM      USABLE       NOTES
+                                        LENGTH
+
+Wakefield Westgate        Up            255
+Watton at Stone           Down          126
+Watton at Stone           Up            126
+Weeton                    Down          88
+Weeton                    Up            86
+Welham Green              Down          129
+Welham Green              Up            129
+Welwyn Garden City        Down Back     185
+Welwyn Garden City        Down Slow     185
+Welwyn Garden City        Up Back       185
+Welwyn Garden City        Up Slow       185
+Welwyn North              Down          170
+Welwyn North              Up            170
+Wetheral                  Down          95
+Wetheral                  Up            74
+Whitby                    1             177
+Whitby                    2             173
+White Rose                Up            150
+White Rose                Down          150
+Whitley Bridge            Down          65
+Whitley Bridge            Up            59
+Whitwell                  Down          79
+Whitwell                  Up            79
+Widdrington               Down          90
+Widdrington               Up            90
+Winchmore Hill            Down          136
+Winchmore Hill            Up            135
+Wombwell                  Down          134
+Wombwell                  Up            99
+Woodhouse                 Down          84
+Woodhouse                 Up            84
+Woodlesford               Down          100
+Woodlesford               Up            101
+Worksop                   Down          121
+Worksop                   Up            113
+Wressle                   Down          95
+Wressle                   Up            79
+Wylam                     Down          92
+Wylam                     Up            107
+Yarm                      Down          78
+Yarm                      Up            78
+York                      1             184
+York                      10            315          Down direction
+York                      10            266          Up direction
+York                      11            329          Down direction
+York                      11            329          Up direction
+York                      2             169
+York                      3             242          Down direction
+York                      3             272          Up direction
+York                      4             157
+York                      5             391          Down direction
+York                      5             410          Up direction
+York                      6             264
+                       Electronic copy - uncontrolled when printed.

@@ -1,0 +1,59 @@
+                                                         OFFICIAL
+
+
+Network Rail                                                                                      Version 4.0
+National                                                                                  Date: 28th July 2023
+                                     Final Proposal for Subsidiary Change 2024
+                                                 Page 28 of 114
+
+Appendix E - Definition of Access Proposal / Revised Access
+Proposal
+2.20 General Principles
+  2.20.1 Part D of the Network Code defines an Access Proposal as when a Timetable Participant wishes to
+         exercise any Firm Rights and/or Contingent Rights and/or any expectation of rights to obtain Train
+         Slots in respect of the relevant Timetable Period, where those rights were not exercised to obtain
+         Train Slots in the Prior Working Timetable; and/or (b) it wishes to make changes to any Train Slot in
+         the Prior Working Timetable; and/or (c) it wishes to set out its requirements in response to a
+         notification by Network Rail under Condition D2.4.6.
+
+
+
+2.21 Train Operator Variation
+  2.21.1 From D-26 and during the relevant Timetable Period, Timetable Participants may wish to vary either
+         the New Working Timetable, if it is before the Timetable Change Date, or otherwise the Working
+         Timetable on an ad hoc basis by adding an additional Train Slot on one or more occasions, amending
+         the detail of one or more Train Slots, removing one or more Train Slots.
+
+
+2.22 Contents of an Access Proposal
+The detailed requirements of an Access Proposal are listed under Condition D2.5.1. Individual data items within
+each of these categories are listed below and are shown as mandatory (M) or optional (O).
+
+E1    Access Proposal Identifiers
+(Required for each separate Access Proposal)
+
+(i)      Timetable Participant identity                               M
+(ii)     Timetable period                                             M
+(iii)    Access Proposal type (Iterative or variation)                M
+
+E2 Fixed Train Header Details
+(Required for each separate train)
+
+(i)      train identity                                               M
+(ii)     dates of operation                                           M
+(iii)    origin location                                              M
+(iv)     origin time                                                  M
+(v)      destination location                                         M
+(vi)     destination time                                             M
+(vii)    Access Proposal/Proposal status                              M
+(viii)   BHX marker                                                   O
+
+
+
+
+E3 Variable Train Header Details
+(Required at the train origin and for each change en route for each train)
+
+(i)      CeR start location                                           M
+(ii)     service code                                                 M
+                                   Electronic copy – uncontrolled when printed

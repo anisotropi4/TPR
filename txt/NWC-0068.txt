@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                      Page:   56 of 443
+
+
+MD736 OXFORD NORTH JN (EXCLUSIVE) TO DENBIGH HALL SOUTH JN
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Bicester Depot Run Round               UB           –               To/from Bicester Central Ordnance Depot
+                                                                    (COD)
+Bicester Depot East Jn                 UB                           For trains to/from Bicester Depot Goods
+                                                                    Loop or Bicester Depot Run Round
+Bicester Village                        –         – DB
+Bicester Gavray Jn                    – UB       – DBC              To/ from Bicester South Jn – MD745
+                                                                    Line code UB only for down direction
+                                                                    movements reversing at signal OB1792
+Bicester Signal OB1792                              –        S      For trains reversing on the Up Bletchley
+Claydon West Jn                         –           –               Platform detail must be shown as follows:
+                                                                    REC – Claydon Reception Line
+                                                                    CYL – Claydon Loop
+                                                                    To/from HS2 compound/IMD
+                                                                    To/from Aylesbury Vale Parkway Calvert –
+                                                                    MD725 MD726 (Line to Calvert is
+                                                                    temporarily out of use)
+Claydon West Headshunt                  –                    S
+Claydon Loops                           –           –        S      Platform detail must be shown as follows:
+                                                                    REC – Claydon Reception Line
+                                                                    CYL – Claydon Loop
+Claydon East Headshunt                              –        S
+Claydon East Jn                         –           –        X      Platform detail must be shown as follows:
+                                                                    REC – Claydon Reception Line
+                                                                    CYL – Claydon Loop
+                                                                    Timing point for trains crossing to or from
+                                                                    Claydon Loops
+Winslow                                 –          –
+Bletchley West Jn                                  –         X
+Bletchley High Level                    –        – DB               Platform detail must be shown
+Flyover Summit Jn                                                   For timing purposes this location is shown
+                                                                    as Bletchley High Level
+                                                                    To/from Fenny Stratford – MD741
+Bletchley Signal TK4133                –                     S
+Denbigh Hall South Jn               SL USL          –               To/from Milton Keynes Central – MD101
+
+
+MD741 FLYOVER SUMMIT JN TO FENNY STRATFORD JN (BLETCHLEY FLYOVER
+LINES)
+MD740 FLYOVER SUMMIT JN TO FENNY STRATFORD (FLYOVER LINES)
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Flyover Summit Jn                       –           –               For timing purposes this location is shown
+Flyover Summit Jn                                                   as Bletchley High Level
+                                                                    To/from Denbigh Hall South Jn MD736
+Fenny Stratford Jn                                                  For timing purposes this location is shown
+                                                                    as Fenny Stratford
+                                                                    To/from Bletchley – MD140
+                                                                    To/from Fenny Stratford – MD140
+                                                                    To/from Woburn Sands – MD140
+Fenny Stratford                         –           –
+
+
+
+
+                             Electronic copy - uncontrolled when printed

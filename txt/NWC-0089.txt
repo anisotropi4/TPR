@@ -1,0 +1,64 @@
+NETWORK RAIL                        Timetable Planning Rules                     Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                    Page:   77 of 443
+
+
+NW4001 PRESTON RIBBLE JN TO COVE L. C.
+Please refer to line of route NW1001 for Preston Ribble Jn to Preston Fylde Jn
+Please refer to Line of Route SC001 (Scotland Timetable Planning Rules) for Gretna Jn to Cove L.C.
+TIMING POINT                       DOWN        UP         CODE NOTES
+
+Oxenholme North Jn                                                For timing purposes location shown as
+                                                                  Oxenholme Lake District
+Oxenholme Lake District               –        – UGL              Platform detail must be shown
+                                                                  To/from Windermere – NW4019
+Grayrigg                              –          –                Up Loop is Goods Loop only
+Tebay South Jn                                                    For planning purposes location is shown
+                                                                  as Tebay
+Tebay                                 –          –                Up & Down Goods Loop
+Tebay North Jn                                                    For planning purposes location is shown
+                                                                  as Tebay
+Shap Summit                           –          –                Line detail including SDG or UGL to be
+                                                                  shown
+Shap Summit Quarry                                         F
+Shap Hardendale Quarry                                    FS
+Shap Hardendale Quarry Jn             –          –                Timing point for all trains to and from
+                                                                  Hardendale Quarry
+Shap Summit Signal CE148              –                    X      Timing point for trains propelling from Up
+                                                                  Main to Harrison’s Sidings
+Harrison’s Sidings                    –                           Timing point for all Down trains and trains
+                                                                  reversing to Harrison’s Sidings Down
+                                                                  Goods Loop
+Harrison’s Quarry                                –         F
+Eden Valley                                      –                Timing point for all Up trains
+Penrith South Jn                     SL                    X      Timing point for Down trains to SL
+Penrith Middle Jn
+Penrith North Lakes                   –          –
+Penrith North Jn
+Plumpton                                        –          S      Also, Up Goods Loop
+Southwaite HABD                       –         –
+Upperby Bridge Jn                   – GL        –          X
+Upperby Jn                          – GL        GL         X      Trains to/from Goods Lines only
+                                                                  To/from Bog Jn – NW4021
+                                                                  To/from London Road Jn – NW4023
+Carlisle South Jn                                                 To/from Currock Jn – NW4033
+                                                                  To/from London Road Jn – NW9901
+Carlisle                              –          –                Platform detail must be shown including
+                                                                  Wapping, Collier Lane, A, B and C sidings
+Carlisle North Jn
+Caldew Jn                             –        UML                Trains to/from Goods Lines or Up trains
+                                               DML                running via the bi–directional Down Line to
+                                                                  Carlisle
+Kingmoor TMD                                    GL
+Kingmoor Up Passenger Loop                      –          S
+Kingmoor Up Through Siding                      –          S
+Kingmoor Jn
+Brunthill Branch Jn
+Carlisle Network Yard                GL         GL         F      Also known as Kingmoor Yard
+Floriston                            –                            Down trains from Kingmoor Yard only
+
+
+
+
+                            Electronic copy - uncontrolled when printed

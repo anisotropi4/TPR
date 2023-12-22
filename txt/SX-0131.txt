@@ -1,0 +1,64 @@
+NETWORK RAIL                                Timetable Planning Rules                   Version:   4.3
+Route: Sussex                               Final Rules for Subsidiary                 Date:      18th October 2023
+                                                  Timetable 2024 OFFICIAL
+                                                                                       Page:      127 of 163
+
+St Leonards Warrior Square
+
+Connectional Allowances
+All Services                            4
+
+
+Hastings
+
+Berthing Facilities
+                                        Cars                       Notes
+Park Siding No 1                        12                         Class 465/466 units not permitted to Hastings.
+                                                                   Carriage Washer available at St Leonards
+Park Siding No 2                        12                         Class 465/466 units not permitted to Hastings.
+                                                                   Carriage Washer available at St Leonards
+Platform 1                              8                          Class 465/466 units not permitted to Hastings.
+Platform 4                              12                         Class 465/466 units not permitted to Hastings.
+
+Connectional Allowances
+All Services                            4
+
+Dwell Times
+All Services                            1
+
+ECS Restrictions
+Trains formed of 4-cars or less EMU stock should not normally be planned to travel from Hastings Platforms 1 to
+Park Sidings due to steep gradient and gapping risk
+
+Junction Margins
+                                                                                                        Margin
+Between all conflicting moves where the second train is arriving / passing                              3
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                         Attaching/Detaching and Platform Sharing
+Platform 2                         Attaching/Detaching and Platform Sharing
+Platform 3                         Attaching/Detaching and Platform Sharing
+Platform 4                         Attaching/Detaching and Platform Sharing
+A passenger train can not approach a platform when there is another train in that platform
+
+
+Overlap Restrictions
+First Movement                                    Second Movement                        Reason         Margin
+Depart/Pass Platform 1 or 2 to Signal             Westbound train departing/passing      Overlap on     3
+EDL70 or Ore                                      Ore                                    Signal
+                                                                                         EDL77
+Depart/Pass Platform 1 or 2 to Park               Westbound train departing/passing      Overlap on     4
+Sidings                                           Ore                                    Signal
+                                                                                         EDL77
+Depart Platform 1 to Ore                          Arrive Platform 2 from St Leonards     Overlap on     3
+                                                  Warrior Square or Bo Peep Junction     EDL46
+                                                                                         points
+Depart Platform 1 to Park Sidings                 Arrive Platform 2 from St Leonards     Overlap on     4
+                                                  Warrior Square or Bo Peep Junction     EDL46
+                                                                                         points
+
+
+
+
+                                Electronic copy - uncontrolled when printed

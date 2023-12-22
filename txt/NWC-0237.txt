@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:    225 of 443
+
+
+MD430 DROITWICH SPA TO STOURBRIDGE NORTH JN
+
+Droitwich Spa
+
+See entry under route MD900 Abbotswood Jn to Stoke Works Jn via Worcester
+
+
+Kidderminster
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Trains from Kidderminster Turnback not           Differential Speed                                1 After
+stopping at Kidderminster                                                                          Kidderminster
+
+Movement Up                                      Reason                                            Value
+Trains timed to arrive on Platform 2 at          Arriving at Kidderminster on a red aspect         2 before
+Kidderminster whilst a train is departing or                                                       Kidderminster
+moving from the turnback siding to Platform 1
+Trains timed to arrive on Platform 2 at          Arriving at Kidderminster on a red aspect         2 before
+Kidderminster whilst a train is departing                                                          Kidderminster
+Platform 1 towards Hartlebury
+
+Dwell Time
+DMU                                 1
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                         5
+Shunting to a different platform 10
+
+Junction Margins
+First Movement                                      Second Movement                                Margin
+Train to the Down Goods Loop or Severn Valley       Train from Hartlebury                          5
+Railway
+Train to the Down Goods Loop or Severn Valley       Train from Turnback siding                     3
+Railway
+Train from the Down Goods Loop or Severn Valley     Train from Hartlebury                          5
+Railway passing Kidderminster
+Train departing Platform 1 towards Hartlebury       Train from Hartlebury                          5
+Train departing/moving from Turnback Siding         Train arriving into Platform 2                 Parallel*
+Train departing/moving from Turnback Siding         Train passing Platform 2                       5
+Train arrived Platform 1 from Turnback Siding       Departure from Platform 2                      2
+Train departing Platform 1 towards Hartlebury       Train arriving into Platform 2                 Parallel*
+* See adjustments to sectional running times
+
+
+Stourbridge Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Down Main to Stourbridge Down Goods Loop         Approach Control                                  1
+
+Movement Up                                      Reason                                            Value
+Train terminating in Platform 2                  Approach Control                                  ½
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,56 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version: 4.1
+London North Eastern                  Revised Final Rules for                     Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                 Page: 217 of 368
+
+
+Bedlington
+Pass from Bedlington Sidings towards West     Arrive Bedlington from Newsham                4
+Sleekburn Junction
+Pass to West Sleekburn Junction               Arrival Bedlington from Newsham               Headway
+Pass to West Sleekburn Junction               Pass to Morpeth                               Headway
+Passenger Depart to West Sleekburn            Freight Pass from Morpeth to Newsham or       2
+                                              Bedlington Sidings
+Passenger Depart to West Sleekburn            Freight Depart from Morpeth to Newsham or     1
+                                              Bedlington Sidings
+Pass to West Sleekburn Junction               Pass from Morpeth to Newsham                  3
+Pass to West Sleekburn Junction               Freight depart from Morpeth to Newsham        1½
+Freight Pass from Morpeth to Newsham          Passenger Depart to West Sleekburn Junction   2
+                                              (stopping Bedlington)
+Freight Pass from West Sleekburn              Freight pass from Morpeth                     Headway
+Freight pass from Newsham to Morpeth          Freight pass to West Sleekburn                4
+
+
+Hepscott Junction
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Pass to Morpeth                               Pass from Morpeth North Junc                  4
+Pass to Morpeth                               Depart Up Loop                                2
+Pass to Morpeth North                         Pass from Morpeth                             4
+Arrive Up Loop                                Arrive Down Loop                              3
+Arrive up Loop                                Depart Down Loop                              1
+
+
+
+
+LN702 BEDLINGTON NORTH TO LYNEMOUTH ALCAN
+West Sleekburn Junction
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Freight pass from Bedlington to Blyth         Passenger pass from Ashington to Bedlington   3
+Freight pass from Bedlington to Blyth         Freight pass from Ashington to Bedlington     3½
+Freight pass from Bedlington to Blyth         Passenger pass to Ashington from Bedlington   3½
+Freight pass from Bedlington to Blyth         Freight pass from Bedlington to Ashington     4½
+Passenger pass from Bedlington to Ashington   Freight pass from Bedlington to Blyth         Headway
+Freight pass from Bedlington to Ashington     Freight pass from Bedlington to Blyth         Headway
+Passenger pass from Ashington to Bedlington   Freight pass from Bedlington to Blyth         1½
+Passenger pass from Ashington to Bedlington   Freight pass from Blyth to Bedlington         3½
+Freight pass from Blyth to Bedlington         Passenger pass from Ashington to Bedlington   Headway
+Freight pass from Blyth to Bedlington         Freight pass from Ashington to Bedlington     Headway
+Freight pass from Ashington to Bedlington     Freight pass from Blyth to Bedlington         Headway
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

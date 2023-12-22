@@ -1,0 +1,53 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                       Version:   4
+Scotland                     Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                           Page:    95 of 242
+
+Mossend East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                          Value
+Down train to Mossend South Junction, not       Approach Control                                1
+stopping Holytown
+Down train to Mossend South Junction,           Approach Control                                ½
+stopping Holytown
+
+Adjustments to Sectional Running Times
+Movement Up                                     Reason                                          Value
+Up train coming from Mossend North Junction,    Acceleration approaching Holytown Junction      1
+not stopping Holytown
+Up train coming from Mossend South Junction,    Acceleration approaching Holytown Junction      1
+not stopping Holytown
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Pass to Mossend North Junction                  Pass from Mossend West Junction, not            3½
+                                                stopping Bellshill
+Pass from Mossend South Junction                Depart Holytown to Mossend North/West/South     1
+                                                Junctions
+Pass from Mossend South Junction                LH Pass to Mossend North/West/South, not        4½
+                                                stopping Holytown
+Pass from Mossend South Junction                MU pass to Mossend North/West/ South, not       3½
+                                                stopping Holytown
+Pass from Mossend West Junction                 Depart Holytown to Mossend North Junction       1
+Pass from Mossend West Junction                 Pass to Mossend North Junction, not stopping    3½
+                                                Holytown
+Pass from Down North Curve                      Pass to Down North Curve                        5
+Up train pass Mossend North Junction towards    Passenger towards Mossend North Junction        4
+Mossend South Junction
+Up train pass Mossend North Junction towards    Freight towards Mossend North Junction          4½
+Mossend South Junction
+Up train pass Mossend South Juncton from        Passenger towards Mossend South Junction        4
+Mossend North Junction
+Up train pass Mossend South Juncton from        Freight towards Mossend South Junction          4½
+Mossend North Junction
+
+Note
+Pathing time cannot be applied between Mossend East Junction and Mossend South or North Junction due to
+overlap restrictions
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

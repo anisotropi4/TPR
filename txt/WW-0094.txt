@@ -1,0 +1,58 @@
+                                                        OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                      Version:   4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:    6th October 2023
+                                           Change Timetable 2024                            Page:    91 of 289
+
+
+GW730 SHREWSBURY SUTTON BRIDGE JUNCTION (EXCL.) TO NEWPORT
+MAINDEE WEST JUNCTION (NORTH AND WEST LINE)
+TIMING POINT                           DOWN        UP              NOTES
+
+Shelwick Jn to Hereford                AB+2        AB+2            See ‘Note’ GW340 for Ledbury to Shelwick Junction’
+Hereford to Tram Inn                   AB+2        AB+2
+Tram Inn to Pontrilas                  AB+2¥       AB+2            ¥ When Pontrilas ‘box is switched out Absolute
+                                                                   Block to apply between Tram Inn and Abergavenny
+                                                                   in the down direction
+Pontrilas to Abergavenny               AB+2        AB+2*§          *IBS Abergavenny Signal 38 in the Up Direction
+                                                                   § When Pontrilas ‘box is switched out Absolute
+                                                                   Block to apply between Abergavenny Signal 38 and
+                                                                   Tram Inn in the up direction
+Abergavenny to Little Mill Junction    AB+2        AB+2
+Little Mill Jn to Maindee West Jn      5           5
+
+GW731 ABBEY FOREGATE JUNCTION TO WREXHAM NORTH JN
+TIMING POINT                           DOWN        UP              NOTES
+
+Abbey Foregate Jn to Shrewsbury        AB+2        AB+2
+(inclusive)
+Shrewsbury (exclusive) to              11          11
+Gobowen
+Gobowen to Croes Newydd North          AB+2        AB+2
+Fork
+Croes Newydd North Fork to             4           4
+Wrexham North Junction
+
+GW732 ABBEY FOREGATE JUNCTION TO ENGLISH BRIDGE JUNCTION
+TIMING POINT                           DOWN        UP              NOTES
+
+Abbey Foregate to English Bridge       AB+2        AB+2
+Junction
+
+GW733 SUTTON BRIDGE JUNCTION TO ABERYSTWYTH
+TIMING POINT                           DOWN        UP              NOTES
+
+Sutton Bridge Jn to Welshpool          AB+2*       AB+2*           * ERTMS but timed as AB
+Welshpool to Fron Jn                   AB+2*       AB+2*
+Fron Jn to Newtown                     AB+2*       AB+2*
+Newtown to Talerddig                   AB+2*       AB+2*
+Talerddig to Machynlleth               AB+2*       AB+2*
+Machynlleth to Dovey Jn                3           3
+Dovey Jn to Borth                      AB+2*       AB+2*
+Borth to Aberystwyth                   AB+2*       AB+2*
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,61 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version: 4.1
+London North Eastern                 Revised Final Rules for                     Date: 12 October 2023
+                                Subsidiary Change Timetable 2024                 Page: 29 of 368
+
+
+LN206 NEWARK FLAT CROSSING (INCLUSIVE) TO WEST HOLMES JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Newark Flat Crossing             –          –                   To/from Newark Castle – LN3625. Refer to
+                                                                East Midlands Timetable Planning Rules
+Newark Crossing East Junction    –          –                   To/from Newark North Gate – LN210
+Collingham                       –          –          S
+Swinderby                        –          –          S
+Hykeham                          –          –          S
+Boultham Junction                –          –                   To/from Pyewipe Jn – LN215
+West Holmes Jn                   –          –                   To/from Lincoln – LN170
+
+
+LN210 NEWARK CROSSING CURVE LINE
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Newark Crossing South Jn                                        To/from Newark North Gate – LN101
+Newark Crossing East Jn                                         To/from Boultham – LN206
+
+
+LN215 BOULTHAM JUNCTION TO PYEWIPE JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Boultham Jn                      –          –                   To/from Newark Crossing East Junction –
+                                                                LN206
+Pyewipe Jn                       –          –          X        To/from Saxilby – LN170
+
+
+LN220 BESSACARR JUNCTION TO BLACK CARR JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Bessacarr Jn                     –          –                   To/from Gainsborough Trent Jn – LN170
+Black Carr Jn                    ESL        –                   To/from Doncaster – LN101
+
+
+LN235 ROSSINGTON COLLIERY BRANCH
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Rossington Colliery              –          –
+Rossington Colliery Jn           –          –          X        To/from Flyover West Jn – LN160
+
+
+LN600 SHAFTHOLME JUNCTION TO RESTON GSP
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Shaftholme Junction              –          –                   To/from Haywood Jn– LN889
+                                                                To/from Doncaster – LN101
+Joan Croft Junction              –          –          X        To/from Applehurst Jn – LN844
+Doncaster Signal D866                       –          S        For trains that reverse to propel into Heck
+                                                                Plasmor PS
+ Heck Plasmor PS                            –          S
+Temple Hirst Junction            –          –                   To/from Selby – LN910
+Hambleton South Junction         –          –          X        To/from Hambleton West Junction –
+                                                                LN904
+
+                                Electronic copy - uncontrolled when printed.

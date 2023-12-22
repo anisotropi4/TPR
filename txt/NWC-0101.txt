@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                      Page:    89 of 443
+
+
+NW6001 MANCHESTER PICCADILLY EAST JN TO EUXTON JN
+TIMING POINT                         DOWN       UP          CODE     NOTES
+
+Ordsall Lane Jn                          –           –               To/from Deal Street Jn – NW6005
+                                                                     To/from Eccles – NW2015
+Windsor Bridge South Jn                                              To/from Deal Street Jn – NW6005
+Salford Crescent                         –           –               Platform detail must be shown including
+                                                                     “SDG” and “UB”
+Windsor Bridge North Jn                                              To/from Walkden – NW6009
+Agecroft South Jn                        –                    F      To/from Brindle Heath Arrival and
+                                                                     Departure Line and Brindle Heath Up
+                                                                     Sidings
+Brindle Heath Arrival and                –           –        F      To/from Brindle Heath Waste Terminal and
+Departure Line                                                       Brindle Heath Eurofreight Terminal
+Brindle Heath Waste Terminal             –                    F
+Brindle Heath Up Sidings                             –        F
+Agecroft North Jn                                                    To/from Brindle Heath Arrival and
+                                                                     Departure Line
+Brindle Heath Eurofreight Terminal                   –        F
+Clifton                                 –            –        S
+Kearsley                                –            –        S
+Farnworth                               –            –        S
+Moses Gate                              –            –        S
+Burnden Jn                            DB P5          –
+Bolton East Jn
+Bolton                                   –       UB DB               Platform detail must be shown
+                                                  P5
+Bolton West Jn                                                       To/from Bromley Cross – NW6011
+Lostock Jn                               –           –               To/from Crow Nest Jn – NW6013
+Lostock                                  –           –        S
+Horwich Parkway                          –           –        S
+Blackrod                                 –           –        S
+Blackrod Jn
+Adlington (Lancashire)                   –           –        S
+Chorley                                  –           –
+Buckshaw Parkway Jn
+Buckshaw Parkway                         –           –        S      Turnback facility provided from Down
+                                                                     platform
+Euxton Jn                              FL SL         –               To/from Preston – NW1001
+
+
+NW6003 CASTLEFIELD JN TO ALLERTON JN
+TIMING POINT                         DOWN       UP          CODE     NOTES
+
+Castlefield Jn                           –           –               To/from Deansgate – NW6001
+Trafford Park East Jn                    –           –               Show REV in platform detail for trains
+                                                                     timed into/out of Trafford Park Reversing
+                                                                     Siding
+Manchester United Football               –           –               Timing point for trains to/from Trafford
+Ground Halt                                                          Park FLT or Euroterminal and for trains
+                                                                     stopping at the Football Ground Halt
+                                                                     To/from Trafford Park FLT
+                                                                     To/from Trafford Park Euroterminal
+Trafford Park West Jn                                                To/from Trafford Park Euroterminal
+Trafford Park FLT Gate                   –                    F      Timing point for trains to Trafford Park FLT
+
+
+
+                               Electronic copy - uncontrolled when printed

@@ -1,0 +1,65 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                          Version:    4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                 Date:     28/07/2023
+                                                                                                Page:     137 of 242
+
+Lenzie
+
+Connectional Allowance                            3
+
+
+Cadder
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Up arrive Cadder Up Loop or Cadder Down           Up Pass/Depart Bishopbriggs                        1
+Loop or West Departure Line
+Up Pass/Depart Lenzie                             Up depart Cadder Down Loop or Cadder Up            1
+                                                  Loop or East Departure Line
+Up Depart East Departure                          Down Pass Lenzie                                   3
+Down arrive Cadder Down Loop or East              Down Pass Lenzie                                   1½
+Departure Line
+Down arrive Cadder Down Loop or East              Down Depart Lenzie                                 Simultaneous
+Departure line
+Down pass/depart Bishopbriggs                     Down depart Cadder Down Loop or West               ½
+                                                  Departure
+Up arrive Cadder Down Loop or West                Down Pass/Depart Lenzie                            1
+Departure Line
+
+
+
+Cadder HST Depot
+
+Minimum time between arrivals and/or departures                  8
+
+West Departure line re-occupation (Up direction only)            8
+
+Planning Note – Departures
+An Operational Stop of 1 minute on the East or West Departure Line is required for all trains after departing
+Cadder HST Depot. This is to facilitate correct regulation by ARS.
+
+Planning Note – Arrivals
+An Operational Stop of 1 minute minimum on the East or West Departure Line is required for all trains before
+entering Cadder HST Depot. This is for depot acceptance purposes.
+
+
+
+Cowlairs East Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                        Reason                                             Value
+Up trains towards Bishopbriggs from Cowlairs       Acceleration (to be applied between Cowlairs       ½ LH
+North Junction                                     East Junction and Bishopbriggs)
+
+Movement Down                                      Reason                                             Value
+Down trains diverging at Cowlairs East             Approach Control (to be applied approaching        1 LH
+Junction towards Cowlairs North Junction           Cowlairs East Junction)
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+Pass to Cowlairs North Junction                    Up EMU pass from Glasgow Queen Street              2
+
+
+
+                                    Electronic copy - uncontrolled when printed.

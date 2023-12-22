@@ -1,0 +1,57 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024             Date:    28th July 2023
+West and Central
+                                                                                          Page:    284 of 443
+
+Liverpool South Parkway
+
+All non-stop trains towards Garston Jn crossing   Approach control and slow speed junction            1½
+to the Up Slow via platform 4
+
+Connectional Allowance               7
+
+Dwell Time                           1 Class 350
+                                     1½ Class 80x for pick up or set down only
+
+
+Former Edge Hill SB
+
+Junction Margins
+First Movement                                  Second Movement                                Margin
+Passenger train passes from Down Chat Moss      Passenger train passes from Liverpool Lime     5
+to Down Fast                                    Street on Up Main
+Passenger train passes from Lime Street on Up Passenger train passes from Down Chat Moss       3
+Main                                            to Down Fast
+Passenger train passes on Up/Down               Freight passes from Wapping Sidings            3
+Passenger train passes on Up/Down               Freight passes to Wapping Sidings              3
+Freight passes from Wapping Sidings             Passenger train passes on Up/Down              5*
+Freight passes to Wapping Sidings               Passenger train passes on Up/Down              5*
+Freight passes from Wapping Sidings             Freight passes to Wapping Sidings              5
+* Where the second movement is a Down passenger train with a minimum of 1 minute pathing time approaching
+Former Edge Hill SB., the Junction Margin may be reduced to 4 minutes.
+
+
+Edge Hill
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Pass on Up Fast                                   Pass on Down Slow from Edge Hill Depot              4
+Arrive Edge Hill on Down Fast                     Pass on Down Slow from Edge Hill Depot              4
+Depart/pass Edge Hill on Down Slow                Pass on Down Slow from Edge Hill Depot              5
+Depart/pass Edge Hill on Down Fast                Pass on Down Fast from Edge Hill Depot              5
+
+
+Edge Hill Wapping Sidings
+
+Junction Margins
+First Movement                                      Second Movement                                   Margin
+First train arrives in sidings                      Second train arrives in sidings                   15 *
+First train departs from sidings                    Second train departs from sidings                 20 *
+* To allow sufficient time for locomotive to perform run-round movement.
+
+Run-round Allowance (DOO)            30 minutes for DB Cargo trains
+
+
+
+
+                              Electronic copy - uncontrolled when printed

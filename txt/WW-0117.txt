@@ -1,0 +1,68 @@
+                                                       OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                     Version:    4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                    Date:     6th October 2023
+                                           Change Timetable 2024                           Page:     114 of 289
+
+
+EMU - 8 car (from Paddington)                                5^
+EMU - 4 car (from Paddington)                                4
+* units up to 3-cars may be reduced to 3 minutes, if not sequential
+^ may be reduced to 4, if a relief driver is diagrammed
+
+Junction Margins
+First Movement                                       Second Movement                                    Margin
+Up Depart Platform 4 or 5                            Down Arrive Platform 4 or 5 from Southall          4
+Up Depart Platform 4 or 5                            Down depart Up Goods Loop                          2
+Up Pass Airport Jn on RL (not stopping Hayes         Down depart Up Goods Loop                          2
+and Harlington)
+Up non-stopping EMU passes Heathrow Airport          Down ML non-stopping EMU passes Heathrow           4
+Jn or up stopping EMU departs Hayes and              Airport Jn or down stopping service arrives
+Harlington via Hayes East ML crossover               Hayes and Harlington
+Up non-stopping EMU passes Heathrow Airport          Down ML non -stopping service passes               3½
+Jn or up stopping EMU departs Hayes and              Heathrow Airport Jn towards Slough
+Harlington via Hayes East ML crossover
+Down train arrive platform 5                         Up stopping train arrive platform 4                2½
+Down train arrive platform 5                         Up non-stop train on RL pass Heathrow Airport      2
+                                                     Jn
+Up freight to Hayes Tarmac Terminal                  Up stopping train arrive platform 4                5½
+pass/depart platform 4
+Up freight to Hayes Tarmac Terminal                  Up non-stop train on RL pass Heathrow Airport      5
+pass/depart platform 4                               Jn
+Up train to Hayes Goods Loop pass/depart             Up stopping train arrive platform 4                4
+platform 4
+Up train to Hayes Goods Loop pass/depart             Up non-stop train on RL pass Heathrow Airport      3½
+platform 4                                           Jn
+Down train from Hayes Goods Loop or Hayes            Up stopping train arrive Platform 4                4
+Tarmac Terminal pass/depart
+Down train from Hayes Goods Loop or Hayes            Up non-stop train on RL pass Heathrow Airport      3½
+Tarmac Terminal pass/depart                          Jn
+
+Planning Note
+Hayes Tarmac Sidings can accommodate only one train at a time.
+See junction margin at Heathrow Airport Jn when train is being followed by a freight towards Hayes Goods Loop or
+Tarmac Sidings
+
+Heathrow Airport Junction
+
+Adjustment to Sectional Running Times
+Movement                              Reason                              Timing Load                   Value
+A down train from Southall towards    Not crossing Heathrow               387/110                       +{½}
+Heathrow Airport (Down Main only)     Airport Jn at linespeed
+Up Trains crossing from RL to ML at   Acceleration                        80x 9/10 car                  1
+Stockley Jn that do not call at Hayes                                                                   approachin
+and Harlington                                                                                          g next
+                                                                                                        timing point
+Up Trains crossing from RL to ML at         Acceleration                  16x / 387 / 769 / 80x 5 car   ½
+Stockley Jn that do not call at Hayes                                                                   approachin
+and Harlington                                                            75-57210/75-57280/75-         g next
+                                                                          57350                         timing point
+Up train from Heathrow Airport Jn           Acceleration                  387/110                       ½
+having come from Heathrow Airport (Up                                                                   approachin
+Main only)                                                                                              g next
+                                                                                                        timing point
+These adjustments are not required:
+
+
+                                        Electronic copy - uncontrolled when printed.

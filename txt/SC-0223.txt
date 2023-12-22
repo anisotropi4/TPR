@@ -1,0 +1,63 @@
+                                               OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules               Version:   4
+Scotland                    Final Rules for Subsidiary Change Timetable 2024      Date:    28/07/2023
+                                                                                  Page:    218 of 242
+
+SC059 GLASGOW CENTRAL to STRANRAER
+LOCATION                 DIRECTION          USABLE LENGTH          NOTES
+                                            METRES SLU
+Paisley DGL              Down               650      102
+Elderslie UPL            Up                 896      139
+Glengarnock UGL          Up                 260      41
+Brownhill UPL            Up                 695      109
+Brownhill DPL            Down               695      109
+Kilwinning UGL           Up                 398      62
+Barassie DPL             Down               359      56
+Barassie UGL             Up                 410      64
+Falkland DGL             Down               353      55
+Maybole (CL)             Crossing Point     340      52
+Girvan (CL)              Crossing Point     370      58
+Barrhill SB (CL)         Crossing Point     385      60
+Glenwhilly (CL)          Crossing Point     310      49
+Dunragit (CL)            Crossing Point     500      78
+
+SC061 SHIELDS JN TO PAISLEY CANAL
+LOCATION                DIRECTION          USABLE LENGTH          NOTES
+                                           METRES SLU
+Crookston Loops         Up                 347      54
+                        Down               329      51
+
+SC067 WEMYSS BAY JN TO WEMYSS BAY
+LOCATION                DIRECTION          USABLE LENGTH          NOTES
+                                           METRES SLU
+Dunrod LC (CL)          Crossing Point     230      36
+
+SC073 KILWINNING JN TO LARGS
+LOCATION                DIRECTION          USABLE LENGTH          NOTES
+                                           METRES SLU
+Stevenson DGL           Down               301      47
+
+SC093 MOTHERWELL TO GREENHILL LOWER JN
+LOCATION                 DIRECTION         USABLE LENGTH           NOTES
+                                           METRES SLU
+Braidhurst UGL           Up                550      86
+Braidhurst DGL           Down              430      67
+Mossend DGL              Down              535      84
+Whifflet DGL             Down              490      76
+Whifflet UGL             Up                490      76
+Coatbridge DGL           Down              439      68
+Greenfoot DGL            Down              650      101
+
+SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH)
+LOCATION                DIRECTION          USABLE LENGTH          NOTES
+                                           METRES SLU
+Edinburgh Middle Road                      93       14            Platform 16
+Haymarket NGL           Up/Down            113      17
+Newbridge DPL           Down               374      58
+Linlithgow UPL          Up                 415      64
+Bo’ness DPL             Down               295      46
+Polmont UPL (South)     Up EGM             600      85
+Greenhill Upper DGL     Down               440      69
+
+                                Electronic copy - uncontrolled when printed.

@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                  Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                   Page:      36 of 163
+
+SO610 APPLEDORE TO LYDD TOWN
+TIMING POINT                       DOWN         UP          CODE       NOTES
+
+Appledore                          (Single)     -                      To/from Ham Street – Refer to SO600
+Lydd Town                          (Single)     (Single)
+Dungeness CEGB                                  (Single)    S
+
+
+SO620 BRIGHTON TO SEAFORD
+TIMING POINT                       DOWN         UP          CODE       NOTES
+
+Brighton                           -                                   Platform detail must be shown.
+                                                                       To/from Preston Park – SO500
+                                                                       To/from Hove - SO630
+
+Montpelier Junction                                                    For planning purposes this timing point is
+                                                                       shown as Brighton
+London Road                        -            -           S
+Moulsecoomb                        -            -           S
+Falmer                             -            -
+Lewes                              -            -                      Platform detail must be shown.
+                                                                       To/from Cooksbridge - SO590
+Southerham Junction                -            -                      To/from Glynde - SO590
+Southease Signal TLW17             -                                   Use TIPLOC SESA17
+                                                                       Timing point for all Down direction services
+Southease                          -            -           S
+Southease Signal TLW20                          -                      Use TIPLOC SESA20
+                                                                       Timing point for all Up direction services
+Newhaven Town Yard Junction        -            -           X          Timing point for trains to/from Newhaven
+                                                                       Town Yard
+                                                                       USE TIPLOC NEWHVTJ
+Newhaven Town Yard                 -            -           S
+Newhaven Town                      -            -
+Newhaven Harbour                   -            -
+Newhaven Harbour Junction          -            -                      To/from Newhaven Marine - SO620A
+                                                                       For planning purposes this timing point is
+                                                                       shown as Newhaven Harbour
+Bishopstone                        -            -           S
+Seaford                                         -
+
+
+SO620A NEWHAVEN HARBOUR TO NEWHAVEN MARINE (OLD STATION)
+TIMING POINT                       DOWN         UP          CODE       NOTES
+
+Newhaven Harbour Junction          -            -                      To/from Newhaven Town - SO620
+                                                                       For planning purposes this timing point is
+                                                                       shown as Newhaven Harbour
+Newhaven Marine (Old Station)      -            -
+Newhaven Marine Sidings                         -           S          TIPLOC NEWHVMG (GBRF)
+                                                                       TIPLOC NEWHVMD (DBC)
+                                                                       TIPLOC NEWHVMS
+
+
+
+
+                              Electronic copy - uncontrolled when printed

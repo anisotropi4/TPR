@@ -1,0 +1,55 @@
+ NETWORK RAIL                             Timetable Planning Rules                        Version: 4.1
+ London North Eastern                       Revised Final Rules for                         Date: 12 October 2023
+                                       Subsidiary Change Timetable 2024                     Page: 80 of 368
+
+
+
+4 Rolling Stock Restrictions
+
+4.1 Locomotive Route Availability
+See the applicable Route Clearance table for the given location in Sectional Appendix to the Working Timetables,
+issued by Network Rail. Refer to Table A and select Route Clearance.
+
+4.2 Passenger Stock Restrictions
+See the applicable Route Clearance table for the given location in Sectional Appendix to the Working Timetables,
+issued by Network Rail. Refer to Table A and select Route Clearance.
+
+4.3 Freight Wagon Restrictions
+See the applicable Route Clearance table for the given location in Sectional Appendix to the Working Timetables,
+issued by Network Rail. The Route Availability for a given location is in the ‘Signalling and Remarks’ column of Table
+A. Route Clearance Table D5 Route clearance of freight vehicles gives further guidance on freight wagon
+restrictions.
+
+Trains conveying vehicles that have a heavy axle weight or other exceptional characteristics, or vehicles conveying
+containers or swap bodies require an RT3973 form.
+
+Note: The Rule Book GERT8000 Section TW4 of defines a container as an intermodal transport unit constructed to a
+standard (usually specified by the ISO) suitable for conveyance by road, rail or sea.
+
+Note: The Sectional Appendix does not cover the CTRL HS1. The CTRL has its own Working Manual.
+
+4.4 Freight Train Load Limits
+Trailing load limits for all traction types are contained in the Freight Loads Book published by Network Rail.
+
+Note: It is important to understand the weight limitations that apply to trains especially over sections of heavily graded
+routes. Coupling strength information is also contained in the Freight Loads Book. Coupling strength is important in
+determining the trailing loads that trains can convey.
+
+
+4.5 Freight Train Length Limits
+Refer to the Freight Train Loads Book published by Network Rail for the length limits of freight trains.
+
+Note: The Sectional Appendix quotes loop lengths in metres and feet. All lengths are exclusive of an allowance of
+one locomotive.
+
+4.6 Engineers’ Trains Restrictions
+Some On Track Machines (OTMs) do not reliably activate track circuits. These OTMs must use one of the following
+special reporting numbers 6Z09, 7Z09 or 8Z09*. Because these OTMs do not reliably activate track circuits it is not
+possible to apply the headways and junction margins as outlined in Timetable Planning Rules consistently and it is
+therefore not possible for Operational Planning to provide timings for these movements.
+* Source GE/RT 8000–OTM
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

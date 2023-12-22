@@ -1,0 +1,56 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024       Date:    28/07/2023
+                                                                                       Page:    231 of 242
+
+SC149 NORTH BERWICK TO DREM JUNCTION
+Timing Section                         Type    LH      MU#      FRT   Remarks
+                                               HST
+                                               22X
+
+# North Berwick EMU services have 5% allowance built in
+Down – Weekdays
+
+Up – Weekdays
+# See note regarding EMUs at the beginning of Section 5.5
+
+
+SC151 PORTOBELLO TO LEITH SOUTH YARD (GOODS LINE)
+Timing Section                         Type    LH      MU       FRT
+                                               HST
+                                               22X
+
+Down – Weekdays
+Portobello Junction – Leith South      E                         1
+Up – Weekdays
+Leith South – Portobello Junction      E                         1
+
+
+SC155 MONKTONHALL JUNCTION TO MILLERHILL YARD
+Timing Section                         Type    LH      MU       FRT
+                                               HST
+                                               22X
+
+Down – Weekdays
+Monktonhall Junction – Millerhill      E                         2
+SS
+Up – Weekdays
+Millerhill SS – Monktonhall            E                         2
+Junction
+
+
+SC161 MILLERHILL YARD TO PORTOBELLO JUNCTION (MILLERHILL LINE)
+Timing Section                         Type    LH      MU       FRT
+                                               HST
+                                               22X
+
+Down – Weekdays
+Millerhill SS – Portobello Junction    E                         1
+Up – Weekdays
+Portobello Junction – Millerhill SS    E                         1
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

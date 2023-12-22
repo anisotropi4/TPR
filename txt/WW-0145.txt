@@ -1,0 +1,67 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                  Date:    6th October 2023
+                                          Change Timetable 2024                         Page:    142 of 289
+
+
+Dwell Time
+Class 15x                            1
+Class 22x / Class 80x London         1½
+Services
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                 Reason                  Timing Load        Value
+Passing to Tiverton Down Loop            Approach control and    All traffic        {½}
+                                         deceleration
+
+Tiverton Up Loop
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                 Reason                  Timing Load        Value
+Crossing into the Up Loop                Slow turnout speed into All traffic        {1}
+                                         the loop (25 mph)
+
+Cowley Bridge Jn
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                 Reason                  Timing Load        Value
+From Tiverton Parkway passing to the     Approach control and    All traffic        {1½}
+Down and Up Goods/Riverside Yard         deceleration
+Approaching Cowley Bridge Jn towards     Slow speed turnout      158                {1}
+Crediton
+
+Planning Note
+150 SRTs are based on running to/from Crediton therefore no adjustment is required.
+
+Junction Margins (Southbound trains)
+First Movement                Second Movement                        Margin           Notes
+A down train from Tiverton    A train from Crediton direction        3                Headway must be compliant
+Parkway direction passes      passes Cowley Bridge Jn to the                          at next mandatory TIPLOC
+Cowley Bridge Jn on the Down Down Main towards Exeter St
+Main Toward Exeter St David’s David’s
+Train towards Crediton        Train towards Taunton                  3
+
+Exeter St Davids
+
+Adjustments to Sectional Running Times
+Movement                                       Reason                      Timing Load         Value
+Arrive/pass Platform 1, 3, 4 or 6 from         Slow speed crossover        DMU/HSTGW4          {½}
+Dawlish Warren
+                                                                           HST/80x/22x
+
+                                                                                               {1}
+Arrive/pass Platform 2, 3, 5 or 6 from         Slow speed crossover        DMU/HSTGW4          {½}
+Cowley Bridge Jn
+                                                                           HST/80x/22x
+
+                                                                                               {1}
+Depart/pass Platform 1, 2, 3, 4 or 6 to        Slow speed crossover        22x                 {½} approaching
+Cowley Bridge Jn                                                                               next timing point
+Approaching Exeter St David’s from             Slow speed turnout          158                 {1}
+Crediton
+
+Overlap Restrictions
+First Movement                               Second Movement                          Margin
+
+
+                                     Electronic copy - uncontrolled when printed.

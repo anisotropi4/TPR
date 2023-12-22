@@ -1,0 +1,58 @@
+NETWORK RAIL                             Timetable Planning Rules                         Version: 4.1
+London North Eastern                       Revised Final Rules for                          Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                      Page: 13 of 368
+
+
+ Great Northern / Thameslink Services
+
+ TID              Class 5 services to Hornsey EMUD
+ 5E00-09          Spare / Non-GTR services
+ 5E10 39          GTR South-End arrivals except from Moorgate
+ 5E40-49          GTR South End arrivals from Moorgate
+ 5E50-69          GTR North-End arrivals from London via Bowes Park Reversing Siding
+ 5E70-79          GTR North-End arrivals from or via Welwyn Garden City
+ 5E80-89          GTR North-End arrivals from or via Hertford North / Gordon Hill
+ 5E90-99          Test trains and extraordinary services
+
+ TID              Class 9 services (WTT)
+ 9Jxx             Peterborough and Horsham via London Bridge and Redhill
+ 9Sxx             Cambridge and Gatwick Airport / Three Bridges / Brighton via London Bridge and Quarry
+                  Lines
+ 9W90-99          Peterborough and Horsham via Hertford Loop, Streatham and Redhill
+ 9Yxx             Welwyn Garden City / Blackfriars and Sevenoaks via Catford and Swanley
+
+ The fifth headcode character must match one of the following based on where the train terminates:
+ – B – Kent and Sussex
+ – C – Wessex
+ – D – Great Western
+ – E – Central & West Coast South and East Midlands
+ – F – North West
+ – G – LNE
+ – H – Anglia
+ – L – Scotland
+ The sixth headcode character is the next sequential alpha available / freeform
+
+
+1.3.2 Days of Operation
+The following abbreviations are used to identify the day or days that a train operates.
+ Abbreviation      Description
+ M                 Monday
+ T                 Tuesday
+ W                 Wednesday
+ Th                Thursday
+ F                 Friday
+ S                 Saturday
+ Su                Sunday
+ EWD               Every Week Day (Monday to Saturday)
+ Daily             Every day, systems will not accept this; there must be a separate entry for Sundays
+ Suffixes
+ O                 Adding this indicates that the train will run only on that day or those days shown
+ X                 Adding this indicates that the train will not run on that day or those days shown
+
+ General
+ BHX               Denotes that this train does not run on a bank holiday
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,52 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:      4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:       28th July 2023
+West and Central
+                                                                                        Page:      343 of 443
+
+Rochdale
+
+Junction Margins
+First Movement                                 Second Movement                              Margin
+Arrive or Depart Platform 2                    Down Arrive Platform 1                       2
+Up Pass Platform 3                             Depart Platform 4                            3
+Depart Platform 4                              Arrive Platform 4                            4
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below:
+Platform 1                                   Prohibited
+Platform 2                                   Attaching and Detaching only £
+Platform 3                                   Prohibited
+Platform 4                                   Attaching and Detaching only
+£ Attaching is only permitted where second movement is signalled from the Rochdale Turnback
+
+
+Todmorden
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                             Value
+Pass Todmorden from Stansfield Hall Jn             Acceleration from Todmorden West Curve             1*
+Pass Todmorden to Stansfield Hall Jn               Approach Control                                   1½
+Stop at Todmorden, then routed to Stansfield       Approach Control                                   1
+Hall Jn
+* Insert value at Littleborough.
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+Down train passes Todmorden towards Hall           Up train passes or arrives at Todmorden from       2½
+Royd Jn                                            Stansfield Hall Jn
+Up train passes or arrives at Todmorden from       Down train towards Hall Royd Jn or Stansfield      3
+Stansfield Hall Jn                                 Hall Jn arrives at Todmorden
+Up train passes or arrives at Todmorden from       Down train passes Todmorden towards                3
+Stansfield Hall Jn                                 Stansfield Hall Jn
+
+
+Hall Royd Jn
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                              Value
+Up trains routed towards Stansfield Hall Jn       Approach Control                                    ½
+
+
+
+
+                              Electronic copy - uncontrolled when printed

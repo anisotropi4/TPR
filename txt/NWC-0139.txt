@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:     28th July 2023
+West and Central
+                                                                                        Page:    127 of 443
+
+
+
+MD435 SMALL HEATH SOUTH TO STOURBRIDGE NORTH JN
+TIMING POINT                         DOWN          UP       NOTES
+
+Small Heath South Jn to              3             3
+Birmingham Snow Hill
+Birmingham Snow Hill to              4             4
+Stourbridge Junction
+
+
+MD440 GALTON JN TO SMETHWICK JN
+TIMING POINT                         DOWN          UP       NOTES
+
+Galton Jn to Smethwick Jn            5             5
+
+
+MD445 STOURBRIDGE JUNCTION TO STOURBRIDGE TOWN
+TIMING POINT                         DOWN          UP       NOTES
+
+Stourbridge Junction to                        *            * Single line - One Train in Section (OTS)
+Stourbridge Town
+
+
+MD450 STOURBRIDGE NORTH JN TO ROUND OAK
+TIMING POINT                         DOWN          UP       NOTES
+Stourbridge North Jn to                OTS           OTS    One train in section
+Kingswinsford
+
+
+MD455 KINGSWINFORD JN SOUTH TO PENSNETT (OUT OF USE)
+TIMING POINT                         DOWN          UP       NOTES
+
+Kingswinford Jn South to Pensnett              *            * Single Line - One Train in Section (OTS)
+
+
+MD460 FENNY COMPTON TO BURTON DASSETT (KINETON MOD)
+TIMING POINT                         DOWN          UP       NOTES
+
+Kineton Jn to Kineton Sidings                  *            * TCB planned as AB+2
+Kineton Sidings to Kineton MOD                 *            * Single line - one train in section (OTS). See
+                                                            section 5.3 regarding successive trains
+
+
+MD501 TAMWORTH (INCLUSIVE) TO BIRMINGHAM PROOF HOUSE JN
+TIMING POINT                         DOWN          UP       NOTES
+
+Tamworth to Kingsbury Jn             4             4
+(exclusive)
+Kingsbury Jn (inclusive) to Landor   3*            3*       *4 minutes if following Class 6, 7 or 8
+Street Jn (exclusive)
+Landor Street Jn (inclusive) to      3             3
+Proof House Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

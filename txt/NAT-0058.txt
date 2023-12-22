@@ -1,0 +1,41 @@
+                                                               OFFICIAL
+
+
+Network Rail                                                                          Version 4.0
+National                                                                      Date: 28th July 2023
+                                               Final Proposal for Subsidiary Change 2024
+                                    Page 57 of 114
+FSX        6V14DV   22:33   Cliffe Hill Stud Farm GBRF                 04:24         Westbury Up T.C               Y   Colas
+FO         6V14DV   22:33   Cliffe Hill Stud Farm GBRF                 04:12         Westbury Up T.C               Y   Colas
+MSX        6V25DA   04:45   Bescot Up Engineers Sidings                07:17         Hinksey Sidings               Y   Colas
+SO         6V25DA   04:27   Bescot Up Engineers Sidings                06:53         Hinksey Sidings                   Colas
+SX         6V27DP   13:27   Eastleigh East Yard                        15:33         Hinksey Sidings               Y   Colas
+SX         6V31DP   20:13   Eastleigh East Yard                        21:51         Westbury Down T.C             Y   Colas
+SX         6V31DY   20:13   Eastleigh East Yard                        21:51         Westbury Down T.C             Y   GBRf
+SX         6V41DC   15:54   Eastleigh East Yard                        17:44         Westbury Down T.C                 GBRf
+FSX        6V46DA   18:59   Bescot Up Engineers Sidings                02:40         Hinskey Sidings               Y   Colas
+TTho       6C46DT   18:59   Bescot Up Engineers Sidings                02:46         Hinskey Sidings                   Colas
+SX         6X01CA   10:18   Scunthorpe Trent T.C.                      19:31         Eastleigh East Yard               GBRf
+MFO        6X49EA   05:43   Toton North Yard                           06:24         Beeston Sidings                   GBRf
+TWTHO      6X49EA   06:13   Toton North Yard                           06:47         Beeston Sidings                   GBRf
+FSX        6X50EA   07:59   Westbury Down T.C                          16:04         Bescot Up Engineers Sidings   Y   Colas
+MFO        6X55EA   13:49   Beeston Sidings                            14:25         Toton North Yard                  GBRf
+TWTHO      6X55EB   14:49   Beeston Sidings                            15:52         Toton North Yard                  GBRf
+SX         6Y36BA   11:21   Grain Foster Yeoman GBRF                   14:45         Sevington Sidings             Y   GBRf
+SX         6Y37BA   18:05   Sevington Sidings                          21:15         Hoo Junction Up Yard              GBRf
+SX         6Y42CV   14:14   Hoo Junction Up Yard                       17:52         Eastleigh East Yard           Y   GBRf
+SX         6Y48BV   08:59   Eastleigh East Yard                        12:40         Hoo Junction Up Yard          Y   GBRf
+SO         7D99EA   08:09   Bescot Up Engineers Sidings                11:12         Toton North Yard              Y   GBRf
+ThSX       7E20GA   13:02   Toton North Yard                           15:55         Doncaster Up Decoy                GBRf
+Tho        7E20GA   13:02   Toton North Yard                           15:55         Doncaster Up Decoy                GBRf
+SO         7K98FV   07:44   Bescot Up Engineers SDGS                   09:06         Crewe Basford Hall S.S.M.     Y   GBRf
+SX         7T83BA   15:53   Grain Foster Yeoman GBRF                   17:02         Hoo Junction Up Yard          Y   GBRf
+MO         7Y27BA   18:41   Hoo Junction Up Yard                       19:41         Hither Green P.A.D                DB Cargo
+THO        7Y27BA   18:41   Hoo Junction Up Yard                       19:41         Hither Green P.A.D                DB Cargo
+MO         7Y29BA   20:17   Hither Green P.A.D                         22:21         Hoo Junction Up Yard              DB Cargo
+THO        7Y29BA   20:17   Hither Green P.A.D                         22:21         Hoo Junction Up Yard              DB Cargo
+SX         7Y44CV   04:21   Hoo Junction Up Yard                       07:47         Eastleigh Easy Yard           Y   GBRf
+SO         7G98EV   13:52   Crewe Basford Hall SSM                     15:14         Bescot Up Engineers Sidings   Y   GBRf
+SO         7G99ET   14:12   Toton North Yard                           16:30         Bescot Up Engineers Sidings   Y   GBRf
+SO         7K98FV   07:44   Bescot Up Engineers Sidings                09:06         Crewe Basford Hall SSM        Y   GBRf
+                                           Electronic copy – uncontrolled when printed

@@ -1,0 +1,54 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                       Version:    4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024              Date:     28/07/2023
+                                                                                            Page:     177 of 242
+
+Thornton South Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Down train towards Glenrothes, Thornton North   Approach Control                                 1
+DPL or Leven
+
+Junction Margins
+First Move                                      Second Move                                      Value
+Up passenger pass from Markinch / Ladybank      Up pass from Glenrothes with Thornton            3
+
+Planning Note
+Pathing time must not be applied between Thornton South and North Junctions in the down direction due to there
+being no intermediate signals.
+
+
+Thornton North Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Down train from Thornton South Junction         Slow speed crossover                             1
+towards Thornton DPL or Leven
+XC & LNER trains routed towards Ladybank        Acceleration purposes                            1*
+from SC173
+Down train towards Ladybank from Thornton       Acceleration                                     1*
+North signal ET567
+
+Movement Up                                     Reason                                           Value
+Up trains routed towards Glenrothes non stop    Approach Control                                 2
+at Markinch
+Up trains routed towards Glenrothes stopping    Approach Control                                 1
+at Markinch
+Up train from Leven towards Kirkcaldy           Acceleration                                     ½*
+*Approaching next timing point
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Pass on Down Main                               Pass to Down Main from Glenrothes with           4
+                                                Thornton
+Pass from Down Main to Leven                    Pass on Up Main                                  3½
+Pass from Glenrothes with Thornton to Leven     Pass on Up or Down Main                          3½
+(and vice versa)
+Pass on Up Main from Markinch                   Pass from Leven to Kirkcaldy                     4
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

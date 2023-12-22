@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+Kent & HS1                                                  OFFICIAL
+                                    Final Proposal for Subsidiary                             25th August 2023
+                                                                                    Date:
+                                          Timetable 2024                            Page:      107 of 168
+
+
+Sevenoaks
+
+Trains timed to run between platform 4 at Sevenoaks and Sevenoaks Down Sidings should include Gussett Siding
+with an OP stop.
+Trains timed to run between platform 3 at Sevenoaks and Sevenoaks Down Sidings should not include Gussett
+Siding.
+
+Permissive Working for attaching/detaching and platform sharing is authorised as shown below:
+Platform 1                            Up Main                        Attaching/Detaching in Up direction ONLY
+Platform 2                            Up Loop                        Attaching/Detaching in Both directions
+Platform 3                            Down Main                      Attaching/Detaching in Both directions
+Platform 4                            Down Loop                      Attaching/Detaching in Both directions
+                                                                     Subject to Sectional Appendix conditions
+
+
+
+ Tonbridge
+
+ Adjustments to Sectional Running Times
+ Movement Down                                             Reason                     Value
+ Arrive Platform 4 from Sevenoaks                          Approach Control           1
+ Pass from Sevenoaks to Somerhill Tunnel                   Approach Control           ½
+ Pass/arrive platform 1 or 2 from Sevenoaks                Slow Speed Crossovers      ½
+ Pass from Edenbridge towards Paddock Wood                 Acceleration               ½* Class 4 800T or less
+                                                                                      1* Class 4 1000T or
+                                                                                      greater
+ *Applied approaching next timing point. Does not apply to trains routed to Down Goods Loop
+
+ Movement Up                                               Reason                      Value
+ Pass from Paddock Wood via Up Fast to Edenbridge          Approach Control            1
+ or Tonbridge West Yard
+ Arrive/Pass platform 1 or 2 from Paddock Wood via         Approach Control            ½
+ Up Fast
+ Arrive/Pass platform 1 from Paddock Wood via Up           Approach Control            ½
+ Loop
+ Pass from Somerhill Tunnel to Sevenoaks                   Acceleration                ½* Class 6 400T or less
+                                                                                       1* Class 6 600T
+                                                                                       1½* Class 6 800T-1200T
+                                                                                       2* Class 6 1400T-1600T
+                                                                                       3* Class 6 1800T-2000T
+                                                                                       3½* Class 6 2200T
+                                                                                       4* Class 6 2400T or
+                                                                                       greater
+ *Applied approaching next timing point
+
+ Propelling Movements                                      Reason                      Value
+ Propelling movements from Tonbridge towards               Slow speed movement         5
+ Tonbridge West Yard                                       when propelling.
+ Propelling movements from Tonbridge West Yard             Slow speed movement         2½
+ towards Tonbridge                                         when propelling.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

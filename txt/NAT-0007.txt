@@ -1,0 +1,54 @@
+                                                         OFFICIAL
+
+
+Network Rail                                                                                            Version 4.0
+National                                                                                        Date: 28th July 2023
+                                      Final Proposal for Subsidiary Change 2024
+                                                     Page 6 of 114
+ 1.4.4       To take account of factors such as permissive moves, slow speed junctions, crossovers and
+             platform sharing, additional time in the form of adjustment allowance should be added to schedules
+             and listed in Section 5.3 of the TPR. If this additional allowance applies to all trains using the SRT,
+             this allowance should be included in the SRT.
+
+ 1.4.5       It is permissible to include percentage uplift in SRTs instead of applying engineering recovery
+             allowances to be agreed by all affected parties.
+
+ 1.4.6       SRTs are split by type into 4 different timing links:
+
+         •     Stop to Pass – wheels start at first timing point to front of train passing the second timing point
+         •     Pass to Pass – front of train passing the first timing point and passing the second timing point
+         •     Pass to Stop – the front of train passing first timing point to wheels stop at second timing point
+         •     Stop to Stop – wheels start at first timing point to wheels stop at second timing point
+
+ 1.4.7       When technical values range between 1 and 14 seconds, values should be rounded to the full
+             minute below and when technical values range between 31 and 44 seconds, values should be
+             rounded to the half minute below. For instance, a technical value of 1 minute 14 seconds becomes
+             1 minute, whereas a technical value of 1 minute 31 seconds becomes 1 minute 30 seconds.
+
+ 1.4.8       When technical values range between 15 and 29 seconds values should be rounded to the next half
+             minute above and when technical values range between 45 and 59 seconds, values should be
+             rounded to the next full minute above. For instance, a technical value of 1 minute 29 seconds
+             becomes 1 minute 30 seconds, whereas a technical value of 1 minute 45 seconds becomes 2
+             minutes.
+
+ 1.4.9       If the technical value falls exactly on the 0 or 30 second mark no rounding will be added. For
+             instance, a technical value of 2 minutes or 2 minutes 30 seconds will be translated to an SRT with
+             no rounding up or down.
+
+ 1.4.10 Consideration needs to be given to the criticality of the timing points in question and to operational
+        characteristics, as well as the ‘real world’ implications, that may mean occasions when 1.4.7 -1.4.9
+        are over-ridden.
+
+ 1.4.11 Cumulative rounding will apply over sections of combined SRTs based on the principles outlined
+        above. The table below provides an example of rounding:
+
+
+
+
+ 1.4.12 SRTs should not be so generous that trains run and arrive early, having an adverse impact on
+        performance, safety and capacity.
+
+ 1.4.13 SRTs should allow for reasonable variations in operational performance. SRT calculations based on
+        observed data should not be standardised on neither the lowest nor the highest observed value as
+        this will artificially produce a lower or higher value than is realised in normal day to day operation.
+                                   Electronic copy – uncontrolled when printed

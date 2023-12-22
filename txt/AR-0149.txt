@@ -1,0 +1,72 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                         Version:    4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                     12th September
+                                                                                         Date:
+                                                2024                                              2023
+                                                                                         Page:    146 of 183
+
+
+
+Darsham
+
+Dwell Time                                         For ECS/Freight/Network Services trains             ½
+                                                   travelling on either line in Up direction to show
+                                                   an OP stop or Suppression of traffic stop
+                                                   indicator dwell time activity in schedule
+
+
+
+Halesworth
+
+Dwell Time                                                                                             1
+
+Junction Margins
+First Movement                                     Second Movement                                      Margin
+Arrive from Beccles (Single Line)                  Depart to Beccles (Single Line)                      1
+
+
+Beccles
+
+Dwell Time                                                                                             1
+
+                                                   First train arrives at xx and departs xx +03½.
+Single Line crossing
+                                                   Second train arrives xx +02½ and departs xx +03½
+
+
+EA1440 WESTERFIELD JUNCTION TO FELIXSTOWE TOWN
+
+Derby Road
+
+Platforming Principles
+Where possible Down services should use platform 2 and Up services should use platform 1.
+
+Single Line Crossing                              First train arrives at xx and departs xx +03
+                                                  Second train arrives at xx +02 and departs xx +02½
+
+                                                  First train arrives at xx and departs xx +04
+                                                  Second train passes at xx +02
+
+
+Gun Lane Junction
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                              Value
+Train to TL line                                   Approach control                                    {½}
+Train passing from TL line                         Line speed differential                             {½} after Gun
+                                                                                                       Lane
+                                                                                                       Junction
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Passenger train passes to Trimley                  Freight train passes to Derby Road from TL          5
+Passenger train passes to Trimley                  Freight train departs to Derby Road from TL         1½
+Freight train passes to Trimley via FS             Freight train passes to Derby Road from TL          5½
+Freight train passes to Trimley via FS             Freight train departs to Derby Road from TL         2
+Freight train passes to Trimley via TL             Passenger train passes to Derby Road                2
+
+
+
+                                    Electronic copy - uncontrolled when printed.

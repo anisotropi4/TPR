@@ -1,0 +1,61 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                        Version:    4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                    12th September
+                                                                                        Date:
+                                               2024                                             2023
+                                                                                        Page:   126 of 183
+
+Orient Way CS
+
+Junction Margins
+First Movement                                     Second Movement                                   Value
+Arrival at Orient Way CS from Stratford            Next arrival at Orient Way CS from Stratford      5*
+Departure from Orient Way Reception Road           Arrival at Orient Way Reception Road from         6
+towards Orient Way CS                              Tottenham Hale
+Arrival at Orient Way CS                           Arrival at Orient Way Reception Road from         2
+                                                   Tottenham Hale
+Arrival at Orient Way CS                           Departure from Orient Way CS                     13
+Departure from Orient Way CS towards               Next departure from Orient Way CS                10^
+Stratford (via Wash)
+Departure from Orient Way Reception Road           Next departure from Orient Way CS                7
+towards Tottenham Hale
+Departure from Orient Way Reception Road           Arrival at Orient Way Reception Road from        11
+towards Tottenham Hale                             Orient Way CS
+* A second movement will require (2) pathing time approaching Orient Way CS if a margin of 3 minutes has been
+applied at Ruckholt Road Jn
+^ A reduced margin of 9 minutes may apply if the first departure from Orient Way CS towards Stratford is via the
+Reception, however the preferred route is via the Wash road and should be used where possible.
+
+
+Lea Bridge
+
+Junction Margins
+First Movement                                     Second Movement                                   Value
+Depart Lea Bridge onto Single Line                 Arrive Lea Bridge from Up Line                    2½
+Arrive Lea Bridge from Single Line                 Depart Lea Bridge onto Single Line                2
+
+Coppermill Junction Signal L1005
+
+Standage Length                                                                                      Value
+Down Temple Mills standing at Coppermill Junction Signal L1005 clear of Lea Bridge Junction          125 SLUs
+
+
+EA1290 TOTTENHAM SOUTH JUNCTION TO SOUTH TOTTENHAM
+
+South Tottenham
+
+Standage Length
+Down Tottenham South Curve towards South Tottenham Station standing at S17 Signal                    91 SLUs
+
+Restrictions
+Trains longer than 91 SLUs stopped at South Tottenham Signal S17 will foul the Down Cambridge Line at
+Tottenham South Junction. In this circumstance the headway at Tottenham South Junction applies between the
+departure time for the first train departing South Tottenham Signal S17 and the passing time of the second train at
+Tottenham South Junction.
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

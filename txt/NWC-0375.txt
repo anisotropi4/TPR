@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                       Page:    363 of 443
+
+Peak Forest South SB
+
+For Light Engine moves to and from Great Rocks to Peak Forest Cemex Sidings
+For westbound departures:                            For eastbound arrivals:
+Peak Forest Cemex Sidings dep    XX 00               Great Rocks dep
+Peak Forest 28 Signal arr        XXRM02              Peak Forest South SB arr              XXRM00
+Peak Forest 28 Signal dep        XXRM05              Peak Forest South SB dep              XXRM03
+Peak Forest South SB arr         XXRM06              Peak Forest 28 Signal arr             XXRM04
+Peak Forest South SB dep         XX.09               Peak Forest 28 Signal dep             XXRM07
+Great Rocks arr                                      Clear 34 points pass                  XX/08
+                                                     Peak Forest Cemex                     XX.09
+                                                     Sidings arr
+
+
+Great Rocks Jn
+
+Dwell Time
+Trains using the single line to/from Buxton SB    1 (TW stop to collect/surrender token)
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Up Train from Great Rocks Jn arrive/pass Peak     Train departs Buxton Up Relief Sidings or         1
+Forest South SB                                   Tunstead Sidings towards Great Rocks Jn
+Train towards Tunstead Sidings depart/pass        Train departs Buxton Up Relief Sidings            2
+Great Rocks Jn                                    towards Great Rocks Jn
+Up train from Buxton SB depart                    Down train to Great Rocks Jn pass/depart          2
+                                                  Peak Forest South SB
+
+Token Working Restrictions
+First Movement                                    Second Movement                                   Margin
+Train from Tunstead Sidings pass Great Rocks      Train on Down Goods depart Great Rocks Jn         2
+Jn                                                towards Buxton SB
+Train on Down Goods depart Great Rocks Jn         Train depart from Tunstead Sidings                2
+towards Buxton SB
+
+Overlap Restrictions
+Once a train has departed Buxton Signal Box towards Great Rocks Jn, no other train can pass Peak Forest South
+SB towards Great Rocks Jn. This is due to the overlap from signal GR13 at Great Rocks Jn conflicting with the
+route to or from Tunstead Sidings, and the overlap from signal GR16 conflicting with the route to or from Buxton
+SB. This is accounted for in the junction margins.
+
+
+Tunstead Sidings
+
+Operating Restriction
+Owing to the adverse gradients between Great Rocks Jn and Peak Forest South SB a train, where possible,
+should be planned to have a clear road through to Chinley South Jn.
+
+
+Buxton SB
+
+See entry under route NW9021 Buxton to Hazel Grove East Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

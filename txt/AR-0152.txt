@@ -1,0 +1,67 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                        Version:     4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                     12th September
+                                                                                          Date:
+                                                2024                                              2023
+                                                                                          Page:   149 of 183
+
+
+
+EA1480 WHITLINGHAM JUNCTION TO CROMER
+
+Hoveton & Wroxham
+
+Dwell Time                                                                                             1
+
+Junction Margins
+First Movement                                    Second Movement                                      Margin
+Train leaves single line section                  Train enters single line section                     1
+
+
+North Walsham
+
+Dwell Time                                                                                             1
+
+Junction Margins
+First Movement                                    Second Movement                                      Margin
+Up passenger train arrives from Cromer            Down passenger train departs towards Cromer          ½
+Down passenger train arrives from Hoveton &       Up train departs to Hoveton & Wroxham                1
+Wroxham
+Freight Train leaves single line section          Freight train enters single line section for North   3
+                                                  Walsham Yard
+Freight Train leaves single line section          Passenger train enters the single line section       3
+
+
+Cromer
+
+Minimum Turnround                                 DMU / BMU                                            4
+
+Single Line Reoccupation                          DMU / BMU                                            1
+                                                  Charter train requiring pilot working                5
+
+
+EA1490 CROMER TO SHERINGHAM
+
+Sheringham
+
+Moves on or off the North Norfolk Railway cannot take place without prior agreement from the
+Local Operations Manager (Trowse)
+Allowance for pilot working to be withdrawn after a charter train has departed to Sheringham NN        5
+Railway (SHRGNNR). The allowance should be shown as additional dwell at Sheringham
+Allowance for pilot working to be introduced before a charter train can depart from Sheringham         5
+NN Railway (SHRGNNR) towards Sheringham. The allowance should be shown as additional
+dwell at Sheringham
+
+
+EA1500 BRUNDALL JUNCTION TO YARMOUTH
+
+Acle
+
+Dwell Time                                                                                             1
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

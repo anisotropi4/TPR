@@ -1,0 +1,67 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                       Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                      Date:
+                                               2024                                           2023
+                                                                                     Page:    100 of 183
+
+
+
+Norwich Low Level Sidings and Norwich Royal Dock
+
+Note: The remaining sidings on the down side where CO572 signal is the departure signal are collectively known
+as Norwich Low Level Sidings. Only the Royal Dock (Siding 1) and Siding 2 are electrified. Please use “Norwich
+Royal Dock” (tiploc NRCHDK) if planning electric trains in this area. Otherwise please use “Norwich Low Level”
+(tiploc NRCHLL).
+Norwich Station Jubilee Carriage Sidings are on the up side of the station and not electrified.
+
+
+Norwich
+
+Junction Margins
+First Movement                                   Second Movement                                   Value
+Train departs P4, 5 or 6 on E line towards       Train departs P4, 5 or 6 on C line to Trowse      2
+Whitlingham Jn                                   Swing Bridge
+Train departs P4, 5 or 6 on C line to Trowse     Train departs P4, 5 or 6 on E line towards        2
+Swing Bridge                                     Whitlingham Jn
+Arrival                                          Conflicting departure                             1
+Departure                                        Next arrival into same or conflicting platform    4
+
+Minimum Turnrounds
+East Midlands Railway services – Passenger to Passenger                                            18
+Class 745 Liverpool St IC Passenger to ECS                                                         10
+Class 745 ECS to Liverpool St IC Passenger                                                         10
+Class 745 Liverpool St IC Passenger to Liverpool St IC Passenger                                   20
+Class 755                                                                                          5
+
+Length Limit
+Middle siding                                   One train to be stabled at a time as walking       198m
+                                                route available at country end buffer stop only
+
+Restriction                                     Class 755s in electric mode (Timing Load 755-E) are not to use
+                                                Platform 6 at Norwich (unwired)
+
+Splitting and Coupling of trains permitted      In all platforms
+
+
+EA1020 CARPENTERS ROAD SOUTH JUNCTION TO CARPENTERS ROAD
+NORTH JUNCTION
+
+Access Restriction to Carpenters Road          A train standing in Channelsea Loop prevents
+Curve                                          access to Carpenters Road Curve
+Restriction
+Trains cannot be held on Carpenters Road Curve due to interlocking limitations.
+
+
+EA1030 FOREST GATE JUNCTION TO WOODGRANGE PARK JUNCTION
+
+Standage Lengths - this length does not take into account any stand back from the signal
+Woodgrange Park Down Branch Clear of Forest Gate Jn                                                51 SLUs
+Forest Gate Jn Up Branch Clear of Woodgrange Park Jn                                               51 SLUs
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

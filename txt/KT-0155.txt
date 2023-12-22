@@ -1,0 +1,63 @@
+NETWORK RAIL                      Timetable Planning Rules                  Version: 4.1
+Kent & HS1                                               OFFICIAL
+                                 Final Proposal for Subsidiary                        25th August 2023
+                                                                            Date:
+                                    Timetable 2024                          Page:       151 of 168
+
+
+STATION               PLATFORM                             USABLE     NOTES
+                                                           LENGTH
+
+Chestfield and        1 – Up                                  287
+Swalecliffe
+Chestfield and        2 – Down                                281
+Swalecliffe
+Chilham               1 - Up Branch                            88
+Chilham               2 - Down Branch                          88
+Chislehurst           1 - Up Fast                             247
+Chislehurst           2 - Down Fast                           247
+Chislehurst           3 - Up Slow                             247
+Chislehurst           4 - Down Slow                           248
+City Thameslink       1 - Up Snow Hill                        275     Down direction
+City Thameslink       1 - Up Snow Hill                        275     Up direction
+City Thameslink       2 - Down Snow Hill                      275     Down direction
+City Thameslink       2 - Down Snow Hill                      275     Up direction
+Clapham High Street   1 - Up Atlantic                         102
+Clapham High Street   2 - Down Atlantic                       102
+Clock House           1 - Up Mid Kent                         296
+Clock House           2 - Down Mid Kent                       283
+Crayford              1 - Up Dartford Loop                    285
+Crayford              2 - Down Dartford Loop                  288
+Crofton Park          1 - Up Catford Loop                     167
+Crofton Park          2 - Down Catford Loop                   163
+Crowhurst             1 - Up Hastings                         169
+Crowhurst             2 - Down Hastings                       248
+Cuxton                1 - Up Maidstone Branch                  97
+Cuxton                2 - Down Maidstone Branch                77
+
+Dartford              1 - Up Passenger Loop                  207
+Dartford              1 - Up Passenger Loop                  207
+Dartford              2 - Up Main                            207
+Dartford              2 - Up Main                            207
+Dartford              3 – Reversible                         225       Down direction
+Dartford              3 – Reversible                         225       Up direction
+Dartford              4 - Down Main                          225       Down direction
+Dartford              4 - Down Main                          225       Up direction
+Deal                  1 – Up                                 196
+Deal                  2 – Down                               183
+Denmark Hill          1 - Up Atlantic                        166
+Denmark Hill          2 - Down Atlantic                      165
+Denmark Hill          3 - Up Catford Loop                    165
+Denmark Hill          4 - Down Catford Loop                  165
+Deptford              1 - Up Greenwich                       241
+Deptford              2 - Down Greenwich                     243
+Dover Priory          1 - Down Chatham                       245       Down direction
+Dover Priory          1 - Down Chatham                       245       Up direction
+Dover Priory          2 - Up Chatham                         209       Down direction
+Dover Priory          2 - Up Chatham                         209       Up direction
+Dover Priory          3 - Up Passenger Loop                  181       Down direction
+Dover Priory          3 - Up Passenger Loop                  181       Up direction
+Dumpton Park          1 - Up Main                            247
+Dumpton Park          2 - Down Main                          250
+Dunton Green          1 - Up Main                            281
+                                Electronic copy - uncontrolled when printed

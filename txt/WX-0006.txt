@@ -1,0 +1,64 @@
+ NETWORK RAIL                            Timetable Planning Rules                         Version:    4.2
+ Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                                Change                      Date:     27th October 2023
+                                              Timetable 2024                                Page:     4 of 178
+
+1.1 Index of Routes
+Information arranged on a line of route basis in this document is presented in the following order:
+
+ SW100                       London Waterloo to Clapham Junction
+ SW100B                      Nine Elms Junction to Linford Street Junction
+ SW100C                      West London Junction to Latchmere Junction (No 3)
+ SW100D                      Clapham Junction to Longhedge Junction
+ SW100E                      Clapham Junction to Latchmere Junction (No 2)
+ SW105                       Clapham Junction to Weymouth
+ SW105A                      Southampton to Southampton Western Docks
+ SW105B                      Worgret Junction to Swanage Railway NR Boundary
+ SW105C                      Weymouth Junction to Weymouth Signal DR194
+ SW110                       Woking Junction to Portsmouth Harbour
+ SW115                       Worting Junction to Pinhoe
+ SW115A                      Andover to Ludgershall MOD
+ SW115B                      Laverstock North Junction to Laverstock South Junction
+ SW115C                      Yeovil Junction to Yeovil Pen Mill
+ SW120                       Pirbright Junction to Alton
+ SW120A                      Aldershot North Junction to Aldershot South Junction
+ SW125                       Southcote Junction to Basingstoke
+ SW130                       Eastleigh East Junction to Romsey
+ SW135                       Eastleigh West Junction to Fareham
+ SW140                       St Denys to Portcreek Junction
+ SW140A                      Cosham Junction to Farlington Junction
+ SW145                       Northam Junction to Southampton Eastern Docks
+ SW150                       Redbridge Junction to Salisbury Tunnel Junction
+ SW155                       Totton Fawley Loops to Fawley
+ SW160                       Brockenhurst to Lymington Pier
+ SW165                       Hamworthy Junction to Hamworthy Goods
+ SW170                       Warminster to Wilton Junction
+ SW170A                      Wilton Junction G.S.P. to Quidhampton Siding
+ SW175                       Castle Cary to Dorchester Junction
+ SW180                       Raynes Park to Leatherhead
+ SW185                       Motspur Park Junction to Chessington South
+ SW190                       New Malden to Shepperton
+ SW195                       Surbiton to Hampton Court
+ SW200                       Hampton Court Junction to Guildford (via Cobham)
+ SW205                       Leatherhead to Effingham Junction
+ SW210                       Clapham Junction to Reading (via Richmond)
+ SW210A                      Hounslow Junction to Whitton Junction
+ SW210B                      Reading Spur Junction to Reading New Junction
+ SW210C                      Reading to Reading Southern Junction
+ SW225                       Point Pleasant Junction to Wimbledon
+ SW230                       Barnes to Feltham Junction (via Hounslow)
+ SW240                       Old Kew Junction to Kew East Junction
+ SW240A                      New Kew Junction to Kew East Junction
+ SW245                       Twickenham Junction to Shacklegate Junction
+ SW245A                      Strawberry Hill Junction to Fulwell Junction
+ SW250                       Staines to Windsor And Eton Riverside
+ SW255                       Virginia Water to Weybridge
+ SW255A                      Addlestone Junction to Byfleet Junction
+ SW260                       Ascot to Ash Vale Junction
+ SW265                       Guildford to Wokingham
+ SW300                       Gomshall to Shalford Junction
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

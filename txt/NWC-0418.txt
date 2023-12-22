@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                    Page:    406 of 443
+
+
+
+NW2009 ARPLEY JN TO DITTON EAST JN
+LOCATION                         DIRECTION       USABLE LENGTH        NOTES
+                                                  SLU    METRES
+Football Field Sidings (MSC)     Down              82      523
+Football Field Sidings (MSC)     Up                82      521
+Latchford                        Down             128      815
+Latchford                        Up               150      954
+
+
+NW2015 ORDSALL LANE JN TO EDGE HILL
+LOCATION                         DIRECTION       USABLE LENGTH        NOTES
+                                                  SLU    METRES
+Eccles Up Goods Loop             Up               124      794
+Up and Down Earlestown           Down/Up           55      354
+West
+
+
+NW3023 EDGELEY JN NO.2 TO MICKLE TRAFFORD
+LOCATION                         DIRECTION       USABLE LENGTH        NOTES
+                                                  SLU    METRES
+Skelton Jn Down Goods Loop       Down/Up           57      371
+Northwich Down and Up            Down/Up           74      478        Between Northwich East Jn and
+Goods                                                                 Northwich Station Jn
+
+
+NW4001 PRESTON RIBBLE JN TO COVE L. C.
+Please refer to line of route NW1001 for Preston Ribble Jn to Preston Fylde Jn
+Please refer to Line of Route SC001 (Scotland Timetable Planning Rules for Gretna Jn to Cove L.C.
+LOCATION                        DIRECTION       USABLE LENGTH        NOTES
+                                                 SLU      METRES
+Oxheys Up Passenger Loop        Up               145         934
+Barton & Broughton Down         Down             161        1033
+Passenger Loop
+Oubeck Down Goods Loop          Down              69         447     From signal PN213 to clearing point in
+                                                                     rear
+Oubeck Up Goods Loop            Up                72         466     From signal PN212 to clearing point in
+                                                                     rear
+Lancaster South Jn              Up               121         775     From signal PN223 to clear of platform 5
+                                                                     is 72SLU/467m
+Lancaster Down Passenger        Down              56         363
+Loop (Platform 3)
+Lancaster Down Main             Down              71         454
+Lancaster Up Main               Up                50         320
+Carnforth No.1 Up & Down        Down              67         435
+Goods Loop
+Carnforth No.2 Up & Down        Down              67         435
+Goods Loop
+Carnforth No.1 Up & Down        Up                67         435
+Goods Loop
+Carnforth No.2 Up & Down        Up                67         435
+Goods Loop
+Carnforth Up Passenger Loop     Up                80         512
+Oxenholme Down Windermere Down                    55         355
+
+
+
+
+                               Electronic copy - uncontrolled when printed

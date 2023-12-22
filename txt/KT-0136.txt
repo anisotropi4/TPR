@@ -1,0 +1,62 @@
+NETWORK RAIL                              Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                    OFFICIAL
+                                      Final Proposal for Subsidiary                              25th August 2023
+                                                                                       Date:
+                                           Timetable 2024                              Page:      132 of 168
+
+
+SO290B ANGERSTEIN JUNCTION TO ANGERSTEIN WHARF
+
+Allowance for freight movements                                           Value
+Between Angerstein Junction and Angerstein Stop Board                     3½
+Between Angerstein Stop Board and Angerstein Wharf Loop                   ½
+Runround within the terminal and ready behind stop board on AI side       30*
+*this is mandatory and must be included in the schedule
+NOTE: The handover time is the time at which another train could be safely accepted, as that would be the
+time that the PIC was free from carrying out all safety critical elements
+
+Planning Restrictions
+A train from Angerstein Junction cannot arrive at Angerstein Wharf Loop while there is a train occupying the
+Norriskips Terminal. Trains already berthed in the Bardon & Tarmac Terminals with the loco on the leading end
+can depart, and pass through Angerstein Wharf Loop, while a train is within the Norriskips Terminal.
+
+Operational Restriction
+One train in section between Angerstein Junction and Angerstein Wharf Loop. While a locomotive is running
+around its train at Angerstein Wharf Loop, a second train can only arrive onto the branch if 46 SLU’s or less or
+more than 30 minutes later than the first train due to the rear of the second train potentially fouling Angerstein
+Junction.
+
+
+
+
+SO300 LEWISHAM JUNCTION TO CRAYFORD CREEK JUNCTION
+(VIA BEXLEYHEATH)
+
+Lewisham Junction
+
+Length Restrictions
+The standage at Signal TL251 to be clear of fouling the St Johns Junction and the Down Slow towards Hither
+Green is 270 metres/42 SLUs
+The standage at Signal TL240 to be clear of fouling Lewisham Junction in rear is 235 metres/37 SLUs
+
+
+
+Lewisham
+See entry under route SO330
+
+
+Blackheath
+
+Connectional Allowance                4
+
+
+Kidbrooke
+
+Berthing Facilities
+Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operational
+restrictions
+
+
+
+
+                                     Electronic copy - uncontrolled when printed

@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024              Date:     28th July 2023
+West and Central
+                                                                                            Page:    331 of 443
+
+Water Street Jn
+
+Junction Margins – When first train is NOT longer than 8 x 23 meters length overall
+First Movement                                Second Movement                                           Margin
+Between any conflicting move                                                                            2
+
+Junction Margins – When first train is longer than 8 x 23 meters length overall
+Down train passes                                 Following Down train passes Deansgate          2
+Down train passes Ordsall Lane Jn                 Following Down train passes Water Street Jn    2
+Up train passes from Ordsall Chord                Down train passes Salford Central towards      3
+                                                  Ordsall Lane Jn or Water Street Jn
+Up train passes Water Street Jn from Ordsall      Next train pass Ordsall Lane Jn in either      3*
+Lane Jn                                           direction
+*Can be reduced to 2 minutes if the second train has a minimum of 1 minute pathing allowance approaching
+Ordsall Lane Jn or has called at Deansgate or Salford Crescent
+
+Train Length Restrictions
+Trains with pathing or other allowances approaching Water Street Jn, or those with pathing stops at Water Street
+Jn, will foul the junction in rear if they are longer than the lengths specified below. Therefore, any subsequent train
+cannot pass the junction in rear until the first train has passed or departed Water Street Jn.
+
+Signal                                                       Standage
+MC537 (Down Bolton) approaching Water Street Jn              214 meters (clear of Castlefield Jn)
+MC532 (Up Bolton) approaching Water Street Jn                206 meters (clear of Ordsall Lane Jn)
+
+
+Ordsall Lane Jn
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Passenger                                       Passenger                                        3*
+Freight                                         Passenger                                        3½ *
+Passenger                                       Freight                                          3½ *
+Freight                                         Freight                                          4½ *
+*Margins can be reduced by 1 minute if the second train has a minimum of 1 minute pathing allowance
+approaching Ordsall Lane Jn or has called at Deansgate or Salford Crescent.
+
+
+Salford Crescent
+
+Dwell Time
+DMU/EMU                               1
+
+Junction Margins
+First Movement                                      Second Movement                                     Margin
+Arrive Platform 2 from Manchester Victoria          Depart Platform 1 to Oxford Road                    ½
+Depart Platform 1 to Oxford Road                    Arrive Platform 2 from Manchester Victoria          3½ *
+Depart Platform 2 to Bolton                         Arrive Platform 1 from Atherton                     4*
+Depart Platform 1 to Bolton                         Arrive Platform 1 from Atherton                     4*
+Arrive Platform 1 from Atherton                     Depart Platform 2 to Bolton                         1
+Arrive Platform 1 from Atherton                     Pass towards Bolton                                 3
+Arrive Platform 2 from Manchester Victoria          Pass towards Oxford Road                            3
+Arrive Up Bolton line from Manchester Victoria      Depart Platform 1 to Manchester Victoria or         1
+or Manchester Piccadilly                            Manchester Piccadilly
+
+
+
+
+                               Electronic copy - uncontrolled when printed

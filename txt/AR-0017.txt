@@ -1,0 +1,67 @@
+                                                  OFFICIAL
+
+
+NETWORK RAIL                      Timetable Planning Rules                     Version:   4.1
+Anglia             Amended Final Principal and Subsidiary Change Timetable                12th September
+                                                                                  Date:
+                                             2024                                         2023
+                                                                                 Page:    14 of 183
+
+1.3.4 Line Codes
+Abbreviation   Description
+-              Default line code as indicated in Section 2.1
+1UM            Up Main from Cambridge via Platform 1
+1UX            Up Main from Cambridge via Platform 1 and non-preferred route (1052 points)
+AL             Arrival/Airport Line
+BL             Bow Line (Bow Junction and Stratford)
+C              Line C
+CL             Cambridge Line
+CR             Up and Down Clacton
+CR3            Up trains via Up and Down Clacton from East Gate Jn to Colchester Platform 3 avoiding
+               Platform 4
+CS             Clacton Single
+D              Line D
+D&UGL          Down & Up Goods Line
+D&UPL          Down & Up Passenger Line
+DA             Up and Down Avoiding
+DBL            Down Bi directional Line
+DCH            Up Trains on Down Channelsea
+DCL            Down Connecting Line
+DED            Down Enfield Direction (reference to reversal point at Enfield Town. See 2.1)
+DEL            Down Electric Line
+DG             Down Goods
+DGL            Down Goods Line
+DGL(N)         Down Goods Line North
+DH             Down Harwich
+DL             Down Line / Down Lowestoft
+DM             Down Main
+DMG            Down Main then Down Goods Loop
+DML            Down Main Line
+DMT            Down Main then Through Line
+DNL            Down North London
+DPL            Down Passenger Loop / Line
+DS             Down Slow
+DST            Down Slow then Through Line
+DTL            Down Temple Mills Line
+DTS            Down Through Siding
+DUG            Down & Up Goods
+DUL            Down & Up Lowestoft
+DX             Down Connecting (East Ham to Barking)
+DX1            Down trains Bow Junction running ML to UBL via points 2128R
+DX2            Down trains Bow Junction running ML to UBL via points 2133R
+DX3            Down trains Bow Junction running via points 2134R
+DX4            Down trains Bow Junction running ML to BL via points 2128R and 2134R
+E              Line E
+EL             Electric Line
+EMM            Electric, Main, Main
+ESF            Electric, Suburban, Fast
+EWC            Ely West Curve
+FL             Fast Line
+FMS            Fast, Main, Suburban
+FS             Down & Up Felixstowe Single
+FSE            Fast, Suburban, Electric
+FSM            Fast, Suburban, Main
+GL             Goods Line
+
+
+                              Electronic copy - uncontrolled when printed.

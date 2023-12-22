@@ -1,0 +1,60 @@
+                                            OFFICIAL
+
+
+
+
+              NW3023 Hartford CLC Jn. Becomes mandatory timing point. Removed X
+                     as no longer required
+              NW4001 Kingmoor Up Through Siding added as a timing location for
+                     recessed trains
+              NW5001 Sandbach South Jn. Suffix SB added to Salop Goods Jn in Notes
+              NW5009 Bradwell Up Sidings. Renamed from Land Recovery Sidings to
+                     align with the changes to TIPLOC descriptions. Add GL line code
+                     from this location as trains from Bradwell Up Sidings to
+                     Longport Jn will be using the Up Goods Loop and is consistent
+                     with GL line code shown from Bradwell Jn. Delete ‘from’
+                     Longport Jn, as it is not possible to arrive at Bradwell Up Sidings
+                     from Longport Jn. Arrivals shunt behind signal SOT573.
+                     Longport Signal SOT573. Amended note to show route to
+                     Bradwell Up Sidings instead of Land Recovery Sidings.
+              NW9001 Dore West Jn to Hope (inclusive) removed from this line for
+                     route. Region boundary between LNE and NW&C is shown.
+
+
+
+    2.2       Route Opening Hours
+              No change
+
+
+
+3   Electrification
+
+    3.1       Electrification Limits
+              No change
+
+    3.2       Electrification Supply Restrictions
+              No change
+
+
+
+4   Rolling Stock Restrictions
+
+    4.1       Locomotive Route Availability
+              No change
+
+    4.2       Passenger Stock Restrictions
+              No change
+
+    4.3       Freight Wagon Restrictions
+              No change
+
+    4.4       Freight Train Load Limits
+              No change
+
+    4.5       Freight Train Length Limits
+              No change
+
+
+
+
+                                               5

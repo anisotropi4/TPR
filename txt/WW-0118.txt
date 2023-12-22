@@ -1,0 +1,67 @@
+                                                       OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                      Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:    6th October 2023
+                                           Change Timetable 2024                            Page:    115 of 289
+
+
+    •   On the relief lines in either direction
+    •   When running bi-directionally at Hayes & Harlington, or,
+    •   When using 387/90 or 387/100 timing loads
+
+Signalling Limitations
+It is not possible to add pathing time to trains timed at Hayes and Harlington between Heathrow Airport Jn and
+Hayes and Harlington (both directions) as there are no intermediate signals.
+
+Where the leading train calls at Hayes and Harlington, the headway margin is offset, applying between departure
+of the leading train from Hayes and Harlington and following train at Heathrow Airport Jn, as yellow signals will be
+shown at Heathrow Airport Jn till Hayes and Harlington is clear.
+
+Where a train is planned from Heathrow Airport to run ahead of a train from Slough direction and both booked via
+ML, any pathing should be applied to the second train approaching Heathrow Airport Jn and not at Stockley Jn.
+This is due to ARS requirements.
+
+Junction Margins
+First Movement             Second Movement            Margin         Reason
+Train departs Hayes and    Train passes               1½             Freight trains will be decelerating to approach
+Harlington in the Up       Heathrow Airport Jn                       15mph crossover 8197 and so will be
+direction                  towards Hayes Goods                       unaffected by receiving yellow signals at
+                           Loop or Tarmac                            Airport Jn
+                           Sidings
+
+Stockley Junction
+
+Adjustment to Sectional Running Time
+Movement                                          Reason                          Timing Load        Value
+Up trains crossing from Up Relief to Up Main.     Acceleration                    All                +{½} approaching
+                                                                                                     next timing point
+Down trains crossing from Down Main to            Slow crossovers/                All                +{½}
+Down Relief.                                      Deceleration
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Pass Heathrow Airport Jn on Down Relief           Cross Stockley Jn from Up Relief to Up Main        3
+Cross Stockley Jn from Up Relief to Up Main       Pass Heathrow Airport Jn on Down Relief            2
+
+West Drayton ARC
+
+Planning Restrictions
+Up trains routed to West Drayton ARC Terminal should arrive in Dawley Up Goods Loop before propelling into the
+terminal.
+
+Down Trains routed to West Drayton ARC Terminal must run via the URL from Hayes And Harlington to Dawley Up
+Goods Loop. They must then complete a run round in Dawley Loop before propelling into the terminal.
+Consideration should be given to capacity on the URL to allow the run round move to take place. Alternatively, trains
+can run beyond Dawley UGL, run round and approach in the Up Direction.
+
+West Drayton
+
+Dwell Time
+Class 165/166/387/769 (Down            ½
+Direction)
+Class 165/166/387/769 (Up              1
+Direction)
+
+
+                                      Electronic copy - uncontrolled when printed.

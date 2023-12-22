@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                      Version:    4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                     Date:     6th October 2023
+                                         Change Timetable 2024                            Page:     154 of 289
+
+
+Par
+Down arrive/pass platform 3                       Up arrive platform 2                                 3
+
+Platform Reoccupation                             4
+
+Dwell Time
+80x                                   1½
+Class 15x                             1
+Class 22x                             1½
+
+
+St. Austell
+
+Adjustment to Sectional Running Time
+Movement                                         Reason                                                Value
+Up train arrive with section ahead occupied      Cautionary signal aspect                              {1}
+
+Dwell Time
+Class 15x                             1
+Class 22x / 80x Class 1 services      1½
+
+Burngullow Junction
+
+Adjustment to Sectional Running Times
+Movement                                         Reason                                            Value
+Down pass to Burngullow Yard or                  Approach control                                  {1}
+Treviscoe
+Up pass from Burngullow Yard or Treviscoe        Acceleration                                      {1} approaching
+                                                                                                   next timing point
+
+Truro
+
+Adjustment to Sectional Running Times
+Movement                                              Reason                                               Value
+Up arrive platform 1 or platform 2 from               Slow speed crossover                                 {½}
+Penwithers Jn
+Up arrive/pass platform 3 via Down Main from          Slow speed crossover                                 {½}
+Penwithers Jn
+
+Platform end conflicts
+First Movement                                        Second Movement                                      Margin
+Train arriving or departing from Falmouth into        Down Train arriving/passing through platform 2       3
+the down bay (platform 1).                            (Down main)
+
+Platform Re-occupation                4
+
+Dwell Time
+80x                                   2
+Class 15x                             1
+Class 22x                             2
+
+Maximum Dwell Time
+Up direction - 3 minutes*^
+*To minimise level crossing barrier down time Up trains stopping at Truro are to be advertised earlier by the
+amount of recovery / pathing allowances between the previous stop and Truro.
+^Does not apply to terminating services.
+
+                                    Electronic copy - uncontrolled when printed.

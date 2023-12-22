@@ -1,0 +1,62 @@
+NETWORK RAIL              Timetable Planning Rules                    Version: 4.1
+London North Eastern        Revised Final Rules for                     Date: 12 October 2023
+                       Subsidiary Change Timetable 2024                 Page: 305 of 368
+
+
+STATION                   PLATFORM      USABLE       NOTES
+                                        LENGTH
+
+Brigg                     Up            154
+Brighouse                 Down          118
+Brighouse                 Up            119
+British Steel Redcar      Down          60
+British Steel Redcar      Up            60
+Brockholes                Single        65
+Brockley Whins            Down          65
+Brockley Whins            Up            65
+Brookmans Park            Down Fast     123
+Brookmans Park            Down Slow     123
+Brookmans Park            Up Fast       123
+Brookmans Park            Up Slow       123
+Broomfleet                Down          95
+Broomfleet                Up            95
+Brough                    Down          184
+Brough                    Up            184
+Burley in Wharfedale      Down          141
+Burley in Wharfedale      Up            118
+Burley Park               Down          97
+Burley Park               Up            97
+Castleford                Down          101
+Castleford                Up            97
+Castleton Moor            Single        77
+Cattal                    Down          86
+Cattal                    Up            86
+Chapeltown                Down          85
+Chapeltown                Up            85
+Chathill                  Down          83
+Chathill                  Up            164
+Chester le Street         Down          110
+Chester le Street         Up            110
+Chesterfield              1             212
+Chesterfield              2             204
+Chesterfield              3             240
+Church Fenton             1             101
+Church Fenton             2             132
+Church Fenton             3             132          Down direction
+Church Fenton             3             121          Up direction
+Church Fenton             4             119
+Cleethorpes               1             202          DMU restricted to 170
+Cleethorpes               2             205          DMU restricted to 174
+Cleethorpes               3             205          DMU restricted to 174
+Cleethorpes               4             203
+Collingham                Down          54
+Collingham                Up            52
+Commondale                Single        51
+Conisbrough               Down          117
+Conisbrough               Up            97
+Cononley                  Down          116
+Cononley                  Up            95
+Corbridge                 Down          97
+Corbridge                 Up            100
+Cottingham                Down          108
+                       Electronic copy - uncontrolled when printed.

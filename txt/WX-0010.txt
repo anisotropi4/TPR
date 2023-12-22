@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:   4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                     Date:    27th October 2023
+                                           Timetable 2024                               Page:    8 of 178
+
+     Second     Wessex Timing Area
+    Character
+J               Brockenhurst and Lymington Pier local trains (Class 2 not available).
+                Waterloo and Hampton Court
+                Guildford and Farnham
+                Reading and Basingstoke (class 2)
+                Salisbury to Reading (class 1)
+K               Waterloo (Main) to Waterloo (Windsor) via Teddington/Richmond
+                Portsmouth to Bournemouth and Weymouth
+                London Bridge and Epsom/Guildford via West Croydon (semi-fast, class 1)
+L               Waterloo and Basingstoke, Salisbury or Exeter
+                To Network Rail ex GE area
+                Clapham Junction to Stratford via Willesden Junction (Class 2)
+M               To Network Rail North West/Midland areas except trains covered elsewhere
+                Southampton and Swindon.
+                Waterloo and Chessington.
+N               Waterloo and Farnham/Guildford via Twickenham and Ascot.
+                Brighton and Southampton Central via Swanwick (class 1)
+                Brighton and Southampton Central via Littlehampton and Swanwick (2N00-2N79)
+O               To Network Rail Southern area except trains covered elsewhere
+                Waterloo (Windsor) to Waterloo (Main) via Teddington (Class 1 not available)
+                Reading to Gatwick Airport (Class 1) (trains flexed to terminate at Redhill numbered in the
+                range 1O01-10)
+                Reading to Redhill (Class 2 even numbers – stopping services).
+P               Waterloo/Portsmouth via Woking.
+Q               Test trains only
+R               Salisbury to Romsey via Southampton Central and Eastleigh (Class 2)
+                Waterloo (Windsor) to Waterloo (Windsor) via Twickenham and Brentford.
+S               To Network Rail Scotland
+                Waterloo and Weybridge/Woking via Hounslow.
+                Romsey/Salisbury to Salisbury via Eastleigh and Southampton Central (Class 2)
+                Brighton and Portsmouth/Havant/Chichester (class 1)
+                Brighton and Portsmouth/Havant (class 2)
+                Rail Head Treatment Trains (class 3)
+T               Waterloo and Portsmouth via Botley.
+U               Waterloo and Windsor.
+V               Network Rail Great Western area except trains covered elsewhere
+                Waterloo (Windsor) to Waterloo (Windsor) via Brentford and Twickenham.
+                Gatwick Airport/Redhill to Reading (Class 1).
+                Redhill to Reading (Class 2 - stopping)
+W               Waterloo and Weymouth.
+                Sandite trains (water jet only)
+                London Bridge and Blackfriars via Mitcham Junction, Sutton and Wimbledon (class 2)
+X               Out of gauge and exceptional loads
+Y               Deicing and Sandite trains (see also W)
+                Clapham Junction and Willesden (Class 2).
+                Stratford to Clapham Junction via Willesden Junction (Class 2).
+                ECS trains Waterloo to Clapham Yard/Wimbledon Park Depot.
+                London Waterloo to Fareham/Southampton Central via Havant
+                Brighton and Southampton Central via Eastleigh (Class 1)
+                Trains not covered elsewhere
+Z               Special Traffic Trains.
+                Must NOT be used for WTT services
+                STP additional trains not conforming to any route code
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

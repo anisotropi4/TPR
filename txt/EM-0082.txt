@@ -1,0 +1,56 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                            Timetable Planning Rules                      Version:   4.1
+East Midlands                     Final Subsidiary Change Rules 2024                    Date:    13th September
+                                                                                                 2023
+                                                                                        Page:    80 of 123
+
+Chaddesden Sidings
+
+Junction Margins
+First Movement                                   Second Movement                                     Margin
+Arrival into the depot                           Subsequent departure                                5
+Departure from the depot                         Subsequent arrival                                  5
+
+
+St Mary’s South Jn
+
+Adjustments to Sectional Running Times
+Movement Down                       Reason                                                   Value
+Lines B and C to Down Fast          Differential linespeed – to be applied approaching       ½ Class 22x
+                                    next timing point
+
+Junction Margins
+First Movement                            Second Movement                                    Value
+All conflicting moves (unless stated below)                                                  3
+Up Fast to Line B pass                    Line C to Down Fast having departed Derby          2½
+                                          Platforms 3-6
+
+
+Duffield
+
+Dwell Time
+All                                 ½ - 1 minute for SX peak services which arrive Derby between 0700 – 0830
+                                    and depart Derby between 1600 and 1800
+
+
+Belper
+
+Dwell Time
+All                                 1
+
+
+Ambergate Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                      Reason                                              Value
+From Matlock (Ambergate Jn to Belper)            Differential Junction speed                         1 DMU
+Up Main to Broadholme Loop                       Approach Control – to be applied approaching        1
+                                                 Ambergate Junction
+
+Re-occupation of Single Line        3½
+
+
+
+
+                                        Electronic copy - uncontrolled when printed.

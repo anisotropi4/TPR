@@ -1,0 +1,51 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version: 4.1
+London North Eastern                    Revised Final Rules for                     Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                 Page: 156 of 368
+
+
+LN135 KINGS DYKE (EXCLUSIVE) TO CRESCENT JUNCTION
+Peterborough East Junction
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+All conflicting moves                                                                           3
+
+
+LN150 FLYOVER EAST JUNCTION TO DECOY NORTH JUNCTION
+Decoy South Junction
+
+Adjustment to Sectional Running Times
+Movement Down                                   Reason                                          Value
+Train on DLF to Down Decoy Sidings              25mph crossover and 15mph into Siding           1½
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Pass from St Catherines Junction                Re–occupy single line                           3
+
+
+Bridge Junction
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Train to Hexthorpe Junction                     Train to Belmont Yard                           3
+Train to Belmont Yard                           Train to Doncaster from WSL                     3½
+
+
+LN170 WERRINGTON JUNCTION TO FLYOVER EAST JUNCTION (VIA LINCOLN)
+Glinton Junction
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Pass from Werrington Junction towards           Passenger pass from Spalding towards            2½
+Spalding                                        Marholm Junction
+Pass from Werrington Junction towards           Freight pass from Spalding towards Marholm      3½
+Spalding                                        Junction
+Pass from Spalding towards Marholm Junction     Passenger pass from Werrington Junction         3
+                                                towards Spalding
+Pass from Spalding towards Marholm Junction     Freight pass from Werrington Junction towards   3½
+                                                Spalding
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

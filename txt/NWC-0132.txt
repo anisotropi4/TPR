@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                        Page:   120 of 443
+
+
+MD140 BLETCHLEY TO BEDFORD ST JOHN’S (INCLUSIVE)
+TIMING POINT                         DOWN        UP          NOTES
+
+Following freight or non-stop passenger:
+Bletchley                            4           n/a
+Fenny Stratford                      5           4
+Woburn Sands                         4           4
+Ridgmont                             4           4
+Millbrook                            4           4
+Forder’s Sidings                     ‡           ‡
+Bedford St John’s                    4           4
+Bedford (Midland)                    n/a         4½
+                                                 (3)*
+Following all-stations passenger:
+Bletchley                            4½ (2½)*    n/a
+Fenny Stratford                      9           3½
+                                     (3½)*       (2½)*
+Woburn Sands                         7½          5
+                                     (2½)*
+Ridgmont                             4           4½
+Millbrook                            4½          4
+Forder’s Sidings                     †           †
+Bedford St John’s                    3½          5
+                                     (2½)*
+Bedford (Midland)                    n/a           5½
+                                                   (3)*
+* Figures in brackets indicate reduced headways that may be used to clear the section on single yellow aspects,
+but pathing time equivalent to the difference must be used approaching the next mandatory timing point, unless
+another similar exemption is stated
+‡ Down direction depart 8 minutes after previous train passes Millbrook
+‡ Up direction depart 1 minute after previous train passes Millbrook
+† Down direction depart 2 minutes after previous train departs Kempston Hardwick
+† Up direction depart 1 minute after previous train departs Millbrook
+
+
+MD145 CAMDEN ROAD WEST JN TO CAMDEN JN
+TIMING POINT                         DOWN        UP          NOTES
+
+Camden Road West Jn to               4½*         4½ *        * A first train must pass Camden Jn before a second
+Camden Jn                                                    train passes Camden Road Jn. A similar
+                                                             requirement applies in the up direction.
+
+
+MD150 KENSAL GREEN JN TO WILLESDEN SUBURBAN JN
+TIMING POINT                         DOWN        UP          NOTES
+
+Kensal Green Jn to Willesden         5           5
+Junction Low Level
+
+
+MD155 KENSAL GREEN JN TO HARLESDEN JN (CITY LINES)
+TIMING POINT                         DOWN        UP          NOTES
+
+Kensal Green Jn to Harlesden Jn      5           5
+
+
+
+
+                               Electronic copy - uncontrolled when printed

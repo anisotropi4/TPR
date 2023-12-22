@@ -1,0 +1,66 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                            Timetable Planning Rules                    Version:    4.1
+East Midlands                     Final Subsidiary Change Rules 2024                  Date:     13th September
+                                                                                                2023
+                                                                                        Page:   84 of 123
+
+
+
+LN3204 TRENT SOUTH JUNCTION TO NOTTINGHAM EAST JUNCTION
+Trent East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                        Reason                                    Value
+Pass from Sheet Stores Jn towards    Differential junction speed               1* after Trent East except:
+Beeston                                                                        1½* Class 4 freight
+Down Fast from Loughborough routed   Differential junction speed               1 before Trent East
+towards Toton Centre
+Down Slow from Loughborough routed   Differential junction speed               ½ before Trent East
+towards Toton Centre
+Down Slow from Loughborough routed   Differential junction speed               ½ before Trent East and ½
+towards Beeston                                                                afterwards
+
+Movement Up                                Reason                              Value
+Pass from Toton Centre towards             Differential junction speed         ½ approaching Trent South and
+Loughborough via Up Fast                                                       1/2 * or 1** afterwards
+                                                                               *Class 6 freight
+                                                                               **Passenger or Class 4 freight
+Pass from Beeston towards                  Differential junction speed         ½ approaching Trent South
+Loughborough via Up Slow
+Pass from Toton Centre towards             Differential junction speed         ½* or 1** approaching Trent
+Loughborough via Up Slow                                                       South
+                                                                               *Class 6 freight
+                                                                               **Passenger or Class 4 freight
+Pass from Beeston towards Sheet            Differential junction speed         ½* approaching Trent East
+Stores Junction                                                                *1 if stopping at Sheet Stores Jn
+
+Junction Margins
+First Movement                           Second Movement                        Margin
+Pass from Trent South Jn towards         Pass from Nottingham towards           3 if first train is passenger*
+Nottingham                               Sheet Stores Jn                        4 if first train is freight*
+Pass from Nottingham towards Sheet       Pass from Trent South Jn towards       3 if both are passenger trains
+Stores Jn                                Nottingham                             4 if either or both are freight
+Pass from Sheet Stores Jn towards        Pass from Toton towards Sheet          3
+Nottingham                               Stores Jn
+Pass from Toton towards Sheet Stores     Pass from Sheet Stores Jn towards 3½
+Jn                                       Nottingham                             (4½ if both are freight)
+*Can be reduced by 1 minute if the second train has a minimum of 1 minute of allowances approaching Trent East
+Junction
+
+Diverging Headway
+First Movement                             Second Movement                     Margin
+Passenger pass from Nottingham             Pass from Nottingham towards        3
+towards Sheet Stores Junction              Loughborough
+
+Down Trent Passenger Loop
+
+Junction Margins
+First Movement                                     Second Movement                          Margin
+Down passenger pass from Trent South Jn            Depart Loop                              1½ after first train
+                                                                                            passes Trent East
+Down freight pass from Trent South Jn              Depart Loop                              2 after first train
+                                                                                            passes Trent East
+Down pass from Sheet Stores Jn                     Depart Loop                              3 after first train
+
+                                        Electronic copy - uncontrolled when printed.

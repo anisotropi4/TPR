@@ -1,0 +1,58 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                       Version:   4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                            Page:    235 of 242
+
+SC177 THORNTON NORTH JUNCTION TO LEVEN
+Timing Section                     Type     LH      MU       FRT    Remarks
+                                            HST
+                                            22X
+                                            80X
+
+Down - Weekdays
+Approaching Leven                  E                1
+
+
+
+SC178 THORNTON SOUTH JN TO THORNTON WEST JN
+Timing Section                     Type    LH      MU        FRT    Remarks
+                                           HST
+                                           22X
+
+Up – Weekdays
+Approaching Glenrothes Platform    E                    1*          * Terminating trains only
+1 from Cowdenbeath
+Glenrothes –Thornton South Jn      E                    1*          * Not required for trains routed to
+                                                                    Haymarket West Junction or that originate
+                                                                    at Glenrothes Platform 1.
+
+
+SC181 LADYBANK JUNCTION TO HILTON JUNCTION
+Timing Section                     Type     LH      MU       FRT    Remarks
+                                            HST
+                                            22X
+                                            80X
+
+Down – Weekdays
+Approaching Hilton Junction        E          1         1     1
+
+
+SC183 STIRLING TO CHARLESTOWN JUNCTION
+Timing Section                     Type     LH      MU       FRT    Remarks
+                                            HST
+                                            22X
+
+Down – Weekdays
+Approaching Alloa                  E                    2           Terminating services only
+Approaching Longannet P.S.         E                          2     Terminating services only
+Approaching Charlestown            E                          2     Through services and trains starting
+Junction                                                            Longannet PS.
+Up – Weekdays
+Approaching Longannet P.S.         E                          2     Terminating trains only
+Approaching Alloa Loop             E                          2
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

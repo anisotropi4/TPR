@@ -1,0 +1,65 @@
+                                                     OFFICIAL
+
+
+Network Rail                                                                                          Version 4.0
+National                                                                                      Date: 28th July 2023
+                                  Final Proposal for Subsidiary Change 2024
+                                                Page 10 of 114
+    •   Following a non-stop train at a timing point;
+    •   Following a train stopping at a timing point; and
+    •   Stopping pattern
+
+This should be done in order to provide a reasonable level of granularity to Planning Headways to best
+balance capacity and performance and to avoid excessive complication.
+
+
+
+
+1.5.4 “Stopping” headways
+As referenced in 1.5.3 above, it may be relevant to provide differential headways when following a train that
+has stopped at a timing point, or will stop before the next common timing point, as it will clearly take a
+departing train longer to clear the relevant signal sections than a non-stop train of similar performance.
+
+These situations will result in a “stopping” headway, as opposed to a “non-stop” headway.
+
+In terms of Technical Headway, this would be calculated as per the non-stop headway but also adding the
+difference between the relevant technical pass-to-pass and start-to-pass run times (the “starting allowance”).
+
+For example, at Hayward’s Heath, the Technical Headway (non-stop) on the Up Fast line would be:
+
+Signal T340: clearance 744+946+1009+200+240=3139m
+78s at 90mph for a 240m train
+91s including reset time and sighting
+104m offset for station mileage cf. signal mileage = 3s at 90mph
+Total 94s
+
+Technical SRT to Balcombe Tunnel Jn (theoretical) = 4m24s p/p and 5m30s s/p
+Starting allowance is therefore 66s. Technical stopping headway is therefore 94+66s = 160s, which would
+likely round up to 3 minutes as a minimum Planning Headway.
+
+However, care must be taken if there are intermediate stations (or indeed any other point at which a train is
+likely to stop) within the distance over which a signal would clear to green. In Diagram C on page 8, GPU105
+signal will not clear to green until the rear of the previous train has cleared the overlap of GPL103. Hence if a
+train has stopped at a station adjacent to GPL103 the non-stop Technical Headway would be extended by the
+additional time taken for the first train to stop at the platform, its dwell time and the additional time taken for
+acceleration until its rear is clear of the overlap or supervised location (ETCS).
+
+Additional Planning Headways should be produced where there are clear differences in stopping pattern to
+reflect the regular scenarios. It should be noted that a variation in planned dwell time will clearly affect the
+applicable Planning Headway, such that headways cannot be seen in isolation from dwell times let alone any
+performance differential between various types of rolling stock.
+
+1.5.5 Application of Planning Headways
+Where different Planning Headways are provided when following stopping and non-stop trains their
+application should be made as follows:
+
+  The below are the minimum headways applicable, and do not account for any differential that should apply.
+                       These apply where there are applicable numerical headways
+First                                                    Second train
+train ↓              Arrive                                   Pass                   Depart
+         Arrive      n/a*                                     n/a†                   n/a
+         Pass        Platform Reocc.                          Non-stop               Non-stop
+         Depart      Platform Reocc.                          Stopping               Stopping
+
+* Depends on departure time of first train plus Platform Reoccupation
+                             Electronic copy – uncontrolled when printed

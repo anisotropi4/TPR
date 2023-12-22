@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+London North Eastern                    Revised Final Rules for                       Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                   Page: 209 of 368
+
+
+Grosmont
+
+Junction Margins
+First Movement                                 Second Movement                                  Margin
+Arrives Glaisdale from Grosmont direction.     NYMR train departs Grosmont towards Whitby                5
+NYMR train arrives Grosmont from Whitby        Depart Glaisdale towards Grosmont direction.              5
+NYMR train arrives Grosmont from Whitby        NYMR train departs Grosmont towards Whitby                6
+Note: Trains going to/from NYMR must stop to main line to operate Ground Frame. However, this activity is
+allowed for in Sectional Running Times
+
+
+Sleights
+
+Dwell Time
+All                                 1 Compulsory stop on Down (Eastbound) only
+                                    ½ (westbound, when stopping, not compulsory stop)
+
+
+Ruswarp
+
+Dwell Time
+All                                 ½* Compulsory stop Up (Westbound) only
+                                    * 1 for 07XX Middlesbrough to Whitby/16XX Whitby to Middlesbrough
+
+
+Whitby
+
+Minimum Turnround                   7 MU
+                                    20 LH
+                                    15 NYMR LH
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Up NYMR train arrives Grosmont                   Up train depart Whitby, going to Glaisdale       5
+
+Down arrive Whitby                               Up depart Whitby                                 10
+
+Notes:
+   • Whitby platform 2, buffer stops to ground frame = 243m
+   • Bog Hall Sidings: Trap points to buffer stop = 335m; run-round loop 170m (fouling foot crossing) or 158m
+       (not fouling foot crossing)
+   • Trains in platform 2 can run-round without impacting on traffic to/from platform 1. Due to operation of
+       ground frame, 20 minutes must be allowed.
+
+
+
+
+LN642 SALTBURN WEST JUNCTION TO BOULBY POTASH MINE
+Crag Hall Signal Box
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Arrival from Boulby                                   Arrival from Longbeck                              4
+Arrival from Longbeck                                 Depart to Longbeck                                 2
+Restrictions:
+When planning passing moves, Trains from Longbeck must not arrive at Crag Hall before a train from Boulby. The
+restriction is in place to enable the efficient hand over of tokens for the Crag Hall to Boulby section.
+                                       Electronic copy - uncontrolled when printed.

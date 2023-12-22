@@ -1,0 +1,66 @@
+                                                                                  OFFICIAL
+
+
+Network Rail                                                                                         Version 4.0
+National                                                                                     Date: 28th July 2023
+                                                              Final Proposal for Subsidiary Change 2024
+                                                    Page 98 of 114
+
+
+
+Name     Frequency     Start Date   Weeks Run In          Route           TID      Day       Dep     From                To               Arr.    Model Train   TOC
+
+
+
+
+                                                          Mossend -
+                                    43, 47, 51, 03, 07,   Helensburgh
+                                                                                                     MOSSEND DOWN        MOSSEND DOWN     05.30
+PLP444   4 - weekly    23/01/2024   11, 15, 19, 24, 27,   - Balloch -    1Q80RT     TO       15.57                                                   LD75       RG
+                                                                                                     YARD                YARD              ½
+                                    31 & 35               Anniesland -
+                                                          Mossend
+
+
+
+                                                          Mossend -
+                                    39, 43, 47, 51, 03,   Grangemout
+                                                                                             18.57   MOSSEND DOWN        CARLISLE A       04.52
+PLP445   4 - weekly    27/12/2023   07, 11, 15, 19, 24,   h-             1Q81RA    WO                                                                LD75       RG
+                                                                                              ½      YARD                SIDING            ½
+                                    27, 31 & 35           Kilmarnock -
+                                                          Carlisle
+
+
+
+
+                                    39, 43, 47, 51, 03,   Carlisle -
+                                                                                                                         BLACKPOOL
+PLP446   4 - weekly    28/12/2023   07, 11, 15, 19, 24,   Barrow -       1Q82RA    ThO       16.45   CARLISLE A SIDING                    05.48      LD75       RG
+                                                                                                                         NORTH
+                                    27, 31 & 35           Blackpool
+
+
+
+                                                          Blackpool -
+                                                          Preston -
+                                    39, 43, 47, 51, 03,                                                                  DERBY
+                                                          Settle -
+PLP447   4 - weekly    29/12/2023   07, 11, 15, 19, 24,                  1Q83RJ     FO       14.15   BLACKPOOL NORTH     R.T.C.(NETWORK   04.14      LD75       RG
+                                                          Bolton -
+                                    27, 31 & 35                                                                          RAIL)
+                                                          Crewe -
+                                                          Derby RTC
+
+                                                          Derby RTC -
+                                                          Tonbridge
+                                                          West Yard -
+TRV62                               37, 45, 01, 09, 17                                               TONBRIDGE WEST      TONBRIDGE WEST
+         13 - weekly   09/12/2023                         Thameslink -   1Q85BA    SO        23.56                                        04.20      LD75       RG
+  2                                 25 & 33                                                          YARD                YARD
+                                                          Tonbridge
+                                                          West Yard -
+                                                          Derby
+
+
+                                                            Electronic copy – uncontrolled when printed

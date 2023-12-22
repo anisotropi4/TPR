@@ -1,0 +1,64 @@
+                                             OFFICIAL
+
+
+2. Route Description
+2.1 Planning Geography
+
+SC001 Gretna Junction to Glasgow Central
+Glasgow Central, new line code added in the Up direction. Note added to state line code H7 refers
+to 347pts.
+
+SC119 Greenhill Upper Junction to Dundee Central Junction
+Dunblane Signal DB43 added as a new mandatory timing point in the Down direction.
+
+SC171 Haymarket West Junction to Dundee Central Junction (Via Kirkcaldy)
+Thornton South Signal ET865 added to planning geography for reversals.
+
+SC173 Inverkeithing Central Junction to Thornton North Junction (Via Cowdenbeath)
+Inverkeithing G.L, code amended to S vice F.
+Inverkeithing C.E, code amended to S vice F.
+Townhill DGL, code amended to S vice F.
+Clunybridge Junction, code amended to X vice F.
+Thornton North Signal ET567 added to planning geography for reversals to/from Leven."
+
+SC177 Thornton North Junction to Leven
+Leven signal ETL587 removed from planning geography.
+Leven signal ETL585 added to the planning geography for reversals.
+
+SC191 Dundee Central Junction to Aberdeen
+Note added in notes column at various locations on SC191 to say, 'timing point can be omitted
+from a '150 TIPLOC' schedule'.
+
+2.2 Route Opening Hours
+    No change.
+
+3. Electrification
+3.1 Electrification Limits
+    No change.
+
+3.2 Electrification Supply Restrictions
+    No change.
+
+4. Rolling Stock Restrictions
+
+4.1 Locomotive Route Availability
+    No change.
+
+4.2 Passenger Stock Restrictions
+    No change.
+
+4.3 Freight Wagon Restrictions
+   No change.
+
+4.4 Freight Train Load Limits
+   No change.
+
+4.5 Freight Train Length Limits
+   No change.
+
+4.6 Engineers' Trains Restrictions
+   No change.
+
+
+
+                                                2

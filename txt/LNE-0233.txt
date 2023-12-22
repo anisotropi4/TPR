@@ -1,0 +1,53 @@
+NETWORK RAIL                                               Timetable Planning Rules                                                 Version: 4.1
+London North Eastern                                         Revised Final Rules for                                                  Date: 12 October 2023
+                                                        Subsidiary Change Timetable 2024                                              Page: 230 of 368
+
+
+
+
+   Pass on DN
+  K’holme from
+  Mineral Quay            P          P          P            3              3              3            3            8½*          6½*           6½*            H             H             H                H
+   Pass on DN
+  K’holme from
+Henderson Quay            P          P          P            3              3              3            3            6½*           n/a          9½*            H             H             H                H
+   Pass on DN
+  K’holme from
+  Western Jetty
+ Dep. Line (from
+ Simon Storage            P          P          P            3              3              3            3            6½*          9½*            n/a           H             H             H                H
+     West)
+   Pass on DN
+K’holme from HIT
+  No.1 or No.2
+     Arrival/             P          P          P            3              3              3            3            6½*          6½*           6½*           n/a            H             H                H
+    Departure
+   Pass on DN
+K’holme from IBT
+   Coal Pad 2            2½         2½         2½           2½             2½             2½           2½             H             H            H             H            n/a            H                H
+   Pass on DN
+K’holme from IBT
+   Coal Pad 1            2½         2½         2½           2½             2½             2½           2½             H             H            H             H             H            n/a               H
+   Pass on DN
+K’holme from IBT
+    Ore Line             2½         2½         2½           2½             2½             2½           2½             H             H             H            H             H             H               n/a
+                                                                                                                                             Pass on
+                       Pass        Pass       Pass       Pass on         Pass on       Pass on        Pass on       Pass        Pass            DN           Pass on         Pass        Pass on         Pass on DN
+                       on Up       on Up        on          Up              Up            Up             Up        on DN       on DN         K’holme           DN           on DN           DN          Ki’holme from
+                       K’hol      K’holm        Up       K’holme         K’holme       K’holme        K’holme      K’holm      K’holm          from          K’holme        K’holm       Ki’holme       IBT Ore Line
+                       me to      e to IBT    K’hol       to HIT            to            to         to Mineral    e from      e from        Western        from HIT        e from       from IBT
+                        IBT         Coal      me to      No. 1 or       Western       Henderso          Quay       Mineral    Hender           Jetty         No.1 or         IBT         Coal Pad
+                        Ore        Pad 1       IBT         No.2            Jetty       n Quay                       Quay         son        Departure          No.2          Coal            1
+                        Line                  Coal       Arrival/         Arrival                                               Quay        Line (from       Arrival/       Pad 2
+                                              Pad       Departure       Line (for                                                             Simon         Departure
+                                                 2                        Simon                                                              Storage           Line
+                                                                         Storage                                                              West)
+                                                                         West) †
+P = Parallel move; H = a following move on headway (6 minutes for LN740/742); —* = a following move in the same direction with differential value detailed; n/a = Move not applicable, one train working in terminal;
+†= With the exception of LD moves, all trains destined for Simon Storage West are required to perform a run round on the Western Jetty Arrivals line and propel into the terminal. This requires the use of the Down
+Killingholme Line.
+
+
+
+
+                                                                                      Electronic copy - uncontrolled when printed.

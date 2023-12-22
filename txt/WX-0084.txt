@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                   Date:    27th October 2023
+                                            Timetable 2024                             Page:    82 of 178
+
+Wimbledon Park Depot
+Sliding Door trains – D.O.O                      From each of:-                                    10
+and all non D.O.O. trains                        • Up Siding No.1 (Washer Road) to USL via
+                                                    720 points.*
+                                                 • Siding No.1 to UFL via 707 points.
+                                                 • No.1 Reception to Up Putney via 714
+                                                    points
+Sliding Door trains – D.O.O                      Up Siding Nos.1/2 towards Wimbledon Station       5
+and all non D.O.O. trains
+Sliding Door trains – D.O.O                      Depot to Up Fast Line via 702 points              10
+and all non D.O.O. trains
+* A maximum of 8 cars only are allowed for these departures
+
+
+Wimbledon
+
+Adjustment to Sectional Running Times
+Movement                                         Reason                                            Value
+Up Slow Line trains from Motspur Park not        Speed Differential                                {1}
+stopping at Raynes Park
+
+Connectional Allowances
+All Services                        6
+
+Dwell Times
+All Services                        1
+During Lawn Tennis                  To allow extra stops at this station during the Lawn tennis Championship
+Championships All Other Services    dwell times at surrounding stations may be reduced with agreement from the
+                                    Business Manager. This is only permissible during the period of the event
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Between all movements except as below                                                              2
+Arrival from East Putney/Wimbledon Park Depot     Depart Up Slow or Up Fast Line stopping          1
+                                                  service
+Depart from Up Platforms in the down direction    Up Fast or Up Slow service re-occupying the      4
+                                                  Up Platforms
+Passing Up Slow line train                        Departure from Wimbledon Park Depot to           1½
+                                                  Down Fast line
+
+Simultaneous Moves Not Permitted
+Up train arriving Platform 6                      Train from Wimbledon Park/Wimbledon Depot to Platform 7
+
+Station Working Requirements
+All trains that stop additionally at Wimbledon (for Wimbledon Tennis Championships) are to be advertised 3
+minutes later at destination.
+
+
+Wimbledon West Junction
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

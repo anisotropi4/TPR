@@ -1,0 +1,53 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                       Page:    194 of 443
+
+Birmingham New Street
+
+Station Working Requirements
+Access to Platforms
+All Platforms                                     Up and Down Stour to/from Soho South Jn
+Platforms 1 to 10                                 Up and Down Stour to/from Proof House Jn
+Platforms 5 to 12                                 Up and Down Main to/from Selly Oak
+Platforms 7 to 12                                 Up and Down Derby to/from Proof House Jn
+
+
+Soho South Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Trains routed towards Soho East Jn               Approach Control and slow speed junction          1
+
+Movement Up                                      Reason                                            Value
+Trains from Soho East Jn towards Birmingham      Slow speed junction                               1 to be
+New Street                                                                                         applied at
+                                                                                                   next timing
+                                                                                                   point after
+                                                                                                   Soho South
+                                                                                                   Jn
+Planning Note
+Trains standing at signal SP6610 on the Up Soho that are longer than 386 meters/60SLUs (exclusive of stand-
+back allowance) will foul Soho East Jn. Therefore, junction margins at Soho East Jn must be based on trains’
+departure time at Soho South Jn if over this length.
+
+
+Soho LMD
+
+Soho LMD can only accept trains that consist of no more than 2 Class 350, or 2 Class 323, 2 Class 730 (3-cars) or
+1 Class 730 (5-cars) Units.
+
+
+Soho Curve North Jn
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Freight from Soho East Jn crossing to Down        Any train passing Soho South Jn from             3½
+Stour at Soho North Jn                            Birmingham New Street towards Galton Jn
+Freight from Soho East Jn crossing to Down        Any conflicting Up train passing Galton Jn       2
+Stour at Soho North Jn
+
+
+
+
+                             Electronic copy - uncontrolled when printed

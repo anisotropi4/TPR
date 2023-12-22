@@ -1,0 +1,45 @@
+ NETWORK RAIL                            Timetable Planning Rules                      Version:   4.3
+ Route: Sussex                           Final Rules for Subsidiary                    Date:      18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                       Page:      12 of 163
+
+V = Victoria C.S.
+H = Battersea Pier Sidings
+
+LONDON BRIDGE (Departing with ODD numbers)
+
+N = Stewarts Lane T&RSMD via Denmark Hill
+Y = Stewarts Lane T&RSMD via any other route
+J = Selhurst Depot via Tulse Hill and Norbury
+G = Selhurst Depot via Forest Hill
+H = Selhurst Depot via Tulse Hill and Crystal Palace
+F = Streatham Hill Depot via Crystal Palace
+K = Streatham Hill Depot via Tulse Hill
+
+ANY OTHER LOCATIONS
+
+Sussex Coast = use incoming/outgoing digits with class 5
+
+East Croydon/Caterham/Tattenham/East Grinstead/Sutton/Epsom/Dorking to Streatham Hill Depot via Crystal Palace
+= 5Sxx ODD numbers
+
+East Croydon/Caterham/Tattenham/East Grinstead/Sutton/Epsom/Dorking to Selhurst Depot via Fork Arrival or
+Norwood Junction = 5Gxx EVEN numbers
+
+East Croydon/Caterham/Tattenham/East Grinstead/Sutton/Epsom/Dorking to Selhurst Depot via Selhurst station =
+5Jxx EVEN numbers
+
+East Croydon/Caterham/Tattenham/East Grinstead/Sutton/Epsom/Dorking to Victoria or London Bridge = 5xxx
+(where xxx is the next natural line of route digit, e.g. if 1P76 last train from Caterham to London Bridge, 5P78 applies
+to following ECS)
+
+
+Exceptions:
+
+STP planning should cancel the original and create an STP version of the train with the new digit. Care must be
+taken not to duplicate another train run. In the event of an insurmountable STP clash, the STP train to take 5Zxx
+
+
+
+
+                                  Electronic copy - uncontrolled when printed

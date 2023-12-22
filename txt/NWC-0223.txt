@@ -1,0 +1,51 @@
+NETWORK RAIL                         Timetable Planning Rules                      Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                     Page:    211 of 443
+
+Cannock
+
+Dwell Time                          1 Peak (Up trains to Birmingham New Street 0700 – 0830 SX and Down
+                                    trains from Birmingham New Street 1600 – 1800 SX)
+
+
+Hednesford
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                          Value
+Train terminating in Up platform                 Approach control and slow speed crossover       1
+
+Dwell Time                          1
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                        5
+
+
+Rugeley Town
+
+Dwell Time                          1
+
+
+Rugeley Trent Valley
+See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+
+
+MD370 UP DUDLEY SIDINGS TO WALSALL PLECK JN
+
+Up Dudley Sidings
+The Up Dudley Siding is signed with a 75SLU / 1575ft / 480m marker board. However, there is a further 180m
+between the marker board and the Check Hand Points board.
+
+
+MD401 HEYFORD TO BORDESLEY JN
+
+Heyford
+
+Dwell Time
+165/166                             ½
+All except 165/166                  45 Seconds
+
+
+
+
+                             Electronic copy - uncontrolled when printed

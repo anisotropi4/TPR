@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:    344 of 443
+
+
+NW7005 CASTLETON EAST JN TO HOPWOOD G. F.
+
+Castleton "Depot Area"
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                         Value
+When propelling between Castleton and              Reduced speed                                  6
+Castleton North Jn
+When propelling between Castleton North Jn         Reduced speed                                  7
+and Hopwood GF
+
+
+NW7006 TODMORDEN TO STANSFIELD HALL JN (TODMORDEN WEST CURVE)
+
+Todmorden Viaduct Jn to Stansfield Hall Jn
+
+Maximum length of train which can stand on the Todmorden West Curve:
+Down – 150m, Up – 150m
+
+
+Stansfield Hall Jn
+
+See entry under route NW7009 Farington Curve Jn to Hall Royd Jn (East Lancs lines)
+
+
+NW7007 FARINGTON CURVE JN TO ORMSKIRK
+
+Farington Curve Jn
+
+See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+
+
+Rufford
+
+Minimum dwell time
+Down trains only                                 1
+Minimum dwell time is essential for signaller actions
+
+
+Ormskirk
+
+See entry under route NW8005 Sandhills Jn Ormskirk
+
+
+NW7009 FARINGTON CURVE JN TO HALL ROYD JN (EAST LANCS LINE)
+
+Farington Curve Jn
+
+See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+
+
+
+
+                               Electronic copy - uncontrolled when printed

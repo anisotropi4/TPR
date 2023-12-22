@@ -1,0 +1,65 @@
+NETWORK RAIL                             Timetable Planning Rules               Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                        25th August 2023
+                                                                                Date:
+                                          Timetable 2024                        Page:      66 of 168
+
+
+
+
+SO130F COURTHILL LOOP NORTH JUNCTION TO COURTHILL LOOP SOUTH
+JUNCTION
+TIMING POINT                         DOWN         UP          NOTES
+
+Courthill Loop North Junction –      2½           2½
+Courthill Loop South Junction
+
+
+SO130G CHISLEHURST JUNCTION TO ST MARY CRAY JUNCTION
+TIMING POINT                         DOWN         UP          NOTES
+
+Chislehurst Junction – St Mary
+                                     4            4
+Cray Junction
+
+
+SO130H SALTWOOD JUNCTION TO CTRL/ET BOUNDARY
+TIMING POINT                         DOWN         UP          NOTES
+
+Saltwood Junction – CTRL/ET
+                                     3            3
+Boundary
+
+
+SO130K SEVINGTON LOOP TO SEVINGTON SIDINGS
+TIMING POINT                             DOWN         UP      NOTES
+
+Sevington Loop – Sevington Sidings                            One train only
+
+
+SO140 SWANLEY TO ASHFORD INTERNATIONAL (VIA MAIDSTONE EAST)
+TIMING POINT                         DOWN                  UP                           NOTES
+Swanley – Otford Jn                  3 Non-Stopping        3 Non-Stopping               * A 3 minute headway
+                                     4 Stopping*           4 Stopping**                 can be applied at
+                                                                                        Swanley if the first train
+                                                                                        does not call at
+                                                                                        Eynsford
+                                                                                        ** A 3 minute headway
+                                                                                        can be applied at
+                                                                                        Otford if the first train
+                                                                                        does not call at
+                                                                                        Shoreham
+                                     3 Non-Stopping        3 Non-Stopping
+Otford Jn – West Malling
+                                     4½ Stopping           4 Stopping
+                                     3 Non-Stopping        3 Non-Stopping
+West Malling - Charing
+                                     4½ Stopping           6 Stopping
+                                     3 Non-Stopping        3 Non-Stopping
+Charing – Ashford International
+                                     4 Stopping            4 Stopping
+
+
+
+
+                                  Electronic copy - uncontrolled when printed

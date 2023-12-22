@@ -1,0 +1,64 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                  Date:    6th October 2023
+                                         Change Timetable 2024                         Page:    212 of 289
+
+
+
+Junction Margin
+A margin of 3 minutes is required between a train using the Up main from Shrewsbury P3 to the next train from
+Sutton Bridge Jn
+
+Sutton Bridge Junction
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                   Reason                  Timing Load        Value
+From Shrewsbury to Cambrian Line           Slow speed crossover    DMU                {½}
+
+Junction Margin
+When Dorrington Signal box is switched-out, creating a block section from Marsh Brook L.C. to Sutton Bridge Jn,
+Shrewsbury bound trains may be planned following junction fouling moves at Sutton Bridge Jn on the normal
+headway from Dorrington plus 2 minutes. This permits running under clear signals.
+
+Church Stretton
+
+Dwell Time
+150 to 175 / LH                      1
+
+Marsh Brook L.C.
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                   Reason                  Timing Load        Value
+From Llandrindod (Heart of Wales Line)     Slow speed at Craven    150 to 153         {2}
+Craven Arms to Marsh Brook L.C. Start to   Arms
+Pass
+
+Craven Arms
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                    Reason                 Timing Load        Value
+From Marsh Brook L.C. to Llandrindod (Heart Slow speed at Craven   150 to 153         {1}
+of Wales Line) Pass to Pass                 Arms
+From Marsh Brook L.C. to Llandrindod (Heart Slow speed at Craven   150 to 153         {2}
+of Wales Line) Pass to Stop                 Arms
+
+Dwell Time
+150 to 175 / LH                      1
+All (to/from GW910)                  2
+
+Platform Re-occupation               4
+
+Ludlow
+
+Dwell Time
+150 to 175                           1
+LH                                   1½
+
+Leominster
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

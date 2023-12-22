@@ -1,0 +1,61 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                      Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024             Date:    28/07/2023
+                                                                                             Page:    149 of 242
+
+Bellgrove
+Pass/arrive from Springburn                      Arrive/pass from High Street Junction / High     2½*
+                                                 Street / Glasgow Queen Street Low Level
+* May be reduced to 2 minutes if ½ adjustment inserted approaching Bellgrove
+
+Planning note
+All reverse moves to be timed at Signal 783 or Signal 785
+
+
+High Street Junction
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Pass from Shields                                 Down depart Bellgrove                           1
+Pass from Shields                                 Down pass Bellgrove                             2½
+Down train arrive High Street                     Pass from Shields                               2 DMU
+                                                                                                  3½ Other
+Down train arrive/pass Queen St. L.L. (not        Pass from Shields                               1 DMU
+stopping High Street)                                                                             2½ Other
+Down depart/pass Bellgrove                        Depart from Sig. YF140/142                      2
+Down train depart/pass Glasgow Queen Street       Down train depart/pass High Street              1
+Low Level
+
+Platform re-occupation               2
+
+Restrictions
+
+Pathing time must not be used between High Street Junction and Bellgrove, and vice versa, due to there being no
+intermediate signals.
+
+
+Glasgow Queen Street Low Level
+
+Connectional Allowance               10
+
+Dwell Time
+MU                                   1
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Up train depart/pass High Street                  Up train depart/pass Glasgow Queen Street       1½
+                                                  Low Level
+
+Platform re-occupation               2
+
+
+
+Charing Cross
+
+Platform re-occupation               2
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

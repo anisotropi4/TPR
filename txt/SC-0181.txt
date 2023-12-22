@@ -1,0 +1,61 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                        Version:    4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024               Date:     28/07/2023
+                                                                                              Page:     176 of 242
+
+Dalmeny Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Down Pass to Inverkeithing                        Depart Dalmeny UPL for Winchburgh Junction        1
+Depart Dalmeny UPL for Winchburgh Junction        Down pass to Inverkeithing from Haymarket         3
+                                                  West Junction
+Up Pass to Winchburgh Junction (Not Stopping      Down Pass to Inverkeithing from Haymarket         3
+in UPL)                                           West Junction
+
+
+Dalmeny (Forth Bridge)
+
+Restriction
+The Forth Bridge is classified as an RA8[LS] structure and trains booked to cross the bridge must not exceed RA7
+without permission of the Scotland RAM (Structures) unless the vehicle is listed as clear at RA8 in the Scotland
+Freight Loads Book. The Scotland Freight Loads Book contains rolling stock and traction that are permitted to
+cross the Forth Bridge and should be referred to when planning.
+
+Restriction
+Pathing time must not be used between Dalmeny Junction & Dalmeny, and vice versa, due to there being no
+intermediate signals.
+
+
+Inverkeithing
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                            Value
+Down Freight trains to Inverkeithing GL           Approach control.                                 2
+
+Dwell Time
+MU                                   1
+
+LH                                   2
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Down Train Depart to Burntisland                  Up Train Arrive/Pass from Rosyth                  2
+Up Train Arrive/Pass from Rosyth                  Down Train Pass to Burntisland                    3
+
+Restriction
+Trains to/from the Rosyth Branch must have an “OP” stop at Inverkeithing to collect/surrender the Single Line
+token and contact the signaller.
+
+
+Kirkcaldy
+
+Dwell Time
+MU                                   1
+LH                                   2
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

@@ -1,0 +1,70 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                     Version:     4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                    Date:
+                                               2024                                           2023
+                                                                                   Page:      71 of 183
+
+EA1530 COLDHAM LANE JUNCTION TO HAUGHLEY JUNCTION
+TIMING POINTS INCLUDED            DOWN         UP              NOTES
+Coldham Lane Junction to                    AB+1               Single line. TCB plan as AB.
+Dullingham (exclusive)
+Dullingham (exclusive) to                   AB+1               Single line. TCB plan as AB.
+Chippenham Junction
+Chippenham Junction to Kennett    AB+1          AB+1           TCB plan as AB.
+Kennett to Bury St Edmunds        7             8
+Bury St Edmunds to Haughley
+                                  6             6
+Junction
+
+
+EA1540 CHIPPENHAM JUNCTION TO ELY DOCK JUNCTION
+TIMING POINTS INCLUDED            DOWN          UP             NOTES
+Chippenham Junction to Soham      8             8
+Soham to Ely Dock Junction        AB+2*         AB+0^          Single line.
+                                                               * Section includes any dwell at Soham station
+                                                               ^ A successive train in the Up direction may
+                                                               enter the section from Ely Dock Junction to
+                                                               Signal CA498 (intermediate block signal) when
+                                                               the preceding train arrives at/passes Soham
+
+
+EA1550 ELY NORTH JUNCTION TO ELY WEST JUNCTION (ELY WEST CURVE)
+TIMING POINTS INCLUDED            DOWN         UP              NOTES
+Ely North Junction to                       AB+2               Single line. TCB plan as AB.
+Ely West Junction
+
+
+EA1560 ELY NORTH JUNCTION TO KINGS DYKE (INCLUSIVE)
+TIMING POINTS INCLUDED           DOWN          UP              NOTES
+DOWN DIRECTION
+Ely North Junction (exclusive)
+                                 4                             TCB
+to Third Drove Signal CA923
+Third Drove Signal CA923 to
+                                 AB+1                          TCB plan as AB
+Manea Signal M43
+                                                               AB *Based on time preceding train departs /
+Manea Signal M43 to Manea        AB+2*
+                                                               passes Manea
+Manea to Stonea                  AB+2                          AB
+Stonea to
+                                 AB+1                          TCB plan as AB
+March South Signal MS933
+March South Signal MS933 to
+                                 4                             TCB
+Three Horse Shoes
+Three Horse Shoes to Eastrea
+                                 AB+2                          AB
+Signal THS27
+Eastrea Signal THS27 to
+                                 AB+2                          AB
+Whittlesea
+Whittlesea to King’s Dyke        AB+2                          AB
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

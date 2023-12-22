@@ -1,0 +1,63 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules              Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024     Date:    28/07/2023
+                                                                                    Page:    221 of 242
+
+ SC173 INVERKEITHING TO THORNTON NORTH JN (VIA COWDENBEATH)
+ LOCATION                 DIRECTION           USABLE LENGTH          NOTES
+                                              METRES SLU
+ Inverkeithing North GL   Down                400      63
+ Townhill UGL             Up                  415      65
+ Townhill No 1 DGL        Down                390      61
+ Townhill No 2 DGL        Down                390      61
+
+ SC181 LADYBANK TO HILTON JN
+ LOCATION                  DIRECTION          USABLE LENGTH          NOTES
+                                              METRES SLU
+ Ladybank North (CL)       Crossing Point     465      73
+
+ SC183 STIRLING TO CAMPERDOWN JN
+ LOCATION                  DIRECTION          USABLE LENGTH          NOTES
+                                              METRES SLU
+ Cambus Loop               Crossing Point     637      99
+ Alloa Loop                Crossing Point     626      97
+
+SC191 DUNDEE TO ABERDEEN
+ LOCATION                  DIRECTION          USABLE LENGTH           NOTES
+                                              METRES    SLU
+Dundee Up Through Line Up                    92        14
+Dundee Down Through    Down                  384       60
+Line
+
+ SC193 PERTH TO INVERNESS
+ LOCATION                  DIRECTION          USABLE LENGTH           NOTES
+                                              METRES SLU
+ Dunkeld & Birnam DL       Crossing Point     301      47
+ Pitlochry Loop            Up                 209      32
+                           Down               182      28
+ Kingussie (CL)            Crossing Point     280      43
+ Kincraig (CL)             Crossing Point     400      64
+ Aviemore (CL)             Crossing Point     697      108
+ Carrbridge (CL)           Crossing Point     375      60
+ Slochd (CL)               Crossing Point     400      64
+ Tomatin (CL)              Crossing Point     395      63
+ Moy (CL)                  Crossing Point     400      64
+
+ SC195 ABERDEEN TO INVERNESS
+ LOCATION                 DIRECTION           USABLE LENGTH          NOTES
+                                              METRES SLU
+ Huntly (CL)              Crossing Point      455      72
+ Keith Jn (CL)            Crossing Point      435      69
+ Elgin                    Up                  548      85
+                          Down                587      91
+ Forres Loop              Up                  1155     180
+                          Down                1289     201
+ Nairn (CL)               Crossing Point      400      62
+
+ SC203 INVERNESS TO WICK
+ LOCATION                  DIRECTION           USABLE LENGTH          NOTES
+                                               METRES SLU
+ Muir of Ord (CL)          Crossing Point      466      73
+
+                                   Electronic copy - uncontrolled when printed.

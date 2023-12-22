@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                        Page:   274 of 443
+
+
+Farington Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Train from Euxton Jn that has propelled at       Reduced speed                                     2 applied
+Farington Jn to Leyland Sidings                                                                    approaching
+                                                                                                   Leyland
+                                                                                                   Sidings
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Train arrives Leyland Sidings having propelled   Train departs Leyland on the Down Slow            ½
+from Farington Jn
+Train arrives Leyland Sidings having propelled   Train passes Farington Curve Jn having            3
+from Farington Jn                                passed Leyland
+Train arrives Leyland Sidings having crossed     Train departs Leyland on Down Slow                ½
+from Up Slow
+Train arrives Leyland Sidings having crossed     Train departs Leyland                             ½
+from Up Fast
+Train arrives Leyland Sidings having crossed     Train passes Farington Curve Jn having            3
+from Down Up Slow                                passed Leyland
+Train arrives Leyland Sidings having crossed     Train passes Preston Ribble Jn on Down Fast       3
+from Up Fast                                     having passed Leyland
+
+Planning Rules – trains to Leyland Sidings
+Trains to Leyland Sidings will stop on the Down Slow at Farington Jn. A 4 minute OP stop to be shown for the
+driver to collect radio and prepare to propel towards Leyland Sidings.
+Trains cannot access Leyland Sidings from Lostock Hall via the Up/Down Lostock Hall, due to there being no
+signalled route.
+
+
+Farington Curve Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+All trains from the Up East Lancs or the Down    Acceleration after slow speed crossovers          ½ after
+and Up Ormskirk joining the Down Slow                                                              Farington
+                                                                                                   Curve Jn *
+Trains to the Down Goods Loop at Skew            Approach control                                  1
+Bridge Jn
+
+* This adjustment does not apply if the train is routed to the Down Goods Loop at Preston Ribble Jn; however,
+check this location for other adjustments that apply.
+
+Movement Up                                      Reason                                            Value
+All trains that have travelled on Up Slow from   Approach control                                  ½
+Preston and are joining Down East Lancs or                                                         approaching
+Down and Up Ormskirk                                                                               Farington
+                                                                                                   Curve Jn
+All trains that have crossed at Preston Ribble   Approach control                                  ½
+Jn except those joining Down East Lancs or                                                         approaching
+Down and Up Ormskirk                                                                               Farington
+                                                                                                   Curve Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

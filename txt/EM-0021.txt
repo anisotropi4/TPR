@@ -1,0 +1,66 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules                       Version:    4.1
+East Midlands                  Final Subsidiary Change Rules 2024                     Date:     13th September
+                                                                                                2023
+                                                                                       Page:    19 of 123
+
+LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY)
+TIMING POINT                     DOWN         UP              CODE   NOTES
+
+Leicester South Jn               SL DFL       UFL DFL          X
+                                 UFL
+Leicester Signal LR397           DFL                           S     Reversing point on Down Fast for moves
+                                                                     between Leicester and Up & Down
+                                                                     Slow/Leicester LIP
+Leicester Signal LR399           UFL                           S     Reversing point of Up Fast for moves
+                                                                     between Leicester and Up & Down
+                                                                     Slow/Leicester LIP
+Leicester                        FL SL GL     UFL DFL                Platform detail must be shown
+                                              SL
+Leicester North Jn               FL SL GL     FL SL            X     Mandatory timing point for trains on the Up
+                                                                     Fast accessing Platforms 1 and 2
+Humberstone Road                 GL           GL               S     Recessed trains and run–rounds
+Humberstone Road Jn              FL SL        FL GL            X
+Syston                           SL           SL               S
+Syston South Jn                  FL SL        FL SL                  To/from Syston East Jn – LN3615
+Syston North Jn                  SL           SL               X     To/from Syston East Jn – LN3234
+                                                                     All trains on the Slow lines to be timed
+                                                                     here
+Sileby                           SL           SL               S
+Sileby Jn                        FL SL        FL SL
+Mountsorrel Sdgs                 FL           DFL              S
+Barrow On Soar                   SL           SL               S
+Loughborough South Jn            SL           SL               X     To/from Hotchley Hill – LN3237
+Loughborough                     FL SL        FL SL                  Platform detail must be shown
+Loughborough North Jn            SL           FL               X
+East Midlands Parkway            FL SL        FL SL            S
+Ratcliffe Jn                     FL SL        SL               X
+Ratcliffe PS                     SL           SL               S
+Trent South Jn                   – HL         FL SL                  To/from Trent East Jn – LN3204
+                                                                     To/from Meadow Lane Jn – LN3261
+Sheet Stores Jn                  –            –                      To/from Trent East Jn – LN3228
+                                                                     To/from Stenson Jn – LN3520
+Long Eaton                       –            –                S
+Spondon                          –            –
+Derby RTC Sidings South          –                             S     TIPLOC DRBYRTC
+Etches Park Carriage Sidings     – PL BP                       S     TIPLOC DRBYEPS
+                                                                     Only direct access to/from Derby Platforms
+                                                                     3, 4 and 6
+Way and Works Jn                 PL UM        –                      TIPLOC DRBYWWJ
+                                 DM DTS
+                                 UTS
+Derby RTC Sidings North          UTS                           S     TIPLOC DRBYRTN
+Derby                            ABCD         UM DM                  Platform detail must be shown
+                                 PL           UTS DTS                To/from Stenson Jn – LN3501
+                                              PL FI BP
+Chaddesden Curve Jn              C D PL       C D PL                 TIPLOC DRBYCHC
+                                              FI                     Line detail must be shown
+                                                                     Access to/from Derby Platforms 3-6 and
+                                                                     to/from Chaddesden Sidings
+Chaddesden Sidings               –            –                S     TIPLOC DRBYCHS
+St Mary’s South Jn               DF UF        ABCD                   TIPLOC DRBYSMS
+                                 US
+
+
+                                     Electronic copy - uncontrolled when printed.

@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 231 of 368
+
+
+LN742 KILLINGHOLME TO BROCKLESBY JUNCTION
+Immingham West Junction (junction margins are detailed above in the matrix)
+
+Adjustment to Sectional Running times
+Movement Up                                       Reason                                              Value
+Up services to the H.I.T. Arrival/Departure       Approach Control                                    ½
+Line No.1 or No.2, Western Jetty Arrival Line,
+Henderson Quay or Mineral Quay
+Up services to the I.B.T. Ore Terminal, Coal      Approach Control                                    1
+Pad 1 or Coal Pad 2
+
+
+Ulceby
+
+Dwell Time
+All                                  ½
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Depart to Barton                                  Arrive from Barton                                 4
+Depart to Barton                                  Pass from Immingham or Brocklesby                  4
+Pass from Immingham                               Arrive from Habrough/Barton                        4
+Pass from Brocklesby                              Depart to Barton                                   3
+Pass from Brocklesby                              Arrive from Barton                                 4
+
+
+
+LN744 ULCEBY NORTH JUNCTION TO BARTON ON HUMBER
+Thornton Abbey
+
+Dwell Time
+All                                    ½
+All trains in the down direction must come to a stand to wait for the Drivers White Lights for Barton Road Level
+Crossing
+
+
+Goxhill
+
+Dwell Time
+All                                   ½
+
+
+New Holland
+
+Dwell Time
+All                                   ½
+
+
+Barrow Haven
+
+Dwell Time
+All                                   ½
+
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,67 @@
+                                                      OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                     Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                    Date:    6th October 2023
+                                           Change Timetable 2024                           Page:    111 of 289
+
+
+West Ealing
+
+Adjustments to Sectional Running Times
+Movement                                                  Reason                                Value
+Down pass to Drayton Green or West Ealing Loop and        Approach control                      {1}
+Sidings
+Down arrive (routed to Drayton Green or West Ealing       Approach control                       {½}
+Loop and Sidings)
+Up pass from Drayton Green or West Ealing Loop and        Acceleration                          {1} Approaching
+sidings                                                                                         next timing point
+Arriving at West Ealing Platform 5                        Slow 20 mph turnout                   {½}
+
+Connectional Allowance                3
+
+Platform Re-occupation
+Platform 5                            4
+
+Junction Margins
+First Movement                                     Second Movement                              Margin
+Pass/arrive platform 4 from Drayton Green          Pass/depart to Drayton Green                 2*
+Arrive platform 5                                  Pass/depart to Drayton Green                 1
+*Increase to 3 if first movement is freight
+
+Hanwell
+
+Adjustments to Sectional Running Times
+Movement                          Reason                                       Value
+Pass Hanwell from Hanwell Bridge  Slow Crossover                               {1}
+Loop towards Drayton Green
+Pass Hanwell from Hanwell Bridge  Slow Crossover                               {1}
+Loop towards to West Ealing Loop
+
+Junction margin
+First Movement                                      Second Movement                                 Margin
+Down Arrive/Pass from Drayton Green or West         Up Pass/Arrive West Ealing on Up Relief         3
+Ealing Loop                                         (not stopping or crossing at Hanwell)
+Down Arrive/Pass from Drayton Green or West         Up Arrive/Pass on Up Relief                     2½
+Ealing Loop
+Up Pass/Depart on Up Relief                         Down Arrive/Pass from Drayton Green or          2½
+                                                    West Ealing Loop
+Up pass/Arrive West Ealing on Up Relief (not        Down Arrive/Pass from Drayton Green or          1½*
+stopping or crossing at Hanwell                     West Ealing Loop
+Down Pass to Hanwell Bridge Goods Loop              Up Pass/Arrive West Ealing on Up Relief         4½
+                                                    (not stopping or crossing at Hanwell)
+Down Pass to Hanwell Bridge Goods Loop              Up Pass/Arrive on Up Relief                     4
+Up Pass/Arrive on Up Relief                         Down Pass to Hanwell Bridge Goods Loop          2^
+Up Pass/Arrive West Ealing on Up Relief (not        Down Pass to Hanwell Bridge Goods Loop          1^
+stopping or crossing at Hanwell)
+*If the first train is 280m or less and has pathing time approaching West Ealing, the junction margin can be
+reduced by the value of the pathing time.
+^ Can be reduced by 1 minute if second train has minimum 1 minute pathing time approaching Hanwell
+
+Southall East Jn
+
+Signalling Limitations
+
+
+
+                                      Electronic copy - uncontrolled when printed.

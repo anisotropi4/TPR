@@ -1,0 +1,59 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                     Page:   408 of 443
+
+
+NW5001 CREWE NORTH JN TO MANCHESTER PICCADILLY
+LOCATION                          DIRECTION       USABLE LENGTH        NOTES
+                                                   SLU    METRES
+Down Chelford Loop                Down             142      909
+Up Chelford Loop                  Up               148      953
+Alderley Edge Down Siding         Down              24      154
+Alderley Edge Up Siding           Up                18      116
+Wilmslow Down Reversing           Down              24      155
+Siding
+Stockport Down Main               Down              32         210
+Stockport Down Goods              Down              33         217
+Mayfield Goods Loop               Down and          19         127
+                                  Up
+Engine Siding                     Down and          18         117
+                                  Up
+Manchester Piccadilly Holding     Down              22         143
+Siding
+
+
+NW5009 COLWICH JN TO CHEADLE HULME
+LOCATION                          DIRECTION       USABLE LENGTH        NOTES
+                                                   SLU    METRES
+Sideway Jn (Down Passenger        Down              72      465
+Loop)
+Stoke Up and Down Through         Down              24         157
+Siding
+Stoke Up and Down Through         Up                24         157
+Siding
+Longport Down Siding              Down              124        795
+Bradwell Longport Jn (Up          Up                 43        279     Between Longport Jn and Bradwell Jn
+Goods Loop)                                                            Between Bradwell Jn and Longport Jn
+Macclesfield Signal MD4833        Down              44         284     Standage between MD4833 and
+                                                                       MD9848 signals on Down Stoke
+
+
+NW5011 HEATON NORRIS JN TO GUIDE BRIDGE STATION JN
+LOCATION                          DIRECTION       USABLE LENGTH        NOTES
+                                                   SLU    METRES
+Heaton Norris Up Goods Loop       Up               114      730
+
+
+NW5015 HADFIELD TO ARDWICK JN
+LOCATION                          DIRECTION       USABLE LENGTH        NOTES
+                                                   SLU    METRES
+Guide Bridge Down and Up          Down             136      875
+Passenger Loop
+Guide Bridge Down and Up          Up                112        720
+Passenger Loop
+
+
+
+
+                                Electronic copy - uncontrolled when printed

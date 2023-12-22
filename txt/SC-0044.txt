@@ -1,0 +1,63 @@
+                                                OFFICIAL
+
+NETWORK RAIL                            Timetable Planning Rules                       Version:   4
+Scotland                   Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                         Page:    39 of 242
+
+SC147 BERWICK TO EDINBURGH WAVERLEY
+TIMING POINT                    DOWN        UP             CODE   NOTES
+
+Berwick-upon-Tweed              –           –                     To/from Belford Refer to LNE Timetable
+                                                                  Planning Rules (LN600)
+Berwick Goods Loops             –           –              S      Refer to LNE Timetable Planning Rules
+                                                                  (LN600)
+Route Boundary: LNE/Scotland                                      69 miels 67 chains (ECM7)
+                                                                  54 miles 50 chains (ECM8)
+Reston Signal EG403             –                                 Down direction only
+Reston Signal EG402                         –                     Up direction only
+Reston GSP                      –           –              S
+Reston                          –           –
+Grantshouse                     –           –                     Line detail must be shown for DPL and
+                                                                  UPL
+Torness GSP                     –           –              S      To/from Torness Power station
+Torness Power station           –           –              F
+Oxwellmains Lafarge             –           –              F
+Oxwellmains Haul Waste          –           –              F
+Oxwellmains Up (FL)             –           –              F
+Oxwellmains Crossovers          –           –
+Dunbar                          –           –                     Platform detail must be shown
+East Linton                     –           –              S
+Drem DPL                        –                          S
+Drem UPL                                    –              S      To/from North Berwick – SC149
+Drem                            –           –                     To/from North Berwick – SC149
+Longniddry                      –           –              S
+Longniddry APCO                 –           –                     For 80x services that are changing power
+                                                                  in the Marshall Meadows/Innerwick feeder
+                                                                  area
+Prestonpans UPL                             –              S
+Prestonpans                     –           –
+Wallyford                       –           –              S
+Monktonhall Junction            –           –                     To/from Millerhill SS – SC155
+Musselburgh                     –           –              S
+Portobello Junction             –           –                     To/from Niddrie South Junction ‘Millerhill
+                                                                  Line’ – SC161
+                                                                  To/from Niddrie West Junction ‘Suburban
+                                                                  Line’ – SC163
+                                                                  To/from Leith South – SC151
+Leith South                     –           –              F
+Craigentinny T&RSMD             –           –              S
+Craigentinny Junction           –           –                     To/from Powderhall Refuse Sdg - SC153
+Abbeyhill Junction              NL SL       –
+Edinburgh Waverley              –           NL SL                 Platform detail must be shown
+
+
+SC149 NORTH BERWICK TO DREM JUNCTION
+TIMING POINT                    DOWN        UP             CODE   NOTES
+
+North Berwick                   –
+Drem                            –           –                     To/from Prestonpans – SC147
+
+
+
+
+                               Electronic copy - uncontrolled when printed.

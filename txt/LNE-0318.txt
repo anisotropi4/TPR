@@ -1,0 +1,62 @@
+NETWORK RAIL              Timetable Planning Rules                    Version: 4.1
+London North Eastern        Revised Final Rules for                     Date: 12 October 2023
+                       Subsidiary Change Timetable 2024                 Page: 315 of 368
+
+
+STATION                   PLATFORM      USABLE       NOTES
+                                        LENGTH
+
+Pontefract Baghill        Down          127
+Pontefract Baghill        Up            102
+Pontefract Monkhill       Down          101
+Pontefract Monkhill       Up            96
+Pontefract Tanshelf       Down          101
+Pontefract Tanshelf       Up            101
+Poppleton                 Down          84
+Poppleton                 Up            84
+Potters Bar               Down Fast     166
+Potters Bar               Down Slow     166
+Potters Bar               Up Fast       164
+Potters Bar               Up Slow       164
+Prudhoe                   Down          98
+Prudhoe                   Up            95
+Rauceby                   Down          91
+Rauceby                   Up            91
+Ravensthorpe              Down          85
+Ravensthorpe              Up            85
+Rawcliffe                 Single        46           Includes 8m of substandard width
+Redcar Central            Down          102
+Redcar Central            Up            128
+Redcar East               Down          84
+Redcar East               Up            83
+Retford                   1             255
+Retford                   2             253
+Retford                   3             135          Low Level Platforms
+Retford                   4             135          Low Level Platforms
+Riding Mill               Down          94
+Riding Mill               Up            100
+Rotherham Central         1             112
+Rotherham Central         2             108
+Rotherham Central         3             30           For tram (class 399) use only
+Rotherham Central         4             30           For tram (class 399) use only
+Royston                   Down          169
+Royston                   Up            236
+Ruskington                Down          57
+Ruskington                Up            57
+Ruswarp                   Single        101          Down direction
+Ruswarp                   Single        80           Up direction
+Saltaire                  Down          143
+Saltaire                  Up            143
+Saltburn                  1             156
+Saltburn                  2             157
+Saltmarshe                Down          71
+Saltmarshe                Up            71
+Sandal and Agbrigg        Down          93
+Sandal and Agbrigg        Up            93
+Sandy                     Down Slow     246
+Sandy                     Up Slow       246
+Saxilby                   Down          107
+Saxilby                   Up            97
+Scarborough               1             277
+Scarborough               2             183
+                       Electronic copy - uncontrolled when printed.

@@ -1,0 +1,65 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                     Version:   4.1
+East Midlands                       Final Subsidiary Change Rules 2024                   Date:    13th September
+                                                                                                  2023
+                                                                                          Page:   67 of 123
+
+Kettering South Junction
+
+Adjustment to Sectional Running Times
+Movement Down                                      Reason                                           Value
+All Down direction crossing movements              Differential junction speed – deceleration       ½
+
+Movement Up                                        Reason                                           Value
+Up Slow or Down Slow to Up Fast                    Differential junction speed – acceleration       ½ to be
+                                                                                                    applied
+                                                                                                    approaching
+                                                                                                    Harrowden
+                                                                                                    Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Down Fast to Down Slow                            Up Fast to Up Fast (passenger) not stopping at    2
+                                                  Kettering
+Down Fast to Down Slow                            Up Fast to Up Fast (freight)                      2½
+Down Fast to Down Slow                            Depart Kettering Platform 3 to Up Fast            1
+Down Fast to Down Slow                            Up Slow to Up Fast                                2
+Up Fast to Up Fast                                Down Fast to Down Slow (passenger)                2
+Up Fast to Up Fast                                Down Fast to Down Slow (freight)                  3
+Down Slow to Down Slow                            Up Slow to Up Fast                                2
+Down Fast/Slow to Up Slow routed into             Up Slow pass from Kettering                       6
+Kettering Engineering/Stabling Sidings
+
+
+Kettering
+
+Adjustment to Sectional Running Times
+Movement Up                                        Reason                                           Value
+Arrival into Slow Line platforms from Kettering    Approach control (in addition to adjustment      ½ 180, 222
+North Jn when permissively working                 shown at Kettering North Jn)
+
+Attachment of units
+Inclusive of turnround               Class 360 – 12
+Exclusive of turnround               Class 360 – 4
+Detachment of units
+Inclusive of turnround               Class 360 – 10
+Exclusive of turnround               Class 360 – 2
+
+Connectional Allowance               4 Up
+                                     5 Down
+
+Minimum Turnround
+Class 360                            7
+
+Dwell Time
+DMU                                  1
+180/222                              1½ 2 minutes in the Up morning and Down evening peak
+360                                  1
+
+Junction Margin
+First Movement                                     Second Movement                                  Margin
+Up Slow from Kettering South to Platform 1         Up Slow from Kettering North to Platform 2       4
+
+
+                                         Electronic copy - uncontrolled when printed.

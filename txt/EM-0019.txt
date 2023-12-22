@@ -1,0 +1,65 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4.1
+East Midlands                   Final Subsidiary Change Rules 2024                   Date:    13th September
+                                                                                              2023
+                                                                                     Page:    17 of 123
+
+LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY)
+TIMING POINT                      DOWN       UP              CODE   NOTES
+
+Cricklewood Aggregate Sidings     –
+Brent Curve Jn                    DHL        UHL –            X     To/from Dudding Hill Jn – LN3222
+Hendon                            FL SL      FL SL                  Platform detail must be shown
+                                  DHL        UHL
+Silkstream Jn                     SL         UHL SL                 Mandatory on the Slow Lines Only
+Mill Hill Broadway                FL SL      FL SL            S     Platform detail must be shown
+Elstree                           FL SL      FL SL            S     Platform detail must be shown
+Radlett Jn                        FL SL      FL SL
+Radlett                           FL SL      FL SL            S     Platform detail must be shown
+Radlett Roadstone WH592           –          SL               S     For shunt moves to/from Radlett Redland
+                                                                    Roadstone
+Radlett Redland Roadstone         SL                          F
+St Albans City                    FL SL      FL SL                  Platform detail must be shown
+St Albans Centre Siding                      -                S     TIPLOC STALBCS
+Harpenden Jn Signal WH563         FL SL                       S     TIPLOC HRPN563
+Harpenden Jn Signal WH565         SL                          S     TIPLOC HRPN565
+Harpenden Jn                      FL SL      FL SL
+Harpenden                         FL SL      FL SL            S     Platform detail must be shown
+Luton Airport Parkway             FL SL      FL SL            S     Platform detail must be shown
+Luton Up Siding GF                           SL               F
+Luton Crescent Road               SL                          F
+Luton                             FL SL      FL SL                  Platform detail must be shown
+Luton North Jn                               FL DSL           X
+Luton Signal WH616                           FL DSL           S
+                                             USL
+Limbury Road South GF             SL         SL               F
+Limbury Road                      SL         SL               F     No 1 Road 405m in length
+                                                                    No 2 Road 292m in length
+                                                                    Discharge Road 292m in length
+Limbury Road North GF                        SL               F
+Leagrave                          FL SL      FL SL            S     Platform detail must be shown
+Leagrave Jn                       FL SL      FL SL
+Sundon South Junction                        SL                     Mandatory Timing Point for all Trains on
+                                                                    the Up Slow Line
+Sundon Up Loop                                                      Trains stopping in Sundon Up Loop to
+                                                                    show stop at Sundon South Junction
+Harlington                        FL SL      FL SL            S     Platform detail must be shown
+                                             SUL                    Mandatory Timing Point for all Trains on
+                                                                    the Up Slow Line
+Flitwick                          FL SL      FL SL                  Platform detail must be shown
+Flitwick Jn                       FL SL      FL SL            X
+Elstow                            SL                          F
+Elstow Redland Sdgs                          SL               F
+Bedford Signal WH599              FL USL                      S     TIPLOC WHMP599
+                                  SL -                              For access to/from Bedford Cauldwell
+                                                                    Depot
+Bedford Signal WH601              USL -                       S     TIPLOC WHMP601
+                                                                    For access to/from Bedford Caudwell
+                                                                    Depot
+Bedford Cauldwell Depot                      SL               S
+Bedford South Jn                  FL         FL SL
+                                  USL DSL
+Bedford Carriage Sidings          –                           S     TIPLOC BEDFDCS
+
+                                   Electronic copy - uncontrolled when printed.

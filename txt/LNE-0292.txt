@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                    Version: 4.1
+London North Eastern                      Revised Final Rules for                     Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                 Page: 289 of 368
+
+
+Gascoigne Wood
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                        Value
+Passenger trains from Sherburn/Milford            Accleration                                   ½
+Junction.
+                                                                                                To be applied
+                                                                                                approaching
+                                                                                                Hambleton
+                                                                                                West Jn
+Freight Pass from Sherburn Junction               Accleration                                   60mph
+                                                                                                Freight
+
+                                                                                                ½ Up to 800t
+                                                                                                1 1000t and
+                                                                                                above
+
+                                                                                                75mph
+                                                                                                Freight
+                                                                                                1 Up to 800t
+                                                                                                1½ 1000t and
+                                                                                                Above
+
+                                                                                                To be applied
+                                                                                                approaching
+                                                                                                Hambleton
+                                                                                                West Jn
+Freight Pass from Milford Junction                Accleration                                   1 Up to 1400t
+                                                                                                1½ 1600t
+                                                                                                and above
+                                                                                                .
+                                                                                                75mph
+                                                                                                Freight
+                                                                                                1½ Up to
+                                                                                                1400t
+                                                                                                2 1600t and
+                                                                                                Above
+
+                                                                                                To be applied
+                                                                                                approaching
+                                                                                                Hambleton
+                                                                                                West Jn
+
+Movement Up                                       Reason                                        Value
+Passenger trains to Sherburn/Milford Junction     Approach control                              1
+Freight Pass to Milford Junction/Sherburn         Approach Control                              1½
+Junction
+
+Junction Margins
+First Movement                                    Second Movement                               Margin
+Pass from Micklefield                             Pass to/from Sherburn Junction                3½
+Pass to/from Micklefield                          Pass from Milford Junction                    5
+Pass from Micklefield                             Depart from Milford Junction                  2½
+Pass to Micklefield                               Depart from Milford Junction                  2
+Pass from Sherburn Junction                       Pass to Sherburn Junction                     3½
+Pass to Sherburn J unction                        Pass from Micklefield                         3
+                                     Electronic copy - uncontrolled when printed.

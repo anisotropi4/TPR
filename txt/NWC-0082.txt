@@ -1,0 +1,60 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                    Page:    70 of 443
+
+
+
+NW2023 SPRINGS BRANCH JN TO HUYTON JN (ST HELENS LINES)
+TIMING POINT                       DOWN       UP          CODE     NOTES
+
+Springs Branch Jn                      –        FL SL              To/from Wigan South Jn – NW1001
+Ince Moss Jn                           –         GL                Trains to/from Bamfurlong Sidings Jn –
+                                                                   NW1025 only
+Bryn                                   –           –        S
+Garswood                               –           –        S
+St. Helens Central                     –           –
+St. Helens Station Jn                                              To/from Ravenhead Jn – NW2025
+Down Goods Loop                                                    49 chains from St. Helens Station Jn (not
+                                                                   currently used for timing purposes)
+Thatto Heath                           –           –        S
+Eccleston Park                         –           –        S
+Prescot                                –           –        S
+Huyton Jn                                                          To/from Huyton – NW2015
+
+
+NW2025 ST. HELENS STATION JN TO RAVENHEAD JN
+TIMING POINT                       DOWN       UP          CODE     NOTES
+
+St. Helens Station Jn                                              To/from St. Helens Central – NW2023
+Ravenhead Jn                           –           –               Start of single line, 61 chains to Network
+                                                                   Rail Boundary (line continues to Leathers
+                                                                   Chemicals)
+
+
+NW2027 EDGE HILL BOOTLE BRANCH JN TO LIVERPOOL DOCKS
+TIMING POINT                       DOWN       UP          CODE     NOTES
+
+Bootle Branch Jn                       –           –               To/from Former Edge Hill SB – NW2015
+                                                                   To/from Olive Mount Jn – NW2015
+                                                                   To/from Down and Up Waterloo Sidings
+                                                                   (Tuebrook)
+Edge Lane Jn                           –           –               To/from Olive Mount Jn – NW2029
+Bootle Jn                              –           –               To/from Waterloo – NW8001
+                                                                   To/from Bootle Down & Up Goods –
+                                                                   NW8007
+Stop Board 1                           –                           All Down trains to show OP stop of 2
+                                                                   minutes for permission to proceed to Port
+                                                                   of Liverpool
+Network Rail/Mersey Docks &                                        5 miles 53 chains
+Harbour Company Boundary
+Strand Road Level Crossing             –           –
+Liverpool Euro Metal                               –        F
+Liverpool Bulk Handling Terminal                   –        F
+Liverpool Gladstone Dock                           –        F
+Seaforth Container Terminal                        –        F
+
+
+
+
+                             Electronic copy - uncontrolled when printed

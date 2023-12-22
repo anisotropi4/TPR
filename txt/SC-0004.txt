@@ -1,0 +1,64 @@
+                                              OFFICIAL
+
+SC001 Gretna Junction to Glasgow Central (Via Beattock)
+Carstairs Station, Arrive from Carstairs North Jn, followed by arrive from Carstairs East/South Jn
+moved to Overlap margins section, as this is a signal overlap conflict.
+New signal overlap margin for arrive from Carstairs East/South Jn, followed by arrive from
+Carstairs North Jn.
+
+Motherwell, removed HST dwell time entry.
+
+SC003 Carstairs South Junction to Haymarket East Junction
+Slateford, removed reference to HST7XC for one adjustment allowance.
+
+SC031 Gretna Junction to Glasgow Bridge Street Junction (Via Kilmarnock)
+Muirhouse Central Junction, correction of the spelling 'Pollokshields’.
+
+Muirhouse North Junction, correction of the spelling 'Pollokshields’.
+
+SC077 Ardrossan South Beach to Ardrossan Harbour
+New entry for Ardrossan Harbour. Connectional allowance of 14 minutes between train and ferry
+services.
+
+SC107 Edinburgh to Glasgow Queen Street (Via Falkirk High)
+Edinburgh, removed HST dwell time entry for through trains.
+
+SC115 Cowlairs North Junction to Knightswood North Junction
+Cowlairs North Junction, new junction margin for first movement, Pass to Cowlairs East Junction,
+second movement pass to Cowlairs West Junction.
+
+SC119 Greenhill Upper Junction to Dundee Central Junction
+Dunblane, new adjustment allowance for Up trains depart platform 2 or 3. Note added to state
+applied approaching next timing point.
+Junction margin for arrive platform 3, second movement, pass Down removed.
+Junction margin for Depart/pass platform 2 to Dunblane signal DB43, second movement depart
+platform 3 to Dunblane SB value amended to 2 minutes.
+New junction margin for depart platform 3 to Dunblane Signal DB43, second movement Depart
+platform 2 to Dunblane Signal box.
+Depart/pass 'Up' amended to platform 1 to Stirling for consistency.
+New junction margin for depart platform 2/3 to Stirling, second movement, arrive from Dunblane
+SB.
+Platform 3 added to first movement Depart Dunblane SB to Platform 1/3.
+Various junction margins added for conflicts moves at the South end of Dunblane.
+
+SC147 Berwick to Edinburgh Waverley
+Oxwellmains Crossover, removed reference to HST7XC for one adjustment allowance.
+
+Craigentinny Junction, Down direction adjustment allowance, note added to say reduce to ½ if
+stopping at Abbeyhill Junction.
+
+SC171 Haymarket West Junction to Dundee Central Junction (Via Kirkcaldy)
+Thornton North Junction, new adjustment allowance for Down train towards Ladybank from
+Thornton North Signal ET567.
+Thornton North Junction, removed reference to exclude HST7XC for one adjustment allowance.
+Removed adjustment allowance for HST7XC only.
+
+Leuchars, removed reference to HST in junction margin.
+
+SC191 Dundee Central Junction to Aberdeen
+Dundee, dwell time, removed reference to XC HST.
+
+
+
+
+                                                  4

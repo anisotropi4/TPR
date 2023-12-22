@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 140 of 368
+
+
+Grantham
+Stoke Jn to Nottingham Branch Jn to             Approach control and differential junction          2 Freight
+Allington triangle; pass to pass                speed at Grantham South Jn
+Up Fast only to Up Slow (to Highdyke Jn)        Approach control and differential junction          2 Freight
+                                                speed
+P4/Up & Down Slow to Up Fast                    Differential junction speed at Grantham South       2 HST/180/
+                                                Jn                                                  225/80X
+Allington triangle to Nottingham Branch Jn to   Differential junction speed at Grantham South       2 Freight
+Stoke Jn; pass to pass                          Jn
+
+Connectional Allowance                          7
+
+Dwell Time
+DMU                                             2*. * 4 for reversing trains
+LH/180/802                                      1½
+LNER all services                               2 – May be reduced to 1½ with prior agreement from the operator
+
+Minimum Turnround                               7 – DMU/EMU
+
+Junction Margins
+In the following tables, ‘P’ denotes a parallel move.
+First Movement                                     Second Movement                                  Margin
+Arrive Platform 4 from Stoke Junction              Depart Platform 3 to Nottingham Branch           2
+                                                   Junction
+Arrive Platform 4 from Stoke Junction              Arrive Platform 3 from Nottingham Branch         4
+                                                   Junction
+Arrive Platform 3 from Nottingham Branch           Arrive Platform 4 from Stoke Junction            4
+Junction
+Arrive Platform 2 from Stoke Junction              Depart Up/Down Goods to Up Fast/Slow             Same time
+North End movements
+2nd move →        Arr Pl 3/4    Arr Pl 3/4 *    Dep Pl 3/4     Dep Pl 3/4    Pass       Dep     Pass Up      Arr Up
+                  * from        from Nott’m * to               * to Nott’m   Down       Down    Main         Main
+1st move ↓        Claypole                      Claypole                     Main       Main
+Arr Pl 3/4*       –             4               2              2             3          1       3            4
+from Claypole
+Arr Pl 3/4*       4             –               2              2             P          P       P            P
+from Nott’m
+Dep Pl 3/4* to 8                7               –              4             7          6       P            P
+Claypole
+Dep Pl 3/4* to 7                7               4              –             P          P       P            P
+Nott’m
+Pass Down         6             P               2              P             –          –       P            P
+Main
+Dep Down          7             P               3              P             –          –       P            P
+Main
+Pass Up Main 7                  P               P              P             P          P       –            –
+Arr Up Main       6             P               P              P             P          P       –            –
+*Platform 3/4 margins also apply to movements to/from GL
+South End movements
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

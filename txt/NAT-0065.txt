@@ -1,0 +1,59 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                                Version 4.0
+National                                                                            Date: 28th July 2023
+                               Final Proposal for Subsidiary Change 2024
+                                            Page 64 of 114
+Type           Days   TID          Start Time       Origin                 Destination
+
+RHTT           FSX    3S50         16:40           Wigan L.I.P             Crewe
+RHTT           TThO   3S50         04:50           Crewe                   Wigan L.I.P
+RHTT           MWFO   3S50         04:50           Crewe                   Wigan L.I.P
+RHTT           SO     3S50         04:59           Crewe                   Wigan L.I.P
+RHTT           FO     3S50         16:40           Wigan L.I.P             Crewe
+                                                   Kings Norton OT Plant   Kings Norton OT Plant
+RHTT           SX     3S52         15:01           Dept                    Dept
+                                                   Kings Norton OT Plant   Kings Norton OT Plant
+RHTT           SU     3S52         21:10           Dept                    Dept
+                                                   Kings Norton OT Plant   Kings Norton OT Plant
+RHTT           SX     3S53         18:47           Dept                    Dept
+                                                   Kings Norton OT Plant   Kings Norton OT Plant
+RHTT           SU     3S53         20:29           Dept                    Dept
+RHTT           SX     3S56         16:56           Wigan L.I.P             Wigan L.I.P
+RHTT           SU     3S56         18:18           Chester                 Wigan L.I.P
+RHTT           SO     3S56         15:12           Wigan L.I.P             Wigan L.I.P
+RHTT           SO     3S57         14:51           Wigan L.I.P             Wigan L.I.P
+RHTT           SX     3S57         15:13           Wigan L.I.P             Wigan L.I.P
+De-Icer        SO     3S90         11:12           Wigan L.I.P             Southport
+De-Icer        SX     3S90         15:13           Wigan L.I.P             Wigan L.I.P
+De-Icer        SO     3S90         14:51           Wigan L.I.P             Wigan L.I.P
+De-Icer        SU     3S90         14:28           Wigan L.I.P             Wigan L.I.P
+De-Icer        SO     3S91         06:37           Ormskirk                New Brighton
+De-Icer        SX     3S91         06:37           Ormskirk                New Brighton
+De-Icer        SU     3S91         09:30           Wigan L.I.P             West Kirby
+De-Icer        SU     3S91         13:04           Wigan L.I.P             New Brighton
+De-Icer        SX     3S91         14:05           Southport               New Brighton
+De-Icer        SO     3S91         14:05           Southport               New Brighton
+De-Icer        SU     3S92         13:08           West Kirby              Southport
+De-Icer        SX     3S92         10:30           New Brighton            Chester
+De-Icer        SO     3S92         10:30           New Brighton            Chester
+De-Icer        SU     3S92         17:33           New Brighton            Kirkby
+De-Icer        SX     3S92         18:02           New Brighton            Kirkby
+De-Icer        SO     3S92         18:02           New Brighton            Kirkby
+De-Icer        SX     3S93         15:22           Chester                 Wigan L.I.P
+De-Icer        SU     3S93         16:33           Southport               James Street
+De-Icer        SO     3S93         15:22           Chester                 Wigan L.I.P
+De-Icer        SO     3S93         21:23           Kirkby                  Wigan L.I.P
+De-Icer        SX     3S93         21:23           Kirkby                  Wigan L.I.P
+De-Icer        SU     3S93         21:23           Kirkby                  Wigan L.I.P
+De-Icer        SU     3S94         18:27           James Street            Wigan L.I.P
+Scotland
+RHTT           MO     3S90         02:07           Mossend Down Yard       Girvan
+RHTT           MSX    3S90         02:07           Mossend Down Yard       Girvan
+RHTT           SO     3S90         02:07           Mossend Down Yard       Girvan
+                                   11:09
+RHTT           SX     3S90         09:55           Girvan                  Mossend Down Yard
+RHTT           SO     3S90         10:16           Girvan                  Mossend Down Yard
+RHTT           SU     3S90         07:00           Mossend Down Yard       Gourock
+                             Electronic copy – uncontrolled when printed

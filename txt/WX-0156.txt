@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                         Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                      Date:    27th October 2023
+                                             Timetable 2024                                Page:    154 of 178
+
+East Putney
+
+Looping and Passing Trains
+If it is required to pass two trains at East Putney the maximum permitted length (clear of both the LUL District
+Lines and the single line) is as follows.
+Up line stood at W352                    211m
+Down line stood at W353                  121m
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Between all movements                                                                                  2
+
+
+Wimbledon
+
+See entry under route – SW105
+
+
+SW230 BARNES TO FELTHAM JUNCTION (VIA HOUNSLOW)
+
+Barnes
+
+See entry under route – SW210
+
+
+New Kew Junction
+
+Junction Margins
+First Movement                                      Second Movement                                    Margin
+Train crosses towards Kew East Junction from        Up train passes Kew Bridge towards Chiswick        3#
+Chiswick
+Train crosses towards Kew East Junction from        Up train departs Kew Bridge towards Chiswick       1½*
+Chiswick
+Up train passes/departs Kew Bridge towards          Train crosses towards Kew East Junction from       2
+Chiswick                                            Chiswick
+Train passes from Kew East Junction towards         Up train passes/departs Kew Bridge towards         3½
+Chiswick                                            Chiswick
+Up train passes/departs Kew Bridge towards          Train passes from Kew East Junction towards        4
+Chiswick                                            Chiswick
+Up train passes/departs Kew Bridge towards          Train departs from Down Kew Spur towards           3
+Chiswick                                            Chiswick
+Train crosses towards Kew East Junction from        Down train arrives/passes Kew Bridge from          3½^
+Chiswick                                            Chiswick
+# 3½ minutes if the second movement is a freight service.
+* 2 minutes if the first movement is longer than 62 SLU/400m.
+^ 4 minutes if the first movement is longer than 62 SLU/400m.
+
+Overlap Restrictions
+First Movement                           Second Movement                          Signal          Margin
+Train crosses towards Kew East           Up train arrives at Kew Bridge Platform BEF2340          4*
+Junction from Chiswick                   1 from Brentford
+Up train arrives at Kew Bridge           Train crosses towards Kew East           BEF2340         3*
+Platform 1 from Brentford                Junction from Chiswick
+* Movements can be made in parallel if the arrival at Kew Bridge Platform 1 has {½} approaching Kew Bridge to
+allow for the approach control when using the reduced overlap on BEF2340.
+
+
+
+                                     Electronic copy - uncontrolled when printed.

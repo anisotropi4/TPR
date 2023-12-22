@@ -1,0 +1,44 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version:   4
+Region: North         Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                 Page:    103 of 443
+
+
+NW9001 DORE WEST JN TO EDGELEY JN NO.1 (HOPE VALLEY LINES)
+NW9001 EARLES SIDINS (INCL.) TO EDGELEY JN NO.1
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+New Mills South Jn                    –           –              To/from New Mills Central – NW9007
+                                                                 Track detail must be shown for Up
+                                                                 Services:
+                                                                 UR - Up Romiley
+                                                                 UGL - Up Goods Loop
+                                                                 UM - Up Main
+Hazel Grove High Level Jn             –           –              Single line from Hazel Grove High Level Jn
+                                                                 to/from Hazel Grove East Jn
+                                                                 Down Cheadle Loop for trains to
+                                                                 Northenden Jn only
+Hazel Grove East Jn                                              To/from Buxton – NW9021
+Hazel Grove                           –           –              Platform detail must be shown
+Hazel Grove West Jn
+Hazel Grove Down Siding                           –        S
+Hazel Grove Up Siding                             –        S
+Hazel Grove Signal HG14                           –        S     For reversals on the Down Hope Valley
+                                                                 to/from Hazel Grove
+Woodsmoor                             –           –        S
+Davenport                             –           –        S
+Edgeley Jn No.1                     FL SL         –              To/from Stockport – NW5001
+
+
+NW9003 CHINLEY EAST JN TO CHINLEY SOUTH JN (CHORD LINE)
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+Chinley East Jn                       –           –              Single line from Chinley East Jn to/from
+                                                                 Chinley South Jn
+                                                                 To/from Edale – NW9001
+Chinley South Jn                      –           –              To/from Peak Forest South SB – NW9005
+
+
+
+
+                            Electronic copy - uncontrolled when printed

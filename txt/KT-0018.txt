@@ -1,0 +1,62 @@
+ NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+ Kent & HS1                                                   OFFICIAL
+                                      Final Proposal for Subsidiary                            25th August 2023
+                                                                                     Date:
+                                         Timetable 2024                              Page:     14 of 168
+
+
+Sussex TIDs Sservices from Sussex to / from Kent
+      TID       East London Line / Thameslink Service Groups
+     1Fxx       London Victoria/London Bridge and Eastbourne / Hastings / Ore
+     1Gxx       Brighton and Hastings (semi-fast)
+     1Txx       London Victoria and Tonbridge via Redhill
+     1Uxx       Brighton and Hastings / Ore (semi-fast services)
+     2Axx       Redhill and Tonbridge
+     2Dxx       Eastbourne / Hastings and Ashford International (includes Rye shuttle)
+     2Gxx       Brighton and Hastings / Ore (stopping services)
+     2Uxx       Brighton and Eastbourne
+
+Third and Fourth Character
+
+London Victoria to/from Kent                   EVEN NUMBERS
+London Blackfriars to/from Kent                ODD NUMBERS
+
+Charing Cross to/from Kent                      EVEN NUMBERS
+Cannon Street to/from Kent                      ODD NUMBERS
+
+All Other Kent Services:
+Tonbridge to Tunbridge Wells                    EVEN NUMBERS
+Tunbridge Wells to Tonbridge                    ODD NUMBERS
+Sheerness to Sittingbourne                      EVEN NUMBERS
+Sittingbourne to Sheerness                      ODD NUMBERS
+
+The following apply only to High Speed 1:
+
+ Classification   Description
+       9          Passenger or empty coaching stock train formed of International rolling stock
+       1          Domestic express passenger train capable of running at 200 Kmph or more
+       2          Domestic express passenger train capable of running at 199 Kmph or less
+       3          Works train formed of passenger rolling stock or multiple unit type vehicles e.g. MPV
+       4          Freight train capable of running at 161 Kmph or more
+       5          Empty coaching stock train formed of Domestic rolling stock
+       6          Freight train capable of running at 160 Kmph or less
+       7          On-track plant (OTM) e.g. tamper, TRAMM
+       8          Works train formed of locomotive and wagons e.g. Ballast train
+       0          Light locomotive or locomotives
+
+TIDs HIGH SPEED 1 ROUTE EUROSTAR SERVICES
+
+ Classification   Description
+     9O**         Class 373 & 374 train between London St Pancras International and Paris or other
+                  locations in France in both directions
+      9I**        Class 373 & 374 train between London St Pancras International, Brussels (Bruxelles) and
+                  Amsterdam in both directions
+      9S**        European Passenger Empty and Test Trips on High Speed 1 only
+      9Z**        European Passenger Empty and Test Trips on High Speed 1 only
+
+TIDs HIGH SPEED 1 ROUTE DOMESTIC SERVICES TO AND FROM KENT
+
+
+
+
+                                    Electronic copy - uncontrolled when printed

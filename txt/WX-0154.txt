@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version:      4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                       Date:       27th October 2023
+                                            Timetable 2024                                 Page:       152 of 178
+
+Bracknell
+All Services                           1
+
+Junction Margins
+First Movement                                         Second Movement                                   Margin
+Up train departs Platform 2                            Down train arrives Platform 2                     4
+
+Overlap Restrictions
+First Movement                                 Second Movement                         Signal            Margin
+Up train arrives at Platform 1                 Up train departs Platform 2             BEF2250           1
+                                               towards Ascot
+Up train departs Platform 2 towards Ascot      Up train arrives at Platform 1          BEF2250           4½
+
+
+Wokingham
+
+Berthing Facilities
+                          Cars                 Notes
+Down Siding               12
+
+Dwell Times
+All Services                           1
+
+Junction Margins
+First Movement                                         Second Movement                                    Margin
+Down train arrives/passes Platform 2 from              Up train passes Platform 1 towards Blackwater      2
+Bracknell
+Down train arrives at Platform 2 from Signal           Up train passes Platform 1 towards                 2
+BEF2267/BEF2995                                        Blackwater/ Bracknell
+Up train passes/departs Platform 1 towards             Down train arrives/passes Platform 2 from          3½
+Blackwater                                             Bracknell
+Up train departs Platform 2                            Down train arrives/passes Platform 2 from          4
+                                                       Blackwater/Bracknell
+Up train departs Platform 2 towards Blackwater         Up train passes Platform 1 towards Bracknell       2½
+Up train departs Platform 2 towards Blackwater         Up train departs Platform 1 towards Bracknell      2
+Up train passes/departs Wokingham towards              Up train passes/departs Wokingham towards          3½
+Blackwater                                             Signal BEF2994/BEF2995
+
+
+Reading Spur Junction
+
+Adjustments to Sectional Running Times
+Movement                                               Reason                                            Value
+Up Class 22x passing from Up Reading Spur              Speed Differential                                {½}*
+* Applies approaching next timing point.
+
+Junction Margins
+First Movement                                         Second Movement                                    Margin
+Between all movements except as below                                                                     3
+Up Reading Line train                                Down service to Western Route crossing               2
+                                                     behind
+Reversal of trains – when a train is reversing to precede to or from Platforms 4, 5 or 6 no movement is permitted
+on the Down Line beyond signal WM 12 at Earley.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

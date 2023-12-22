@@ -1,0 +1,65 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version:     4.3
+Route: Sussex                           Final Rules for Subsidiary                    Date:        18th October 2023
+                                              Timetable 2024 OFFICIAL
+                                                                                      Page:        84 of 163
+
+East Croydon
+
+All southbound crossing movements           Approach control and slow speed               {½} approaching East
+between Fast, Slow and Reversible           crossovers                                    Croydon *
+Lines at London End *
+All southbound crossing movements           Approach control and slow speed               {½} approaching East
+between Fast, Slow and Reversible           crossovers                                    Croydon and next timing
+Lines at Country End *                                                                    point *
+All northbound crossing movements           Approach control and slow speed               {½} approaching East
+between Fast, Slow and Reversible           crossovers                                    Croydon *
+Lines at Country End *
+All northbound crossing movements           Approach control and slow speed               {½} approaching East
+between Fast, Slow and Reversible           crossovers                                    Croydon and next timing
+Lines at London End *                                                                     point *
+All movements from Sanderstead              Speed Differential                            {½}
+passing South Croydon on the Up Slow
+into Platform 4
+All movements from Sanderstead        Speed differential at South Croydon,       {1}
+passing South Croydon on the Up Slow  approach control on signal T126 and
+into Platforms 2,3 and 5              25mph crossovers at East Croydon. Note
+                                      that {1} also incorporates the speed
+                                      differential at South Croydon
+*Does not apply to movements between Down Fast or Up Fast and Up Fast Reversible
+
+Dwell Times
+All Services                                                                                           1
+
+Limit of Shunt
+                                 Length Limit
+Up Fast (Clear of T100)          12
+Down Slow (Clear of T123)        12
+
+Platform Re-occupation           Margin
+All platforms with following     2
+moves
+
+Overlap Restrictions
+First Movement                 Second Movement              Reason                        Margin
+Down train arriving in         Up train arriving at         Overlap on 1608A/B            2
+Platform 5 from either RVL     Platform 4                   points
+or DFL
+Up train departing Platform    Up train arriving Platform   Overlap on 1608A/B            2
+5                              4                            points
+
+Station Working Requirements
+Whenever possible, change of line should be made at North End of station with Northbound services and at South
+End of station with Southbound services.
+Stopping passenger services from 01.00 to 05.00 should be timed to run via Platforms 5 and 6 where possible
+
+Planning Notes
+Trains formed of a 12 car class 700 EMU must not be planned to reverse in platform 3, due to signal sighting
+issues for signals at either end of the platform. However 12 car Class 700 EMU are able to use platforms 2, 4 and
+5 for this purpose.
+The non-stop headway applies for consecutive trains departing from or passing East Croydon providing the second
+train uses a different platform and the correct headway is applied at the next timing point irrespective of calling
+pattern. National TPR section 1.5.5 Application of Planning Headways refers.
+The non-stop headway applies for consecutive trains arriving at or passing East Croydon providing the second train
+uses a different platform and the correct headway has been applied at the previous timing point irrespective of calling
+pattern. National TPR section 1.5.5 Application of Planning Headways refers.
+                                  Electronic copy - uncontrolled when printed

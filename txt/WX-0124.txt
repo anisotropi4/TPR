@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                   Date:    27th October 2023
+                                            Timetable 2024                             Page:    122 of 178
+
+Templecombe
+Down passing trains proceeding onto ML            Speed Differential                                {½}
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Between all movements                                                                               4
+
+
+Sherborne
+
+Dwell Times
+Class 159 DMU                        1
+
+
+Yeovil Junction
+
+Adjustment to Sectional Running Times
+Movements                                        Reason                                            Value
+Down train signalled to arrive when movement     Speed Differential                                {1}
+signalled Single Line to/from Chard Junction
+Up trains entering the station                   Approach Control on Signal SE4732                 {1}
+
+Connectional Allowance           60
+Connectional allowance between Yeovil Junction and Yeovil Pen Mill
+
+Dwell Times
+Class 159 DMU                        1½
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Between all movements                                                                              4
+Reoccupation of single line                                                                        1
+
+Limit of Shunt
+                                    Length Limit
+Down Line (clear of SE4721)         60 SLUs / 20Mk 1 vehicles
+
+Permissive Working for attaching/detaching and Platform sharing is authorised as shown below:
+Platform 1                                 Attaching/Detaching $
+Platform 2                                 Attaching/Detaching $
+$ Attaching is only permitted when the second arrival is empty coaching stock shunting from signals 4721, 4723
+or 4732.
+$ Detaching is permitted in order to form 2 or more separate workings or to remove vehicles
+
+Simultaneous Moves Not Permitted
+Up Train signalled into Up     Any Crossing move taking place at the London end of the station between
+Platform                       the up and down lines or to or from the Pen Mill branch.
+                               Train must come to a stand in the Up platform before these moves are
+                               made.
+Down Train signalled into Up   Train signalled into or out of the Crewkerne end of the down platform.
+Platform
+
+Station Working Requirements
+    • All attachments to up trains must be made by bringing the up train to a stand in the Platform, and
+        attaching the portion at the London via signals SE4721 or SE4723. The shunt move must be made via
+        SE4721 or SE4723 after the up train has arrived as it is not possible to be at a stand at SE4721 or
+        SE4723 as this is in the overlap of SE4718 or SE4714
+
+                                   Electronic copy - uncontrolled when printed.

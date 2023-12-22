@@ -1,0 +1,65 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                  Date:    6th October 2023
+                                         Change Timetable 2024                         Page:    215 of 289
+
+
+
+Dwell Time
+Power                                1
+Freight services for Chirk Kronospan to be allowed a minimum of 10 minutes dwell for shunting duties to be
+undertaken
+
+Wrexham General
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                           Value
+Trains from Platform 3 towards Ruabon             Slow speed junction                              {1} after
+                                                                                                   Wrexham
+Trains from Ruabon towards Platform 3             Slow speed junction                              {1}
+                                                                                                   approaching
+                                                                                                   Wrexham
+
+Dwell Time
+LH                                     1½
+Slam                                   1*
+Power                                  1*
+* - ½ minute for trains to/from Bidston (LH/HST stop not permitted)
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Arrive Plat.1 from Saltney Jn.                    Depart Plat.3 or Up Bay Sidings towards Croes    4
+                                                  Newydd
+Arrive Plat.1 from Saltney Jn.                    Arrive Wrexham from Croes Newydd N.F. via        5½
+                                                  Up Main
+Depart Plat.3 or Up Bay Sidings towards Croes     Arrive Plat.1 from Saltney Jn.                   6
+Newydd
+Arrive Plat.3 or Up Bay Sidings from Croes        Arrive Plat.1 from Saltney Jn.                   4½
+Newydd North Fork.
+Depart Plat.3 towards Croes Newydd                Arrive Plat.2/3 from Gobowen                     5½
+
+Platform Reoccupation
+Platform 1                           6
+
+Turnaround Allowance
+Class 230                            4
+Class 197                            3
+
+GW733 SUTTON BRIDGE JUNCTION TO ABERYSTWYTH
+
+Sutton Bridge Jn
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                  Reason                   Timing Load        Value
+From Shrewsbury to Cambrian Line          Slow speed crossover     DMU                {½}
+
+Reoccupation of Single Lines
+At Sutton Bridge Junction a minimum of 3 minutes is to be allowed before planned reoccupation of the single line
+section.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

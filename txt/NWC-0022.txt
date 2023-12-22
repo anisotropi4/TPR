@@ -1,0 +1,43 @@
+ NETWORK RAIL                               Timetable Planning Rules                                  Version:     4
+ Region: North                 Final Proposal for Subsidiary Change Timetable 2024                      Date:      28th July 2023
+ West and Central
+                                                                                                         Page:     10 of 443
+
+
+1.3 Definitions
+The list below is not an exhaustive one but is intended to give readers an understanding of some of the
+terminology as used for the purposes of this document.
+
+If any term in Timetable Planning Rules is unclear please contact the compiler on the telephone number
+shown on the cover.
+
+
+1.3.1 Train Classification
+ Classification      Description
+ 1                   Express passenger train; or
+                     Nominated postal or parcels train; or
+                     Breakdown or overhead line equipment train going to clear the line or returning from
+                     there (1Z99); or
+                     Traction unit going to assist a failed train (1Z99)
+                     Snow plough going to clear the line (1Z99)
+ 2                   Ordinary passenger train; or
+                     Breakdown or overhead line equipment train not going to clear the line (2Z99)
+                     Officers’ special train (2Z01)
+ 3                   Freight train which can run at more than 75 mph; or
+                     A parcels train; or
+                     Empty coaching stock train if specially authorised
+ 4                   Freight train which can run up to 75 mph
+ 5                   Empty coaching stock train
+ 6                   Freight train which can run up to 60 mph
+ 7                   Freight train which can run up to 45 mph
+ 8                   Freight train which can run at, or is timed to run at, 35 mph or less
+ 9                   Anglo-Scottish Avanti West Coast train services via the West Midlands
+                     Anglo-Scottish Transpennine Express train services to/from Liverpool via
+                     Huddersfield and York
+ 0                   Light locomotive or locomotives
+Source: The Rule Book GE/RT8000/TW1 Preparation and Movement of Trains General Section 2 Classification and speed of trains
+
+
+
+
+                                     Electronic copy - uncontrolled when printed

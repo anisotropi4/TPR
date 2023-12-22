@@ -1,0 +1,58 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                      Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024             Date:    28/07/2023
+                                                                                             Page:    123 of 242
+
+
+SC093 MOTHERWELL TO GREENHILL LOWER JUNCTION
+
+Braidhurst Up Goods Loop
+
+Junction Margins
+First Movement                                     Second Movement                                Margin
+Up Stopping train departs Motherwell               Up train departs Braidhurst Up Goods Loop      1
+                                                   (using same platform)
+Up Stopping train arrives Motherwell               Up train departs Braidhurst Up Goods Loop      1
+                                                   (using different platform)
+Up train passes Motherwell                         Up train departs Braidhurst Up Goods Loop      1
+Up train arrives Braidhurst Up Goods Loop          Up train passes Mossend South Junction         1
+
+
+Braidhurst Down Goods Loop
+
+Junction Margins
+First Movement                                     Second Movement                                Margin
+Up Stopping train departs Motherwell               Up train departs Braidhurst Down Goods Loop    1
+                                                   (using same platform)
+Up Stopping train arrives Motherwell               Up train departs Braidhurst Down Goods Loop    1
+                                                   (using different platform)
+Up train passes Motherwell                         Up train departs Braidhurst Down Goods Loop    1
+Down train passes Mossend South Junction           Down train departs Braidhurst Down Goods       1
+                                                   Loop
+Down train arrives Braidhurst Down Goods           Down stopping train arrive Motherwell (using   1
+Loop                                               same platform)
+Down train arrives Braidhurst Down Goods           Down stopping train depart Motherwell (using   1
+Loop                                               different platform)
+Down train arrives Braidhurst Down Goods           Down train passes Motherwell                   2
+Loop
+Up train arrives Braidhurst Down Goods Loop        Up train passes South Junction                 1
+Arrive Braidhurst Down Goods Loop                  Train Depart M368 or M372 to Motherwell TMD    1
+
+
+Motherwell Signal GMM372
+
+Junction Margins
+First Movement                                     Second Movement                                Margin
+Depart to Motherwell TMD or Braidhurst Down        Down train from Motherwell pass Mossend        5
+Loop                                               South Junction
+Down train pass Mossend South Junction             Arrive GMM372 from Motherwell TMD or           2
+                                                   Braidhurst Down Loop
+
+Restriction
+There is limited clearance and no available walking route at this signal.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

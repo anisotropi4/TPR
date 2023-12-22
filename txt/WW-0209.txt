@@ -1,0 +1,67 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                        Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                       Date:    6th October 2023
+                                        Change Timetable 2024                              Page:    206 of 289
+
+
+Dwell Time
+15x                                 ½
+
+GW700 GLOUCESTER BARNWOOD JUNCTION TO SEVERN TUNNEL JUNCTION
+
+Horton Road Junction
+
+Junction Margin:- 2 minutes (can be reduced to 1½ minutes if second train has at least 1-minute pathing or
+adjustment time approaching Horton Road Junction.)
+
+Adjustment to Sectional Running Times (show approaching this location)
+Movement (Down)                            Reason                   Timing Load                     Value
+Trains routed beyond Horton Road Jn into   Approach Control         All Passenger                   {½}
+Gloucester platform 1, if platform 2 is                             trains
+occupied
+Trains routed beyond Horton Road Jn into   Approach control and     All Passenger                   {½}
+Gloucester platform 2,                     slow                     trains
+via a weave over UML to pass a train in P1 speed connection
+Trains routed beyond Horton Rd Jn          Approach control and     Freight                         {2}
+towards Awre via the UML or URL at         slow                     All Passenger                   {½}
+Gloucester                                 speed connection         trains
+Trains routed beyond Horton Rd Jn into     Approach control and     All Passenger                   {½}
+Gloucester platform 4                      slow                     trains
+                                           speed connection
+Trains routed beyond Horton Road Jn        Approach control and     All ECS moves                   {½}
+directly into Gloucester C.H.S             slow speed connection
+
+Gloucester
+
+Adjustment to Sectional Running Times (to be shown approaching this location)
+Movement                                          Reason            Timing Load                        Value
+Horton Road Jcn to Gloucester platform 2   Longer route combined    80x / HST only                  {½}
+Via platform 1                             with precision stop
+                                           requirement for longer
+                                           formations
+
+Horton Road Jcn to Gloucester platform 2      Approach control at G154     80x / HST only           {1}
+Via UML                                       signal and precision stop
+                                              requirement for longer       All other traffic
+                                              formations                                            {½}
+Horton Road Jcn to Gloucester Platform 4      Slow speed connections       80x / HST only           {1}
+
+                                                                           All other traffic
+                                                                                                    {½}
+
+Adjustment to Sectional Running Times (to be shown after this location)
+Movement                                         Reason               Timing Load                      Value
+Gloucester platform 2 to Horton Rd Jn via  Approach control at G135 All traffic                     {½}
+platform 1
+Gloucester platform 4 or URL to Horton Rd  Slow speed connections     80x / HST only                {1}
+Jn
+                                                                      All other traffic
+                                                                                                    {½}
+Gloucester platform 1 departure towards       Extra distance travelled     All traffic              {½}
+Awre                                          through platform 2
+
+
+
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,59 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    305 of 443
+
+
+NW4017 MORECAMBE JN TO HEYSHAM PORT
+
+Morecambe Jn Ground Frame
+
+A minimum of 4 minutes should be allowed for the operation of the Ground Frame in both directions. Locomotive
+hauled trains that run-round at Morecambe operate the Ground Frame during the run-round.
+
+
+NW4019 OXENHOLME TO WINDERMERE
+
+Oxenholme
+
+See entry under route NW4001 – Preston Ribble Jn to Cove L.C.
+
+
+Kendal
+
+Dwell Time
+DMU                                  1
+
+
+NW4033 CARNFORTH NORTH JN TO CARLISLE SOUTH JN (VIA BARROW)
+
+Carnforth
+
+Dwell Time
+LH/HST                               1
+Class 158/Class 185                  1
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Train from ‘Barrow’ Direction                   Train towards ‘Skipton’ or ‘Bottom Yard’          1
+Train crossing towards ‘Skipton’ or ‘Bottom     Train from ‘Barrow’ Direction                     4
+Yard’
+
+
+Grange-over-Sands
+
+Dwell Time
+LH/HST                               1
+Class 158/Class 185                  1
+
+
+Ulverston
+
+Dwell Time
+LH/HST                               1
+Class 158/Class 185                  1
+
+
+
+
+                              Electronic copy - uncontrolled when printed

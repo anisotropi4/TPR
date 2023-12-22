@@ -1,0 +1,68 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                       Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                      Date:
+                                               2024                                           2023
+                                                                                     Page:    143 of 183
+
+Grays
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                             Value
+Down freight trains approaching Seabrooks        Freight Trains under approach control              {1½}
+Sidings or Tilbury RCT                           signalling and via Slow Speed connection
+Trains travelling from Purfleet into Grays       Slow speed route                                   {½}
+platform 3 using RVL route
+Trains travelling from Purfleet into Grays       Slower speed route                                 {1}
+platform 3 not using RVL route
+Trains departing Grays platform 3 towards        Acceleration                                       {½}
+Purfleet
+
+Dwell Time                                                                                          1 peak only
+
+Restrictions
+Trains longer than 104 SLUs stopped at Grays on the Third Line in the Down Direction will foul the Down Tilbury
+Line at West Thurrock Junction. In this circumstance the headway at West Thurrock Junction applies between the
+departure time for the first train departing Grays and the passing time of the second train at West Thurrock
+Junction.
+Trains longer than 122 SLUs stopped at West Thurrock Junction on the Third Line in the Up Direction will foul the
+Down Tilbury Line at Grays. In this circumstance the junction margin and headway at Grays applies between the
+departure time for the first train departing West Thurrock Junction and the passing time of the second train at
+Grays.
+
+Standage Lengths
+Third Line Down Direction                                                                           104 SLUs
+Third Line Up Direction via Ockendon only                                                           122 SLUs
+
+
+Tilbury Town
+
+Connectional Allowance                                                                              3
+
+
+Tilbury Railport Junction (former Tilbury West Junction)
+
+Junction Margin                                                                                     Margin
+Fouling move where the first movement is a                                                          4
+freight train entering Tilbury2 Terminals
+
+
+Thames Haven Junction
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                             Value
+Down freight trains towards London Gateway       All trains under approach control signalling (UR   {1½}
+Port facility/Thames Haven TC                    715) and via Slow Speed connection towards
+                                                 London Gateway Port facility/Thames Haven
+
+Junction Margin                                                                                     Margin
+Fouling move where the first movement is a                                                          4
+freight train towards London Gateway Port
+facility/Thames Haven TC
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

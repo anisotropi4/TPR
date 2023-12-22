@@ -1,0 +1,60 @@
+                                                         OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                           Version:   4.1
+East Midlands                        Final Subsidiary Change Rules 2024                         Date:    13th September
+                                                                                                         2023
+                                                                                                Page:    39 of 123
+
+LN3273 IRONVILLE JUNCTION TO SHIREBROOK JUNCTION
+TIMING POINT                           DOWN         UP              NOTES
+
+Ironville Jn to Kirkby Lane End Jn     5            5
+Kirkby Lane End Jn to Mansfield        6            6
+Woodhouse
+Mansfield Woodhouse to                 AB+2*        AB+2*           *TCB plan as AB
+Shirebrook
+
+
+LN3340 ALREWAS (INCLUSIVE) TO WICHNOR JUNCTION
+TIMING POINT                           DOWN         UP              NOTES
+
+Alrewas to Wichnor Jn                           AB+2*               *Single Line, TCB planned as AB
+
+
+LN3501 DERBY LONDON ROAD JUNCTION TO TAMWORTH
+TIMING POINT                           DOWN         UP              NOTES
+
+Derby to Wichnor Junction              3½           3½
+Wichnor Junction to Tamworth           4            4
+
+
+LN3505 NORTH STAFFORD JUNCTION TO STOKE JN (EXCLUSIVE)
+TIMING POINT                           DOWN         UP              NOTES
+
+North Staffs Jn to Tutbury and         AB+2         AB+2
+Hatton
+Tutbury and Hatton to Uttoxeter        AB+2         AB+2
+Uttoxeter to Caverswall                AB+2         AB+2            Caverswall can give Train out of Section for Down
+                                                                    trains when they are approaching Blythe Bridge.
+                                                                    Therefore, it is permissible to use Blythe Bridge to
+                                                                    calculate ‘headway’ for Down trains.
+Caverswall to Foley Crossing           AB+2         AB+2
+Foley Crossing to Stoke Jn             2            2
+
+
+LN3515 MELBOURNE JUNCTION TO SINFIN
+TIMING POINT                           DOWN         UP              NOTES
+
+Melbourne Junction to Sinfin                    AB+2*               *Single Line, TCB planned as AB. See Sectional
+                                                                    Appendix Local Instructions for this section of line.
+
+
+LN3520 SHEET STORES JUNCTION TO STENSON JUNCTION
+TIMING POINT                           DOWN         UP              NOTES
+
+Sheet Stores Jn to Stenson Jn          5            5
+
+
+
+
+                                           Electronic copy - uncontrolled when printed.

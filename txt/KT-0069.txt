@@ -1,0 +1,66 @@
+NETWORK RAIL                            Timetable Planning Rules                 Version: 4.1
+Kent & HS1                                                  OFFICIAL
+                                    Final Proposal for Subsidiary                          25th August 2023
+                                                                                 Date:
+                                         Timetable 2024                          Page:    65 of 168
+
+
+
+
+SO110A BICKLEY JUNCTION TO PETTS WOOD JUNCTION
+TIMING POINT                               DOWN                UP                 NOTES
+
+Bickley Junction – Petts Wood Junction     3                   3
+
+SO130 LONDON CHARING CROSS TO DOVER PRIORY (VIA TONBRIDGE)
+TIMING POINT                        DOWN                  UP                      NOTES
+
+London Charing Cross – New
+                                    2                     2
+Cross
+                                    2 Non-Stopping *      2 Non-Stopping *
+New Cross - Grove Park                                                            *3 minutes following freight
+                                    2½ Stopping           2½ Stopping
+                                    2 Non-Stopping *      2 Non-Stopping *        *3 minutes following freight
+Grove Park – Saltwood Junction
+                                    3 Stopping            3 Stopping
+Saltwood Junction – Dover Priory    3                     3
+
+
+SO130A LONDON CANNON STREET TO METROPOLITAN JUNCTION
+TIMING POINT                        DOWN         UP           NOTES
+
+London Cannon Street –
+                                    3            3
+Metropolitan Junction
+
+
+SO130B LONDON CANNON STREET TO LONDON BRIDGE
+TIMING POINT                        DOWN         UP           NOTES
+
+London Cannon Street – London       2            2
+Bridge
+
+
+SO130C TANNERS HILL JUNCTION TO LEWISHAM VALE JUNCTION
+TIMING POINT                        DOWN         UP           NOTES
+
+Tanners Hill Junction – Lewisham    2            2
+Vale Junction
+
+
+SO130D ST JOHNS JUNCTION TO LEWISHAM JUNCTION
+TIMING POINT                        DOWN         UP           NOTES
+
+St Johns Junction – Lewisham        2            2
+Junction
+
+
+SO130E PARKS BRIDGE JUNCTION TO LADYWELL JUNCTION
+TIMING POINT                        DOWN         UP           NOTES
+
+Parks Bridge Junction – Ladywell    2½           2½
+Junction
+
+
+                                   Electronic copy - uncontrolled when printed

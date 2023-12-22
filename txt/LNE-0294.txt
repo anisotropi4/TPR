@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 291 of 368
+
+
+Selby
+
+Dwell Time
+LNER                                                       2
+Other                                                      1
+
+
+Junction Margins
+First Movement                                       Second Movement                               Margin
+Depart to Leeds                                      Arrive Platform 3 from Leeds via Up main      7
+Depart to Leeds or Doncaster from Platform 1         Arrive Platform 1 from Leeds or Doncaster     4½
+Depart to Leeds or Doncaster from                    Arrive Platform 2 from Hull                   3
+Platforms1/2/3
+Depart to Doncaster from Platform 2                  Arrive Platform 3 from Leeds                  6
+Depart to Doncaster from Platform 2                  Depart Platform 3 to Leeds                    2
+Arrive from Leeds (Platform 3)                       Arrive from Hull (Platform 2)                 3
+Arrive from Doncaster (Platform 1)                   Arrive from Leeds (Platform 3)                3½
+Freight crosses at Selby West Junction to            Depart Selby to Leeds                         1
+Temple Hirst Junction
+Note: Trains conveying passengers are not permitted to arrive in Platform 2 from Leeds.
+Minimum Turnround
+From Doncaster or York                5*
+From Leeds                            7*
+From beyond Doncaster, Leeds or 10*
+York
+* An additional 10 minutes is required if the train needs to be replatformed
+
+
+Howden
+
+Dwell Time
+First Hull Trains Class 180           1
+
+
+Gilberdyke
+
+Adjustment to Sectional Running Times
+Movement Up                                       Reason                                           Value
+Services approaching Gilberdyke non-stop to       Differential junction speed                      ½
+Goole
+Movement Down                                     Reason                                           Value
+Services Passing Gilberdyke from Goole            Acceleration                                     ½ * To be
+                                                                                                   applied after
+                                                                                                   Gilberdyke
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Pass to Selby                                     Pass from Goole                                  3½
+Pass to Selby                                     Arrive from Goole                                4
+Depart to Selby                                   Pass/arrive from Goole                           4½
+Pass/arrive from Goole                            Pass to Selby                                    2½
+Pass/arrive from Goole                            Depart to Selby                                  1
+Pass to Selby                                     Pass to Goole                                    3
+Pass to Goole                                     Pass to Selby                                    3
+Depart to Selby                                   Pass to Goole                                    4
+                                    Electronic copy - uncontrolled when printed.

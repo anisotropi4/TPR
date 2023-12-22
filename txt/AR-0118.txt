@@ -1,0 +1,32 @@
+                                                                                OFFICIAL
+
+
+                         NETWORK RAIL                         Timetable Planning Rules                          Version:   4.1
+                         Anglia                Amended Final Principal and Subsidiary Change Timetable                     12th September
+                                                                                                                   Date:
+                                                                         2024                                              2023
+                                                                                                                  Page:    115 of 183
+
+Notes:
+
+H        As per normal headway
+P        Parallel or non conflicting
+S        Simultaneous moves
+         If there is already a train standing in either of these platforms adjacent to the scissors crossover, a further train may be admitted behind it at the same time as
+*        one is signalled into the through platform from the other end
+**       If there is already a train in platform 1 adjacent to the scissors crossover the margin reduces to P
+#        May be reduced to 2 minutes if platform 4 arrival is via platform 1
+##       If there is already a train in platform 4 adjacent to the scissors crossover the margin reduces to P
+$        If there is a train standing at the north end of platform 4 the margin reduces to P
+~        Wherever possible this move should be avoided and consideration given to the flow of passengers
+%        Headway to be restored at Shepreth Branch Junction
+@        Increases to 4 minutes if there is a train standing in platform 4
++        Increases to 5 minutes if there is a train standing in platform 4
+"        Increases to 4 minutes if there is a train standing in platform 1
+&        Increases to 5 minutes if there is a train standing in platform 1
+^        There is an independent route between platforms 2 & 3 and the Down Slow Loop, parallel to any moves from platforms 1 or 4
+
+
+
+
+                                                            Electronic copy - uncontrolled when printed.

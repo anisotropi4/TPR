@@ -1,0 +1,61 @@
+NETWORK RAIL                             Timetable Planning Rules                        Version: 4.1
+London North Eastern                       Revised Final Rules for                         Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                     Page: 148 of 368
+
+
+Doncaster
+access into Platform 3b until 2 minutes after the train in Platform 3a has departed.
+
+c) Trains longer than 234m arriving in the Down direction into Platform 8 will foul the black joint in rear and prevent
+access into Platform 5 until 2 minutes after the train in Platform 8 has departed.
+
+d) Trains should not be planned to operate northbound from Platform 3a as there is no north-facing signal at the A
+end of the platform
+
+Doncaster West Yard. Electrically hauled trains shunting to or from Doncaster West Yard must be routed to stand
+behind Signal D1488 or on to the Thorne Lines due to the presence of an OHL Neutral Section
+
+Platform Re–occupation
+In same direction                      4 (3 DMU/22x/80X)
+
+Train Watering Points                  Platforms 2, 5, 6, 7, Middle Road
+
+
+Arksey Loop
+
+Junction Margins
+First Movement                                       Second Movement                                    Margin
+Arrive in Loop                                       Before Down train passes Doncaster                 3
+Arrive in Loop                                       Before Down train departs Doncaster                1
+Down Main pass Shaftholme Junction                   Depart Down Loop                                   Same time
+
+
+LN105 MOORGATE TO FINSBURY PARK JUNCTION
+Moorgate
+
+Junction Margins and Platform Re-occupations – Crossing via Throat
+First Movement                              Second Movement                                             Margin
+Arrive Platform 9                           Depart Platform 10                                          1
+Depart Platform 9                           Arrive Platform 9                                           2½
+Depart Platform 9                           Arrive Platform 10                                          Parallel
+Arrive Platform 10                          Depart Platform 9                                           Parallel
+Depart Platform 10                          Arrive Platform 9                                           2½
+Depart Platform 10                          Arrive Platform 10                                          2½
+
+Station Working
+ARS will automatically route trains into platform 9 if it is not occupied
+
+
+Highbury & Islington
+
+Dwell Time
+EMU                                    1
+
+
+LN110 CANONBURY WEST JUNCTION TO FINSBURY PARK JUNCTION
+Highbury Vale Junction
+
+Junction Margins
+
+
+                                      Electronic copy - uncontrolled when printed.

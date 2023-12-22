@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                    Version:    4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                   Date:     6th October 2023
+                                         Change Timetable 2024                          Page:     128 of 289
+
+
+Adjustment to Sectional Running Times (to be shown approaching location)
+Movement                                  Reason                  Timing Load                    Value
+Crossing from Down Main to Down Relief    Slow turnout speed      80x                            {½}
+Didcot Parkway to Wantage Road Pass to    Crossing from RL to ML  D455                           {1}
+Pass                                      at
+                                          Foxhall Junction
+
+Adjustment to Sectional Running Times (to be shown after location)
+Movement                                  Reason                           Timing Load           Value
+Crossing from Up Relief to Up Main        Slow turnout speed               80x                   {1½}
+
+Challow
+
+Adjustment to Sectional Running Times (to be shown approaching location)
+Movement                                   Reason                 Timing Load                    Value
+Crossing from Up Main to Up Relief         Slow turnout speed     80x                            {½}
+Up reversible trains that crossed from the Acceleration           80x /                          {1}
+Down Main at Uffington                                            75-57350
+
+Uffington
+
+Adjustment to Sectional Running Times (to be shown approaching location)
+Movement                                   Reason                   Timing Load                  Value
+Challow to Uffington Pass to Pass          Running from RL to ML at 80x                          {1½}
+                                           Challow                  165 / 166                    {1}
+Down reversible trains crossing to run via Slow crossover speed     80x /                        {1}
+the Up Main from Uffington                                          75-57350
+Passing Swindon via P1 or P3               Not at linespeed at      80x                          {2}
+                                           Swindon
+
+Swindon Stratton Green
+
+Junction Margin
+First Movement                                Second Movement                                      Margin
+Up train towards Uffington departs Swindon    Up train departs Stratton Green UGL                  5
+station
+Up train towards Uffington passes Swindon     Up train departs Stratton Green UGL                  3
+station
+Up train arrives Stratton Green UGL           Up train towards Uffington departs Swindon           2
+                                              station
+Up train arrives Stratton Green UGL           Up train towards Uffington passes Swindon            3
+                                              station
+
+Swindon East Loop
+
+Junction Margin
+First Movement                                Second Movement                                      Margin
+Train from Uffington comes to a stand at      Train from Uffington passes or arrives at            2
+Swindon East Loop                             Swindon station
+
+GW105 UFFINGTON TO FORDGATE VIA BOX
+
+Swindon
+
+Adjustments to Sectional Running Times
+
+
+                                   Electronic copy - uncontrolled when printed.

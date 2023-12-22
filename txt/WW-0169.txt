@@ -1,0 +1,66 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                    Date:    6th October 2023
+                                          Change Timetable 2024                           Page:    166 of 289
+
+
+150 to 170                                        1
+
+Cheltenham High Street Goods Loop
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                    Reason                            Timing                     Value
+                                                                              Load
+From the Up Main to Up Loop                 Slow speed at loop entry (15 mph) All traffic                +{2}
+
+Cheltenham Spa (including Alston Carriage Sidings)
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location
+Movement                            Reason                            Timing Load                               Value
+From Cheltenham Spa to Alston C.S.  Not at linespeed when passing     HST/22X                                   + {½}
+Pass to Stop                        Cheltenham                        150/158/16X/80X
+                                                                      D245 to D455
+Services traveling on DM, crossing  Slow speed crossover              Class 170 and 22x                         + {2}
+and terminating in Platform 2.
+                                                                      HST                                       +{2½}
+
+Adjustments to Sectional Running Times (allowance to be shown after this location)
+Movement                            Reason                                Timing Load                           Value
+From Alston C.S. to Cheltenham Spa  Not at linespeed when passing         HST/22X/150/158                       + {½}
+Start to Pass                       Cheltenham                            /16X/80X
+                                                                          D245 to D455
+
+Dwell Time
+LH/80x                                            2 except 4 minutes applies to terminating 80x 9/10 Car & 3
+                                                  minutes 80x 5 car
+Classes 22X                                       2
+Classes 15x to 170                                2 Up trains only, 1 applies to Down trains
+XC 170                                            1½ Up trains only, 1 applies to Down trains
+
+Platform Re-occupation                           4 (Down direction)*%
+                                                 3 (Up direction when first train is departing towards Ashchurch
+                                                 3½ (Up direction when first train is formed of 5 or less vehicles
+                                                 and is going to Alstone CS / High Steet UGL / High street
+                                                 crossover
+                                                 4 (Up direction when first train is formed of 6 or more vehicles
+                                                 and is going to Alstone CS / High Street UGL / High Street
+                                                 Crossover
+* Can be reduced to 3 minutes if the second train is coming from Alstone C.S.
+% Can be reduced to 3½ if the second train from Ashchurch has a minimum of 1 minute of Pathing Time
+approaching Cheltenham Spa (does NOT apply if the first train is going into Lansdown DGL).
+
+Turnround allowances
+                                        DMU                 Class 80X (5 car)             Class 80X (9/10 Car)
+From Paddington                                             25^                           25^
+From Swindon Cardiff and Bristol        12 a)
+From Swindon                                                20^                           25^
+^ Via Alstone Carriage Sidings
+a) Times are shown are via Alston Carriage Sidings
+
+Lansdown Goods Loop
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+
+                                    Electronic copy - uncontrolled when printed.

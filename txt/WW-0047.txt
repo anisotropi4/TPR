@@ -1,0 +1,65 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                       Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales        Final Principal and Preliminary Proposal for Subsidiary
+                                                           OFFICIAL                  Date:    6th October 2023
+                                       Change Timetable 2024                         Page:    44 of 289
+
+
+GW628 LAIRA JUNCTION TO PLYMOUTH FRIARY SS VIA SPEEDWAY JUNCTION
+TIMING POINT                       DOWN        UP             CODE   NOTES
+
+Laira Junction                     –           –              X      To/from Hemerdon – GW108
+Speedway Junction
+Mount Gould Junction               –           –
+Mount Gould Platform               –           –              S
+Turnchapel Branch Junction
+Plymouth Friary SS                 –           –
+
+GW629 LAIRA JUNCTION TO MOUNT GOULD JN
+TIMING POINT                       DOWN        UP             CODE   NOTES
+
+Laira Junction                     –           –              X      To/from Hemerdon – GW108
+Laira T & RSMD                     –           –              S
+Mount Gould Junction               –           –                     To/from Plymouth Friary SS – GW628
+
+GW630 LIPSON JN TO MOUNT GOULD JN
+TIMING POINT                       DOWN        UP             CODE   NOTES
+
+Lipson Junction                    –           –                     To/from Plymouth – GW108
+Speedway Junction
+Mount Gould Junction               –           –                     To/from Plymouth Friary SS – GW628
+
+GW637 ST BUDEAUX JUNCTION TO GUNNISLAKE
+TIMING POINT                       DOWN        UP             CODE   NOTES
+
+St. Budeaux Junction               –           –                     To/from Plymouth – GW108
+St. Budeaux Victoria Road          –           –
+Ernesettle Sidings                 –           –              S
+Bere Ferrers                       –           –              S
+Bere Alston                        –           –
+Calstock                           –           –              S
+Gunnislake                                     –
+
+GW640 LISKEARD TO LOOE VIA COOMBE
+TIMING POINT                       DOWN        UP             CODE   NOTES
+
+Liskeard                           –           –                     To/from St Germans / St Pinnock Viaduct
+                                                                     East – GW108
+Liskeard GF                        –           –              S
+Coombe No.1 GF                     –           –
+Coombe Junction Halt               –           –              S
+Coombe No.2 GF                                                       To/from Moorswater – GW642
+St. Keyne                          –           –              S
+Causeland                          –           –              S
+Sandplace                          –           –              S
+Looe                                           –
+
+GW642 COOMBE (EXCL.) TO MOORSWATER
+TIMING POINT                       DOWN        UP             CODE   NOTES
+
+Coombe No.2 GF                                                       To/from Coombe No.1 GF – GW640
+Moorswater Lafarge Sidings                     –
+
+
+                                 Electronic copy - uncontrolled when printed.

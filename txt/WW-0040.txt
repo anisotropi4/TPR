@@ -1,0 +1,67 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                    Date:    6th October 2023
+                                           Change Timetable 2024                           Page:    37 of 289
+
+
+GW480 SWINDON TO STANDISH JUNCTION
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Swindon                                – UK*       –                     To/from Uffington – GW105
+                                                                         Platform detail must be shown.
+                                                                         * trains running via the Up Kemble (down
+                                                                         direction) between Swindon Platform 1 or
+                                                                         2 and Rodbourne Jn
+Rodbourne Jn                           –           – DK*                 * trains to Swindon Platform 3 or running
+                                                                         via the Down Kemble (up direction) to
+                                                                         Platforms 1 or 2
+Kemble                                 –           –                     Platform detail must be shown.
+St. Mary’s Level Crossing              –           –
+Stroud                                 –           –              S      Platform detail must be shown.
+Stonehouse                             –           –              S      Platform detail must be shown.
+Standish Junction                      –           –                     To/from Gloucester Yard Jn – GW401
+
+GW490 GLOUCESTER YARD JUNCTION TO HORTON ROAD JUNCTION
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Gloucester Yard Junction               –           –                     To/from Standish Junction – GW401
+Horton Road Junction                   –           –                     To/from Gloucester – GW700
+
+GW500 READING TO COGLOAD JUNCTION VIA WESTBURY AND FROME
+AVOIDING LINES (BERKS AND HANTS LINE)
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Westbury Line Junction                                                   To/from Reading – GW103
+Reading Triangle Sidings               –           –              S
+Reading Signal T1716                               –              S
+Reading Signal T1714                   –                          S      Shunting moves only
+Oxford Road Junction                   –           –*                    *Trains to Reading West Jn via Down
+                                                   UWC•                  West Curve
+                                                   WL                    • trains running via the Up West Curve in
+                                                   DW €                  the down direction towards the Up
+                                                   UFM                   Passenger Loop at Reading West Jn
+                                                   DFR                   having reversed at Reading West
+                                                   DWL$                  € trains running via the Down Westbury in
+                                                                         the Up Direction having reversed at
+                                                                         Reading West
+                                                                         $ trains travelling in the up direction using
+                                                                         8458pts to access Platforms 3 or 7 to
+                                                                         avoid conflict with anything at 8441pts
+                                                                         coming to/from the Festival Line going
+                                                                         to/from Platform 8.
+                                                                         To/from Reading West Jn – GW220
+Reading West                           –           – DW*          S      *reversing trains running via the Down
+                                                                         Westbury in the up direction.
+Reading Signal T2804                   –           – DW*          S      Shunting moves only
+                                                                         * reversing trains running via the Down
+                                                                         Westbury in the up direction.
+Southcote Junction                     –           –                     To/from Bramley - SW125
+                                                                         Refer to Wessex Route Timetable
+                                                                         Planning Rules.
+Theale Signal T2831                    –                          X      Trains for Theale terminals
+Theale                                 –           –
+
+
+                                     Electronic copy - uncontrolled when printed.

@@ -1,0 +1,64 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                           Version:    4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024                  Date:     28/07/2023
+                                                                                                   Page:     76 of 242
+
+
+
+5.3 Junction Margins and Station Planning Rules
+Line of route
+The definition for Junction Margins and Station Planning Rules is listed in Section 1.6 – 1.10 of the National TPRs.
+All times shown are in minutes. Where adjustments to sectional running times are shown, the value must be added
+to the normal SRTs shown in B Plan. Negative adjustments are specially identified.
+Minimum station allowances are the minimum practical for the particular type of stock. These are shown with
+exceptions being listed by line of route where applicable.
+
+Light Engine movements, postal and test trains to be treated as passenger trains when applying margins/allowances
+where there is a freight/passenger difference.
+
+ STANDARD VALUES – MINIMUM
+
+ Adjustment allowance for running brake tests
+ Running brake tests must be carried out at the first opportunity after beginning a journey/crew change. These
+ allowances are not necessarily listed at individual timing points. Additional adjustment time to allow for running
+ brake tests should be agreed between the respective NR and Operator planners.
+
+ Adjustments to Sectional Running Times
+ Movement                                              Reason                                          Value
+ Terminating trains arriving on half-minutes in final  IT system requirements                          ½
+ timing link (except LNER, ScotRail, TPE)
+ CrossCountry* and freight^ schedules must depart from origin and terminate at destination on a whole minute.
+ (This is due to IT system requirements – *Intergrale, ^TOPS)
+
+
+ Attachment of Locomotives/Units
+ MU                              6
+ 22X & 80X                       7
+
+ Connectional Allowance                5
+
+ Detachment of Locomotives/Units:
+ MU                               4
+ 22X & 80X                        7
+ 385                              5
+
+ Dwell Time
+ Loco hauled slam door stock           1½*
+                                       *3 at unstaffed stations except with two on-board operational staff
+ HST (Power Doors)                     1½
+ Class 150, 156, Sliding Door EMU      ½
+ Class 158, 170                        45 secs
+ Class 390                             2
+ Class 397                             1½
+                                       (1 if Set Down/Pick up only)
+ Mark IV stock                         1½
+ Class 22X                             1½
+ Class 80X                             2
+ ScotRail service when changing        2
+ driver
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

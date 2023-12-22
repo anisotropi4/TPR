@@ -1,0 +1,45 @@
+ NETWORK RAIL                           Timetable Planning Rules                       Version:   4.2
+ Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                               Change                    Date:    27th October 2023
+                                             Timetable 2024                              Page:    49 of 178
+
+
+
+
+ SW255A ADDLESTONE JUNCTION TO BYFLEET JUNCTION
+ ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+ Addlestone Junction – Byfleet Junction                   NA                                      P
+
+
+ SW260 ASCOT TO ASH VALE JUNCTION
+ ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+ Ascot – Ash Vale Junction                                NA                                      P
+
+ SW265 GUILDFORD TO WOKINGHAM
+ ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+ Guildford – Wokingham                                    NA                                      P
+
+
+ SW300 GOMSHALL TO SHALFORD JUNCTION
+ ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+ Gomshall – Shalford Junction                             NA                                      P
+
+
+
+
+4.7 Engineers’ Trains Restrictions
+
+Some On Track Machines (OTMs) do not reliably activate track circuits. These OTMs must use one of the following
+special reporting numbers 6Z09, 7Z09 or 8Z09*. Because these OTMs do not reliably activate track circuits it is not
+possible to apply the headways and junction margins as outlined in Timetable Planning Rules consistently and it is
+therefore not possible for Operational Planning to provide timings for these movements.
+* Source GE/RT 8000-OTM
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

@@ -1,0 +1,58 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                      Version:   4
+Scotland                     Final Rules for Subsidiary Change Timetable 2024             Date:    28/07/2023
+                                                                                          Page:    135 of 242
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Down Suburban Line to Down South               Down South                                      3½
+Down Suburban Line to Down North               Down North/Down South/Up South                  3½
+Down pass on South Line                        Up South to Up Suburban                         4
+Down pass/Up South                             Up North to Up Suburban                         4
+
+
+Edinburgh Park
+
+Platform Re-occupation               3
+
+
+Newbridge Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                          Value
+Trains from Haymarket West Junction to Down    Approach Control                                1
+Passenger Loop
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Pass from Winchburgh Junction                  Pass from Bathgate                              2½
+Pass to Winchburgh Junction                    Depart to Haymarket West Junction (Having       1
+                                               Come from Bathgate)
+
+
+Winchburgh Junction
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Up pass towards Newbridge Junction             Depart towards Linlithgow from Up Winchburgh    1
+
+Linlithgow
+
+Adjustments to Sectional Running Times
+Movement Up                                     Reason                                         Value
+Trains routed to UPL                            Approach control                               1
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Down arrive from UPL                           Up arrive/pass                                  3
+Up departure from down platform                Down arrive/pass                                4
+
+Planning note
+Down trains departing Linlithgow UPL require a dot stop at Linlithgow to ensure allowance for acceleration to
+Polmont is included within the schedule.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

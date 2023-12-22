@@ -1,0 +1,61 @@
+                                                        OFFICIAL
+
+ NETWORK RAIL                            Timetable Planning Rules 2024                   Version:     4.1
+ Western + Wales             Final Principal and Preliminary Proposal for Subsidiary
+                                                                 OFFICIAL                  Date:      6th October 2023
+                                             Change Timetable 2024                         Page:      247 of 289
+
+
+Penmaenmawr
+Dwell Time
+LH                                       ½
+Power                                    ½
+
+Penmaenmawr Quarry
+
+For arrivals and departures from Llandudno Junction direction:
+Llandudno Junction dep              XX/XX                   Penmaenmawr Quarry                XX.00
+                                                            dep
+                                    "-"                                                       "-"
+Penmaenmawr Signal 4                XX/XX                   Penmaenmawr Signal                XX/05
+                                                            19
+                                    "-"                                                       "-"
+Penmaenmawr Quarry arr              XX.XX                   Llandudno Junction dep            XX/XX
+
+Llanfairfechan
+
+Dwell Time
+LH                                       ½
+Power                                    ½
+
+Bangor (Gwynedd)
+
+Dwell Time
+LH/Power/ 390 (hauled)/DMU               2
+220/221                                  1½
+
+Splitting and Coupling of Units: In all platforms
+
+Train Watering Points                    Fixed watering point available
+
+Turnround Allowance
+11 minutes for service shunting between arrival platform and a different departure platform
+
+Bangor Sidings - ‘Back Platform’
+
+Arrivals and departures from and to Bangor
+Bangor Platform 2 dep                 XX†00                        Bangor ‘Back Platform’     XX†00
+                                                                   dep
+Bangor Signal 37 arr                     XXRM02                    Bangor Signal 37 arr       XXRM02
+Bangor Signal 37 dep                     XXRM06                    Bangor Signal 37 dep       XXRM06
+Bangor ‘Back Platform’ arr               XX†08                     Bangor Platform 1 arr      XX†08
+
+Other restrictions
+Shunt moves of passenger trains will require the manual operation of points at Bangor Yard. Virgin Trains staff do
+not have the necessary qualifications for such operation so prior arrangements must be put in place with Local
+Operations Manager and Virgins Train Manager reps, before such moves are planned.
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version: 4.1
+London North Eastern                     Revised Final Rules for                      Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                  Page: 176 of 368
+
+
+Ferryhill South Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                        Value
+Pass Down Main to Slow Line                       Differential Junction Margin                  1½
+
+                                                                                                And
+
+                                                                                                ½ to be applied
+                                                                                                approaching
+                                                                                                Tursdale
+
+Movements Up                                      Reason                                        Value
+Pass Slow Line to Up Main                         Differential Junction Margin                  ½ Approaching
+                                                                                                Ferryhill South
+                                                                                                Junction
+
+                                                                                                And the
+                                                                                                following
+                                                                                                applied at the
+                                                                                                next timing
+                                                                                                point
+
+                                                                                                Class 4
+                                                                                                1 – 400t
+                                                                                                1½ - 600t
+                                                                                                2 - 800t-1600t
+
+                                                                                                Class 6
+                                                                                                1 – 400t-1200t
+                                                                                                1½ - 1400t and
+                                                                                                above
+
+Junction Margins
+First Movement                                        Second Movement                           Margin
+Passenger Down Main to Slow Line                      Pass Down Main                            3
+Passenger Down Main to Slow Line                      Pass Up Main                              3½
+Freight Down Main to Slow Line                        Pass Down Main                            3½
+Freight Down Main to Slow Line                        Pass Up Main                              4*
+Pass Up Main                                          Depart US or UGL to UM                    2
+Pass Up Main                                          Pass Down Main to Slow Line               3
+Pass Up Slow to Up Main                               Pass Down Main to Slow Line               3½
+* To be increased by ½ if the first train is longer than 600m
+
+Operating/Planning Restriction
+   • All trains booked to stand on the Up for over 10 minutes that are less than 69 SLUs/1449 ft/441 metres,
+       must be shown to stand in the Up Goods Loop. The length of Ferryhill South Up Goods Loop is 70
+       SLUs/1470 ft/448 metres. Any trains standing for less than 10 minutes or that are longer than the Up
+       Goods Loop; need to stand on the Up Slow Line.
+
+
+Tursdale Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                   Value
+                                    Electronic copy - uncontrolled when printed.

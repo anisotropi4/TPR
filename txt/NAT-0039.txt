@@ -1,0 +1,30 @@
+                                                OFFICIAL
+
+
+Network Rail                                                                                          Version 4.0
+National                                                                                      Date: 28th July 2023
+                                Final Proposal for Subsidiary Change 2024
+                                             Page 38 of 114
+BL        Stops to attach or detach banking locomotive         t           Stops only for token, tablet or train
+staff.
+C         Stops to change train crew                                PR Propelling movement
+D         Stops to detach                                           RR Stops to run round
+E         Stops for examination                                     S   Stops for staff other than train men
+L         Stops to change locomotives                              U    Stops to attach
+OP        Stops for other operational reasons                      X   Stops for train passing in opposite
+          direction on                                                    single line
+
+ Operating Characteristics
+
+  B      Vacuum Braked                                         Y         Service has two or more paths which run
+                                                                      to/from alternative origins/destinations or
+                                                                      different routes.
+  G      Train (Wo)man                                   Z            May convey traffic to Channel
+                                                                      Tunnel Gauge. Not to be diverted
+                                                                      from booked route without authority.
+  Q      Runs when required                                |           Light locomotive
+
+
+
+
+                              Electronic copy – uncontrolled when printed

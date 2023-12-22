@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                Version:   4.3
+Route: Sussex                           Final Rules for Subsidiary              Date:      18th October 2023
+                                              Timetable 2024 OFFICIAL
+                                                                                Page:      141 of 163
+
+Streatham
+
+All GTR services        1 – may be reduced to ½ minute outside SX peak hours by exception only with the
+                        agreement of Train Operator
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                                              Prohibited
+Platform 2                                              Detaching Only
+
+
+Streatham South Junction
+
+Adjustment to Sectional Running Times
+Movement                                            Reason                                          Value
+All movements from Streatham                        Approach control on signal TVC789               {½}
+towards Wimbledon
+Up trains from Mitcham Junction towards             Approach control on signal TVC788               {1}
+Streatham North Junction
+
+Length Restriction
+A train exceeding 200m/31SLU in length will foul Streatham North Junction when standing at TVC783 on the
+Reversible Fast Spur in the Down direction.
+Therefore, junction margins must be based on trains’ departure time at Streatham South Junction
+A train exceeding 301m/47SLU in length will foul Streatham Junction when standing at TVC787 on the Down
+Portsmouth.
+Therefore, junction margins must be based on trains’ departure time at Streatham South Junction
+The standage at signal TVC782 on the Up Streatham Spur direction to avoid fouling Streatham Common Jn is 179
+metres/28 SLUs/8 cars
+
+
+Mitcham Eastfields
+
+Dwell Time
+All GTR services        1 – may be reduced to ½ minute outside SX peak hours by exception only with the
+                        agreement of Train Operator
+
+
+Sutton
+
+See entry under route – SO510
+
+
+Epsom
+
+Berthing Facilities
+                                    Cars
+Down Siding                         12
+Up Siding                           10
+
+Connectional Allowances
+All Services                        3
+
+Dwell Times
+
+
+
+
+                                Electronic copy - uncontrolled when printed

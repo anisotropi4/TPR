@@ -1,0 +1,61 @@
+NETWORK RAIL                             Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                          Timetable 2024                            Page:     123 of 168
+
+
+SO220 ASHFORD TO RAMSGATE
+(VIA CANTERBURY WEST)
+
+Canterbury West
+Dwell Time
+All Services                         1
+
+Limit of Shunt                                                                                       Length Limit
+Down Platform Loop (clear of signal EDH59)                                                           8 cars
+
+
+
+
+Minster
+
+Connectional Allowance               4
+
+Limit of Shunt                                                                           Length Limit
+Down Main clear of Shunt Signal 57                                                       8 cars
+
+Permissive working for attaching/detaching and platform sharing is authorised as shown below:
+Platform 1                                         Down Main                             Detaching Only
+Platform 2                                         Up Main                               Detaching Only
+
+
+Minster East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                            Value
+12 Car electric trains from Deal towards           Voltage drop in power supply                      1
+Ramsgate
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Train in the Up direction towards Canterbury       Train in the down direction from Sandwich         2½
+West                                               towards Ramsgate
+Pass Minster East Jn from Sandwich                 Down train passing or departing Minster station   3
+
+Planning Restriction
+Trains on the Down Line must not be brought to a stand at the signal protecting Minster East Junction (EBE7) but
+must stand at Minster station (EBE5) to avoid activating interlocking at Minster East Junction
+
+
+Thanet Parkway
+
+Platform Reoccupation
+First Movement                                     Second Movement                                   Value
+Down train depart towards Ramsgate                 Arrive Platform 1                                 3½
+Up train depart Platform 2                         Up train arrive Platform 2 from Ramsgate          4
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

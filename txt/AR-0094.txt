@@ -1,0 +1,55 @@
+                                                       OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                          Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                     12th September
+                                                                                         Date:
+                                                2024                                              2023
+                                                                                         Page:    91 of 183
+
+Witham
+
+Routing of trains passing through or stopping in Platform 1
+The preferred routing for trains using Platform 1 is via the Up Loop where possible to reduce delay to following
+services by clearing the Main Line earlier
+
+
+Marks Tey
+
+Adjustments to Sectional Running Times
+Movement                 Timing Load                              Reason                           Allowance
+Pass to Marks Tey Yard   Freight                                  Deceleration for slow speed      {1½}
+                                                                  entry
+Pass from Marks Tey Up       Class 4 up to 800t/TR50              Speed differential               {1½} approaching
+Loop or Yard                                                                                       next timing point
+                             Class 4 1000t/TR60                   Speed differential               {1} approaching
+                                                                                                   next timing point
+                             Class 4 1200t/TR70 and above         Speed differential               {½} approaching
+                                                                                                   next timing point
+                             Class 6 1600t/TR85                   Speed differential               {½} approaching
+                                                                                                   next timing point
+                             Class 6 1800t/TR100 to               Speed differential               {1} approaching
+                             2000t/TR115 inclusive                                                 next timing point
+                             Class 6 2200t/TR130 and above        Speed differential               {1½} approaching
+                                                                                                   next timing point
+
+Junction Margins
+First Movement                                     Second Movement                                      Value
+Freight set back from platform 1 into sidings      Next up service arrives/passes Marks Tey             7
+Up train pass/depart platform 1                    Up freight depart from Marks Tey Up Loop or          1
+                                                   Yard
+
+Connectional Allowance                             2
+
+Splitting and Coupling of trains permitted         Attaching and Detaching permitted in Up Passenger Loop for
+                                                   class 5 ECS only during times of engineering work.
+
+Restriction
+Marks Tey Yard can only accommodate one train at a time – single train working. Light engine movements to be
+treated as an exception to this, i.e. light engines are permitted to depart and arrive when there is a set of wagons
+already in the sidings.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

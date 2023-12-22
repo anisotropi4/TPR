@@ -1,0 +1,59 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                 OFFICIAL
+                                   Final Proposal for Subsidiary                            25th August 2023
+                                                                                  Date:
+                                       Timetable 2024                             Page:     146 of 168
+
+
+Lenham Crossover
+
+Adjustments to Sectional Running Times
+Movement Up                                     Reason                                           Value
+Up Eurostar Class 373/374 train from Ashford    Speed differential after Ashford West Junction   1
+International
+
+Junction Margins                                                                                 Margin
+All conflicting moves                                                                            3
+
+
+Charing Crossover
+
+Junction Margins                                                                                 Margin
+All conflicting moves                                                                            3
+
+
+Ashford West Junction
+
+See entry under route SO470
+
+
+Ashford International
+
+See entry under route SO130
+
+
+Ashford East Junction
+
+See entry under route SO480
+
+
+Westenhanger Crossover
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Down Eurostar Class 373/374 train from          Speed Differential after Ashford East Junction   1
+Ashford International
+
+Junction Margins                                                                                 Margin
+All conflicting moves                                                                            3
+
+
+(High Speed 1) Eurotunnel Boundary
+
+Restriction
+Handover times for all trains between Network Rail and Eurotunnel must always be on a whole minute
+
+
+
+
+                                  Electronic copy - uncontrolled when printed

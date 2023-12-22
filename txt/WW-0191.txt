@@ -1,0 +1,66 @@
+                                                        OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales              Final Principal and Preliminary Proposal for Subsidiary
+                                                                 OFFICIAL                    Date:    6th October 2023
+                                             Change Timetable 2024                           Page:    188 of 289
+
+
+Up train arrive platform 3                       Up train from Up Reception or         3
+                                                 Westbury DMU Sidings (except to
+                                                 Up Trowbridge Siding)
+Down train to Up Reception or Westbury           Up train arrive platform 3            3
+DMU Sidings (except from Up Trowbridge
+Siding)
+Up train from Up Reception or Westbury           Up train arrive platform 3            3
+DMU Sidings (except to Up Trowbridge
+Siding)
+Up train arrive platform 2                       Down train arrive platform 1 from     3
+                                                 Hawkeridge Jn
+Down train arrive platform 1 from                Up train arrive platform 2            3
+Hawkeridge Jn
+
+Dwell Time
+80x                                                       2
+DMU & HSTGW4                                              1½
+
+Platform Re-occupation                                    4
+
+Planning Note
+Stops in Down trains (except in run rounds) on DR should be shown at Westbury Down TC Entry/Exit and not at
+Westbury station. This is due to signal location.
+
+Class 80x Reversing moves
+The following length restrictions apply for Class 80X units reversing at Westbury:
+
+Platform 1 – 5 and 9 cars only
+Platform 2 & 3 – Any formation up to 10 cars permitted
+
+Turnround allowances
+                                                 DMU               Class 80X (5 car)                  Class 80X (9/10
+                                                                                                      Car)
+From                                             10
+Weymouth/Bristol/Southampton/Swindon
+From Salisbury (GWR only)                        5
+From Portsmouth                                  15
+From Paddington                                                    15                                 20
+
+Shunting Margins – W707, W722, Down Trowbridge Siding, Westbury DMU Sidings
+First Movement                          Second             Margin          Notes
+                                        Movement
+Down train to Fairwood Jcn departs or   Shunt move to      2½ - following  Apply passenger margin
+passes Westbury platform 1, 2 or 3      W707 signal        passenger       when following light engine or
+                                        departs Westbury 5 – following     ECS
+                                                           freight
+Down train to Fairwood Jcn departs      Shunt move to      Shunt move to
+Westbury Down Yard or Westbury DR line  W707 signal        W707 signal
+                                        departs Westbury departs
+                                                           Westbury
+A shunt move at W707 signal prevents any move at the west end of Westbury platform 2, any move
+between Westbury Down Yard or Down Reception Line and Fairwood Jcn, and any move between the Up
+or Down Salisbury and Westbury platform 2, 3 and Up Reception Line.
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

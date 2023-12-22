@@ -1,0 +1,56 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024            Date:     28th July 2023
+West and Central
+                                                                                          Page:   162 of 443
+
+
+MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)
+
+Euston
+
+Attachment of Units:
+Class 350 EMU                        9
+
+Conflicting Moves
+All conflicting moves in the station throat must have a minimum of 3 minutes clearance.
+
+Connectional Allowance               15
+
+Detachment of Units:
+Class 350 EMU                        9
+
+Minimum Turnround Time – Trains entering or leaving passenger service
+Standard                         20 (except London Overground)
+Class 319 (West Midlands Trains) 5 for 4 cars, 6 for 8 cars
+                                 8 for 12 cars (entering service), 9 for 12 cars (leaving service)
+Class 350 (West Midlands Trains) 6 for 4 cars, 7 for 8 cars, 9 for 12 cars
+
+Minimum Turnround Time – Trains changing direction at end of journey
+EMU up to 4 car                5
+EMU 6 to 8 car                       6
+EMU 9 to 12 car                      8
+Class 90, 7 Mk4s and DVT             25
+Avanti West Coast services           20 for services originating at Shrewsbury (via Birmingham New Street),
+                                     Wolverhampton, Birmingham New Street and stations south thereof
+                                     25 for services originating from Liverpool Lime Street, Manchester Piccadilly,
+                                     North Wales Coast, Chester and Crewe
+                                     30 for services originating at Glasgow Central or Edinburgh Waverley via
+                                     West Midlands
+                                     35 for service originating from Glasgow Central or Edinburgh via the Trent
+                                     Valley
+
+Platform End Conflicts
+First Movement                                Second Movement                                 Margin
+Arrive                                        Depart (except London Overground)               2
+Arrive                                        London Overground service departs               1
+Depart                                        Arrive                                          4*
+Depart Platforms 8-11                         Arrive Platforms 8-11                           3
+Depart (if HST or locomotive-hauled)          Arrive                                          5
+Locomotive hauled vacating                    Inward locomotive to be released                3
+*May be reduced to 3 minutes on agreement between Network Rail Operational Planning, Local Operations
+Manager, and all affected Train Operators
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                     Date:    27th October 2023
+                                            Timetable 2024                               Page:    140 of 178
+
+SW190 NEW MALDEN TO SHEPPERTON
+
+New Malden
+
+See entry under route – SW105
+
+
+Norbiton
+
+Dwell Times
+Class 455 and Class 701 EMU                                                                   1
+Up direction services departing between 0630 and 0900 Monday to Friday
+
+
+Kingston
+
+Dwell Times
+All Services                         1
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Between all movements except as below                                                               3
+Bay Platform arrival                              Down Teddington service                           1½
+
+Simultaneous Moves Not Permitted
+Train arrives/departs Bay Platform 1               Down train arrives Platform 2
+
+
+Teddington
+
+Connectional Allowances
+All Services                         5
+
+
+Shacklegate Junction
+
+Access to Strawberry Hill CSD
+Trains to Strawberry Hill CSD must travel to Strawberry Hill Station and reverse or shunt via 2449 signal on the Up
+Kingston to gain access to the CSD
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                            Value
+Down trains towards Fulwell from Teddington       Speed Differential                                {½}
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Between all movements                                                                               2
+
+
+Fulwell
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Down pass/arrive from Strawberry Hill           Up depart towards Teddington                      1*
+Down pass/arrive from Strawberry Hill           Up pass towards Teddington                        2*
+
+
+                                    Electronic copy - uncontrolled when printed.

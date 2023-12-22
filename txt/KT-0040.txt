@@ -1,0 +1,57 @@
+NETWORK RAIL                     Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                           OFFICIAL
+                             Final Proposal for Subsidiary                             25th August 2023
+                                                                             Date:
+                                  Timetable 2024                             Page:     36 of 168
+
+
+SO180 PADDOCK WOOD TO MAIDSTONE WEST
+TIMING POINT                 DOWN         UP          CODE      NOTES
+
+Paddock Wood                 -            -                     Platform detail including through lines must
+                                                                be shown
+                                                                To/from Tonbridge - SO130
+Beltring                     -            -             S
+East Peckham Tip             -            -            FS       Access controlled by FOC shunter and
+                                                                groundframe operator
+East Peckham Groundframe     -            -            FS       Use TIPLOC EPKCKMR
+                                                                Timing point for trains accessing the
+                                                                sidings
+Yalding                      -            -             S
+Wateringbury                 -            -
+East Farleigh                -            -
+Maidstone West               -            -                     Platform detail must be shown
+
+
+
+
+SO200 Please see Sussex Timetable Planning Rules – SO600
+
+SO210 - Please see Sussex Timetable Planning Rules – SO610
+
+
+SO220 ASHFORD TO RAMSGATE (VIA CANTERBURY WEST)
+TIMING POINT                 DOWN         UP            COD     NOTES
+                                                        E
+Ashford Down Sidings and                                  S     Timing point for trains to/from Ashford
+Ashford Down Yard                                               International or Wye.
+                                                                TIPLOC ASHFKDY must be used
+                                                                Access controlled by separate shunters
+Wye                          -            -
+Chilham                      -            -                 S
+Chartham                     -            -                 S
+Canterbury West              -            -                     Platform detail must be shown
+Canterbury West Up Siding    -            -                 S   Timing point for trains to and from the Up
+                                                                Siding.
+                                                                TIPLOC CNTBWGL
+Sturry                       -            -
+Minster                      -            -
+Minster West Junction                                           To/from Minster South Junction - SO240A
+Minster East Junction        -            -                     To/from Minster South Junction - SO240
+Thanet Parkway               -            -                 S
+Ramsgate                     -            -                     To/from Dumpton Park – SO110
+
+
+
+
+                            Electronic copy - uncontrolled when printed

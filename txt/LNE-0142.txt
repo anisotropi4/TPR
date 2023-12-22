@@ -1,0 +1,62 @@
+NETWORK RAIL                         Timetable Planning Rules                          Version: 4.1
+London North Eastern                   Revised Final Rules for                           Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                       Page: 139 of 368
+
+
+Tallington Junction
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                             Value
+Approaching Tallington                          DF-DS approach control and differential            1 HST/180/
+                                                junction speed                                     225/80X
+After Tallington                                DF-DS acceleration to linespeed and                1 HST/180/
+                                                differential junction speed                        225/80x
+Approaching Tallington                          DS-DF approach control and differential            ½ HST/180/
+                                                junction speed                                     225/80x
+After Tallington                                DS-DF acceleration to linespeed and                1½ HST/180/
+                                                differential junction speed                        225/80x
+Movement Up                                     Reason                                             Value
+Approaching Tallington                          UF – US; approach control and differential         1 HST/180/
+                                                junction speed                                     225/80X
+After Tallington                                UF-US acceleration to linespeed and                1 HST/180/
+                                                differential junction speed                        225/80x
+Approaching Tallington                          US-UF approach control and differential            ½ HST/180/
+                                                junction speed                                     225/80x
+After Tallington                                US – UF; acceleration to linespeed and             1½ HST/180/
+                                                differential junction speed                        225/80X
+
+
+Stoke Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                             Value
+After Stoke Jn                                  DS – DF; differential junction speed               1 HST/180/
+                                                                                                   225/80X
+
+Movement Up                                     Reason                                             Value
+Approaching Stoke Jn                            UF – US*; approach control and differential        1 HST/180/
+*When UF from Grantham                          junction speed                                     225/80X
+
+Junction Margins
+First Movement                               Second Movement                                     Margin
+Pass DFL                                     Depart DSL                                          1½
+Pass DFL                                     Pass DSL to DFL                                     3$
+Up Fast to Up Slow                           Up Fast to Up Fast                                  3
+$maximum of (2) approaching Stoke on DSL permitted for trains following Down Fast. Otherwise * stop at Stoke
+Junction to be shown.
+
+
+Highdyke Junction
+
+Junction Margins
+First Movement                                  Second Movement                                    Margin
+Up train passes Stoke Junction                  Depart from Up Slow                                ½
+
+
+Grantham
+
+Adjustments to Sectional Running Times (to be shown after this location)
+Movement                                  Reason                                                Value
+Down Fast to P4/Up & Down Slow            Approach control and differential junction            1½ HST/
+                                          speed at Grantham South Jn                            180/225/80X
+
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,62 @@
+                                                       OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                       Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                      Date:    6th October 2023
+                                           Change Timetable 2024                             Page:    239 of 289
+
+
+
+Dwell Time
+15x                                    3
+
+Knucklas
+
+Dwell Time
+15x                                    *
+* Request Stop
+
+Llangyllo
+
+Dwell Time
+15x                                    *
+* Request Stop
+
+Llanbister Road
+
+Dwell Time
+15x                                    *
+* Request Stop
+
+Dolau
+
+Dwell Time
+15x                                    *
+* Request Stop
+‘All Up’ services must stop in platform to operate the level crossing ½ minute.
+
+Pen-y-bont
+Dwell Time
+15x                                    *
+* Request Stop
+
+Llandrindod
+Dwell Time
+15x                                    3
+
+Junction Margin
+First Movement                             Second Movement                        Margin
+Arrival from the South/North               Departure to the North/South           8
+
+Builth Road
+Dwell Time
+15x                                    *
+* Request Stop
+
+Cilmeri
+Dwell Time
+15x                                    *
+* Request Stop
+
+
+                                     Electronic copy - uncontrolled when printed.

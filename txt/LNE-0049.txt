@@ -1,0 +1,57 @@
+NETWORK RAIL                   Timetable Planning Rules                    Version: 4.1
+London North Eastern             Revised Final Rules for                     Date: 12 October 2023
+                            Subsidiary Change Timetable 2024                 Page: 46 of 368
+
+
+LN756 SCUNTHORPE TRENT JUNCTION TO ROXBY
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Scunthorpe Trent Junction    –          –          X        To/from North Lincoln Jn – LN752
+Normanby Park GF             –          –          S
+ Dragonby Sidings            –          –          S
+ Flixborough Wharf           –                     S
+Roxby Gullet                            –
+
+
+LN758 BRANCLIFFE EAST JUNCTION TO KIRK SANDALL JUNCTION
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Brancliffe East Junction     –          –                   To/from Shireoaks – LN736
+WP605 Signal                 –                              TIPLOC DNNG605
+WP606 Signal                            –                   TIPLOC DNNG606
+Dinnington Junction          –          –
+  Maltby RJB Mining                                S
+Maltby Colliery SB           –          –
+Firbeck Junction             –          –
+St Catherines Junction       –          –                   To/from Decoy South Junction –LN762
+Low Ellers Curve Junction    –          –                   To/from Potteric Carr Junction –LN764
+Kirk Sandall Junction        – SL       –                   To/from Hatfield and Stainforth – LN752
+
+
+LN762 ST CATHERINE’S JUNCTION TO DECOY SOUTH JUNCTION
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+St Catherine’s Junction      –          –                   To/from Brancliffe East Jn – LN758
+Decoy South Junction         –          –                   To/from Decoy North Jn – LN150
+
+
+LN764 ST CATHERINE’S JUNCTION TO POTTERIC CARR JUNCTION (LOW
+ELLERS CURVE)
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+St Catherine’s Junction      –          –                   To/from Brancliffe East Jn – LN758
+Low Ellers Curve Junction    –          –
+Potteric Carr Junction       –          –                   To/from Doncaster Up Decoy – LN101
+
+
+LN766 BENTLEY JUNCTION TO HEXTHORPE JUNCTION (DONCASTER
+AVOIDING LINE)
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Bentley Junction             AL         –                   To/from Hatfield & Stainforth – LN752
+Hexthorpe Junction           –          AL                  To/from Conisbrough – LN826
+
+
+
+
+                            Electronic copy - uncontrolled when printed.

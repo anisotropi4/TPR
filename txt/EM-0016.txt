@@ -1,0 +1,38 @@
+                                                         OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                         Version:   4.1
+East Midlands                        Final Subsidiary Change Rules 2024                       Date:    13th September
+                                                                                                       2023
+                                                                                              Page:    14 of 123
+
+Activity Codes – Notes
+5. At any one event, the following groups are mutually exclusive
+    a) D, U, T, N, S, TW, OP.
+    b) –D, –U, –T.
+    c) TB, TF.
+    d) KC, KE.
+6. N, R, G, D and U are only valid with Train Categories XC, XD, XI, XX, XZ, OO, OW, OL, BS, BR and blank
+(i.e. 'advertised' services). R, D and U are additionally valid with Train Categories XU and OU (i.e.
+unadvertised services).
+7. K, KC, KE, KF, KS are only valid with Train Categories starting X or O.
+8. If TF is present then none of K, KC, KE, KF, KS can be present.
+9. Activity T indicates that a train stops to pick up and set down. This normally refers to passengers. Activity
+–T indicates that the train stops to attach and detach vehicles. At any location where a 'stop' time is shown,
+TPS or a similar system will assume a default Activity is required unless otherwise specified. These default
+Activities are as follows T for trains with a Train Category starting in X or O, OP for trains with a Train
+Category starting in Z or E, and –T for all other trains (but see below). The default Activity will be generated
+when the upload file is created.
+10. If Activities U, D, N, R, OP, S, TW, –U or –D are specified then this overrides the defaults and only the
+specified Activities will be included in the upload file (it is not necessary to use the * suppression code if
+these codes are present).
+11. If a traffic Activity is NOT required at a 'stop' location with Activities other than U, D, N, R, OP, S, TW, –U
+or –D (e.g. at 'C' or 'L' stops) then the * must be input to the TPS or similar system train specification at that
+location to suppress –T or T. If the * is not added to indicate a non–traffic stop then T, –T or OP will be
+added to the upload file
+12. If an Activity –T (only) is required on a train with a Category starting in X or O it is necessary to add a * to
+the ITPS spec (to suppress ‘T’) and positively show –T in the Activity column.
+
+
+
+
+                                          Electronic copy - uncontrolled when printed.

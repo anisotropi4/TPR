@@ -1,0 +1,66 @@
+                                                        OFFICIAL
+
+ NETWORK RAIL                           Timetable Planning Rules 2024                       Version:   4.1
+ Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                                OFFICIAL                      Date:    6th October 2023
+                                            Change Timetable 2024                             Page:    109 of 289
+
+
+Platforms 4 and 5: It is prohibited for two class 80x units to attach, detach or platform-share in platform 4 and 5 at
+Paddington due to insufficient length and SPAD risk.
+
+Royal Oak Sidings, Paddington
+ARS assumes Siding 1 for up trains if vacant
+Stabling of trains at Royal Oak has not been practiced for several years, due to environmental complaints from the
+local authority. In view of the sensitivity of the noise pollution issue, the planned use of Royal Oak for stabling of
+trains is considered most undesirable. Any Train Operator considering such use must, therefore, consult with
+Network Rail before submitting a bid. Royal Oak Sidings are available in an emergency, subject to driver
+compliance with noise abatement, as detailed in the Sectional Appendix. This does not apply to electric trains. Bi
+mode trains must be AC mode only.
+
+Royal Oak Junction
+A margin of 2 minutes applies to conflicting moves
+
+Portobello Jn
+
+Signalling Limitations
+Trains from the Crossrail Central Operating Section may contain no more than {½} approaching Portobello Jn as
+there are no intermediate CBTC/signal berths after passing or departing from Westbourne Park CS
+
+Simultaneous Moves Not Permitted
+Consecutive Down trains from Portobello Jn via Lines 3, 4 or 5 which converge towards the Down Relief at
+Ladbroke Grove must also have headway applied at Portobello Jn.
+
+Ladbroke Grove
+
+Junction Margin (applies for moves to and from the Carriage Lines via 8096 and or 8097 points)
+First Movement                                    Second Movement                                      Margin
+Up train passing Ladbroke Grove                   Down train to Carriage Lines                         2
+Down train towards Old Oak Common                 Up train passing Ladbroke Grove                      3
+Up train passing Ladbroke Grove                   Up train from Carriage Lines                         2
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                    Reason                    Timing Load       Value
+Crossing from ML to RL at Acton West in the Slower crossing speed for HST / 180 / 220/1 +{½}
+Up direction Pass to Pass                   passenger trains running  / 150 – 165/6 /
+                                            at over 90 mph            332
+
+Simultaneous Moves Not Permitted
+Consecutive Up trains towards Portobello Jn via Crossrail Depot Line 1 and Line 6, which conflict at Portobello Jn,
+must also have headway applied at Ladbroke Grove
+
+North Pole IEP Depot
+Depot Acceptance
+Trains arriving at this location must be timed 10 minutes apart. - Use of adjustment allowances between North
+Pole and Ladbroke Grove (either direction) is permitted for the purpose of maintaining 10-min depot intervals and
+optimising pathing at Ladbroke Grove, provided no schedule conflicts are created
+Trains departing this location must be timed 10 minutes apart.
+
+Old Oak Common East Jn
+Junction Margins
+First Movement                                       Second Movement                                       Margin
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

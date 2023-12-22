@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                  Date:    27th October 2023
+                                            Timetable 2024                            Page:    126 of 178
+
+
+SW120 PIRBRIGHT JUNCTION TO ALTON
+
+Pirbright Junction
+
+See entry under route – SW105
+
+
+Ash Vale
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                         Value
+Up trains towards Frimley Junction passing Ash Speed Differential                                {½}
+Vale
+Down trains from Frimley Junction passing Ash Speed Differential                                 {½}*
+Vale
+* This allowance should appear in the section from Ash Vale
+
+Dwell Times
+All Services                        1
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Between all movements except as below                                                            3
+Service arriving from Frimley                    Departure towards Pirbright Junction            1
+Up Camberley departure reoccupying single                                                        1
+line
+
+
+Aldershot North Junction
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                         Value
+Up Passenger services towards Aldershot           Speed Differential                             {½}
+South Junction
+Up freight services towards Aldershot South       Approach control                               {1}
+Junction
+Down services towards Aldershot from              Speed Differential                             {½}*
+Aldershot South Junction
+* This allowance should appear in the section from Aldershot North Junction
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Between all movements except as below                                                            2
+Up services towards Aldershot South Junction     Down services from Ash Vale                     2½
+
+
+Aldershot
+
+Berthing Facilities
+                                    Cars
+Platform 3 – DPL                    12
+
+Connectional Allowances
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

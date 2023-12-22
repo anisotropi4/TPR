@@ -1,0 +1,68 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                      Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales       Final Principal and Preliminary Proposal for Subsidiary
+                                                          OFFICIAL                    Date:    6th October 2023
+                                      Change Timetable 2024                           Page:    20 of 289
+
+
+GW103 PADDINGTON TO UFFINGTON
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Paddington                        12345                             Platform detail must be shown.
+                                  6                                 Line code indicates line at Royal Oak
+Royal Oak Sidings                 –           –              S
+Royal Oak Junction                12345       12345
+                                              6
+Paddington New Yard               5 6 CRL                    S
+Westbourne Park CS                –           –              S      For MTR Elizabeth Line services to/from
+                                                                    Paddington Crossrail
+Portobello Junction               12345       12345
+                                  6           CRE
+                                  CRL         CRW                   CRE – to Crossrail Eastbound
+                                                                    CRW – to Crossrail Westbound
+                                                                    CRL – to Crossrail Depot Line 1
+Ladbroke Grove                    ML RL       ECL
+                                  ECL         CL
+                                  CL          12345
+                                  A AB B      6
+                                  D1          D1                    D1 – To Crossrail Depot Line 1
+                                  D2                                D2 – To Crossrail Depot Line 2
+                                  XD2                               XD2 – To Crossrail Depot Line 1, via
+                                                                    Depot Line 2 and Crossovers
+North Pole IEP Depot              –           A AB B
+Old Oak Common Crossrail Depot                D1                    D1 - To Depot Line 1
+Departure Signals                             D2                    D2 – To Depot Line 2
+                                              ECL                   ECL – To Engine and Carriage Line
+Old Oak Common Crossrail Depot    -
+Arrival Signals
+Old Oak Common East               RL          RL ECL                Timing point for all movements via CL and
+                                              CL                    ECL.
+                                                                    trains reversing or running round at Old
+                                                                    Oak Common Engine Siding for pathing
+                                                                    reasons
+
+Old Oak Common Engine Siding      –           –              S      Timing Point for trains planned to reverse or
+                                                                    run-around at this location.
+Old Oak Common Back Line                                            To and from Old Oak Common TMD
+Old Oak Common Crossrail Depot
+Old Oak Common West               RL          RL             X
+Acton Main Line                   RL GL       ML RL          SX     To/from Acton Wells Jn – GW130
+Acton TC (Yard)                   GL          GL             S
+Acton West                        ML RL       ML RL^                ^For trains using Acton Diveunder
+                                              GL URL*               *For trains using Up Relief (surface route)
+                                                                    – Not to be applied to trains weaving ML to
+                                                                    RL
+Ealing Broadway                   ML RL       ML RL          S      Platform detail must be shown
+West Ealing                       RL          RL                    Timing point for all trains on the Relief
+                                                                    Lines and trains to/from Greenford.
+                                                                    Platform detail must be shown
+                                                                    To/from Drayton Green – GW174
+West Ealing Loop                  RL          RL             S
+Hanwell                           RL UGL      RL             SX     Timing point for all stopping trains & all
+                                                                    trains to/from Drayton Green, Hanwell
+                                                                    Bridge Goods Loop & West Ealing Loop.
+                                                                    Platform detail must be shown
+
+
+                                 Electronic copy - uncontrolled when printed.

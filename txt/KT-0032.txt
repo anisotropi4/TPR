@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                             25th August 2023
+                                                                                  Date:
+                                       Timetable 2024                             Page:     28 of 168
+
+
+SO130 LONDON CHARING CROSS TO DOVER PRIORY (VIA TONBRIDGE)
+TIMING POINT                      DOWN         UP          CODE      NOTES
+
+Petts Wood Junction               FL SL        FL SL                 To/from Bickley Junction - SO110A
+                                               UFV                   Line Codes UFV and USV are to Bickley
+                                               USV                   Junction in the Up direction only
+Petts Wood                        FL SL        FL SL       S, X
+Orpington                         -            FL SL                 Platform detail must be shown
+Orpington Down Sidings            -            -             S       Timing point for trains to and from Down
+                                                                     Sidings. Siding numbers to be shown, S1,
+                                                                     S2, S3 or S4
+                                                                     Access controlled by FOC shunter
+Chelsfield                        -            -             S
+Knockholt                         -            -             S
+Dunton Green                      -            -             S
+Sevenoaks                         -            -                     Platform detail must be shown.
+                                  DM                                 To/from Bat and Ball – SO140A
+Sevenoaks Gusset Siding           -            -             S       Timing point for trains between Platform 4
+                                                                     at Sevenoaks and the to/from Gusset
+                                                                     Siding and trains routed to or Down
+                                                                     Sidings via Gusset Siding
+                                                                     Tiploc SVNOGUS
+Sevenoaks Down Sidings (C.H.S)    -            -             S       Timing point for trains to/from Down
+                                                                     Sidings via 1078 points
+                                                                     Trains to / from platform 4 at Sevenoaks
+                                                                     must be timed via Gussett Siding
+                                                                     Tiploc SVNOCHS
+Hildenborough                     -            -             S
+Tonbridge                         -            -                     Platform detail including through lines must
+                                                                     be shown, 1, 2, 3, 4, DF or UF
+                                                                     To/from Leigh - Refer to Sussex Timetable
+                                                                     Planning Rules – SO550
+                                                                     To/from Somerhill Tunnel - SO170
+Tonbridge Shunt Signal AD2032                  -             S       TIPLOC TONB032
+                                                                     Applies to shunt moves on the Down Slow
+                                                                     using Shunt Signal 2032
+Tonbridge Down Loop               -            -                     TIPLOC TONBDLP
+                                                                     Applies to movements via the Down Slow
+                                                                     which are routed via signal AD163
+Tonbridge Signal AD163            -                          S       TIPLOC TONB163
+Tonbridge Post Office Siding      -            -                     TIPLOC TONBPOS
+                                                                     Applies to movements via the Down Slow
+                                                                     which are routed via signal AD167
+Tonbridge Up Loop                 - UL         -                     TIPLOC TONBULP
+                                                                     Applies to movements via the Up Slow
+                                                                     which are routed via signal AD164
+Paddock Wood                      -            -                     Platform detail including through lines must
+                                                                     be shown
+
+                                                                     To/from Beltring - SO180
+Marden                            -            -             S
+Staplehurst                       -            -             S
+Cranmore Down Loop                -            -
+Headcorn                          -            -                     Platform detail including through lines
+                                                                     must be shown
+
+                                 Electronic copy - uncontrolled when printed

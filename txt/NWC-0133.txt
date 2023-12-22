@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    121 of 443
+
+
+MD160 WILLESDEN HIGH LEVEL JN TO MITRE BRIDGE JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Willesden High Level Jn to Mitre     3             3
+Bridge Jn
+
+
+MD166 NORTH POLE JN TO WEMBLEY
+TIMING POINT                          DOWN         UP      NOTES
+
+Mitre Bridge Jn to Willesden West     TCB          TCB     Planned as AB
+London Jn
+Willesden West London Jn to           5            5
+Willesden No.7
+Willesden No.7 to Wembley             5            5
+Central
+
+
+MD167 MITRE BRIDGE JN TO ACTON WELLS JN (SOUTH WEST LINES)
+TIMING POINT                          DOWN         UP      NOTES
+
+Mitre Bridge Jn to Willesden West     TCB          TCB     Planned as AB+2
+London Jn
+Willesden West London Jn to           TCB          TCB     Planned as AB+2
+Willesden South West Sidings
+Mitre Bridge Jn to Willesden South    TCB          TCB     Planned as AB+2
+West Sidings (via Willesden South
+West Goods Lines)
+Willesden South West Sidings to       TCB          TCB     Planned as AB+2
+Acton Wells Jn
+
+
+MD170 ACTON CANAL WHARF TO WILLESDEN JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Acton Canal Wharf to Willesden       TCB           TCB     Planned as AB+2
+Jn
+
+
+MD175 BRACKMILLS TO NORTHAMPTON SOUTH JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Brackmills to Northampton South      10            10
+Jn
+
+
+MD180 RUGBY TRENT VALLEY JN TO NEW BILTON
+TIMING POINT                         DOWN          UP      NOTES
+
+Rugby Trent Valley Jn to New                   *           * Single line - One train in Section (OTS)
+Bilton
+
+
+
+
+                               Electronic copy - uncontrolled when printed

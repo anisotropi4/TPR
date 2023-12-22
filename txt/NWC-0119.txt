@@ -1,0 +1,57 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                    Page:    107 of 443
+
+
+NW9901 GARGRAVE TO CARLISLE SOUTH JN
+TIMING POINT                      DOWN        UP          CODE     NOTES
+
+Horton–in–Ribblesdale                  –           –               Timing point for stopping trains in the Up
+                                                                   direction and all trains in Down direction
+Ribblehead                             –           –               Single line from 247 miles 40 chains to 248
+                                                                   miles 28 chains (Ribblehead Viaduct)
+Ribblehead Quarry                      –                    F
+Blea Moor Up Goods Loop                –                    S
+Blea Moor                              –           –
+Dent                                   –           –        S
+Garsdale                               –           –
+Ais Gill                                           –
+Mallerstang                                        –
+Kirkby Stephen                         –           –
+Crosby Garrett                                     –
+Ormside                                            –
+Appleby                                –           –
+New Biggin British Gypsum              –           –        F
+Kirkby Thore Signal KT55               –                    S      For trains to New Biggin British Gypsum
+Kirkby Thore SB                        –           –
+Culgaith SB Level Crossing             –           –
+Langwathby                             –           –        S
+Lazonby & Kirkoswald                   –           –
+Armathwaite                            –           –        S
+Low House Crossing SB Level            –           –
+Crossing
+Howe & Co’s Siding SB                  –           –               Also, Goods Loop in Down direction only
+Petteril Bridge Jn                     –           –               To/from Corby Gates SB – NW9909
+London Road Jn                         –           –               Single line from London Road Jn to/from
+                                                                   Carlisle South Jn
+                                                                   To/from Upperby Bridge Jn. – NW4023
+                                                                   To/from Bog Jn – NW9911
+Carlisle South Jn                                                  To/from Carlisle – NW4001
+
+
+NW9903 SETTLE JN TO CARNFORTH STATION JN
+TIMING POINT                      DOWN        UP          CODE     NOTES
+
+Settle Jn                              –           –               To/from Hellifield – NW9901
+                                                                   Single lead junction to/from Gargrave line
+Giggleswick                            –           –        S
+Clapham (North Yorkshire)              –           –        S
+Bentham                                –           –        S
+Wennington                             –           –        S
+Carnforth Station Jn                   –           –               To/from Carnforth – NW4033
+
+
+
+
+                            Electronic copy - uncontrolled when printed

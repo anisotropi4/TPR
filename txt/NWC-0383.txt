@@ -1,0 +1,64 @@
+ NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+ Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+ West and Central
+                                                                                        Page:   371 of 443
+
+
+5.4 Platform Lengths
+
+The table below shows the maximum length of train that may use each of the platforms at the following
+passenger stations. All lengths are in metres. The quoted lengths are the usable lengths from ramp to
+ramp unless specified. The measurements take no account of the need for signal sighting. Trains longer
+than the quoted lengths will only be accepted subject to the authority of the Route Director.
+
+ STATION                             PLATFORM         LENGTH      NOTES
+
+ Accrington                          Down                   100
+ Accrington                          Up                     100
+ Acocks Green                        Down                   152
+ Acocks Green                        Up                     153
+ Acton Bridge                        Down                   131
+ Acton Bridge                        Up Fast                145
+ Acton Bridge                        Up Slow                185
+ Adderley Park                       Down                    96
+ Adderley Park                       Up                      97
+ Adlington (Cheshire)                Down                   169
+ Adlington (Cheshire)                Up                     169
+ Adlington (Lancashire)              1                      143   Up line
+ Adlington (Lancashire)              2                      143   Down line
+ Aigburth                            1                      128   Down line
+ Aigburth                            2                      128   Up line
+ Ainsdale                            1                      124   Up line
+ Ainsdale                            2                      123   Down line
+ Aintree                             1                      162   Up line
+ Aintree                             2                      118   Down line. Additional 45m OOU
+ Albrighton                          1                   99 138
+ Albrighton                          2                   92 100
+ Alderley Edge                       Down                   172   Bi–directional
+ Alderley Edge                       Up                     128
+ Alsager                             Down                    91
+ Alsager                             Up                      91
+ Altrincham                          3                      168   Up line
+ Altrincham                          4                      142   Down line
+ Alvechurch                          1                      148
+ Alvechurch                          2                      147
+ Ansdell & Fairhaven                 Single                 101
+ Appleby                             Down                   166
+ Appleby                             Up                     165
+ Appley Bridge                       Down                    94
+ Appley Bridge                       Up                      95
+ Apsley                              1                      204   Down Fast
+ Apsley                              2                      204   Up Fast
+ Apsley                              3                      246   Down Slow
+ Apsley                              4                      246   Up Slow
+ Ardwick                             Down                    40   Additional 113m OOU
+ Ardwick                             Up                      46   Additional 107m OOU
+ Armathwaite                         Down                    92
+ Armathwaite                         Up                      94
+ Arnside                             Down                   112   Additional 79m OOU
+ Arnside                             Up                     106   Additional 18.5m OOU
+ Ashburys                            Down                   120
+
+
+
+                              Electronic copy - uncontrolled when printed

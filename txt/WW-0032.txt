@@ -1,0 +1,66 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                      Timetable Planning Rules 2024                       Version:   4.1
+Western + Wales       Final Principal and Preliminary Proposal for Subsidiary
+                                                          OFFICIAL                      Date:    6th October 2023
+                                      Change Timetable 2024                             Page:    29 of 289
+
+
+GW174 WEST EALING TO GREENFORD WEST JUNCTION
+TIMING POINT                      DOWN           UP             CODE   NOTES
+
+West Ealing                       –              RL                    To/from Acton West – GW103
+Drayton Green                     –              –                     To/from Hanwell – GW176
+Castle Bar Park                   –              –              S
+South Greenford                   –              –              S
+Greenford South Junction          –              –                     To/from Greenford East – GW117
+                                                                       To/from Greenford – GW175
+Greenford West Junction           –              –                     To/from South Ruislip – GW110
+
+GW175 GREENFORD SOUTH JUNCTION TO GREENFORD
+TIMING POINT                               SINGLE               CODE   NOTES
+
+Greenford South Junction                     –                         To/from Greenford East – GW117
+Greenford                                    –                  S      LUL BAY
+
+GW176 HANWELL TO DRAYTON GREEN
+TIMING POINT                      DOWN           UP             CODE   NOTES
+
+Hanwell                               RL              –                To/from Acton West – GW103
+                                                                       To/from Southall – GW103
+Drayton Green                         –               –                To/from West Ealing – GW174
+                                                                       To/from Greenford South Jn – GW174
+
+GW178 SOUTHALL TO BRENTFORD GOODS
+TIMING POINT                      DOWN           UP             CODE   NOTES
+
+Southall                          –              GL                    To/from Southall TC – GW103
+Brentford Town                    –              –
+Brentford Town Day & Sons         –              –              S
+Brentford Town W RTS              –              –              S
+
+GW180 HEATHROW AIRPORT JUNCTION TO HEATHROW TERMINALS 4 & 5
+TIMING POINT                      DOWN           UP             CODE   NOTES
+
+Heathrow Airport Jn               ML RL          ML RL                 To/from Southall – GW103
+                                  URL            DML
+Stockley Junction                 –              ML RL                 Timing point for Up trains.
+                                                 DH♥                   ♥ Line Code only applies during reversible
+                                                                       line working operation.
+Heathrow Tunnel Junction          –   UH        –                     Line codes are only required when
+                                                 DH                   running bi–directionally.
+                                                  DHR
+Heathrow Terminals 2 and 3        – ♥UH          – ♣DH                 Platform detail must be shown
+                                                 ◆UH                   ♥Line code only required when running bi–
+                                                                       directionally to T5
+                                                                       ◆Line code only required for trains starting
+                                                                       from this location
+Heathrow Terminal 4               –              –                     Platform detail must be shown.
+Heathrow Terminal 5                              –    ♣DH              Platform detail must be shown
+                                                                       ♣ Line code only required when running
+                                                                       bi–directionally.
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:     28th July 2023
+West and Central
+                                                                                     Page:     218 of 443
+
+Hatton
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                        Value
+Pass Platform 3 from Down Main                   Approach control and slow speed crossover     2
+Arrive Platform 3 from Down Main                 Approach control and slow speed crossover     1½
+Pass from Down Goods Loop                        Not at line speed passing Hatton              ½* Passenger
+                                                                                               ½* Freight 600t
+                                                                                               and under
+                                                                                               1* Freight 800t
+                                                                                               to 1475t
+                                                                                               1½* Freight
+                                                                                               1600t-2000t
+                                                                                               2* Freight 2200t
+                                                                                               and over
+Depart Platform 3 to Down Main                   Slow speed crossover                          ½* Passenger
+                                                                                               ½* Freight
+Pass Platform 3 to Up Main                       Slow speed crossover                          2*%
+Depart Platform 3 to Up Main                     Slow speed crossover                          1½*%
+
+* Applied approaching next timing point.
+% Can be reduced by ½ if stopping at Warwick Parkway
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+Arrive platform 3                                Pass on Down Main                             2
+Pass/depart Platform 2                           Depart Down Goods Loop to Down Main           1
+Pass/depart Platform 2                           Depart Platform 3 to Down Main                2
+Pass Platform 1                                  Up Pass/depart Platform 3                     2
+Depart Platform 1                                Up Pass/depart Platform 3                     2½
+Pass Platform 2                                  Depart Platform 3 to Up Main                  1
+Arrive Platform 2                                Depart Platform 3 to Up Main                  2
+Arrive/Pass Platform 2                           Pass Platform 3 to Up Main                    3
+
+
+Hatton North Jn
+
+Junction Margins
+First Movement                                   Second Movement                                  Value
+Departing/passing Hatton (excluding from         Passing Hatton North Jn from Hatton West Jn      3
+Hatton Down Goods Loop) towards Dorridge         towards Dorridge
+Passing Hatton towards Dorridge                  Passing Hatton North Jn towards Hatton West      3
+                                                 Jn
+Stopping train departs Hatton towards Dorridge   Passing Hatton North Jn towards Hatton West      3½
+                                                 Jn
+Passing Hatton North Jn from Hatton West Jn      Passing Hatton North Jn towards Hatton West      Standard
+towards Dorridge                                 Jn                                               single line
+                                                                                                  reoccupation
+                                                                                                  value applies
+Passing Hatton North Jn towards Hatton West      Passing Hatton towards Dorridge                  3
+Jn
+
+
+
+
+                               Electronic copy - uncontrolled when printed

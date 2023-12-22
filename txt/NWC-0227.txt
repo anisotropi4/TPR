@@ -1,0 +1,61 @@
+NETWORK RAIL                            Timetable Planning Rules                          Version:     4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024              Date:      28th July 2023
+West and Central
+                                                                                               Page:   215 of 443
+
+Banbury Aggregate Sidings
+
+Planning Note
+Only one freight service can be accommodated at Banbury Aggregate Sidings at any one time.
+
+
+Arriving Trains:
+Arriving from Fenny Compton Direction:
+
+Trains over 320m/1050ft/50SLU splitting on the Down Banbury Goods Loop require a 60 minute OP stop from
+arriving on the Down Banbury Goods Loop to departing towards Reservoir Neck/Aggregate Sidings. This includes
+the time taken for the loco to run-round the train and the train to be split. All locomotive run rounds at this location
+must be timetabled.
+
+Arriving from Banbury Direction:
+
+Trains over 320m/1050ft/50SLU splitting on the Down Banbury Goods Loop require a 30 minute OP stop from
+arriving on the Down Banbury Goods Loop to departing towards Reservoir Neck/Aggregate Sidings. This time is
+required for the train to be split.
+
+Departing Trains
+Departing towards Fenny Compton Direction:
+
+Trains in excess of 320m/50SLU on departure from Banbury Aggregate Sidings require a 35 minute OP stop on
+the Down Banbury Goods Loop to couple the train together and brake test before departure
+
+Departing to Banbury Direction:
+
+Trains in excess of 320m/50SLU on departure from Banbury Aggregate Sidings require 65 minute OP stop on the
+Down Banbury Goods Loop. This includes the time taken for the loco to run-round the train, the train to be
+coupled together and brake test before departure.
+
+
+Reservoir Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                       Reason                                                Value
+Trains from a stand at Banbury Down Goods           Speed differential/acceleration allowance             1
+Loop                                                                                                      approaching
+                                                                                                          next timing
+                                                                                                          point
+
+Movement Up                                         Reason                                                Value
+Up Cherwell Valley to Up Banbury Loop or            Junction differential (flashing yellows)              ½
+Down Banbury Goods Loop
+Up Cherwell Valley to Down Cherwell Valley          Junction differential and approach control            1
+
+Planning Note
+All trains using the Banbury Down Goods Loop at Reservoir Jn must show their stop at planning location Banbury
+Down Goods Loop and not Reservoir Jn. This is for planning purposes so trains in both directions can all be
+shown at the same location.
+
+
+
+
+                               Electronic copy - uncontrolled when printed

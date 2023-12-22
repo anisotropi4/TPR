@@ -1,0 +1,44 @@
+NETWORK RAIL                         Timetable Planning Rules                      Version: 4.1
+London North Eastern                   Revised Final Rules for                       Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                   Page: 243 of 368
+
+
+Aldwarke Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                               Value
+Trains from Masborough Junction.                  Differential junction speed          -1½ 142/150
+Approaching Swinton
+Trains from Rotherham Central                     Differential junction speed          1 185/22x*/HST*
+Approaching Swinton                                                                    1½ 158
+                                                                                       *Can be reduced to ½ if
+                                                                                       train is routed towards
+                                                                                       Mexborough at Swinton
+Trains to the Roundwood Chord Approaching         Approach control                     1½
+Aldwarke Junction
+
+Movement Up                                  Reason                                    Value
+Trains from Roundwood Chord to Masborough    Acceleration                              1
+Jn
+Approaching Holmes Junction
+Junction Margins
+2nd Move →                 Pass from Rotherham        Pass UML from Swinton          Pass to Thrybergh
+                           Central                                                   Junction
+1st Move ↓
+Pass UML from Swinton                 2½                                                        3
+
+Pass from Rotherham                 No conflict                          4                      3
+Central
+Pass to Thrybergh Jn                    3                                4
+
+Pass DML from                           2½                           No conflict
+Masborough Jn
+Pass from Thrybergh Jn                   4                               4*                     4
+
+    *Different routes
+    Trains from Rotherham Central to Roundwood Chord can run via UML and not conflict with train on DML
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

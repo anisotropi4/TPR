@@ -1,0 +1,33 @@
+NETWORK RAIL                            Timetable Planning Rules                  Version:   4.3
+Route: Sussex                           Final Rules for Subsidiary                Date:      18th October 2023
+                                              Timetable 2024 OFFICIAL
+                                                                                  Page:      112 of 163
+
+Three Bridges Tilgate Sidings
+
+
+Margins between successive departures
+First Movement                                      Second Movement                                       Margin
+Train departs from Three Bridges Tilgate Sidings    Following movement departs Three Bridges              6
+and passes Three Bridges station                    Tilgate Sidings towards Three Bridges station
+                                                    either stopping or not stopping
+Train departs from Three Bridges Tilgate Sidings    Following movement departs Three Bridges              8
+and stops at Three Bridges station (assumes 1       Tilgate Sidings towards Three Bridges station
+minute dwell at Three Bridges)                      either stopping or not stopping
+
+
+Crawley
+
+Dwell Times
+All Services                        1
+
+
+Littlehaven
+
+Dwell Times
+All Peak Services                   1
+
+
+
+
+                               Electronic copy - uncontrolled when printed

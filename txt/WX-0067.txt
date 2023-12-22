@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                   Date:    27th October 2023
+                                            Timetable 2024                             Page:    65 of 178
+
+
+SW250 STAINES TO WINDSOR AND ETON RIVERSIDE
+TIMING POINT                        DOWN           UP             NOTES
+
+Staines – Wraysbury                 AB+1*                         TCB plan as AB.
+                                                                  * Based on time previous train passes/departs
+                                                                  Wraysbury.
+Wraysbury – Datchet                 AB+1½*                        TCB plan as AB.
+                                                                  * Based on time previous train passes/departs
+                                                                  Datchet.
+Datchet – Windsor & Eton            AB+1                          TCB plan as AB.
+Riverside
+Windsor & Eton Riverside –                         AB+1           TCB plan as AB.
+Datchet
+Datchet - Sunnymeads                               AB+3*          TCB plan as AB.
+                                                                  * Second train can arrive/pass Datchet 3
+                                                                  minutes after preceding train passes/departs
+                                                                  Sunnymeads.
+Sunnymeads – Staines Signal                        AB+1½          TCB plan as AB.
+BEF2608
+Staines Signal BEF2608 - Staines                   3 – Non-
+                                                   stopping
+                                                   3½ -
+                                                   Stopping
+
+
+SW255 VIRGINIA WATER TO WEYBRIDGE
+TIMING POINT                        DOWN           UP             NOTES
+
+Virginia Water – Chertsey           4 – Non-       4 – Non-
+                                    stopping       stopping
+                                    4½ -           4½ -
+                                    Stopping       Stopping
+Chertsey – Addlestone Junction      2½ - Non-      2½ - Non-
+                                    stopping       stopping
+                                    4½ -           4½ -
+                                    Stopping       Stopping
+Addlestone Junction – Weybridge     3 – Non-       3 – Non-
+                                    stopping       stopping
+                                    3½ -           3½ -
+                                    Stopping       Stopping
+
+
+SW255A ADDLESTONE JUNCTION TO BYFLEET JUNCTION
+TIMING POINT                        DOWN           UP             NOTES
+
+Addlestone Junction – Byfleet       3 – Non-       3 – Non-
+Junction                            stopping       stopping
+                                    3½ -           3½ -
+                                    Stopping       Stopping
+
+
+SW260 ASCOT TO ASH VALE JUNCTION
+TIMING POINT                        DOWN           UP             NOTES
+
+Ascot – Bagshot                     5½             AB+1           TCB plan as AB.
+
+
+                                   Electronic copy - uncontrolled when printed.

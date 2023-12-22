@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+London North Eastern                      Revised Final Rules for                         Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                     Page: 129 of 368
+
+
+Hitchin
+A train may not cross from K699 signal on the Down Fast to the Down Slow (via 2271 crossover) while a train is
+arriving at platform 2 unless both trains have {1} on approach to Hitchin, as both trains will be approach-controlled
+at Hitchin South Jn. Otherwise a margin of 2 minutes is required
+
+Cadwell
+
+Junction Margin
+First Movement                                     Second Movement                                     Margin
+Up Fast passes Hitchin                             Cross Up Slow to Up Fast at Cadwell                 1
+
+
+Arlesey
+Dwell Time
+1 Down peak Trains departing King’s Cross/Moorgate / St Pancras International 1600 – 1859 SX
+
+
+
+
+Biggleswade
+Junction Margins
+First Movement                                      Second Movement                                    Margin
+
+Down train cross to DFL to DSL                      Next Down fast train pass on DFL                   2
+Depart/Pass UFL to USL                              Next Up fast train pass on UFL                     2½
+Arrive DS from US                                   Depart US or UF to Hitchin                         Same time
+Arrive DS from US                                   Pass on US                                         1½
+Arrive DS from US                                   Pass on UF                                         1½
+Arrive DS from US                                   Pass on DF                                         2
+Arrive DS from US                                   Down arrive platform 3                             3½
+Arrive Plasmor                                      Pass on DS                                         2½
+Arrive Plasmor                                      Down arrive Biggleswade                            2½
+Pass UF                                             Depart DS to Up                                    2
+Pass UF                                             Depart K235 to DS                                  2
+Depart platform 2 to UF                             Depart DS to Up                                    2
+Depart platform 2 to UF                             Depart K235 to DS                                  2
+Pass DF                                             Depart DS to Up                                    1
+Pass DF                                             Depart K235 to DS                                  1
+Pass DS                                             Depart Plasmor                                     2
+Pass DS                                             Depart K235 to DS                                  2
+Down depart on DS.                                  Depart Plasmor                                     2½
+Down depart on DS                                   Depart K235 to DS                                  2½
+US pass                                             Depart DS to US                                    2
+US depart                                           Depart DS to US                                    2½
+Depart DS to Up                                     Pass DS                                            4
+Depart DS to Up                                     Arrive DS                                          4½
+Depart DS to Up                                     Pass DF                                            4
+Depart DS to US                                     Pass UF                                            4
+
+Adjustments to Sectional Running Times
+Movement Down                   Reason                              Value
+Hitchin to Biggleswade. To be   DF to DS; approach control          1 for non-stopping; ½ stopping at Biggleswade
+applied approaching Biggleswade
+Bigglswade to Sandy. To be      DF to DS; acceleration from         ½ for non-stopping trains only
+applied after Biggleswade       slow speed point work
+
+                                    Electronic copy - uncontrolled when printed.

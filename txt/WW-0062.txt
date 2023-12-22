@@ -1,0 +1,67 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                    Date:    6th October 2023
+                                         Change Timetable 2024                           Page:    59 of 289
+
+
+GW900 PILNING TO FISHGUARD HARBOUR
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Cardiff Central                      –DE         BCDE                  To/From Cardiff Queen St – GW830
+                                                                       To/From Penarth Curve South Jn –
+                                                                       GW870
+                                                                       Platform detail must be shown
+                                                                       Platform 0/1/2/3/4
+Cardiff West Jn                                  –              S      Platform detail must be shown.
+                                                                       NB: Not to be used for Cardiff shunts.
+ Cardiff 2328 Signal                 –           –              S      Line A ‘short’ shunt
+ Cardiff 7048 Signal                 –           –              S      Line E GPL shunt
+ Cardiff 2342 Signal                 –           –              S      Line A ‘long’ shunt
+ Cardiff Brickyard Sidings           –           –              S
+Canton 2324 Signal                   –                          S
+Canton T & RSMD                                                 S
+Leckwith Loop North Junction         –           ABC                   To/from Leckwith Loop South Junction –
+                                                                       GW850
+ Cardiff 2036 Signal                 –           ABC            S      For reversing moves between Leckwith
+                                                                       Bridge Ground Frame and Cardiff Central.
+                                                                       Reversals at this location will require to be
+                                                                       signaled manually, and Local Operations
+                                                                       informed.
+Miskin                               –           –              S
+Pontyclun                            –           –
+Llanharan                            –           –              S
+Pencoed                              –           –              S
+Tremains Down Loop                   –                          S
+Barry Junction                                                         To/from Cowbridge Road SB – GW870
+Bridgend                             –           –                     Platform detail must be shown
+Llynfi Junction                                                        To/from Tondu – GW874
+Bridgend PT3028                      –           –              S      Shunt moves only
+Stormy Down Loop                     –
+Stormy                               –           –
+Stormy Up Loop                                   –
+Pyle                                 –           –              S
+Margam Moors Junction                –           –                     To/From Margam Abbey Works East
+                                                                       Junction – GW877
+Margam East Jn                       – OVE       – OVE
+Margam Middle Junction               –                          X
+Port Talbot PT7533                   –           –              S
+Port Talbot East Jn                   DR         – UR           X      Applies to Down trains to Down Relief and
+                                                                       Up trains changing lines.
+Port Talbot Parkway                  –           – DM UR               Platform detail must be shown
+Baglan                               – UM        – DM           S
+Briton Ferry East Junction           – UM        –              X      To/from Baglan Bay & Briton Ferry Sidings
+Briton Ferry West Jn                             – DM                  From Dynevor Jn – GW890
+                                                                       Timing point for all Up trains
+Briton Ferry                         – UM        – DM           S
+Court Sart Jn                        –                                 To Dynevor Jn – GW890
+                                                                       Timing point for all Down trains
+Neath                                – UM        – DM
+Skewen                               – UM        – DM           S
+Llansamlet                           – UM        – DM           S
+Landore East Junction                – UM        – DM           X      To/from Swansea Loop East Jn– GW9001
+                                                                       Mandatory for trains not using GW9001
+                                                                       (Swansea Stn.)
+
+                                   Electronic copy - uncontrolled when printed.

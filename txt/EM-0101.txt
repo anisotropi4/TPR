@@ -1,0 +1,66 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                 Version:    4.1
+East Midlands                      Final Subsidiary Change Rules 2024               Date:     13th September
+                                                                                              2023
+                                                                                      Page:   99 of 123
+
+Wichnor Junction
+                                         Tamworth
+Pass from Burton towards Alrewas         Pass from Central Rivers Depot towards   Refer to headway
+                                         Alrewas (via Down Tamworth/Signal
+                                         DY82)
+Pass from Burton towards Alrewas         Pass from Central Rivers Depot towards   AB+1 between Barton South
+                                         Alrewas (via Up Tamworth/Signal DY52)    and Alrewas
+
+                                                                                  Pass Barton South Junction
+                                                                                  1 minute after first train has
+                                                                                  passed Alrewas
+Pass from Burton towards Alrewas         Pass from Tamworth towards Burton        3* where 1st train is
+                                                                                  passenger
+                                                                                  3½* where 1st train is freight
+
+                                                                                  *add 1 where 2nd train is
+                                                                                  freight
+Pass from Burton towards Alrewas         Pass from Tamworth towards Central       3
+                                         Rivers Depot
+Pass from Central Rivers Depot           Pass from Burton towards Alrewas         3
+towards Tamworth
+Pass from Central Rivers Depot           Pass from Tamworth towards Burton        2 where 2nd train is
+towards Tamworth                                                                  passenger
+                                                                                  2½ where 2nd train is freight
+Pass from Central Rivers Depot           Pass from Tamworth towards Central       2 apart at Barton South
+towards Tamworth                         Rivers Depot                             Junction
+Pass from Central Rivers Depot           Pass from Burton towards Tamworth        2½ where 2nd train is
+towards Alrewas (via Down                                                         passenger
+Tamworth/Signal DY82)                                                             3½ where 2nd train is freight
+Pass from Central Rivers Depot           Pass from Tamworth towards Burton        3
+towards Alrewas (via Down
+Tamworth/Signal DY82)
+Pass from Central Rivers Depot           Pass from Tamworth towards Central       3
+towards Alrewas (via Down                Rivers Depot
+Tamworth/Signal DY82)
+Pass from Central Rivers Depot           Pass from Burton towards Tamworth        Parallel
+towards Alrewas (via Up Tamworth)
+Pass from Central Rivers Depot           Pass from Tamworth towards Burton        3* where 1st train is
+towards Alrewas (via Up Tamworth)                                                 passenger
+                                                                                  3½* where 1st train is freight
+
+                                                                                  *add 1 where 2nd train is
+                                                                                  freight
+Pass from Central Rivers Depot           Pass from Tamworth towards Central       3
+towards Alrewas (via Up Tamworth)        Rivers Depot
+
+Junction Margins (where the first movement is an Up direction movement on LN3501)
+First Movement                        Second Movement                       Value
+Pass from Tamworth towards Burton     Pass from Alrewas towards Burton      2½ following passenger
+                                                                            3 following freight
+Pass from Tamworth towards Burton     Pass from Alrewas towards Central     2 following passenger
+                                      Rivers Depot                          2½ following freight
+Pass from Tamworth towards Burton     Pass from Burton towards Alrewas      2
+Pass from Tamworth towards Central    Pass from Alrewas towards Burton      3
+Rivers Depot
+Pass from Tamworth towards Central    Pass from Alrewas towards Central     2½
+Rivers Depot                          Rivers Depot
+
+                                      Electronic copy - uncontrolled when printed.

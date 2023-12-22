@@ -1,0 +1,45 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version:   4.3
+Route: Sussex                       Final Rules for Subsidiary                  Date:      18th October 2023
+                                          Timetable 2024 OFFICIAL
+                                                                                Page:      159 of 163
+
+SO500 LONDON VICTORIA TO BRIGHTON
+LOCATION                                DIRECTION        USABLE            NOTES
+                                                         LENGTH
+                                                     SLU   METRES
+Redhill Down Passenger Loop             Down         38         243        This is Platform 3
+Up Redhill (Middle Road)                Up           43         278
+Redhill Up Passenger Loop               Up           38         243        This is Platform 2
+Redhill Up Loop                         Up           78         500        Forms part of Platform 0
+Redhill Up Loop                         Up           40         256        Includes Platform 0 stood at signal
+                                                                           T482 clear of Redhill South Junction
+Redhill Up Loop                         Down         70         448        Includes Platform 0 behind T509
+                                                                           signal clear of Redhill North
+                                                                           Junction
+Gatwick Airport Down Passenger Loop     Down         112        717        This is Platform 7
+Gatwick Airport Up Passenger Loop       Up           89         571        This is Platform 1 and is reversible
+Three Bridges Up Platform Loop          Up           87         557        This is Platform 1 and is reversible
+Haywards Heath Up Passenger Loop        Up           132        845        This is Platform 1 and is reversible
+Haywards Heath Down Passenger Loop      Down         102        654        This is Platform 4 and is reversible
+Preston Park Passenger Loop             Up           69         444        This is Platform 1 and is reversible
+
+
+SO600 WILLINGDON JUNCTION TO ASHFORD INTERNATIONAL
+LOCATION                           DIRECTION        USABLE            NOTES
+                                                    LENGTH
+                                                SLU    METRES
+Hastings Down Passenger Loop       Down         40        259         This is Platform 4 and is reversible
+Hastings Up Passenger Loop         Up           40        259         This is Platform 4 and is reversible
+
+
+SO700 STREATHAM SOUTH JUNCTION TO SUTTON (VIA WIMBLEDON)
+LOCATION                           DIRECTION        USABLE            NOTES
+                                                    LENGTH
+                                                SLU    METRES
+St Helier Down Passenger Loop      Down         45        291
+St Helier Up Passenger Loop        Up           45        291
+
+
+
+
+                              Electronic copy - uncontrolled when printed

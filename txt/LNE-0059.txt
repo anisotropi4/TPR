@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version: 4.1
+London North Eastern                    Revised Final Rules for                     Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                 Page: 56 of 368
+
+
+LN854 HALL ROYD JUNCTION TO COLTON JUNCTION
+TIMING POINT                        DOWN       UP         CODE     NOTES
+
+Hall Royd Junction                  –          –                   To/from Littleborough – NW7001
+                                                                   To/from Copy Pit – NW7009
+Hebden Bridge                       –          –
+Hebden Bridge Signal HG1504         –          –          S        For Shunting Movements
+Hebden Bridge Siding                           –          S
+Mytholmroyd                         –          –          S
+Sowerby Bridge                      –          –          S
+Milner Royd Junction                –          –                   To/from Dryclough Jn – LN858
+Greetland Junction                  –          –                   To/from Dryclough Jn – LN859
+Elland                              –          –          S
+Brighouse                           –          –          S
+Bradley Wood Junction               –          –                   To/from Bradley Jn – LN861
+Heaton Lodge Junction                          –                   Up trains only
+                                                                   To Huddersfield – LN860
+Heaton Lodge East Junction          –                              Down Trains only
+                                                                   From Huddersfield – LN860
+Mirfield                            –          FL SL      S
+Mirfield East Junction              –          FL SL
+Thornhill LNW Junction              –          –                   Trains from Dewsbury and trains towards
+                                                                   Healey Mills only
+Dewsbury East Junction              –          –          X        To/from Dewsbury Railway Street – LN864
+Healey Mills Yard                   –          –          S
+Healey Mills B Junction                        –          S        Trains routed on Up L&Y line only, not for
+                                                                   access to Healey Mills Yard
+Up Healey Mills Loop                           –          S
+Horbury Junction                    FL SL      –                   To/from Barnsley – LN868
+Wakefield Kirkgate West Junction                                   To/from Wakefield Westgate South Jn –
+                                                                   LN850
+Wakefield Kirkgate                  – GL       FL SL               Platform details must be shown.
+                                                                   To/from Calder Bridge Jn – LN882
+Wakefield Kirkgate Signal K1234                           S        For Shunting Movements
+Turner’s Lane Junction              –          – GL       X        To/from Calder Bridge Jn – LN870
+Normanton                           –          –          S
+Altofts Junction                    –          –                   To/from Methley Jn – LN872
+Whitwood Junction                   –          –          X        To/from Methley Jn – LN874
+Castleford West Junction                                           To/from Pontefract Monkhill – LN875
+Castleford                          –          –
+
+Wheldon Road Arrival/Departure      –          –          S
+Line
+Milford Junction                    –          –                   To/from Ferrybridge North Jn/Gascoigne
+                                                                   Wood Jn – LN804
+Milford Loops                       –          –          S
+Sherburn Junction                   –          –          X        To/from Gascoigne Wood – LN878
+Sherburn-in-Elmet                   –          –          S
+Church Fenton                       NNL        –                   Platform details must be shown
+                                    LSL
+Church Fenton North Junction                                       To/from Micklefield – LN902
+Ulleskelf                           NNL        NNL        S
+Colton South Junction               LSL        NNL        X
+Colton Junction                     NNL        NNL                 To/from Hambleton North Jn/York – LN600
+                                    LSL        LSL
+
+
+                                   Electronic copy - uncontrolled when printed.

@@ -1,0 +1,63 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                       Timetable Planning Rules                       Version:   4.1
+Anglia              Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                     Date:
+                                              2024                                           2023
+                                                                                    Page:    86 of 183
+
+Stratford
+
+Standage Lengths
+Platform 10A                                     Length clear of 2151 points                       39 SLUs /
+                                                                                                   254m
+Stratford Signal L295 (Angel Lane Loop)          Length clear of 2151 points                       83 SLUs /
+                                                 (includes Platform 10A)                           537m
+Stratford Signal L295 (Angel Lane Loop)          Length clear of Carpenters Road North             171 SLUs /
+                                                 Junction, 645 points (includes Platform 10A).     1100m
+                                                 Please note a train extending past 2151 points,
+                                                 towards Carpenters Road North Junction, will
+                                                 prevent movements to/from Stratford Platforms
+                                                 11 & 12 at the London end and on or off the
+                                                 Temple Mills Lines at Stratford. Trains may still
+                                                 access Stratford Platforms 11 & 12 to/from
+                                                 Temple Mills East Junction.
+Stratford Signal L295 (Angel Lane Loop)          Length clear of Platform 10A                       23 SLUs /
+                                                 A first train can be held at Stratford Signal L295 149m
+                                                 whilst a second train can be held in Platform 10A
+                                                 providing the first train is no longer than 149m.
+
+Stratford Platforms 1 and 2
+See entry under route EA1320 Camden Road West Junction to Stratford Platform 1 and 2
+
+Forest Gate
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                            Value
+For freight from Ilford crossing from UML to DML
+                                                 Slow speed crossover                              {½}
+at Forest Gate Junction
+For freight from Ilford avoiding line            Slow speed crossover                              {½}
+
+
+Forest Gate Junction
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                            Value
+Down trains crossing to Down EL towards Ilford   Via slow speed crossover                          {½}
+Down trains crossing to Woodgrange Park          Via slow speed crossover                          {½}
+
+Junction Margins
+Movement
+                                                                                                   Margin
+Fouling Moves;
+Passenger following Passenger                                                                      2
+Passenger following Freight                                                                        3
+Freight following Freight                                                                          3
+Freight following Passenger                                                                        2
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

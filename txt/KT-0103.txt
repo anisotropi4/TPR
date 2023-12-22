@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                          Timetable 2024                            Page:      99 of 168
+
+
+St Johns
+
+Berthing Facilities
+Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operational
+restrictions
+
+
+Tanners Hill Junction
+
+Junction Margins                                                                                      Margin
+Between all movements                                                                                 2*
+* - 1½ minutes is permissible but not for successive moves
+
+Length Restrictions
+A train exceeding 315m/49SLU in length on the Up Tanners Hill will foul the route on the Down Lewisham when
+standing at TL238.
+Therefore, junction margins must be based on train’s departure time at Tanners Hill Junction
+
+
+Parks Bridge Junction
+
+Adjustments to Sectional Running Times
+Crossing moves timed at Parks Bridge Junction do not require the standard {½} adjustment. Values should be applied
+as below
+Movement Down                               Reason                                         Value
+Freight pass from Lewisham 2000t/TR115      Acceleration                                   ½*
+and above
+Cross DKF to SL                             Approach Control and Slow Speed Junction       1
+Pass to Ladywell Jn                         Approach Control                               ½
+*Applied approaching next timing point
+
+Movement Up                                     Reason                                        Value
+Pass to Lewisham                                Approach control                              ½
+Cross SL to UKF                                 Approach Control and Slow Speed Junction      1*
+Pass from Ladywell Jn                           Acceleration                                  ½*
+*Applied approaching next timing point
+
+Planning Note
+Parks Bridge Junction is collectively used to describe 3 independent junctions, School, Parks Bridge and Courthill
+Loop South. Junction margins for all conflicting moves are calculated and validated at Parks Bridge Junction. As
+multiple conflicting moves may occur, planners should ensure they are aware of all potential conflicts and apply
+margins appropriately
+
+Junction Margins
+Conflicts at School Junction
+
+First Movement                                   Second Movement                              Value
+Up pass on UKS                                   Down cross from DKF to DKS                   2½
+Down cross from DKF to DKS                       Up pass on UKS                               1½
+Down pass on DKF towards Hither Green or         Up cross from UKS to UKF                     1½
+Ladywell Jn
+Up cross from UKS to UKF                         Down pass on DKF towards Hither Green        2½
+                                                 or Ladywell Jn
+
+
+                                    Electronic copy - uncontrolled when printed

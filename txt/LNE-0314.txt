@@ -1,0 +1,63 @@
+NETWORK RAIL                Timetable Planning Rules                    Version: 4.1
+London North Eastern          Revised Final Rules for                     Date: 12 October 2023
+                         Subsidiary Change Timetable 2024                 Page: 311 of 368
+
+
+STATION                     PLATFORM      USABLE       NOTES
+                                          LENGTH
+
+Kirton Lindsey              Single        129
+Kiveton Bridge              Down          75
+Kiveton Bridge              Up            75
+Kiveton Park                Down          75
+Kiveton Park                Up            74
+Knaresborough               Down          82
+Knaresborough               Up            83
+Knebworth                   Down Fast     169
+Knebworth                   Down Slow     169
+Knebworth                   Up Fast       169
+Knebworth                   Up Slow       169
+Knottingley                 Down          101
+Knottingley                 Up            101
+Langwith Whaley Thorns      Down          79
+Langwith Whaley Thorns      Up            79
+Lealholm                    Single        100
+Leeds                       0             204
+Leeds                       1             274          When a train is showing as occupying
+                                                       Platform 1 or 1a, then the non-preferred route
+                                                       for arrival into Platform 2 needs to be used
+Leeds                       2             209
+Leeds                       3             132
+Leeds                       4             154
+Leeds                       5             206
+Leeds                       6             279
+Leeds                       7             105
+Leeds                       8             342
+Leeds                       8ab           166
+Leeds                       8cd           166
+Leeds                       9             265
+Leeds                       9b            106
+Leeds                       9cd           148
+Leeds                       10            99
+Leeds                       11            368
+Leeds                       11ab          149
+Leeds                       11cd          147
+Leeds                       12            309
+Leeds                       12ab          91
+Leeds                       12cd          146
+                            Westbound
+Leeds                       12cd          123
+                            Eastbound
+Leeds                       13            111
+Leeds                       14            80
+Leeds                       15            221
+Leeds                       15a           104
+Leeds                       15b           106
+Leeds                       16            218
+Leeds                       16a           107
+Leeds                       16b           100
+Leeds                       17            106
+
+
+
+                         Electronic copy - uncontrolled when printed.

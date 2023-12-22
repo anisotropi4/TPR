@@ -1,0 +1,63 @@
+NETWORK RAIL                            Timetable Planning Rules                          Version: 4.1
+London North Eastern                      Revised Final Rules for                           Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                       Page: 296 of 368
+
+
+Hunmanby
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Arrive/pass from Bridlington                       Depart to Bridlington                               1
+
+Restriction:
+
+Up train on Up line – Additional requirements associated with train lengths.
+
+If it is necessary for a train with a length of more than 450 yards (420 metres) to pass over the crossing in the Up
+direction on the Up Bridlington line, the crossing must be under local control and the attendant advised in sufficient
+time before the train approaches the crossing
+
+Reason for restriction:-
+Signal SR124 at the west end of Hunmanby Station is designed not to clear to a proceed aspect until a train has
+come to a stand at it. The design of the crossing means there is a possibility that the barriers will raise and the
+lights extinguish before a train with a length of more than 450 yards (420 metres) has passed clear of the
+crossing. Therefore, when such trains are planned to run over this route, arrangements must be made in advance
+for the crossing to be placed under local control
+
+
+Filey
+
+Dwell Time
+All                                                1
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Arrive/pass from Scarborough                       Depart to Scarborough                               1
+Arrive/pass from Scarborough                       Pass to Scarborough                                 1½
+
+Minimum Turnround
+From Scarborough                                   5
+Arrive loaded from other locations, return ECS     8
+or arrive ECS, return loaded
+From other locations, arrive and depart in         10
+service
+
+
+
+
+LN916 HESSLE ROAD JUNCTION TO SALTEND
+Springbank South Junction
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Pass from Single Line                              Re–occupy Single Line                               3
+
+
+Hull Dock Security Gates
+
+Operating Stop                        4 All trains to stop for handover of 2 way radio.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

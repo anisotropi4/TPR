@@ -1,0 +1,67 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                    Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                   Date:    6th October 2023
+                                          Change Timetable 2024                          Page:    58 of 289
+
+
+GW897 GROVESEND COLLIERY LOOP JUNCTION NORTH TO HENDY JUNCTION
+TIMING POINT                          DOWN        UP             CODE   NOTES
+
+Grovesend Colliery Loop Jn            –           –              X      To/from Jersey Marine Jn North – GW890
+Hendy Junction                        –           –                     To/from Pantyffynnon – GW910
+
+GW900 PILNING TO FISHGUARD HARBOUR
+TIMING POINT                          DOWN        UP             CODE   NOTES
+
+Pilning                               – UT        –                     Platform detail must be shown.
+                                                                        UT for bi–directional use only
+Up Pilning Loop                                   –              S
+Severn Tunnel East                    – UT        – DT                  DT & UT for bi–directional use only
+                                                  UPL
+Severn Tunnel West                    – UT        – DT                  DT & UT for bi–directional use only
+Severn Tunnel Up Goods Loop                       –              S
+Severn Tunnel Junction                ML RL       – DT                  DT for bi–directional use only
+                                                                        Platform detail must be shown
+                                                                        To/from Chepstow – GW700
+Signal NT1730                                     DRL            S      Signal for reversal on DRL
+Signal NT1228                                     RL             S      Regulating point on Up Relief
+Magor                                 ML RL       ML RL          X
+Steelworks East                       RL          RL             X      Timing point for Exchange Sidings
+                                                                        To GW710
+Llanwern West Junction                ML RL       ML RL                 Llanwern Exchange Sidings only
+                                                                        accessible from RL
+East Usk Junction                     RL          RL             X      Timing point for East Usk Jn NY to/from
+                                                                        Llanwern West direction
+                                                                        Timing point to/from Uskmouth branch
+                                                                        To/from GW720
+East Usk Junction New Yard            –           –              S
+Maindee East Jn                       ML RL       ML RL          X      To/from Maindee North Jn – GW740
+                                      –*          –$                    * applies to trains to Maindee N. Jn
+                                                                        $ applies to trains to E Usk Jn N Yd
+Maindee West Junction                 ML RL       ML RL                 To/from Maindee North Jn – GW730
+Newport                               UM DM       ML RL                 Platform detail must be shown.
+                                      UR DR
+Gaer Junction                         ML RL       UM DM          X      To/from Park Jn – GW770
+                                                  UR DR
+                                                                        To/from Alexandra Dock yard
+
+Alexandra Dock Junction               RL          RL             S      To/from Newport Docks – GW784
+Signal NT1273                         RL                         S      Traincrew relief in down direction only
+Ebbw Jn                               ML RL       ML RL                 To/from Park Jn – GW780
+                                                  GL
+                                                                        To/from Alexandra Dock yard
+Marshfield                            ML RL       ML RL
+Wentloog                              –           RL             S
+Rumney River Bridge Jn                ML RL       ML RL          X
+Pengam Sidings                        RL                         S
+Pengam Junction                       RL          RL             X      To/from Tidal Sidings – GW790
+Moorland Road Junction                RL URL      RL             X
+Long Dyke Junction                    BCDE        ML RL
+                                                  DRL
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

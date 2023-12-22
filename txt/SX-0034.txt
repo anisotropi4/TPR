@@ -1,0 +1,65 @@
+NETWORK RAIL                             Timetable Planning Rules                   Version:   4.3
+Route: Sussex                            Final Rules for Subsidiary                 Date:      18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                     Page:     30 of 163
+
+SO520 THREE BRIDGES TO HAVANT (VIA HORSHAM)
+TIMING POINT                         DOWN         UP          CODE       NOTES
+
+Three Bridges                        -            FL SL                  Platform detail must be shown.
+                                                                         To/from Gatwick Airport - SO500
+Three Bridges Tilgate Sidings        -            -                      TIPLOC THBDTGE
+Entry/Exit                                                               Refers to entry signal TD135 and exit
+                                                                         signal TD98
+Three Bridges Tilgate Sidings                     -                      TIPLOC THBDTGS
+                                                                         Access is only available to/from Three
+                                                                         Bridges platforms 2 and 3
+                                                                         Controlled by a depot signaller
+                                                                         Siding detail must be shown (S1, S2, S3,
+                                                                         S4 or S5)
+Three Bridges Signal T1200           -            -                      Shunt signal available for ECS movements
+                                                                         Use TIPLOC THBD200
+Three Bridges Signal T1201           -            -                      Shunt signal available for ECS movements
+                                                                         Use TIPLOC THBD201
+Crawley                              -            -
+Ifield                               -            -           S
+Faygate                              -            -           S
+Littlehaven                          -            -
+Horsham Down Branch Sidings          -                                   TIPLOC HORSBS
+                                                                         Siding detail must be shown (S1, S2, S3 or
+                                                                         S4)
+Horsham Carriage Sidings                                                 TIPLOC HORSDS
+                                                                         Siding detail must be shown (S1, S2 or S3)
+Horsham                              -            -                      Platform detail must be shown.
+                                                                         To/from Warnham - SO680
+Horsham Down Siding South            -                        S          TIPLOC HORSMS
+                                                                         For ECS movements to/from Horsham
+                                                                         Carriage Sidings
+Horsham Up Sidings South                          -           S          TIPLOC HORSUS
+                                                                         For ECS movements to/from Horsham Up
+                                                                         Sidings South
+Christ’s Hospital                    -            -           S
+Billingshurst                        -            -
+Pulborough                           -            -
+Amberley                             -            -           S
+Arundel Shunt Signal 50                           -                      For ECS moves to shunt between
+                                                                         platforms
+                                                                         TIPLOC: ARUN50
+Arundel                              -            -           S
+Arundel Junction                     -            -                      To/from Angmering - SO630
+                                                                         To/from – Littlehampton Junction – SO630
+Ford Junction                                     -                      To/from Littlehampton Junction - SO520A
+                                                                         For planning purposes this timing point is
+                                                                         shown as Ford
+Ford                                 -            -                      Platform detail must be shown
+Barnham                              -            -                      Platform detail must be shown
+                                                                         To/from Bognor Regis - SO640
+Chichester                           -            -                      Platform detail must be shown
+Chichester Reception 1               -            -           S          Use TIPLOC CHCHSTY
+Chichester Yard Stone Terminal       -            -           S          TIPLOC CHCHGBR (GBRF)
+Road                                                                     TIPLOC CHCHDBC (DBC)
+                                                                         TIPLOC CHCHFHH (Freightliner)
+
+
+
+                                Electronic copy - uncontrolled when printed

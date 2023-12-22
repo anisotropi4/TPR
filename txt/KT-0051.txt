@@ -1,0 +1,63 @@
+NETWORK RAIL                        Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                          25th August 2023
+                                                                               Date:
+                                     Timetable 2024                            Page:    47 of 168
+
+
+SO400 LONDON ST PANCRAS INTERNATIONAL TO HIGH SPEED 1/ET
+BOUNDARY
+TIMING POINT                      DOWN       UP          CODE        NOTES
+
+Line codes on SO400 apply forward from the timing point against which they are shown
+London St Pancras International DNC                             Platform detail must be shown
+                                PCO
+                                PNL PRL
+                                UPC
+Regents Canal Junction                                 X        To/from York Way North Junction –
+                                                                SO410A
+York Way South Junction         DNC         DNC                 To/from Cedar Junction – SO420
+                                UPC         NLC PRL
+                                            UPC
+Stratford International West    TPM         DNC                 To/from Temple Mills Depot – SO430
+Junction                        DNC         UPC
+                                UPC 1 2
+                                34
+Stratford International         DNC         DNC        S        Platform detail must be shown
+                                UPC         UPC
+Stratford International East    DNC         DNC
+Junction                        UPC         UPC 1 2
+                                            34
+Dagenham Dock Junction          DNC         DNC                 To/from Ripple Lane Exchange Sidings -
+                                UPC         UPC                 SO440
+Wennington Crossover            DNC         DNC
+                                UPC         UPC
+Ebbsfleet International West    DNC         DNC
+Junction                        UPC 1 2     UPC
+                                3456
+Ebbsfleet International         DNC         DNC        S        Platform detail must be shown
+                                UPC         UPC                 To/from Springhead Road Junction –
+                                                                SO450
+Ebbsfleet International East    DNC         DNC
+Junction                        UPC         UPC 1 2
+                                            34
+Southfleet Junction             DNC         DNC                 To/from Fawkham Junction – SO460
+                                UPC         UPC
+Southfleet Crossover            UPC         DNC        X
+Singlewell Loop                 -           -          FS
+Singlewell Crossover            DNC         DNC        X
+                                UPC         UPC
+Nashenden Crossover             DNC         DNC
+                                UPC         UPC
+Crismill Crossover              DNC         DNC
+                                UPC         UPC
+Lenham Crossover                DNC         DNC                 Line codes DNL or UPL must be used for
+                                UPC         UPC                 trains travelling into Lenham Heath Loop
+                                DNL
+                                UPL
+Lenham Heath Loop               -           UPC        FS
+                                            DNC
+Charing Crossover                           UPL        X        Timing point for trains crossing to enter
+                                            DNL                 Lenham Heath Loop in the Up Direction
+                                                                only
+                                 Electronic copy - uncontrolled when printed

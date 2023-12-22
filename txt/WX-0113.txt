@@ -1,0 +1,61 @@
+NETWORK RAIL                            Timetable Planning Rules                         Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                      Date:    27th October 2023
+                                             Timetable 2024                                Page:    111 of 178
+
+Dorchester South
+Re-occupation of Single Line                                                                           1
+
+Restrictions
+Pathing time must not be used between Dorchester South and Dorchester Junction because there are no signals
+between these locations
+
+
+Dorchester Junction
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Between all movements                                                                                  4
+
+
+Weymouth
+
+Berthing Facilities
+                                      Cars                    Notes
+Jersey Siding No 1                    12
+Jersey Siding No 2                    12                      Approximately 130m electrified
+Jersey Siding Extension               6
+Jubilee Siding                        8
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Between all movements except as below                                                                  3
+Down Main Line arrival                             Up train crossing behind                            1
+Up Main Line departure from Platforms 2/3          Down Sidings arrival to Platforms 3/2               3½
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                                                    Attaching/Detaching and Platform Sharing
+Platform 2                                                    Attaching/Detaching and Platform Sharing*
+Platform 3                                                    Attaching/Detaching and Platform Sharing*
+* If platform occupied by more than 5 coaches, then it is not possible for another train to be permissively signalled
+into the platform.
+
+Platform Capacity
+                                      Cars                    Notes
+Platform 1                            5                       1 x Class 444 or 1 x Class 450
+Platform 2                            12                      2 x Class 444 or 3 x Class 450 or 12 Mark 1 or 2
+                                                              coaches including Locomotives
+Platform 3                            13                      2 x Class 444 or 3 x Class 450 or 13 Mark 1 or 2
+                                                              coaches including Locomotives
+
+
+SW105A SOUTHAMPTON TO SOUTHAMPTON WESTERN DOCKS
+
+Southampton
+See entry under route – SW105
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

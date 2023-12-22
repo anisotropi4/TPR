@@ -1,0 +1,49 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                           25th August 2023
+                                                                                Date:
+                                       Timetable 2024                           Page:    162 of 168
+
+
+SO130 LONDON CHARING CROSS TO DOVER (VIA TONBRIDGE)
+LOCATION                                DIRECTIO          USABLE        NOTES
+                                        N                 LENGTH
+                                                      SLU   METRES
+Hither Green Arrival Road (DGL)         Down          28      180
+Hither Green Departure Road (UGL)       Up            33      212
+Paddock Wood Down Passenger Loop        Down          37      237
+Paddock Wood Up Passenger Loop          Up            83      532
+Tonbridge Down Loop                     Down          121     776       Channel Tunnel Freight Traffic may
+                                                                        recess at this location
+Tonbridge Up Fast                       Up            41      264       Behind AD150 signal clear of
+                                                                        Tonbridge East Junction
+Tonbridge Up Fast                       Up            70      448       Behind AD134 signal clear of
+                                                                        Tonbridge East Junction
+Sevington Loop                          Up/Down       118     756       Channel Tunnel Freight Traffic may
+                                                                        recess at this location
+Dollands Moor Loco Loop                 Up/Down       101     649
+Dover Priory Up Passenger Loop          Up            28      182
+
+SO140 SWANLEY TO ASHFORD INTERNATIONAL (VIA MAIDSTONE EAST)
+LOCATION                          DIRECTION          USABLE          NOTES
+                                                     LENGTH
+                                                 SLU    METRES
+Otford Up Loop                    Up             118        756      Channel Tunnel Freight Traffic may
+                                                                     recess at this location
+Borough Green & Wrotham Down      Down           117        749      Clear of signal ME157
+Passenger Loop
+Lenham Down Passenger Loop        Down           52         333      Clear of signal ME205
+Lenham Up Passenger Loop          Up             47         301
+Beechbrook Farm Loop Reception    Up             132        845      Clear of signal ME226
+Line 1
+Beechbrook Farm Loop Reception    Down           132        845      Clear of signal ME227
+Line 1
+Beechbrook Farm Loop Reception    Up             84         538      Clear of signal ME356
+Line 2
+Beechbrook Farm Loop Reception    Down           20         128      Clear of signal ME231
+Line 2
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

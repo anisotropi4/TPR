@@ -1,0 +1,66 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                       Version:   4.1
+East Midlands                      Final Subsidiary Change Rules 2024                     Date:    13th September
+                                                                                                   2023
+                                                                                          Page:    43 of 123
+
+
+
+5.3 Junction Margins and Station Planning Rules
+Line of Route
+The definition for Junction Margins and Station Planning Rules is listed in Section 1.6 – 1.10 of the National TPRs.
+
+All times shown are in minutes. Where adjustments to sectional running times are shown, the value must be added to
+the normal SRTs shown in Bplan. Negative adjustments are specially identified.
+
+Minimum station allowances are the minimum practical for a particular type of stock. These are shown with
+exceptions being listed by line of route where applicable.
+
+Light Engine movements, postal and test trains to be treated as passenger trains when applying margins/allowances
+where there is a passenger/freight differential.
+
+STANDARD VALUES – MINIMUM
+
+Attachment of Locomotives/Units
+180/22x/810                                                              7
+XC 170                                                                   4
+DMU                                                                      6
+Locomotive                                                               15
+
+Connectional Allowance                                                   5
+
+Detachment of Locomotives/Units:
+180/22x/810                                                              4
+XC 170                                                                   4
+XC 22x                                                                   7
+DMU                                                                      5
+Locomotive                                                               10% %12 if locomotive attached at other
+                                                                         end of train
+
+Dwell Time
+158                                                                      1
+180/22x/810                                                              1½
+DMU                                                                      45 seconds; to be shown as alternate 1
+                                                                         and ½ stops
+DMU reversing through services                                           3$ $4 applies to CrossCountry services
+EMU                                                                      ½
+LH                                                                       1½
+
+Junction Margin                                                          3
+
+Locomotive Change
+At same end                                                              16
+
+Locomotive Run–Round
+Passenger                                                                16
+Freight                                                                  20
+
+Minimum Turnround
+DMU*                                                                     4
+Class 700                                                                8 (8-car)
+                                                                         10 (12-car)
+EMR 180/222/810                                                          10
+
+
+                                        Electronic copy - uncontrolled when printed.

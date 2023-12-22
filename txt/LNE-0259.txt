@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 256 of 368
+
+
+
+
+Whitehall Road Ground Frame
+
+Planning Note
+Services using Whitehall Road Sidings will need to use the Up Huddersfield at Whitehall Ground Frame (Signal
+L3625) for 45 minutes. This is shown as a stop at Whitehall Ground Frame (Signal L3625)
+
+For an Arrival
+    1. Train clears Signal L3625; this is the arrival time at Whitehall Ground Frame
+    2. Train propels into Whitehall Road Sidings, leaving half the wagons on one of the sidings. Note that the
+        front of the train is still occupying Line F/Up Huddersfield
+    3. Driver seeks permission from signaler and draws forward so the front half of the train is clear of L3625.
+    4. Train then propels into Whitehall Road Siding to use the other siding. This is the departure time at
+        Whitehall Ground Frame.
+
+For a Departure
+    1. The loco and the front half of the train draws onto the Up Huddersfield behind L3625. This will be the
+       arrival time at Whitehall Ground Frame
+    2. The service propels back into Whitehall Road Siding and couples to the rear part of the train and carries
+       out a brake test.
+    3. The train then passes Signal L3625, this is the departure time at Whitehall Ground Frame
+
+This is the normal Method of Working for trains longer than one of the two sidings, and is subject to change.
+
+
+
+Whitehall Junction
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Pass To/from Leeds                                Freight depart ex Engine Shed or Armley Jn      1
+Pass To/from Leeds                                Freight pass ex Engine Shed or Armley Jn        4
+Freight pass ex Armley Jn or Engine Shed          Pass To/from Leeds                              3*
+Freight depart ex Armley Jn or Engine Shed        Pass To/from Leeds                              4*
+Pass to Copley Hill Chord                         Pass from Morley                                4½#
+Pass from Copley Hill Chord                       Pass to Copley Hill Chord                       3
+Pass from Morley                                  Pass to Copley Hill Chord                       3
+* May be reduced by 1 minute for Light Diesel locomotives
+# May be reduced by one minute if the second train has at least 1 minute pathing time approaching Whitehall Jn
+
+
+Leeds West Junction (Crossing moves from Methley Junction)
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Pass from Leeds                                  Pass to Leeds                                     3½*
+Pass to Leeds                                    Pass from Leeds                                   2
+* May be reduced by one minute if the second train has at least 1 minute pathing time approaching Leeds West Jn
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

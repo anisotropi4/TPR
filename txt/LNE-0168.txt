@@ -1,0 +1,62 @@
+NETWORK RAIL                         Timetable Planning Rules                    Version: 4.1
+London North Eastern                   Revised Final Rules for                     Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                 Page: 165 of 368
+
+
+LN600 SHAFTHOLME JUNCTION TO RESTON GSP
+Shaftholme Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                    Value
+Pass to Knottingley                            Differential junction speed               1½
+Movement Up                                    Reason                                    Value
+Pass from Knottingley                          Differential junction speed               1½ Passenger
+
+                                                                                         Freight
+                                                                                         400t – ½
+                                                                                         600/800t – 1
+                                                                                         1000/1200t – 1½
+                                                                                         1400t/1600t – 2
+                                                                                         1800t plus 2½
+
+                                                                                         75mph Freight
+                                                                                         400t – 1½
+                                                                                         600t plus – 2
+
+
+                                                                                         To be applied
+                                                                                         approaching next
+                                                                                         timing point
+
+
+Junction Margins
+First Movement                                 Second Movement                           Margin
+Pass from Knottingley                          Down Pass to Temple Hirst                 3½
+Pass from Knottingley                          Up Pass from Temple Hirst                 4½
+Depart Shaftholme                              Down Pass to Temple Hirst                 4½
+Depart Shaftholme                              Pass to Knottingley                       4
+Depart Shaftholme                              Up Pass from Temple Hirst                 5½
+Passenger Pass to Knottingley                  Down Pass to Temple Hirst                 3½
+Freight Pass to Knottingley                    Down Pass to Temple Hirst                 4
+Pass to Knottingley                            Pass from Knottingley                     4
+Pass to Knottingley                            Depart Shaftholme                         2½
+Pass from Knottingley                          Pass to Knottingley                       3
+Down train pass to Temple Hirst                Pass from Knottingley                     4
+Down train pass to Temple Hirst                Depart Shaftholme                         1
+Up train pass from Temple Hirst                Pass from Knottingley                     4
+Up train pass from Temple Hirst                Up train start from Branch                2
+
+
+Joan Croft Junction
+
+Junction Margins
+First Movement                                 Second Movement                               Margin
+Down train from Branch                         Up train passes Shaftholme Junction           5
+Up train passes Shaftholme Junction            Down train from Branch                        2
+Down train passes Shaftholme Junction          Down train from Branch                        3
+Up train pass to Branch                        Up train passes Temple Hirst Junction         Same time
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                     Version:    4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                    Date:
+                                               2024                                          2023
+                                                                                    Page:    31 of 183
+
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION
+TIMING POINT                  DOWN         UP          CODE     NOTES
+
+Cambridge Signal CA177        TL                       S        Required for ECS movements from Cambridge
+                                                                platform 1 to Cambridge Carriage Sidings North
+                                                                when platform 4 is occupied
+Cambridge Reception Roads     DM DMG       UM DS       S        Trains to/from Cambridge Reception Roads 1 &
+1&2                           PL                                2
+                                                                PL for trains to Cambridge Carriage Sidings
+                                                                North only
+                                                                Please note this location is parallel to
+                                                                Cambridge station and trains do not need to be
+                                                                timed at both locations unless shunting
+                                                                between them.
+                                                                Tiploc – CAMBGTC for DB Cargo
+                                                                Tiploc – CAMBYFL for Freightliner
+                                                                Tiploc – CAMBTGB for GB Railfreight
+                                                                Tiploc – CAMBREC for other operators
+Cambridge Reception           - PL         UM DM       S        Tiploc – CAMBTRS
+Sidings Nos 3,4 and 5                      DS                   Line code DM only applies for movements to
+                                                                Signal CA149. Line code DS only applies for
+                                                                movements to Signal CA147.
+Cambridge Carriage Sidings    PL                       S        Tiploc - CAMBCSS
+South Nos 6-9
+Cambridge L.H.S.              - DM                     S
+                              DMG TL
+Cambridge Signal CA708                     - UM        S        Timing point for shunt movements only
+                                           UM4
+Cambridge Signal CA180                     -           S
+Mill Road Junction            - DM         - UM        X        Only trains to/from Cambridge Carriage Sidings
+                              DMG          UMT                  (Cambridge Carriage Sidings North, Cambridge
+                                           UM4 PL               Carriage Sidings South and Cambridge
+                                                                Reception Sidings)
+                                                                PL for trains from Cambridge Carriage Sidings
+                                                                North only
+Cambridge Carriage Sidings    -            -           S        Tiploc - CAMBCSN
+North Nos 10 to 17
+Cambridge Signal CA732                     UM UMT      S        For ECS movements between Cambridge
+                                           UM4 UX               station and Cambridge Reception Sidings or
+                                                                Cambridge Carriage Sidings South
+                                                                Tiploc – CAMB732
+Cambridge T.M.D.                           - UM        S        Only trains to/from T.M.D.
+                                           UMT
+                                           UM4 UX
+Coldham Lane Junction         -            UM UMT               To/from Chippenham Junction – EA1530
+                                           UM4 UX               UMT and UM4 for trains to the Through Line
+                                                                and platform 1 only. UX to be available
+                                                                following planned re-signalling only. See
+                                                                Appendix B for example diagrams.
+Barnwell Junction B.P.        -            -           F
+Chesterton Junction           -            -           F        Timing point for trains routed into the yard only
+Cambridge North               -            -                    Platform detail must be shown
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

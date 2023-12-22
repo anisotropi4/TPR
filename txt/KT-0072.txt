@@ -1,0 +1,55 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                          25th August 2023
+                                                                               Date:
+                                     Timetable 2024                            Page:    68 of 168
+
+
+SO180 PADDOCK WOOD TO MAIDSTONE WEST
+TIMING POINT                      DOWN                UP                 NOTES
+
+East Farleigh - Maidstone West    AB+2                AB+2
+
+
+SO200- Please see Sussex Timetable Planning Rules – SO600
+
+
+SO210 - Please see Sussex Timetable Planning Rules – SO610
+
+
+SO220 ASHFORD TO RAMSGATE (VIA CANTERBURY WEST)
+TIMING POINT                      DOWN                UP                 NOTES
+
+                                                                         *3 minutes for consecutive trains
+                                  4 Non-Stopping*     4 Non-Stopping*
+Ashford – Wye                                                            to/from Ashford, to/from Ashford
+                                  5 Stopping          5 Stopping
+                                                                         Down Yard
+                                  4 ½ Non-Stopping    4 ½ Non-Stopping
+Wye – Canterbury West
+                                  5 ½ Stopping        5 ½ Stopping
+Canterbury West – Sturry          4                   4
+                                                                         The Down platforms at both Sturry
+                                                                         and Minster stations are within this
+                                                                         section due to the position of Signal
+                                                                         ST1. A second Down train cannot
+Sturry – Minster East             AB+2
+                                                                         arrive at Sturry until after the
+                                                                         previous train has departed from
+                                                                         Minster, plus two minute margin to
+                                                                         allow for the signallers actions.
+                                                                         When the first train is in section
+                                                                         from Minster to Sturry, a second
+                                                                         train can be standing at, or
+Minster – Sturry                                      AB+2
+                                                                         approaching signal EBE63 - the
+                                                                         section signal - and a third train
+                                                                         signalled into Minster Up platform.
+                                  3 non-stopping      3 non-stopping
+Minster – Ramsgate
+                                  4 stopping          3½ stopping
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

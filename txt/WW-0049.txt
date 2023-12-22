@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                    Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                   Date:    6th October 2023
+                                        Change Timetable 2024                          Page:    46 of 289
+
+
+GW700 GLOUCESTER BARNWOOD JUNCTION TO SEVERN TUNNEL JUNCTION
+TIMING POINT                        DOWN        UP             CODE   NOTES
+
+Barnwood Junction                   ML DGL      –                     To/from Cheltenham Spa – GW401
+Horton Road Junction                –           ML UGL                To/from Gloucester Yard Jn – GW490
+                                                                      Platform detail must be shown
+Gloucester Carriage Sidings         –           –              S
+Gloucester                          – UM♣       –                     Platform detail must be shown. Values
+                                                                      which can be shown in the “Platform
+                                                                      Details” field are:
+                                                                      1 – Platform 1
+                                                                      2 – Platform 2
+                                                                      3 – Platform 3 (Bay)
+                                                                      4 – Platform 4
+                                                                      UML – Up Main Line
+                                                                      URL – Up Relief Line
+                                                                      ♣ UM line-code only required when
+                                                                      running bi–directionally to Over Jn.
+
+                                                                      Any train using Platform 4 or the Up Relief
+                                                                      when travelling towards Lydney needs to
+                                                                      be timed at Over Junction
+Gloucester Signal G419              –           –              S
+Over Jn                             –                          X
+Awre                                –           –
+Lydney Signal 1416                  –           –              S
+Lydney Down and Up Loops            –           –              S
+Lydney                              –           –
+Chepstow Signal 6421                –           –              S
+Chepstow                            –           –
+Caldicot                            –           –              S
+Severn Tunnel Junction              ML RL       –                     To/from Llanwern West Jn – GW900
+
+GW710 LLANWERN STEELWORKS EAST CONNECTION TO LLANWERN WEST
+JUNCTION – CONNECTION VIA TATA STEEL INFRASTRUCTURE
+TIMING POINT                        DOWN        UP             CODE   NOTES
+
+Steel Works East                    –           RL                    To/from Severn Tunnel Jn – GW900
+Llanwern Exchange Sidings           –           –              S
+Llanwern Coal Sidings               –                          S
+Llanwern Tippler Siding             –                          S
+Llanwern West Junction              RL          –                     To/from Maindee West Jn – GW900
+
+
+GW720 FIFOOTS POINT POWER STATION TO EAST USK GF
+TIMING POINT                        DOWN        UP             CODE   NOTES
+Fifoots Point Power Station         –
+East Usk Branch Birdport            –           –              S
+East Usk                            –           –                     To/from Maindee East Jn – GW900
+
+GW730 SHREWSBURY TO NEWPORT MAINDEE WEST JN (NORTH AND WEST
+LINE)
+TIMING POINT                        DOWN        UP             CODE   NOTES
+
+Shrewsbury                          – UH        –                     UH from Platform 3 to English Bridge only
+
+
+                                  Electronic copy - uncontrolled when printed.

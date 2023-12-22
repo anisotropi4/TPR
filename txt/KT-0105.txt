@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                  OFFICIAL
+                                    Final Proposal for Subsidiary                           25th August 2023
+                                                                                  Date:
+                                       Timetable 2024                             Page:     101 of 168
+
+
+Lee Spur Junction
+
+Length Restrictions
+A train exceeding 205m/32SLU in length will foul 898 points when standing at TL301 on the Down Hither Green
+Arrival Road
+Therefore, junction margins must be based on train’s departure time at Lee Spur Junction
+
+
+
+Grove Park Down Sidings, Carriage Service Shed and Up Sidings
+
+Berthing Facilities
+Location                             Cars             Notes
+Shed No 1                            12 *             This must be kept clear for shunt moves to CET/washer
+Shed No 2                            12 *
+Shed No 3                            12 *             Non–Electrified
+Shed No 4                            12 *
+Shed No 5                            12 *
+Shed No 6                            12 *
+Shed No 7                            12 *
+Shed No 8                            12 *
+Shed No 9                            12 *
+Shed No 10                           12 *
+Shed No 11                           12 *
+Shed No 12                           12 *
+New Up Sidings No 21                 12
+New Up Sidings No 22                 12
+New Up Sidings No 23                 12
+New Up Sidings No 24                 12
+New Up Sidings No 25                 12
+New Up Sidings No 26                 12
+New Up Sidings No 27                 12
+New Up Sidings No 28                 12
+New Down Sidings No 31               12
+New Down Sidings No 32               12
+New Down Sidings No 33               12
+New Down Sidings No 34               12
+New Down Sidings No 35               12
+New Down Sidings No 36               12
+New Down Sidings No 37               12
+New Down Sidings No 38               12
+
+* - Total capacity used in shed roads not to exceed 108
+Carriage washer available for both Up and Down side vehicles
+
+Length Restriction
+A train exceeding 244m/38SLU in length on the Up Kent Slow will foul 927 points in rear when standing at TL306.
+A train exceeding 84m/13SLU in length on the Up Kent Fast will foul 941 points in rear when standing at TL312.
+Therefore, junction margins must be based on train’s departure time at Grove Park
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

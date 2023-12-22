@@ -1,0 +1,63 @@
+NETWORK RAIL                            Timetable Planning Rules                         Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                      Date:    27th October 2023
+                                             Timetable 2024                                Page:    156 of 178
+
+Hounslow
+All Services                          1
+
+Junction Margins
+First Movement                                      Second Movement                                     Margin
+Down train departs Platform 1                       Up train arrives/passes Platform 1                  4
+Down train departs Platform 1                       Down train passes Platform 2                        3½
+Train arrives at Platform 1 from Signal BEF2376     Down train passes Platform 2                        2½
+
+Overlap Restrictions
+First Movement                             Second Movement                            Signal         Margin
+Down train departs Platform 1              Down train arrives at Platform 2           BEF2377        3½
+Down train arrives at Platform 2           Down train departs Platform 1              BEF2377        1
+Train arrives at Platform 1 from Signal    Down train arrives at Platform 2           BEF2377        2½*
+BEF2376
+Up train departs Platform 2                Up train arrives at Platform 1             BEF2374        4
+Up train arrives at Platform 1             Up train departs Platform 2                BEF2374        1
+Train arrives at Platform 2 from Signal    Up train arrives at Platform 1             BEF2374        3^
+BEF2375
+* Signal BEF2376 is within the overlap of BEF2377 – a Down train cannot arrive at Platform 2 whilst a shunt
+movement is standing at BEF2376.
+^ Signal BEF2375 is within the overlap of BEF2374 – an Up train cannot arrive at Platform 1 whilst a shunt
+movement is standing at BEF2375.
+
+Restrictions
+If a train longer than 188m (9 cars) has shunted from Signal BEF2375 to Platform 2, it is not possible for a train to
+be signalled into Platform 1 until after the Down train has departed from Platform 2 due to being foul of 4087A/B
+points.
+If a train longer than 198m (9 cars) has shunted from Signal BEF2376 to Platform 1, it is not possible for a train to
+be signalled into Platform 2 until after the Up train has departed from Platform 1 due to being foul of 4088A/B
+points.
+
+Minimum reversal time for 10 car trains which terminate/reverse at Hounslow and then depart in the
+opposite direction from the same platform
+Class 458/701/707                                            10 minutes*
+* 10-car trains turning round/reversing in Hounslow Platform 1 or 2 are required to stop in the platform, then draw
+forwards following completion of station duties, in order to sight the signal before departure. This is to be shown as
+an extended stop at Hounslow between the arrival of the inbound service and the departure of the return working.
+The 10-minute minimum reversal time is made up of:
+    • 2 minutes dwell on arrival.
+    • 1 minute to draw forwards to sight the signal in rear.
+    • 7 minutes reversal/turnround time (standard for 10-car Class 458/701/707).
+
+
+Hounslow Junction
+
+Adjustments to Sectional Running Times
+Movements                                           Reason                                              Value
+Up trains passing from Whitton Junction             Speed Differential                                  {½}*
+* Applies approaching next timing point.
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

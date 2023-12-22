@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 222 of 368
+
+
+Gainsborough Trent Junctions
+Wrawby Jn to       No           4            No            4            4          5            4            –
+Retford          conflict                  conflict
+
+
+West Burton East Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass from West Burton PS                          Pass to Clarborough Junction                      4
+Pass to Clarborough Junction                      Depart Pass from West Burton PS                   3
+
+
+West Burton West Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass to West Burton PS                            Pass from Junction                                4
+Pass from Trent Junction                          Pass to West Burton PS                            3
+
+
+Clarborough Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass to Cottam PS                                 Pass from West Burton SB                          4
+Pass from West Burton SB                          Pass to Cottam PS                                 3
+
+
+Retford Low Level
+
+Dwell Time
+All                                  1
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Arrive siding                                     Pass Thrumpton West to Worksop                    Same time
+
+Pass Thrumpton West to Worksop                    Arrive siding                                     8
+
+Minimum turnaround                   10 Only from Worksop direction via UGL from Low Level Up Platform to
+                                     Low Level Down Platform. Not permitted from Gainsborough direction.
+
+
+Manton Wood
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Arrive reception from Worksop                     Pass to Worksop                                   4
+
+Pass Down Main                                    Arrive Up reception                               3
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

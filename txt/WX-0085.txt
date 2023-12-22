@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                       Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                    Date:    27th October 2023
+                                             Timetable 2024                              Page:    83 of 178
+
+Wimbledon West Junction
+Up train crossing from Up Fast to Up St. Helier   Down train departs Wimbledon to Down               1*
+passes Wimbledon West Junction                    Fast/Down Slow
+Up train crossing from Up Fast to Up St. Helier   Down train passes Wimbledon to Down                2*
+passes Wimbledon West Junction                    Fast/Down Slow
+Down train passes/departs Wimbledon to Down Up train crossing from Up Fast to Up St. Helier          3
+Fast/Down Slow                                    passes Wimbledon West Junction
+* Increase margin by ½ minute if the first movement is a freight service
+
+
+Raynes Park
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                             Value
+Down trains towards Motspur Park passing          Speed Differential                                 {½}
+Raynes Park
+
+Connectional Allowances
+All Services                         6
+
+
+New Malden
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                             Value
+Down trains towards Norbiton passing New          Speed Differential                                 {½}
+Malden
+
+Connectional Allowances
+All Services                         6
+
+Overlap Restrictions
+First Movement                             Second Movement                           Signal          Margin
+Down train arrives at Platform 4 from      Train crosses from Down Fast to Down      W231            3
+Down Slow                                  Slow/Down Kingston
+Train crosses from Down Fast to Down       Down train arrives at Platform 4 from     W231            3
+Slow/Down Kingston                         Down Slow
+
+
+Berrylands Junction
+
+Adjustment to Sectional Running Times
+Services crossing from Up Slow to Up Fast do not require the standard {½} as it is already included in the SRT’s.
+
+
+Surbiton
+
+Adjustment to Sectional Running Times
+Services crossing over and stopping do not require the standard {½} as it is already included in the SRT’s.
+
+Connectional Allowances
+All Services                         6
+
+Dwell Times
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

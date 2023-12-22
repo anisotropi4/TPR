@@ -1,0 +1,62 @@
+NETWORK RAIL                              Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                    OFFICIAL
+                                      Final Proposal for Subsidiary                              25th August 2023
+                                                                                       Date:
+                                           Timetable 2024                              Page:      82 of 168
+
+
+SO110 LONDON VICTORIA TO RAMSGATE
+(VIA HERNE HILL AND CHATHAM)
+
+London Victoria (Eastern)
+Platform 4                                          Attaching/Detaching and Platform Sharing Permitted
+Platform 5                                          Attaching/Detaching and Platform Sharing Permitted*
+Platform 6                                          Attaching/Detaching and Platform Sharing Permitted*
+Platform 7                                          Attaching/Detaching and Platform Sharing Permitted
+Platform 8                                          Attaching/Detaching and Platform Sharing Permitted
+
+* Note: Attaching and detaching of units in these platforms should be avoided where possible due to the platform
+curvature which restricts sighting of signals
+
+Station Working Requirements
+Front Train working: In the event of Front Train working with 2 (or more) loaded services a minimum of 5 minutes
+should be allowed between departure of Front train and Rear train to allow indicators, etc. to be changed.
+Passenger trains that divide en route should not be “front trained”.
+
+At London termini 3 minutes to be allowed if possible between arrivals on adjacent platforms to allow customers
+to clear in morning and evening peak.
+
+
+
+ Victoria Grosvenor Carriage Shed
+
+ Berthing Facilities
+ Location                                           Cars                 Notes
+ Shed Road No 1                                     8
+ Shed Road No 2                                     12
+ Shed Road No 3                                     12
+ Shed Road No 4                                     12
+ Shed Road No 5                                     14
+ Shed Road No 6                                     14
+ Shed Road No 7                                     12
+ Shed Road No 8                                     12
+ Shed Road No 9                                     12
+ Wall Siding                                        12                   To be used as turnback only for Class 700
+
+ Junction Margins
+ First Movement                                    Second Movement
+ Departure from Victoria Station to the            Train can arrive into Victoria Station 6 minutes later
+ Down Fast
+
+
+
+ Brixton
+
+ Adjustments to Sectional Running Times
+ Movement Down                                      Reason                                              Value
+ All Freight Trains which are being routed via      Speed differential                                  1
+ Denmark Hill
+
+
+
+                                    Electronic copy - uncontrolled when printed

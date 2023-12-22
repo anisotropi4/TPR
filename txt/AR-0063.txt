@@ -1,0 +1,67 @@
+                                                         OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                           Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                      12th September
+                                                                                           Date:
+                                                2024                                               2023
+                                                                                           Page:   60 of 183
+
+5.2 Headways
+The definition for Headways is listed in Section 6.5 of the National TPRs.
+
+5.2.1 Headway Values
+All times are in minutes. All routes are shown.
+
+Where track circuit block (TCB) signalling applies, the standard headways for each route are shown, together with
+any exceptions.
+
+AB indicates locations where absolute block signalling applies. Here the headway is to be calculated from the
+transit time of the first of each pair of trains running between the stated timing points. A value “x” shall be added to
+the transit time to allow for the signaller’s actions and sighting of the relevant signal. The planning headway is
+shown as “AB+x”.
+
+AB methodology may also be used to express the headway in other areas (e.g. TCB), the value “x” including the
+time taken to reset the route, clear the signal on entry to the section and sight the relevant signal.
+
+Single lines and other forms of signalling are shown, together with any values applicable, where they occur.
+“OTNS” or “OT” indicates One Train Working with No Train Staff; “OTS” or “OT(S)” indicates one train working with
+Train Staff. “NST” indicates No Signaller token. In these cases only one train is allowed in the section at one time;
+a second train cannot be allowed to enter the section until the first train has left the section.
+“ETB” indicates Electric Token Block and “TB” indicates Tokenless Block for single lines.
+ “RB” indicates Radio Signalling where “long section tokens” can be issued between certain block posts during
+times of low traffic volume.
+
+Light Engine movements, postal and test trains to be treated as passenger trains when applying
+margins/allowances where there is a freight/passenger difference.
+
+Details of how to apply headways are listed in the National TPRs Section 1.5.5
+Line of route
+EA1010 LIVERPOOL STREET TO SEVEN KINGS
+TIMING POINTS INCLUDED              DOWN            UP              NOTES
+Liverpool Street to Stratford       2               2
+Stratford to Forest Gate            2*              2*              *3 following freight
+Junction
+Forest Gate Junction to Seven       2               2
+Kings
+
+
+EA1011 SEVEN KINGS TO IPSWICH
+TIMING POINTS INCLUDED              DOWN            UP              NOTES
+Seven Kings to Shenfield            2               2               ML and EL
+Shenfield to Ipswich                3               3
+
+
+EA1012 IPSWICH TO TROWSE JUNCTION
+TIMING POINTS INCLUDED              DOWN            UP              NOTES
+Ipswich to Trowse Junction          4               4
+
+
+EA1013 TROWSE JUNCTION TO NORWICH
+TIMING POINTS INCLUDED              DOWN            UP              NOTES
+Trowse Junction to Norwich          3               3
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

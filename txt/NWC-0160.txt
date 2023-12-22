@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                            Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024                Date:    28th July 2023
+West and Central
+                                                                                             Page:    148 of 443
+
+
+NW7021 MILES PLATTING JN TO MARSDEN
+TIMING POINT                           DOWN            UP          NOTES
+
+Miles Platting Jn to Stalybridge       2½              2½
+(exclusive)                            4               4
+                                       following       following
+                                       Freight         Freight
+Stalybridge (inclusive) to Diggle Jn   3               3½
+(exclusive)
+Diggle Jn (inclusive) to Marsden       AB+2*           AB+2*       * TCB Plan as AB+2
+
+
+
+
+NW7023 PHILIPS PARK WEST JN TO BREWERY JN
+TIMING POINT                           DOWN            UP          NOTES
+
+Philips Park West Jn to Brewery              *                 *   * TCB plan as AB+2
+Jn
+
+
+NW7025 PHILIPS PARK WEST JN TO ASHBURYS WEST JN
+TIMING POINT                           DOWN            UP          NOTES
+
+Philips Park West Jn to Ashburys       4               4
+West Jn
+
+
+NW7027 BAGULEY FOLD JN TO PHILIPS PARK SOUTH JN
+TIMING POINT                           DOWN            UP          NOTES
+
+Baguley Fold Jn to Philips Park              *                 *   * TCB plan as AB+2
+South Jn
+
+
+NW8001 HUNTS CROSS WEST JN TO SOUTHPORT
+TIMING POINT                           DOWN            UP          NOTES
+
+Hunts Cross West Jn to Liverpool       5               5
+Central
+Liverpool Central to Sandhills Jn      2½*             2½*         * 1½ applies for ECS following a passenger service
+Sandhills Jn to Southport              5               5
+
+
+NW8003 PARADISE JN TO JAMES STREET (STOCK INTERCHANGE/HOLDING
+LINE)
+TIMING POINT                           DOWN            UP          NOTES
+
+Paradise Jn to James Street                      Single Line       Access only to/from Down line at Paradise Jn
+
+
+
+
+                               Electronic copy - uncontrolled when printed

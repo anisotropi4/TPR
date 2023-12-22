@@ -1,0 +1,19 @@
+NETWORK RAIL                        Timetable Planning Rules                     Version:    4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024         Date:     28th July 2023
+West and Central
+                                                                                   Page:     20 of 443
+
+Abbreviation   Description
+DVT            Driving Van Trailer
+EMU            Any electric multiple unit (excluding Class 390 and Class 807)
+ECS            Empty Coaching Stock includes empty diesel and electric multiple units.
+HST            Trains consisting of two Class 43 power cars and Mk 3 passenger vehicles
+HSTGW4         GWR short-form HST (2x Class 43 power cars and 4x Mk3 passenger trailers)
+LH             A passenger or parcels train hauled or propelled by one or more locomotives
+NMT            New Measurement Train (2x Class 43 power cars and 5 trailers)
+Power          Passenger stock equipped with power operated external doors
+
+
+
+
+                           Electronic copy - uncontrolled when printed

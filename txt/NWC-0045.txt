@@ -1,0 +1,58 @@
+NETWORK RAIL                        Timetable Planning Rules                     Version:    4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024         Date:     28th July 2023
+West and Central
+                                                                                    Page:    33 of 443
+
+
+MD140 BLETCHLEY TO BEDFORD ST. JOHNS (INCLUSIVE)
+TIMING POINT                       DOWN       UP         CODE     NOTES
+
+Bletchley S&T Yard                                 –        S     TIPLOC BLTCYD
+Fenny Stratford Jn                                                To/from Flyover Summit Jn– MD740
+                                                                  To/from Flyover Summit Jn – MD741
+Fenny Stratford                        –           –              Single Line between 0 miles 49 chains and
+                                                                  1 miles 42 chains
+Single & Double Jn
+Bow Brickhill                          –           –        S
+Woburn Sands                           –           –
+Aspley Guise                           –           –        S
+Ridgmont                               –           –
+Lidlington                             –           –        S
+Millbrook                              –           –
+Stewartby                              –           –        S
+Forders Sidings Signal MV233           –                    F     Only for trains entering Forders Sidings
+Forders Loop                           –                    F
+Forders Sidings                        –           –        F
+Forders Sidings Signal MV28                        –        F     Only for trains entering Forders Sidings
+Kempston Hardwick                                           S
+Double to Single Jn                                               Single Line beyond 15 miles 67 chains
+Bedford St. Johns                      –           –              To/from Bedford – Refer to East Midlands
+                                                                  Timetable Planning Rules – LN3140
+
+
+MD145 CAMDEN ROAD WEST JN TO CAMDEN JN
+TIMING POINT                       DOWN       UP         CODE     NOTES
+
+Camden Road West Jn                    –           –              To/from Camden Road East Jn – EA1320
+                                                                  Refer to Anglia Timetable Planning Rules
+Route Boundary: NW&C/Anglia                                       5 miles 42 chains
+Primrose Hill Signal NL1202                        –        S     Timing point for trains required to stop for
+                                                                  changeover from DC (third rail) to AC
+                                                                  (overhead) electrification
+                                                                  OP stop to be shown for ARS regulating
+                                                                  purposes
+                                                                  TIPLOC CMDN202.
+Primrose Hill Signal WM801             –                    S     Timing point for trains required to stop for
+                                                                  changeover from AC (overhead)
+                                                                  electrification to DC (third rail)
+                                                                  TIPLOC CMDN801
+                                                                  To Queen’s Park via DC lines – MD120
+Primrose Hill Jn
+Camden Jn                           SL DC          –              To/from Willesden West London Jn –
+                                                                  MD101
+                                                                  To/from Queen’s Park – MD120
+
+
+
+
+                             Electronic copy - uncontrolled when printed

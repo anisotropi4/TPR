@@ -1,0 +1,68 @@
+                                                        OFFICIAL
+
+ NETWORK RAIL                         Timetable Planning Rules 2024                         Version:     4.1
+ Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                        Date:      6th October 2023
+                                          Change Timetable 2024                               Page:      121 of 289
+
+
+Reading
+Arriving Platform 14 from Down Relief or          Approach Control             All Traffic             {½}
+Arriving Platform 13 from Up Relief (in Down                                   Except 345 and
+Direction)                                                                     345-T
+Approaching Platform 3 from Reading High          Approach control             15x / 16x / 22x         {1}
+Level Jn                                                                       387/319/769
+Approaching platforms 1, 2, and 3 from            Approach control and         15x / 16x / 22x         {1}
+Oxford Road Jn having passed Reading              slow speed into platform     387/319/769
+West
+Down DML to pass platform 7 or 8                  Lower linespeed through      Class 4 Freight         {½}
+                                                  platform
+                                                                               Class 6 Freight         {1}
+Down DML to pass platform 10                      Lower linespeed through      Class 4 Freight         {1}
+                                                  platform
+                                                                               Class 6 Freight         {½}
+Down DRL to pass platform 14                      Approach Control             Class 4 Freight         {1}
+                                                                               Class 6 Freight
+Down URL to pass platform 13                      Approach Control             Class 4 Freight         {1}
+                                                                               Class 6 Freight
+
+Connectional allowance                   7*
+                                         * 12 mins to be allowed for connections between train and scheduled Rail
+                                         Replacement bus services
+
+Dwell Time
+LH / 80x                                 2
+                                         3 minutes for Down West of England Summer Saturday trains (Periods E,
+                                         F and G) via GW500 until 1300
+                                         4 Down/Up Sleepers
+Class 220 & 221                          2
+Class 165/6 & 387/319/769/345            1
+                                         2 minutes applies during peak hours of 07.00 - 09.00 and 16.00 - 19.00
+                                         Mondays to Fridays
+
+Platform re-occupation                   Margin
+All platforms following moves            3
+Platforms 7-12 & 15 opposing             4
+direction moves
+Platforms 13 & 14 opposing direction     4 (can be reduced to 3 when the second train has a minimum of (1)
+moves                                    pathing time approaching Reading)
+
+Planning notes
+It is not possible to share a platform with a 9 car class 345.
+Care must be taken when dwelling/ pathing a train between Reading and Oxford Road Jn on the Feeder lines, to
+ensure held train does not block access to other lines (see 5.4.1 GW225)
+
+Signalling Limitations
+There is no down signalled route into Platform 11 from Kennet Bridge Jn as up ML is not reversible
+There is no down signalled route into Platform 10 on the Up Main Line from Kennet Bridge Jn as up ML is not
+reversible.
+No additional allowance is to be added to freight schedules over 4400t approaching Reading coming from Oxford
+Road Jn on the Feeder Relief Line. This is due to the curvature and incline. All additional time to be added as
+pathing approaching Southcote Jn or Oxford Road Jn or to be added as a dwell in Reading Station.
+
+Turnround Allowances           L/H       Class           Power door          Class 80X (5         Class 80X (9/10
+                                         387/319/769/    DMU                 Car)                 Car)
+                                         345
+
+
+                                       Electronic copy - uncontrolled when printed.

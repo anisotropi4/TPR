@@ -1,0 +1,64 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                          25th August 2023
+                                                                               Date:
+                                     Timetable 2024                            Page:    12 of 168
+
+
+  Second       LONDON CHARING CROSS SERVICES
+ Character
+    X          Out of gauge and exceptional loads
+    Y          Orpington via Mid Kent Line
+               ALL empty trains London Blackfriars/ Stewarts Lane/ and London Cannon Street via
+               Metropolitan Junction
+               De-icing and Sandite Trains
+               Trains not covered elsewhere.
+     Z         Special Traffic Trains
+               Must NOT be used for WTT services
+               STP additional trains not conforming to any route code
+
+
+Second         LONDON VICTORIA (EASTERN) SERVICES
+Character
+     A         UP main line trains from Maidstone East and Herne Hill
+               UP local trains Sevenoaks via Swanley and Herne Hill
+     B         ALL local trains to or from Sevenoaks via Catford and Swanley
+     C         UP main line trains via Sevenoaks, Swanley or Orpington and Herne Hill
+     D         UP local trains from Sevenoaks via Herne Hill and Orpington
+               Sittingbourne and Sheerness on Sea
+     E         UP trains to Eastern Region
+               DOWN local trains to Sevenoaks or intermediate stations via Catford and Swanley
+               Tunbridge Wells via Redhill
+     F         Main line trains via Catford and Maidstone East
+     G         Main line trains via Catford and Orpington
+               Or
+               Dartford via Sidcup (also applies to services from London Blackfriars)
+     H         Not Used
+     K         Via Catford and Chatham
+     L         Local trains to and from Sevenoaks or intermediate stations via Orpington and Catford.
+               UP trains to Eastern Region.
+     M         UP trains to Midland/North West Zones, except trains covered elsewhere.
+               DOWN local trains to Sevenoaks via Herne Hill and Orpington
+     N         DOWN main line trains via Herne Hill and Maidstone East
+     O         Trains from other Zones to Southern Region not covered elsewhere.
+               London Victoria (Eastern) and Stewarts Lane.
+               Thameslink services to Sutton via Mitcham Junction and from Sutton via Wimbledon
+     P         UP main line trains via Chatham and Herne Hill.
+     Q         Class 2. Non-standard services – by prior agreement only
+     S         UP trains to Scotland Zone
+               DOWN main line trains via Herne Hill and Chatham
+     U         via Nunhead, Lewisham, Dartford and intermediate stations Strood, Sheerness, Ramsgate
+               and Dover
+     V         UP trains to Great Western Area
+               DOWN main line trains via Herne Hill, Orpington or Swanley and Sevenoaks.
+               Thameslink services to Sutton via Wimbledon and from Sutton via Mitcham Junction
+     X         Out of gauge and exceptional loads
+     Y         Empty trains London Blackfriars/Stewarts Lane and London Cannon Street via Metropolitan
+               Junction
+               De-icing and Sandite trains
+               Trains not covered elsewhere
+     Z         Special traffic trains
+               Must NOT be used for WTT services
+               STP additional trains not conforming to any route code
+
+                                 Electronic copy - uncontrolled when printed

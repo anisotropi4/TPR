@@ -1,0 +1,64 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version:   4.2
+Route: Wessex                   Final Rules for Subsidiary OFFICIAL
+                                                           Change                 Date:    27th October 2023
+                                         Timetable 2024                           Page:    10 of 178
+
+Abbreviation    Description
+DSL             Down Slow Line
+DSV             Down Slow Tonbridge Loop
+DV              Down Loop
+DW              Down Windsor
+DWC             Down CTRL West Chord
+FL              Fast Line
+GL              Goods Line
+LW              Ladywell Loop
+MFL             Main Fast Line
+ML              Main line
+MSL             Main Slow Line
+NKD             Down North Kent Line Connection CTRL
+NKU             Up North Kent Line Connection CTRL
+NLC             CTRL – NLL Connecting Line
+QL              Quarry Line
+PCO             St Pancras to ECML Connecting Line
+PNL             CTRL Silo Curve
+PRL             CTRL Relief Line
+RCL             Reception Line
+RCP             Reception
+REV             Reversible
+RG              Redbridge Goods
+RL              Relief Line
+RVF             Reversible Fast Line
+RVL             Reversible Line
+RVS             Reversible Slow Line
+SD1             CTRL Turnback siding No 1 Church Path Pit
+SD2             CTRL Turnback siding No 2 Church Path Pit
+SL              Slow Line
+SPR             Spur Line
+TPM             Temple Mills Chord
+UA              Up Alton
+UDG             Up Ripple Lane Chord
+UEC             Up CTRL East Chord
+UDL             Up & Down Fratton
+UFL             Up Fast Line
+UFV             Up Fast Tonbridge Loop
+UHL             Up St. Helier
+UL              Up Line
+UM              Up Main
+UMF             Up Main Fast
+UML             Up Main Line
+UMR             Up Main Relief
+UMS             Up Main Slow
+UPC             Up International CTRL
+UPV             Up Passenger Loop
+UQL             Up Quarry Line
+UR              Up Reading
+URV             Up Reversible
+USL             Up Slow Line
+USV             Up Slow Tonbridge Loop
+UV              Up Loop
+UW              Up Windsor
+UWC             Up CTRL West Chord
+UWF             Up Windsor Fast
+UWL             Up West London
+
+                                 Electronic copy - uncontrolled when printed.

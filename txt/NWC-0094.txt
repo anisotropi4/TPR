@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:    82 of 443
+
+
+NW4033 CARNFORTH NORTH JN TO CARLISLE SOUTH JN (VIA BARROW)
+TIMING POINT                          DOWN       UP         CODE     NOTES
+
+Foxfield                                  –           –
+Green Road                                –           –        S
+Millom                                    –           –
+Silecroft                                 –           –
+Bootle (Cumbria)                          –           –
+Ravenglass                                –           –        S
+Drigg                                     –           –              To/from Drigg British Nuclear Fuels
+                                                                     Sidings
+Seascale                                  –           –        S     To/from British Nuclear Fuels Private
+                                                                     Sidings
+Sellafield Signal SD18                    –           –        S
+British Nuclear Fuels Private                         –        S
+Sidings
+Sellafield                                –           –              Single line from Sellafield to/from St. Bees
+Braystones                                –           –        S
+Nethertown                                –           –        S
+St. Bees                                  –           –              Passing Loop. Show “t” for trains which do
+                                                                     not stop to pick up or set down passengers
+                                                                     Single line from St. Bees to/from Bransty
+                                                                     Jn
+Powbeck Railhead                          –                    F
+Mirehouse Jn                              –           –        X     Trains to/from Powbeck Railhead only
+Corkickle                                 –           –        S
+Whitehaven                                –           –              Token exchange. Show “t” for trains which
+                                                                     do not stop to pick up or set down
+                                                                     passengers
+Bransty Jn
+Parton                                    –           –              Single line from 1 mile 68 chains to/from
+                                                                     Parton North Jn
+Parton North Jn                           –           –
+Harrington                                –           –        S
+Workington Yard                           –           –        S     To/from Workington only
+Workington                                –           –              See Section 5.3 for specific rules
+                                                                     applicable to trains to/from this location
+Derwent Jn                                –           –        X     Trains to/from Workington Docks only
+                                                                     Multiple operator TIPLOCs available:
+                                                                     WKNTDKS (Cumbria CC), WKNTDRP
+                                                                     (DRS), WKNTFLR (Freightliner)
+Flimby                                    –           –        S
+Maryport                                  –           –              Single Platform on Down & Up Platform
+                                                                     Line only
+Aspatria                                  –           –        S
+Wigton                                    –           –
+Dalston Oil Depot G.F.                                               To/from Dalston Oil Sidings – Timing point
+                                                                     for trains to/from Dalston Oil Sidings
+Dalston (Cumbria)                         –           –       SF     Timing point for trains from Dalston Oil
+                                                                     Sidings
+Currock Jn                                –           –              To/from Bog Jn – NW4025
+Carlisle South Jn                                                    To/from Carlisle – NW4001
+
+
+
+
+                                Electronic copy - uncontrolled when printed

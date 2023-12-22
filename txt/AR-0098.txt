@@ -1,0 +1,69 @@
+                                                   OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                    Version:     4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                   Date:
+                                               2024                                          2023
+                                                                                  Page:      95 of 183
+
+Halifax Junction
+
+Adjustments to Sectional Running Times
+Movement                                        Reason                                            Allowance
+Down trains crossing to UL or Griffin Wharf     Approach control                                  {1}
+branch at Halifax Jn
+Up trains crossing from DL to Up Main           Via slow speed crossover                          {½} *
+                                                                                                  approaching
+                                                                                                  next timing
+                                                                                                  point
+Up trains which have departed from Griffin      Slow speed through Halifax Junction and slow      {5}
+Wharf                                           acceleration forward                              approaching
+                                                                                                  next timing
+                                                                                                  point
+* Does not apply to GA Class 720, 745 and 755
+
+Junction Margins
+First Movement                                  Second Movement                                   Value
+Between all conflicting moves except as below                                                     3
+Up pass from DL to UL                           Down depart                                       1½
+Up passenger pass on UL                         Down depart from DL to UL or Griffin Wharf        1½
+                                                branch
+Up freight pass on UL                           Down depart from DL to UL or Griffin Wharf        2
+                                                branch
+Up passenger pass on UL                         Down pass from DL to UL                           2½
+Up passenger pass                               Up depart from Griffin Wharf Branch               2
+Up freight pass                                 Up depart from Griffin Wharf Branch               2½
+
+
+
+Ipswich
+
+Adjustments to Sectional Running Times
+Movement                                        Reason                                            Allowance
+All Up trains departing from Platform 4         Via slow speed crossover                          {½} *
+                                                                                                  approaching
+                                                                                                  Halifax Jn
+Down trains arriving in Platform 4              Via slow speed crossover                          {½}
+Down trains departing from Platforms 1, 2 and   Via slow speed crossover                          {½}
+4 towards Stowmarket                                                                              approaching
+                                                                                                  next timing
+                                                                                                  point
+Up trains arriving in Platforms 1, 3, 4 from    Via slow speed crossover                          {½}
+Stowmarket
+Freight trains which stop for a Crew change     Reduced speed due to Running Brake Test           {2}
+                                                after leaving Ipswich                             approaching
+                                                                                                  next timing
+                                                                                                  point after
+                                                                                                  Halifax Jn
+* Does not apply to GA Class 720, 745 and 755
+
+Dwell Time
+Multiple Units                                                                                    1
+745 operated services except as below                                                             1½
+745 operated Class 9 services                                                                     1
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

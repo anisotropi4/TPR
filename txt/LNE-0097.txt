@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version: 4.1
+London North Eastern                     Revised Final Rules for                        Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                    Page: 94 of 368
+
+
+
+
+LN684 LOW FELL JUNCTION TO NORWOOD JUNCTION
+TIMING POINT                         DOWN           UP          NOTES
+
+Low Fell Junction to Norwood                AB+2*               *Single Line TCB
+Junction
+
+
+LN694 BENTON NORTH JUNCTION TO MORPETH NORTH JUNCTION VIA
+BEDLINGTON
+TIMING POINT                          DOWN                 UP                NOTES
+
+Standard Headway                      5 following          5½ following
+                                      stopping             stopping
+                                      passenger            passenger
+
+                                      6 following          6 following
+                                      freight              freight under
+                                                           799 tonnes
+
+                                                           8 following
+                                                           freight 800
+                                                           tonnes and over
+Exceptions:
+Hepscott Junction to Bedlington                          AB+2                 Single Line
+North Junction
+Red House Farm to Seghill Level       AB+2: All moves                         Single Line
+Crossing                              except AB+3: first move freight,
+                                      second move freight
+
+Holywell Level Crossing to Benton     AB+2 first train is a passenger,        Single Line
+East Junction                         followed by a freight
+                                      AB+2½ first train freight, second
+                                      train is passenger
+                                      AB+3 freight following freight
+
+
+LN696 HEPSCOTT JUNCTION TO MORPETH JUNCTION
+TIMING POINT                         DOWN           UP          NOTES
+
+Hepscott Junction to Morpeth         4              4
+Junction
+
+
+LN700 BUTTERWELL NORTH BRANCH
+TIMING POINT                         DOWN           UP          NOTES
+
+Butterwell Junction to Butterwell           AB+2*               *Single Line TCB planned as AB
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

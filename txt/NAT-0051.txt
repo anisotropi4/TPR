@@ -1,0 +1,56 @@
+                                              OFFICIAL
+
+
+Network Rail                                                                                   Version 4.0
+National                                                                               Date: 28th July 2023
+                           Final Proposal for Subsidiary Change 2024
+                                           Page 50 of 114
+                        specific timing point on the same line in the same direction, such that the
+                        second train can meet its SRT. This is expressed in seconds.
+
+Technical Value         Minimum time between two events on the network based on the physical
+                        capability of the infrastructure and rolling stock concerned. This will be
+                        expressed in seconds.
+
+Terminal Time           In respect of a freight train, the minimum time required between arrival of
+                        one service and departure of the next service, allowing for loading or
+                        unloading and including remarshaling and train preparation. Terminal times
+                        are indicated in Schedule 5 of Track Access Agreements.
+
+Timetable Impact        A study undertaken to understand the effect of a proposed TPR value
+Assessment              change on the operation of the Timetable.
+
+Timetable Participant   (a) an Access Beneficiary; or
+                        (b) a Potential Access Party
+
+Timing Point            Nominated points on the network at which trains are timed. A list of these
+                        locations is provided in Section 2.1 of the TPRs. Timing points have two
+                        categories; mandatory, where all trains are timed, and conditional, where
+                        certain trains are timed as detailed in Section 2.1. The timing point is
+                        normally the Sectional Appendix mileage. Where no mileage is shown in
+                        the Sectional Appendix, the signalling plans should be checked for further
+                        information. In the absence of any definitive location, a mileage should be
+                        agreed by affected parties, documented and recorded in Section 2.1 of
+                        TPR.
+                             1. Non-stopping trains – see above
+                             2. Terminal stations – see above
+                             3. Trains stopping at platforms – appropriate stop board for the length
+                                 of train
+                             4. Trains stopping in loops – exit signal
+
+TIPLOC                          Timing points are shown in the form of tiplocs in planning systems
+                                to enable downstream systems to function. tiplocs are alpha-
+                                numeric and have a root of four characters to define a location and
+                                up to three additional characters to further define locations in that
+                                area. For example, Doncaster has root DONC (which also serves
+                                as tiploc for Doncaster station), and further tiplocs are available for
+                                other locations in that area such as DONC254 (Doncaster Sig.
+                                D254) and DONCUDY (Doncaster Up Decoy).
+
+Turnround Time          The minimum time required for rolling stock to be prepared on completing
+                        one service before it forms the next service.
+
+
+
+
+                         Electronic copy – uncontrolled when printed

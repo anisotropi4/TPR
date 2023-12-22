@@ -1,0 +1,64 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                       Version:    4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                      Date:     6th October 2023
+                                          Change Timetable 2024                             Page:     151 of 289
+
+
+Devonport
+
+Dwell Time
+Class 158                              1
+
+Dockyard
+
+Dwell Time
+Class 15x                             ½*
+* : Request Stop.
+
+St. Budeaux Jn
+
+Adjustment to Sectional Running Time
+Movement                                         Reason                        Timing Load           Value
+Pass to Bere Alston/Ernesettle                   Slow Junction Speed           All                   {½}
+Pass from Bere Alston/Ernesettle                 Acceleration                  All                   {½} approaching
+                                                                                                     next timing point
+
+St. Budeaux Ferry Road
+
+Dwell Time
+Class 158                              1
+
+Saltash
+
+Dwell Time
+Class 15x                              1
+
+Junction Margins
+First Movement                Second Movement                Margin                         Notes
+Down train arrives /          Up train passes Platform 2     3*                             *For 9/10 car Class 80x
+passes Platform 1                                                                           formations calling in the
+                                                                                            down direction refer to
+                                                                                            following items
+Down train formed 9/10        Up train passes Platform 2 2½
+car Class 80x departs
+Platform 1
+Down train formed 9/10        Up train departs Platform     2
+car Class 80x departs         2
+Platform 1
+Down train formed 9/10        Down train passes St          1
+car Class 80x departs         Budeaux Jcn / departs
+Platform 1                    Ferry Road
+Please note – While a Class 80x formed of 9/10 cars is standing in Saltash Platform 1, the junction in rear is
+fouled and the AB section from St Budeaux Ferry Road remains occupied. It is not possible for an Up train to
+depart or pass Saltash or a following Down train to enter the single line section until after the train in question has
+departed Saltash.
+
+An Up train approaching Saltash under cautionary aspects is already braking for the 15mph permanent speed
+restriction and therefore the normal SRTs are not compromised.
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

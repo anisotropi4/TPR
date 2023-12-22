@@ -1,0 +1,60 @@
+NETWORK RAIL                   Timetable Planning Rules                    Version: 4.1
+London North Eastern             Revised Final Rules for                     Date: 12 October 2023
+                            Subsidiary Change Timetable 2024                 Page: 37 of 368
+
+
+LN638 GRANGETOWN SHELL JUNCTION TO CLEVELAND FREIGHTLINER
+TERMINAL (WILTON)
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Shell Junction               –          ML GL      X        To/from Grangetown – LN632
+ICI Wilton Junction                                         To/from ICI Wilton Coal Terminal – LN640
+ Wilton EFW Terminal         –          –          S
+Wilton FLT                              –
+
+
+LN640 ICI WILTON COAL TERMINAL
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+ICI Wilton Junction                                         To/from Shell Jn – LN638
+Wilton Coal Terminal                    –
+
+
+LN642 SALTBURN WEST JUNCTION TO BOULBY POTASH MINE
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Salburn West Junction        –          –                   To/from Redcar Central – LN632
+Saltburn West Signal L209                                   Timing point for all Down trains
+Crag Hall Signal Box         –          –                   Token Exchange Point
+Skinningrove BSC             –          –          S
+Boulby Potash Reception      –          –          S
+Boulby Mine Carlin How       –          –          S
+
+
+LN644 HARTBURN JUNCTION TO BOWESFIELD JUNCTION
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Hartburn Junction            –          –                   To/from Stockton – LN627
+Bowesfield Junction          –          –                   To/from Thornaby – LN632
+
+
+LN646 NORTON-ON-TEES SOUTH TO FERRYHILL SOUTH JUNCTION
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Norton South Jn              –          –                   To/from Stockton – LN627
+Norton West Jn               –          –                   To/from Norton East Jn – LN648
+Morden Signal NF7194                    –                   Mandatory in the Up direction
+Morden Signal NF7195         –                              Mandatory in the Down Direction
+Ferryhill South Jn           – SL       –                   To/from Darlington – LN600
+
+
+LN648 NORTON-ON-TEES WEST TO NORTON-ON-TEES EAST
+TIMING POINT                 DOWN       UP         CODE     NOTES
+
+Norton West Jn               –          –                   To/from Ferryhill South Jn – LN646
+Norton East Jn               –          –          X        To/from Billingham – LN627
+
+
+
+
+                            Electronic copy - uncontrolled when printed.

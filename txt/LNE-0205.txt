@@ -1,0 +1,62 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version: 4.1
+London North Eastern                       Revised Final Rules for                     Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                 Page: 202 of 368
+
+
+Whitehouse Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                        Reason                                      Value
+Down Slow to Down Main                               Acceleration                                1
+
+                                                                                                 1½ for freight
+                                                                                                 over 600m
+
+                                                                                                 To be applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point
+Movement Up                                          Reason                                      Value
+Up Main to Up Slow                                   Deceleration/Approach Control               1
+
+Junction Margins
+First Movement                                       Second Movement                             Margin
+Pass Up Main to Up Slow                              Pass Down Main                              4½*
+Pass Up Main to Up Slow                              Down Slow to Down Main                      5
+Pass Down Slow to Down Main                          Pass Up Main to Up Slow                     2½
+Pass Down Main                                       Pass Up Main to Up Slow                     2
+Pass Down Main                                       Depart Slow Line                            3
+* If first train is over 641m to be increased by ½
+
+
+South Bank
+
+Adjustments to Sectional Running Times
+Movement Down                                        Reason                                      Value
+Down Main to Down Goods                              Deceleration                                1
+Movement Up                                          Reason                                      Value
+Up Goods to Up Main                                  Acceleration                                1
+
+                                                                                                 1½ for freight
+                                                                                                 over 600m
+
+                                                                                                 To be applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point next
+                                                                                                 timing point
+
+Junction Margins
+First Movement                                       Second Movement                             Margin
+Pass to Goods Line                                   Pass Down Main                              3
+Pass to Goods Line                                   Pass from Goods Line                        5^
+Pass from Goods Line                                 Pass to Goods Line                          2½*
+Pass from Goods Line                                 Pass Down Main                              3
+Pass Down Main                                       Pass from Goods Line                        4½^
+Pass Down Main                                       Depart from Goods Line                      1½
+Pass Up Main                                         Depart from Goods Line                      2½
+* If first train is over 641m to be increased by ½
+^ based on Yellow signals for the second train
+
+
+                                     Electronic copy - uncontrolled when printed.

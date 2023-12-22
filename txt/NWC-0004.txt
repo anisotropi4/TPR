@@ -1,0 +1,64 @@
+                         OFFICIAL
+
+
+
+
+         Sidings.
+         Preston and Preston Fylde Jn. Details shown of Line codes that
+         should be used at the north end of Preston based on the
+         departing line from the station (northbound) or approaching from
+         Preston Fylde Jn (southbound). Note TL line code in Down at
+         Preston is corrected to DTL and in the Up direction at Preston
+         Fylde Jn TL line code is corrected to UTL. This matches the
+         geography shown in Bplan.
+NW1007   Gresty Green West Jn. Made mandatory timing point. Route
+         codes added in Down direction to show which line schedule is to
+         use. Default line code for Up moves towards Shrewsbury as only
+         one route available.
+         Gresty Green Sidings. Line code removed from Down direction
+         Crewe PAD renamed to Gresty Lane Down Sidings. Line code
+         removed from Up direction
+         Gresty Green East Jn. Made non conditional. Removed track code
+         from Down direction. X added to code. Note updated to remove
+         incorrect reference and to remove platform detail note.
+         Gresty Lane Signal GL9014. Line code removed from Down
+         Direction as incorrect. DSA line code added in the Up direction to
+         reflect which line the schedule will use. Notes updated with
+         correct location referenced. (TBC) removed
+         Gresty Lane Reception. DTA line code removed from Down
+         Direction. DSA line code added in Up Direction. Notes amended
+         to correct location.
+         Crewe Signal GL9021. New timing point for shunt moves in the
+         Down Direction. Notes added for reference
+         Crewe Signal GL9023. New timing point for shunt moves in the
+         Down Direction. Notes added for reference
+         Gresty Lane Jn. Notes amended to reflect correct to/from
+         locations.
+         Crewe Pway Shops Yard. Line code removed in Down Direction
+         Crewe Signal GL9042. New timing point for shunt moves in the
+         Up Direction for moves from Crewe D.H.S.
+         Down Salop Goods Loops. S added as this was missing.
+         Crewe Signal CE551. S added as this was missing.
+NW1009   Sandbach Signal MS3723. New timing point on Down
+         Manchester Independent Line to allow schedules to be stopped
+         without blocking platforms at Sandbach.
+NW1013   Crewe Sorting Sidings North. Timing point removed as this has
+         been replaced with Crewe Basford Hall Yard (Freightliner).
+         Crewe Sorting Sidings North SB. Notes amended to reflect
+         to/from location
+         Crewe Signal NH17. New timing location to allow schedules to
+         stop on line between Gresty Lane Jn and Crewe Sorting Sidings
+         North SB.
+         Gresty Bridge No.1 Siding. New timing point to reflect line to
+         DRS Depot.
+         Gresty Bridge (DRS). New timing point for DRS depot
+         Gresty Road Western Sidings 1-3. New timing point to reflect
+         sidings.
+NW3001   Chester Middle Yard. Reference to showing siding detail is
+         deleted. The berthing arrangements will be decided on the day so
+         not appropriate to require this information at planning stage
+
+
+
+
+                             4

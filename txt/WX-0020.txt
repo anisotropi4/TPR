@@ -1,0 +1,59 @@
+NETWORK RAIL                    Timetable Planning Rules                          Version:   4.2
+Route: Wessex               Final Rules for Subsidiary OFFICIAL
+                                                       Change                       Date:    27th October 2023
+                                     Timetable 2024                                 Page:    18 of 178
+
+SW105 CLAPHAM JUNCTION TO WEYMOUTH
+TIMING POINT                 DOWN         UP          CODE        NOTES
+
+Woking Signal WK1214                      -           S
+Brookwood London End             SL                   X           Timing point for Down trains crossing from
+                                                                  Fast Line to Slow Line
+Brookwood                    FL SL        FL SL       S X         Timing point for trains crossing from Slow
+                                                                  Lines to Fast Lines
+Brookwood Country End                          SL     X           Timing point for Up trains crossing Fast
+                                                                  Line to Slow Line
+Pirbright Junction               SL            SL                 Timing point for all trains on Slow Lines
+                                                                  only.
+                                                                  To/from Ash Vale - SW120
+Farnborough London End           SL                   X           Timing point for Down trains crossing Fast
+                                                                  Line to Slow Line
+Farnborough Main             FL SL        FL SL
+Farnborough Country End                      SL       X           Timing point for Up trains crossing Fast
+                                                                  Line to Slow Line
+Fleet                            SL            SL                 Timing point for all trains on Slow Lines
+                                                                  only
+Winchfield London End            SL                   X           Timing point for Down trains crossing Fast
+                                                                  Line to Slow Line
+Winchfield                   FL SL        FL SL       S X
+Winchfield Country End                       SL       X           Timing point for Up trains crossing Fast
+                                                                  Line to Slow Line
+Hook                             SL            SL     S
+Basingstoke Signal BE5105    -                        S           Shunt moves only
+Basingstoke Signal BE5106    -                        S           Shunt moves only
+Barton Mill Sidings          -                        S           ECS moves only
+Basingstoke Down East End    -                        S           ECS moves only
+Sidings
+Basingstoke                  FL SL        FL SL                   Platform detail must be shown.
+                                                                  To/from Bramley - SW125
+Basingstoke West Yard                     -           S           ECS moves only
+Basingstoke Down Yard                     -           S           ECS moves only
+Basingstoke Signal BE5109                 -           S           Shunt moves only
+Worting Junction             -            FL SL                   To/from Overton - SW115
+Micheldever                  -            -           S
+Weston
+Wallers Ash                  -            -
+Winchester Baltic Siding     -                        S
+Winchester                   -            -                       Platform detail must be shown
+Shawford Down Junction       FL SL                                Timing point for all Down trains only
+Shawford                     FL SL        -           S
+Shawford Up Junction                      -                       Timing point for all Up trains
+Allbrook                     FL SL        FL SL       X
+                             RCL
+Eastleigh E N Y              -                        F
+Eastleigh P.A.D.                          -           F
+
+
+
+
+                            Electronic copy - uncontrolled when printed.

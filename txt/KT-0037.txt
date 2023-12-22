@@ -1,0 +1,47 @@
+NETWORK RAIL                          Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                            25th August 2023
+                                                                                 Date:
+                                       Timetable 2024                            Page:      33 of 168
+
+
+SO140A OTFORD JUNCTION TO SEVENOAKS
+TIMING POINT                      DOWN         UP          CODE      NOTES
+
+Otford Junction                   -            -                     To/from Otford - SO140
+Bat and Ball                      -            -             S
+Sevenoaks                         -            -                     Platform detail must be shown.
+                                                                     To/from Tonbridge - SO130
+
+
+SO150 SITTINBOURNE WESTERN JUNCTION TO SHEERNESS ON SEA
+TIMING POINT                      DOWN         UP          CODE      NOTES
+
+Sittingbourne Western Junction    -            -                     Timing point for trains to/from Sheerness
+                                                                     on Sea
+                                                                     To/from Newington – SO110
+Sittingbourne Middle Junction                                        To/from Sittingbourne Eastern Junction -
+                                                                     SO150A
+Kemsley                           -            -
+Kemsley Signal EV807              UL                         X       Timing point for Down trains via 2501
+                                                                     crossovers and Up line.
+                                                                     TIPLOC SWAL807
+Ridham Dock                                    -             FS
+Swale                             -            -
+Queenborough                      -            -
+Queenborough Yard                              -             FS
+Sheerness on Sea                               -                     Platform detail must be shown
+Sheerness Steel Works                          -             FS
+
+
+SO150A SITTINGBOURNE EASTERN JUNCTION TO SITTINGBOURNE MIDDLE
+JUNCTION
+TIMING POINT                      DOWN         UP          CODE      NOTES
+
+Sittingbourne Eastern Junction    -            -                     To/from Sittingbourne - SO110
+Sittingbourne Middle Junction                                        To/from Kemsley - SO150
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

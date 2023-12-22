@@ -1,0 +1,63 @@
+NETWORK RAIL                            Timetable Planning Rules                   Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                Date:    27th October 2023
+                                             Timetable 2024                          Page:    45 of 178
+
+
+
+
+SW115A ANDOVER TO LUDGERSHALL MOD
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Andover - Ludgershall MOD                                 NA                                  NA
+
+SW115B LAVERSTOCK NORTH JUNCTION TO LAVERSTOCK SOUTH JUNCTION
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Laverstock North Junction - Laverstock South Junction     NA                                  P
+
+
+SW115C YEOVIL JUNCTION TO YEOVIL PEN MILL
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Yeovil Junction - Yeovil Pen Mill                         NA                                  P
+
+
+SW120 PIRBIRGHT JUNCTION TO ALTON
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Pirbright Junction – Alton                                NA                                  P
+
+
+SW120A ALDERSHOT NORTH JUNCTION TO ALDERSHOT SOUTH JUNCTION
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Aldershot North Junction - Aldershot South Junction       NA                                  P
+
+
+SW125 SOUTHCOTE JUNCTION TO BASINGSTOKE
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Southcote Junction - Basingstoke                          NA                                  P
+
+
+SW130 EASTLEIGH EAST JUNCTION TO ROMSEY
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Eastleigh – Romsey                                        NA                                  P
+
+
+SW135 EASTLEIGH WEST JUNCTION TO FAREHAM
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+Eastleigh – Fareham                                       P                                   P
+
+
+SW140 ST DENYS TO PORTCREEK JUNCTION
+ROUTE SECTION                                             PASS                                ECS SLIDE +
+
+St Denys - Portcreek Junction                             P                                   P
+
+
+
+                                    Electronic copy - uncontrolled when printed.

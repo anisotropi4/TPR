@@ -1,0 +1,58 @@
+    NETWORK RAIL                           Timetable Planning Rules                       Version:   4.2
+    Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                                  Change                    Date:    27th October 2023
+                                                Timetable 2024                              Page:    43 of 178
+
+4.6 Driver Only Operation Limits
+Line of route
+When special trains are required to operate DOO (NP) over the above routes, it must be ascertained that competent
+staff are available to deal with these trains at the forwarding and receiving terminals, sidings, yards etc. or where
+locomotive changes take place en route. Furthermore, signal boxes are to be advised of these additional DOO (NP)
+services, with particular reference to ECS trains.
+
+Notes:
+• Pass -                 Passenger trains
+• ECS Slide -            Empty Coaching Stock with power operated sliding doors
+• NA -                   Not authorised (except where # shown).
+• P-                     Permitted.
+• +-                     Subject to any relevant Route Availability restrictions.
+• *-                     Subject to provisions of working manual - White Pages (Sect H) paragraph. H10/1.
+• @-                     Unless the cab from which the train is being driven is Speed Sensing Fitted (SSF), slam door
+                         MU trains are limited to a maximum journey of 10 miles.
+•     #-                 Permitted for short notice movements, when all other DOO (NP) conditions are fulfilled and all
+                         doors are locked before departure. Authorisation MUST be obtained from Network Rail
+                         Operations Control, before this can be applied.
+
+    SW100 LONDON WATERLOO TO CLAPHAM JUNCTION
+    ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+    London Waterloo - Clapham Junction/Yard                  NA                                      P
+
+
+    SW100B NINE ELMS JUNCTION TO LINFORD STREET JUNCTION
+    ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+    Nine Elms Junction - Linford Street Junction             NA                                      P
+
+
+    SW100C WEST LONDON JUNCTION TO LATCHMERE JUNCTION (NO 3)
+    ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+    West London Junction - Latchmere Junction (No 3)         NA                                      P
+
+
+    SW100D CLAPHAM JUNCTION TO LONGHEDGE JUNCTION
+    ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+    Clapham Junction/Yard - Longhedge Junction               P                                       P
+
+
+    SW100E CLAPHAM JUNCTION TO LATCHMERE JUNCTION (NO2)
+    ROUTE SECTION                                            PASS                                    ECS SLIDE +
+
+    Clapham Junction/Yard - Latchmere Junction (No 2)        P                                       NA
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

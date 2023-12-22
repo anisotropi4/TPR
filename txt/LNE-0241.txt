@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 238 of 368
+
+
+Heeley Up Loop
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Arrive in Loop                                     Depart/pass Sheffield                           1
+Pass Dore Station Junction                         Depart Loop                                     1
+
+
+Sheffield Signal S77
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Pass via Heeley Down Loop to Sheffield station     Pass Dore Station Junction towards Sheffield    1
+
+
+Sheffield
+
+Adjustments to Sectional Running Times
+Movement Down                                           Reason                                     Value
+Trains arriving into Platform 2c or Down Station        Approach control                           ½
+Siding
+
+Movement Up                                             Reason                                     Value
+Trains departing from Platforms 1, 2, 2c, Through       Differential linespeed – to be applied     ½
+Line or Down Station Siding to the south                approaching Dore Station Junction
+Trains passing Platforms 1, 2 or Through Line to the    Differential linespeed – to be applied     1
+south                                                   approaching Dore Station Junction
+Trains arriving Down or Up Station Sidings from the     Approach control                           1
+north
+Connectional Allowance                7
+
+Dwell Time
+22x                                  2
+TPE                                  2
+Northern                             2
+DMU reversing                        3 except:
+                                     4 EMR Anglia services
+All other services                   3
+
+Minimum Turnround                   LH                                 DMU
+East Midlands Railway to/from                                          15
+London St Pancras
+East Midlands Railway (other)                                          5
+Fuel                                60                                 60
+Lincoln, Wakefield, Huddersfield                                       7*
+To/from Hope Valley                                                    10*
+From beyond Manchester,                                                15#
+Doncaster, Adwick, Huddersfield                                        #Can be 10 for services from Hull/York
+
+or Leeds
+Other not specified above                                              10*
+XC                                   20 (10 by exception and in agreement with Network Rail)
+*Reductions to be requested through the Operational Planning Manager LNE, Network Rail
+Overlap restrictions
+A minimum of 3 minutes should be allowed between the following movements:
+Movement                                              Conflict
+Arrive Platform 1a from South                         Arrive Platform 1b from North (and vice versa)
+                                  Electronic copy - uncontrolled when printed.

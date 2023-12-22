@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version:      4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024             Date:       28th July 2023
+West and Central
+                                                                                           Page:      158 of 443
+
+
+STANDARD VALUES – MINIMUM (APPLIES TO ALL ROUTES EXCEPT THOSE STARTING MD9XX)
+Minimum Turnround                  10, except for the following
+LH/HST                             15
+DMU/EMU                            4 But no more than 3 successive 4 minutes turnrounds followed by an
+                                   additional 10 minutes (10 minutes applies to diagrams and not stations)
+Avanti West Coast Services         30 At Manchester Piccadilly, reduced to 27 minutes for a maximum of two
+                                   turnrounds in each hour.
+                                   25 At Liverpool Lime Street
+                                   20 At all locations for train entering passenger service after an ECS move or
+                                   an ECS move following a train leaving passenger service.
+                                   Class 220/221 – 17 minutes at Blackpool North, Liverpool Lime Street and
+                                   Manchester Piccadilly.
+Chiltern Railways Services         7 DMU*
+                                   10 Class 68 and Mk.3 coaches*
+*Can be reduced on agreement with Chiltern Railways
+
+LUL (London Underground Ltd)           4
+Transpennine Express Services          12 Class 68 and Mk.5A coaches
+                                       8 Class 397
+                                       9 Class 802
+Transport for Wales                    10 Class 67 and Mk.4 coaches
+
+CrossCountry Class 170 Safety Check Unit (SCU) Allowances – minimum platform standing allowance
+between passenger train arrival and ecs departure to depot
+1 x 170                            5
+2 x 170                            10
+
+CrossCountry Class 170 Safety Check Unit (SCU) Allowances which includes an attachment – minimum
+platform standing allowance between passenger train arrival and ecs departure to depot
+When the second arrival is 1 x 170 9
+When the second arrival is 2 x 170 14
+
+CrossCountry HST / 22x & 170 Train Preparation Allowances – minimum platform standing allowance
+between ecs arrival from depot and passenger train departure
+170                                  5
+1 x 22x                              15
+2 x 22x / HST                        20
+By exception, allowances for ‘Train Preparation’ (above) may be reduced after discussion and agreement between
+CrossCountry and Network Rail
+
+CrossCountry 22x Safety Check Unit (SCU) Allowances – minimum platform standing allowance between
+passenger train arrival and ecs departure to depot
+1 x 22x departing in same direction as arrival      8
+1 x 22x departing in reverse direction to arrival   10
+2 x 22x departing in same direction as arrival      15
+2 x 22x departing in reverse direction to arrival   20
+
+Platform Reoccupation
+Standard (same direction)              3
+Standard (opposite direction)          Refer to standard junction margin or location specific rules
+
+Reoccupation of Single Lines
+3 minutes. Where two trains A and B cross when A is the first train to arrive, its arrival must be a minimum of 2½
+minute before the arrival of train B. Train A can depart 1 minute after the arrival of Train B.
+
+
+
+                                Electronic copy - uncontrolled when printed

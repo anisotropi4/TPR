@@ -1,0 +1,62 @@
+NETWORK RAIL                       Timetable Planning Rules                       Version: 4.1
+London North Eastern                 Revised Final Rules for                        Date: 12 October 2023
+                                Subsidiary Change Timetable 2024                    Page: 171 of 368
+
+
+Tollerton
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Pasenger pass Down Fast to Down Slow            Deceleration for lower junction speed            ½
+Pass Down Slow to Down Fast                     Deceleration for lower junction speed            1 Applied
+                                                Acceleration from lower junction speed           approaching
+                                                                                                 Tollerton
+                                                                                                 2 Applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point
+Movement Up                                     Reason                                           Value
+Pass Up Fast to Up Slow                         Deceleration for lower junction speed            1 Applied
+                                                Acceleration from lower junction speed           approaching
+                                                                                                 Tollerton
+
+                                                                                                 ½ Applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point
+Passenger Pass Up Slow to Up Fast               Acceleration from lower junction speed           ½ Applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Pass Up Fast                                    Pass Up Slow to Up Fast                          2½
+Pass Up Fast to Up Slow                         Pass Up Fast                                     2½
+Down Fast to Down Slow                          Pass Down Fast                                   3
+Pass Down Fast                                  Down Slow to Down Fast                           2½
+
+
+
+Thirsk
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Pass Down Slow to Down Fast                     Deceleration for lower junction speed            1 Applied
+                                                Acceleration from lower junction speed           approaching
+                                                                                                 Thirsk
+                                                                                                 1 Applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point
+Pass Down Fast to Down Slow                     Deceleration                                     1
+Movements Up                                    Reason                                           Value
+Pass Up Slow to Up Fast                         Acceleration                                     1 Applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point
+
+Dwell Time
+DMU/EMU                             1
+180                                 1½ - May be reduced to 1 with prior agreement from the operator
+                                Electronic copy - uncontrolled when printed.

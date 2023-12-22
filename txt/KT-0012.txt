@@ -1,0 +1,64 @@
+ NETWORK RAIL                                  Timetable Planning Rules                             Version: 4.1
+ Kent & HS1                                                          OFFICIAL
+                                             Final Proposal for Subsidiary                                    25th August 2023
+                                                                                                    Date:
+                                                 Timetable 2024                                     Page:       8 of 168
+
+
+
+1.3 Definitions
+The list below is not an exhaustive one but is intended to give readers an understanding of some of the terminology
+as used for the purposes of this document.
+
+If any term in Timetable Planning Rules is unclear please contact the compiler on the telephone number shown on
+the cover.
+
+1.3.1 Train Classification
+ Classification      Description
+       1             Express passenger train; or
+                     Nominated postal or parcels train; or
+                     Breakdown or overhead line equipment train going to clear the line or returning from there
+                     (1Z99); or
+                     Traction unit going to assist a failed train (1Z99) or Snow plough going to clear the line (1Z99)
+                     Z headcode must NOT be used for WTT services or STP additional
+                     trains conforming to specified route codes
+         2           Ordinary passenger train; or
+                     Breakdown or overhead line equipment train not going to clear the line (2Z99)
+                     Officers’ special train (2Z01)
+                     Z headcode must NOT be used for WTT services or STP additional
+                     trains conforming to specified route codes
+         3           Freight train which can run at more than 75 mph; or
+                     A parcels train; or
+                     Autumn railhead treatment train; or
+                     Empty coaching stock train if specially authorised or Sandite (M P V)
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+         4           Freight train which can run up to 75 mph
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+         5           Empty coaching stock train
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+         6           Freight train which can run up to 60 mph
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+         7           Freight train which can run up to 45 mph
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+         8           Freight train which can run at, or is timed to run at, 35 mph or less
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+         9           Class 373 or Class 374 train; or
+                     London Overground East London Line services and Thameslink services; or
+                     Other passenger train if specially authorized
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+         0           Light locomotive or locomotives
+                     Z headcode must NOT be used for WTT services or STP additional trains conforming to specified
+                     route codes
+Source: The Rule Book GE/RT8000/TW1 Preparation and Movement of Trains General Section 2 Classification and speed of trains
+
+
+TIDs EAST LONDON LINE / THAMESLINK SERVICE GROUPS
+
+                                           Electronic copy - uncontrolled when printed

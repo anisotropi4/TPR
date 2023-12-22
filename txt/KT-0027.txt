@@ -1,0 +1,59 @@
+NETWORK RAIL                          Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                            25th August 2023
+                                                                                 Date:
+                                       Timetable 2024                            Page:     23 of 168
+
+
+SO110 LONDON VICTORIA TO RAMSGATE (VIA HERNE HILL AND CHATHAM)
+TIMING POINT                      DOWN         UP          CODE      NOTES
+
+Shortlands Junction               FL SL        -                     To/from Ravensbourne - SO260
+Shortlands                        FL SL        FL SL       S
+Bromley South Signal VS617        FL           FL                    Shunt available for crossing
+                                                                     Use TIPLOC BROM617
+Bromley South                     FL SL        FL SL       S         Platform detail must be shown
+
+Bickley                           FL SL        FL SL       S
+Bickley Junction                  FL SL        FL SL                 To/from Petts Wood Junction - SO110A
+                                  DFV
+                                  DSV
+St Mary Cray Junction             FL SL        FL SL                 To/from Chislehurst - SO130G
+                                               CL RVL                Line codes CL and RVL are to/from
+                                                                     Chislehurst
+St Mary Cray                      FL SL        FL SL       S         Platform detail must be shown
+Swanley Signal VS631              FL SL        FL SL                 Shunt available for crossing
+                                                                     Use TIPLOC SWLY631
+Swanley                           -            FL SL                 Platform detail must be shown
+                                                                     To/from Eynsford - SO140
+Swanley Shunt Signal VS636        FL SL                              Use TIPLOC SWLY636
+Farningham Road                   -            -           S
+Fawkham Junction                  -            -                     To/from Southfleet Junction (CTRL). Refer
+                                                                     to SO460
+Longfield                         -            -           S
+Meopham                           -            -           S
+Sole Street                       -            -
+Rochester Bridge Junction         -            -                     To/from Strood - SO310
+Rochester                         -            -                     Platform detail must be shown
+Rochester Down Loop               -            -           S         TIPLOC RCHTDL
+Rochester Up Loop                              -           S         TIPLOC RCHTULS
+Chatham                           -            -           S
+Gillingham                        -            -                     Platform detail must be shown
+                                                                     To/from Chatham Dockyard - SO110B
+Gillingham Down Sidings                                    S
+Gillingham Reception Road                                  S         Timing point for trains between Gillingham
+                                                                     Station or Gillingham Down Sidings and
+                                                                     Gillingham EMU Depot
+Gillingham EMU Depot                                       S         Timing point for trains to/from Gillingham
+                                                                     Reception Road or Gillingham Station
+Rainham                           -            -                     Platform detail must be shown
+Rainham East Junction             DC           -
+                                  DNL
+Newington                         -            UC
+                                               UNL
+Sittingbourne Western Junction    -            -                     To/from Sheerness - SO150
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

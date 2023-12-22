@@ -1,0 +1,51 @@
+NETWORK RAIL                             Timetable Planning Rules                     Version:   4
+Region: North               Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                        Page:    67 of 443
+
+
+NW2001 WEAVER JN TO LIVERPOOL LIME STREET
+TIMING POINT                          DOWN        UP          CODE     NOTES
+
+Liverpool South Parkway                 FL SL       FL SL              Platform details must be shown
+                                                                       Note: between 0001 and 0545 Mondays to
+                                                                       Fridays, all trains between Allerton Jn and
+                                                                       Wavertree Jn must be timed via "SL"
+Allerton West Jn
+Liverpool South Parkway Signal            SL           SL       S      Shunting moves only
+WE1872
+West Allerton                           FL SL       FL SL       S
+Mossley Hill                            FL SL       FL SL       S
+Wavertree Jn                             FL –       FL SL
+Edge Hill Depot                           –           –         S      Timing point for ECS moves to/from Edge
+                                                                       Hill Depot
+Edge Hill Gullet Sidings                   –           –        S      To/from Edge Hill Depot
+                                                                       To/from Edge Hill Wapping Sidings
+Former Edge Hill SB                     FL SL        FL –              To/from Bootle Branch Jn – NW2015
+                                                                       To/from Edge Hill "Depot Complex", Down
+                                                                       Wapping and Gullet Sidings
+Edge Hill Wapping Sidings                  –           –        S      To/from Edge Hill Depot
+                                                                       To/from Edge Hill Gullet Sidings
+Edge Hill                               FL SL       FL SL              Platform detail must be shown
+Edge Hill West Jn
+Crown Street Jn                        FL DSL       FL SL              TIPLOC LVRPLCS
+                                        USL                            The only route to platform 1 at Liverpool
+                                                                       Lime Street is via the USL
+Liverpool Lime Street                              FL USL              Platform detail must be shown
+                                                    DSL
+
+
+NW2003 RUNCORN TO I.C.I. SALT WORKS (RUNCORN DOCK BRANCH)
+TIMING POINT                          DOWN        UP          CODE     NOTES
+
+Runcorn                                    –           –               Single Line from Runcorn to/from Network
+                                                                       Rail Boundary
+                                                                       To/from Weaver Jn – NW2001
+Network Rail/Ineos Chlor                                               0 miles 69 chains
+Boundary
+Folly Lane I.C.I. Sidings                              –
+
+
+
+
+                                Electronic copy - uncontrolled when printed

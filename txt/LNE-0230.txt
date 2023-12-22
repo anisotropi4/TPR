@@ -1,0 +1,45 @@
+NETWORK RAIL                                 Timetable Planning Rules                                Version: 4.1
+London North Eastern                           Revised Final Rules for                                 Date: 12 October 2023
+                                          Subsidiary Change Timetable 2024                             Page: 227 of 368
+
+
+Humber Road Junction                                                          196 Routes Detailed in the Matrix
+2nd Move →
+              Pass      Pass        Pass        Pass        Pass      Pass    Pass      Pass      Pass       Pass        Pass        Pass      Pas    Pass
+                Up        Up       UM to       UM to        UM to     UM to   UM to       DM       DM      DM from     DM from     DM from       s     DM
+               Main     Main      Receptio    Receptio    Receptio     ESL     Up        from     from     Receptio    Receptio    Receptio     DM    from
+              to Up       to          n        n Road      n Road             Grims     Down      NCB          n        n Road      n Road     from   Down
+              Killing    NCB       Sidings      7 (via      1 (via             by       Killing             Sidings      7 (via      1 (via    ESL    Grims
+              holme     Arrival      (via     Arrival/D   Arrival/D                     holme                 (via     Arrival/D   Arrival/D            by
+                           s      Arrival/D   ep. Line)   ep. Line)                                        Arrival/D   ep. Line)   ep. Line)
+                                  ep. Line)                                                                ep. Line)
+                                                                        1st Move ↓
+Pass UM to
+      Up         H        H          H           H           H         H        H         P         P             P       P           P         P      P
+Killingholme
+Pass UM to
+NCB Arrivals    7½*      n/a         H           H           H         H       7½*       7½        n/a            P       P           P         P      P
+Pass UM to
+ Reception
+Sidings (via    8*        H        10½*        10½*        10½*       10½*    12½*        8        10½        21†       25½†        25½†       20†    11½
+Arrival/Dep.
+     Line)
+Pass UM to
+ Reception
+Road 7 (via     8*        H        10½*         n/a        10½*       10½*    12½*        8        10½        21†        n/a        25½†       20†    11½
+Arrival/Dep.
+     Line)
+Pass UM to
+ Reception
+Road 1 (via     8*        H        10½*        10½*         n/a       10½*    12½*        8        10½        21†       25½†         n/a       20†    11½
+Arrival/Dep.
+     Line)
+Pass UM to
+     ESL        8*        H         9½*         9½*         9½*       9½*     11½*        8        10½       16½†        21†         21†       n/a    10½
+Pass UM to
+Up Grimsby       H        H          H           H           H         H        H         5        7½             5      9½          9½         5      4
+
+
+
+
+                                                                  Electronic copy - uncontrolled when printed.

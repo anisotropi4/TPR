@@ -1,0 +1,52 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                             25th August 2023
+                                                                                     Date:
+                                         Timetable 2024                              Page:     87 of 168
+
+
+
+
+St Mary Cray Junction
+
+Adjustments to Sectional Running Times
+Crossing moves timed at St Mary Cray Junction do not require the standard {½} adjustment. Values should be
+applied as below
+Movement Down                                       Reason                   Value
+Applies to the following Timing Loads for trains on the Slow Line or Fast Line which have run via the Chatham
+Reversible Loop from Chislehurst: Pass Down Chatham Slow to Down Chatham Fast, or pass from Reversible
+Chatham Loop
+All crossing moves inclusive of Freight up to       Speed Differential       ½*
+1200t / TR70 inclusive                                                       {½} approaching next timing point
+Freight between 1400t / 1600t T / TR85              Speed Differential       {1}* approaching next timing point
+Any freight over 1800t / TR100 and above            Speed Differential       {1½}* approaching next timing point
+All passenger trains                                Speed Differential       {½}
+*allowance to be applied at the next timing point
+
+Adjustments to Sectional Running Times
+Movement Up                                        Reason                    Value
+Up Chatham Slow to Reversible Chatham Loop         Approach Control          {½}
+                                                   signal VS216 for
+                                                   40mph using 877
+                                                   crossover
+Up Chatham Fast to Up Chatham Slow                 Approach Control          {½}
+                                                   signal VS218 for
+                                                   40mph using 876-874
+                                                   crossovers and
+                                                   acceleration
+Up Chatham Slow to Up Chatham Fast                 Approach Control          {½}
+                                                   signal VS220 for
+                                                   40mph using 882-880
+                                                   crossovers
+Up Chatham Slow to Up Chatham Loop                 Approach Control          {½}
+                                                   signal VS220 for
+                                                   40mph using 882-880
+                                                   crossovers
+
+Planning Note
+Trains on the Up Chatham Loop are unable to pass VS220 and VS222 until VS290 shows a proceed aspect
+
+
+
+
+                                    Electronic copy - uncontrolled when printed

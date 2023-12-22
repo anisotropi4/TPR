@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                   Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                    Page:      78 of 163
+
+SO500 LONDON VICTORIA TO BRIGHTON
+
+London Victoria (Central)
+For London Victoria (Eastern) Refer to Kent Timetable Planning Rules - SO110
+
+A 4 minute headway between two services booked to attach is to be allowed (inclusive of calling-on allowance)
+
+Planning Note
+Anything planned into Platforms 18 or 19 over 254m/39 SLU/12 cars will foul TVC497 or TVC495 and 214
+crossover. This will mean trains departing Platform 19 will need to use the Brighton Reversible.
+An overlength train departing Platform 18 will force a departure from Platform 19 to use the Brighton Reversible
+
+Platform Re-Occupation               Margin
+Platforms 9 to 12 and 15 to 19       4*
+Platforms 13 and 14 to/from the      3
+Fast Line
+Platforms 13 and 14 to/from the      4*
+Slow Line
+* A 3 minute reoccupation margin can be applied except in the following circumstances:
+1. consecutive movements, or
+2. where a platform is already occupied under permissive working arrangements.
+
+Station Working Requirements:
+At London Termini 3 minutes to be allowed if possible between arrivals on adjacent platforms to allow customers
+to clear in the morning and evening peak.
+Platform starting signals must not be operated for trains via the Battersea Reversible line until permission has
+been granted from the Signaller operating Panel 7 at Victoria ASC for the movement to proceed beyond TVC541
+
+Overnight:
+Maximum use is to be made of Platforms 12 to 15 (These platforms have access to both Fast Line and Slow Line).
+The use of Platform 19 should be kept to a minimum because of difficult customer access.
+
+Use of Platforms:
+Diesel unit services and whenever possible diesel hauled trains must only use Platform 18 and 19.
+
+For amended timetable purposes, Gatwick Express have the option of using the following alternative Platforms:
+Platform Blocked                  Alternative Platform      Remarks
+Platform 13                       Platform 15               Tractor access gate to open
+Platform 14                       Platform 12               Tractor access gate to open
+Platform 13 & 14                  Platform 7 & 8
+
+
+Battersea Pier Junction
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Pass from Down Brighton Fast to Down             Pass Battersea Park on Up Brighton Slow          2½
+Brighton Slow                                    towards Victoria
+Pass from Down Brighton Fast to Down             Depart Battersea Park on Up Brighton Slow        1
+Brighton Slow                                    towards Victoria
+
+
+Battersea Park
+
+Connectional Allowances
+
+
+
+                                Electronic copy - uncontrolled when printed

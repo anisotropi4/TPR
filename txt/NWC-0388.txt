@@ -1,0 +1,64 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version:    4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024        Date:     28th July 2023
+West and Central
+                                                                                    Page:   376 of 443
+
+STATION                          PLATFORM         LENGTH      NOTES
+
+Bootle New Strand (Merseyside)   1                      139   Up line
+Bootle New Strand (Merseyside)   2                      151   Down line
+Bootle Oriel Road (Merseyside)   1                      127
+Bootle Oriel Road (Merseyside)   2                      127
+Bordesley                        Down                   148
+Bordesley                        Up                     148
+Bournville                       Down                   142
+Bournville                       Up                     142
+Bow Brickhill                    1                       37
+Bow Brickhill                    2                       37
+Bramhall                         Down                   141
+Bramhall                         Up                     183
+Braystones                       Single                  41   Additional 32m unlined
+Bredbury                         1                       99
+Bredbury                         2                       89
+Bricket Wood                     Single                 128
+Brierfield                       Single                  60   Additional 18m OOU
+Brinnington                      1                       99
+Brinnington                      2                       99
+Broad Green                      Down                   118
+Broad Green                      Up                     110
+Broadbottom                      Down                   108
+Broadbottom                      Up                     108
+Bromborough                      1                      130   Down line
+Bromborough                      2                      130   Up line
+Bromborough Rake                 1                      128   Down line
+Bromborough Rake                 2                      128   Up line
+Bromley Cross                    Down                    95
+Bromley Cross                    Up                      95
+Bromsgrove                       1                      150   Up Bromsgrove Loop – Down direction
+Bromsgrove                       1                      150   Up Bromsgrove Loop – Up direction
+Bromsgrove                       2                      150   Up Gloucester – Down direction
+Bromsgrove                       2                      150   Up Gloucester – Up direction
+Bromsgrove                       3                      150   Down Bromsgrove Station Loop – Down
+                                                              direction
+Bromsgrove                       3                      150   Down Bromsgrove Station Loop – Up direction
+Bromsgrove                       4                      150   Down Gloucester
+Brunswick                        1                      132   Up line
+Brunswick                        2                      132   Down line
+Bryn                             Down                    80
+Bryn                             Up                      89
+Buckshaw Parkway                 Down                   150
+Buckshaw Parkway                 Up                     150
+Burnage                          Down                   152   Additional 11m OOU
+Burnage                          Up                     152   Additional 11m OOU
+Burneside (Cumbria)              Single                  92
+Burnley Barracks                 Single                  53   Additional 31m OOU
+Burnley Central                  Single                  57   Additional 92m OOU
+Burnley Manchester Road          1                       99
+Burnley Manchester Road          2                       99
+Burscough Bridge                 Down                   127
+Burscough Bridge                 Up                     122
+Burscough Jn                     Single                  81   Additional 140m OOU
+
+
+
+                           Electronic copy - uncontrolled when printed

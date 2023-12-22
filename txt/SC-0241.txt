@@ -1,0 +1,58 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                       Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                             Page:    236 of 242
+
+
+
+
+SC189 WESTFIELD TO REDFORD JN (GOODS LINE)
+Timing Section                      Type     LH      MU       FRT    Remarks
+                                             HST
+                                             22X
+
+Down – Weekdays
+Approaching Westfield               E                          2
+Up – Weekdays
+Westfield – Redford Junction        E                          2
+
+
+SC191 DUNDEE CENTRAL JUNCTION TO ABERDEEN
+Timing Section                      Type     LH      MU       FRT    Remarks
+                                             HST
+                                             22X
+                                             80X
+
+Down – Weekdays
+Approaching Arbroath                E          1       1             Terminating trains only
+Approaching Craigo                  E          1       1       1
+Craiginches South – Aberdeen*       E          1       1       2     For these sections where there is 1 minute
+                                                                     engineering allowance for local terminating
+                                                                     services, this may be increased STP if
+                                                                     required for planned works subject to it
+                                                                     being agreed within DPPP/CPPP
+                                                                     timescales.
+
+                                                                     This provides the appropriate reassurance
+                                                                     for work and access planners that we can
+                                                                     still efficiently and effectively deliver the
+                                                                     required work banks through CP6 on these
+                                                                     lines of route.
+
+                                                                     Allowance can be moved to suit junction
+                                                                     margins.
+
+Up – Weekdays
+Approaching Portlethen              P                  ½             SR trains timed as 170 calling at
+                                                                     Portlethen only
+Approaching Stonehaven              P                  ½             SR trains timed as 170 calling at
+                                                                     Stonehaven only
+Approaching Montrose                E         2*       2*      2     *Terminating trains only
+Approaching Camperdown              E         1        1       1
+Junction
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

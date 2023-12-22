@@ -1,0 +1,55 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                  OFFICIAL
+                                    Final Proposal for Subsidiary                            25th August 2023
+                                                                                   Date:
+                                        Timetable 2024                             Page:     105 of 168
+
+
+ Orpington
+
+ Adjustments to Sectional Running Times
+
+ Connectional Allowance               4
+
+ Crew Change Allowances
+ Traction                                             Value
+ Class 376/465/466 units                              ½
+ Note: Crew changes must be assumed for suburban trains calling off-peak only
+
+ Dwell Time
+ All services                                             1
+
+ Junction Margins (London End)
+ First Movement                       Second Movement                       Margin
+ Down Arrive/Pass                     Conflicting Departure                 1
+ Up Depart/Pass                       Conflicting Down Arrive/Pass          3
+ Depart to Sidings                    Conflicting Down Arrive/Pass          5
+ Depart to Sidings                    Conflicting Up Departure              4
+ Arrive/Pass/Depart                   Conflicting Arrival from Sidings      5
+
+ Junction Margins (Country End)
+ First Movement                       Second Movement                        Margin
+ Up Arrive/Pass                       Conflicting Departure                  1
+ Down Depart/Pass Platform 3          Up Arrive/Pass Platform 4              3*
+ Down Depart/Pass Platform 3 or 5     Up Arrive/Pass Platform 3 or 5         2
+ Down Depart/Pass Platform 4          Up Arrive Platform 4                   4*
+ *Can be reduced by 1 minute if second train has 1 minute or greater allowance applied approaching Orpington
+
+ Overlap Restrictions (London End)
+ Arrive/Depart Platform 1                Arrive Platform 2                   3*
+ Arrive Platform 2                       Depart Platform 1                   2*
+ *Can be simultaneous if arrival into Platform 2 has minimum of {1} adjustment applied approaching Orpington
+
+ Overlap Restrictions (Country End)
+ First Movement                          Second Movement                      Margin
+ Down Arrive Platform 3                  Up Arrive/Pass Platform 4            3*
+ Down Arrive Platform 3                  Up Arrive/Pass Platform 5            2*
+ Down Depart Platform 4                  Down Arrive Platform 3               4*
+ Down Depart Platform 5                  Down Arrive Platform 3               3*
+ Up Arrive/Pass Platform 4 or 5          Down Arrive Platform 3               3*
+ *Can be simultaneous if arrival into Platform 2 3 has minimum of {1} adjustment applied approaching Orpington.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

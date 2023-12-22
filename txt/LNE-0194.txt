@@ -1,0 +1,57 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+London North Eastern                    Revised Final Rules for                       Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                   Page: 191 of 368
+
+
+Seaton Snook Junction/Seaton Carew
+    •   Only one train at a time allowed on Seaton on Tees branch
+
+
+Hartlepool
+
+Dwell Time
+180 Southbound                      1½
+All other Southbound                1
+All Northbound                      1½
+
+Adjustment to Sectional Running times
+Movement Down                                  Reason                                          Value
+Arrivals into Platform 1 (Bay Platform)        Slower approach                                 ½
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Depart/pass to Sunderland                       Arrive platform from Sunderland                 4
+Depart to Stockton                              Arrive/pass from Stockton                       5½
+Pass to Hartlepool Docks                        Arrive/pass from Sunderland                     7½
+Pass Up on Up Line                              Depart to Hartlepool Docks                      1
+Pass Up on Up Line                              Pass to Hartlepool Docks                        2
+Pass to Cliffe House Up Loop                    Depart towards Stockton                         4½
+
+
+Minimum Turnround                   5 Trains from Newcastle or Sunderland
+                                    10 All other trains
+Restrictions:
+   • Hartlepool Docks: only one train at a time on branch
+
+
+Seaham
+
+Adjustments to Sectional Running Times
+Movement Up                                        Reason                                     Value
+Pass to Seaham Harbour                             Approach Control                           1
+
+Junction Margins
+First Movement                                    Second Movement                            Margin
+Depart/pass to Hartlepool                         Depart Seaham Harbour                      2½
+Pass from Seaham Harbour                          Up Depart Seaham                           1½
+Pass from Seaham Harbour                          Up Pass to Hartlepool                      2
+Depart to Seaham Harbour                          Up arrive/Up pass to Hartlepool            6½
+
+Minimum Turnround               10 via Dawdon
+Restrictions:
+   • Seaham Harbour: only one train at a time on branch
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

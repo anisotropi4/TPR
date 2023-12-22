@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:    4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                   Date:     27th October 2023
+                                           Timetable 2024                             Page:     61 of 178
+
+SW155 TOTTON FAWLEY LOOPS TO FAWLEY
+TIMING POINT                       DOWN           UP             NOTES
+
+Marchwood – Fawley                      One train working        Single line. No Signaller Token Working.
+
+
+SW160 BROCKENHURST TO LYMINGTON PIER
+TIMING POINT                       DOWN           UP             NOTES
+
+Brockenhurst – Lymington Pier           One train working        Single line.
+
+
+SW165 HAMWORTHY JUNCTION TO HAMWORTHY GOODS
+TIMING POINT                       DOWN           UP             NOTES
+
+Hamworthy – Hamworthy Goods             One train working        Single line.
+
+
+SW170 WARMINSTER TO WILTON JUNCTION
+TIMING POINT                       DOWN           UP             NOTES
+
+Wilton Junction – Wishford         AB+2           AB+2           TCB plan as AB.
+Wishford – Wylye AHB               AB+½           AB+1½          TCB plan as AB.
+Wylye AHB – Upton Lovell AHB       AB+1½          AB+1½          TCB plan as AB.
+Warminster Signal W308 – Upton     AB+1½                         TCB plan as AB.
+Lovell AHB
+Upton Lovell AHB – Warminster                     AB+1           TCB plan as AB.
+Signal W301
+
+
+SW170A WILTON JUNCTION G.S.P. TO QUIDHAMPTON SIDINGS
+TIMING POINT                       DOWN           UP             NOTES
+
+Wilton Junction G.S.P. –                One train working
+Quidhampton Sidings
+
+
+SW175 CASTLE CARY JUNCTION TO DORCHESTER JUNCTION
+TIMING POINT                       DOWN           UP             NOTES
+
+Castle Cary – Yeovil Pen Mill      AB+0           AB+1           Single line. TCB plan as AB.
+Yeovil Pen Mill – Maiden Newton    AB+4           AB+3           Single line. Key token working.
+Maiden Newton – Dorchester         AB+2           AB+2           Single line. Tokenless Block plan as AB.
+West
+Dorchester West – Dorchester       AB+2           AB+2           Single line. TCB plan as AB.
+Junction
+
+
+SW180 RAYNES PARK TO LEATHERHEAD
+TIMING POINT                       DOWN           UP             NOTES
+
+Raynes Park – Motspur Park         2 – Non-       2 – Non-
+                                   stopping       stopping
+                                   2½ -           2½ -
+                                   Stopping       Stopping
+
+
+                                  Electronic copy - uncontrolled when printed.

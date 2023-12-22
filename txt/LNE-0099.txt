@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                           Version: 4.1
+London North Eastern                       Revised Final Rules for                            Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                        Page: 96 of 368
+
+
+LN736 CLEETHORPES TO NUNNERY MAIN LINE JUNCTION VIA RETFORD
+TIMING POINT                           DOWN               UP            NOTES
+
+Cleethorpes to Brocklesby              Down               Up
+                                       4                  4
+                                       All stations       Non–stop
+                                       can depart 3       can arrive
+                                       minutes            3 minutes
+                                       behind non–        behind all
+                                       stop.              stations
+Brocklesby to Barnetby                 5 DM               4
+                                       8 DG               5 Following
+                                                          Freight
+                                                          over 800
+                                                          tonnes
+
+Barnetby to Wrawby Junction            4 Following        4
+                                       Passenger          5 Following
+                                       5 Following        Freight
+                                       Freight            over 800
+                                                          tonnes
+
+Wrawby Junction to Brigg               6*                 6*            * Single line TCB
+Brigg to Kirton Lime Sidings           AB+2               AB+2
+Kirton Lime Sidings to                 9**                8**           ** Single line TCB Passing loop at Northorpe
+Gainsborough Central
+Gainsborough Trent Junction to         5                  5
+Retford
+Retford to Worksop                     6                  5
+Worksop to Brancliffe East             4                  4
+Junction
+Brancliffe East Junction to Kiveton    AB+2*              AB+2*         *TCB To be planned as AB
+Park
+Kiveton Park to Woodhouse              AB+2               AB+2
+Junction
+Woodhouse Junction to Woodburn         AB+2               AB+2
+Junction
+Woodburn Junction to Nunnery           4                  4
+Main Line
+
+LN740 GRIMSBY MARSH WEST JUNCTION TO HUMBER ROAD JUNCTION
+TIMING POINT                           DOWN          UP            NOTES
+
+Marsh West Junction to Great               AB+2           AB+2
+Coates No. 1
+Great Coates No. 1 to Pyewipe                     AB+2*            *Single Line AB
+Road SB
+Pyewipe Road SB to Immingham                      AB+2*            *One train in section, ETB
+East Junction
+Immingham East Jn to Humber                AB+2*         AB+2*     *TCB planned as AB
+Road Jn
+
+LN741 HABROUGH JUNCTION TO ULCEBY SOUTH JUNCTION
+TIMING POINT                           DOWN          UP            NOTES
+
+Habrough Junction to Ulceby            4             4
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,71 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                        Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                   12th September
+                                                                                       Date:
+                                               2024                                            2023
+                                                                                       Page:   135 of 183
+
+South Tottenham
+
+Junction Margins
+Movement                                                                                             Margin
+Fouling move                                                                                         3
+
+
+Blackhorse Road
+
+Dwell Time                                                                                           1
+
+
+Woodgrange Park
+
+Adjustments to Sectional Running Times
+Movement Down
+Movement                  Timing Load                       Reason                         Allowance
+Pass from Forest Gate     Freight up to 1235t/TR70          Speed Differential             {½} approaching
+Junction                  (inclusive)                                                      Barking Station Junction
+                          Freight over 1235t/TR70           Speed Differential             {1} approaching Barking
+                                                                                           Station Junction
+Movement Up
+Movement                                          Reason                                             Allowance
+Freight trains passing Barking from Ripple
+Road Jn via the Up Goods (GL) / Departure         Not at line speed passing Barking                  {1}
+Line
+Freight trains passing from Barking which use
+                                                  Not linespeed at Barking due to seeing
+the Up Tilbury (ML) and contain pathing time                                                         {1½}
+                                                  restrictive aspects on the approach
+between Dagenham Dock and Barking
+Trains passing towards Forest Gate Jn (if none                                                       {1}
+                                                  Differential linespeed
+of the above apply)                                                                                  except 357
+
+Junction Margins
+Movement                                                                                             Margin
+Fouling move                                                                                         3
+
+
+Barking Station Junction
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+                                                                                                     {½}
+Pass to Barking Platform 1                        Via slower route                                   approaching
+                                                                                                     Barking
+Pass from Barking Platform 1                      Via slower route                                   {½}
+
+Junction Margins
+Movement                                                                                             Margin
+Fouling move                                                                                         2
+
+Overlap Restrictions
+No pathing time to be included in the Up direction between Barking and Barking Station Junction when following a
+train from Barking platform 1 as the signal overlap fouls the junction. Trains are regulated at Barking Station for
+conflicts at Barking Station Junction.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

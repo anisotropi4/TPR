@@ -1,0 +1,59 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    290 of 443
+
+
+NW2021 EARLESTOWN SOUTH JN TO EARLESTOWN WEST JN (LIVERPOOL
+CURVE)
+
+Earlestown
+
+See entry under route NW1021 Winwick Jn to Golborne Jn (via Earlestown)
+
+
+NW2023 SPRINGS BRANCH JN TO HUYTON JN (ST HELENS LINES)
+
+Springs Branch Jn
+
+See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+
+
+St. Helens Central
+
+Dwell Time
+DMU (All)                              1
+
+Minimum Turnround Time – Trains changing direction at end of journey
+DMU/EMU – shunting to a       7
+different platform
+
+
+NW2027 EDGE HILL BOOTLE BRANCH JN TO LIVERPOOL DOCKS
+
+Edge Lane Jn
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+All conflicting moves                                                                             4
+
+
+Strand Road Level Crossing
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Train from Liverpool Euro Metal, Bulk Handling   Train depart Stop Board 1 to any Port of         10
+Terminal or Gladstone Dock                       Liverpool terminal
+Train to Seaforth Container Terminal             Train from Liverpool Euro Metal, Bulk Handling   10
+                                                 Terminal or Gladstone Dock departs from
+                                                 Strand Road Level Crossing
+Train to Seaforth Container Terminal             Train from Seaforth Container Terminal departs   7
+                                                 from Strand Road Level Crossing
+Train to Liverpool Euro Metal, Bulk Handling     Train from Liverpool Euro Metal, Bulk Handling   7
+Terminal or Gladstone Dock                       Terminal or Gladstone Dock departs Strand
+                                                 Road Level Crossing
+
+
+
+
+                              Electronic copy - uncontrolled when printed

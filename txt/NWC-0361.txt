@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:      28th July 2023
+West and Central
+                                                                                        Page:     349 of 443
+
+Ashton Moss North Jn
+
+Adjustments to Sectional Running Time
+Movement                                         Reason                               Value
+Any train routed non-stop from Down Ashton to    Flashing yellow aspects              ½
+Up Crowthorne
+Pass from Down Crowthorne to Up Ashton           Acceleration                         ½ passenger
+                                                                                      ½ freight up to
+                                                                                      1800t/TR100
+                                                                                      1 freight 2000t/TR115 and
+                                                                                      above
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Freight passes from Down Ashton to Up            Train from Stalybridge                             4
+Crowthorne
+Passenger service passes from Stalybridge        Freight passes from Down Ashton to Up              3½
+                                                 Crowthorne
+Train passes from Stalybridge on Up Ashton       Train passes from Down Crowthorne to Up            2½
+                                                 Ashton
+
+
+Stalybridge
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                             Value
+Non-stop train from Huddersfield direction       Approach control                                   ½
+towards Ashton Moss North Jn via Platforms 1
+Train from Guide Bridge or Ashton Moss North     Approach control                                   1
+Jn direction stopping at Platform 2
+Train from Guide Bridge direction passing        Slower speed through platform and crossover        ½
+Stalybridge via UDM or Platform 3
+Train from Guide Bridge or Ashton Moss North     Restrictive aspects                                ½
+Jn stopping at Platform 1
+
+Dwell Time
+All trains                          1
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Train arrives or passes from Guide Bridge or     Conflicting departure towards Guide Bridge or      1
+Ashton Moss North Jn                             Ashton Moss North Jn
+Train arrives or passes platform 4 from Guide    Train passes towards Ashton Moss North Jn          2
+Bridge                                           via platforms 1 or 3
+Train arrives or passes platform 4 from Guide    Train arrives or passes platform 3 from Ashton     2½
+Bridge                                           Moss North Jn
+Train arrives or passes platform 3 from Ashton   Train arrives or passes platform 4 from Guide      2
+Moss North Jn                                    Bridge
+Train passes Stalybridge towards Diggle Jn       Train departs Stalybridge towards Diggle Jn        2*
+Train departs Stalybridge towards Diggle Jn      Consecutive departure towards Diggle Jn            2½*
+Train arrives platform 1 or 3 from Diggle Jn     Train passes 1 or 3 from Diggle Jn direction       3
+direction
+Freight train arrives/passes platforms 1 or 3    Train passes 1 or 3 from Diggle Jn direction       3
+from Diggle Jn direction
+Train departs Ashton Under Lyne towards          Train departs/passes towards Ashton Moss           ½*
+Ashton Moss North Jn                             North Jn not calling at Ashton Under Lyne
+
+
+                              Electronic copy - uncontrolled when printed

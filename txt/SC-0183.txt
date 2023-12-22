@@ -1,0 +1,58 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                       Version:   4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                            Page:    178 of 242
+
+Ladybank
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Down train departs Ladybank through Up/Down     Slow speed on Up/Down Branch Loop                1
+Branch Loop to Perth (When an Up train is
+stood on the Up/Down Branch at Signal
+EB668) after Ladybank
+Down train passes Ladybank through Up/Down      Slow speed on Up/Down Branch Loop                2
+Branch Loop to Perth (When an Up train is
+stood on the Up/Down Branch at Signal
+EB668) after Ladybank
+
+Movement Up                                     Reason                                           Value
+Up train pass from Perth after Ladybank         Acceleration purposes                            ½
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Arrive Up/Down Branch Loop from South           Arrive/Pass from Newburgh                        4
+Arrive/pass Ladybank station from Newburgh      Depart Up/Down branch Loop to Newburgh           ½
+Arrive Up/Down Branch Sig.EB668 from            Depart Ladybank station to Newburgh              3
+Newburgh
+Arrive Up/Down Branch Sig.EB668 from            Pass Ladybank station to Newburgh                3
+Newburgh
+Arrive Signal EB668 from Newburgh               Down train for Newburgh arrive Ladybank          3
+Pass/Depart Ladybank station to Newburgh        Depart Up/Down Branch Sig.EB668 to South         2
+Up Train Pass/Depart Platform 2 for Thornton    Down Train pass to Cupar/Newburgh                5
+North Junction
+Down Pass/Depart to Cupar                       Up Train Arrive/Pass Platform 2 from             2½
+                                                Newburgh
+Up passenger pass on Up Main                    Up pass/arrive from Newburgh                      4
+Note:
+For trains travelling towards Newburgh that are passing a service at Ladybank Sig668 the down service must be
+timed to travel via Ladybank Branch Loop and have the {2} added
+
+
+Leuchars
+
+Dwell Time
+MU                                  1
+LH                                  2
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Down depart Leuchars (MU)                        Pass / arrive Cupar                             3½
+Down depart Leuchars (LH)                        Pass / arrive Cupar                             4
+Pass Leuchars                                    Pass / arrive Cupar                             3
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

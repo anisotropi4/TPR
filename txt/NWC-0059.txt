@@ -1,0 +1,62 @@
+NETWORK RAIL                       Timetable Planning Rules                     Version:   4
+Region: North         Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                   Page:   47 of 443
+
+
+MD425 TYSELEY SOUTH JN TO BEARLEY JN
+TIMING POINT                    DOWN        UP          CODE     NOTES
+
+Tyseley                              –                           Platform detail must be shown
+                                                                 To/from Bordesley Jn – MD401
+                                                                 To/from Small Heath South Jn – MD435
+Tyseley South Jn                  – DTS          –        X      Trains crossing to Tyseley LMD or Tyseley
+                                                                 Up and Down Through Siding to be timed
+                                                                 here
+Spring Road                          –           –        S
+Hall Green                           –           –        S
+Yardley Wood                                     –        S
+Shirley                              –           –        S
+Whitlocks End                        –           –               Platform detail must be shown
+Wythall                              –           –        S
+Earlswood                            –           –        S
+The Lakes                            –           –        S
+Wood End                             –           –               Timing point for stopping trains in the Up
+                                                                 direction and all trains in the Down
+                                                                 direction
+Signal TB3478                                    –               Timing point for all trains in the Up
+                                                                 direction
+Danzey                               –           –        S
+Henley In Arden                      –           –
+Wooton Wawen                         –           –        S
+Bearley Jn                                       –               To/from Stratford upon Avon – MD415
+
+
+MD430 DROITWICH SPA TO STOURBRIDGE NORTH JN
+TIMING POINT                    DOWN        UP          CODE     NOTES
+
+Droitwich Spa                        –                           To/from Worcester Tunnel Jn (Down) and
+                                                                 Droitwich Signal 68 (Up) – MD900
+Drotiwich Spa Jn
+Hartlebury                           –           –
+Kidderminster Down Goods Loop        –           –               See Section 5.3 MD430
+Kidderminster Turnback Siding        –                    S      See Section 5.3 MD430
+Kidderminster Severn Valley          –           –
+Railway
+Kidderminster                        –           –               Platform detail must be shown
+Blakedown                            –           –
+Hagley                               –           –        S
+Stourbridge Junction                             –               Platform detail must be shown
+                                                                 To/from Stourbridge Town – MD445
+Stourbridge Middle Jn
+Stourbridge Down Goods Loop          –                    S
+Stourbridge Down Siding                          –        S      TIPLOC STRBSDG
+Stourbridge Jn Depot                 –           –        S
+Stourbridge North Neck               –                    S      TIPLOC STRBHDS
+Stourbridge North Jn                                             To/from Rowley Regis – MD435
+                                                                 To/from Kingswinford Jn – MD450
+
+
+
+
+                          Electronic copy - uncontrolled when printed

@@ -1,0 +1,64 @@
+ NETWORK RAIL                            Timetable Planning Rules                      Version:    4.3
+ Route: Sussex                           Final Rules for Subsidiary                    Date:       18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                       Page:       158 of 163
+
+ STATION                          PLATFORM AND LINE              USABLE      NOTES
+                                                                 LENGTH
+ Winchelsea                       - Single                          80       Down direction
+ Winchelsea                       - Single                          80       Up direction
+ Wivelsfield                      1 - Up Main                      246       Down direction
+ Wivelsfield                      1 - Up Main                      246       Up direction
+ Wivelsfield                      2 - Down Main                    246       Down direction
+ Wivelsfield                      2 - Down Main                    246       Up direction
+ Woldingham                       1 - Up East Grinstead            182
+ Woldingham                       2 - Down East Grinstead          182
+ Woodmansterne                    1 - Up Tattenham                 123
+ Woodmansterne                    2 - Down Tattenham               123
+ Worthing                         1 - Up Passenger Loop            249
+ Worthing                         2 - Up Brighton                  249
+ Worthing                         3 - Down Brighton                248
+
+
+5.4.1 Loop Lengths
+The table below shows the maximum length of train that may use each of the loops at the following locations. All
+lengths are in SLU (Standard Length Unit – a SLU measures 21 feet) and metres. All lengths are measured from the
+signal at the exit to the loop to the block joint in rear unless started otherwise. All lengths quoted exclude allowance
+for locomotives or stand back unless stated otherwise. Check Sectional Appendix for locations where standage is
+not quoted.
+ SO250 FACTORY JUNCTION TO MITRE BRIDGE JUNCTION
+ LOCATION                               DIRECTION          USABLE            NOTES
+                                                           LENGTH
+                                                       SLU    METRES
+ Kensington Olympia Down West           Down           58        372         This avoids fouling the track circuits
+ London (through line)                                                       preventing a route being set via the
+                                                                             Platform Loop (Platform 2)
+ Kensington Olympia Up West             Up             58        372         This avoids fouling the track circuits
+ London (through line)                                                       preventing a route being set via the
+                                                                             Platform Loop (Platform 2)
+
+
+ SO250A GROSVENOR BRIDGE JUNCTION TO FACTORY JUNCTION
+ LOCATION                               DIRECTION          USABLE            NOTES
+                                                           LENGTH
+                                                       SLU    METRES
+ Stewarts Lane Depot Up Loop            Up             38        243
+
+
+ SO250B BATTERSEA PIER JUNCTION TO LONGHEDGE JUNCTION
+ LOCATION                               DIRECTION          USABLE            NOTES
+                                                           LENGTH
+                                                       SLU    METRES
+ Battersea Loop (Runround)              Up             38        243
+
+
+ SO500 LONDON VICTORIA TO BRIGHTON
+ LOCATION                                    DIRECTION          USABLE            NOTES
+                                                                LENGTH
+                                                            SLU   METRES
+ Redhill Down Passenger Loop                 Down           38         243        This is Platform 3
+ Down Redhill (Middle Road)                  Down           43         278
+
+
+
+                                  Electronic copy - uncontrolled when printed

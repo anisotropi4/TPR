@@ -1,0 +1,62 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                          Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                 Date:    28/07/2023
+                                                                                                Page:    59 of 242
+
+SC011 LAW JUNCTION TO UDDINGSTON JUNCTION (VIA HOLYTOWN)
+TIMING POINT                        DOWN        UP             NOTES
+
+Law Junction - Holytown Junction    4           4
+Holytown Junction – Uddingston      4           4
+Junction
+
+
+
+SC023 MOTHERWELL TO NEWTON (VIA HAMILTON)
+TIMING POINT                        DOWN        UP             NOTES
+
+Motherwell – Haughhead Junction     3          4½
+Haughhead Junction – Hamilton              AB+2½*              Single Line
+Central                                                        *Down trains may depart Haughhead Jn signal 419
+                                                               and up trains may depart Hamilton Central 1 minute
+                                                               after the preceding train has cleared the section
+Hamilton Central – Newton           6           4½
+
+
+
+
+SC024 LARKHALL TO HAUGHHEAD JUNCTION
+TIMING POINT                        DOWN        UP             NOTES
+
+Larkhall – Allanton Loop                    AB+1               Single Line
+Allanton Loop – Haughhead                  AB+1½               Single Line
+Junction
+
+
+
+SC025 RUTHERGLEN TO FINNIESTON JUNCTIONS
+TIMING POINT                        DOWN        UP             NOTES
+
+Rutherglen – Finneston Junctions    3           3              Note: there are no intermediate signals between
+                                                               Glasgow Central Low Level and Argyle Street in
+                                                               either direction. A Down train cannot depart Argyle
+                                                               Street until at least 1 minute after preceding trains
+                                                               has departed Glasgow Central Low Level; an Up
+                                                               train cannot depart Glasgow Central Low Level until
+                                                               at least 1 minute after preceding train has departed
+                                                               Argyle Street.
+
+
+
+
+SC029 LARKFIELD JUNCTION TO SHIELDS JUNCTION
+TIMING POINT                        DOWN        UP             NOTES
+
+Larkfield Junction – Shields        4           4
+Junction
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

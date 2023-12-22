@@ -1,0 +1,65 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                       Version:   4
+Scotland                    Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                          Page:    44 of 242
+
+SC178 THORNTON SOUTH JUNCTION TO THORNTON WEST JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Thornton South Junction          –           –                     To/From Kirkcaldy – SC171
+Glenrothes With Thornton         –           –                     Platform detail must be shown
+Thornton West Junction                                             To/From Cowdenbeath – SC173
+
+
+SC181 LADYBANK JUNCTION TO HILTON JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Ladybank                         –           –                     To/from Thornton North Junction – SC171
+Ladybank Branch Loop             –           –              S
+Newburgh                         –           –
+Hilton Junction                  –           –                     To/from Perth – SC119
+
+
+SC183 STIRLING TO CHARLESTOWN JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Stirling                         –           –                     Platform detail must be shown
+Stirling Signal 6504             –           –              S      Reversal location only
+Stirling North                   –           –              S      Reversal location only
+Causewayhead Junction            –           –
+Cambus Loop                      –           –                     Platform / line detail must be shown
+Alloa                            –           –                     Platform / line detail must be shown
+Alloa Loop                       –           –                     Platform / line detail must be shown
+Kincardine Level Crossing        –           –              S
+Longannet P.S.                   –           –              F
+Longannet S.B.                   –           –              F
+Charlestown Junction             –           –              X
+
+
+SC189 WESTFIELD TO REDFORD JUNCTION (GOODS LINE)
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Westfield Opencast               –           –              F
+Skeddoway                        –           –              F      To/from Redford Junction
+Redford Junction                 –           –              X      To/from Thornton Yard SC173
+
+
+
+
+SC191 DUNDEE CENTRAL JUNCTION TO ABERDEEN
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Dundee Central Junction          –           –                     To/from Tay Bridge South – SC171
+                                                                   To/from Errol – SC119
+Dundee                           –           –                     Platform detail must be shown
+Camperdown Junction              –           –                     Timing point can be omitted from a ‘150
+                                                                   TIPLOC’ schedule
+Broughty Ferry                   –           –                     Timing point can be omitted from a ‘150
+                                                                   TIPLOC’ schedule
+Balmossie                        –           –              S
+Monifieth                        –           –              S
+Barry Links                      –           –              S
+Golf Street                      –           –              S
+
+                                Electronic copy - uncontrolled when printed.

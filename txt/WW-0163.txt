@@ -1,0 +1,67 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                         Version:     4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                        Date:      6th October 2023
+                                         Change Timetable 2024                               Page:      160 of 289
+
+
+Entry into Down Goods Loop from Didcot        Approach control               All traffic              {1}
+direction
+From Up Oxford towards Cowley                 Approach control               All traffic              {1}
+
+Adjustments to Sectional Running Times (allowance to be shown after this location)
+Movement                                 Reason                    Timing Load                        Value
+From Kennington Up Goods Loop            Accleration               Class 6 freight                    {½}
+                                                                   600-800t / TR40
+                                                                   Class 6 freight                    {1}
+                                                                   1000t / TR55
+                                                                   Class 6 freight                    {1½}
+                                                                   1200t / TR70
+                                                                   Class 6 freight                    {2}
+                                                                   1400-1600t /
+                                                                   TR85
+                                                                   Class 6 freight                    {2½}
+                                                                   1800-2000t /
+                                                                   TR100/115
+                                                                   Class 6 freight                    {3}
+                                                                   2200t
+                                                                   Class 6 freight                    {3½}
+                                                                   2400t / TR130
+                                                                   Class 4 freight                    {½}
+                                                                   400t
+                                                                   Class 4 freight                    {1}
+                                                                   600t
+                                                                   Class 4 freight                    {1½}
+                                                                   800t
+                                                                   Class 4 freight                    {2}
+                                                                   1000-1600t
+From Cowley to Down or Up Oxford         Acceleration              All traffic                        {1}
+
+Hinksey North Junction
+
+Adjustments to Sectional Running Times
+Movement                                      Reason                         Timing Load              Value
+Pass from Kennington Jn on Down Oxford        Approach Control               All                      {1}
+to Up Oxford or Up Oxford Relief
+Pass Oxford to Hinksey Reception Lines or     Approach Control               All                      {½} and also {½}
+Hinksey Yard                                                                                          approaching
+                                                                                                      Oxford
+From Hinksey Reception Lines or Hinksey       Acceleration                   All                      {½} approaching
+yard passing Oxford                                                                                   Oxford and {½}
+                                                                                                      after Oxford
+
+
+Oxford
+
+Adjustments to Sectional Running Times
+Movement                                             Reason                          Timing Load            Value
+Up train from Oxford North Jn passing platform 3     Junction differential           All                    {½}
+from Wolvercote Jn on Up Oxford
+Down train from Hinksey North Jn passing             Junction differential           All Traffic            {½}
+Platform 4 from Down Oxford
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

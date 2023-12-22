@@ -1,0 +1,58 @@
+                                                               OFFICIAL
+
+NETWORK RAIL                                   Timetable Planning Rules                               Version:      4.1
+East Midlands                            Final Subsidiary Change Rules 2024                             Date:       13th September
+                                                                                                                    2023
+                                                                                                        Page:       7 of 123
+
+
+1.3 Definitions
+The list below is not an exhaustive one but is intended to give readers an understanding of some of the terminology
+as used for the purposes of this document.
+
+If any term in the Timetable Planning Rules is unclear, please contact the compiler on the telephone number shown
+on the cover.
+
+1.3.1 Train Classification
+
+Classification      Description
+1                   Express passenger train; or
+                    Nominated postal or parcels train; or
+                    Breakdown or overhead line equipment train going to clear the line (IZ99); or
+                    Traction unit going to assist a failed train (1Z99)
+                    Snow plough going to clear the line (1Z99)
+2                   Ordinary passenger train; or
+                    Officers’ special train (2Z01)
+3                   Freight train if specially authorised; or
+                    A parcels train; or
+                    Autumn-railhead treatment train; or
+                    Empty coaching stock train if specially authorised
+4                   Freight train which can run up to 75 mph (120 km/h)
+5                   Empty coaching stock train
+6                   Freight train which can run up to 60 mph (95 km/h)
+7                   Freight train which can run up to 45 mph (70 km/h)
+8                   Freight train which can run up to 35 mph (55 km/h)
+9                   Class 373 train; or
+                    Other passenger train if specially authorised
+0                   Light locomotive or locomotives
+Source The Rule Book GE/RT8000/TW1 Preparation and Movement of Trains Issue 11 Section 6 Classification of trains
+
+
+
+
+Passenger Services
+
+TID                 Class 1 services (WTT)
+1Axx                NOT USED
+1Bxx                Nottingham to St Pancras
+                    Leeds or Lincoln via Nottingham to St Pancras
+1Cxx                Sheffield to St Pancras
+                    Scarborough/York/Leeds via Sheffield to St Pancras
+1Dxx                Birmingham New Street to Nottingham
+                    St Pancras to Nottingham
+                    St Pancras to Leeds/Lincoln/Derby via Nottingham
+
+
+
+
+                                              Electronic copy - uncontrolled when printed.

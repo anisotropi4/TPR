@@ -1,0 +1,70 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                       Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                      Date:
+                                               2024                                           2023
+                                                                                     Page:    134 of 183
+
+Acton Canal Wharf Junction
+
+Length Limits
+Down Cricklewood Run-round                                                                              43 SLUs
+
+Junction Margins
+First Movement                                         Second Movement                                  Margin
+Train crossing towards MD170                           Down train to Acton Wells Junction               3
+
+
+EA1370 GOSPEL OAK TO BARKING TILBURY LINE JUNCTION WEST
+
+Gospel Oak
+
+Minimum Turnround Time                                                                              5
+
+
+Gospel Oak Signal NL1306
+
+For ARS regulating purposes, in the Westbound direction and so as not to block the London Overground services
+in the Bay platform at Gospel Oak ARR and DEP times with activities A and * to be used and not pathing time
+
+Standage Length
+Up T&H Line (Westbound) towards Gospel Oak standing at Gospel Oak Signal NL1306                     84 SLUs
+
+Restrictions
+Trains longer than 84 SLUs stopped at Gospel Oak Signal NL1306 will foul Junction Road Junction. In this
+circumstance junction margin and headway at Junction Road Junction applies between the departure time for the
+first train departing Gospel Oak Signal NL1306 and the passing time of the second train at Junction Road
+Junction.
+
+Junction Road Junction
+
+Junction Margins
+Movement                                                                                            Margin
+Fouling move                                                                                        3
+
+
+Upper Holloway
+
+Junction Margins
+Movement                                                                                            Margin
+Fouling move                                                                                        3
+
+
+Harringay Park Junction
+
+Junction Margins
+Movement                                                                                            Margin
+Fouling move                                                                                        3
+
+
+Seven Sisters Chord
+
+A train cannot be allowed on to the chord line whilst a train on the Down (Eastbound) T&H line is approaching
+South Tottenham
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

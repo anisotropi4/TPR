@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                          Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                 Date:    28/07/2023
+                                                                                                Page:    114 of 242
+
+
+
+
+Barassie Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                             Value
+Up Freight train from Barassie Yard towards       Acceleration                                       2½*
+Irvine or Kilmarnock
+Up Goods train from Barassie UGL towards          Acceleration                                       1½*
+Irvine, Kilmarnock or Caledonian Paper
+
+Movement Down                                     Traction                                           Value
+Down train from Irvine to DPL                     Approach control                                   1½
+Down train from single line not stopping in DPL   Passenger and freight trailing up to 400t          ½*
+or at Troon (acceleration)                        (TR30)
+                                                  Trailing 600t to 1000t (TR35 to TR50)              1*
+                                                  Trailing >=1200t (above TR55)                      1½*
+
+*To be applied approaching next timing point
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Up train to Kilmarnock/Caledonian Paper           Down train pass from Irvine                        4
+Up train to Kilmarnock/Caledonian Paper           Depart to Troon                                    1
+Pass from Single line to Troon                    Depart Yard                                        1
+Pass from Single Line to Troon                    Depart UGL to Single Line                          1
+Pass from Single Line to Troon                    Pass from Troon to Single Line                     2
+Pass/depart Down Ayr to Troon                     Depart Yard                                        1
+Pass/depart Down Ayr to Troon                     Depart UGL to Single Line                          1
+Pass/depart Down Ayr to Troon                     Pass from Troon to Single Line                     2
+Pass Down Ayr to Troon (stopping Troon)           Down depart DPL                                    3
+Depart Down Ayr to Troon (stopping Troon)         Down depart DPL                                    4
+Pass Down Ayr to Troon (not stopping Troon)       Down depart DPL                                    2½
+Depart Down Ayr to Troon (not stopping Troon)     Down depart DPL                                    3½
+Pass/depart Down Ayr to Troon                     Pass from Single Line                              2½
+Depart Yard to Single Line                        Arrive DPL from Irvine                             4
+Depart Yard to Irvine                             Down arrive from Irvine                            6
+Depart Yard to Irvine                             Down pass from Irvine                              4½
+Depart Yard to Irvine                             Down pass from Single Line                         5
+Passenger arrive DPL                              Down pass                                          6*
+Goods arrive DPL from Single Line                 Down pass from Irvine                              Nil*
+Goods arrive DPL from Irvine                      Down pass from Single Line                         2*
+Train passes Barassie Junction toward             Train departs Irvine CP (Meadowhead)               5
+Kilmarnock
+Pass from Single Line                             Train departs Irvine CP (Meadowhead)               1
+Depart UGL to Single Line                         Depart to Troon                                    2
+Depart UGL to Single Line                         Pass from Irvine                                   4
+Arrive UGL from Troon                             Arrive Troon from Ayr                              2
+Arrive UGL from Troon                             Pass from Ayr (not stopping Troon)                 3
+Pass to Irvine                                    Depart UGL to Single Line                          1½
+Pass to Irvine                                    Depart UGL to Irvine                               3
+Arrive from Troon going to Irvine                 Depart UGL to Single Line                          1½
+Depart to Irvine                                  Depart UGL to Irvine                               3
+Pass to Single Line                               Depart UGL to Single Line                          4
+Pass to Single Line                               Depart UGL to Irvine                               1½
+
+Restrictions
+
+                                   Electronic copy - uncontrolled when printed.

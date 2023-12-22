@@ -1,0 +1,56 @@
+NETWORK RAIL                         Timetable Planning Rules                    Version: 4.1
+London North Eastern                   Revised Final Rules for                     Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                 Page: 178 of 368
+
+
+Durham Up Loop
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Up Passenger arrive inside                     Next up train passes Durham                     4
+Up Freight arrive inside                       Next up train passes Durham                     5
+Pass Durham on Up Main                         Depart Loop                                     2
+Depart Durham on Up Main                       Depart Loop                                     3
+
+
+Durham Down Loop
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Arrive Down Loop                               Next train arrives Durham                       4
+Pass Durham                                    Depart Down Loop                                3
+Depart Durham                                  Depart Down Loop                                4
+
+
+Chester–le–Street
+
+Dwell Time
+Class 14x/150/156                  ½
+Class 158/185                      1
+XC 22x                             1½
+
+
+Birtley Junction
+
+Adjustment to Sectional Running Times
+Movement Down                                        Reason                             Value
+Pass to Yard/Slow Line                               Deceleration                       1½
+Movement Up                                          Reason                             Value
+Pass Birtley Junction from Yard/Slow Line            Acceleration                       After Birtley
+                                                                                        Junction:
+
+                                                                                        1 Passenger
+
+                                                                                        Freight
+                                                                                        400t – 1
+                                                                                        600t – 1½
+                                                                                        800t -1800t - 2½
+                                                                                        2000t – 2800t – 3
+                                                                                        3000t – 3200t – 3½
+
+Junction Margins
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,54 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                           Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                  Date:    28/07/2023
+                                                                                                 Page:    166 of 242
+
+SC147 BERWICK TO EDINBURGH WAVERLEY
+
+Grantshouse
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+Up train pass Grantshouse                          Up train depart Grantshouse UPL                    2
+Down train pass Grantshouse                        Down train depart Grantshouse                      2
+
+Minimum Run Round Allowance           30
+
+
+
+
+Torness GSP
+
+Junction Margins
+First Movement                                   Second Movement                                Margin
+Up pass Oxwellmains Crossover                    Depart Torness GSP                             2
+Depart Torness GSP to Torness Power station      Up train pass/depart Dunbar                    2*
+* Margin may be reduced if second train has equivalent amount of pathing time between Dunbar and Oxwellmains
+Crossovers.
+
+For trains to Torness Power station only
+                          ARR            DEP
+Oxwellmains Crossovers                   XX/XX
+Torness GSP               XXOPRM00 XXOPPR04
+Torness Power Station     XXPR08
+
+
+Oxwellmains Lafarge
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                              Value
+Down trains from Oxwellmains Lafarge to           For propelling purposes only                        6
+Oxwellmains Crossover
+No pathing time to be inserted in Oxwellmains train schedules whilst propelling in this area
+
+For trains from Oxwellmains Lafarge only
+                          ARR          DEP
+Oxwellmains Lafarge                    XX:00
+Oxwellmains Crossovers    XXRMPR09 XXRMPR11
+Grantshouse                            XX/00
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,67 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                           Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                  Date:    28/07/2023
+                                                                                                 Page:    224 of 242
+
+SC003 CARSTAIRS SOUTH JUNCTION TO HAYMARKET EAST JUNCTION
+Timing Section                        Type    LH       MU#        FRT   Remarks
+                                              HST
+                                              22X
+                                              80X
+
+
+Down – Weekdays
+Approaching Slateford/Midcalder       P          1         1            Applies to Avanti West Coast/TPE services
+Junction                                                                only
+Approaching Slateford or              E          1         1       2
+Haymarket
+Up – Weekdays
+Midcalder Junction – Carstairs        E          1         1       2    Passenger trains: Only for trains routed to
+East Junction                                                           Gretna Junction. (This should generally be
+                                                                        positioned on approach to Carstairs South
+                                                                        Junction).
+# See note regarding EMUs at the beginning of Section 5.5
+
+
+SC007 MIDCALDER JUNCTION TO HOLYTOWN JUNCTION
+Timing Section                        Type    LH       MU#        FRT   Remarks
+                                              HST
+                                              22X
+                                              80X
+
+Down – Weekdays
+Livingston – West Calder              E                    1            Terminating services
+Approaching Holytown Junction         E                            2    Shotts line services
+Up – Weekdays
+Approaching Shotts                    E                1                Terminating DMU trains only
+Approaching Livingston South          E                    1 **   2#    ** Terminating DMU only
+                                                                        # This allowance should be applied
+                                                                        approaching Livingston South, but may be
+                                                                        moved to approaching Slateford in order to
+                                                                        aid junction working at Midcalder Jn if
+                                                                        required;
+# See note regarding EMUs at the beginning of Section 5.5
+
+
+For these sections where there is 2 minutes engineering allowance for freight services, this may be increased STP
+if required for planned works subject to it being agreed within DPPP/CPPP timescales.
+
+This provides the appropriate reassurance for work and access planners that we can still efficiently and effectively
+deliver the required work banks through CP6 on these lines of route.
+
+
+
+
+SC011 LAW JUNCTION TO UDDINGSTON JUNCTION (VIA HOLYTOWN)
+Timing Section                        Type    LH       MU         FRT   Remarks
+                                              HST
+                                              22X
+
+Down – Weekdays
+Approaching Holytown Junction      E                               1
+#See note regarding EMUs at the beginning of Section 5.5
+
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,61 @@
+NETWORK RAIL                             Timetable Planning Rules                             Version: 4.1
+London North Eastern                       Revised Final Rules for                              Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                          Page: 179 of 368
+
+
+Birtley Junction
+First Movement                                       Second Movement                                      Margin
+Pass to SL/Arrival Line (Passenger)                  Down Pass                                            3½
+Pass to SL/Arrival Line (Freight)                    Down Pass                                            4*
+Pass from SL/Arrival Line                            Down Pass                                            4*
+Down Pass                                            Pass from SL/Arrival Line                            3
+
+
+Down Pass                                              Depart from SL/Arrival Line                        1
+Depart from SL/Arrival Line                            Down Pass                                          4½*
+Up Pass                                                Pass from SL/Arrival Line                          3
+Pass from SL/Arrival Line                              Pass to SL/Arrival Line                            3½*
+Pass to Arrival Line                                   Pass from SL                                       4*
+Pass to SL                                             Pass from Arrival line                             3½*
+* If the first train is longer than 600m in length then margin is increased by ½
+
+
+Low Fell Junction
+
+Junction Margins
+First movement                           Second Movement                             Margin
+Pass to SL/GL (Passenger)                Up Passes King Edward Bridge
+                                         South                                       Same Time
+Pass to SL/GL (Freight)                  Up Passes King Edward Bridge                1
+                                         South
+Pass to SL/GL (Passenger)                Down passes Birtley Junction                1
+Pass to SL/GL (Freight)                  Down Passes Birtley Junction                1½
+Down Passes King Edward Bridge           Pass from SL/GL                             Same Time
+South
+Down Train Passes King Edward            Pass to SL/GL                               1½
+Bridge South Junction
+Pass from SL/GL                          Pass to SL/GL                               4
+Pass to GL                               Pass from SL                                4½
+Pass to GL                               Depart from SL                              3
+Pass to SL                               Pass from GL                                4
+Pass to SL                               Depart from GL                              3
+
+
+King Edward Bridge South Junction
+
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                                  Value
+Trains towards Greensfield Jn                     Differential junction speed                             ½
+                                                                                                          Passenger
+Movements Up                                      Reason                                                  Value
+Trians from Greensfield Junction                  Differential Speed Junction                             ½
+                                                                                                          Passenger
+
+Junction Margins
+All Conflicting Moves                                                                                     3
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

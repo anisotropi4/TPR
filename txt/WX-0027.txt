@@ -1,0 +1,54 @@
+NETWORK RAIL                        Timetable Planning Rules                         Version:   4.2
+Route: Wessex                   Final Rules for Subsidiary OFFICIAL
+                                                           Change                      Date:    27th October 2023
+                                         Timetable 2024                                Page:    25 of 178
+
+SW115 WORTING JUNCTION TO PINHOE
+TIMING POINT                     DOWN         UP          CODE        NOTES
+
+Whimple                          -            -           S
+Cranbrook                        -            -           S
+Pinhoe                           -            -                       Passing point.
+                                                                      Regional handover timing point
+                                                                      To/from Exmouth Junction – Refer to
+                                                                      Western & Wales Timetable Planning
+                                                                      Rules – GW610.
+
+
+SW115A ANDOVER TO LUDGERSHALL MOD
+TIMING POINT                     DOWN         UP          CODE        NOTES
+
+Andover                          -            -                       Platform detail must be shown.
+                                                                      To/from Whitchurch - SW115
+Andover Sidings                  -                        F
+Ludgershall Branch Stop Board    -            -                       Only for associated Freight Trains
+Ludgershall MOD                  -            -           F
+
+
+SW115B LAVERSTOCK NORTH JUNCTION TO LAVERSTOCK SOUTH JUNCTION
+TIMING POINT                     DOWN         UP          CODE        NOTES
+
+Laverstock North Junction        -            -           X           Timing point for trains using Laverstock
+                                                                      curve only.
+                                                                      To/from Grateley - SW115
+Laverstock South Junction        -            -           X           Timing point for trains using Laverstock
+                                                                      curve only.
+                                                                      To/from Dean - SW150
+
+
+SW115C YEOVIL JUNCTION TO YEOVIL PEN MILL
+TIMING POINT                     DOWN         UP          CODE        NOTES
+
+Yeovil Junction                  -            -                       Platform detail must be shown.
+                                                                      Down Main Siding must be shown as
+                                                                      Platform DS.
+                                                                      To/from Crewkerne - SW115
+Yeovil Junction Sidings                       -           S
+Yeovil Jn Signal 4753            -                        S
+Yeovil Pen Mill                  -            -                       Platform detail must be shown.
+                                                                      To/from Castle Cary - SW175
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

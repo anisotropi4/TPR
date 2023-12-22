@@ -1,0 +1,49 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules                 Version:    4.1
+East Midlands                    Final Subsidiary Change Rules 2024               Date:     13th September
+                                                                                            2023
+                                                                                    Page:   76 of 123
+
+Trent South Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                 Reason                                          Value
+Down Fast to Castle Donington Branch          Differential junction speed                     ½ before
+                                                                                              Trent South
+                                                                                              and 1 after
+Down Fast towards Toton Centre                Differential junction speed                     ½ before
+                                                                                              Trent South
+
+Movement Up                                   Reason                                          Value
+Castle Donington Branch to Up Fast            Differential junction speed                     ½* before
+                                                                                              Trent South
+                                                                                              and ½* after
+                                                                                              *1 before and
+                                                                                              after for
+                                                                                              freight
+
+Junction Margins
+First Movement                                Second Movement                                 Margin
+Pass from Loughborough (on Down Fast) to      Pass from Sheet Stores Jn to Loughborough       2
+Trent East Jn
+Pass from Sheet Stores Jn to Loughborough     Pass from Loughborough (on Down Fast) to        2
+                                              Trent East Jn
+Pass from Loughborough (on Down Slow) to      Pass from Trent East Jn to Loughborough (on     2½
+Trent East Jn                                 Up Fast)
+Pass from Trent East Jn to Loughborough (on   Pass from Loughborough (on Down Slow) to        2
+Up Fast)                                      Trent East Jn
+Pass from Loughborough to Toton (on Down      Pass from Trent East Jn to Loughborough (on     3
+High Level)                                   Up Slow)
+Pass from Trent East Jn to Loughborough (on   Pass from Loughborough to Toton (on Down        3
+Up Slow)                                      High Level)
+
+Converging Headway
+First Movement                                Second Movement                                 Margin
+Down Fast towards Trent East Junction         Down Slow to Down Fast towards Trent East       2
+                                              Junction
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

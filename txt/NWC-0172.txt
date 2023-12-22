@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                           Version:   4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024               Date:    28th July 2023
+West and Central
+                                                                                              Page:   160 of 443
+
+
+STANDARD VALUES – MINIMUM (APPLIES TO MD9XX ROUTES ONLY)
+5/6 Car                5     3½      3½      3         3     3     2½     2½     2½      2½     2½     2½     2½     2½
+(GWR Short
+Form HST
+(HSTGW4))
+8/9 Car / D245        5½      4      3½      3         3     3     2½     2½     2½      2½     2½     2½     2½     2½
+10 Car, / HST8        5½      4      3½      3         3     3     2½     2½     2½      2½     2½     2½     2½     2½
+
+Freight
+Up to 40 SLUs          6     4½      3½      3½         3    3      3     2½     2½      2½     2½
+Up to 50 SLUs         6½     4½       4      3½         3    3      3     2½     2½      2½     2½
+Up to 60 SLUs          7      5       4      3½        3½    3      3     2½     2½      2½     2½
+Up to 80 SLUs         8½     5½      4½       4        3½   3½      3      3      3      2½     2½
+Up to 103 SLUs        9½      6      4½       4         4   3½      3      3      3       3     2½
+
+Pathing Rule
+Where pathing time of more than 2 minutes is unavoidably imposed between stopping points due to conflict at a
+junction a restart allowance must be inserted in the timing section after the conflict point as shown in the table below.
+
+Note:- Pathing time must not be applied approaching ARS controlled junctions where a restart allowance would be
+incurred as it will be ignored by ARS. This causes the route to be set too early creating delay to any preceding train
+planned ahead on minimum junction margin. Any pathing required should be inserted at the preceding dwell point.
+                                                     Restart allowance in minutes
+   Line Speed             < 80 mph        80 mph          90 mph           100 mph         110 mph         125 mph
+  Pathing time $
+       <2                     0               0               0                0               0               0
+         2                    0               0               0                0               0               1
+       2½                     0               0               0               ½                1               2
+         3                    0               0               ½               ½               1½               2
+       3½                     0              ½               1½              1½               2½               3
+        ≥4                    ½               1               2                2               3              3½
+$ Aggregated pathing time including engineering box time and any other allowances after the last stopping point
+
+Pathing Rule (Freight)
+Where pathing time of more than 2 minutes is inserted into freight trains between stopping points, the freight train
+must be deemed to have stopped at the next timing point and must be re-started using a start to (stop / pass)
+SRT, from the point of conflict.
+
+Platform End Conflicts                 Trains may arrive 1 minute before or 3 minutes after a departure
+
+Reversal
+22X                                               5
+22X formed of 2 sets                              6
+GWR West DMU (143-166)                            3 for up to and including 3 coaches
+                                                  4 for 4 coaches or above (may be reduced to 3 if a second driver is
+                                                  diagrammed)
+DMU (165/166/769 4 - 6 car formation)             4 May be reduced to 3 if a second driver is diagrammed
+DMU (165/166/769 7 - 9 car formation)             5 May be reduced to 3 if a second driver is diagrammed
+170 and 175                                       4
+Class 170 (XC)                                    4 (2-4 cars), 5 (5-6 cars), 7 (7-9 cars)
+Cl. 80X (5 Cars)                                  6$ (in platform) – 7$ (not in platform)
+Cl. 80X (9/10 cars)                               8$ (in platform) - 15$ (not in platform)
+Freight - Reversal before/after propelling        2
+movement
+Freight only locations                            15
+
+
+                                Electronic copy - uncontrolled when printed

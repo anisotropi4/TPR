@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024              Date:    28th July 2023
+West and Central
+                                                                                           Page:    316 of 443
+
+Stockport
+
+Dwell Time
+DMU/EMU                                1
+22x, 390, 80x, loco hauled             1½
+passenger services
+Passenger train terminating to         2
+form an ECS continuing in the
+same direction
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Down Fast to Down Slow                             Down Slow, Down Main or Down Goods to               2
+                                                   Down Fast
+Down Slow, Down Main or Down Goods to              Down Fast to Down Slow                              2
+Down Fast
+Arrive/Depart Platform 3A                          Down arrival into Platform 3                        3
+Down arrival or departure from Platform 3          Arrive Platform 3A                                  3
+Down arrival into Platform 3                       Depart Platform 3A                                  1
+Depart Platform 4 to Down Slow                     Down train arriving Down Main                       2
+Down train arriving Down Main                      Depart Platform 4 to Down Slow                      2
+Depart Down Goods to Up Fast                       Down train arriving                                 4
+Up arrival in the Down Goods                       Down train arriving Platform 4                      3
+Depart Down Goods or Down Main to Down             Arrive or Pass Platform 4 to the Down Slow          3
+Slow
+Depart Platform 2 to Up Slow                       Non-stop via Platform 1 in the Up direction         4
+Depart Platform 1 to Up Fast                       Non-stop via Platform 2 in the Up direction         4
+Up Slow to Up Fast                                 Up Fast to Up Slow                                  2
+Up Fast to Up Slow                                 Up Slow to Up Fast                                  2
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below:
+Platform 0                                       Prohibited
+Platform 1                                       Attaching and Detaching only
+Platform 2                                       Attaching and Detaching only
+Platform 3                                       Attaching and Detaching only
+Platform 3A                                      Attaching/Detaching and Platform Sharing
+Platform 4                                       Attaching and Detaching only
+
+Planning Notes
+An 11-car Pendolino (or train of an equivalent length) which has arrived in Platform 1 via the Up Fast will foul the
+track circuit in rear preventing a route being set into Platform 2 from the Up Fast. The following service must be
+held at Heaton Norris Jn until the train in Platform 1 has departed.
+The maximum standage between Stockport and Edgeley Jn No.2 on the Down Slow or Fast is 80 meters/12.5
+SLU. This will permit a route to be set from the Up Fast to the Down Liverpool at Edgeley Jn No.2 but blocks the
+route from the Up Liverpool to the Down Fast.
+Trains in the Up direction must depart Stockport on the FL if routed towards Cheadle Village Jn at Edgeley Jn
+No.2 SB.
+Whilst a train is being shunted at the north end of Stockport station Up Slow to Down Fast, or Down Fast to Up
+Slow or Up Fast, a train cannot pass Heaton Norris Jn on the Up Fast.
+
+Platform Reoccupation Time             2½
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

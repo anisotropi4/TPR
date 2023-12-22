@@ -1,0 +1,64 @@
+                                                     OFFICIAL
+
+
+Network Rail                                                                                         Version 4.0
+National                                                                                     Date: 28th July 2023
+                             Final Proposal for Subsidiary Change 2024
+                                           Page 9 of 114
+Distance GPU105 to GPU103 (2222m)
++
+Overlap of GPU103 (251m)
++
+Train length (120m)
+=
+Total 2593m
+
+2593m at 40mph takes 145s, to which we need to add 4s reset time, giving 149s.
+
+On the assumption that the second train were also able to maintain 40mph, we now need to calculate the time
+taken from GPU105R to GPU105 – this is 794m, which would take 45s, then add 9s for sighting. This would
+give a Technical Headway of 149+45+9 = 203 in this example.
+
+Generally, in areas of 2-aspect signalling it may be better to plan as Absolute Block, although it is noted that
+there are some areas where 3 or 4 aspect signalling also requires Absolute Block planning.
+
+
+Variability
+Obviously not all trains will maintain a constant speed as shown in the examples above, so when deducing
+technical headways the actual time taken in section should be assumed from modelling or from observation.
+In the case of modelling, care should be taken that traction parameters are agreed and reflective of traction
+operating in the sectionn. In the case of observed measurements, care should be taken that the data used is
+representative of the scenario being calculated and is within reasonable expectation.
+
+In some instances, it will not be necessary to make a calculation based on least restrictive signals, if the
+relevant SRTs can still be met by not doing so. Examples of this may include approach-controlled signalling
+arrangements, where the signalling is not capable of showing green aspects, or where signal spacing is
+greater than the minimum necessary to the extent that trains do not need to immediately decelerate on seeing
+restrictive aspects. In these cases, the above calculations may be adjusted to reflect reality and produce a
+Technical Headway that is lower than would otherwise be the case.
+
+Where performance of trains is not uniform, it will not be possible to deduce a single figure. Multiple
+scenarios should then be calculated to reflect the performance of the most common train types and the
+interactions between them in order to inform the Planning Headway (see below).
+
+1.5.2 Signalling Headway
+This is a measure typically used by signalling designers, and broadly corresponds to the examples above,
+and will assume a type of train most likely to use a route that is best capable of maintaining the line speed
+profile.
+
+
+1.5.3 Planning Headway
+Having made appropriate calculations of the Technical Headway, the Planning Headway should then be
+deduced by rounding up the Technical Headway to the next half minute above. A further half minute, or more
+where required, should be assumed if it is agreed that it is necessary to achieve the desired level of
+performance. The examples above show the calculation of the Technical Headway at specific signals.
+Naturally most timing points are not at signals so an appropriate adjustment should be made to reflect the
+headway at the actual timing point, be that the nominal station mileage or actual stopping points.
+
+The values listed in Section 5.2 of TPRs are Planning Headways.
+
+Where significant performance differentials exist, Planning Headways shall be created for different
+combinations of:
+   • Train type (including weight, length and speed);
+
+                                Electronic copy – uncontrolled when printed

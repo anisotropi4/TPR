@@ -1,0 +1,64 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                        Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                   12th September
+                                                                                       Date:
+                                               2024                                            2023
+                                                                                       Page:   111 of 183
+
+Shepreth Branch Junction
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Allowance
+Trains towards Foxton (except trains timed as     Approach control                                   {½}
+‘387 100’ or ‘700’ which include allowance in
+the SRT)
+
+Junction Margins
+Movement                                                                                             Margin
+Fouling move                                      Up Royston train behind Down Main Line train       2
+Fouling move                                      Down Main Line train behind Up Royston train       3
+Before divergence of following move                                                                  3
+After merge of following move                                                                        3
+
+
+Cambridge Signal CA147
+
+Standage Length                                                                                    Value
+Down Slow Standing at CA147 Signal                                                                 114 SLUs /
+                                                                                                   769m
+Trains in excess of this length standing at CA147 Signal will prevent any passing movements on the Down Main.
+
+
+Cambridge Signal CA149
+
+Standage Length                                                                                    Value
+Down Main Standing at CA149 Signal                                                                 114 SLUs /
+                                                                                                   769m
+Trains in excess of this length standing at CA149 Signal will prevent any passing movements onto the Down Slow.
+
+
+Cambridge Signal CA647
+
+Restriction
+Class 1, Class 2 & Class 9 services to the through line and platforms 7 & 8 at Cambridge cannot pass a service
+being held at CA647 as it is a shunt signal only. Where a reversal requires to be held for passing Class 1, Class 2
+or Class 9 services Cambridge Signals CA147 or CA149 must be used instead.
+
+
+Cambridge Reception Roads 1 & 2
+
+Junction Margins
+Please apply margins as per Cambridge Reception Sidings Entry
+
+Standage Lengths                                                                                     Value
+No 1 Reception                                                                                       73 SLUs /
+                                                                                                     467m
+No 2 Reception                                                                                       70 SLUs /
+                                                                                                     448m
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

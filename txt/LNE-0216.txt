@@ -1,0 +1,17 @@
+NETWORK RAIL              Timetable Planning Rules                    Version: 4.1
+London North Eastern        Revised Final Rules for                     Date: 12 October 2023
+                       Subsidiary Change Timetable 2024                 Page: 213 of 368
+
+
+Norwood Junction
+
+Junction Margins
+First Movement                      Second Movement                               Margin
+Pass from Newcastle                 Pass to Tyne Yard                             3
+Pass to Tyne Yard                   Depart/Pass from Newcastle                    3
+Pass from Tyne Yard                 Pass to Tyne Yard                             4
+
+
+
+
+                       Electronic copy - uncontrolled when printed.

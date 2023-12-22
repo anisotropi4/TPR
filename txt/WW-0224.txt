@@ -1,0 +1,64 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                       Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                      Date:    6th October 2023
+                                          Change Timetable 2024                             Page:    221 of 289
+
+
+Porthmadog
+
+Dwell Time
+Power                                 1 Down
+                                      2 Up
+
+Platform end conflicts
+First Movement                                      Second Movement                                     Margin
+Up DMU into Up platform (1)                         Down DMU into Down platform (2)                     3½
+Up DMU into Up platform (1)                         Down Loco hauled into Down platform (2)             4½
+Up Loco hauled into Up platform (1)                 Down DMU into Down platform (2)                     3½
+Up Loco hauled into Up platform (1)                 Down Loco hauled into Down platform (2)             4½
+
+Down DMU into Down platform (2)                     Up DMU into Up platform (1)                         2
+Down DMU into Down platform (2)                     Up Loco hauled into Up platform (1)                 3
+Down Loco Hauled into Down platform (2) *           Up DMU into Up platform (1)                         2½
+Down Loco Hauled into Down platform (2) *           Up Loco hauled into Up platform (1)                 3½
+
+* Down direction light locos and trains up to 145m long are permitted to arrive first
+
+Train towards Pwllheli cannot be routed into the up platform (platform 1)
+
+Pwllheli
+
+Turnround Allowance                   7
+
+GW735 SHREWSBURY CREWE JN TO NANTWICH
+
+Yorton
+
+Dwell Time
+LH                                    1
+
+Wem
+
+Dwell Time
+LH                                    1
+
+Prees
+
+Dwell Time
+LH                                    1
+
+Whitchurch
+
+Dwell Time
+LH                                    1
+
+Wrenbury
+
+Dwell Time
+LH                                    1
+
+
+
+                                     Electronic copy - uncontrolled when printed.

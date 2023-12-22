@@ -1,0 +1,64 @@
+                                                     OFFICIAL
+
+ NETWORK RAIL                         Timetable Planning Rules 2024                  Version:   4.1
+ Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                 Date:    6th October 2023
+                                          Change Timetable 2024                        Page:    242 of 289
+
+
+GW940 CARMARTHEN STATION TO CARMARTHEN BRIDGE JUNCTION
+80x                                           6
+15x / 175                                     3
+
+Turnround Allowances
+                                       Class 80X (5 car)
+From Paddington                        25
+From Swansea                           10
+ECS arrival to form passenger train    10
+Passenger arrival to form ECS          10
+
+GW950 WHITLAND TO PEMBROKE DOCK
+
+Whitland
+
+See entry under GW900 Pilning (excl) to Fishguard Harbour for Whitland
+
+Narberth
+
+Dwell Time
+80x                                    1
+15x / 175                              ½*
+* Request Stop
+
+Kilgetty
+
+Dwell Time
+80x                                    1
+15x / 175                              ½*
+* Request Stop
+
+Saundersfoot
+
+Dwell Time
+80x                                    1
+15x / 175                              ½*
+* Request Stop
+
+Tenby
+
+Dwell Time
+80x                                   3$
+15x / 175                             2$
+$ Includes allowance for token exchange
+
+Turnround allowances
+                                       80x                 LH                 DMU
+                                       15                  20                 10#
+# Shorter Turnround allowances if not sequential
+
+Penally
+
+Dwell Time
+
+
+                                      Electronic copy - uncontrolled when printed.

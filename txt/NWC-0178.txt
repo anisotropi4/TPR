@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                   Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024       Date:    28th July 2023
+West and Central
+                                                                                   Page:    166 of 443
+
+Wembley Central
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                        Value
+Train from Wembley Reception and Departure Lines 1-7, Wembley Yard, Carriage Line or Up and Down Relief to
+Down Slow hauled by Diesel traction *
+Class 6 up to 400t (inclusive)                 Acceleration Allowance                        ½
+Class 6 600t                                   Acceleration Allowance                        1
+Class 6 800t                                   Acceleration Allowance                        1½
+Class 6 1000t (inclusive) to 1500t (inclusive) Acceleration Allowance                        2
+Class 6 1600t (inclusive) to 1800t (inclusive) Acceleration Allowance                        2½
+Class 6 2000t (inclusive) to 2200t (inclusive) Acceleration Allowance                        3
+Class 6 over 2200t 2400t (inclusive)           Acceleration Allowance                        3½
+Class 4 up to 400t                             Acceleration Allowance                        1
+Class 4 600t                                   Acceleration Allowance                        1½
+Class 4 800t (inclusive) to 1500t (inclusive)  Acceleration Allowance                        2
+Class 4 over 1500t                             Acceleration Allowance                        2½
+
+Train from Wembley Reception and Departure Lines 1-7, Wembley Yard, Carriage Line or Up and Down Relief to
+Down Slow hauled by Electric traction *
+Class 6 up to 800t (inclusive)                     Acceleration Allowance                              ½
+Class 6 1000t (inclusive) to 1500t (inclusive)     Acceleration Allowance                              1
+Class 6 1600t (inclusive) to 2000t (inclusive)     Acceleration Allowance                              1½
+Class 6 over 2200t                                 Acceleration Allowance                              2
+Class 4 up to 600t (inclusive)                     Acceleration Allowance                              ½
+Class 4 800t (inclusive) to 1500t (inclusive)      Acceleration Allowance                              1
+Class 4 1600t (inclusive) to 1800t (inclusive)     Acceleration Allowance                              1½
+Class 4 over 1800t                                 Acceleration Allowance                              2
+* All values apply approaching next timing point, not applicable if train is crossing at North Wembley Jn
+
+Movement Up                                      Reason                                        Value
+Train to Wembley Reception and Departure         Differential Junction speed                   1
+Lines 1-7, Carriage Line or Up and Down Relief
+from Up Slow
+
+Dwell Time
+Class 350 EMU                       1
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Non-stop Down train passes Wembley Central     Train from Wembley Yards, Reception and         2$
+on the Down Slow                               Departure Lines 1-7, Wembley DBC Fan A &
+                                               B, Carriage Line to Down Slow
+Down train Departs Wembley Central on the      Train from Wembley Yards, Reception and         3$
+Down Slow                                      Departure Lines 1-7, Wembley DBC Fan A &
+                                               B, Carriage Line to Down Slow
+Train from Up and Down Relief to Down Slow     Train passes Wembley Central towards            4
+                                               Willesden West London Jn on the Up Slow
+Train from Up and Down Relief to Down Slow     Train departs Wembley Central towards           2
+                                               Willesden West London Jn on the Up Slow
+Train from Wembley Reception and Departure     Train departs/passes Wembley Central            4½
+Lines 1-7, Wembley DBC Fan A & B, Carriage     towards Willesden West London Jn on the Up
+Line to Down Slow                              Slow
+$ The normal headway applies at the next mandatory timing point – see section 5.2
+
+
+
+
+                             Electronic copy - uncontrolled when printed

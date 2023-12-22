@@ -1,0 +1,62 @@
+NETWORK RAIL                        Timetable Planning Rules                     Version: 4.1
+London North Eastern                  Revised Final Rules for                      Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                  Page: 15 of 368
+
+
+Abbreviation   Description
+AD             Arrival/Departure Line
+AL             Avoiding Line
+BS             Leeds Line B
+CHC            Copley Hill Chord
+CL             Carriage Line
+DBH            Down Barrow Hill
+DBP            Down Back Platform at Welwyn Garden City
+DCF            Down Royston Flyover
+DCT            Down Canal Tunnel
+DF or DFL      Down Fast Line
+DG             Two-way Goods No.2
+DGL            Down Goods Line
+DH             Down Harrogate
+DHL            Down Hendon Line
+DL             Down Line
+DM see below   Down Midland – Engine Shed Jn or Leeds West Junction LN872
+DM or DML      Down Main Line
+DN             Leeds Line D – non-preferred route for ARS
+DPV            Down Passenger Loop
+DS or DSL      Down Slow Line
+DSG            Down Scunthorpe Goods
+DUG            Down and Up Goods
+EL             Erewash Line
+ESL            East Slow Line
+FL             Fast Line – can be numbered e.g. FL1
+GL             Goods Line
+GSL            Goods and Slow Line
+HS             Holding Siding
+LSL            Leeds Line
+ML             Main Line
+NDS            Up Slow Line from Newcastle Platform 7 to Newcastle South Jn., then Down Slow Line to
+               King Edward Bridge North Jn
+NLI            North London Incline
+NM             Up Slow Line from Newcastle Platform 7 to Newcastle South Jn., then Up Fast Line to King
+               Edward Bridge North Jn
+NNL            Normanton Line
+NS             Up Slow Line from Newcastle Platform 7 to King Edward Bridge North Jn
+PL             Platform Line
+RCL            Reception Line
+RRL            Reversing Line
+SL             Slow Line – can be numbered e.g. SL1
+SGL            Staveley Goods Line
+TL             Through Line
+UB             Up Bradford
+UBH            Up Barrow Hill
+UCT            Up Canal Tunnel
+UDB            Up and Down Blackwell
+UDS            Up and Down Slow Line
+UF or UFL      Up Fast Line
+UGL            Up Goods Loop
+UH             Up Harrogate
+UHL            Up Hendon Line
+UL             Up Line
+UM see below   Up Midland – Leeds West Jn
+UM or UML      Up Main Line
+                                Electronic copy - uncontrolled when printed.

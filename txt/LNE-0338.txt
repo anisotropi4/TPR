@@ -1,0 +1,53 @@
+NETWORK RAIL                        Timetable Planning Rules                       Version: 4.1
+London North Eastern                  Revised Final Rules for                        Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                    Page: 335 of 368
+
+
+LN852 HOLBECK JUNCTION TO BRADFORD INTERCHANGE
+Timing Section                    Type    LH      MU       Freight   Remarks
+                                          HST     LL
+                                          EPU
+                                          22X
+
+Up – Weekdays
+Approach Holbeck Junction         E                   1
+                                  P                   1
+
+
+LN854 HALL ROYD JUNCTION TO COLTON JUNCTION
+Timing Section                    Type    LH      MU       Freight    Remarks
+                                          22X
+
+Down – Weekdays
+Approach Bradley Wood Junction    E                   1               Trains to Huddersfield only
+Approach Healey Mills/Horbury     E         2         1       2*      *1 minute for Class 0 services
+Junction
+Approach Horbury Junction         P               1                   Trains from Huddersfield
+Approach Castleford               E                           1       From Normanton direction only.
+Approach Milford                  E         2         2       2
+Approach Colton Junction          P         1         1
+Up – Weekdays
+Approach Brighouse                E                   1               Terminating trains only
+Approach Castleford               E         1         1       1
+
+
+
+
+LN858 MILNER ROYD JUNCTION TO BRADFORD MILL LANE JUNCTION
+Timing Section                    Type    LH      MU       Cl 6      Remarks
+                                          HST     LL
+                                          EPU
+                                          Cl 4
+                                          22X
+
+Down – Weekdays
+Approach Mill Lane Junction       E         2         1*             *Does not apply to services starting at
+                                                                     Hebden Bridge
+Up – Weekdays
+Approach Halifax                  P                   1              Terminating trains and trains to
+                                                                     Huddersfield only
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

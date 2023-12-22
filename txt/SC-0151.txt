@@ -1,0 +1,59 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                          Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                 Date:    28/07/2023
+                                                                                                Page:    146 of 242
+
+Hilton Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                             Value
+Down trains from Ladybank between Hilton           Acceleration                                       1
+Junction and Perth
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+Up pass to Dunblane                                Down pass from Ladybank                            3
+Down pass from Ladybank                            Up pass to Dunblane                                3
+Down pass from Ladybank                            Up pass to Ladybank                                3
+
+Restriction
+Locomotive hauled trains (including Light Engines but excluding HSTs) must not be timed to pass any other train
+over UB88 (Earn Viaduct). Whenever this restriction is to be applied…
+If the first train to pass Hilton Jn is a down train, the up train must pass a minimum of 1½ minutes afterwards.
+If the first train to pass at Hilton Jn is an up train, the down train must pass a minimum of 8 minutes afterwards.
+
+
+Train arrive from Ladybank / train pass to Dunblane should not be planned.
+
+
+
+Perth
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                             Value
+Trains arriving Platform 2 or 3 via Down           Slower speed route                                 ½
+Dundee Loop                                                                                           (approaching
+                                                                                                      Perth)
+Trains departing Platform 3 to Stanley Junction    Longer departure route at low speed                1
+
+Dwell Time
+MU/HST Power Doors                    1½
+LH                                    3
+ScotRail trains to/from Inverness     2
+via Aviemore
+
+Junction Margins
+First Movement                                        Second Movement                          Margin
+Arrive Down Dundee Loop from South                    Depart/pass Up                           1½
+Depart/pass Up                                        Arrive Down Dundee Loop from South       5
+Depart Platfrom 6 or 7 towards Hilton Jn              Arrive from Hilton Jn (when conflicting) 3½
+Depart Platform 4 towards Stanley                     Arrive Platform 3 or 4 from Stanley      6½
+Operating Note:
+LNER services that exceed 3 hours 30 minutes running between Edinburgh Waverley-Inverness must have 5
+minute dwell at either Stirling, Perth or Pitlochry for Driver PNB requirements
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

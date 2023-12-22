@@ -1,0 +1,60 @@
+NETWORK RAIL                            Timetable Planning Rules                    Version:    4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024        Date:     28th July 2023
+West and Central
+                                                                                       Page:    43 of 443
+
+
+MD345 BESCOT JN TO RUGELEY NORTH JN (EXCLUSIVE)
+TIMING POINT                         DOWN        UP          CODE     NOTES
+
+Hednesford                                –           –
+Rugeley Town                              –           –        S
+Rugeley Power Station Jn                  –           –               To/from Rugeley ‘B’ Power Station
+                                                                      To/from Rugeley Trent Valley – NW1004
+
+
+MD350 ANGLESEA SIDINGS TO LICHFIELD CITY (LINE OUT OF USE)
+TIMING POINT                         DOWN        UP          CODE     NOTES
+
+Brownhills (end of line)                              –        F
+Anglesea Sidings                                      –        F
+Lichfield City Jn                                                     To/from Lichfield City – MD340
+
+
+MD355 LICHFIELD TRENT VALLEY JN TO LICHFIELD TRENT VALLEY (CHORD
+LINE)
+TIMING POINT                         DOWN        UP          CODE     NOTES
+
+Lichfield Trent Valley Jn                 –           –               To/from Alrewas – MD340
+                                                                      To/From Lichfield Trent Valley High Level
+                                                                      – MD340
+Lichfield Trent Valley Low Level        USL           –               To/from Lichfield North Jn – MD101
+
+
+MD360 WALSALL PLECK JN TO DARLASTON JN
+TIMING POINT                         DOWN        UP          CODE     NOTES
+
+Pleck Jn                               FL SL          –               To/from Walsall – MD345
+Darlaston Jn                             –            –               To/from Portobello Jn – MD320
+
+
+MD365 PORTOBELLO JN TO WOLVERHAMPTON CRANE STREET JN
+TIMING POINT                         DOWN        UP          CODE     NOTES
+
+Portobello Jn                             –           –               To/from Darlaston Jn – MD320
+Wolverhampton Signal PC6607               –                    S
+Wolverhampton Crane Street Jn             –           –               To/from Wolverhampton – MD301
+
+
+
+MD370 UP DUDLEY SIDING TO PLECK JN
+TIMING POINT                         DOWN        UP          CODE     NOTES
+
+Up Dudley Siding                                                      Run round loop
+                                                                      TIPLOC = BSCTUDS
+Pleck Jn                                                              To/from Walsall - MD345
+
+
+
+
+                               Electronic copy - uncontrolled when printed

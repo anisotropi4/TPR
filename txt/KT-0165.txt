@@ -1,0 +1,61 @@
+ NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+ Kent & HS1                                                    OFFICIAL
+                                       Final Proposal for Subsidiary                            25th August 2023
+                                                                                      Date:
+                                          Timetable 2024                              Page:     161 of 168
+
+
+$ Platform height and lateral clearance to UK standard (915mm above rail level). Only trains to UK standards
+permitted to use these platforms. Eurostar (Class 373/374) trains and trains to UIC standards are permitted to pass
+over this line in exceptional circumstances. See Signallers Local Instructions for details.
+
+
+5.4.1 Loop Lengths
+The table below shows the maximum length of train that may use each of the loops at the following locations. All
+lengths are in SLU (Standard Length Unit – an SLU measures 21 feet) and metres. All lengths are measured from
+the signal at the exit to the loop to the block joint in rear unless started otherwise. All lengths quoted exclude
+allowance for locomotives or stand back unless stated otherwise. Check Sectional Appendix for locations where
+standage is not quoted.
+
+ SO110 LONDON VICTORIA TO RAMSGATE (VIA HERNE HILL AND CHATHAM)
+ LOCATION                                DIRECTION         USABLE           NOTES
+                                                           LENGTH
+                                                       SLU   METRES
+ Herne Hill Down Passenger Loop          Down          27      173
+ Herne Hill Up Passenger Loop            Up            28      179
+ Kent House Down Passenger Loop          Down          56      358
+ Kent House Up Passenger Loop            Up            62      397
+ Down Rochester Loop                     Down          116     745
+ Up Rochester Loop                       Up            51      328
+ Sittingbourne Down Platform Loop        Down          29      186
+ Sittingbourne Down Goods Loop           Down          54      346
+ Faversham Down Passenger Loop           Down          33      212
+ Faversham Up Passenger Loop             Up            33      212
+ Margate Down Thanet Loop                Down          40      256
+ Ramsgate Platform Loop                  Down          35      224
+ Ramsgate Platform Loop                  Up            35      224
+
+
+ SO130 LONDON CHARING CROSS TO DOVER (VIA TONBRIDGE)
+ LOCATION                                   DIRECTIO         USABLE           NOTES
+                                            N                LENGTH
+                                                         SLU   METRES
+ Hither Green Arrival Road (DGL)            Down         28      180
+ Hither Green Departure Road (UGL)          Up           33      212
+ Paddock Wood Down Passenger Loop           Down         37      237
+ Paddock Wood Up Passenger Loop             Up           83      532
+ Tonbridge Down Loop                        Down         121     776          Channel Tunnel Freight Traffic may
+                                                                              recess at this location
+ Tonbridge Up Fast                          Up           41      264          Behind AD150 signal clear of
+                                                                              Tonbridge East Junction
+ Tonbridge Up Fast                          Up           70      448          Behind AD134 signal clear of
+                                                                              Tonbridge East Junction
+ Tonbridge Up Loop                          Up           121     776          Channel Tunnel Freight Traffic may
+                                                                              recess at this location
+ Cranmore Down Loop                         Down         117     749          Channel Tunnel Freight Traffic may
+                                                                              recess at this location
+ Headcorn Up Goods Loop                     Up           117     749          Channel Tunnel Freight Traffic may
+                                                                              recess at this location
+ Ashford Maidstone Loop                     Up/Down      114     728          Clear of AD856 and AD857 via
+                                                                              AD855 signals
+                                     Electronic copy - uncontrolled when printed

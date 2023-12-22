@@ -1,0 +1,38 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                         Version:   4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024                Date:    28/07/2023
+                                                                                              Page:    125 of 242
+
+Mossend South Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                        Value
+Pass to Mossend East Junction                      Approach control before Mossend South         ½
+                                                   Junction
+Pass to North Junction, going to Mossend           Approach Control before Mossend South         2
+Yards and Down Goods Loop                          Junction
+Down train from Ravenscraig Siding                 Acceleration                                  1
+
+Movement Up                                        Reason                                        Value
+Up train from East or West Junction                Acceleration (does not apply to EMUs)         1
+
+Junction Margins
+First Movement                                     Second Movement                               Margin
+Pass to Mossend North or Mossend East              Pass from Mossend West Junction               2½
+Junction
+Pass Up from Bellshill / Mossend North             Pass Down to Mossend East Junction            2
+Junction
+Pass Up                                            Depart Braidhurst Down Loop to Mossend        1
+                                                   East Junction
+Up train from Mossend East Junction                Up Train from Mossend North Jn                3
+Pass Mossend East Junction towards Bellshill       Pass Down to Mossend East Junction            3½
+
+Note
+Pathing time cannot be applied between Mossend South Junction and Mossend East Junction due to overlap
+restrictions
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

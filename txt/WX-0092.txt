@@ -1,0 +1,65 @@
+NETWORK RAIL                            Timetable Planning Rules                          Version:    4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                       Date:     27th October 2023
+                                             Timetable 2024                                 Page:     90 of 178
+
+Basingstoke
+                601 – 1000t          TR40 – TR50           Speed Differential                            {1½}
+                1001 – 1200t         TR60 – TR70           Speed Differential                            {2}
+                1201 – 1800t         TR80 – TR100          Speed Differential                            {2½}
+
+FL & SL in the Up Direction Adjustment to Sectional Running Times
+Movement                                      Reason                                                     Value
+All freight timing loads approaching          Speed Differential                                         {1½}
+Basingstoke and passing towards Southcote
+Junction
+
+Berthing Facilities
+                                      Cars                 Notes
+Barton Mill Siding No 1               12
+Barton Mill Siding No 2               12
+Barton Mill Siding No 3               12
+Barton Mill Siding No 4               12
+Up Siding East                        6
+Down East End Siding No 1             12                   11 car lengths electrified (blocks East End Siding No 2)
+(Long Valley Siding)
+Down East End Siding No 2             8                    Non electrified (to permit use of run round facility)
+(Long Valley Siding)
+Down Yard                             12
+Up West Siding                        12
+
+Dwell Times
+All Services                          1½
+
+Junction Margins
+First Movement                                   Second Movement                                         Margin
+Between all movements except as below                                                                    4
+Up Fast or Up Slow Main Line train except        Down Main Line service arriving from Southcote          3
+from Bay Platform 5                              Junction direction
+Down Main Line service arriving from             Departing Up Fast or Up Slow Main Line train            1*
+Southcote Junction direction                     starting from the Platform - except Bay Platform 5
+Up Fast or Up Slow Main Line train               Conflicting train departs from Barton Mill Sidings      2
+departs/passes Basingstoke
+Down service arriving on Platform 2               Up departure from Platform 1                         1
+Down departure towards Worting Junction           Conflicting train departs from Down Yard.            2
+Down service arrives into Bay Platform 5          Down service arriving from Southcote Junction        4
+                                                  into Platform 1 or 2
+Down freight from Southcote Junction via          Up train arriving or passing from Worting Junction 5½ #
+Platforms 3 or 4 crossing to Down Fast            via Up Fast
+Up freight towards Southcote Junction             Up train arriving into the same platform             3½ $
+Down freight from Southcote Junction              Down train arriving into the same platform from      3½ $
+towards Worting Junction                          Farnborough
+* 1½ minutes if the first movement is a freight service up to 620m long; 2 minutes if first movement is a freight
+service longer than 620m.
+# 6 minutes if the first movement is longer than 97 SLU/620m.
+$ 4 minutes if the first movement is longer than 70 SLU/450m.
+
+Simultaneous Moves Not Permitted
+Down train arriving in Platform 1                           Down train from Platform 2 to Down Slow/Down Yard
+Down train arriving in Platform 1                           Up train from Down Yard to Platform 2
+Up train from Platform 3 to Bramley                         Up train arriving in Platform 4
+Down train from Bramley to Platform 3                       Up train arriving in Platform 4
+
+
+
+                                     Electronic copy - uncontrolled when printed.

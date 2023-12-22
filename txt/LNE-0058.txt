@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version: 4.1
+London North Eastern                    Revised Final Rules for                     Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                 Page: 55 of 368
+
+
+
+
+LN844 APPLEHURST JUNCTION TO JOAN CROFT JUNCTION (APPLEHURST
+LOOP)
+TIMING POINT                        DOWN       UP         CODE     NOTES
+
+Applehurst Jn                       –          –                   To/from Hatfield & Stainforth – LN842
+
+Joan Croft Jn                       –          –          X        To/from Temple Hirst Jn – LN600
+
+
+
+LN846 CARCROFT JUNCTION TO SKELLOW JUNCTION
+TIMING POINT                        DOWN       UP         CODE     NOTES
+
+Carcroft Jn                         –          –          X        To/from Adwick – LN836
+Skellow Jn                          –          –                   To/from Applehurst Jn – LN842
+
+
+
+LN848 HARE PARK JUNCTION TO CROFTON WEST JUNCTION
+TIMING POINT                        DOWN       UP         CODE     NOTES
+
+Hare Park Junction                  –          –                   To/from South Kirby Junction – LN836
+Crofton West Junction               –          –                   To/from Turners Lane Jn –LN822
+
+
+
+LN850 WAKEFIELD WESTGATE SOUTH JUNCTION TO WAKEFIELD KIRKGATE
+WEST JUNCTION
+TIMING POINT                        DOWN       UP         CODE     NOTES
+Wakefield Westgate South                                           To/from Wakefield Westgate – LN836
+Junction
+Wakefield Kirkgate Signal K1215     –          –          S
+Wakefield Kirkgate West Junction                                   To/from Wakefield Kirkgate – LN854
+
+
+LN852 HOLBECK JUNCTION TO BRADFORD INTERCHANGE
+TIMING POINT                        DOWN       UP         CODE     NOTES
+
+Holbeck Junction                    ––         –                   To/from Whitehall Jn – LN836
+Bramley                             –          –          S
+New Pudsey                          –          –          S
+  Laisterdyke                       –          –          S
+  Laisterdyke Sig HB3826            –          –          SX       Reversal point on Down Bradford
+                                                                   Can also be accessed from Hammerton
+                                                                   Street Junction in Up direction
+Hammerton Street Junction           UB         DB         X        Only for access to Laisterdyke in Up
+                                                                   direction
+Mill Lane Junction                  –WM        –                   To/from Halifax – LN858
+Bradford Interchange                           WME                 Platform detail must be shown
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

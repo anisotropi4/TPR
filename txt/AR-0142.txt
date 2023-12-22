@@ -1,0 +1,70 @@
+                                                   OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                     Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                12th September
+                                                                                    Date:
+                                               2024                                         2023
+                                                                                   Page:    139 of 183
+
+Southend Central
+
+Adjustments to Sectional Running Times
+Movement                                       Reason                                           Value
+For trains to/from Platforms 1 & 4             Via slow speed crossover                         {½}
+
+Dwell Time                                     Applies to Class 357 timing loads only           1
+
+Splitting and Coupling of trains permitted     Platforms 1 and 4 only
+
+Shoeburyness Depot London End Junction
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Crossing movement pass Shoeburyness Depot       Depart from Shoeburyness station to Up Main      1
+London End Junction
+
+
+Shoeburyness
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Departure from platform 1 towards Thorpe Bay    Arrival into any platform                        4
+Departure from platforms 2 or 3 towards
+                                                Conflicting arrival                              3
+Thorpe Bay
+
+Length Limits
+Platform 1 Reversing Moves                                                                       40 SLUs
+Platform 2 Reversing Moves                                                                       42 SLUs
+Platform 3 Reversing Moves                                                                       29 SLUs
+
+Splitting and Coupling of trains permitted      All platforms
+
+
+EA1390 BARKING TILBURY LINE JUNCTION EAST TO PITSEA JUNCTION (VIA
+TILBURY)
+
+All Junctions
+
+Junction Margins
+Movement                                                                                         Margin
+                                                                                                 3 unless
+Fouling moves                                                                                    otherwise
+                                                                                                 specified
+
+
+Ripple Road Junction
+
+Junction Margin
+First Movement                                  Second Movement                                  Margin
+                                                                                                 See entry on
+                                                Up freight depart Ripple Road Junction /
+Up train pass/depart Barking Platform 8                                                          EA1380 at
+                                                Ripple Lane Signal UR846
+                                                                                                 Barking
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

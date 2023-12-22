@@ -1,0 +1,52 @@
+NETWORK RAIL                            Timetable Planning Rules                       Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                    Date:    27th October 2023
+                                             Timetable 2024                              Page:    94 of 178
+
+Eastleigh
+                  801 – 1200t        TR55 – TR70            Speed Differential                     {2}
+                  1201 – 1800t       TR85 – TR100           Speed Differential                     {2½}
+                  1801 – 2400t       TR115 – TR130          Speed Differential                     {3}
+Class 4           0 – 400t           TR20                   Speed Differential                     {1½}
+                  401 – 600t         TR30                   Speed Differential                     {2} $
+                  601 – 800t         TR40                   Speed Differential                     {2½} $
+                  801 – 1200t        TR50 – TR70            Speed Differential                     {3} $
+                  1201 – 1600t       TR80 – TR90            Speed Differential                     {3½} $
+                  1601 – 1800t       TR100                  Speed Differential                     {4} $
+$ Increase by 1½ if train passes/departs Eastleigh having come from Eastleigh East Yard due to time taken for
+rear of train to clear 5mph speed restriction within the yard.
+
+Berthing Facilities
+                                      Cars                Notes
+Eastleigh D.C.S.                      8                   Electrified
+
+Connectional Allowances
+All Services                          3
+
+Dwell Times
+All Services except as below          1
+CrossCountry Services                 1½
+
+Length Restrictions
+Up train stopping in Platform 1          Foul Up Fast line if longer than 265 metres (approx. 41 SLU)
+arriving from Up FL
+Up train stopping in Platform 1          Foul points E465 if longer than 462 metres (approx. 72 SLU)
+arriving from Up FL
+Up train stopping in Platform 1          Foul overlap of signal E85 if longer than 351m (approx. 54 SLU)
+arriving from Up SL
+Up train stopping in Platform 2          Foul points E465 if longer than 453 metres (approx. 70 SLU)
+Up train stopping in Platform 2          Foul points E450/E451 if longer than 253 metres (approx. 39 SLU).
+Down train stopping in Platform 2        Foul points E438/E441 if longer than 253 metres (approx. 39 SLU).
+Up train stopping in Platform 3          Foul points E465 if longer than 397 metres (approx. 62 SLU)
+Up train stopping in Platform 3          Foul points E451/E452 if longer than 190 metres (approx. 29 SLU).
+Down train stopping in Platform 3        Foul points E440 if longer than 190 metres (approx. 29 SLU).
+Down train stopping in Platform 3        Foul points E438/E439 if longer than 253 metres (approx. 39 SLU).
+n.b. the above length limits are total train length, not including stand-back from signals
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

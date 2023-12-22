@@ -1,0 +1,56 @@
+                                                    OFFICIAL
+
+
+Network Rail                                                                                        Version 4.0
+National                                                                                    Date: 28th July 2023
+                                  Final Proposal for Subsidiary Change 2024
+                                                Page 7 of 114
+
+
+
+1.5 Headways
+This section covers calculating margins for both conventional and European Train Control System signalling.
+
+1.5.1 Technical Headway
+The Technical Headway is the minimum permissible time interval between two successive trains at a specific
+timing point on the same line in the same direction,
+such that the second train can meet its SRT. This is based on the second schedule receiving the least
+restrictive aspect the signal can show, or in ETCS areas, not receiving any indication to reduce speed due to
+the first train unless otherwise stated. This is expressed in seconds, and will necessarily vary according to the
+types of train and their speed.
+
+This can be calculated as per the following examples.
+
+Diagram A (4-aspect signalling)
+
+
+
+
+Technical Headway at Signal MC513 (above right) is the time elapse between the front of the first train
+passing MC513 (showing a green aspect) and its rear clearing the overlap of MC507 (above left), this being
+the point at which MC513 would be able to show a green aspect again. To this must be added a system reset
+time (normally 4s but this can vary) and sighting time for the second train to see MC513 at green (this is a
+standard 9s as used by signal sighting committees).
+
+Hence if the first train were able to maintain 100mph through the section and its length were 240m, the
+calculations undertaken would be:
+
+Section (4-Aspect)                    Distance/length (Metres)
+Distance MC513 to MC511               1223
+Distance MC511 to MC509               1284
+Distance MC509 to MC507               1086
+Overlap of MC507                      184
+Train length                          240
+Total                                 4017
+
+For this example, system reset time is 4 seconds, and sighting time is 9 seconds.
+
+4017m at 100mph takes 90s, so adding 4s and 9s this would give a Technical Headway of 103s in this
+example. Similarly a 400m-long train that could maintain 60mph though the section would alter the
+calculation to: (1223+1284+1086+184+400)m at 60mph – 156s. Adding 4s and 9s gives a Technical
+Headway of 169s in this case.
+
+
+
+
+                                Electronic copy – uncontrolled when printed

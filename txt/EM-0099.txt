@@ -1,0 +1,61 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules                 Version:    4.1
+East Midlands                    Final Subsidiary Change Rules 2024               Date:     13th September
+                                                                                            2023
+                                                                                    Page:   97 of 123
+
+Leicester Junction
+
+Junction Margins
+First Movement                                 Second Movement                                Margin
+Down Tamworth Goods to Down Tamworth           Down Main to Down Tamworth Goods               5½
+Goods pass Burton
+Down Tamworth Goods to Down Tamworth           Down Main/Down Tamworth Goods to Coalville     5½
+Goods pass Burton                              Lines
+Down Main to Down Tamworth Goods/Coalville     Down Tamworth Goods to Down Tamworth           2½
+Lines                                          Goods pass Burton
+Down Tamworth Goods to Coalville Lines         Down Tamworth Goods to Down Tamworth           2½
+                                               Goods pass Burton
+Down Main to Down Tamworth Goods/Coalville     Down Main to Down Main pass Burton             2½
+Lines
+Down Main to Down Main pass Burton             Down Main to Down Tamworth Goods/Coalville     4
+                                               Lines
+Down Tamworth Goods to Down Tamworth           Coalville Lines to Up Main/Up Goods            5½
+Goods pass Burton
+Down Main to Down Tamworth Goods               Coalville Lines to Up Main/Up Goods            4
+Down Main to Down Main pass Burton             Coalville Lines to Up Main/Up Goods            3½
+Coalville Lines to Up Main/Up Tamworth Goods   Down Main to Down Tamworth Goods               4
+Coalville Lines to Up Main/Up Tamworth Goods   Down Tamworth Goods to Down Tamworth           2½
+                                               Goods pass Burton
+Coalville Lines to Up Main/Up Tamworth Goods   Down Main to Down Main pass Burton             2½
+Coalville Lines to Up Main/Up Tamworth Goods   Up Main to Up Main pass Burton                 3½
+Coalville Lines to Up Main/Up Tamworth Goods   Up Main to Up Tamworth Goods                   5
+Up Main to Up Main pass Burton                 Coalville Lines to Up Main/Up Tamworth Goods   2½
+Up Main to Up Tamworth Goods                   Coalville Lines to Up Main/Up Tamworth Goods   4
+
+
+Branston Junction
+
+Junction Margins
+First Movement                                 Second Movement                                Margin
+Up Main to Up Main pass Burton                 Up Main to Coalville Lines                     3
+Up Main to Coalville Lines                     Up Main to Up Main passenger pass Burton       4
+Up Main to Coalville Lines                     Up Main to Up Main freight pass Burton         4½
+Up Main to Coalville Lines                     Down Main to Down Main pass Burton             2
+Up Main to Coalville Lines                     Down Tamworth Goods/Coalville Lines to         4
+                                               Down Main
+Down Main to Down Main pass Burton             Up Main to Coalville Lines                     4
+Down Main to Down Main pass Burton             Pass Down Tamworth Goods/Coalville Lines to    3
+                                               Down Main
+Down Main to Down Main pass Burton             Depart Down Tamworth Goods/Coalville Lines     2
+                                               to Down Main
+Down Tamworth Goods/Coalville Lines to         Down Main to Down Main pass Burton             4
+Down Main
+Down Tamworth Goods/Coalville Lines to         Up Main to Coalville Lines                     4
+Down Main
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

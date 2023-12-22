@@ -1,0 +1,62 @@
+ NETWORK RAIL                             Timetable Planning Rules                       Version: 4.1
+ Kent & HS1                                                     OFFICIAL
+                                        Final Proposal for Subsidiary                              25th August 2023
+                                                                                         Date:
+                                           Timetable 2024                                Page:     76 of 168
+
+
+
+5.2.2 General Capacity Constraints
+Where single line working is to operate or trains are to be routed to run on a line other than that normally planned for
+them, constraints on capacity will apply – see the Engineering Access Statement.
+
+The following special capacity and timing restrictions apply in addition to the constraints stated elsewhere in this
+document:
+
+ETCS Level 2 operating within GTR trains will normally be operatational between Blue Anchor Junction and
+Blackfriars Junction via the Snow Hill Lines and lines 4 & 5. Special operational arrangements will need to apply for
+trains taking alternative routes between these locations. A 2½ minute headway is therefore allowed between
+consecutive trains operated by ETCS compatible rolling stock
+
+Junctions
+
+ SO110 LONDON VICTORIA TO RAMSGATE (VIA HERNE HILL AND CHATHAM)
+ Line/Location                 Section                        Remarks
+ Factory Junction              From Longhedge Junction        Critical times SX 07.00-09.45, 16.00 – 19.00
+                               to Atlantic/Chatham Lines
+
+
+ SO130 LONDON CHARING CROSS TO DOVER PRIORY (VIA TONBRIDGE)
+ Line/Location                 Section                        Remarks
+ Saltwood Junction             Northbound from Dollands       Critical times SX 06.00-08.30
+                               Moor
+
+
+ SO130D ST JOHNS JUNCTION TO LEWISHAM JUNCTION
+ Line/Location                 Section                        Remarks
+ Lewisham                      Lewisham Junction              Critical times SX 0700-09.30, 16.30-19.00 All Directions
+
+
+ SO130H SALTWOOD JUNCTION TO RT/ET BOUNDARY
+ Line/Location                 Section                        Remarks
+ Saltwood Junction             Northbound from Dollands       Critical times SX 06.00-08.30
+                               Moor
+
+
+ SO250 FACTORY JUNCTION TO MITRE BRIDGE JUNCTION
+ Line/Location                 Section                  Remarks
+                          For Route SO250 Please see Sussex Timetable Planning Rules
+
+
+ SO250A GROSVENOR BRIDGE JUNCTION TO FACTORY JUNCTION
+ Line/Location                Section                  Remarks
+                         For Route SO250A Please see Sussex Timetable Planning Rules
+
+
+ SO250D FALCON JUNCTION TO LATCHMERE JUNCTION (NO 1)
+ Line/Location                Section                  Remarks
+                         For Route SO250D Please see Sussex Timetable Planning Rules
+
+
+
+                                      Electronic copy - uncontrolled when printed

@@ -1,0 +1,65 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                      Timetable Planning Rules 2024                 Version:   4.1
+Western + Wales       Final Principal and Preliminary Proposal for Subsidiary
+                                                          OFFICIAL                Date:    6th October 2023
+                                      Change Timetable 2024                       Page:    10 of 289
+
+
+Reporting         Description
+number
+
+                  Cardiff to Chester via Shrewsbury/Wrexham General
+                  Birmingham/Manchester to Llandudno/Bangor/Holyhead
+                  Liverpool to Chester/Wrexham General
+                  Wrexham General/Chester to Liverpool
+1Exx              Destination in North East Route / East Coast Route
+[Odd numbered]    Pembroke Dock/Fishguard Harbour/Carmarthen to Swansea
+[Even numbered]   Swansea to Carmarthen/Fishguard Harbour/Pembroke Dock
+[Odd numbered]    Milford Haven to Carmarthen
+[Even numbered]   Carmarthen to Milford Haven
+1Fxx
+[Odd numbered]    Cardiff Central/Bristol/Westbury to Portsmouth
+[Even numbered]   Portsmouth to Westbury/Bristol/Cardiff Central
+1Gxx              London to Gloucester/Cheltenham Spa/Worcester via Swindon
+                  Aberystwyth/Holyhead to Birmingham
+1Hxx
+[Odd numbered]    Paddington to Bristol/Weston/Taunton/Exeter/WoE via Hullavington
+[Even numbered]   WoE/Exeter/Taunton/Weston/Bristol to Paddington via Hullavington
+                  Holyhead/Llandudno to Manchester
+1Jxx              Paddington to Westbury/Frome via Newbury
+                  WoE/Exeter/Taunton to Paddington via Castle Cary (calls at Frome)
+                  Holyhead to Shrewsbury
+                  Birmingham/Wolverhampton to Shrewsbury/Machynlleth/Aberystwyth
+                  Salisbury to Reading
+1Kxx              Bristol to Paddington via Westbury
+[Odd numbered]    Bedwyn/Newbury to Paddington
+[Even numbered]   Paddington to Newbury/Bedwyn
+1Lxx              Destination in Anglia Route
+[Low numbered]    South Wales to Paddington
+[High numbered]   Worcester/Cheltenham/Gloucester to Paddington via Swindon
+[Odd numbered]    Waterloo to Exeter St Davids
+[Even numbered]   Exeter St Davids to Waterloo
+1Mxx              Destination in East Midlands Route / North West and Central Region
+                  Paddington to Banbury
+1Nxx              Oxford to Bristol
+                  Plymouth to Newquay
+1Oxx              Destination to Southern Region
+1Pxx              Hereford/Malvern/Worcester/Moreton to Paddington via Charlbury
+                  Oxford to Paddington
+                  Didcot Parkway/Reading to Paddington
+                  Newquay to Plymouth
+1Qxx              Network Rail test train (loco hauled over 75mph or HST formation)
+1Rxx              Paddington to Reading
+                  Aberystwyth/Machynlleth to Shrewsbury
+                  Holyhead to Euston [morning peak services only]
+1Sxx              Destination in Scotland’s Railway Region
+1Txx              Paddington to Heathrow Airport
+                  Bristol to Swindon via Box
+                  Plymouth to Paignton
+                  Marylebone to Oxford
+1Uxx              Paddington to Bristol Parkway via Hullavington
+1Vxx              Origin in another Region
+
+
+                                Electronic copy - uncontrolled when printed.

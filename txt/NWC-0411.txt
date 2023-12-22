@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    399 of 443
+
+STATION                            PLATFORM         LENGTH      NOTES
+
+Windermere                         Single                 144
+Wimslow Winslow                    1                      106
+Wimslow Winslow                    2                      106
+Winsford                           Down                    86
+Winsford                           Up                      80
+Witton                             Down                   139
+Witton                             Up                     137
+Woburn Sands                       1                       68
+Woburn Sands                       2                       62
+Wolverhampton                      1                      267
+Wolverhampton                      2                      278
+Wolverhampton                      3                      244
+Wolverhampton                      4                      278
+Wolverhampton                      5                       86
+Wolverhampton                      6                      120
+Wolverton                          1                      261   Down Fast
+Wolverton                          2                      246   Up Fast
+Wolverton                          3                      254   Down Slow
+Wolverton                          4                      264   Up Slow
+Wood End                           Up                      94
+Wood End                           Down                   122
+Woodley                            1                       71
+Woodley                            2                       83
+Woodsmoor                          Down                    90
+Woodsmoor                          Up                      90
+Wooton Wawen                       Down                   122
+Wooton Wawen                       Up                     122
+Worcester Foregate Street          1 - Down and           152
+                                   Up
+Worcester Foregate Street          2 - Down and           154
+                                   Up
+Worcestershire Parkway             1 – Up                 265
+Worcestershire Parkway             2 – Down               265
+Worcestershire Parkway             3                      265
+Worcester Shrub Hill               1A – Down              104
+Worcester Shrub Hill               1B - Down              147
+Worcester Shrub Hill               2 - Down               259   Platform 2 can be used for two short trains, but
+                                                                no intermediate signal is provided
+Worcester Shrub Hill               2 - Up                 259   Platform 2 can be used for two short trains, but
+                                                                no intermediate signal is provided.
+Worcester Shrub Hill               3                       70   Bay
+                                                                Bay will hold 3 Mk I or Mk III/Sprinter vehicles
+Workington                         Down                    80   Additional 105m unlined
+Workington                         Up                      81   Additional 103.5m unlined
+Wylde Green                        Down                   153
+Wylde Green                        Up                     152
+Wythall                            Down                   119
+Wythall                            Up                     119
+
+Yardley Wood                       Down                   143
+Yardley Wood                       Up                     143
+
+
+
+
+                             Electronic copy - uncontrolled when printed

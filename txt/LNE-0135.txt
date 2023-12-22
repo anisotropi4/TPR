@@ -1,0 +1,58 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+London North Eastern                    Revised Final Rules for                       Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                   Page: 132 of 368
+
+
+Huntingdon
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                          Value
+Sandy to Huntingdon                             DF to DS pass to pass; approach control         1 EMU
+                                                                                                2 HST/LH/
+                                                                                                180/225/80X
+                                                DS to DF pass to pass; approach control         ½
+Huntingdon to Holme                             DF to DS pass to pass; approach control         ½ EMU
+                                                                                                1
+                                                                                                HST/LH/180/
+                                                                                                225/80X
+                                                DS to DF pass to pass; differential junction    1
+                                                speed
+
+Movement Up                                     Reason                                          Value
+Conington South Jn to Huntingdon                UF to US pass to pass; approach control         ½
+                                                                                                EMU/Freight
+                                                                                                1½ HST/LH/
+                                                                                                180/225/80X
+Huntingdon to Sandy                             US to UF pass to pass; approach control and     1½
+                                                differential junction speed
+
+Dwell Time
+EMU                                            1
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Up Slow pass/arrive having diverged from Up     Up Fast to Up Fast                              2½
+Fast
+Down train to clear to SL                       Before next non-stop train passes               3
+Pass Down Fast                                  Depart DSL to DFL                               1½
+Empty EMU to arrive Up platform from DFL        Before next non-stop train passes               3½
+Depart Up Bay                                   Arrive Up Slow Platform                         3
+Arrive Up Bay from P33 signal                   Arrive Up Slow Platform                         3½
+
+Platform Reoccupation                           3 minutes
+
+
+
+Conington Loop
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Pass Up Main                                    Depart Loop                                     3 after first
+                                                                                                train passes
+                                                                                                Conington
+                                                                                                South Jn
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

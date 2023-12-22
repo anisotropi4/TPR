@@ -1,0 +1,60 @@
+                                                    OFFICIAL
+
+
+Network Rail                                                                                       Version 4.0
+National                                                                                   Date: 28th July 2023
+                                  Final Proposal for Subsidiary Change 2024
+                                                Page 8 of 114
+Diagram B (3-aspect signalling)
+
+
+
+
+Technical Headway at Signal GPL66 (above right) is the time elapse between the front of the first train
+passing GPL66 (showing a green aspect) and its rear clearing the overlap of GP6144 (above left), this being
+the point at which GPL66 would be able to show a green aspect again. Again, to this must be added the
+system reset time and the sighting time for the second train to see GPL66 at green.
+
+Hence if the first train were able to maintain 70mph through the section and its length were 120m, the
+calculations undertaken would be:
+
+Section (3-Aspect)                    Distance/length (Metres)
+Distance GPL66 to GP6146              1482
+Distance GP6146 to GP6144             1248
+Overlap of GP6144                     222
+Train length                          120
+Total                                 3072
+
+For this example, system reset time is 4 seconds, and sighting time is 9 seconds.
+
+3072m at 70mph takes 98s, so adding 4s and 9s this would give a Technical Headway of 111s in this
+example. Similarly a 350m-long train that could maintain 40mph though the section would alter the
+calculation to: (1482+1248+222+350)m at 40mph – 185s.. Adding 4s and 9s gives a Technical Headway of
+198s in this case.
+
+
+Diagram C (2-aspect signalling)
+
+
+
+
+Technical Headway at Signal GPU105 (above centre-right) is the time elapse between the front of the first
+train passing GPU105 (showing a green aspect) and its rear clearing the overlap of GPL103 (above left), this
+being the point at which GPU105 would be able to show a green aspect again. Again, the system reset time
+and sighting time must be added. In this instance, however, unlike the 4-aspect and 3-aspect scenarios
+above, in order for the second train not to see restrictive aspects, it must see GPU105R (above right) at
+green.
+
+So if the first train were to maintain 40mph through the section and its length were 120m, the calculations
+undertaken would be:
+
+Section (2-Aspect)                    Distance/length (Metres)
+Distance GPU105 to GPU103             2222
+Overlap of GPU103                     251
+Train length                          120
+Total                                 2593
+
+
+
+
+                               Electronic copy – uncontrolled when printed

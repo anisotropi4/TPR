@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:     28th July 2023
+West and Central
+                                                                                      Page:    426 of 443
+
+
+NW7021 MILES PLATTING JN TO MARSDEN
+Timing Section                      Type    FL/ML   SL      GL      Remarks
+
+
+
+Up – Daily
+Approaching Ashton Moss North       P       ½                       Applies to all stations stopping trains
+Jn                                                                  between Huddersfield and Manchester
+                                                                    Victoria. This allowance is to cover for
+                                                                    potential overtime of station dwells along
+                                                                    the route.
+Approaching Philips Park West Jn    E       2                       Also applies to trains towards Philips Park
+                                                                    South Jn, however, does not apply to
+                                                                    stopping trains originating at Greenfield or
+                                                                    Stalybridge
+
+
+NW7025 PHILIPS PARK WEST JN TO ASHBURYS WEST JN
+Timing Section                      Type    FL/ML   SL      GL      Remarks
+
+Up – Daily
+Approaching Philips Park South Jn   E       2
+
+
+NW8001 HUNTS CROSS WEST JN TO SOUTHPORT
+Timing Section                      Type    FL/ML   SL      GL      Remarks
+
+Down – Daily
+Approaching Southport               P       1                       Only Applies to Merseyrail Electrics Class
+                                                                    2 services
+
+Up – Daily
+Approaching Hunts Cross West Jn     P       1                       Only applies to Merseyrail Electrics Class
+                                                                    2 services
+Approaching Sandhills               P       ½                       Only applies to Merseyrail Electrics Class
+                                                                    2 services. Increased to 1 minute for
+                                                                    services terminating at Liverpool Central
+
+
+NW8005 SANDHILLS JN TO ORMSKIRK
+Timing Section                      Type    FL/ML   SL      GL      Remarks
+
+Down – Daily
+Approaching Ormskirk                P       1                       Only applies to Merseyrail Electrics Class
+                                                                    2 services
+
+
+NW8011 MANN ISLAND JN TO WEST KIRBY (VIA LOOP)
+Timing Section                      Type    FL/ML   SL      GL      Remarks
+
+Down – Daily
+Approaching West Kirby              P       1                       Only applies to Merseyrail Electrics Class
+                                                                    2 services
+
+
+
+
+                             Electronic copy - uncontrolled when printed

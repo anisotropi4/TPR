@@ -1,0 +1,59 @@
+NETWORK RAIL                        Timetable Planning Rules                      Version: 4.1
+London North Eastern                  Revised Final Rules for                       Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                   Page: 154 of 368
+
+
+Letchworth Garden City EMU Sidings
+
+Operating Stop / Operating        All services travelling from Letchworth A/D line to Letchworth CS Reception
+Restrictions                      must be shown to have a ‘dot stop’ at Letchworth A/D line.
+
+                                  All services travelling to/from Letchworth A/D line or Letchworth CS
+                                  Reception towards or from Baldock direction must be shown to have a ‘dot
+                                  stop’ at Letchworth CS Reception.
+
+                                  All movements between Stop Board 4 and Letchworth Reception
+                                  CS/Letchworth CSD and also Stop Board 5 and Letchworth A/D
+                                  line/Letchworth CSD are controlled by the shunter and in most cases only
+                                  one movement at any one time is permitted.
+
+                                  Trains can be held at Stop Board 5 awaiting authority from the shunter to
+                                  proceed towards Letchworth CS Reception; however trains cannot be
+                                  signaled from K954 signal (from Royston) to Stop Board 4 until the previous
+                                  movement within the yard has arrived at Letchworth CSD or Letchworth A/D
+                                  line.
+
+                                  Trains of more than 8 cars should not be planned to stable in Letchworth
+                                  CSD without prior agreement as trains longer than this will block the
+                                  walkways.
+
+Junction Margins
+First Movement                                Second Movement                                   Margin
+Pass/Depart Letchworth Garden City towards    Depart Letchworth CS Reception towards            3
+Royston                                       Royston
+Pass/Depart Letchworth Garden City towards    Arrive Letchworth CS Reception                    3
+Royston
+Arrive Letchworth CS Reception from Royston   Arrive/Pass Letchworth Garden City from           5
+                                              Royston
+Arrive Letchworth CS Reception from Royston   Depart Letchworth Garden City towards             1
+                                              Royston
+Arrive Letchworth CS Reception from Royston   Pass Letchworth Garden City towards Royston       3
+Depart Letchworth CSD towards Royston         Depart Letchworth CSD towards Royston or          10
+                                              Letchworth A/D line
+Depart Letchworth CSD towards A/D line        Depart Letchworth CSD towards Royston or          23 (if first
+                                              Letchworth A/D line                               train formed
+                                                                                                of up to 6
+                                                                                                cars)
+                                                                                                24 (if first
+                                                                                                train formed
+                                                                                                of 8 cars)
+Arrive Letchworth CSD from Royston            Arrive Letchworth CSD from Royston                10
+Arrive Letchworth CSD from Letchworth A/D     Depart Letchworth A/D towards Letchworth CS       Same Time
+                                              Reception
+Arrive Letchworth CSD from Letchworth A/D     Arrive at Letchworth CS Reception from            6
+                                              Royston
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

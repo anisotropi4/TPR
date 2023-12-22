@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                        Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                       Date:    6th October 2023
+                                          Change Timetable 2024                              Page:    197 of 289
+
+
+Working of trains from the Meldon Line, all freight trains returning from Meldon must stop at the boundary board
+between Dartmoor Railway Co. and Network Rail for Rolling Stock Technician examination. Examination takes 5
+minutes and is included in the Meldon Quarry to Crediton sectional running time.
+
+Yeoford
+
+Dwell Time
+15x to 16x                             ½*
+* : Request Stop
+
+Copplestone
+
+Dwell Time
+15x to 16x                             ½
+
+Morchard Road
+
+Dwell Time
+15x to 16x                             ½*
+* : Request Stop
+
+Lapford
+
+Dwell Time
+15x to 16x                             ½*
+* : Request Stop
+
+Eggesford
+
+Dwell Time
+15x                                    2
+If two trains are timed to cross at Eggesford, then the first train to arrive requires 3 minutes dwell to perform station
+and Token duties. The second train to arrive requires 2 minutes for station and Token duties.
+
+Platform end conflicts
+First Movement                               Second Movement                              Margin        Reason
+1st train departs Eggesford                  2nd train departs Eggesford                  1 minute      Calls to
+                                                                                                        signaller
+
+Signalling Restriction
+Train movements and token operations at Eggesford are controlled remotely from Crediton S.B. Due to signaller
+workload considerations, the following moves cannot be made simultaneously:
+First Movement                         Second Movement                      Margin
+Down train departs or Up train         Train departs Eggesford (either      3
+arrives Crediton                       direction)
+Train departs Eggesford (either        Down train departs or Up train       3
+direction)                             arrives Crediton
+
+Kings Nympton
+
+Dwell Time
+15x to 16x                             ½*
+* : Request Stop
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

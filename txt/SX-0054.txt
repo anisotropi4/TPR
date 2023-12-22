@@ -1,0 +1,61 @@
+    NETWORK RAIL                          Timetable Planning Rules                    Version:   4.3
+    Route: Sussex                         Final Rules for Subsidiary                  Date:      18th October 2023
+                                                Timetable 2024 OFFICIAL
+                                                                                      Page:      50 of 163
+
+4.6 Driver Only Operation Limits
+When special trains are required to operate DOO (NP) over the below routes, it must be ascertained that competent
+staff are available to deal with these trains at the forwarding and receiving terminals, sidings, yards etc. or where
+locomotive changes take place en route. Furthermore, signal boxes are to be advised of these additional DOO (NP)
+services, with particular reference to ECS trains.
+
+Notes:
+• Pass -                Passenger trains
+• ECS Slide -           Empty Coaching Stock with power operated sliding doors
+• NA -                  Not authorised (except where # shown).
+• P-                    Permitted.
+• +-                    Subject to any relevant Route Availability restrictions.
+• *-                    Subject to provisions of working manual - White Pages (Sect H) paragraph. H10/1.
+• @-                    Unless the cab from which the train is being driven is Speed Sensing Fitted (SSF), slam door
+                        MU trains are limited to a maximum journey of 10 miles.
+•     #-                Permitted for short notice movements, when all other DOO (NP) conditions are fulfilled and all
+                        doors are locked before departure. Authorisation MUST be obtained from Network Rail
+                        Operations Control, before this can be applied.
+
+    SO250 FACTORY JUNCTION TO MITRE BRIDGE JUNCTION
+    ROUTE SECTION                                           PASS                                    ECS SLIDE +
+
+    Factory Junction and Mitre Bridge Junction              P                                       P
+
+
+    SO250A GROSVENOR BRIDGE JUNCTION TO FACTORY JUNCTION
+    ROUTE SECTION                                           PASS                                    ECS SLIDE +
+
+    Grosvenor Bridge Junction and Factory Junction          P                                       P
+
+
+    SO250B BATTERSEA PIER JUNCTION TO LONGHEDGE JUNCTION
+    ROUTE SECTION                                           PASS                                    ECS SLIDE +
+
+    Battersea Pier Junction and Longhedge Junction          P                                       P
+
+
+    SO250C POUPARTS JUNCTION TO LONGHEDGE JUNCTION
+    ROUTE SECTION                                           PASS                                    ECS SLIDE +
+
+    Pouparts Junction and Longhedge Junction                P                                       P
+
+    SO250D LATCHMERE JUNCTION (NO 1) TO CLAPHAM JUNCTION
+    ROUTE SECTION                                           PASS                                    ECS SLIDE +
+
+    Latchmere Junction (No 1) and Clapham Junction          P                                       P
+
+    SO500 LONDON VICTORIA TO BRIGHTON
+    ROUTE SECTION                                           PASS                                    ECS SLIDE +
+
+    London Victoria and Brighton                            P                                       P
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

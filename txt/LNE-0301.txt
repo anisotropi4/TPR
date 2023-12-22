@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version: 4.1
+London North Eastern                     Revised Final Rules for                      Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                  Page: 298 of 368
+
+
+Dockfield Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                           Value
+Trains from Leeds to Skipton approaching          Approach control                                 ½
+Dockfield Junction requiring Shipley Platform
+2W only
+
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+Pass from Ilkley                                     Pass to Ilkley/Leeds                             3
+Pass to Shipley Platform 2                           Pass from Shipley Platform 3                     3
+Pass to Leeds                                        Pass from Ilkley                                 2½
+Pass from Shipley Platform 3                         Pass to Shipley Platform 2                       3
+Pass from Shipley Platform 1                         Pass from Shipley Platform 3 (one train to       2½
+                                                     Leeds, one to Ilkley)
+Pass from Shipley Platform 3                         Pass from Shipley Platform 1 (one train to       2½
+                                                     Leeds, one to Ilkley)
+Note: When a loco hauled or HST service approaches Platform 3 from Bradford it has to pass the Starting signal
+to platform the train, thus the route has to be cleared across Shipley East and Dockfield Junction. Therefore 4
+minutes must be allowed after any other movement across Shipley East/Dockfield Jn
+
+
+Shipley
+
+Adjustments to Sectional Running Times
+Movement Up F.Sq/Down Shipley                    Reason                                            Value
+Trains from Bradford to Leeds/Ilkley             Approach control                                  ½
+approaching Shipley Platform 3W
+Trains from Bradford to Skipton                  Acceleration from low speed                       ½ to be
+                                                                                                   applied
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+
+Movement Up Shipley/Dn F.Sq.                     Reason                                            Value
+Trains from Skipton to Bradford                  Approach control                                  ½
+Approaching Shipley Platform 5 or 5W
+
+Dwell Time
+DMU/EMU                              1
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Arrive Platform 3 from Bradford                  Depart Platform 5 to Bradford                     1
+Depart Platform 3 or 5 to Bradford               Arrive Platform 3 or 5 from Bradford              4
+Arrive Platform 3 or 4 from Dockfield Jn.        Depart Platform 5 to Bradford                     3
+Depart Platform 5 to Bradford                    Arrive Platform 3 or 4 from Dockfield Jn          4
+Arrive Platform 5 from Keighley                  Depart Platform 2 to Keighley                     1
+Depart Platform 2 or 5 to Keighley               Arrive Platform 5 from Keighley                   4½
+Depart Platform 4 to Bradford                    Depart Platform 5 to Bradford                     3½
+Depart Platform 3 to Leeds 80x 9/10 Car          Depart Platform 5 to Bradford                     1½
+Depart Platform 3 to Leeds 80x 9/10 Car          Arrive Platform 3 or 5 from Bradford              4
+Arrive Platform 3 from Bradford 80x 9/10car      Arrive Platform 5 from Skipton                    Simultaneous
+Arrive Platform 5 from Skipton                   Arrive Platform 3 from Bradford 80x 9/10car       Simultaneous
+
+
+                                   Electronic copy - uncontrolled when printed.

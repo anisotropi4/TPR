@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                        Page:   164 of 443
+
+Willesden West London Jn
+
+Movement Up                                      Reason                                            Value
+Up Fast and South West Sidings to Up Slow        Differential Junction speed                       1
+after West London Jn
+Up Fast or Up Slow to Mitre Bridge Jn            Differential Junction speed                       1
+approaching West London Jn
+Train crossing from Relief Lines, South          Acceleration Allowance                            1½ for
+West Sidings or Acton Lane Reception onto the                                                      Passenger,
+Up Fast towards Camden Jn                                                                          2 ½ for freight
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+Train from Willesden TMD onto the Up Slow        Acceleration after slow crossover                 1
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Train crossing from Relief Lines, South West     Pass on Down Fast                                 4½
+Sidings or Acton Lane Reception towards
+Camden Jn
+Pass on Up or Down Fast                          Train crossing from Relief Lines, South West      2
+                                                 Sidings or Acton Lane Reception towards
+                                                 Camden Jn
+Train crossing from Up Fast towards Mitre        Train from Mitre Bridge Jn to Down Fast           5*
+Bridge Jn
+* 4 minutes when preceding fouling move is a 5 car EMU or other train of equivalent length
+
+
+Harlesden Jn
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Down Fast or Slow to Railnet Reception, Up       Pass Willesden West London Jn on the Up           4½
+and Down Goods Lines, Brent Sidings and          Slow having not stopped at Wembley Central
+Carriage Line
+Down Fast or Slow to Railnet Reception, Up       Pass Willesden West London Jn on the Up           4
+and Down Goods Lines, Brent Sidings and          Slow from a stand at Wembley Central
+Carriage Line
+Pass on the Up Slow at Willesden West            Down Slow to Railnet Reception, Up and Down       ½
+London Jn                                        Goods Lines, Brent Sidings and Carriage Line
+
+
+Sudbury Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                             Value
+Train from Up or Down Relief Lines to Down Slow to be applied at the next timing point after Wembley Central
+Class 4 up to 1000t (inclusive)                 Acceleration Allowance                             ½*
+Class 4 over 1200t                              Acceleration Allowance                             1*
+Class 6 up to 1400t (inclusive)                 Acceleration Allowance                             ½*
+Class 6 over 1600t                              Acceleration Allowance                             1*
+*Additional ½ for trains from Up and Down Goods to be applied before Wembley Central
+
+
+
+
+                              Electronic copy - uncontrolled when printed

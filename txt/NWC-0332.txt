@@ -1,0 +1,60 @@
+NETWORK RAIL                             Timetable Planning Rules                     Version:   4
+Region: North               Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                        Page:    320 of 443
+
+Ardwick Jn
+
+Up trains starting from Manchester Piccadilly      To compensate for shorter distance between       -½
+Platforms 13 and 14 on the Up Slow line            Manchester Piccadilly 13/14 platforms and
+crossing to the Up Fast or Up East lines at        Ardwick Junction compared to that between
+Ardwick Jn formed of light locomotives, DMU,       Manchester Piccadilly Platforms 1 to 12 and
+EMU, 22x, Loco Hauled passenger services           Ardwick Jn
+and NMT
+DOES NOT APPLY TO MOVEMENTS TO
+LONGSIGHT C.S.
+
+Junction Margins
+First Movement                                     Second Movement                                  Margin
+Passenger                                          Passenger                                        3
+Freight                                            Passenger                                        4
+Passenger                                          Freight                                          4
+Freight                                            Freight                                          5
+Up Passenger                                       Down Passenger calling Ardwick                   2
+Passenger                                          Down Passenger                                   2*
+                                                   * 2nd train must have a minimum of (1½)
+                                                   pathing time approaching Ardwick Jn
+Train to Ardwick TMD                               Up train pass Ardwick Jn.                        4½
+Up train pass Ardwick Jn.                          Pass from Ardwick TMD                            4½
+
+
+Mayfield Goods Loop
+
+Junction margins
+First Movement                                     Second Movement                                  Margin
+Depart Manchester Piccadilly platform 14           Depart Mayfield Goods Loop to Manchester         1
+towards Manchester Oxford Road                     Piccadilly platform 14
+Arrive into Mayfield Goods Loop from platforms     Pass Ardwick Jn on Down Slow                     1
+9 to 14
+
+Planning Restrictions:
+    • The loop is permissive for light engines, ECS and freight
+
+
+Manchester Piccadilly
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                           Value
+Trains arriving in Platforms 11 & 12, if already   Approach control                                 ½
+occupied
+
+Connectional Allowance                             10
+
+Dwell Time (applies for services on Platforms 13 and 14 only)
+All, except:                                   2
+Class 323                                      1
+
+
+
+
+                                Electronic copy - uncontrolled when printed

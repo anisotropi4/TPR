@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:     28th July 2023
+West and Central
+                                                                                        Page:    332 of 443
+
+Salford Crescent
+
+* Margins reduced to 3 minutes if the second train has a minimum of 1 minute pathing time approaching Salford
+Crescent.
+
+Other Restrictions
+Between 0030 and 0800 Sundays, only one platform line is available
+
+Platform Reoccupation Margin
+Same direction                                                                                      2½
+
+
+Brindle Heath Arrival and Departure Line
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Down train arrives Brindle Heath Arrival and      Down train departs or passes Salford Crescent     Same time
+Departure Line                                    towards Bolton
+Up train arrives or passes Agecroft South Jn      Down train departs or passes Salford Crescent     Same time
+from Brindle Heath Arrival and Departure Line     for Bolton
+Up train arrives or passes Salford Crescent       Up trains depart from Brindle Heath Up            Same time
+from Bolton                                       Sidings/Brindle Heath Arrival and Departure
+                                                  Line
+Up train arrives at Brindle Heath Up Sidings or   Up train arrives or passes Salford Crescent       6
+Brindle Heath Arrival and Departure Line          from Bolton
+(Propelling/reversal move)
+Down passenger service from Salford Crescent      Down freight for Brindle Heath Arrival and        3
+towards Bolton                                    Departure Line
+
+
+Brindle Heath Waste Terminal
+
+Planning Note
+Trains to Brindle Heath Waste Terminal over 315m/1033ft/49SLU will occupy Brindle Heath Arrival and Departure
+Line until booked departure time. No other movements are permitted on the Brindle Heath Arrival and Departure
+Line during this time.
+
+
+Burnden Jn
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                            Value
+Departures from Bolton Platforms 4 or 5           Slow speed over junction                          ½ to be
+                                                                                                    added
+                                                                                                    approaching
+                                                                                                    next timing
+                                                                                                    point
+
+Junction Margins
+First Movement                                  Second Movement                                     Margin
+Passenger pass to platform 5 at Bolton          Passenger pass to platform 1, 2 or 3 at Bolton      2*
+* Second train must have a minimum of (1) approaching Burnden Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

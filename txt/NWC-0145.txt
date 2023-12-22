@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    133 of 443
+
+
+
+NW1007 NANTWICH (EXCLUSIVE) TO CREWE SOUTH JN
+TIMING POINT                        DOWN       UP          NOTES
+
+Nantwich to Gresty Lane Gresty      AB+2       AB+2
+Green West Jn
+Gresty Lane Gresty Green West       4          4
+Jn to Crewe South Jn
+
+
+NW1009 BASFORD HALL JN TO SANDBACH SOUTH JN (INDEPENDENT LINES)
+TIMING POINT                        DOWN       UP          NOTES
+
+Basford Hall Jn to Crewe Signal     4                      A 4 minute headway applies for permissive
+BH34/36                             AB+2                   movements
+                                                           See section 5.3 for additional information
+Crewe Signal BH34/36 to Crewe       4
+Sorting Sidings North SB            AB+2
+Crewe Sorting Sidings North SB to   4 AB+2                 A 4 minute headway applies for Permissive
+Crewe Signal SG5/SG9                                       movements
+
+Crewe Signal SG5/SG9 to Salop       4
+Goods Jn SB                         AB+2
+Salop Goods Jn SB to Crewe                     4           A 4 minute headway applies for Permissive
+Signal NH10/12                                 AB+2        movements
+
+Crewe Signal NH10/12 to Crewe                  4
+Sorting Sidings North SB                       AB+2
+Crewe Sorting Sidings North SB to              4           See section 5.3 for additional information
+Basford Hall Up Through Siding                 AB+2
+Stop Board
+Basford Hall Up Through Sidings                4
+Stop Board to Crewe Sorting                    AB+2
+Sidings South
+Crewe Sorting Sidings South to                 4
+Basford Hall Jn                                AB+2
+Crewe Sorting Sidings North SB to              4
+Crewe Signal NH43/44                           AB+2
+Crewe Signal NH43/44 to Basford                4
+Hall Jn                                        AB+2
+Salop Goods Jn SB to Sandbach       3          3
+
+
+NW1011 GRESTY LANE TO SALOP GOODS JN
+TIMING POINT                        DOWN       UP          NOTES
+
+Gresty Lane to Salop Goods Jn       AB+2 4     AB+2 4      4 minute headway applies for permissive
+SB                                                         movements
+
+
+NW1013 CREWE SORTING SIDINGS NORTH TO GRESTY LANE
+TIMING POINT                        DOWN       UP          NOTES
+
+Crewe SSN to Gresty Lane            AB+2 4     AB+2 4      4 minute headway applies
+
+
+
+
+                             Electronic copy - uncontrolled when printed

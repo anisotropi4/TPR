@@ -1,0 +1,34 @@
+NETWORK RAIL                        Timetable Planning Rules               Version:   4.3
+Route: Sussex                       Final Rules for Subsidiary             Date:      18th October 2023
+                                          Timetable 2024 OFFICIAL
+                                                                           Page:      163 of 163
+
+
+
+
+6.3 Two-Track Railway Timetable
+ For times when Two Track Railway Operations applies, refer to Section 4 within the Engineering Access
+ Statement
+
+ During periods when the Brighton Main Line timetable is planned to run over two tracks instead of four,
+ the following allowances are to be added to allow for crossing movements between Fast/Quarry and Slow
+ Lines.
+
+ Down
+ {½}               approaching Balham
+ {½}               approaching Stoats Nest Junction
+ {½}               approaching Earlswood
+ {½}               approaching next timing point after Earlswood
+ <1>               approaching Gatwick Airport (GTR services only)
+
+ Up
+ {½}               approaching Earlswood
+ {1}               approaching next timing point after Earlswood
+ {½}               approaching Stoats Nest Junction
+ {½}               approaching Balham
+ <1>               approaching East Croydon (GTR services only)
+
+
+
+
+                             Electronic copy - uncontrolled when printed

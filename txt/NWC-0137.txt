@@ -1,0 +1,63 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version:    4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024            Date:     28th July 2023
+West and Central
+                                                                                          Page:     125 of 443
+
+
+MD345 BESCOT JN TO RUGELEY NORTH JN (EXCLUSIVE)
+TIMING POINT                         DOWN           UP       NOTES
+
+Bescot Yard to Pleck Jn              8              8
+Bescot Stadium to Pleck Jn           5              5
+Pleck Jn to Walsall                  5              5
+                                     Fast           Fast
+                                     5 Slow         5 Slow
+Walsall to Ryecroft Jn               4              4
+Ryecroft Jn to Bloxwich              4*             4*       * 5 when following Class 4, 6, 7 or 8 trains.
+Bloxwich to Hednesford               4*             4*       * 5 when following Class 4, 6, 7 or 8 trains.
+Hednesford to Rugeley Power          5$             4*       $ 6 when following Class 4, 6, 7 or 8 trains
+Station Jn                                                   * 5 when following Class 4, 6, 7 or 8 trains
+Rugeley Power Station Jn to                Single Line
+Rugeley Trent Valley
+
+
+MD350 ANGLESEA SIDINGS TO LICHFIELD CITY
+TIMING POINT                         DOWN           UP       NOTES
+
+Anglesea Sidings to Lichfield City              *            * Single line - One Train in Section (OTS)
+Jn
+
+
+MD355 LICHFIELD TRENT VALLEY JN TO LICHFIELD TRENT VALLEY (CHORD
+LINE)
+TIMING POINT                         DOWN           UP       NOTES
+
+Lichfield Trent Valley Jn to                    *            * Single line - Plan as AB+2
+Lichfield Trent Valley
+
+
+MD360 WALSALL PLECK JN TO DARLASTON JN
+TIMING POINT                         DOWN           UP       NOTES
+
+Pleck Jn to Darlaston Jn             5              5
+
+
+MD365 PORTOBELLO JN TO WOLVERHAMPTON CRANE STREET JN
+TIMING POINT                         DOWN           UP       NOTES
+
+Portobello Jn to Wolverhampton       5              5
+
+
+MD401 HEYFORD TO BORDESLEY JN
+TIMING POINT                         DOWN           UP       NOTES
+
+Heyford to Aynho Jn (exclusive)      4*             4*       * 5 applies if the first train is stopping at Heyford
+Aynho Jn (inclusive) to Small        3              3
+Heath South Jn (inclusive)
+Small Heath South Jn (exclusive)     4              4
+to Bordesley Jn
+
+
+
+
+                               Electronic copy - uncontrolled when printed

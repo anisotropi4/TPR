@@ -1,0 +1,66 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                       Version:   4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024              Date:    28/07/2023
+                                                                                            Page:    139 of 242
+
+
+
+
+Glasgow Queen Street
+
+Connectional Allowance              10
+                                    30 To/from Glasgow Central
+
+Platform End Conflicts
+First Movement                                   Second Movement                                  Margin
+Depart all platforms                             Arrive all platforms where confliction occurs    3
+Arrive all platforms                             Depart all platforms where confliction occurs at 1*
+                                                 platform end
+Arrive all platforms                             Depart all platforms where confliction occurs at Simultaneous
+                                                 points 747 or 748 in tunnel
+* If incoming service has ½ minute or more pathing time immediately approaching Queen Street, simultaneous
+arrive/depart is permissible
+
+
+SC109 POLMONT TO CARMUIRS WEST JUNCTION
+
+Grangemouth Junction
+
+Adjustment to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Down freight from Fouldubs Jn up to 600t        Acceleration                                     ½*
+Down freight from Fouldubs Jn 800-1000t         Acceleration                                     1*
+Down Electric hauled freight from Fouldubs Jn   Acceleration                                     1*
+Down freight from Fouldubs Jn 1200-1400t        Acceleration                                     1½*
+Down freight from Fouldubs Jn 1600t-1800t       Acceleration                                     2*
+Down freight from Fouldubs Jn 2000t and over    Acceleration                                     2½*
+*Applied approaching next timing point
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Freight trains from Grangemouth to Carmuirs     Trains from Carmuirs East to Polmont             4
+East
+Down train departs Falkirk Grahamston           ECS departs from Goods Lines                     2
+
+Note
+When planning reversals at Grangemouth Junction care must be taken to ensure the correct signal is used to
+avoid blocking traffic to or from Fouldubs Junction.
+
+Falkirk Grahamston
+
+Connectional Allowance              3
+
+Dwell Time
+150 / 158 / 170                     1
+LH Slam Doors                       2
+HST Power Doors                     1½
+
+Restriction
+Pathing time must not be used between Falkirk Grahamston and Grangemouth Junction in either direction, owing
+to signaling constraints.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

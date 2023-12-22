@@ -1,0 +1,65 @@
+NETWORK RAIL                              Timetable Planning Rules                           Version:   4.2
+Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                 Change                        Date:    27th October 2023
+                                               Timetable 2024                                  Page:    97 of 178
+
+Eastleigh
+Up train passes/departs Platform 3                Up train arrives at Platform 2           E99                2
+towards Up Fast/Chandlers Ford
+# Increase to 4 minutes if first train freight up to 97 SLU / 620m; increase to 4½ minutes if first train is freight longer
+than 97 SLU / 620m.
+$ Increase to 3 minutes if first train is freight up to 97 SLU / 620m; increase to 3½ minutes if first train is freight
+longer than 97 SLU / 620m.
+* Movements can be made in parallel unless there is also a train passing on the Down Fast less than 3 minutes
+before or after the Down arrival at Platform 2.
+
+
+Eastleigh Depot Ent/Ext Signal
+
+Junction Margins
+First Movement                                       Second Movement                                       Margin
+Between all movements                                                                                      1
+
+
+Eastleigh T&R.S.M.D
+
+Acceptance of Trains
+Minimum margin                          10*
+* Applies to trains arriving via the same route
+Margin between consecutive arrivals of CrossCountry class 22x via the Depot Exit Road may be reduced as
+follows:
+             • If the first train is formed of 5 cars or less the margin can be reduced to 5-minutes.
+             • If the first train is formed of more than 5 cars the margin is 10-minutes.
+
+A 10-minute margin is to be applied between consecutive arrivals via Eastleigh South Junction.
+
+Despatch of Trains
+Minimum margin                         10*
+* Applies to trains departing via the same route
+
+
+Eastleigh Jubilee Sidings
+
+Station Working Requirements
+Access is only available by use of a ‘Shunters Release’ which enables Eastleigh Signalling Centre to set the route.
+
+
+Eastleigh Up Loop
+
+Freight Restrictions
+Pathing Allowance time of no more than 1 minute should be shown for Freight trains using the Up Loop; otherwise
+a stop should be shown at signal E85.
+
+Standage at E85 signal is 519m (approx. 81 SLU) clear of the overlap to E337 signal, or 1053m (approx. 164
+SLU) clear of 466 points.
+
+Standage at E337 signal is 354m (approx. 55 SLU) clear of 466 points.
+
+Freight may depart E85 signal 1 minute after the previous Passenger service has departed Eastleigh platform 1.
+
+N.b. the above length limits are total train length, not including stand-back from signals.
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

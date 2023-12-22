@@ -1,0 +1,82 @@
+                                                                                                  OFFICIAL
+
+
+Network Rail                                                                                                                                                                     Version 4.0
+National                                                                                                                                                                 Date: 28th July 2023
+                                                                 Final Proposal for Subsidiary Change 2024
+                                                                              Page 15 of 114
+
+                                               Measured Value (secs)                Current Dwell (secs)             Cumulative Value (secs) Proposed Dwell (secs)
+
+
+              Station Dwell A                                              61                                   60                                    1                                    60
+Section
+
+
+
+
+              Station Dwell B                                              38                                   30                                    9                                    30
+              Station Dwell C                                              28                                   30                                    7                                    30
+              Station Dwell D                                              31                                   30                                    8                                    30
+               Station Dwell E                                             32                                   30                                   10                                    30
+               Station Dwell F                                             36                                   30                                   16                                    60
+          Time across section:                                            226                                  210                                                                        240
+
+      1.8.10 The principle is that dwell times are balanced in isolation. However, historically there have been
+             occasions where rounded dwells are balanced against inherent resilience in the SRTs, resulting
+             from the SRT rounding process. Where this is perpetuated it must be supported by data that
+             demonstrates this capability at the applicable location.
+
+      1.8.11 If the rounding of a station dwell and a SRT is combined, the cumulative value for the planned SRTs
+             across the section that the station is in, must be equal to exceed the cumulative value for the
+             technical SRTs of that same section by at least the deficit between the measured and planned value
+             of the station dwell.
+
+      1.8.12 Any SRT selected to offset a deficient planned dwell must not also be used to offset another SRT or
+             dwell.
+                                                                                          Dwell                                                                        Current SRTs
+                                               Measured Value (secs)   Current Dwell (secs) Cumulative Value (secs) Proposed Dwell (secs)   Technical SRT (mins)    Planned SRT (mins) Cumulative Value (secs)
+                                      SRT 1                                                                                                                 02:34                   02:30               00:04
+                            Station Dwell A                       34                     30                      4                     30
+                                      SRT 2                                                                                                                03:12                  03:00                  00:16
+              Section
+
+
+
+
+                                      SRT 3                                                                                                                05:06                  05:30                 -00:08
+                            Station Dwell B                       34                     30                      8                     30
+                                      SRT 4                                                                                                                03:55                  04:00                 -00:13
+                                      SRT 5                                                                                                                03:14                  03:30                 -00:29
+                            Station Dwell C                       38                     30                     16                     30
+                        Time across section:                     106                     90                                            90                  18:01                  18:30
+
+
+
+      1.8.13 When a dwell review is carried out, if it is established that the rounding of a measured dwell is
+             balanced with the rounding of an SRT then the dependency between the dwell and the SRT should
+             be documented in the relevant Route Timetable Planning Rules.
+
+      1.8.14 If currently a standard dwell value of 45-seconds applies, then the measured values across a
+             section should not exceed the rounded values if this is to be perpetuated.
+
+      1.8.15 A best practice guide to this methodology can be found in Appendix J.
+
+      1.8.16 Where no station-specific minimum value is specified a standard value of half a minute will apply.
+
+      1.8.17 Timetable Participants are responsible for ensuring that station dwell times are robust for
+             operational usage and takes account of local operational railway characteristics.
+
+
+1.9 Turnround Times
+      1.9.1        The values listed in Section 5.3 of the TPR are Junction Margins and Station Planning Rules.
+
+      1.9.2        Turnround Times are the minimum time required for rolling stock to be prepared on completing one
+                   service before it forms the next service.
+
+      1.9.3        Where necessary and appropriate, differential turnround times shall be created for different
+                   combinations of:
+
+              •         Time of day
+              •         Rolling stock
+                                                             Electronic copy – uncontrolled when printed

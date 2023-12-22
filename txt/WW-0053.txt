@@ -1,0 +1,65 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                      Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                     Date:    6th October 2023
+                                        Change Timetable 2024                            Page:    50 of 289
+
+
+GW740 MAINDEE EAST JUNCTION TO MAINDEE NORTH JUNCTION
+TIMING POINT                                SINGLE               CODE    NOTES
+
+Maindee East Junction                         –                          To/from Llanwern West Junction – GW900
+                                                                         To/from Maindee West Junction – GW900
+Maindee North Junction                        –                          To/from Little Mill Junction – GW730
+                                                                         To/from Maindee West Junction – GW730
+
+GW750 HEREFORD BRECON CURVE GF TO MEB SIDING
+TIMING POINT                        DOWN          UP             CODE    NOTES
+
+Hereford Yard                       –             –                      To/from Hereford – GW730
+Bulmers Sidings                                   –              S
+MEB Siding                                        –                      MEB Sidings Closed
+
+GW770 EBBW VALE TOWN TO GAER JUNCTION
+TIMING POINT                        DOWN          UP             CODE    NOTES
+Ebbw Vale Town                         –                –                Single line
+Ebbw Vale Parkway                      –                                 Single line
+Aberbeeg Jn                            –                –
+Llanhilleth                            –                –            S
+Newbridge                              –                –            S
+Crosskeys                              –                –                Platform detail must be shown
+Risca                                  –                –            S   Platform detail must be shown
+Risca South Jn                         –                –
+Rogerstone                             –                –            S   Single line
+Pye Corner                             –                –            S   Single line
+Park North Jn                         DEV               –
+                                      UEV
+Park Junction                          –              – DEV              To/from Machen – GW773
+                                                       UEV               To/from Ebbw Jn – GW780
+Gaer Junction                        DM UM              –                To/from Newport – GW900
+
+GW773 MACHEN QUARRY TO PARK JN
+TIMING POINT                        DOWN          UP             CODE    NOTES
+
+Machen Quarry                           –
+Park Junction                           –               –                To/from Gaer Jn – GW770
+
+GW780 PARK JUNCTION TO EBBW JUNCTION
+TIMING POINT                        DOWN          UP             CODE    NOTES
+
+Park Junction                           –               –                To/from Machen – GW733
+                                                                         To/from Gaer Jn – GW770
+Ebbw Junction                       ML RL               –                To/from Newport – GW900
+                                                                         To/from Marshfield – GW900
+
+GW784 ALEXANDRA DOCK JN TO 160M 27C, BOUNDARY WITH ABP NEWPORT
+DOCKS
+TIMING POINT                        DOWN          UP             CODE    NOTES
+
+Alexandra Dock Junction                 –               –                To/from Newport – GW900
+ABP Newport Docks                                       –
+
+
+
+                                  Electronic copy - uncontrolled when printed.

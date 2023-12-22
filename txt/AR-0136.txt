@@ -1,0 +1,70 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                        Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                   12th September
+                                                                                       Date:
+                                               2024                                            2023
+                                                                                      Page:    133 of 183
+
+Channelsea Junction
+
+Freight Train Length restriction
+Freight trains of more than 50 SLUs brought to a stand at Signal NL1294 on Channelsea Curve will be foul of
+Stratford Central Junction in rear and junction margins should be applied at Stratford based on departure time
+from signal NL1294
+
+Junction Margins
+Movement                                                                                           Margin
+Between all movements                                                                              3
+
+
+Channelsea Up Loop Signal NL1286
+For ARS regulating purposes in the Westbound direction ARR and DEP times with activities A and * to be used at
+Lea Jn (Tiploc – LEAJ).
+
+
+Stratford Platforms 1 and 2
+
+Junction Margin
+First Movement                                    Second Movement                                   Margin
+Depart from Platform 1                            Arrive in Platform 1 or 2                         3
+Depart from Platform 2                            Arrive in Platform 2                              2
+Arrive in Platform 2                              Depart from Platform 1                            1
+
+
+EA1340 STRATFORD LEA JUNCTION TO HIGH MEADS JUNCTION
+
+Lea Junction
+For ARS regulating purposes in the Westbound direction ARR and DEP times with activities A and * to be used
+and not pathing time.
+
+
+EA1350 CHANNELSEA NORTH JUNCTION TO TEMPLE MILLS EAST JUNCTION
+
+High Meads Junction
+
+For ARS regulating purposes in the Up direction towards Lea Junction or Channelsea Junction, ARR and DEP
+times with activities A and * to be used and not pathing time.
+
+
+Temple Mills East Junction
+
+For ARS regulating purposes in the Northbound (Temple Mills Loop/Orient Way/Coppermill Junction) direction,
+ARR and DEP times with activities A and * to be used and not pathing time.
+
+
+EA1360 DUDDING HILL JUNCTION TO ACTON WELLS JUNCTION
+
+Neasden Junction
+
+Note that Route MD 715 Neasden South Junction to Neasden Junction is closed when Neasden Junction Signal
+Box is switched out. See Section 2.2 Route Opening Hours
+
+Movement                                                   Minimum Allowance
+Run-round at Neasden Junction                              30 minutes
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

@@ -1,0 +1,62 @@
+NETWORK RAIL                              Timetable Planning Rules                        Version: 4.1
+London North Eastern                        Revised Final Rules for                         Date: 12 October 2023
+                                       Subsidiary Change Timetable 2024                     Page: 100 of 368
+
+
+
+
+LN806 TAPTON JUNCTION TO MASBOROUGH JUNCTION VIA ‘OLD ROAD’
+TIMING POINT                            DOWN             UP              NOTES
+
+Standard Headway                        4                4
+
+
+LN807 DORE SOUTH JUNCTION TO DORE WEST JUNCTION
+TIMING POINT                            DOWN             UP              NOTES
+
+Dore South Junction to                             AB+2*                 *Single Line TCB
+Dore West Junction
+
+
+LN808 DORE STATION JUNCTION TO EARLES SIDINGS (EXCL.)
+TIMING POINT                            DOWN             UP              NOTES
+
+Down Direction
+Dore Station Jn to                      4                                *Signal DE5113
+Totley Tunnel East*
+Totley Tunnel East* to                  AB+1^                            *Signal DE5113
+Grindleford (incl)                                                       ^TCB planned as AB+1 based on time
+                                                                         preceding train departs / passes Grindleford
+Grindleford (excl) to Bamford (incl)    5
+Bamford (excl) to                       4 non-stop
+Earles Sidings SB                       6 stopping or
+                                        freight
+
+Up Direction
+Dore West Jn to Dore Station Jn                          4
+Grindleford (excl) to Dore West Jn                       AB+1            TCB planned as AB+1
+Hathersage (excl) to                                     3½ non-stop
+Grindleford (incl)                                       5½ stopping
+                                                         or freight
+Bamford (excl) to                                        3 non-stop
+Hathersage (incl)                                        5 stopping or
+                                                         freight
+Earles Sidings SB to                                     AB+2            TCB planned as AB+2
+Bamford (incl)
+
+
+LN809 SHEPCOTE LANE WEST JUNCTION TO TINSLEY YARD EAST END
+TIMING POINT                            DOWN        UP           NOTES
+
+Standard Headway                                AB+2*            *Single Line TCB
+
+
+LN814 TINSLEY NORTH JUNCTION TO SHEFFIELD TRAM TRANSFER LINE
+TIMING POINT                            DOWN        UP           NOTES
+
+Standard Headway                                AB+2*            *Single Line TCB
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

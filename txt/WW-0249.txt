@@ -1,0 +1,66 @@
+                                                        OFFICIAL
+
+ NETWORK RAIL                            Timetable Planning Rules 2024                   Version:     4.1
+ Western + Wales             Final Principal and Preliminary Proposal for Subsidiary
+                                                                 OFFICIAL                  Date:      6th October 2023
+                                             Change Timetable 2024                         Page:      246 of 289
+
+
+Llandudno Junction
+
+Adjustments to Sectional Running Times
+Movement                                              Reason                                             Value
+Down services to Platform 1 from direction of         Approach Control                                   {1}
+Colwyn Bay or Tal-y-Cafn
+Down loco-hauled services departing platforms 1       Acceleration                                       {1}
+or 3.
+
+Dwell Time
+LH                                       2
+Power                                    2
+220/221                                  2
+390 (hauled)                             2
+
+Junction Margins
+First Movement                                        Second Movement                                    Margin
+Depart Plat. 2                                        Arrive Platform 2                                  5
+
+Splitting and Coupling of Units: Permitted Platform 1 and Platform 3 only. Coupling in the up direction only.
+
+Llandudno Junction Down Sidings
+
+Arrivals and departures from and to Llandudno Jn Station
+Llandudno Junction dep              XX†00                            Llandudno Jn Down        XX†00
+                                                                     Sdg dep
+Llandudno Jn Signal 70 or 260 arr        XXRM03                      Llandudno Jn Signal 69   XX*02
+                                                                     arr
+Llandudno Jn Signal 70 or 260 dep        XXRM07                      Llandudno Jn Signal 69   XX*02
+                                                                     dep
+Llandudno Jn Down Sdg arr                XX†12                       Llandudno Jn Signal 70   XXRM05
+                                                                     or 260 arr
+                                                                     Llandudno Jn Signal 70   XXRM09
+                                                                     or 260 dep
+                                                                     Llandudno Junction arr   XX†12
+
+Arrivals and departures from and to Llandudno Station
+Llandudno dep                       XX†00                            Llandudno Jn Down        XX†00
+                                                                     Sdg dep
+Llandudno Jn Signal 74 arr               XX*??                       Llandudno Jn Signal 69   XX*02
+                                                                     arr
+Llandudno Jn Signal 74 dep               XX*??                       Llandudno Jn Signal 69   XX*02
+                                                                     dep
+Llandudno Jn Down Sdg arr                XX†??                       Llandudno arr            XX†??
+
+Arrivals and departures from and to Llandudno Station
+As required then                                                     Llandudno Jn Down        XX†00
+                                                                     Sdg dep
+Llandudno Jn Signal 70 arr               XX*00                       Llandudno Jn Signal 69   XX*02
+                                                                     arr
+Llandudno Jn Signal 70 dep               XX*00                       Llandudno Jn Signal 69   XX*02
+                                                                     dep
+Llandudno Jn Down Sdg arr                XX†05                       then as required
+
+Penmaenmawr
+
+
+                                       Electronic copy - uncontrolled when printed.

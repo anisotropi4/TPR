@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version:     4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024             Date:      28th July 2023
+West and Central
+                                                                                            Page:    202 of 443
+
+Bromsgrove
+
+Movement Up                                      Reason                                  Timing Load       Value
+Non-stop train via Platform 1                    Approach control, speed differential    All Timing        1½
+                                                                                         Loads
+
+Non-stop train from Droitwich Spa to Barnt Green
+Allowance to be shown approaching            Slow speed junction at Stoke Works          22x/HST           1
+Bromsgrove                                   Jn                                          170/172           ½
+Allowance to be shown approaching Barnt      Slow speed junction at Stoke Works          170/22x/HST       ½
+Green                                        Jn
+
+Train from Droitwich Spa stopping at Bromsgrove
+Allowance to be shown approaching          Slow speed junction at Stoke Works 170/172      1
+Bromsgrove                                 Jn
+Train from Abbotswood Jn to Bromsgrove (via Up Gloucester), stopping or non-stopping at Bromsgrove
+Allowance to be shown approaching          Minus allowance as the SRTs are    15x          -1
+Bromsgrove                                 for the slower route
+Allowance to be shown approaching Barnt    Minus allowance as the SRTs are    15x          -½
+Green for trains not stopping ONLY         for the slower route
+
+Assisting Locomotive in Rear, Working between Bromsgrove and Blackwell – Lickey Incline
+• The Lickey Incline is a 1 in 37 gradient over a two mile section of line between Bromsgrove and Blackwell on
+   the Birmingham to Gloucester Line
+• An assisting locomotive in rear is required over this section of line for certain freight trains (see below)
+• Assistance in Rear is authorised from BA7612 Signal Up Bromsgrove Loop or BA3614 Signal Up Gloucester
+• An allowance of 7 minutes should be included for attachment of the assisting locomotive at signals BA7612 or
+   BA3614
+• The assisting locomotive is normally detached at Blackwell. The locomotive will then either return to
+   Bromsgrove to continue banking operations or will run to another location as required by the Operator.
+• All assisting engine movements associated with the assistance of trains up the Lickey Incline run with
+   headcode 0B00
+• Freight trains towards Barnt Green on the Lickey Incline need assisting above the following trailing weights:
+
+Class 37 – 420 tonnes; Class 47 – 360 tonnes; Class 56 – 725 tonnes; Class 57 – 380 tonnes; Class 60 – 1065
+tonnes; Class 66 – 775 tonnes; Class 66/6 – 1020 tonnes; Class 67 – 215 tonnes
+
+Planning Restriction
+The Tamper Siding cannot be accessed when the Up Bromsgrove Loop (Platform 1) is occupied by a train longer
+than 289 metres/45 SLU
+
+Dwell Time
+DMU                                              1
+
+Junction Margins
+First Movement                                   Second Movement                             Value
+Down train arrives Platform 3                    Down train passes Platform 4 on the         3½
+                                                 Down Gloucester
+Down train passes Platform 4 on the Down         Down train departs from Platform 3 to       2
+Gloucester                                       the Down Gloucester
+Up train passes Platform 2 to the Up             Up train departs Platforms 1 or 3 to the    2
+Gloucester                                       Up Gloucester
+Freight which has had an assisting locomotive    Train departs or passes Bromsgrove          Simultaneous
+in rear between Bromsgrove and Blackwell,        on Up Gloucester
+arrives or passes Barnt Green
+
+
+
+
+                                Electronic copy - uncontrolled when printed

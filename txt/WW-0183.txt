@@ -1,0 +1,63 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                    Date:    6th October 2023
+                                        Change Timetable 2024                           Page:    180 of 289
+
+
+Bedwyn
+
+Adjustments to Sectional Running Times
+Movement                                    Reason                                 Timing Load       Value
+Passing Bedwyn into Bedwyn Reversing        Slow speed turnout into Bedwyn         16x/769/80x       {½}
+Siding                                      Reversing Siding
+Up pass having come from Bedwyn             Slow speed turnout from Bedwyn         16x/769/80x       {1½}
+Reverse Siding                              Reversing Siding                                         approaching
+                                                                                                     next timing
+                                                                                                     point
+
+Junction Margins
+First Movement                              Second Movement                                          Margin
+Down train depart/pass Bedwyn to Bedwyn     Up pass/arrive                                           4
+Reversing siding
+Down train depart/pass Bedwyn to Bedwyn     Down freight pass/arrive                                 4½
+Reversing Siding
+Up non-stopping train passes Bedwyn         Up ECS move to Bedwyn Platform 1 (only) departs          2
+                                            Bedwyn Reversing siding
+
+Dwell Time
+80x (Through service)                          1½
+80x (Terminating down service)                 3
+80x (Originating up service)                   1
+
+Turnround allowances                           DMU/769/80x                        80x (5 cars) With shunt move
+From Newbury, Reading and Paddington           7                                  13 (can be reduced to 12 if two
+                                                                                  drivers are provided)
+
+Pewsey
+
+Dwell Time
+80x                                            1½
+
+
+Woodborough
+
+Planning note
+Stopping SRTs are based on using the goods loops therefore adjustment times are built into the SRTs.
+
+Junction margins
+First Movement                        Second Movement                        Margin
+Down train arrive Goods Loop          Down passenger train pass              3½
+                                      Down freight class 4/6 pass            4
+                                      Down freight class 7 pass              5
+Down passenger train pass             Down train depart Goods Loop           1½
+Up train arrive Goods Loop            Up passenger train pass                3½
+                                      Up freight pass                        5
+Up passenger train pass (not          Up train depart Goods Loop             1½
+stopping at Pewsey)
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

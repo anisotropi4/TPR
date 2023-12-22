@@ -1,0 +1,52 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                    Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                   Date:    6th October 2023
+                                         Change Timetable 2024                          Page:    36 of 289
+
+
+GW4501 STOKE GIFFORD JUNCTION TO BRISTOL BULK HANDLING TERMINAL
+TIMING POINT                         DOWN        UP             CODE    NOTES
+
+Stoke Gifford Junction                                                  To/from Bristol Parkway – GW600
+Filton West Junction                 –           –                      To/from Patchway – GW540
+                                                                        To/from Filton Abbey Wood – GW450
+Hallen Moor                          –           –              S
+Hallen Marsh Junction                –           –                      To/from St Andrews Jn – GW454
+Holesmouth Junction                  –           –                      To/from St Andrews Jn – GW454
+Avonmouth National Power             –           –              S
+Avonmouth BBHT                                   –              S
+
+GW451 FILTON JUNCTION TO FILTON WEST JUNCTION (FILTON CHORD)
+TIMING POINT                         DOWN        UP             CODE    NOTES
+
+Filton Abbey Wood                    –           –                      Platform detail must be shown.
+Filton Junction                                                         To/from Filton Abbey Wood – GW540
+Filton signal 2052                                    –             S
+Filton West Junction                 –           –                      To/from Hallen Marsh Jn – GW4501
+
+GW454 SEVERN BEACH TO NARROWAYS HILL JUNCTION
+TIMING POINT                         DOWN        UP             CODE    NOTES
+
+Severn Beach                         –
+Severnside SITA                      –                          S
+Holesmouth Junction                  –           –
+Avonmouth West Wharf FLHH                        –              S
+St. Andrews Road                     –           –              S
+St. Andrews Junction                 –           –
+Avonmouth Signal SA4                 –                          S
+Avonmouth                            –           –                      Platform detail must be shown
+Portway Park and Ride                –           –              S
+Shirehampton                         –           –              S
+Sea Mills                            –           –              S
+Clifton Down Signal BL1847           –                          S
+Clifton Down                         –           –                      Platform detail must be shown.
+Redland                              –           –              S
+Montpelier                           –           –              S
+Narroways Hill Junction              –           –                      To/from Dr Days Jn – GW450
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

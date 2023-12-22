@@ -1,0 +1,50 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                      Page:    157 of 443
+
+
+STANDARD VALUES – MINIMUM (APPLIES TO ALL ROUTES EXCEPT THOSE STARTING MD9XX)
+Detachment of Locomotives/Units:
+Class/Type                       Allowance
+Class 22x                        7 (Avanti West Coast/CrossCountry)
+Class 80x                        7 (Avanti West Coast)
+DMU/EMU                          5, except:
+                                 GWR Class 165/166 DMU, 4 (3 if a second driver is present in the rear unit)
+                                 TfW Class 150/153, 4
+                                 TfW Class 158, 6
+                                 XC Class 170, 4
+Locomotive                       10
+
+Dwell Time
+Dwell                                 Allowance
+Standard                              ½
+Class 170 and Class 185 DMUs          45 seconds. To be shown as alternative ½ and 1 minute dwells
+Class 22x DMU                         1½
+Class 350 EMU                         45 seconds. To be shown as alternative ½ and 1 minute dwells
+Class 390                             2
+Class 80x                             2 (Avanti West Coast), 1½ (Transpennine Express)
+LH                                    1
+HST                                   1½
+
+Junction Margins
+First Movement                                       Second Movement                                    Margin
+Arrival                                              Conflicting departure                              1
+Departure                                            Conflicting arrival                                3
+All other conflicting movements, except:                                                                3
+Where second move is a crossing move                                                                    2
+
+Minimum allowance for freight movements
+Reversal before/after propelling 2
+movement
+
+Minimum Locomotive Change             12
+Allowance
+
+Minimum Locomotive Run-round          15 Passenger
+Allowance                             20 Freight
+
+
+
+
+                              Electronic copy - uncontrolled when printed

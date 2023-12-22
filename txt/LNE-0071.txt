@@ -1,0 +1,37 @@
+NETWORK RAIL                  Timetable Planning Rules                    Version: 4.1
+London North Eastern            Revised Final Rules for                     Date: 12 October 2023
+                           Subsidiary Change Timetable 2024                 Page: 68 of 368
+
+
+
+
+LN928 SHIPLEY EAST JUNCTION TO BRADFORD FORSTER SQUARE
+TIMING POINT                DOWN       UP         CODE     NOTES
+
+Shipley East Junction                                      To/from Leeds – LN922
+Shipley                     –          –                   Platform detail must be shown
+Shipley South Junction                                     To/from Shipley West Jn – LN932
+  Shipley Crossley Evans               –          S
+Frizinghall                 –          –          S
+Bradford Forster Square                –                   Platform detail must be shown
+
+
+LN930 SKIPTON MIDDLE JUNCTION TO RYLSTONE
+TIMING POINT                DOWN       UP         NOTES
+
+Skipton Middle Junction                           To/From Skipton – LN922
+Rylstone                               -
+
+
+
+LN932 SHIPLEY SOUTH JUNCTION TO SHIPLEY WEST JUNCTION
+TIMING POINT                DOWN       UP         CODE     NOTES
+
+Shipley South Junction                                     To/from Bradford Forster Square – LN928
+Shipley                     –          –                   Platform detail must be shown
+Shipley West Junction                                      To/from Skipton – LN922
+
+
+
+
+                           Electronic copy - uncontrolled when printed.

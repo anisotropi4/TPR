@@ -1,0 +1,62 @@
+NETWORK RAIL                      Timetable Planning Rules                      Version:   4
+Region: North        Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                  Page:    16 of 443
+
+Second      Third    Route and/or Destination
+Character   and
+            Fourth
+            Number
+O                    To the Southern Region
+            7x/8x    Class 2 trains Manchester Oxford Road to Liverpool Lime Street via
+                     Warrington Central
+            9x       Class 2 trains Liverpool Lime Street to Manchester Oxford Road via
+                     Warrington Central
+                     Merseyrail trains to Ormskirk
+                     LUL trains to London Road Depot
+                     Class 2 CrossCity trains to Bromsgrove
+                     ECS to Bromsgrove
+P           even     Class 1 trains Leicester to Birmingham New Street
+                     Marylebone and Aylesbury to Princes Risborough
+                     Class 1 trains Hereford/Great Malvern/Worcester to London Paddington
+            even     Class 1 (low numbers) TransPennine trains Newcastle to Manchester Airport
+            odd      Class 1 (low numbers) TransPennine trains Manchester Airport to Newcastle
+            58 and   Class 1 (even numbers) TransPennine trains Redcar Central to Manchester
+            above    Airport
+            4x       Class 1 (odd numbers) TransPennine trains Manchester Airport to
+                     Middlesbrough
+                     Euston to Preston/Blackpool North (Avanti West Coast)
+            5x       Euston to Blackpool North (Grand Central)
+            odd      Class 2 trains Manchester Victoria to Preston
+            even     Class 1 trains Barrow-in-Furness to Preston
+                     Class 2 CrossCity trains to Lichfield Trent Valley
+                     Stourbridge Junction to Stourbridge Town
+                     Stourbridge Town to Stourbridge Junction
+                     ECS to Lichfield Trent Valley or Redditch
+Q                    Test trains only
+R                    Avanti West Coast Train services Morning Peak (Up direction only)
+                     Class 1 trains Birmingham International/New Street to Manchester Piccadilly
+                     via Shrewsbury, Chester, and Warrington Bank Quay
+                     Class 1 trains Norwich to Liverpool Lime Street
+                     Class 1 trains Marylebone to Birmingham Moor Street
+                     Class 2 trains Marylebone to South Ruislip, West Ruislip, or Birmingham
+                     Moor Street
+                     Class 5 trains Marylebone to South Ruislip, West Ruislip or Birmingham Moor
+                     Street and shunt moves between Birmingham Moor Street station and
+                     Carriage Sidings
+                     Class 2 CrossCity trains to Redditch
+                     Class 2 trains to Rose Hill Marple
+                     Class 2 trains Blackburn or Leeds via Manchester Victoria to Wigan North
+                     Western
+                     Merseyrail trains to Rock Ferry
+S                    To the Scotland Region
+                     Avanti West Coast Anglo-Scottish services via West Midlands or Trent Valley
+            odd      Class 2 trains Bletchley to Bedford
+            even     Class 2 trains Bedford to Bletchley
+                     Stratford-upon-Avon via Whitlocks End
+            01-24    Class 9 Liverpool Lime Street to Edinburgh via Huddersfield and York
+                     (departure hour to match headcode number)
+
+
+
+                         Electronic copy - uncontrolled when printed

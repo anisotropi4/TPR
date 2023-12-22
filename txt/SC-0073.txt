@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                             Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024                    Date:    28/07/2023
+                                                                                                    Page:    68 of 242
+
+SC143 CRIANLARICH TO OBAN
+TIMING POINT                           DOWN         UP            NOTES
+
+RB: A following train must wait 1 minute for the train in front to clear the section and then 1 minute to carry out a
+token exchange before it can depart.
+
+Crianlarich – Tyndrum Lower                     RB                Single Line
+Tyndrum Lower – Dalmally                        RB*               Single Line.
+                                                                  *Long Section Token can be given between
+                                                                  Tyndrum Lower and Taynuilt in both directions if
+                                                                  available.
+Dalmally – Taynuilt                             RB*               Single Line.
+                                                                  *Long Section Token can be given between
+                                                                  Tyndrum Lower and Taynuilt in both directions if
+                                                                  available.
+Taynuilt – Connel Ferry                         RB*               Single Line.
+                                                                  *Long Section Token can be given between Taynuilt
+                                                                  and Oban in both directions if available.
+Connel Ferry – Oban                             RB*               Single Line.
+                                                                  *Long Section Token can be given between Taynuilt
+                                                                  and Oban in both directions if available.
+
+
+SC145 FORT WILLIAM TO MALLAIG
+TIMING POINT                           DOWN         UP            NOTES
+
+RB: A following train must wait 1 minute for the train in front to clear the section and then 1 minute to carry out a
+token exchange before it can depart.
+
+
+Fort William Junction – Loch Eil                RB*               Single Line
+Outward Bound                                                     *Long Section Token can be given between Fort
+                                                                  William Junction and Glenfinnan in both directions if
+                                                                  available.
+Loch Eil Outward Bound –                        RB*               Single Line
+Glenfinnan                                                        *Long Section Token can be given between Fort
+                                                                  William Junction and Glenfinnan in both directions if
+                                                                  available.
+Glenfinnan – Arisaig                            RB*               Single Line
+                                                                  *Long Section Token can be given between
+                                                                  Glenfinnan and Mallaig in both directions if available.
+Arisaig – Mallaig                               RB*               Single Line
+                                                                  *Long Section Token can be given between
+                                                                  Glenfinnan and Mallaig in both directions if available.
+
+
+SC147 BERWICK TO EDINBURGH WAVERLEY
+TIMING POINT                          DOWN         UP             NOTES
+
+Berwick – Oxwellmains (inclusive)     4            4
+Oxwellmains (exclusive) –             3            3              Following non-stop passenger
+Portobello Junction (excl. Down;      4            4              Following freight or stopping passenger
+incl. Up)
+Portobello Junction (incl. Down;      3            3
+excl. Up) – Edinburgh
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

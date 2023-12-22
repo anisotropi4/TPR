@@ -1,0 +1,53 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                   Page:   51 of 443
+
+
+MD555 NUNEATON NORTH JN TO WATER ORTON EAST JN
+TIMING POINT                      DOWN       UP          CODE     NOTES
+
+Nuneaton North Jn                                                 To/from Nuneaton – MD101
+Nuneaton Signal NW4226                            –        S      Regulation point on Up Nuneaton Chord
+                                                                  prior to station
+Abbey Jn                              –         A                 To/from Nuneaton platforms 6 and 7 –
+                                              UC DC               MD232
+Daw Mill East Jn                      –                    X
+Daw Mill Colliery                                          F
+Daw Mill West Jn                      –           –        X
+Whitacre Down Arley Loop              –
+Whitacre Jn                           –           –               Entry/Exit to/from Hams Hall
+                                                                  To/from Kingsbury Jn – MD545
+Hams Hall Reception Line              –           –        S
+Hams Hall Parsec                      –           –        S
+Hams Hall GBRf                        –           –        S
+Hams Hall NDP COLAS                   –           –        S
+Coleshill Parkway                     –           –               Entry/Exit to/from Hams Hall
+Coleshill Parkway Signal WW1972                   –        S      For shunt between platforms at Coleshill
+                                                                  Parkway
+                                                                  TIPLOC COLE972
+Water Orton East Jn                                               To/from Kingsbury Jn – MD501
+Water Orton                                       –               To/from Landor Street Jn – MD501
+
+
+MD560 WATER ORTON WEST JN TO PARK LANE JN
+TIMING POINT                      DOWN       UP          CODE     NOTES
+
+Water Orton West Jn                   –           –               To/from Kingsbury Jn – MD501
+                                                                  To/from Landor Street Jn – MD501
+Park Lane Jn                          –           –               To/from Ryecroft Jn – MD565
+                                                                  To/from Castle Bromwich Jn – MD565
+
+
+MD565 CASTLE BROMWICH JN TO RYECROFT JN
+TIMING POINT                      DOWN       UP          CODE     NOTES
+
+Castle Bromwich Jn                    –           –               Single Line
+                                                                  To/from Landor Street Jn – MD501
+Park Lane Jn                          –           –               To/from Water Orton West Jn – MD560
+Ryecroft Jn                           –           –               To/from Walsall – MD345
+
+
+
+
+                           Electronic copy - uncontrolled when printed

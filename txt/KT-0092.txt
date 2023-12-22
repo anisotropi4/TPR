@@ -1,0 +1,64 @@
+NETWORK RAIL                               Timetable Planning Rules                  Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                           25th August 2023
+                                                                                     Date:
+                                            Timetable 2024                           Page:     88 of 168
+
+
+
+
+ Swanley
+
+ Adjustments to Sectional Running Times
+ Movement Down                                       Reason                              Value
+ Pass Down Chatham Slow to Down                      Approach Control signal VS251 for   {1} and also {½}
+ Maidstone                                           20mph using 895 crossovers          approaching next timing
+                                                                                         point
+ Freight from Down Slow towards Otford               Speed Differential                  1½
+ Freight from Down Fast towards Fawkham              Speed Differential                  1 Class 4 800T or less
+ Junction                                                                                1½ Class 4 over 800T
+                                                                                         ½ Class 6 1200T or less
+                                                                                         1 Class 6 over 1200T
+
+ Applies to the following Timing Loads for trains crossing from Down Chatham Fast Line to Down Chatham Main
+ Line:
+ Class 6 up to 1200t / TR70 inclusive               Speed Differential                {½} approaching next
+                                                                                      timing point
+ Class 6 1400t / TR85 and above                     Speed Differential                {1} approaching next
+                                                                                      timing point
+ Class 4 up to 800t / TR40 inclusive                Speed Differential                {1} approaching next
+                                                                                      timing point
+ Class 4 1000t and above                            Speed Differential                {1½} approaching next
+                                                                                      timing point
+ Down Passenger / ECS not stopping at               Speed Differential                {1} approaching next
+ Swanley                                                                              timing point
+ Freight up to 1200T inclusive at 60mph             Speed Differential                ½
+ Freight between 1201-2400T inclusive at            Speed Differential                1
+ 60mph
+ Freight up to 800T inclusive of Containers at      Speed Differential                1
+ 75mph
+ Freight between 801 - 1600T inclusive of           Speed Differential                1½
+ Containers at 75mph
+
+ Movement Up                                         Reason                              Value
+ Freight from Otford to Up Slow Line                 Speed Differential                  1½*
+ Freight from Otford to Up Fast Line                 Speed Differential                  1* Class 4
+                                                                                         ½* Class 6 1200T or less
+                                                                                         1* Class 6 over 1200T
+ Freight from Fawkham Junction to Up Fast            Speed Differential                  1½*
+ Line
+ Pass Up Maidstone to Up Chatham Slow                Speed differential                  {½} and also {1}
+                                                                                         approaching next timing
+                                                                                         point
+ Up Chatham Main to Up Chatham Fast                  Approach Control signal VS254 for   {1} if not stopping at
+                                                     30mph using 889-893 crossovers      Swanley
+                                                                                         {½} if stopping at Swanley
+
+                                                     Speed differential                  {½} approaching next
+                                                                                         timing point if not
+                                                                                         stopping at Swanley
+ *applied approaching next timing point
+
+ Connectional Allowance                4
+
+                                   Electronic copy - uncontrolled when printed

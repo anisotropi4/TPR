@@ -1,0 +1,65 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules                       Version:   4.1
+East Midlands                  Final Subsidiary Change Rules 2024                     Date:    13th September
+                                                                                               2023
+                                                                                      Page:    25 of 123
+
+
+
+
+LN3340 ALREWAS (INCLUSIVE) TO WICHNOR JUNCTION
+TIMING POINT                     DOWN         UP              CODE   NOTES
+
+Alrewas                          –            –                      Single line
+                                                                     To/From Lichfield City – MD 340
+Wichnor Junction Signal DY78     –                             S     All trains reversing back to Barton-under-
+                                                                     Needwood CMD should be timed here
+Wichnor Jn                                    –                      Single line.
+                                                                     To/from Derby – LN3501
+
+
+LN3501 DERBY LONDON ROAD JUNCTION TO TAMWORTH
+TIMING POINT                     DOWN         UP              CODE   NOTES
+
+Derby                            DTS UTS                             Platform detail must be shown.
+                                 DTF                                 To/from Ambergate Jn – LN3201
+St Andrews Siding                             –                      TIPLOC DRBYEL
+L & NW Jn                        –            UTF DTF                To/From St Andrews Sidings
+                                              DTS UTS
+Peartree                         –            –                S
+Melbourne Jn                     DSL          –                X     To/from Sinfin Sidings – LN3515
+Sunny Hill                       –            USL              X
+Stenson Jn                       –            –                      To/from Sheet Stores Jn – LN3520
+North Stafford Jn                –            –                      To/from Tutbury & Hatton – LN3505
+                                                                     Required as the reversing point for all
+                                                                     shunt movements to/from Castle
+                                                                     Donington Branch (LN3520) for correct
+                                                                     automated routing in SARS
+Willington                       –            –                S
+Clay Mills Jn                    DTF          –
+                                 DTG
+Wetmore Jn                       DTF          UTF              X
+                                 DTG          UTG
+Burton West Yard                 – DTG        –                F
+Burton East Yard                 – DTG        UTG              F
+Horninglow Bridge Jn             DTF                           X
+Burton on Trent                  DTF          UTF
+                                 DTG          UTG
+Leicester Jn                     – DTF        – UTF            X     To/from Birmingham Curve Jn – LN3525
+                                 DTG          UTG
+Branston Jn                      – DTF        –                X     To/from Birmingham Curve Jn – LN3535
+                                 DTG
+Barton-under-Needwood Nth Jn     –            –                X
+Barton-under-Needwood CMD        –            –                S     Also referred to as Central Rivers Depot
+Barton-under-Needwood Sth Jn     –            –                X     Trains from Central Rivers Depot towards
+                                                                     Alrewas can be routed via either the Down
+                                                                     or Up Tamworth
+Wichnor Jn                       –            –                      To/from Alrewas – LN3340
+Elford Down Goods Loop           –                             S     Recessed trains only
+Tamworth High Level              –            –
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

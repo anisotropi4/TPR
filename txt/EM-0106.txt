@@ -1,0 +1,43 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules                    Version:   4.1
+East Midlands                    Final Subsidiary Change Rules 2024                  Date:    13th September
+                                                                                              2023
+                                                                                      Page:   104 of 123
+
+Melton Mowbray
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                         Value
+Approaching Frisby                              Slow speed departure from Down Goods           2½ a)
+   a) Class 6 3200t                             Loop                                           2 b)
+   b) Class 6 2800-3000t                                                                       1½ c)
+   c) Class 4 1600t and Class 6 2400-2600t                                                     1 d)
+       or TR130                                                                                ½ e)
+   d) Class 4 400-1400t (including TR40)                                                       0 f)
+       and Class 6 2000-2200t or TR115                                                         Freight trains
+   e) Class 6 1600-1800t or TR85/100                                                           only from Down
+   f) Class 6 up to 1400t or TR70                                                              Goods Loop
+
+
+Movement Up                                     Reason                                         Value
+Approaching Melton Mowbray                      Slow speed turn–out Main to Goods Loop and     1½ all trains
+                                                associated signalling controls                 planned to use
+                                                                                               the Up Goods
+                                                                                               Loop
+
+Dwell Time
+DMU                                1
+
+Turnrounds
+Down Trains:
+12 Shunt from Down Platform to Up Platform. Requires that the Down Main is clear to Melton Mowbray 28 signal.
+
+Up Trains:
+5 Trains arrive and depart from the Up Platform. Add 1½ minutes approaching Syston East Jn for ‘weave’ from Up
+Main to Down Main on departure from Melton Mowbray
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

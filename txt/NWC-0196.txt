@@ -1,0 +1,63 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:     4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:      28th July 2023
+West and Central
+                                                                                    Page:      184 of 443
+
+Daventry North Jn
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Train departing Daventry Freight Terminal       Train from Hillmorton Jn towards Long Buckby      4
+passes Daventry North Jn towards Hillmorton
+Jn
+Up departure from DIRFT passing Daventry        Any train passing Daventry North Jn in the Up     6
+South Jn                                        direction
+Train passing Daventry North Jn towards Long    Train departing Daventry Freight Terminal         2
+Buckby                                          towards Hillmorton Jn
+Train entering Daventry Freight Terminal at     Passing Daventry North Jn towards Long            4
+Daventry South Jn                               Buckby
+Passenger pass Daventry North Jn in Up          Pass Daventry South Jn from Daventry Freight      3
+direction                                       Terminal
+
+
+Rugby
+See entry under route MD101 Euston to Armitage Jn (exclusive)
+
+
+MD120 CAMDEN JN TO WATFORD JUNCTION DC LINES
+
+Queen’s Park
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                             Value
+Down trains departing from Kilburn High Road   Slow Speed Crossover                               ½
+Platform 1
+
+
+Queen’s Park Jn
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Down LUL train from Queen’s Park Platform 3      Down DC line trains from Queen’s Park            3½$
+or LUL North Car Shed                            Platform 4
+Down DC line trains from Queen's Park            Down LUL train from Queen’s Park Platform 3      2½$
+Platform 4                                       or LUL North Car Shed
+$ The normal headway applies at the next timing point – see section 5.2
+
+
+Willesden Junction Low Level
+
+Dwell Time                         1 Morning Up and evening Down peak (does not apply to LUL services)
+
+Junction Margins
+First Movement                                 Second Movement                                    Margin
+Down train from Kensal Green Jn                Up train pass towards Kensal Green                 2
+Up train depart/pass towards Kensal Green      Down train from Kensal Green Jn                    3
+
+Platform Reoccupation              2½ Same direction/Through Lines
+                                   4 Platform 2 (Bay Platform)
+
+
+
+
+                            Electronic copy - uncontrolled when printed

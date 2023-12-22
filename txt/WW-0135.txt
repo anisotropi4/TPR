@@ -1,0 +1,67 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                      Version:     4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                     Date:      6th October 2023
+                                          Change Timetable 2024                            Page:      132 of 289
+
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                 Reason                   Timing Load        Value
+Crossing into the down loop              Slow turnout speed into  All traffic        +{1}
+                                         the loop (25 mph)
+
+North Somerset Junction
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                        Timing Load             Value
+Pass from Bath Spa to Dr Days Junction via       Slow speed crossover          Passenger               {1}
+UBL                                                                            Freight                 {1½}
+
+Pass from Bath Spa crossing to Up Main           Approach control              Passenger               {1}
+                                                                               Freight                 {1½}
+Pass from Bristol East Junction towards St       Slow speed crossover          Passenger               {1}
+Philips Marsh
+Pass from Bristol East Junction towards          Approach control              Passenger               {1}
+Bristol East Depot DGL
+Pass from St Phillips Marsh HSTD to Bristol      Acceleration                  All                     {1} approaching
+East Jn                                                                                                next timing point
+Pass from Bristol East Jn crossing to Down       Approach control              All                     {1}
+Main                                             Acceleration                                          {1} approaching
+                                                                                                       next timing point
+Pass from Dr. Days Junction to Bath Spa via      Slow speed crossover          Passenger               {1}*
+UBL or DBL (not stopping at Bristol East                                       Freight up to 400       {½}*
+Goods Loop/Depot)                                                              tonnes
+                                                                               Freight 600 to          {1}*
+                                                                               1235 tonnes
+                                                                               Freight 1400 to         {1½}*
+                                                                               2000 tonnes
+                                                                               Freight 2200            {2}*
+                                                                               tonnes and over
+
+
+*Applied approaching next timing point
+
+Bristol East Junction
+
+Junction Margins
+First Movement                            Second Movement                                 Margin
+Between all conflicting moves except the below                                            2½ (If first train is a
+                                                                                          passenger)
+                                                                                          2½ (If first train is a freight
+                                                                                          50 SLUs or less)
+                                                                                          3 (If first train is a freight is
+                                                                                          51 to 80 SLUs)
+                                                                                          3½ (If first train is a freight
+                                                                                          over 80 SLUs)
+Up train to Dr Days Jn via Up Filton       Down train from Dr Days Jn via Down            3½*
+Relief (UR) weaving via 7037pts            Filton Relief (DR)
+*Pathing time on the Down Filton Relief must be applied approaching Dr Days Junction to achieve this margin.
+This is due to the position of the signal.
+
+Bristol Temple Meads
+
+The rules in this section make reference to ‘near’ and ‘far’ platforms, reflecting terminology used operationally.
+
+
+                                     Electronic copy - uncontrolled when printed.

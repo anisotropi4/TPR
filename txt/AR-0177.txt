@@ -1,0 +1,76 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                      Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                    Date:
+                                               2024                                          2023
+                                                                                    Page:    174 of 183
+
+EA1110 THORPE-LE-SOKEN TO WALTON-ON-THE-NAZE
+Down                                                                 Remarks
+Approaching Walton-on-the-Naze        E                 1
+Up                                                                   Remarks
+Approaching Thorpe-le-Soken           E                 1
+
+
+EA1120 MANNINGTREE TO HARWICH TOWN
+Down                                                                 Remarks
+Approaching Harwich
+                                      E                 1*           * Terminating Trains only
+International/ Parkeston Yard
+Approaching Harwich Town              E                 1
+                                                                     Single Line Working.
+Approaching Harwich International     E                10            See Engineering Access Statement for
+                                                                     detailed timings
+Up                                                                   Remarks
+Approaching Manningtree               E                 1            Terminating trains only
+                                                                     Single Line Working.
+Approaching Manningtree               E                10            See Engineering Access Statement for
+                                                                     detailed timings
+
+
+EA1150 CHANNELSEA SOUTH JUNCTION TO STRATFORD CENTRAL JUNCTION
+Up                                                                   Remarks
+Approaching Stratford Central Jn
+                                      E                 2
+West
+
+
+EA1160 BETHNAL GREEN EAST JUNCTION TO BISHOP’S STORTFORD
+Down                                                                 Remarks
+Approaching Broxbourne                E                 1
+Approaching Bishop’s Stortford        E                 1
+Up                                                                   Remarks
+                                                                     Applies approaching Tottenham South Jn
+Approaching Tottenham Hale            E                 1            for trains which do not call at Tottenham
+                                                                     Hale
+                                                                     For pathing purposes may instead be
+Approaching Hackney Downs             E                 1            applied approaching Clapton Junction on
+                                                                     route EA1200
+                                                                     (via Southbury) Between 0700 and 1000
+Approaching Hackney Downs             P                 1
+                                                                     Mondays to Fridays only
+
+
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION
+Down                                                                 Remarks
+                                                                     From the Audley End direction may be
+                                      E                 1
+                                                                     applied approaching Cambridge if required
+                                                                     *From the Royston direction, allowance is
+Approaching Shepreth Branch Jn                                       usually applied approaching Shepreth
+                                      E                1*            Branch Jn on route EA1230 but may be
+                                                                     applied approaching Cambridge when
+                                                                     required
+                                                                     Applies to northbound trains terminating at
+Approaching Ely Dock Junction         E                 1
+                                                                     Ely only
+Up                                                                   Remarks
+Approaching Stansted North
+                                      E                 1            Trains from Audley End and beyond only
+Junction
+
+
+
+                                   Electronic copy - uncontrolled when printed.

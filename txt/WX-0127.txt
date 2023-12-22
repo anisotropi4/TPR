@@ -1,0 +1,62 @@
+NETWORK RAIL                             Timetable Planning Rules                         Version:    4.2
+Route: Wessex                        Final Rules for Subsidiary OFFICIAL
+                                                                Change                      Date:     27th October 2023
+                                              Timetable 2024                                Page:     125 of 178
+
+SW115A ANDOVER TO LUDGERSHALL MOD
+
+Andover
+
+See entry under route – SW115
+
+
+Ludgershall Branch Stop Board
+
+All associated freight trains require a 5 minute OP stop at this location in order for the shunter to operate the
+ground frame.
+
+
+Ludgershall Loop
+
+Although the loop is on NR property, the country end points are on MOD property and therefore requires MOD
+authority prior to the loop being available for use.
+
+
+SW115B LAVERSTOCK NORTH JUNCTION TO LAVERSTOCK SOUTH JUNCTION
+
+Laverstock North Junction
+
+See entry under route – SW115
+
+
+Laverstock Loop
+
+It is not possible for a train to stand on Laverstock Loop to await a train to pass on the Up/Down Main (SW115) or
+Up/Down Dean lines (SW150). Pathing time must not be used between Laverstock South Junction and Laverstock
+North Junction.
+
+
+Laverstock South Junction
+
+See entry under route – SW150
+
+
+SW115C YEOVIL JUNCTION TO YEOVIL PEN MILL
+
+Yeovil Junction
+
+See entry under route – SW115
+
+
+Yeovil Up Siding
+
+See entry under route – SW175
+
+
+Yeovil Pen Mill
+
+See entry under route – SW175
+
+
+
+                                     Electronic copy - uncontrolled when printed.

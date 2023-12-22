@@ -1,0 +1,63 @@
+ NETWORK RAIL                            Timetable Planning Rules                      Version: 4.1
+ Kent & HS1                                                     OFFICIAL
+                                        Final Proposal for Subsidiary                            25th August 2023
+                                                                                       Date:
+                                             Timetable 2024                            Page:      164 of 168
+
+
+
+5.5 Timing Allowances
+
+All allowances shown are in minutes.
+
+E refers to engineering allowance
+P refers to performance allowances
+
+
+Pathing Time:
+Pathing time must be added where necessary to observe headways and clearance times.
+
+
+SIMBIDS
+
+Timing allowances for all trains for SIMBIDS operation: (additional allowance to operate in reverse direction):-
+
+   Between Sevenoaks and Tonbridge - on both Up and Down lines
+   Between Tonbridge and Paddock Wood - on both Up and Down lines
+   Between Paddock Wood and Headcorn - on both Up and Down lines
+   Between Headcorn and Ashford International - on both Up and Down lines
+
+
+  SO130 CHARING CROSS TO DOVER PRIORY (see also SO510 and SO280A)
+  TIMING SECTION                     VALUE        TYPE    REMARKS
+  Between Blackfriars Junction         2            P     All Down trains from the Thameslink Core must have a
+  and North Kent East Junction                            minimum of 2 minutes between Blackfriars Junction and
+  or Deptford                                             North Kent East Junction or Deptford (1 minute must be
+                                                          placed approaching London Bridge whenever possible).
+                                                          Note: the total value of 2 minutes is not negotiable
+  Between New Cross or                   2          P     All Up trains to the Thameslink Core must have a
+  Deptford and Blackfriars                                minimum of 2 minutes between New Cross or Deptford
+  Junction                                                and Blackfriars Junction (1 minute must be placed
+                                                          approaching Blackfriars Junction whenever possible).
+                                                          Note: the total value of 2 minutes is not negotiable
+
+
+  SO280 FARRINGDON TO HERNE HILL (see also SO130 and SO510)
+  TIMING SECTION                     VALUE        TYPE    REMARKS
+  Approaching Blackfriars              1            P     All Up Thameslink trains. Note: this value is not negotiable
+  Junction
+  Approaching Loughborough               1          P     All Down Thameslink trains (including ECS movements
+  Junction                                                towards Herne Hill turnback siding) Note: this value is not
+                                                          negotiable
+  Approaching Elephant &                 1          P     All up Thameslink trains from the Catford Loop to the
+  Castle                                                  Thameslink Core
+
+
+  SO280A BLACKFRIARS JUNCTION TO METROPOLITAN JUNCTION (see also SO130
+  and SO510)
+  TIMING SECTION                     VALUE        TYPE    REMARKS
+  Approaching Blackfriars              1            P     All up Thameslink trains
+  Junction
+
+
+                                       Electronic copy - uncontrolled when printed

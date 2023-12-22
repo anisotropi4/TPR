@@ -1,0 +1,64 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4.2
+Route: Wessex                    Final Rules for Subsidiary OFFICIAL
+                                                            Change                  Date:    27th October 2023
+                                          Timetable 2024                            Page:    60 of 178
+
+SW140 ST DENYS TO PORTCREEK JUNCTION
+TIMING POINT                      DOWN           UP             NOTES
+
+St. Denys – Signal E803           AB+½                          TCB plan as AB.
+Signal E803 – Netley              AB+1½                         TCB plan as AB.
+Netley – Bursledon                AB+1                          TCB plan as AB.
+Bursledon – Swanwick              AB+1                          TCB plan as AB.
+Swanwick – Hamble                                AB+1           TCB plan as AB.
+Hamble – Sholing                                 AB+1           TCB plan as AB.
+Sholing – St. Denys                              AB+0           TCB plan as AB. Train can depart Sholing once
+                                                                previous train has departed St Denys.
+Swanwick – Fareham                AB+0           AB+½           TCB plan as AB.
+Fareham – Cosham Junction         2½ – Non-      3 – Non-
+                                  stopping       stopping
+                                  3 - Stopping   3-
+                                                 Stopping
+Cosham Junction – Portcreek       2 – Non-       2 – Non-
+Junction                          stopping       stopping
+                                  2½ -           2½ -
+                                  Stopping       Stopping
+
+
+SW140A COSHAM JUNCTION TO FARLINGTON JUNCTION
+TIMING POINT                      DOWN           UP             NOTES
+
+Cosham Junction – Farlington      2½ – Non-      3
+Junction                          stopping
+                                  3 - Stopping
+
+
+SW145 NORTHAM JUNCTION TO SOUTHAMPTON EASTERN DOCKS
+TIMING POINT                      DOWN           UP             NOTES
+
+Northam Junction – Southampton         One train working        Single line.
+Eastern Docks
+
+
+SW150 REDBRIDGE JUNCTION TO SALISBURY TUNNEL JUNCTION
+TIMING POINT                      DOWN           UP             NOTES
+
+Redbridge – Romsey                4 – Non-       4 – Non-
+                                  stopping       stopping
+                                  4½ -           4½ -
+                                  Stopping       Stopping
+Romsey – Salisbury Tunnel         6 – Non-       6 – Non-
+Junction                          stopping       stopping
+                                  6½ -           6½ -
+                                  Stopping       Stopping
+
+
+SW155 TOTTON FAWLEY LOOPS TO FAWLEY
+TIMING POINT                      DOWN           UP             NOTES
+
+Totton Fawley Loops –             AB+2           AB+2           Single Line
+Marchwood
+
+
+
+                                 Electronic copy - uncontrolled when printed.

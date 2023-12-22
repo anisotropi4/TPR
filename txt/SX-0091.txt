@@ -1,0 +1,64 @@
+NETWORK RAIL                              Timetable Planning Rules                     Version:   4.3
+Route: Sussex                             Final Rules for Subsidiary                   Date:      18th October 2023
+                                                Timetable 2024 OFFICIAL
+                                                                                       Page:      87 of 163
+
+Purley
+
+Overlap Restrictions
+First Movement                                            Second Movement                           Margin
+Up train departing Platform 4                             Up Train arriving Platform 3              2
+Up Train departing Platform 5                             Up Train arriving Platform 3              2
+Up Train departing Platform 5                             Up Train arriving Platform 4              2
+Down Train departing Platform 5 towards Caterham          Down Train arriving Platform 6            2
+or Tattenham Corner
+
+Simultaneous Moves Not Permitted – Freight (Class 4, 6, 7 or non-seasonal Class 8)
+A freight train (as described above) arriving in the Down direction which is running into Purley Yard is required to
+proceed past signal T167 at the country end of Platform 6 in order to clear the pointwork for the Yard. Under the
+instructions of the shunter, the train will then be propelled into the Down Siding. Whilst the shunt is taking place no
+route is available from Platform 5 signal T165 towards Caterham or Tattenham Corner. As soon as the train has
+cleared Platform 6, a departure towards Caterham or Tattenham Corner from Platform 5 can proceed.
+
+
+
+Purley Yard (Days Aggregates)
+
+Length Restriction
+                                       Length Limit
+Trailing Length Limit                  42 SLU
+Total Length Limit including Loco      45 SLU
+
+
+Stoats Nest Junction
+
+Adjustment to Sectional Running Times
+Movement                                            Reason                                          Value
+Pass Down Slow to Down Quarry                       Approach control                                {1}
+                                                    Acceleration from slow speed crossover          {1}*
+Pass Up Quarry to Up Slow                           Approach control                                {1}
+                                                    Acceleration from slow speed crossover          {1}*
+*approaching next timing point
+
+Junction Margins
+First Movement                                      Second Movement                                 Value
+Train passes on Down Slow/Down Redhill              Train crossing from Down Fast towards           2½
+                                                    Down Redhill
+
+
+Coulsdon South
+
+Dwell Times
+All Services (Peak Only)              1
+
+
+Redhill
+
+Adjustment to Sectional Running Times
+Movement                                                  Reason                                        Value
+All movements from the Reigate Line to a Platform         Approach control on signal T492               {½}
+that is already Occupied
+All movements from the Down Redhill to Platforms 0        Approach control and slow speed through       {2}
+and 2 via 1909 points at Holmethorpe                      crossovers
+
+                                 Electronic copy - uncontrolled when printed

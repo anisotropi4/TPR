@@ -1,0 +1,62 @@
+NETWORK RAIL                 Timetable Planning Rules                    Version: 4.1
+London North Eastern           Revised Final Rules for                     Date: 12 October 2023
+                          Subsidiary Change Timetable 2024                 Page: 304 of 368
+
+
+STATION                      PLATFORM      USABLE       NOTES
+                                           LENGTH
+
+Bayford                      Down          123
+Bayford                      Up            122
+Bedlington                   Down          100
+Bedlington                   Up            96
+Bempton                      Single –      117
+                             Down
+Bempton                      Single – Up   93
+Ben Rhydding                 Down          99
+Ben Rhydding                 Up            99
+Bentley (S Yorkshire)        Down          104
+Bentley (S Yorkshire)        Up            104
+Berry Brow                   Single        65
+Berwick upon Tweed           Down          233
+Berwick upon Tweed           Up            234
+Beverley                     Down          104
+Beverley                     Up            104
+Biggleswade                  Down Fast     247
+Biggleswade                  Down Slow     247
+Biggleswade                  Up Fast       246
+Biggleswade                  Up Slow       246
+Billingham                   Down          146
+Billingham                   Up            146
+Bingley                      Down          143
+Bingley                      Up            143
+Bishop Auckland              Single        80
+Blaydon                      Down          97
+Blaydon                      Up            97
+Blyth Bebside                Down          100
+Blyth Bebside                Up            100
+Bolton upon Dearne           Down          96
+Bolton upon Dearne           Up            96
+Boston                       Down          173
+Boston                       Up            174
+Bottesford                   Down          139
+Bottesford                   Up            121
+Bowes Park                   Down          138
+Bowes Park                   Up            138
+Bradford Forster Square      1             273
+Bradford Forster Square      2             266
+Bradford Forster Square      3             101
+Bradford Interchange         1             209
+Bradford Interchange         2             203
+Bradford Interchange         3             126
+Bradford Interchange         4             126
+Bramley                      Down          102
+Bramley                      Up            102
+Brampton (Cumbria)           Down          106
+Brampton (Cumbria)           Up            107
+Bridlington                  4             168 165
+Bridlington                  5             168
+Bridlington                  6             138 131
+Bridlington                  7             214          Out of use to passenger trains
+Brigg                        Down          140
+                          Electronic copy - uncontrolled when printed.

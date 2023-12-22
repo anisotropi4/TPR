@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:      4.3
+Route: Sussex                          Final Rules for Subsidiary                    Date:         18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                     Page:         111 of 163
+
+New Cross Gate North Junction
+First Movement                                     Second Movement                                      Margin
+Train from New Cross Gate via reversible line      Train towards New Cross Gate                         1½
+Train towards New Cross Depot                      Train towards New Cross Gate                         1½
+
+
+SO511B CANAL JUNCTION TO NEW CROSS
+
+Rolt Street Junction
+
+Junction Margins
+First Movement                                     Second Movement                                      Margin
+Train from New Cross                               Train towards New Cross                              1½
+
+
+SO520 THREE BRIDGES TO HAVANT (VIA HORSHAM)
+
+Three Bridges
+See entry under route – SO500
+
+
+Three Bridges Tilgate Sidings
+
+Acceptance of trains
+First Movement                                           Second Movement                                     Margin
+Train departs Three Bridges Platforms 2 or 3 and         Following movement departs Three Bridges into       8*
+enters the Three Bridges Tilgate Sidings                 the Three Bridges Tilgate Sidings
+* Example, first train departs Three Bridges towards Three Bridges Tilgate Sidings at xx.00. Second movement
+into Three Bridges Tilgate Sidings can depart Three Bridges at xx.08. This margin provides an allowance for the
+first train to arrive in the relevant siding and stable.
+All trains arriving at the Three Bridges Tilgate Sidings must be planned with a ‘dot’ stop at Three Bridges station.
+This is because the train will be brought to a stand or near stand at signal T277 or T279 before receiving a
+proceed aspect into the depot.
+3 or 4 car trains of classes 377 and 387 rolling stock must not be planned to run to/from Tilgate Sidings to avoid a
+significant gapping risk at signal TD98 and across crossovers TD29a/b, 1754 a/b and 1752 a/b
+
+Berthing Facilities
+Siding                                 Cars*                          Notes
+Stabling Siding No 1                   8                              1 x 8 car and CET facility
+Stabling Siding No 2                   8                              1 x 8 car and CET facility
+Stabling Siding No 3                   8                              1 x 8 car and CET facility
+Stabling Siding No 4                   8                              1 x 8 car and CET facility
+Stabling Siding No 5                   8                              1 x 8 car and CET facility
+
+* Assumed to be Class 700 stock
+
+Margins between arrivals and departures
+First Movement                                       Second Movement                                            Margin
+Train arrives at Three Bridges Tilgate Sidings       Train departs from Three Bridges Tilgate Sidings           6
+from Three Bridges station                           towards Three Bridges station
+
+
+
+
+                                Electronic copy - uncontrolled when printed

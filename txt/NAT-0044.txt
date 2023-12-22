@@ -1,0 +1,64 @@
+                                                      OFFICIAL
+
+
+Network Rail                                                                                           Version 4.0
+National                                                                                       Date: 28th July 2023
+                                   Final Proposal for Subsidiary Change 2024
+                                                Page 43 of 114
+
+4 Service Requirements for Network Services, Measurement
+  and Railhead Treatment Trains
+4.1    Capacity needs to be provided on the network to facilitate Network Rail’s National Delivery Service
+       operations for the distribution of materials for engineering work on the network, Network Measurement
+       trains and the Seasonal / Railhead treatment trains. The Train Slots shown in the Appendix I tables
+       reflect those requirements.
+
+ 4.1.1    Network Services and Railhead Treatment Trains are required to run within the leaf fall season to
+          mitigate the effects of fallen leaf litter ground into the surface of the rail head by the passage of
+          trains. Over a period of time, this ground in leaf litter forms a Teflon-like material that can lead to two
+          material safety impacts on the operational railway:
+
+4.1.1.1   Trains slide on this slippery hardened material and can slide past a signal set at danger leading to a
+          SPAD (Signal Past at Danger) that can lead to a collision with another train. Trains also slide past
+          the stopping boards at stations. Where there is a level crossing at the end of a platform there is a
+          risk of a train colliding with pedestrians and road traffic.
+
+4.1.1.2   The material (contamination) can insulate the contact between the surface of the rail and the metal
+          of the wheel, which can lead to Wrong Side Track Circuit Failures where a train is in section but not
+          detected by the signalling system. An undetected train is not protected by signals and this can lead
+          to it colliding with another train.
+
+ 4.1.2    To mitigate the safety risk posed by contaminated rail heads Network Rail employ 18 x Multi-
+          Purpose Vehicles (MPVs) that are self-propelled consists and 24 x Loco hauled Rail Head
+          Treatment Trains (RHTT) that jet wash the rail head, keeping the rail head clean and optimal for the
+          correct adhesion values.
+
+ 4.1.3    Many treatment trains also deploy adhesion modifiers, a material which is a mixture of sand and
+          adhesion gel providing benefit for trains trying to gain traction rather than braking. Heavy freight
+          trains benefit from adhesion modifiers when negotiating inclines during autumnal conditions.
+
+ 4.1.4    The same MPVs are utilised in winter to deploy anti ice products to the conductor rail to stop it from
+          freezing. When the conductor rail freezes the electric multiple trains in the Southeast, Wessex and
+          Merseyrail cannot draw the electric current required for traction. This can lead to trains being
+          stranded between stations. Not only is this detrimental to train performance, it is also a safety risk
+          as many of these trains need to be de-trained, with passengers having to be escorted down the
+          track to an area of safety in often cold and slippery conditions.
+
+ 4.1.5    Network Rail’s Infrastructure Monitoring fleet collects a variety of asset data, which is listed in the
+          table below:
+      Datastream                          Purpose
+      Trackbed condition                  Improved renewal decision making
+      Structure gauge                     Maintain safe running of trains
+      Track interval                      Maintain safe running of trains
+      Rail profile                        Measures the rail profile, removing manual inspection and
+                                          enables prioritisation of rail replacement.
+      Track geometry                      Maintain safe running of trains
+      Rail flaw and rail depth            Maintain safe running of trains including prevention of rail breaks
+      Rail surface crack                  Maintain safe running of trains including prevention of rail breaks
+                                          and enables improved decision making
+      Track inspection (PLPR) and         Work force safety, efficient delivery of inspection
+      S&C Inspection
+      Forward facing video (HD)           Enables remote worksite planning, walk outs
+      GSM-R and legacy radio survey       Maintains safe running of trains
+
+                                 Electronic copy – uncontrolled when printed

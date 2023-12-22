@@ -1,0 +1,63 @@
+NETWORK RAIL                                Timetable Planning Rules                      Version:   4.2
+Route: Wessex                           Final Rules for Subsidiary OFFICIAL
+                                                                   Change                   Date:    27th October 2023
+                                                 Timetable 2024                             Page:    89 of 178
+
+
+Pirbright Junction
+
+Adjustment to Sectional Running Times
+Movement                                              Reason                                            Value
+Down train towards Ash Vale                           Speed Differential                                {½}
+
+
+Farnborough London End
+
+Adjustment to Sectional Running Times
+The standard {½} for changing lines is already included in the SRT’s
+
+
+Farnborough
+
+Dwell Times
+All Services                             1
+All Trains that stop additionally for    To allow extra stops at this station during the Farnborough Air Show dwell
+the Farnborough Air Show                 times at surrounding stations may be reduced with agreement from the
+                                         Business Manager. This is only permissible on dates of the Air Show
+
+
+Farnborough Country End
+
+Adjustment to Sectional Running Times
+The standard {½} for changing lines is already included in the SRT’s
+
+
+Fleet
+
+Dwell Times
+All Services                             1
+
+
+Winchfield
+
+Dwell Times
+Class 450 Down services Only             1
+
+
+Basingstoke
+
+Adjustment to Sectional Running Times
+Movement                                        Reason                                     Value
+Down Class 159/22x crossing from Platforms 1, Speed Differential                           {½}*
+3 or 4 to Down Fast
+Down Class 159/22x crossing from Platform 2 to Speed Differential                          {½}*
+Down Slow
+* Applies approaching next timing point.
+FL & SL for down freight trains passing from Southcote Junction. Allowances should be applied at the
+next timing point after Basingstoke.
+Train Class    Trailing Load                         Reason                                Value
+Class 6        0 – 1000t            Up to TR55       Speed Differential                    {1}
+               1001 – 2400t         TR70 – TR130     Speed Differential                    {1½}
+Class 4        0 – 600t             TR30             Speed Differential                    {1}
+
+                                        Electronic copy - uncontrolled when printed.

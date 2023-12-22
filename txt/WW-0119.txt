@@ -1,0 +1,66 @@
+                                                         OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                      Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:    6th October 2023
+                                           Change Timetable 2024                            Page:    116 of 289
+
+
+West Drayton
+Adjustments to Sectional Running Times
+Movement                            Reason                                           Value
+Train arriving or passing through   Slow Speed crossover                             {1}
+Platform 5 from London.
+Up trains from Colnbrook Branch     Slow speed off branch                            {1} Approaching next timing point
+passing West Drayton
+
+Planning Restriction
+Trains longer than 71SLU planned to dwell in West Drayton Loop/Platform 5 in the down direction will foul the Relief
+lines. Therefore if a train longer than 71 SLU is planned, junction margins must be based on the trains departure
+time from West Drayton, not its arrival time.
+
+Junction Margins
+First Movement                                         Second Movement                                   Value
+Up train depart West Drayton on Relief Lines           Down train from Relief Lines to West Drayton      2
+                                                       Loop or Colnbrook Branch
+Up non stop train pass/depart Slough on Relief         Down train from Relief Lines to West Drayton      5½ *
+Lines                                                  Loop or Colnbrook Branch
+Down train from Relief Lines to West Drayton           Up stopping train depart West Drayton on Relief   2 if first train
+Loop or Colnbrook Branch                               lines                                             is freight
+
+                                                                                                         1 if first train
+                                                                                                         is passenger
+Down train from Relief Lines to West Drayton     Up non stop train pass/depart Slough on Relief          Same Time
+Loop or Colnbrook Branch                         Lines                                                   $
+Down train from Relief Lines to Colnbrook Branch Up train via Up Iver Loop and West Drayton              4½
+                                                 Loop pass/arrive
+Down train from Relief Lines to Colnbrook Branch Up train via Up Relief and West Drayton Loop     5½
+                                                 pass/arrive
+Up train from West Drayton Loop or Colnbrook     Down train from Relief Lines to West Drayton     4½
+Branch                                           Loop or Colnbrook Branch
+*Applies to EMU/DMU/HST/80x. Increase by 2 minutes if Up train is Freight/LH
+$ Applies to EMU/DMU/HST/80x. Freight/LH services can pass Slough 2 minutes before the first movement.
+
+Iver
+
+Dwell Time
+Class 165/6                              ½
+
+Langley Reception Sidings
+
+Junction Margins
+First Movement                               Second Movement                   Margin
+Up train departing Slough (if passing        Down freight arriving in          5
+Langley station on RL)                       Reception Sidings
+Up train departing Langley station on        Down freight arriving in          4½
+RL                                           Reception Sidings
+Down freight arriving in Reception           Up train departing Slough         Simultaneous
+Sidings
+Down freight arriving in Reception           Up train departing Langley        ½
+Sidings                                      station on RL
+
+Langley
+
+
+
+                                        Electronic copy - uncontrolled when printed.

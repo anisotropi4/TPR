@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:    216 of 443
+
+Fenny Compton
+
+Adjustment to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Non-stop towards Kineton Sidings                 Approach control and deceleration                 2
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Down Main to Down Main                           Down Goods Loop to Up Main                        2
+Down Goods Loop to Up Main                       Down Main to Down Main                            5
+Up freight to UGL                                Up main                                           5
+
+Restriction
+Up trains from Kineton Sidings to stop OP “dot stop” at Fenny Compton due to approach control on Signal OL7150
+
+
+Leamington Spa
+
+Adjustment to Sectional Running Times
+Movement Up                                      Reason                                            Value
+All trains from platform 2 or the Down Main      Slow speed crossover                             ½ applies at
+                                                                                                  next timing
+                                                                                                  point
+Arrival into platform 4 from either Milverton Jn or Approach control                              1
+Hatton
+Non-stop trains from Milverton Jn towards Fenny Acceleration from slow speed crossover            1 for freight; ½
+Compton                                                                                           for passenger
+                                                                                                  including light
+                                                                                                  engines
+                                                                                                  applies at next
+                                                                                                  timing point
+
+ Movement Down                                   Reason                                            Value
+Train departing towards Hatton from platforms    Slow speed crossover                             ½ applies at
+1,3 or 4                                                                                          next timing
+                                                                                                  point
+Train departing towards Milverton Jn from        Slow speed crossover                             ½ applies at
+platform 1                                                                                        next timing
+                                                                                                  point
+Non-stop trains on Down Cherwell Valley          Approach control on signal LN37                  1 for freight; ½
+towards Milverton Jn                                                                              for passenger
+                                                                                                  including light
+                                                                                                  engines
+
+Connectional Allowance                5
+
+Detachment Allowance                  5
+
+Dwell Time
+Class 22x                             1½
+DMU                                   1
+HST                                   1½
+
+
+
+
+                              Electronic copy - uncontrolled when printed

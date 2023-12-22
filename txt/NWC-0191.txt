@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:     28th July 2023
+West and Central
+                                                                                        Page:    179 of 443
+
+Nuneaton
+
+Platform End Conflicts
+Non-stop Down train preceding an arrival from Abbey Jn must have 3 minutes clear
+Non-stop Down train following an arrival from Abbey Jn must have 3 minutes clear
+Non-stop Up train preceding an arrival from Coventry/ Abbey Jn must have 2 minutes clear
+Non-stop Up train following an arrival from Coventry/ Abbey Jn must have 4 minutes clear
+Stopping Down train preceding an arrival from Coventry must have 3 minutes clear
+Stopping Down train preceding an arrival from Abbey Jn must have 2 minutes clear
+Stopping Down train following an arrival from Coventry must have 4 minutes clear
+Stopping Down train following an arrival from Abbey Jn must have 3 minutes clear
+Stopping Up train preceding an arrival from Coventry/ Abbey Jn must have 2 minutes clear
+Stopping Up train following an arrival from Coventry/ Abbey Jn must have 3 minutes clear
+Conflicting move departures/arrivals to/from same origin/destination must have 5 minutes clear
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                        5
+
+
+Canal Farm Jn
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Down freight depart Nuneaton on Down Slow        Down train depart or pass from North Chord         3
+Non-freight movements depart or pass             Down train depart or pass from North Chord         2½
+Nuneaton on Down Slow
+Down train passes from North Chord               Down train departs Nuneaton on Down Slow           2
+Down train departs from North Chord              Down train passes Nuneaton on Down Slow            3½
+Down train departs from North Chord              Down train departs Nuneaton on Down Slow           3
+
+
+Amington Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                             Value
+Down Fast to Down Slow (Nuneaton and             Approach Control                                   1
+Amington Jn)
+
+Movement Up                                      Reason                                             Value
+Up Slow to Up Fast                               Acceleration from slow speed turnout               1 after
+                                                                                                    Amington
+
+
+Tamworth Low Level
+
+Dwell Time
+Class 350 EMU                        1
+Class 390/80x                        1½
+
+
+Lichfield Trent Valley Low Level
+
+Dwell Time
+Class 350 EMU                        1
+Class 390/80x                        1½
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,66 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                    Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                   Date:    6th October 2023
+                                        Change Timetable 2024                          Page:    152 of 289
+
+
+St. Germans
+
+Dwell Time
+Class 15x                           1
+
+Menheniot
+
+Dwell Time
+Class 158                           1
+
+Liskeard
+
+Junction Margins
+First Movement                               Second Movement                           Margin
+Down depart/pass platform 2 towards St       Up pass Largin Jn                         2
+Pinnock Viaduct East
+Shunt move from Liskeard Signal 9 arrive     Down arrive/pass platform 1               3
+platform 2
+
+Connectional Allowance              6
+
+Dwell Time
+80x                                 1½
+Class 15x                           1
+Class 22x                           1½
+
+Reversing trains at Liskeard
+Note that HSTGW4/80x sets cannot be reversed on the Liskeard Branch Loop as the signalling will not permit it
+and that loaded passenger trains cannot run from the Up platform to the Down main.
+
+Turnround allowances                DMU / GWR Short Form HST (HSTGW4)
+From Plymouth                       10
+
+Bodmin Parkway
+
+Shunt Margins
+First Movement                                Second Movement                                   Margin
+Arrive at Exchange Siding                     Up depart/pass Lostwithiel or depart              2
+                                              Lostwithiel Up Goods Loop
+Depart/pass Bodmin Parkway from               Up depart/pass Lostwithiel or depart              2
+Exchange Siding                               Lostwithiel Up Goods Loop
+
+Dwell Time
+80x Class 1 Services                1½
+Class 15x                           1
+Class 22x                           1½
+
+Lostwithiel
+
+Adjustments to Sectional Running Times
+Movement                                      Reason                       Timing Load          Value
+From Par to Lostwithiel Up Goods Loop         Approach control             Freight              {1½}
+From Lostwithiel Down Goods Loop to Par       Acceleration                 Freight              {1} approaching
+Start to Pass/Stop                                                                              next timing point
+Up pass from Fowey branch                     Acceleration                 Freight              {½} approaching
+                                                                                                next timing point
+
+                                   Electronic copy - uncontrolled when printed.

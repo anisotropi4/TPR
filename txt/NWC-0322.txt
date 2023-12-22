@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:     4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:      28th July 2023
+West and Central
+                                                                                          Page:     310 of 443
+
+
+
+Maryport
+
+Junction Margins
+First Movement                                    Second Movement                                       Margin
+Train departs from platform in either Up or       Conflicting arrival/pass in the opposite direction    4
+Down direction
+
+
+Dalston Oil Terminal
+
+For arrivals from Carlisle                                     For departures
+                                                               towards Carlisle
+Currock Jn pass                       XX.00                    Dalston Oil Terminal         XX.00
+                                                               dep
+                                      "-"                      Dalston Oil Terminal         XXOP02#
+                                                               G.F. arr
+Dalston Oil Terminal G.F. arr         XXOPXX*                  Dalston Oil Terminal         XXOP02
+                                                               G.F. dep.
+Dalston Oil Terminal G.F. dep.        XXOP04                   Dalston arr (Locomotive      XXOP05‡
+                                                               RR via No. 1 GF) ‡
+Dalston Oil Terminal arr              XX.07                    Dalston dep.                 XXRM20
+* Stops and sets back in to                                                                 "-"
+terminal
+# Stops and sets back to Up Main                               Currock Jn pass
+
+
+NW5001 CREWE NORTH JN TO MANCHESTER PICCADILLY
+
+Crewe Signal CE154
+
+Adjustments to Sectional Running Times
+Movement Up                                      Reason                                                Value
+Pass to Up Manchester Loop                       Approach Control and Slow speed junction              1
+
+
+
+Sandbach
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                                Value
+Non-stop from Down Wilmslow passing              Approach Control and Slow speed junction              2 **
+platform 3
+From Down Wilmslow stopping in platform 3        Approach Control and Slow speed junction              1 **
+Down Manchester Independent to platform 2        Approach Control and Slow speed junction              1 ** & 1 #
+Pass platform 3 towards Wilmslow                 Acceleration from Slower speed junction               1#
+Freight Depart Down Manchester Independent       Signal position and Slow speed junction               1½ 2#
+Sandbach Signal MS3723 passing platform 2        Acceleration
+Freight Depart Down Manchester Independent       Signal position and acceleration from Slower          1½ #
+Sandbach Signal MS3723 passing platform 3        speed junction Acceleration
+
+
+
+
+                                Electronic copy - uncontrolled when printed

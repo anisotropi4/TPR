@@ -1,0 +1,67 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version:    4.3
+Route: Sussex                            Final Rules for Subsidiary                  Date:       18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                     Page:       39 of 163
+
+
+
+SO645 BATTERSEA PARK TO PECKHAM RYE (ATLANTIC LINES)
+TIMING POINT                         DOWN         UP          CODE       NOTES
+
+Battersea Park                       AL
+Factory Junction                     RVL AL       AL                     To/from Longhedge Junction - SO250
+                                                                         To/from Stewarts Lane Junction - SO250A
+                                                                         To/from Grosvenor Bridge Junction - Refer
+                                                                         to Kent Timetable Planning Rules - SO110
+Wandsworth Road                      AL           AL          S          Platform detail must be shown
+Voltaire Road Junction               AL           AL
+Clapham High Street                  AL           AL          S          Platform detail must be shown
+Shepherds Lane Junction              AL           AL          X          Timing point for trains to/from Brixton.
+                                                                         To/from Brixton - Refer to Kent Timetable
+                                                                         Planning Rules - SO110
+                                                                         To/from Brixton Junction - Refer to Kent
+                                                                         Timetable Planning Rules - SO260
+Denmark Hill                         AL           AL                     Platform detail must be shown
+Crofton Road Junction                AL           AL                     To/from Nunhead - SO260
+Peckham Rye                          -            -                      Platform detail must be shown
+                                                                         To/from South Bermondsey Junction -
+                                                                         SO680
+                                                                         To/from East Dulwich – SO680
+
+
+
+SO650 BALHAM JUNCTION TO BECKENHAM JUNCTION
+TIMING POINT                         DOWN         UP          CODE       NOTES
+
+Balham Junction                                                          To/from Balham - SO500
+Streatham Hill Signal 658            -            -                      TIPLOC STRH658
+                                                                         Required for all ECS movements from
+                                                                         Streatham Hill Up Siding West towards
+                                                                         Balham. Reversing point for movements to
+                                                                         / from Streatham Hill Shed via Up West
+                                                                         Siding
+Streatham Hill Up Siding West        -            -                      TIPLOC STRHUSW
+                                                                         Timing point for ECS moves to / from
+                                                                         Streatham Hill Shed
+                                                                         Access controlled by TOC shunter
+                                                                         Siding detail must be shown (1 or 2)
+Streatham Hill Up Siding East                     -                      TIPLOC STRHUSE
+                                                                         Access controlled by TOC shunter
+                                                                         ECS moves only
+                                                                         Reversing point for movements to / from
+                                                                         Streatham Hill Shed from the Balham
+                                                                         direction
+Streatham Hill Shed                               -                      TIPLOC STRHSH
+                                                                         Siding detail must be shown (S1, S2, S3,
+                                                                         S4, S5, S6, S7 or S8)
+Streatham Down Sidings               -            -                      TIPLOC STRHDS
+                                                                         Siding detail must be shown (S1, S2, S3,
+                                                                         S4 or S5)
+Streatham Hill                       -            UCP                    Platform detail must be shown
+
+Leigham Junction                     -            -           X          Timing point for trains to/from Tulse Hill
+                                                                         To/from Tulse Hill - SO680B
+
+
+
+                                Electronic copy - uncontrolled when printed

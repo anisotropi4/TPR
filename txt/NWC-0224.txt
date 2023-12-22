@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                         Page:   212 of 443
+
+Aynho Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                           Value
+Train running bi-directionally on Up Bicester      Differential Junction speed and approach         1
+                                                   control
+Movement Up                                        Reason                                           Value
+Train running bi-directionally on Down Bicester    Differential Junction speed and approach         1
+                                                   control
+Train to Up Goods Loop                             Differential junction speed and approach         1½
+                                                   control
+
+
+Kings Sutton
+
+Dwell Time
+165/166                               ½
+All except 165/166                    45 Seconds
+
+
+Banbury Depot Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                           Value
+All movements to Platform 1                        Slow speed crossover                             ½
+All movements to Platform 3                        Approach control/slow speed crossovers           1
+All movements to Platform 4                        Approach control/slow speed crossovers           ½
+
+Junction Margins
+First Movement                                     Second Movement                                  Margin
+Depart/Pass Banbury Depot Reception Road to        Pass on Down Cherwell Valley                     4
+Up Cherwell Valley
+Pass on Down Cherwell Valley                       Depart/Pass Banbury Depot Reception Road         2
+                                                   to Up Cherwell Valley
+Planning Restriction
+No pathing time to be added between Banbury Depot Jn and Banbury in the Down Direction or between Banbury
+and Banbury Depot Jn in the Up Direction as there are no intermediate signals between these locations.
+
+
+Banbury
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                  Timing Load              Value
+Depart Platforms 1, 3 or 4 to Down Cherwell        Speed differential      22x                      ½
+Valley                                                                                              approaching
+                                                                                                    Reservoir Jn,
+                                                                                                    and ½ after
+                                                                                                    Reservoir Jn
+                                                                           All other Passenger      ½
+                                                                           Timing Loads             approaching
+                                                                                                    Reservoir Jn
+All movements to any platform where the            Permissive working allowance                     ½
+platform is already occupied
+
+
+
+
+                              Electronic copy - uncontrolled when printed

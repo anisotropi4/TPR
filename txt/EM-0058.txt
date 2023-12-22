@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                       Version:   4.1
+East Midlands                       Final Subsidiary Change Rules 2024                     Date:    13th September
+                                                                                                    2023
+                                                                                            Page:   56 of 123
+
+Method of working
+Arrivals
+For any trains arriving on the Down Slow via a shunt move, the controller on site must obtain permission from the
+signaller to occupy the Up Slow so a radio can be safely passed to the driver to perform a radio test. The train will
+then draw clear of Limbury North GF.
+
+For any trains arriving on the Up Slow, the driver must pick up a radio from the controller on site and, after a
+satisfactory radio test, draw forward clear of Limbury South GF. Please note it is not possible to access the sidings
+directly from the Up Slow.
+
+Trains to and from the south will depart via Limbury South GF to the Up Slow Line.
+Trains to and from the north will depart via Limbury North GF to the Down Slow Line.
+
+Planning Note
+Margins are calculated based off a 2 minute RM at the ground frame before entry. SRTs are calculated based on
+propelling into Limbury Road.
+
+
+Leagrave
+
+Planning Note
+No timing allowances should be applied between Leagrave and Leagrave Junction as there are no intermediate
+signals
+
+
+
+Leagrave Junction
+
+Adjustments to Sectional Running Times
+All Movements                                       Reason                                             Value
+Up/Down Fast to Up/Down Slow or vice versa          Junction differential                              1 for EMR
+
+Movement Down                                       Reason                                             Value
+Down Fast – Down Slow                               Approach Control signal WH107                      ½ before
+                                                    Stopping at Leagrave                               Leagrave
+                                                    Approach Control signal WH107                      1 before
+                                                    Not stopping at Leagrave                           ½ after
+Down Slow – Down Fast                               Approach Control signal WH307                      ½ before
+                                                    Stopping at Leagrave                               Leagrave
+                                                    Approach Control signal WH307                      1 before
+                                                    Not stopping at Leagrave                           1 after
+
+Movement Up                                     Reason                                           Value
+Up Fast – Up Slow                               Approach Control signal WH112                    ½ before
+                                                Stopping at Leagrave
+                                                Approach Control signal WH112                    1 before and
+                                                Not stopping at Leagrave                         ½ after
+                                                Approach Control signal WH112                    1 before and
+                                                Not stopping at Leagrave & Luton                 1 after
+Up Slow – Up Fast                               Approach Control signal WH312                    ½ before
+                                                Stopping at Leagrave
+                                                Approach Control signal WH312                    1 before and
+                                                Not stopping at Leagrave                         ½ after
+                                                Approach Control signal WH312                    1 before and
+                                                Not stopping at Leagrave & Luton                 1 after
+Down trains calling at Leagrave must have the approach control allowance applied before Leagrave station as the
+
+
+                                        Electronic copy - uncontrolled when printed.

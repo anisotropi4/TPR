@@ -1,0 +1,59 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                       Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                      Date:    6th October 2023
+                                         Change Timetable 2024                             Page:    161 of 289
+
+
+Oxford
+
+Up arrival into platform 1 or 2 (Not including       Approach control              All               {1}
+services from Up or Down Carriage sidings and
+Down Turnback Line)
+From down carriage sidings or down turnback          Acceleration                  All               {½}
+passing Oxford                                                                                       Approaching
+                                                                                                     next timing
+                                                                                                     point
+On Down Oxford through line, crossing to Down        Slow Junction Speed           All               {1}
+Oxford Relief via 9158 points
+Departing Oxford Platforms 1, 2 or 3 to DRL, DML     Slow Speed Turnout            All               {½}
+or URL                                                                                               Approaching
+                                                                                                     next timing
+                                                                                                     point
+Pass platform 3 URL to UML                           Slow junction speed           All trains        {½}
+                                                                                   timed over        Approaching
+                                                                                   75mph             next timing
+                                                                                                     point
+
+Dwell Time
+22x, 80x                                   2
+150 - 165/6 & 769                          1
+Trains terminating and then running        2$
+ECS in the same direction
+$ For terminating 80x 9/10 cars and Loco Hauled Stock (with slam doors), this needs to be 4 minutes. For
+terminating double 16X sets, 80x 5 car and Loco Hauled Stock with power doors, this needs to be 3 minutes.
+
+Junction Margins
+First Movement                                   Second Movement                                     Margin
+Down passing/departing                           Conflicting train departing the Down Carriage       1
+                                                 Sidings or Down Turnback
+Up Passing/arriving                              A conflicting train departing Down Carriage         1
+                                                 Sidings or Down Turnback
+Arriving/Passing from Down carriage sidings or   Conflicting Down Passenger.ECS departure            ½
+Down Turnback
+Arriving/Passing from Down carriage sidings or   Conflicting down Freight/Light Loco departure       Simultaneous
+down turnback
+Arriving/Passing from Down carriage sidings or   Conflicting down train Pass Oxford                  2
+down turnback
+Arriving from the Down Carriage Sidings or       A conflicting Up arrival                            3
+Down Turnback
+
+Platform Re-occupation                     3
+
+Turnround allowances
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

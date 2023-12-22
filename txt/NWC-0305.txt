@@ -1,0 +1,54 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    293 of 443
+
+
+NW3013 HOOTON SOUTH JN TO HELSBY JN
+
+Ellesmere Port
+
+Other Restrictions
+The maximum permitted station dwell time of 5 minutes for Merseyrail DC services does not apply.
+
+
+NW3021 FRODSHAM JN TO HALTON JN
+
+Frodsham Jn
+See entry under route NW3003 Chester East Jn to Acton Grange Jn
+
+
+Halton Jn
+See entry under route NW2001 Weaver Jn to Liverpool Lime Street
+
+
+NW3023 EDGELEY JN No.2 TO MICKLE TRAFFORD
+
+Edgeley Jn No.2
+See entry under route NW5001 Crewe North Jn to Manchester Piccadilly
+
+
+Deansgate Jn
+
+Adjustments to Sectional Running Times
+Movement                                        Reason                                             Value
+All Down trains running towards Navigation      Approach Control                                   1
+Road                                                                                               approaching
+                                                                                                   Deansgate Jn
+
+
+Altrincham
+
+Dwell Time
+All                                 1
+
+
+Northwich
+
+Dwell Time
+All                                 1
+
+
+
+
+                             Electronic copy - uncontrolled when printed

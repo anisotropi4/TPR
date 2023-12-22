@@ -1,0 +1,45 @@
+NETWORK RAIL                     Timetable Planning Rules                         Version:   4.2
+Route: Wessex                Final Rules for Subsidiary OFFICIAL
+                                                        Change                      Date:    27th October 2023
+                                      Timetable 2024                                Page:    32 of 178
+
+
+SW190 NEW MALDEN TO SHEPPERTON
+TIMING POINT                  DOWN         UP          CODE        NOTES
+
+New Malden                    -                 SL                 To/from Raynes Park - SW105
+Norbiton                      -            -           S
+Kingston                      -            -                       Show ‘Bay’ if to/from Bay
+                                                                   Platform detail must be shown
+Hampton Wick                  -            -           S           Platform detail must be shown
+Teddington                    -            -
+Shacklegate Jn Signal 2449    -                        S
+Shacklegate Junction          -            -                       To/from Strawberry Hill - SW245
+Shacklegate Jn Signal 2508                 -           S
+Fulwell Junction              -            -                       To/from Strawberry Hill - SW245A
+Fulwell                       -            -
+Hampton                       -            -           S
+Kempton Park                  -            -           S
+Sunbury                       -            -           S
+Upper Halliford               -            -           S
+Shepperton Signal 2537        -                        S           For movements to/from Up Siding
+Shepperton Up Siding                       -           S
+Shepperton                                 -
+
+
+SW195 SURBITON TO HAMPTON COURT
+TIMING POINT                  DOWN         UP          CODE        NOTES
+
+Surbiton                      -            FL SL                   Platform detail must be shown.
+                                                                   To/From Berrylands - SW105
+Surbiton Sig. WK534                        -           S
+Hampton Court Junction                          SL                 Timing point for Up Trains from Hampton
+                                                                   Court on the Up Line only. See also entry
+                                                                   on route SW105
+Thames Ditton                 -            -    DL     S           Platform detail must be shown.
+Hampton Court                              -    DL                 Platform detail must be shown.
+
+
+
+
+                             Electronic copy - uncontrolled when printed.

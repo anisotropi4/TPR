@@ -1,0 +1,37 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version: 4.1
+London North Eastern                     Revised Final Rules for                     Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                 Page: 290 of 368
+
+
+Gascoigne Wood
+Pass to Sherburn Junction                       Pass from Milford Junction/West Yard           5
+Pass to Sherburn Junction                       Pass from Sherburn Junction                    4½*
+Freight depart/pass from Milford Junction       Pass to Micklefield                            3½
+Freight depart/pass from Milford Junction       Freight pass to Milford Junction               3
+Freight pass to Milford Junction                Freight pass from Milford Junction             6
+* 4 if non–stop at Sherburn
+
+
+Hambleton West Junction
+
+Junction Margins
+First Movement                                  Second Movement                                Margin
+Pass to Hambleton South Junction                Pass from Selby                                3½
+Pass from Selby                                 Pass to Hambleton South Junction               2½
+
+
+Hambleton East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                         Value
+Trains from Hambleton North Junction            Differential junction speed                    ½
+Approaching Selby
+
+Movement Up                                     Reason                                         Value
+Trains to Hambleton North Junction              Approach control                               ½
+Approaching Hambleton East Junction
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

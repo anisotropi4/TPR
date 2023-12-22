@@ -1,0 +1,60 @@
+NETWORK RAIL                              Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                    OFFICIAL
+                                      Final Proposal for Subsidiary                             25th August 2023
+                                                                                      Date:
+                                           Timetable 2024                             Page:    119 of 168
+
+
+
+
+SO150 SITTINGBOURNE WESTERN JUNCTION TO SHEERNESS ON SEA
+
+Sittingbourne Western Junction
+See entry under route SO110
+
+
+Sheerness Steel Works
+
+Freight Length Restrictions                                                                         Length Limit
+                                                                                                    54 SLU
+
+
+Sheerness Dockyard
+
+Freight Length Restrictions                                                                         Length Limit
+                                                                                                    36 SLU
+
+
+Sheerness on Sea
+
+Berthing Facilities
+Location                  Cars                      Notes
+Platform 1                8
+Platform 2                8
+
+Permissive working for attaching/detaching and platform sharing is authorised as shown below:
+Platform 1              Prohibited
+Platform 2              Prohibited
+
+
+SO160 FAVERSHAM TO DOVER PRIORY
+
+Faversham
+See entry under route SO110
+
+
+Canterbury East
+
+Connectional Allowance                4
+
+Dwell Time
+All Services                          1
+
+Platform Reoccupation
+First Movement                                      Second Movement                                 Value
+Up train departing from Platform 2                  Down train arriving into Platform 2             4
+
+
+
+
+                                     Electronic copy - uncontrolled when printed

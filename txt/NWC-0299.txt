@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:      28th July 2023
+West and Central
+                                                                                       Page:      287 of 443
+
+
+NW2015 ORDSALL LANE JN TO EDGE HILL
+
+Ordsall Lane Jn
+
+See entry under route NW6001 – Manchester Piccadilly East Jn to Euxton Jn
+
+
+Eccles
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                    Value
+Trains from Ordsall Lane Jn stopping in         Approach Control and Slow Speed           1
+Eccles Up Goods Loop                            Crossover
+
+Movement Up                                     Reason                                    Value
+Depart Eccles Up Goods Loop towards             Speed Differential                        1 applies approaching
+Ordsall Lane Jn                                                                           next timing point
+
+Junction Margins
+First Movement                                 Second Movement                            Margin
+Up pass                                        Depart from Up Goods Loop                  2*
+* The normal headway applies at the next mandatory timing point – see section 5.2
+
+Trains to or from the Weaste Branch
+For trains arriving from Ordsall Lane Jn direction
+Ordsall Lane Jn pass                XX/XX                     Weaste dep                 XX.XX
+                                    "-"                                                  "-"
+Eccles (Up Goods Loop) arr          XXOP*XX                   Eccles (Up Goods           XXOP*XX
+                                                              Loop) arr
+Eccles (Up Goods Loop) dep          XXOPXX                    Eccles (Up Goods           XXOPXX
+                                                              Loop) dep
+                                    "-"                                                  "-"
+Weaste arr                          XX.XX                     Ordsall Lane Jn pass       XX/XX
+* Locomotive runs round via Up Main
+
+For trains arriving from Astley direction:
+Astley pass                         XX/XX
+                                    "-"
+Eccles (Up Goods Loop) pass         XX/XX
+                                    "-"
+Weaste arr                          XX.XX
+
+
+Parkside Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                               Value
+Trains to Golborne Jn from Parkside Jn          Approach control for slow speed      1½ (applies approaching
+                                                junction                             Parkside Jn)
+
+Movement Up                                     Reason                               Value
+Trains from Golborne Jn routed to Parkside Jn   Acceleration from slow speed         1 (applies at next timing
+                                                junction                             point after Parkside Jn)
+
+
+
+
+                             Electronic copy - uncontrolled when printed

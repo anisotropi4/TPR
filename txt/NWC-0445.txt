@@ -1,0 +1,53 @@
+ NETWORK RAIL                          Timetable Planning Rules                          Version:   4
+ Region: North            Final Proposal for Subsidiary Change Timetable 2024              Date:    28th July 2023
+ West and Central
+                                                                                           Page:    433 of 443
+
+
+5.5.4 SO Night time (See routes for applicable times)
+SX daytime allowances apply to those routes excluded from this section.
+
+ MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)
+ Down – 2000 Sat – 1200 Sun (Euston to Rugby timed as 2 track railway using SL)
+ From 2230 SO until 0900 SUN, the Trent Valley is closed for Engineering reasons
+ Location                             Type    FL/ML   SL       GL         Remarks
+ Approaching Ledburn Jn               E               2
+ Approaching Milton Keynes            E               4
+ Central
+ Approaching Hillmorton Jn            E               1
+ Approaching Colwich                  E       3       3                   Between 2000 – 2230 the FL/ML [3] and
+                                                                          SL [3] can be [1]
+
+ Up – 2000 Sat – 1200 Sun (Timed as 2 track railway using SL)
+ From 2230 SO until 0900 SUN, the Trent Valley is closed for Engineering reasons
+ Location                             Type    FL/ML   SL       GL         Remarks
+ Approaching Newbold Jn               E       3       3                   Between 2000 – 2230 the FL/ML [3] and
+                                                                          SL [3] can be [1]
+ Approaching Tring                    E               2
+ Approaching Wembley Central          E               2                   Only applies to freights routed to Wembley
+                                                                          Yard or via Willesden Relief Lines
+ Approaching Willesden West           E               4                   Does not apply to trains that have
+ London Jn                                                                commenced their journey at Wembley
+                                                                          Yards, Wembley C Sidings or Intercity
+                                                                          Depot or ECS movements to/from
+                                                                          Willesden TMD
+
+
+ MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)
+ Timing Section                       Type    FL/ML   SL       GL         Remarks
+
+ Down – 2000 Sat – 1200 Sun
+ Approaching Northampton              E       2
+ Approaching Daventry South Jn        E       1*                          * Trains terminating at Daventry Freight
+                                                                          Terminals
+ Approaching Hillmorton Jn            E       1
+
+ Up– 2000 Sat – 1200 Sun
+ Approaching Daventry North Jn        E       1*                          * Trains terminating at Daventry Freight
+                                                                          Terminals
+ Approaching Northampton              E       2
+
+
+
+
+                               Electronic copy - uncontrolled when printed

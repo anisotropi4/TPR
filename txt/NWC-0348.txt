@@ -1,0 +1,54 @@
+NETWORK RAIL                              Timetable Planning Rules                       Version:   4
+Region: North                Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                           Page:    336 of 443
+
+Hunts Cross West Jn
+
+Adjustments to Sectional Running Times
+Movement                                            Reason                                             Value
+All trains approaching from the Up Southport        Approach Control                                   ½
+routed via the UDE (Single)
+
+Junction Margins
+First Movement                                      Second Movement                                    Margin
+Pass to/from Southport Lines                        Pass to/from Hunts Cross Chord                     3
+Pass to/from Hunts Cross Chord                      Pass from Southport Lines                          2
+Pass to/from Hunts Cross Chord                      Pass to Southport Lines                            2½
+Pass from UDE Single Line                           Pass to UDE Single Line                            1½
+
+
+NW6004 WATER STREET JN TO SALFORD CENTRAL (ORDSALL CHORD LINES)
+
+Water Street Jn
+
+See entry under route NW6001 Manchester Piccadilly East Jn to Euxton Jn
+
+
+Salford Central
+
+See entry under route NW6005 Manchester Victoria East Jn to Windsor Bridge South Jn
+
+
+NW6005 MANCHESTER VICTORIA EAST JN TO WINDSOR BRIDGE SOUTH JN
+
+Manchester Victoria
+
+See entry under route NW7001 Manchester Victoria West Jn to Hebden Bridge.
+
+
+Manchester Victoria Turnback Siding
+
+For eastbound departures:                                        For westbound
+                                                                 arrivals:
+Manchester Victoria Turnback           XX.00                     Manchester Victoria *      XX.00
+Siding dep.                                                      dep.
+                                       "-"                                                  "-"
+Manchester Victoria * arr.             XX.02                     Manchester Victoria        XX.02
+                                                                 Turnback Siding arr.
+* - Platforms 3 or 4 only.
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

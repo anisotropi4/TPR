@@ -1,0 +1,70 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                         Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                    12th September
+                                                                                        Date:
+                                               2024                                             2023
+                                                                                        Page:   96 of 183
+
+Ipswich
+
+Junction Margins
+First Movement                                       Second Movement                                 Margin
+Conflicting passenger train arrives at Ipswich       Freight Train passes through Ipswich            1
+Conflicting passenger train arrives at Ipswich       Freight train stopping at Ipswich               2
+Freight train travelling towards Ipswich SS or       Down Passenger train following                  4
+Reception
+Pass/arrive platform 3 from Down Main                Up arrive unoccupied platform 4                 2*
+Up arrive unoccupied platform 4                      Pass/arrive platform 3 from Down Main           3*
+Down pass/arrive TL from Up Main                     Up arrive unoccupied platform 2                 2&
+Up arrive unoccupied platform 2                      Down pass/arrive TL from Up Main                3&
+* Overlap on Signal CO302 extends into Ipswich Tunnel on the Down Main
+& Overlap on Signal CO308 extends into Ipswich Tunnel on the Up Main. Up train can only arrive unoccupied
+
+platform 2 after the down service if the down arrival does not exceed the Through Line standage length. If the
+down service exceeds the Through Line standage length it will still be occupying the overlap and arrival into
+platform 2 will only be possible once the first service has departed the Through Line.
+
+Location                                          Length Limits
+Ipswich Through Line                              55 SLUs
+Ipswich Station Siding                            32 SLUs
+
+Permissive Working
+First Movement                                    Second Movement                                      Margin
+Arrive in occupied platform                       Depart same platform in same direction               2
+
+Splitting and Coupling of trains permitted        In all platforms for use for class 1, 2, 3 ECS, 5, 9 and 0
+
+
+EA1012 IPSWICH TO TROWSE JUNCTION
+
+Ipswich Yard
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                               Allowance
+Freight trains departing from Ipswich Yard        Reduced speed due to Running Brake Test              {2}
+towards Halifax Junction following a Crew         after leaving Ipswich                                approaching
+change or change in train formation                                                                    next timing
+(e.g. loco change).                                                                                    point after
+                                                                                                       Halifax Jn
+
+Allowances for Conflicting Movements
+First Movement                                    Second Movement                                      Margin
+Train arrives at North End of the reception       Train arrives at or departs from South end of        3
+                                                  the reception
+Train arrives at South End of the reception       Train arrives at or departs from North end of        3
+                                                  the reception
+
+Ipswich Yard Capacity
+The capacity is controlled by the Ipswich Yard Plan
+Note: only the Up and Down Goods Line and No 1 Reception Road are accessible to trains approaching via/
+departing towards Stowmarket.
+Note: for trains to/from Westerfield only No 2 – 4 Reception Roads are accessible directly from/to the Up East
+Suffolk Line, trains using the Up and Down Goods Line and No 1 Reception Road must travel via East Suffolk
+Junction.
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

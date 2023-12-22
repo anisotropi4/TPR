@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                           25th August 2023
+                                                                                   Date:
+                                        Timetable 2024                             Page:      110 of 168
+
+
+Paddock Wood
+Pass Paddock Wood on Down Main towards           Depart pl.2 on Up main towards Tonbridge          1
+Marden
+
+
+Cranmore Down Loop
+
+Adjustments to Sectional Running Times
+Movement Down
+Timing Load                                   Reason                                                Value
+Trains stopping at Cranmore Down Loop:
+Freight up to 800T/TR40 inclusive at 60mph    Speed Differential                                    ½
+Freight between 801 - 1000T/TR55 inclusive    Speed Differential                                    1
+at 60mph
+Freight between 1001 - 1400T/TR70 inclusive   Speed Differential                                    1½
+at 60mph
+Freight between 1401 - 1600T/TR85 inclusive   Speed Differential                                    2
+at 60mph
+Freight between 1601 - 2400T/TR100+           Speed Differential                                    2½
+inclusive at 60mph
+Freight between 400 - 600T/TR30 inclusive of  Speed Differential                                    ½
+Containers at 75mph
+Freight between 601 - 800T/TR40 inclusive of  Speed Differential                                    1
+Containers at 75mph
+Freight between 801 - 1600T/TR50+ inclusive Speed Differential                                      1½
+of Containers at 75mph
+Planning Note
+These allowances should be applied approaching the next timing point after Headcorn as trains will not have
+accelerated up to line speed by this time.
+
+
+Ashford International
+
+Adjustments to Sectional Running Times
+Movement Down
+Timing Load                                     Reason                                             Value
+Down Eurostar Class 373/374 train towards       Speed differential after Ashford West Junction     ½
+Ashford International
+All movements from Up Slow towards              Approach control on signal AD6957 and slow         ½*
+Saltwood Junction                               crossovers                                         approaching
+                                                                                                   next timing
+                                                                                                   point
+Depart/Pass Platform 1 2 towards Canterbury     Acceleration                                       ½*
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+
+*Applied approaching next timing point. Does not apply to trains routed to Down Fast
+
+Movement Up
+Timing Load                                     Reason                                             Value
+Up Eurostar Class 373/374 train towards         Speed differential after Ashford East Junction     ½
+Ashford International
+Train passing on Up Fast towards Charing       Approach Control and deceleration for signal        1
+                                               AD668
+                                   Electronic copy - uncontrolled when printed

@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+London North Eastern                    Revised Final Rules for                       Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                   Page: 119 of 368
+
+
+Copenhagen Junction
+
+Note: Trains in the Down direction on the North London Incline (NLI) should not normally be shown to stop at
+Copenhagen Junction. Down trains required to stop on the NLI to wait a path over Copenhagen Jn should be
+timed to stop at York Way North Jn unless they exceed 630 metres in length. Only trains in excess of 630 metres
+in length should be timed to stop at Copenhagen Jn. In those circumstances due to signalling constraints the
+following applies: A Down train on the NLI planned to stop at Copenhagen Jn must arrive a minimum of 5 minutes
+before the passage of any train on the Down Slow
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Train from NLI to Down Slow Line                 Train from Up Slow Line to North London           3½
+                                                 Incline
+Train from Up Slow Line to North London          Train passing Belle Isle on Down Slow             3½
+Incline
+Train from Up Slow Line to North London          Train on Up Slow towards Belle Isle               3
+Incline
+Train passing Belle Isle on Down Slow            Train from Up Slow Line to North London           2½
+                                                 Incline
+
+
+Holloway South Junction
+
+Adjustment to sectional running times
+Movement Down                         Reason                                           Value
+Down Fast or Down Slow to Down        Approach control                                 1 approaching Holloway
+Goods                                                                                  South Junction
+Down Fast to Down Slow                Approach control                                 ½ approaching Holloway
+                                                                                       South Junction
+Down Slow to Down Fast                    Approach control and acceleration            ½ approaching Finsbury
+                                                                                       Park
+
+Movement Up                               Reason                                       Value
+Up Fast to Up Slow                        Approach control                             ½ approaching Holloway
+                                                                                       South Junction
+Up Slow to Up Fast                        Approach control and acceleration            ½ approaching Holloway
+                                                                                       South Junction
+                                                                                       ½ approaching Belle Isle
+Up Slow 2 to Up Slow                      Acceleration                                 ½ approaching next timing
+                                                                                       point
+Up Slow 2 to Up Fast (not stopping at     Approach control and acceleration            ½ approaching Holloway
+Signal K326)                                                                           South Junction
+                                                                                       ½ approaching Belle Isle
+Up Slow 2 to Up Fast (having stopped      Acceleration                                 ½ approaching Belle Isle
+at Signal K326)
+
+Junction Margins
+First Movement                             Second Movement                             Margin
+All Conflicting Moves (unless stated below                                             2
+Up Fast pass                               Up Slow 2 to Up Fast                        2½
+Up Slow pass                               Up Slow 2 to Up Slow                        2½
+Up Slow pass                               Up Slow 2 to Up Fast                        2½
+
+Planning restriction
+Any train exceeding 321m in length held at K326 on Up Slow 2 will prevent another entering Platform 1 at Finsbury
+Park
+
+                                   Electronic copy - uncontrolled when printed.

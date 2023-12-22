@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                           Version: 4.1
+London North Eastern                     Revised Final Rules for                            Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                        Page: 85 of 368
+
+
+LN120 WOOD GREEN NORTH JUNCTION TO LANGLEY JUNCTION (VIA
+HERTFORD)
+TIMING POINT                          DOWN                UP               NOTES
+
+Alexandra Palace to Gordon Hill       3                   3
+Gordon Hill to Hertford North         5                   5
+Hertford North to Langley             3½ following        3½ following     *headway to be applied at the following
+                                      non-stop            non-stop         timing point
+
+                                      5* following a      5* following a
+                                      train stopping      train stopping
+                                      at Watton-at-       at Watton-at-
+                                      Stone               Stone
+
+
+LN125 HITCHIN CAMBRIDGE JUNCTION TO ROYSTON (INCLUSIVE)
+TIMING POINT                         DOWN               UP            NOTES
+
+Standard Headway                     3 following        3 following
+                                     passenger          passenger
+                                     4 following        4 following
+                                     freight            freight
+
+
+LN135 KING’S DYKE (EXCLUSIVE) TO CRESCENT JUNCTION
+TIMING POINT                         DOWN          UP            NOTES
+
+Standard Headway                     4             4
+
+
+LN170 WERRINGTON JUNCTION TO FLYOVER EAST JUNCTION (VIA LINCOLN)
+TIMING POINT                         DOWN          UP            NOTES
+
+Werrington Jn to Spalding            5             6
+Spalding to Quadring                 4             4
+Quadring to Sleaford Sth Jn          9             7½
+Sleaford Sth Jn to Sleaford North    3             3
+Jn
+Sleaford North Jn to                 6             5
+Metheringham
+Metheringham to Pelham Street        6             7
+Junction
+Pelham Street Jn to West Holmes      3             3
+Jn
+West Holmes Jn to Saxilby            5½            5½
+Saxilby to Gainsborough Lea          6½            6½
+Road
+Gainsborough Lea Road to             4             4*            *Absolute block for Beckingham to Gainsborough
+Flyover East Junction                                            Trent Junction
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

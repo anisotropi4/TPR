@@ -1,0 +1,20 @@
+ NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+ Kent & HS1                                                    OFFICIAL
+                                       Final Proposal for Subsidiary                            25th August 2023
+                                                                                      Date:
+                                          Timetable 2024                              Page:     61 of 168
+
+
+
+
+4.7 Engineers’ Trains Restrictions
+Some On Track Machines (OTMs) do not reliably activate track circuits. These OTMs must use one of the
+following special reporting numbers 6Z09, 7Z09 or 8Z09*. Because these OTMs do not reliably activate track
+circuits it is not possible to apply the headways and junction margins as outlined in Timetable Planning Rules
+consistently and it is therefore not possible for Operational Planning to provide timings for these movements.
+* Source GE/RT 8000-OTM
+
+
+
+
+                                     Electronic copy - uncontrolled when printed

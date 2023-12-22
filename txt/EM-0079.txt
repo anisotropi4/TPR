@@ -1,0 +1,59 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                     Version:     4.1
+East Midlands                      Final Subsidiary Change Rules 2024                   Date:      13th September
+                                                                                                   2023
+                                                                                           Page:   77 of 123
+
+Sheet Stores Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                      Value
+From Trent East Jn when routed towards the         Differential junction speed – to be         ½ services stopping
+Spondon direction                                  applied approaching next timing point       at Long Eaton#
+                                                                                               1 non-stop services#
+                                                                                               Freight
+                                                                                               2 < 1,200t
+                                                                                               3 > 1,200t
+                                                                                               #does not apply to
+
+                                                                                               services shown to
+                                                                                               stop at Sheet Stores
+                                                                                               Jn
+
+Movement Up                                        Reason                                      Value
+To Trent East Jn when approaching from the         Differential Junction speed                 ½ stopping at Long
+Spondon direction                                                                              Eaton
+                                                                                               1 non–stop services
+
+Junction Margins
+First Movement                                     Second Movement                             Margin
+All conflicting moves except for below:                                                        5 before/
+                                                                                               3 after
+Down Main passenger non-stop                       Pass/depart Sheet Stores Jn from Trent      2½
+                                                   East Jn towards Spondon
+Down Main passenger stopping at Long Eaton         Pass/depart Sheet Stores Jn from Trent      3
+                                                   East Jn towards Spondon
+Down Main freight                                  Pass/depart Sheet Stores Jn from Trent      3
+                                                   East Jn towards Spondon
+Down Main pass                                     Pass/depart Sheet Stores Jn from Trent      2
+                                                   East Jn towards Castle Donington
+
+
+Long Eaton
+
+Dwell Time
+DMU                                   ½
+170                                   1
+222                                   1½
+
+
+Spondon
+
+Dwell Time
+170                                   ½
+
+
+
+
+                                          Electronic copy - uncontrolled when printed.

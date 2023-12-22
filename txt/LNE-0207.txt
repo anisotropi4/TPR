@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version: 4.1
+London North Eastern                       Revised Final Rules for                     Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                 Page: 204 of 368
+
+
+Grangetown SB
+
+Junction Margins
+First Movement                                       Second Movement                               Margin
+Pass from Goods Line to Main Line                    Pass from Main Line to Goods Line             4*
+Pass from Goods Line to Main Line                    Pass Up Goods Line                            5½*
+Pass Main Line to Goods Line                         Down Main Pass South Bank                     1½
+Down Main Pass South Bank                            Pass Main Line to Goods Line                  4
+Down Main Depart South Bank                          Pass Main Line to Goods Line                  4½
+Pass Up Goods                                        Pass Goods Line to Main Line                  4½*
+Pass from Tees Dock                                  Pass Up Goods Line                            7½*
+Pass Down Goods Line                                 Pass from Tees Dock                           4*
+Arrive at Signal G727 from South Bank                Pass from Tees Dock                           2½
+Pass from Tees Dock                                  Depart Signal G727                            5*
+Arrive at Signal G733                                Pass from Tees Dock                           6
+Pass from Tees Dock                                  Arrive at Signal G733                         5*
+Arrive at Signal G710 from Tees Dock                 Pass South Bank from Whitehouse Jn            5
+Pass South Bank from Whitehouse Jn                   Depart Signal G710                            2*
+* If first train is over 641m to be increased by ½
+
+Restrictions
+   • When a run–round is taking place at Grangetown no other train should be timed on the Goods Lines
+        between South Bank and Grangetown Junction.
+   • Following a pass from Tees Dock no train may pass South Bank to the Goods Line until the train from
+        Tees Dock has passed South Bank. This is due to overlap constraints. There is an exception for trains in
+        the Down under 573 meters which can be planned to stop at Signal G727 to allow a train from Tees dock
+        to pass Grangetown towards South Bank. In addition Light Locos from Tees Dock can stop at G710 to
+        allow a pass from South Bank to the down goods.
+
+
+
+Shell Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                        Reason                                        Value
+Pass to Wilton Branch from Down Main                 Deceleration/Approach Control                 1
+Movement Up                                          Reason                                        Value
+Pass from Wilton Branch to Down Main                 Acceleration                                  1
+
+                                                                                                   1½ for freight
+                                                                                                   over 600m
+
+                                                                                                   To be applied
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+
+Junction Margins
+First Movement                                       Second Movement                               Margin
+Pass from Wilton Branch to Up Goods                  Pass Down Goods to Wilton Branch              5
+Pass from Wilton Branch to Up Goods                  Pass Down Main to Wilton Branch               3
+Pass from Wilton Branch to Up Main                   Pass Down Goods to Wilton Branch              5
+Pass from Wilton Branch to Up Main                   Pass from Down Main to Wilton Branch          3
+Pass from Wilton Branch to Up Main                   Pass Down Main                                3
+Pass from Wilton Branch to Up Main                   Pass Up Main                                  4
+
+
+                                     Electronic copy - uncontrolled when printed.

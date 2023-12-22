@@ -1,0 +1,54 @@
+NETWORK RAIL                             Timetable Planning Rules                        Version:     4
+Region: North               Final Proposal for Subsidiary Change Timetable 2024            Date:      28th July 2023
+West and Central
+                                                                                           Page:      236 of 443
+
+Castle Bromwich Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                        Reason                                              Value
+All non-stop train from Park Lane Jn or the Up       Acceleration Allowance                              1
+Derby Slow to the Down Derby Fast
+Train from the Down Derby to the Down Derby          Flashing Yellow Aspects/ Differential Junction      ½
+Goods                                                Speed
+
+Movement Up                                          Reason                                              Value
+All non-stop trains from the Up Derby Fast           Approach Control and Slow Speed Crossover           1½
+towards Park Lane Jn or the Up Derby Slow
+
+Junction Margins
+First Movement                                       Second Movement                                     Margin
+All conflicting moves                                                                                    3*
+*Plus half minute if first move is freight
+
+
+Bromford Bridge
+
+Reoccupation of Single Lines             5 From/to Jaguar Sidings
+
+
+Washwood Heath Up Sidings
+
+Time between arrivals and departures                                                                30
+Incoming trains from Washwood Heath East Jn to show 1 minute OP stop to collect a radio for acceptance
+purposes
+
+
+Washwood Heath West Jn
+
+Junction Margins
+First Movement                                       Second Movement                                     Margin
+All conflicting moves                                                                                    5 before/
+                                                                                                         3 after
+
+
+Duddeston Jn
+
+Planning Note
+Trains from Castle Bromwich Jn to Lawley Street FLT must be planned via the Up Washwood Heath Goods Loop.
+This does not apply to light locos.
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

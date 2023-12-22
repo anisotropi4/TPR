@@ -1,0 +1,62 @@
+NETWORK RAIL                              Timetable Planning Rules                   Version:   4.3
+Route: Sussex                             Final Rules for Subsidiary                 Date:      18th October 2023
+                                                Timetable 2024 OFFICIAL
+                                                                                     Page:      131 of 163
+
+Hove
+* Trains formed of a 12 car Class 700 EMU must not be planned into these sidings, due to operational restrictions
+
+Connectional Allowances
+All Services                          2
+
+Dwell Times
+All Class 1 Services                  1
+
+Junction Margins
+                                                                                                           Margin
+Between all conflicting moves where the second train is arriving / passing except                          3
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1      Up Loop                   (Up Direction)      Attaching/Detaching
+Platform 2      Up West Branch            (Up Direction)      Attaching/Detaching
+Platform 3      Down West Branch                              Detaching Only
+
+Overlap Restrictions
+First Movement                                     Second Movement                                     Margin
+Down train arriving Platform 2                     Up train arriving Platform 1                        3
+Down train arriving Platform 2                     Down train departing Platform 1                     1
+Up train departing Platform 2 towards Preston      Up train arriving Platform 1                        3
+Park
+Up train departing Platform 3 towards Brighton     Up train arriving Platform 2                        3
+
+Station Working Requirements
+Restrictions exist on certain stock through certain platforms. See Sectional Appendix for details
+
+Planning Note
+The non-stop headway applies for consecutive departures from Hove in the Down direction providing the first train
+does not stop at Aldrington and the correct headway is applied at the next common timing point irrespective of calling
+pattern. National TPR section 1.5.5 Application of Planning Headways refers.
+
+
+Aldrington
+
+Planning Note
+Trains formed of a 12 car Class 700 EMU must not be planned to use this station, due to operational restrictions
+
+
+Portslade
+
+Dwell Times
+All Peak Services to/from London      1
+
+
+Fishersgate
+
+Planning Note
+Trains formed of a 12 car Class 700 EMU must not be planned to use this station, due to operational restrictions
+
+
+
+
+                                Electronic copy - uncontrolled when printed

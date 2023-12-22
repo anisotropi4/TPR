@@ -1,0 +1,64 @@
+                                                 OFFICIAL
+
+
+Network Rail                                                                              Version 4.0
+National                                                                          Date: 28th July 2023
+                            Final Proposal for Subsidiary Change 2024
+                                         Page 59 of 114
+Network Seasonal and Railhead Treatment Services
+
+Type           Days    TID          Start Time      Origin                  Destination
+
+Anglia
+RHTT           SX      3S01         09:22           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           SO      3S01         09:25           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           Su      3S01         10:12           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           SX      3S10         19:39           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           Su      3S10         20:35           Stowmarket D.G.L.       Stowmarket D.G.L.
+                                    20:32
+RHTT           SX      3S11         19:39           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           SX      3S20         20:48           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+RHTT           Su      3S20         20:04           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+RHTT           FSX     3S30         21:52           Stowmarket D.G.L.       Stowmarket D.G.L.
+
+RHTT           FO      3S30         21:52           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           Su      3S30         21:52           Stowmarket D.G.L.       Stowmarket D.G.L.
+                                    21:56
+RHTT           FO      3S40         19:26           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+                                    19:28
+RHTT           FSX     3S40         19:26           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+                                    19:28
+RHTT           Su      3S40         19:16           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+RHTT           SX      3S50         19:45           Stowmarket D.G.L.       Stowmarket D.G.L.
+                                    19:53
+RHTT           Su      3S50         19:25           Stowmarket D.G.L.       Stowmarket D.G.L.
+                                    19:24
+RHTT           SX      3S60         09:00           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           SO      3S60         08:37           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           SX      3S65         23:59           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           Su      3S65         23:30           Stowmarket D.G.L.       Stowmarket D.G.L.
+RHTT           SX      3S70         08:31           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+RHTT           SO      3S70         08:20           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+                                    08:18
+RHTT           SO      3S81         07:25           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+RHTT           MThFO   3S81         07:40           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+                                    07:12
+RHTT           TWO     3S81         07:40           Broxbourne Tamp Sdg     Broxbourne Tamp Sdg
+                                    07:12
+LNE
+               MWO                                  Carlisle Kingmoor TMD   Carlisle Kingmoor SDG
+RHTT           SX      3J11         16:21           (DRS)                   (DRS)
+                                                    Carlisle Kingmoor TMD   Carlisle Kingmoor SDG
+RHTT           FO      3J11         16:21           (DRS)                   (DRS)
+                                    16:21           Carlisle Kingmoor TMD   Carlisle Kingmoor TMD
+RHTT           SU      3J11         11:34           (DRS)                   (DRS)
+                                                    Carlisle Kingmoor TMD   Carlisle Kingmoor SDG
+RHTT           TThO    3J11         16:21           (DRS)                   (DRS)
+RHTT                                                                        Foxton
+                       3J31                                                 Harringay Up Rev
+               SX      3J30         01:06           Peterborough L.I.P.     SDGS
+                                                                            Foxton
+RHTT                   3J31                                                 Harringay Up Rev
+               SO      3J30         01:35          Peterborough L.I.P.      SDGS
+RHTT           SU      3J31         10:48          Peterborough L.I.P.      Foxton
+                              Electronic copy – uncontrolled when printed

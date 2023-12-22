@@ -1,0 +1,64 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                             Version 4.0
+National                                                                         Date: 28th July 2023
+                               Final Proposal for Subsidiary Change 2024
+                                            Page 67 of 114
+Type           Days   TID          Start Time       Origin                 Destination
+
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SX     8Y71         20:50           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SO     8Y71         20:20           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SU     8Y71         19:57           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SX     8Y72         20:20           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SO     8Y72         22:13           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SU     8Y72         20:22           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SX     8Y73         10:20           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SO     8Y73         05:40           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SU     8Y73         08:10           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SX     8Y74         10:10           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SO     8Y74         09:32           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SU     8Y74         09:10           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SX     8Y75         22:35           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer        SO     8Y75         23:22           Sidings                 Sidings
+                                                   Tonbridge Engineers     Tonbridge Engineers
+De-Icer     SU        8Y75         23:22           Sidings                 Sidings
+De-Icer     SU        8Y90         23:21           London Bridge           Horsham Up T.C.
+South East (Sussex)
+RHTT        SX        3S90         16:59           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SO        3S90         17:55           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SU        3S90         18:15           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SX        3S91         05:26           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SO        3S91         05:00           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SU        3S91         05:25           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SO        3S91         17:32           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SU        3S91         18:54           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SX        3S91         17:51           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SX        3S92         06:51           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SU        3S92         07:25           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SX        3S92         16:48           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SO        3S92         17:24           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SU        3S92         18:06           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SO        3S92         06:52           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SX        3S93         05:53           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SO        3S93         05:45           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SU        3S93         06:20           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SX        3S93         16:33           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SO        3S93         16:07           Horsham Up T.C.         Horsham Up T.C.
+RHTT        SU        3S93         18:30           Horsham Up T.C.         Horsham Up T.C.
+
+                             Electronic copy – uncontrolled when printed

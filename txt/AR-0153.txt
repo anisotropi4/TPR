@@ -1,0 +1,65 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                         Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                    12th September
+                                                                                        Date:
+                                                2024                                             2023
+                                                                                        Page:    150 of 183
+
+EA1500 BRUNDALL JUNCTION TO YARMOUTH
+
+Acle
+
+                                                  First train arrives at xx and departs xx +02½
+                                                  Second train arrives xx +02 and departs xx +03
+Single Line Crossing
+                                                  If the Up train exceeds the Up Loop length the down train must
+                                                  arrive first and depart second.
+
+
+Great Yarmouth
+
+Single Line Reoccupation                          DMU / BMU                                           1
+                                                  Other                                               2½
+
+Splitting and Coupling of trains permitted        All platforms
+
+
+EA1530 COLDHAM LANE JUNCTION TO HAUGHLEY JUNCTION
+
+Dullingham
+
+Single Line Crossing                              First train arrives xx and departs xx +02½
+                                                  Second train arrives xx +02 and departs xx +03
+
+
+Newmarket
+
+Dwell Time                                                                                            1
+
+
+Chippenham Jn
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down train from Cambridge direction               Up train towards Cambridge                          2
+Down train from Cambridge direction               Up train towards Soham                              2½
+Up passenger train towards Soham                  Down train from Cambridge direction                 2½
+Up freight train towards Soham                    Down train from Cambridge direction                 3
+
+Bury St Edmunds
+
+Dwell Time                                                                                            1
+
+Terminal Lengths
+Up Reception                                      Headshunt beyond the points leading back to         60 SLUs
+                                                  the Up Main line to achieve 60 SLUs
+Up Reception                                      Without headshunt                                   25 SLUs
+
+Splitting and coupling of trains permitted        Attaching or detaching in service                   4
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

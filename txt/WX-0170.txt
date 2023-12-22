@@ -1,0 +1,64 @@
+NETWORK RAIL                     Timetable Planning Rules                        Version:   4.2
+Route: Wessex                Final Rules for Subsidiary OFFICIAL
+                                                        Change                     Date:    27th October 2023
+                                      Timetable 2024                               Page:    168 of 178
+
+Hampton Court           1 - Up                           208
+Hampton Court           2 - Down                         208
+Hampton Wick            1 - Up                           205
+Hampton Wick            2 - Down                         206
+Hamworthy               1 - Up                           124
+Hamworthy               2 - Down                         124
+Haslemere               1 - Down                         249
+Haslemere               2 - Up                           249       Down direction
+Haslemere               2 - Up                           249       Up direction
+Haslemere               3 - Up Passenger Loop            249
+Havant                  1 - Up                           251
+Havant                  2 - Down Passenger Loop          251       Trains can reverse in the Platform
+Hedge End               1 - Up                           166
+Hedge End               2 - Down                         166
+Hersham                 1 - Up Slow                      246
+Hersham                 2 - Down Slow                    245
+Hilsea                  1 - Up                           163
+Hilsea                  2 - Down                         163
+Hinchley Wood           1 - Up                           204
+Hinchley Wood           2 - Down                         205
+Hinton Admiral          1 - Up                           138
+Hinton Admiral          2 - Down                         138
+Holton Heath            1 - Up                           124
+Holton Heath            2 - Down                         124
+Honiton                 1 - Single                       143       Down direction
+Honiton                 1 - Single                       148       Up direction
+Honiton                 2 - Crossing Loop in Single      138       Up direction
+                        Line
+Hook                    1 - Up Slow                      198
+Hook                    2 - Down Slow                    198
+Horsley                 1 - Up                           204
+Horsley                 2 - Down                         205
+Hounslow                1 - Up                           166
+Hounslow                2 - Down                         168
+
+Isleworth               1 - Up                           156
+Isleworth               2 - Down                         166
+
+Kempton Park            1 - Up                           204
+Kempton Park            2 - Down                         288
+Kew Bridge              1 - Up                           205
+Kew Bridge              2 - Down                         205
+Kingston                1 - Down Bay                     163
+Kingston                2 - Down                         208
+Kingston                3 - Up                           208
+
+Leatherhead             1 – Up                           206
+Leatherhead             2 - Down                         206
+Liphook                 1 - Up                           168
+Liphook                 2 - Down                         168
+Liss                    1 - Up                           161
+Liss                    2 - Down                         161
+London Road Guildford   1 - Up                           206
+London Road Guildford   2 - Down                         205
+London Waterloo         1                                208
+London Waterloo         2                                208
+London Waterloo         3                                208
+
+                             Electronic copy - uncontrolled when printed.

@@ -1,0 +1,59 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                        Version:   4
+Scotland                     Final Rules for Subsidiary Change Timetable 2024               Date:    28/07/2023
+                                                                                            Page:    23 of 242
+
+SC036 GREENBURN JUNCTION TO GREENBURN OPEN CAST
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Greenburn Junction                –           –              X
+Greenburn Open cast               –           –              F      To/from Greenburn Junction SC035
+
+SC039 KILMARNOCK TO BARASSIE
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Kilmarnock                        –           –                     Platform detail must be shown
+                                                                    To/from Gretna Junction – SC031
+Kilmarnock Sig 72                 –           –              F
+Long Lyes Sidings                 –           –              F
+Kilmarnock Hunslet Barclay        –           –              F
+Irvine Caledonian Paper           –           –              F
+(Meadowhead)
+Barassie Junction Sig 275                     –              S
+Barassie Junction                 –           –                     To/from Ayr – SC059
+
+
+SC045 EAST KILBRIDE TO BUSBY JUNCTION
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+East Kilbride                                 –
+Hairmyres Loop                    –           –                     Platform / line detail must be shown
+Hairmyres                         –           –              S
+Thorntonhall                      –           –              S
+Busby                             –           –
+Clarkston                         –           –              S
+Giffnock                          –           –              S
+Thornliebank                      –           –              S
+Busby Junction                    –           –                     To/from Muirhouse South Junction –
+                                                                    SC047
+
+
+SC047 MUIRHOUSE SOUTH JUNCTION TO LARKFIELD JUNCTION
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Muirhouse South Junction          –           –                     To/from Busby Junction – SC031
+Larkfield Junction                FL SL                             To/from Shawfield - SC001
+                                  CDL
+
+
+SC049 MUIRHOUSE CENTRAL JUNCTION TO TERMINUS JUNCTION
+TIMING POINT                      DOWN        UP             CODE   NOTES
+
+Muirhouse Central Junction        –           –                     To/from Muirhouse North Junction - SC031
+Terminus Junction                 –           –                     To/from Shields Junction – SC029
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

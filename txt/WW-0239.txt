@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                      Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:    6th October 2023
+                                           Change Timetable 2024                            Page:    236 of 289
+
+
+Adjustments to Sectional Running Times
+Movement (Up direction)                          Reason                       Timing Load         Value
+Trains that have stopped at Gowerton             Trains that have stopped     Class 150           {1}
+                                                 at Gowerton will not be at   Class 158           {½}
+                                                 linespeed when passing
+                                                 Cockett West
+
+Gowerton
+
+Dwell Time
+150 to 175                             1
+
+Llanelli
+
+Connectional Allowance                 7
+
+Dwell Time
+LH                                     2
+80x                                    1½
+150 to 175                             1
+
+Minimum allowance for reversals or run rounds en route
+DMU                               4
+
+Platform Re-occupation                 4
+
+Pembrey & Burry Port
+
+Dwell Time
+150 to 175                             1
+80x                                    1½
+
+Carmarthen Junction
+
+Junction Margins
+First Movement                                      Second Movement                                       Margin
+Down Main to Carmarthen                             Pass on Up Main                                       3
+
+Whitland
+
+Dwell Time
+LH / 80x                          2S
+150 to 175                        1S
+$ It is possible for a Down train requiring a token for the route towards Tenby to arrive in Whitland if there is no
+conflicting route from the branch. The Down train should arrive no less than 4 minutes before the Up train is due.
+The Down train will then have to wait for the driver of the Up train to hand in the token and for the signaller to
+deliver the token to the Down train. The minimum dwell time is the time difference between the arrival of the
+Down train and the departure from Whitland of the Up train plus 5 minutes for the token delivery.
+
+Junction Margin.
+First Movement                                     Second Movement                                    Margin
+Up from Tenby                                      Down arrival                                       5
+
+Token exchange.
+Trains to/from GW950 Whitland to Pembroke Dock have to either collect or set down a token for the single line
+
+
+                                      Electronic copy - uncontrolled when printed.

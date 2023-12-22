@@ -1,0 +1,63 @@
+NETWORK RAIL                     Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                              OFFICIAL
+                                Final Proposal for Subsidiary                          25th August 2023
+                                                                             Date:
+                                    Timetable 2024                           Page:    155 of 168
+
+
+STATION                  PLATFORM                         USABLE     NOTES
+                                                          LENGTH
+
+London Bridge            1                                   246     Down Cannon Street 12 cars
+London Bridge            2                                   246     Up Cannon Street & Reversible 12
+                                                                     cars
+London Bridge            3                                   246     Reversible 12 cars
+London Bridge            4                                   246     Down Snow Hill 12 cars
+London Bridge            5                                   246     Up Snow Hill 12 cars
+London Bridge            6                                   246     Reversible 12 cars
+London Bridge            7                                   246     Down Charing Cross & Reversible
+                                                                     12 cars
+London Bridge            8                                   246     Up Charing Cross 12 cars
+London Bridge            9                                   246     Up Charing Cross 12 cars
+London Cannon Street     1                                   259
+London Cannon Street     2                                   259
+London Cannon Street     3                                   259
+London Cannon Street     4                                   259
+London Cannon Street     5                                   262
+London Cannon Street     6                                   259
+London Cannon Street     7                                   259
+London Charing Cross *   1                                   252
+London Charing Cross *   2                                   250
+London Charing Cross *   3                                   254
+London Charing Cross *   4                                   222
+London Charing Cross *   5                                   220
+London Charing Cross *   6                                   227
+London St Pancras        5#                                  433     CTRL International services only
+International
+London St Pancras        6#                                  433     CTRL International services only
+International
+London St Pancras        7#                                  433     CTRL International services only
+International
+London St Pancras        8#                                  433     CTRL International services only
+International
+London St Pancras        9#                                  433     CTRL International services only
+International
+London St Pancras        10#                                 433     CTRL International services only
+International
+London St Pancras        11$                                 295     CTRL Domestic services only
+International
+London St Pancras        12$                                 295     CTRL Domestic services only
+International
+London St Pancras        13$                                 295     CTRL Domestic services only
+International
+London St Pancras        A                                    245    Low Level platform
+International
+London St Pancras        B                                    245    Low Level platform
+International
+London Victoria          1                                   270
+London Victoria          2                                   359
+London Victoria          3                                   188
+London Victoria          4                                   201
+London Victoria          5                                   247
+London Victoria          6                                   245
+                               Electronic copy - uncontrolled when printed

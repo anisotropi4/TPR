@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                   Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                    Page:      128 of 163
+
+Hastings
+
+Arrive Platform 1 from Ore                    Arrive Platform 2 from St Leonards       Overlap on       2
+                                              Warrior Square or Bo Peep Junction       EDL46
+                                                                                       points
+Arrive Platform 2 from St Leonards Warrior    Depart Platform 1                        Overlap on       2
+Square or Bo Peep Junction                                                             EDL46
+                                                                                       points
+Arrive Platform 2 from St Leonards Warrior    Arrive Platform 1 from Ore               Overlap on       2
+Square or Bo Peep Junction                                                             EDL46
+                                                                                       points
+Arrive Platform 2 from St Leonards Warrior    Depart Park Sidings into Platform 1      Overlap on       3
+Square or Bo Peep Junction                                                             EDL46
+                                                                                       points
+Arrive Platform 3 from St Leonards Warrior    Depart Platform 4 Eastbound              Overlap on       2
+Square or Bo Peep Junction                                                             EDL42
+                                                                                       points
+Depart Platform 4 to Ore                      Arrive Platform 3 from St Leonards       Overlap on       2
+                                              Warrior Square or Bo Peep Junction       EDL42
+                                                                                       points
+Arrive Platform 4 from EDL70/Park Sidings     Arrive Platform 3 from St Leonards       Overlap on       2
+                                              Warrior Square or Bo Peep Junction       EDL42
+                                                                                       points
+Depart Platform 4 to Park Sidings             Arrive Platform 3 from St Leonards       Overlap on       3
+                                              Warrior Square or Bo Peep Junction       EDL42
+                                                                                       points
+
+Planning Note
+Please note a change of line designation here when planning trains to/from the Ore direction
+Trains cannot be left unattended or berthed in Platform 2 or 3
+
+
+Rye
+
+Dwell Time
+All services                          Minimum ½ minute
+
+Turnround allowances                                                        Class 171 (2 / 3 / 4 Car)
+Trains arriving at Rye from Ashford International reversing at Signal       10
+RY27 to return to Ashford International
+
+
+Appledore
+
+Dwell Time
+All services                          Minimum ½ minute
+
+Overlap Restrictions
+First Movement                        Second Movement             Reason                                    Margin
+Up Train arrives Platform 1           Down Train arriving on      Overlap on 1282 points                    1½
+                                      Down Hastings into
+                                      Platform 2
+Down train arrives platform 2 from    Up train arrives platform   Overlap on 1282 points                    1½
+Ashford                               1 from Rye
+
+Station Working Requirements
+
+
+
+                                Electronic copy - uncontrolled when printed

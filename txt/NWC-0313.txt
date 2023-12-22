@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                         Version:     4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024             Date:      28th July 2023
+West and Central
+                                                                                           Page:      301 of 443
+
+Penrith
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                                Value
+All Down trains running "SL" from Penrith          Approach control                                      2
+South Jn to Platform 3 at Penrith station
+(allowance to be included between Tebay and
+Penrith South Jn)
+
+Dwell Time
+Standard                              1, except:
+LH/HST                                2
+Class 221/390/80x                     1½
+
+Platform Reoccupation Time            3½
+
+
+Plumpton
+
+Junction Margins
+First Movement                                     Second Movement                                      Margin
+Arrive Up Goods Loop                               Up train pass to Shap                                4
+Up train pass to Penrith                           Depart Up Goods Loop                                 2
+
+
+Carlisle
+
+Connectional Allowance                8
+
+Dwell Time
+All                                   2
+
+Junction Margins
+First Movement                                     Second Movement                                       Margin
+Train departure from Platforms 7 or 8              Conflicting Up train arrival into any Platform        4
+Southbound train departure from Platform 1         Conflicting Down train arrival into any Platform      5
+Train departure towards Petteril Bridge Jn from    Train arrival from Petteril Bridge Jn into any        5
+any platform                                       platform
+
+Other Restrictions
+Trains must not be stabled on through platform lines during certain times overnight Saturday/Sunday - refer to
+Engineering Access Statement for more details.
+
+Wherever possible, up direction trains conveying FFA, FGA, FSA, FTA and KFA type wagons must be planned
+through platform 4 at Carlisle station. However, if it is necessary for such trains to be planned through platform 3,
+or over ‘B’ or ‘C’ ‘up and down’ goods lines at Carlisle Station, the trains must be planned over the down main line
+from Caldew Jn.
+
+Locomotive changes and run round moves for freight trains should not be planned in Carlisle Station
+
+Pathing time must not be inserted between Carlisle and London Road Jn and vice versa for capacity and signalling
+reasons.
+
+Platform Reoccupation Time            3½
+
+
+
+
+                               Electronic copy - uncontrolled when printed

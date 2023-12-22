@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:     4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:      28th July 2023
+West and Central
+                                                                                          Page:   176 of 443
+
+Hanslope Jn
+
+Movement Up                                        Reason                                            Value
+Up Northampton to Up Fast                          Differential Junction speed                       ½
+                                                                                                     approaching
+                                                                                                     Hanslope Jn
+                                                                                                     and ½
+                                                                                                     approaching
+                                                                                                     next timing
+                                                                                                     point
+Up Fast to Up Slow                                 Differential Junction speed                       ½
+                                                                                                     approaching
+                                                                                                     Hanslope Jn
+                                                                                                     and ½
+                                                                                                     approaching
+                                                                                                     next timing
+                                                                                                     point
+Down direction and Up direction adjustments do not apply to Class 0,4,6 or 7 trains
+
+
+Rugby
+
+Attachment of units                               9
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                           Value
+All non–stop Class 22X, 80x and 390 trains        Differential Line and Junction speeds            1½
+from Down Northampton
+
+Movement Up                                       Reason                                           Value
+All non–stop trains crossing Up Fast to Up        Approach Control                                 1
+Northampton
+All non–stop Up trains using Platform 1 to the    Differential Line and Junction speeds            2 approaching
+Up Northampton                                                                                     Rugby and 1
+                                                                                                   approaching
+                                                                                                   Hillmorton Jn
+All non–stop Class 22X and 390 trains to Up       Differential Line and Junction speeds            1½
+Northampton
+Non-stop trains joining Up Fast from Up           Differential speed                               ½ approaching
+Coventry (excluding freight trains)                                                                Rugby
+
+Detachment of units                   9
+
+Dwell Time
+Class 22X DMU                         1½
+Class 390/80x                         1½ for pick up or set down only
+EMU (except Class 390)                1
+LH / HST                              2
+West Midlands Trains                  1 (1½ if crew change booked)
+
+
+
+
+                              Electronic copy - uncontrolled when printed

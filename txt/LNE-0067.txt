@@ -1,0 +1,49 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version: 4.1
+London North Eastern                  Revised Final Rules for                     Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                 Page: 64 of 368
+
+
+LN898 NEVILLE HILL EAST JUNCTION TO HULL
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+Ferriby                           –          – SL       SX
+Hessle                            –          –          S
+ Hull Yard                        –                     S
+Hessle East Junction              –          –          XF       To/from Hull Dairycoates – LN899
+Hessle Road Junction              –          –                   To/from Hull Saltend – LN916
+Anlaby Road Junction              –          –          X        To/from West Parade North Jn – LN920
+ Botanic Gardens TMD              –          –          S
+West Parade Junction                                             To/from West Parade North Jn – LN914
+Hull Shunt Signal 1005            –          –          S
+Hull Station Sidings Headshunt    –          –          S
+ Hull Station Sidings                        –          S
+Hull                                         –                   Platform detail must be shown
+
+
+LN899 HESSLE EAST JUNCTION TO HULL DAIRYCOATES
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+Hessle East Junction              –          –          X        To/from Brough – LN898
+Dairycoates Aggregates            –          –
+Terminal
+
+
+LN900 NEVILLE HILL WEST JUNCTION TO HUNSLET EAST
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+Neville Hill West Jn              –          – FL GL             To/from Neville Hill – LN836
+Hunslet East                                 –
+
+
+LN902 MICKLEFIELD JUNCTION TO CHURCH FENTON NORTH JUNCTION
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+Micklefield Junction                                             To/from Leeds – LN898
+Church Fenton                     NNL        –                   Platform detail must be shown
+                                  LSL
+Church Fenton North Junction                                     To/from York – LN854
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

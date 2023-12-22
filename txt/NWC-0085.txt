@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                     Page:   73 of 443
+
+
+NW3009 CHESTER NORTH JN TO CHESTER SOUTH JN
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Chester North Jn                        –           –               Single line to/from Chester South Jn
+                                                                    To/from Chester DMU Depot
+                                                                    To/from Hooton – NW3011
+Chester South Jn                      – SL          –               To/from Saltney Jn – NW3001
+
+
+NW3011 CHESTER WEST JN TO HOOTON SOUTH JN
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Chester West Jn                                                     To/from Chester South Jn – NW3001
+                                                                    To/from Chester Middle Yard – NW3001
+Chester North Jn                        –           –               To/from Chester DMU Depot
+                                                                    To/from Chester South Jn – NW3009
+Bache Down Goods Loop                   –                    S
+Bache                                   –           –        S      Platform detail must be shown
+Capenhurst                              –           –        S      Platform detail must be shown
+Hooton South Jn                                                     To/from Hooton – NW8013
+
+
+NW3013 HOOTON SOUTH JN TO HELSBY JN
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Hooton South Jn                                                     To/from Hooton – NW8013
+Little Sutton                           –           –        S      Platform detail must be shown
+Overpool                                –           –        S      Platform detail must be shown
+Ellesmere Port Freight Terminals                    –        F      TIPLOCs:
+                                                                    ELSMGBF (GBRf)
+                                                                    ELSMMWF/ELMSPFH (Freightliner)
+                                                                    ELMSPDB (DB Cargo)
+Ellesmere Port                          –           –               Platform detail must be shown.
+                                                                    Extent of DC electrified line.
+                                                                    Also bi–directional Goods Loop adjacent to
+                                                                    Down Main
+Stanlow & Thornton                      –           –        S
+Ince & Elton                            –           –        S
+Ince & Elton Encirc Works               –           –        F
+West Cheshire Jn                        –           –        X      To/from Ince & Elton Encirc Works
+Helsby                                  –           –               Platform detail must be shown
+Helsby Jn                                                           To/from Frodsham Jn – NW3003
+
+
+NW3021 FRODSHAM JN TO HALTON JN
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Frodsham Jn                             –           –               Single line from Frodsham Jn to Halton Jn
+                                                                    From Helsby – NW3003
+Halton Jn                               –           –               To Runcorn – NW2001
+
+
+
+
+                             Electronic copy - uncontrolled when printed

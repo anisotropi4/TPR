@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                        Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                       Date:    6th October 2023
+                                         Change Timetable 2024                              Page:    155 of 289
+
+
+
+Turnround allowances                  DMU/GWR Short Form HST (HSTGW4)
+From Plymouth/Penzance                10
+
+Penwithers Junction
+
+Planning Note
+150 SRTs are based on running to/from Penryn therefore no adjustment is required.
+
+Redruth
+
+Dwell Time
+80x Class 1 services                 1½
+Class 15x                            1
+Class 22x                            1½
+
+Camborne
+
+Dwell Time
+80x Class 1 services                  1½
+Class 15x                             1
+Class 22x                             1½
+Maximum Dwell Time
+Up direction - 3 minutes*
+*To minimise level crossing barrier down time Up trains stopping at Camborne are to be advertised earlier by the
+amount of recovery / pathing allowances between the previous stop and Camborne
+
+Hayle
+
+Dwell Time
+22x                                 1½*
+80x Class 1 services                1½
+Class 158                           1
+* :2 minutes for Summer Saturdays (Periods E, F and G) trains arriving until 15.15.
+
+St. Erth
+
+Adjustment to sectional running times
+Movement                                       Reason                       T/Load                   Value
+Stopping at St Erth if section ahead to        Train approaches St Erth     All traffic              {1½}
+Penzance is occupied                           under caution
+
+Dwell Time
+80x                               1½ £
+Class 15x                         1
+Class 22x                         1½£
+£ 2 Minutes on Summer Saturdays (Periods E, F and G) between 08:00 and 18:00 for Class 1 Services only
+
+Junction Margin                      4
+
+Platform Re-occupation               4*
+* Where trains are using the same platform in the OPPOSITE direction, the platform re-occupation time will also
+be 4 minutes
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

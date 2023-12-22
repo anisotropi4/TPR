@@ -1,0 +1,70 @@
+                                                 OFFICIAL
+
+
+NETWORK RAIL                       Timetable Planning Rules                    Version:   4.1
+Anglia              Amended Final Principal and Subsidiary Change Timetable               12th September
+                                                                                  Date:
+                                              2024                                        2023
+                                                                                 Page:    168 of 183
+
+EA1060 WICKFORD JUNCTION TO SOUTHMINSTER
+LOCATION                      DIRECTION USABLE LENGTH            NOTES
+                                        SLU    METRES
+
+North Fambridge Crossing      Down          40       256
+Loop
+North Fambridge Crossing      Up            40       256
+Loop
+
+
+EA1110 THORPE-LE-SOKEN JUNCTION TO WALTON-ON-THE-NAZE
+LOCATION                      DIRECTION USABLE LENGTH            NOTES
+                                        SLU    METRES
+
+Kirby Cross Crossing Loop     Down          28       179
+Kirby Cross Crossing Loop     Up            30       192
+
+
+EA1160 BETHNAL GREEN EAST JUNCTION TO BISHOP’S STORTFORD
+LOCATION                      DIRECTION USABLE LENGTH            NOTES
+                                        SLU    METRES
+
+Broxbourne Down Passenger     Down          65       416         Length extends to 92 SLUs for Down
+Loop                                                             Passenger Loop plus Broxbourne Platform 4
+Broxbourne Up Goods Loop      Up            65       416         Not electrified
+Broxbourne Up Passenger       Up            35       224
+Loop
+Harlow Town Down              Down          65       416         Includes Harlow Town Platform 4
+Passenger Loop
+Harlow Town Up Passenger      Up            65       416         Includes Harlow Town Platform 1
+Loop
+Harlow Mill Down Goods Loop   Down          88       564         Not electrified
+Bishop’s Stortford Up         Up            32       207         If reached from Platforms 1 or 2, or access
+Passenger Loop                                                   to Carriage Sidings required
+                                                                     Length extends to 81 SLUs / 523m for
+                                                                       Up Passenger Loop plus Bishop’s
+                                                                       Stortford Platform 3, will prevent
+                                                                       access/egress to/from Carriage Sidings
+                                                                     Additionally if accessed via Platform 3
+                                                                       length is 47 SLUs / 303m clear of
+                                                                       platform, but will prevent access/egress
+                                                                       to/from Carriage Sidings
+
+
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION
+LOCATION                      DIRECTION USABLE LENGTH            NOTES
+                                        SLU    METRES
+
+Stansted Mountfitchet Down    Down          67       429
+Goods Loop
+Great Chesterford Up Goods    Up            80       512
+Loop
+Whittlesford Parkway Down     Down          80       512
+Goods Loop
+Coldham Lane Down Goods       Down          89       570
+Loop
+
+
+
+
+                               Electronic copy - uncontrolled when printed.

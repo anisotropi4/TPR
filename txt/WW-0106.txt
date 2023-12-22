@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                      Version:   4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                     Date:    6th October 2023
+                                           Change Timetable 2024                            Page:    103 of 289
+
+
+STANDARD VALUES – MINIMUM
+Dwell Time – NW routes
+22X                                 1½
+390                                 2
+DMU/EMU                             ½
+LH                                  1
+
+Minimum Passenger to ECS Dwell Time – GWR Services
+150/158/16x – West Country   2
+only (Not LTV)
+
+Minimum Passenger to ECS dwell time – SWR Services
+Trains formed of 1 to 6 cars    2
+Trains formed of 7 or more cars 4
+
+Junction Margin – NW routes
+First Movement                                       Second Movement                                 Margin
+Arrival                                              Conflicting departure                           1
+Departure                                            Conflicting arrival                             3
+All other conflicting movements, except:                                                             3
+Where second move is a crossing move                                                                 2
+
+
+Junction Margin – GW routes
+Allowances are shown in a matrix giving the time required for the second train to cross after the first train using a
+junction on a conflicting move has passed, unless otherwise stated in 5.3. Elements used in the construction of the
+margin are signal spacing, junction resetting time and speed of the junction turnout (see table below).
+Note: if first train is a pass/arrive and second train a conflicting departure, 1 minute may be applied as per platform
+end margins (when trains are travelling in opposite directions).
+
+
+STANDARD VALUES - MINIMUM
+First Train                                                   Transit speed
+Length             5     10    15   20          25      30    40    60       70   75    90    100     110       125
+Single Loco        4     3½     3    3          2½      2½    2½    2½       2½   2½
+2 Car             4½ 3½         3    3           3      2½    2½    2½       2½   2½    2½
+3 Car             4½ 3½         3    3           3      2½    2½    2½       2½   2½    2½
+4 Car              5     3½     3    3           3      2½    2½    2½       2½   2½    2½     2½     2½        2½
+5/6 Car            5     3½    3½    3           3       3    2½    2½       2½   2½    2½     2½     2½        2½
+(GWR Short
+Form HST
+(HSTGW4))
+8/9 Car / D245    5½      4    3½    3           3      3     2½    2½       2½   2½    2½     2½     2½        2½
+10 Car, / HST8    5½      4    3½    3           3      3     2½    2½       2½   2½    2½     2½     2½        2½
+Freights
+Up to 40 SLUs      6     4½    3½   3½           3       3     3    2½       2½   2½    2½
+Up to 50 SLUs     6½ 4½         4   3½           3       3     3    2½       2½   2½    2½
+Up to 60 SLUs      7      5     4   3½          3½       3     3    2½       2½   2½    2½
+Up to 80 SLUs     8½ 5½        4½    4          3½      3½     3     3        3   2½    2½
+Over 80 SLUs      9½      6    4½    4           4      3½     3     3        3    3    2½
+Times shown are for the second movement
+
+Platform End Conflicts – GW routes
+Trains may arrive 1 minute before or 3 minutes after a conflicting departure
+Except for Westbury (east end), Exeter St David’s and Plymouth where 2 before or 3 after applies. Unless
+otherwise stated in 5.3
+
+                                     Electronic copy - uncontrolled when printed.

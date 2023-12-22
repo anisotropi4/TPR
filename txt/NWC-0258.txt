@@ -1,0 +1,60 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                        Page:    246 of 443
+
+
+
+Bicester South Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                            Value
+Train heading towards Bicester Village            Reducing speed for Bicester Chord                 1
+
+Junction Margins
+First Movement                                      Second Movement                               Margin
+Train passing Bicester South Jn towards             Train passing Bicester South Jn from Bicester 3
+Bicester North                                      Gavray Jn (Bicester Chord)
+Train passing Bicester South Jn from Bicester       Train passing Bicester South Jn towards       2½
+Gavray Jn (Bicester Chord)                          Bicester North
+Train passing Bicester South Jn towards             Train departing Bicester South Jn from        1½ $
+Bicester North                                      Bicester Gavray Jn (Bicester Chord)
+$ - Note required adjustment to sectional running time of two minutes at Haddenham and Thame Parkway
+(coming from standing start at Bicester South Jn)
+
+Planning Note
+For a train to be routed reversibly onto the Down Main the line must be clear to signal ME176 at Princes
+Risborough. A subsequent train cannot be routed from Princes Risborough onto the Down Main until the line is
+clear throughout to Bicester South Jn.
+
+
+Bicester North
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                            Value
+Down train to Up platform                         Junction differential and approach control        1
+
+Movement Up                                       Reason                                            Value
+Train running bi-directionally on Down Bicester   Differential Junction speed at Aynho Jn           1
+
+Connectional Allowance                3
+
+Dwell Time
+DMU/LH                                1
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                        5
+Shunt from Down to Up platform  10
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Up train non-stop                                 Train from Turnback siding                        1
+Up train non-stop                                 Down train into Up platform                       3½
+Up train departing Bicester North                 Down train into Up platform                       4
+Down train into Up platform                       Down train                                        3
+Down train into Turnback sidings                  Up fast                                           4
+
+
+
+
+                              Electronic copy - uncontrolled when printed

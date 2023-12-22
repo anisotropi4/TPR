@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024        Date:     28th July 2023
+West and Central
+                                                                                     Page:     45 of 443
+
+
+MD401 HEYFORD TO BORDESLEY JN
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Leamington Spa Signal LN128              –           –        S      For reversing moves
+Warwick                                  –           –        S
+Warwick Parkway                          –           –        S
+Budbrooke Jn                          – DGL                   X      Trains using Hatton DGL
+Hatton Down Goods Loop                 – ML                   S
+                                       DPL
+Hatton                                   –           –               Platform detail must be shown
+Hatton Station Jn                                                    To/from Hatton West Jn – MD415
+Hatton North Jn                          –           –        X      To/from Hatton West Jn – MD420
+Lapworth                                 –           –        S
+Dorridge                                 –           –               Platform Codes to be shown or Track
+                                                                     Code must be shown for UDG
+Dorridge Up Passenger Loop                           –        S      Recessed trains only
+Bentley Heath Crossing                   –           –
+Widney Manor                             –           –        S
+Solihull                                 –           –        S
+Olton                                    –           –        S
+Acocks Green                             –           –        S
+Tyseley South Jn                      - DTS          -        X      Trains crossing to/from Tyseley LMD or
+                                                                     Tyseley Up and Down Through Siding to
+                                                                     be timed here
+Tyseley                               FL SL          –               Platform detail must be shown
+                                       DTS                           To/from Whitlocks End – MD425.
+                                                                     To/from Small Heath South Jn – MD435
+Tyseley North Jn                                                     Trains not timed here. Crossing moves to
+                                                                     be shown running FL between Tyseley and
+                                                                     Small Heath South Jn in either direction
+Tyseley Up and Down Through           – DTS       – UTS
+Siding
+Tyseley LMD                              –          –         S
+Small Heath South Jn                   – SH      – FL SL             To/from Birmingham Moor Street – MD435
+                                       UDG         UTS
+Bordesley Down Goods Loop                –          –         S
+Bordesley Jn                             –          –                To/from St. Andrew’s Jn – MD570
+
+
+MD405 LEAMINGTON SPA JN TO COVENTRY SOUTH JN
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Leamington Spa North Jn                                              To/from Leamington Spa – MD401
+Foundry Wood Jn
+Milverton Jn                             –           –               Single Line
+Kenilworth                               –           –        S
+Kenilworth South Jn
+Kenilworth Loop                          –           –
+Kenilworth North Jn
+Gibbet Hill Jn                           –           –
+Coventry CE Sidings                      –           –        S
+Coventry South Jn                                                    To/from Coventry – MD301
+
+
+
+
+                              Electronic copy - uncontrolled when printed

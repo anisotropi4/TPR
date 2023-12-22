@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                       Version:    4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                    Date:     27th October 2023
+                                             Timetable 2024                              Page:     109 of 178
+
+Branksome
+                                      Length Limit
+Up Platform (clear of BC172/1025)     12 cars / 10 444
+
+
+Bournemouth T&R.S.M.D
+
+Acceptance of Trains
+Minimum Margin                        4
+
+Dispatch of Trains
+DOO trains                            10
+Non DOO trains                        5
+
+
+Poole
+
+Berthing Facilities
+                                      Cars                   Notes
+Shunting Neck                         12                     No overnight berthing permitted
+Reception Road                        12                     No overnight berthing permitted
+No. 2 Siding                          7                      Non- Electrified. No overnight berthing permitted
+No. 1 Siding                          6                      No overnight berthing permitted
+
+Connectional Allowances
+All Services                          5
+
+Dwell Times
+All Services                          1½
+
+Adjustment to Sectional Running Times
+Movements                              Reason                                 Margin
+Up train arriving into Platform 2 from Speed Differential                     {½}
+Hamworthy Direction*
+* These allowances should appear in the section from Hamworthy
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Between all movements except as below                                                                3
+Up train arriving at Platform 1                   Down train crossing from Platform 2 to sidings     1
+Up train arriving into Platform 2                 Down train starting from Platform 1 travelling     1
+                                                  towards Wareham/Weymouth
+Down train starting from Platform 1 travelling    Up train arriving into Platform 1 from             6
+towards Wareham/Weymouth                          Wareham/Weymouth
+Down train crossing from Platform 1 or 2 to       Up train arriving at Platform 1                    4½
+sidings
+Up train departing Platform 1 towards             Down train arriving in platform 1 from             4½
+Branksome                                         Branksome
+
+Limit Of Shunt
+                                      Length Limit
+Down Platform                         12 cars/10 class 444
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

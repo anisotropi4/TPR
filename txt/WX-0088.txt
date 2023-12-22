@@ -1,0 +1,44 @@
+NETWORK RAIL                            Timetable Planning Rules                       Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                    Date:    27th October 2023
+                                             Timetable 2024                              Page:    86 of 178
+
+West Byfleet
+
+Dwell Times
+Class 450                             1*
+* Services Terminating at Woking (If train has 1 minute dwell at Byfleet and New Haw it is not necessary to have a
+1 minute dwell here at West Byfleet).
+
+
+Woking
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                             Value
+Up trains departing Platform 4 or 5               Speed Differential                                 {½}*
+Up trains departing Platform 3 to the Up Slow     Speed Differential                                 {½}*
+Line
+Train passing from the Up Guilford Line going     Approach Control                                   {1}
+into Platform 6 (Bay)
+* These allowances should appear in the section from Woking
+
+Berthing Facilities
+                                    Cars
+East End Carriage Siding            12
+No. 2 Up Siding                     8
+No. 3 Up Siding                     12
+No. 5 Up Siding                     12
+No. 6 Up Siding                     12*
+* Non-gangwayed stock is not permitted to work in multiple or permissively work in Siding 6 due to limited driver
+access.
+
+Dwell Times
+All Services                         1½
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

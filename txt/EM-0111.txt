@@ -1,0 +1,66 @@
+                                             OFFICIAL
+
+NETWORK RAIL                     Timetable Planning Rules                   Version:    4.1
+East Midlands              Final Subsidiary Change Rules 2024                 Date:     13th September
+                                                                                        2023
+                                                                                Page:   109 of 123
+
+STATION                      PLATFORM          USABLE     NOTES
+                                               LENGTH
+
+Mill Hill Broadway           3                   245
+Mill Hill Broadway           4                   245
+
+Narborough                   Down                100
+Narborough                   Up                  100
+Netherfield                  Down                155
+Netherfield                  Up                  155
+Newark Castle                Down                 97
+Newark Castle                Up                   66
+Newstead                     Single               94
+Nottingham                   1                   306      313m train can be accommodated westbound
+                                                          (not reversing)
+                                                          343m can be accommodated eastbound (not
+                                                          reversing)
+Nottingham                   2                   92
+Nottingham                   3                   288      319m train can be accommodated eastbound
+                                                          (not reversing)
+Nottingham                   4                   108      119 m train can be accommodated westbound
+                                                          (not reversing)
+                                                          115 m train can be accommodated eastbound
+                                                          (not reversing)
+Nottingham                   5                   146
+Nottingham                   6                   276      327m train can be accommodated westbound
+                                                          (not reversing)
+Nottingham                   7                   261
+
+Oakham                       Down                102
+Oakham                       Up                  139
+
+Peartree                     Up                   61
+Peartree                     Down                 64
+
+Radcliffe                    Down                143
+Radcliffe                    Up                  187
+Radlett                      1                   245
+Radlett                      2                   245
+Radlett                      3                   170
+Radlett                      4                   170
+Rolleston                    Down                142
+Rolleston                    Up                  140
+
+St Pancras International     1                   260      East Midlands High Level platform
+St Pancras International     2                   260      East Midlands High Level platform
+St Pancras International     3                   260      East Midlands High Level platform
+St Pancras International     4                   260      East Midlands High Level platform
+St Pancras International     14                  274      Thameslink Low Level platform
+St Pancras International     15                  274      Thameslink Low Level platform
+Sileby                       1                    58
+Sileby                       2                    58
+South Wigston                Down                 97
+South Wigston                Up                   95
+Spondon                      Down                108
+Spondon                      Up                   72
+
+
+                                 Electronic copy - uncontrolled when printed.

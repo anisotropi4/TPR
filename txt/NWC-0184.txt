@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:      28th July 2023
+West and Central
+                                                                                         Page:    172 of 443
+
+Denbigh Hall South Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                              Value
+From Carriage Sidings (Denbigh Hall South        Differential Junction speed                         2½
+and Milton Keynes)
+Pass from Bletchley High Level, Bletchley        Acceleration                                        Passenger 1
+Relief Lines or Bletchley Carriage Sidings                                                           Class 4 –
+                                                                                                     400t 1½
+                                                                                                     600 – 1475t 2
+                                                                                                     1600t and
+                                                                                                     above 2½
+                                                                                                     Class 6 –
+                                                                                                     400t – ½
+                                                                                                     600 – 800t– 1
+                                                                                                     1000 – 1400t
+                                                                                                     – 1½
+                                                                                                     1600t – 2
+                                                                                                     1800 – 2200t
+                                                                                                     2½
+                                                                                                     2400t and
+                                                                                                     above – 3
+
+                                                                                                     Applied
+                                                                                                     approaching
+                                                                                                     next timing
+                                                                                                     point
+
+
+Movement Up                                      Reason                                              Value
+Up Slow to Carriage Sidings (Milton Keynes to    Differential Junction speed                         2½
+Denbigh Hall South)
+Pass to Bletchley High Level, Bletchley Relief   Approach Control/Slow Speed Crossover               1½
+Lines or Bletchley Carriage Sidings
+
+Junction Margin
+First Movement                                   Second Movement                                     Value
+Down Pass from Bletchley                         Down Depart TK4133 Signal                           2
+Down Pass from Bletchley                         Down Depart Bletchley Relief Lines                  2
+Down Passenger Pass from Bletchley High          Up Pass to Bletchley or Bletchley Relief Lines      3
+Level, Bletchley Relief Lines or Bletchley
+Carriage Sidings
+Down Freight Pass from Bletchley High Level,     Up Pass to Bletchley or Bletchley Relief Lines      3½*
+Bletchley Relief Lines or Bletchley Carriage
+Sidings
+Down Pass from Bletchley High Level,             Up Pass to Bletchley Carriage Sidings               2½*
+Bletchley Relief Lines or Bletchley Carriage
+Sidings
+Up Pass to Bletchley                             Down Pass from Bletchley High Level,                3*
+                                                 Bletchley Relief Lines or Bletchley Carriage
+                                                 Sidings
+Up Pass to Bletchley                             Down Depart TK4133 Signal                           1
+Up Pass to Bletchley Carriage Sidings            Down Pass from Bletchley High Level or              4
+                                                 Bletchley Relief Lines
+*increase by ½ if first movement is over 620m
+Pass Up Slow to Bletchley (Passenger)            Pass from East West Rail to Down Slow               2½
+Pass Up Slow to Bletchley (Freight)              (Passenger)                                         3
+
+
+                              Electronic copy - uncontrolled when printed

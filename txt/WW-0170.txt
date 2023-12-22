@@ -1,0 +1,67 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                  Version:    4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                 Date:     6th October 2023
+                                        Change Timetable 2024                        Page:     167 of 289
+
+
+Movement                                       Reason                                Timing        Value
+                                                                                     Load
+From the Down Main to Down Loop                Slow speed at loop entry (25 mph)     All traffic   +{1}
+
+Barnwood Junction
+
+Adjustments to Sectional Running Times (allowance to be shown after this location)
+Movement                              Reason                          Timing Load                  Value
+From Gloucester to Cheltenham Spa     Slow speed junction             D245 – 455                   +{1}
+Pass to Pass and Pass to Stop                                         HST/22X/150/158/16x
+                                                                      170
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                              Reason                          Timing Load                  Value
+From Cheltenham Spa to Gloucester     Slow speed junction             D245 - D455                  +{1}
+Start to Pass and Pass to Pass                                        HST/22X/150/158/16x
+                                                                      170
+
+Junction Margins (Northbound trains)
+First Movement             Second Movement            Margin      Notes
+Up train from Standish     A train from Gloucester    2½          Headway must be compliant at next
+junction direction passing passes Barnwood Jn                     mandatory TIPLOC
+Barnwood Junction from     to the Up Avoiding line
+the Up Avoiding line
+
+Gloucester Yard Junction
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                    Reason                            Timing Load           Value
+Trains from the direction of Stroud joining SRT differential after Slow speed HST/D245-D455         {1}
+at Standish Junction                        turnout at Standish Junction      Not to apply to
+                                                                              Class 800
+                                                                              22X/15X/16x/GWR       {½}
+                                                                              Short Form HST
+                                                                              (HSTGW4)
+                                                                              Not to apply to
+                                                                              Class 800
+Trains towards Gloucester Horton Road       SRT differential Slow speed       170/22x/HST/D245-
+Junction                                    turnout at Gloucester Yard        D455                  {1}
+                                            Junction                          Not to apply to
+                                                                              Class 800
+                                                                              15X/16x               {½}
+                                                                              Not to apply to
+                                                                              Class 800
+
+Junction Margins (Southbound trains)
+First Movement           Second Movement               Margin                      Notes
+A Down train from        A train from Gloucester       2½                          Headway must be
+Cheltenham Spa direction passes Gloucester Yard                                    compliant at next
+passing Gloucester Yard  Jn to the Down Charfield                                  mandatory TIPLOC
+Jn from the Down
+Avoiding Line
+
+Haresfield Up and Down Loops
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                    Reason                             Timing               Value
+                                                                               Load
+
+                                  Electronic copy - uncontrolled when printed.

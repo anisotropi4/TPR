@@ -1,0 +1,56 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    300 of 443
+
+Shap Hardendale Quarry Jn
+
+Depart Shap Hardendale Quarry Jn towards           Down train pass Shap Summit                     4
+Harrison’s Sidings
+Up train from Shap Hardendale Quarry passes        Down train passes Shap Summit                   Simultaneous
+Shap Summit
+Down train arrives at Shap Hardendale Quarry       Up train pass Shap Summit                       4
+Down train arrives at Shap Hardendale Quarry       Down train pass Shap Summit                     4
+
+
+Shap Hardendale Quarry
+
+Operating Restriction
+A minimum interval of 1 hour 15 minutes is required between consecutive arrivals at Shap Hardendale Quarry.
+
+
+Harrison’s Sidings
+
+Arriving Trains
+Trains arriving in the Up direction will stop behind signal CE148 on the Up Main. A 2-minute stop to be planned
+before the train commences the propelling move into the Down Goods Loop.
+
+Trains arriving in the Down direction will arrive into the Down Goods Loop. The locomotive is required to run-round
+the train. An allowance of 20 minutes for the run-round moves should be planned.
+
+Departing Trains
+Trains departing in the Down direction require the locomotive to run-round before departure. An allowance of 20
+minutes for the run-round moves should be planned.
+
+Trains departing in the Up direction do not require the locomotive to run-round.
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Arrive Down Goods Loop                             Down train pass to Penrith                      4
+Up train arrive Down Goods Loop                    Up train pass Eden Valley                       Simultaneous
+Down train pass to Penrith                         Depart Down Goods Loop                          2
+Depart Down Goods Loop to Shap Summit              Up train pass Shap Summit                       4
+Depart Down Goods Loop to Shap Summit              Down train pass to Penrith                      5
+
+
+Eden Valley
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Arrive Up Goods Loop                               Pass on Up Main                                   4
+Pass on Up Main                                    Depart Up Goods Loop                              2
+
+
+
+
+                              Electronic copy - uncontrolled when printed

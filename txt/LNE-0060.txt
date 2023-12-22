@@ -1,0 +1,62 @@
+NETWORK RAIL                    Timetable Planning Rules                    Version: 4.1
+London North Eastern              Revised Final Rules for                     Date: 12 October 2023
+                             Subsidiary Change Timetable 2024                 Page: 57 of 368
+
+
+
+
+LN858 MILNER ROYD JUNCTION TO BRADFORD MILL LANE JUNCTION
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Milner Royd Junction          –          –                   To/from Sowerby Bridge – LN854
+Dryclough Junction            –          –                   To/from Greetland Jn – LN859
+Halifax Reversing Sdg         –          –          S
+Halifax                       –          –
+Low Moor                      –          –          S
+Mill Lane Junction            WM         –                   To/from Bradford Interchange – LN852
+
+
+LN859 GREETLAND JUNCTION TO DRYCLOUGH JUNCTION
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Greetland Jn                  –          –                   To/from Brighouse – LN854
+Dryclough Junction            –          –                   To/from Halifax – LN858
+
+
+LN860 DIGGLE JN TO COPLEY HILL EAST JN
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Diggle Junction               –          –                   To/from Greenfield – NW7021
+Marsden                       –          –                   Platform detail must be shown
+
+Slaithwaite                   –          –          S
+Huddersfield                  –          –                   Platform detail must be shown
+Deighton                      –          –          S
+Bradley Junction              –          –                   To/from Bradley Wood Jn – LN861
+Heaton Lodge Junction                    –                   Up trains only
+                                                             To Bradley Wood Junction – LN854
+Heaton Lodge East Junction    –                              Down trains only
+                                                             From Bradley Wood Junction – LN854
+Mirfield                      –          FL SL      S
+Mirfield East Junction        –          FL SL               From Horbury Junction – LN854
+Thornhill LNW Junction                   –                   Trains from Dewsbury and trains towards
+                                                             Healey Mills only
+                                                             To Horbury Junction – LN854
+Ravensthorpe                  –          –          S
+Dewsbury                      –          –                   Line/Platform detail must be shown
+Batley                        –          –          S
+Batley East Junction          –          –          X        New crossover for trains for use when
+                                                             blocks are in place
+Morley                        –          –
+White Rose                    –          –          S
+Cottingley                    –          –          S        To close, once White Rose Station has
+                                                             opened
+Copley Hill East Jn           –                              To/from Whitehall Road Jn – LN836
+
+
+LN861 BRADLEY JUNCTION TO BRADLEY WOOD JUNCTION
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Bradley Junction              –          –                   To/from Huddersfield – LN860
+Bradley Wood Junction         –          –                   To/from Brighouse – LN854
+                             Electronic copy - uncontrolled when printed.

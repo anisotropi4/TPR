@@ -1,0 +1,57 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                     Page:   46 of 443
+
+
+MD410 COVENTRY NORTH JN TO NUNEATON SOUTH JN
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Coventry North Jn                                                   To/from Coventry – MD301
+Coventry Signal CN1532                   –                          For shunt between platforms at Coventry
+Coventry North Yard                                  –        S     Recessed trains only
+Coventry Signal CN1538                               –        S     Reversing on Down Bedworth
+Coundon Road                             –           –
+Three Spires Jn                          –           –              Branch to Prologis Park Sidings
+Prologis Park Sidings                                         S
+Coventry Arena                           –           –        S
+Hawkesbury Lane Loop                     –                    S     Recessed trains only
+Hawkesbury Lane                          –           –
+Bedworth (Calor Gas Sidings)             –           –        S     Trains for Bedworth Terminal to stop here
+Ground Frame
+Bedworth Terminal                                    –        F
+Bedworth                                –            –        S
+Bermuda Park                            –            –        S
+Chilvers Coton Jn                     DB UB          –              Bi–directional between Chilvers Coton and
+                                                                    Nuneaton
+Nuneaton South Jn                                                   To/from Nuneaton – MD101
+
+
+MD415 HATTON STATION TO STRATFORD-UPON-AVON
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Hatton                                   –           –              Platform detail must be shown
+                                                                    To/from Leamington Spa – MD401
+                                                                    To/from Dorridge – MD401
+Hatton Station Jn
+Hatton West Jn                           –           –              To/from Hatton North Jn – MD420
+Claverdon                                –           –        S
+Bearley                                  –           –        S
+Bearley Jn                               –           –              To/from Henley in Arden – MD425
+Wilmcote                                 –           –        S
+Stratford-upon-Avon Parkway              –           –        S
+Stratford-upon-Avon                                  –
+
+
+MD420 HATTON NORTH JN TO HATTON WEST JN
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Hatton North Jn                          –                          Single line between Hatton North Jn and
+                                                                    Hatton West Jn
+                                                                    To/from Dorridge – MD401
+Hatton West Jn                           –           –              To/from Hatton – MD415
+
+
+
+
+                               Electronic copy - uncontrolled when printed

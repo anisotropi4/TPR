@@ -1,0 +1,60 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                  Date:    27th October 2023
+                                           Timetable 2024                            Page:    81 of 178
+
+
+
+
+SW100D CLAPHAM JUNCTION TO LONGHEDGE JUNCTION
+
+Clapham Junction
+See entry under route – SW100
+
+Longhedge Junction
+See entry under route – SO250
+
+
+SW100E CLAPHAM JUNCTION TO LATCHMERE JUNCTION (NO 2)
+
+Clapham Junction
+See entry under route – SW100
+
+
+SW105 CLAPHAM JUNCTION TO WEYMOUTH
+
+Clapham Junction
+See entry under route – SW100
+
+
+Durnsford Road
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Between all movements except as below                                                            2
+Passing Down Fast Line train                    Up departure from Wimbledon Park Depot           1
+                                                crossing to Up Slow line
+
+
+Wimbledon Park Depot
+
+Acceptance of Trains
+                                                                                                   Margin
+Down Putney to No.1 Reception via 710 points                                                       4 *$
+(East Putney)
+Down Fast Line to Siding No.1 via 705/707                                                          12 *
+points (Durnsford Road)
+Wimbledon Station to Up Siding No.1 or Up                                                          4#
+Siding No.2
+* One train can be accepted via each route simultaneously but 12 minutes must then elapse before acceptance of
+further trains via either route.
+$ Maximum of two trains in any 12 minutes
+# Subject to only one train having been accepted via East Putney or Durnsford Road in the previous 12 minutes.
+
+Dispatch of Trains
+                                                                                                 Margin
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

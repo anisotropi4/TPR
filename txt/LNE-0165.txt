@@ -1,0 +1,58 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 162 of 368
+
+
+Boston
+
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                           Value
+Trains bound for Boston Docks. Approaching        To cover the time required for:                  3*
+Boston Station                                    a) the train to stop adjacent Sleaford Siding
+                                                  G.F. and collect a radio from the shunter;
+                                                  b) the train to draw forward towards Boston
+                                                  station
+*does not apply to GBRf services as an alternative method of working is in place
+
+Dwell Time
+All                                  1
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Arrive from Hubberts Bridge                       Depart to Hubberts Bridge                        Same time
+Arrive from Skegness                              Depart to Skegness                               2
+
+Minimum Turnround                    8
+
+
+Sibsey
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Train from Boston                                 Train to Boston                                  3
+
+
+Skegness
+
+Minimum Turnround                     7 trains from Nottingham
+                                      15 trains from beyond Nottingham
+Where existing values fall beneath the minimum turnround values they may continue to be used provided they are
+not further reduced. In the event changes are applied to the overall service pattern the new values will apply
+Platforming                           Due to the lack of platform lighting, only Platforms 3 and 4 should be used
+                                      during the hours of darkness.
+
+
+LN190 ALLINGTON EAST JUNCTION TO ALLINGTON NORTH JUNCTION
+(ALLINGTON CHORD)
+Allington East Junction
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Pass from Nottingham towards Grantham             Pass towards Allington North                     3
+Pass towards Allington North                      Pass from Nottingham towards Grantham            2½
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                  Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                    Page:     129 of 163
+
+Appledore
+Trains longer than 80m / 12SLU / 4 cars cannot be stood at Platform 2 for longer than 2 minutes due to level
+crossing being automatically enabled when approaching the platform. Pathing time must be added approaching
+Appledore if more time is required
+
+
+Ashford International
+
+Refer to Kent Timetable Planning Rules – SO130
+
+
+SO610 APPLEDORE TO LYDD TOWN
+
+Appledore
+See entry under route – SO600
+
+
+SO620 BRIGHTON TO SEAFORD
+
+London Road
+
+Planning Note
+Trains formed of a 12 car Class 700 EMU must not be planned into this station, due to operational restrictions
+
+
+
+Moulsecoomb
+
+Planning Note
+Trains formed of a 12 car Class 700 EMU must not be planned to use this station, due to operational restrictions
+
+
+Falmer
+
+Planning Note
+Trains formed of a 12 car Class 700 EMU must not be planned to use this station, due to operational restrictions
+
+
+Lewes
+See entry under route – SO590
+
+
+Newhaven Town Yard Junction
+
+First Movement                                Second Movement                                     Margin
+Down train pass to Newhaven Town Yard         Up train pass/depart Newhaven Town                  5
+Up train pass/depart Newhaven Town            Down train pass to Newhaven Town Yard               3
+Up train pass/depart Newhaven Town            Up train depart Newhaven Town Yard                  5
+Down train pass to Newhaven Town Yard         Down train pass Southerham Junction towards         5
+                                              Newhaven Town
+
+
+
+
+                                Electronic copy - uncontrolled when printed

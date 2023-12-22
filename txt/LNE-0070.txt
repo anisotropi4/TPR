@@ -1,0 +1,61 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version: 4.1
+London North Eastern                  Revised Final Rules for                     Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                 Page: 67 of 368
+
+
+LN922 WHITEHALL WEST JUNCTION TO HELLIFIELD SOUTH JUNCTION
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+Whitehall Junction                DS US      C D                 Not a timing point on A or B/Down or Up
+                                             UWC                 Shipley Main lines
+                                             DWC                 To/from Leeds – LN836
+Armley Junction                   –          US UH
+                                             DS DH
+Kirkstall Down Loop               –          –          S
+Kirkstall Up Loop                            –          S
+Kirkstall Forge                   –          –          S
+Apperley Junction                 –          –                   To/from Ilkley – LN924
+Apperley Bridge                   –          –          S
+Dockfield Junction                –          –                   To/from Baildon – LN926
+Shipley East Jn                                                  To/from Bradford Forster Square – LN928
+Shipley                           –          –                   Platform detail must be shown
+Shipley West Jn                                                  To/from Shipley South Jn – LN932
+Saltaire                          –          –          S
+Bingley                           –          –          S
+Crossflatts                       –          –          S
+Keighley                          –          –                   Platform detail must be shown
+Keighley Station Jn               –          –          S        To/from Keighley & Worth Valley Railway
+Steeton and Silsden               –          –          S
+Cononley                          –          –          S
+Skipton Sig. L4031                –                              Regulation/reversal point on Down Shipley
+                                                                 Main
+Skipton Sig. L4549                –                              Reversal point on Up Shipley Main
+  Skipton Down Stabling Siding    –                     S
+Skipton                           –          –                   Platform detail must be shown
+Skipton Middle Jn                                                To/from Rylstone – LN930
+Broughton Road CS                 –          –          S
+Down Shipley Slow                 –          –          S
+Skipton Signal L4046                         –          S        Regulation point on Up Shipley Main
+Gargrave                          –          –
+Hellifield South Junction         –          –                   To/from Settle Jn – NW9901
+
+
+LN924 APPERLEY JUNCTION TO ILKLEY
+Apperley Junction                 –          –                   To/from Leeds – LN922
+Esholt Junction                                                  To/from Dockfield Junction – LN926
+Guiseley                          –          –
+Menston                           –          –          S
+Burley in Wharfedale              –          –
+Ben Rhydding                      –          –          S
+Ilkley                                       –                   Platform detail must be shown
+
+
+LN926 DOCKFIELD JUNCTION TO ESHOLT JUNCTION
+TIMING POINT                      DOWN       UP         CODE     NOTES
+
+Dockfield Junction                –          –                   To/from Shipley – LN922
+Baildon                           –          –          S
+Esholt Junction                   –          –                   To/from Ilkley – LN924
+
+
+                                 Electronic copy - uncontrolled when printed.

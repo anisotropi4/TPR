@@ -1,0 +1,69 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4.1
+Anglia                 Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                       Date:
+                                                 2024                                          2023
+                                                                                      Page:    44 of 183
+
+EA1410 UPMINSTER TO WEST THURROCK JUNCTION
+TIMING POINT                    DOWN         UP          CODE     NOTES
+
+Upminster                       -            -                    Platform detail (1A) must be shown for trains
+                                                                  to/from Bay Platform and also for trains which
+                                                                  use other than normal routes
+                                                                  To/from Barking – EA1380
+Ockendon                        -            -                    Platform detail must be shown for trains which
+                                                                  use other than normal routes
+Chafford Hundred                -            -           S
+West Thurrock Junction          RVL          -                    To/from Grays – EA1390.
+                                                                  Line code RVL to be shown for Down trains
+                                                                  using Third Line
+
+
+EA1420 THAMES HAVEN JUNCTION TO LONDON GATEWAY PORT /
+THAMES HAVEN SIDINGS
+TIMING POINT                    DOWN          UP         CODE     NOTES
+
+Thames Haven Junction           -             -                   To/from Grays – EA1390
+Upminster IECC controlled                     -                   (Tiploc - THMS882) Due to ARS requirements
+Signal UR882                                                      this is a mandatory timing point in the Up
+                                                                  Direction. Trains which require pathing time
+                                                                  approaching Thames Haven Junction to be
+                                                                  shown with Arr/Dep (A* in Activity Field)
+London Gateway Port             -                                 (Tiploc - THMSL11) Network Rail/DP World
+controlled Signal LG11                                            London Gateway Port boundary entry signal
+Upminster IECC controlled                     -                   (Tiploc - THMS888) Network Rail/DP World
+Signal UR888                                                      London Gateway Port boundary exit signal
+Up & Dn Thames Haven            -                                 (Tiploc - THMSL15)
+Branch Signal LG15
+Up & Dn Thames Haven                          -                   (Tiploc - THMSL14)
+Branch Signal LG14
+London Gateway Port             -                                 (Tiploc - THMSLGA)
+Arrival Line Stop Board
+London Gateway Port                           -                   (Tiploc - THMSLGD)
+Departure Line
+London Gateway Port             -             -                   (Tiploc - THMSDBS, THMSFLI or THMSLGB
+                                                                  dependent on traffic)
+Thames Haven TC                 -             -                   Marcroft and Petroplus Sidings
+
+
+EA1430 EAST SUFFOLK JUNCTION TO OULTON BROAD NORTH
+TIMING POINT                    DOWN         UP          CODE     NOTES
+
+East Suffolk Junction           -            -                    To/from Ipswich – EA1012
+Ipswich Signal CO348                         -           S        Timing point for trains to be held for regulating
+                                                                  purposes approaching East Suffolk Junction
+Boss Hall Junction              -            -                    To/from Europa Junction via Bacon Factory
+                                                                  Curve EA1744
+Westerfield                     -            -
+Westerfield Junction                                              To/from Felixstowe – EA1440
+Woodbridge                      -            -
+Melton                          -            -                    All Down trains must show a stop here
+Wickham Market                  -            -           S        Single line
+Saxmundham Signal               -                        S        Timing point for reversal moves
+ES2029
+
+
+                                    Electronic copy - uncontrolled when printed.

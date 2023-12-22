@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                    Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                     Page:      136 of 163
+
+SO650 BALHAM JUNCTION TO BECKENHAM JUNCTION
+Streatham Hill
+
+Planning Note
+When a train is formed of rolling stock forming multiple unit Class 171 stock, this cannot reverse at shunt signal
+157 as there is no walkway to accommodate non walk-through trains
+Pathing or performance allowances must not be added between Leigham Junction and Streatham Hill in the Up
+Direction for trains longer than 8 coaches or 195 metres because the end of train will foul Leigham Junction should
+it be stopped at signal TVC708
+
+Overlap Restrictions
+First Movement                                     Second Movement                              Reason       Margin
+Train arrive/pass platform 2 towards Leigham       Train arrive/pass Platform 1 from Leigham    TVC704        2
+Junction or West Norwood Junction from             Junction or West Norwood Junction
+Streatham Hill Up Sidings
+
+
+Leigham Junction
+Junction Margins
+First Movement                                      Second Movement                                          Margin
+Train depart/pass Streatham Hill towards West       Train arrive/pass Streatham Hill from Up Leigham         3
+Norwood                                             Spur
+Train arrive/pass Streatham Hill from Up            Train depart/pass Streatham Hill towards West            Same
+Leigham Spur                                        Norwood                                                  time
+
+Length Restriction
+A train exceeding 200m/31SLU in length will foul Tulse Hill South Junction when standing at TVC712 on the Up
+Leigham Spur.
+Therefore, junction margins must be based on trains’ departure time at Leigham Junction
+
+
+West Norwood Junction
+Adjustment to Sectional Running Times
+Movement                                             Reason                                            Value
+Down trains from Tulse Hill which do not call at     Acceleration from Down West Norwood Spur          {½}
+West Norwood                                                                                           approaching
+                                                                                                       West
+                                                                                                       Norwood
+Up trains towards Tulse Hill which have not          Approach Control at signal VC716                  {½}
+called at West Norwood                                                                                 approaching
+                                                                                                       West
+                                                                                                       Norwood Jn
+
+Length Limit
+A train exceeding 160m/25SLU in length will foul Tulse Hill South Junction when standing at TVC715 on the Down
+West Norwood Spur.
+Therefore, junction margins must be based on trains’ departure time at West Norwood Junction
+
+
+West Norwood
+
+Connectional Allowances
+
+
+
+
+                                Electronic copy - uncontrolled when printed

@@ -1,0 +1,53 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                           Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                  Date:    28/07/2023
+                                                                                                 Page:    103 of 242
+
+Kilmarnock
+Arrive Long Lyes                                  Depart to Barassie                             2
+Arrive Long Lyes                                  Depart to Lugton                               2½
+Arrive Long Lyes                                  Arrive/pass from Barassie (when                3½
+                                                  conflicting)
+                                                  Classes 0, 1, 2, 3, 5
+Arrive Long Lyes                                  Arrive/pass from Barassie (when                4½
+                                                  conflicting)
+                                                  Other classes
+Arrive Long Lyes                                  Arrive/pass from Lugton (when conflicting)     3
+Depart/pass to Barassie                           Depart Long Lyes                               2
+Depart/pass to Lugton                             Depart Long Lyes                               2
++ Intermediate Block Signals
+
+Restriction
+Freight Train dwells in platform 3 only permitted for run round purposes and for through freight in the Down
+direction only.
+
+
+
+Lochridge Junction
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down train passes                                 Up train passes                                     3
+Down train passes                                 Up depart Stewarton                                 1
+
+
+
+Lugton
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Up train passes                                   Down train passes                                   3½
+Up train passes                                   Down train depart                                   1
+
+Planning note
+A train can stand on the Up Kilmarnock and be passed by other trains. Up trains overtaking would require an
+additional {1½} to allow for 40mph crossovers. The following margin will also apply:
+
+First Movement                                    Second Movement                                     Margin
+Up train pass Lochridge Junction                  Up train depart Lugton                              Same time
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

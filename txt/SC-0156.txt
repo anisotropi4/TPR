@@ -1,0 +1,64 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                       Version:    4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024              Date:     28/07/2023
+                                                                                            Page:     151 of 242
+
+Hyndland North Junction (trains timed at Anniesland)
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Down pass/arrive Anniesland                      Pass Anniesland to West Curve                   2
+Down pass/arrive Anniesland                      Depart Anniesland to West Curve                 ½
+Depart/pass Anniesland to West Curve             Arrive/pass Anniesland from Hyndland            3½
+Depart/pass Anniesland to West Curve             Arrive/pass Anniesland from Finneston East      4½
+                                                 Junction
+
+
+Anniesland
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Pass towards Maryhill                            Pass towards Hyndland from Westerton            3½
+Pass towards Hyndland from Westerton             Pass towards Maryhill (stopping Hyndland)       3
+Pass towards Hyndland from Westerton             Pass towards Maryhill (not stopping Hyndland)   2
+Arrive/pass platform 1                           Pass towards Maryhill                           2½
+Arrive/pass platform 1                           Depart platform 2 to Maryhill                   1
+Arrive platform 3                                Depart platform 2 to Maryhill                   Same time
+
+
+Westerton
+
+Junction Margins
+First Movement                                    Second Movement                                Margin
+Pass to Maryhill                                  Arrive/pass from Maryhill/Anniesland           3½
+Depart to Maryhill                                Arrive/pass from Maryhill/Anniesland           4
+Arrive/pass from Milngavie/Singer                 Arrive/pass train going to Milngavie           2
+Down pass/depart                                  Arrive train going to Maryhill                 4
+Down pass/depart                                  Pass to Maryhill                               3
+Pass/depart to Bearsden                           Arrive from Up Singer (not stopping            4
+                                                  Drumchapel)
+Pass/depart to Bearsden                           Arrive from Up Singer (stopping Drumchapel)    3
+Arrive/pass from Milngavie/Singer                 Depart to Milngavie                            1*
+* Provided down train arrives at least 1½ minutes before up train.
+
+Restrictions
+Pathing time must not be used between Westerton-Drumchapel, due to there being no intermediate signals.
+
+
+Drumchapel
+
+Restrictions
+Pathing time must not be used between Drumchapel and Drumry, and vice versa, due to there being no
+intermediate signals.
+
+
+Singer
+
+Restrictions
+No pathing to be used between Singer and Dalmuir
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

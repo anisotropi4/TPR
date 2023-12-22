@@ -1,0 +1,62 @@
+NETWORK RAIL                        Timetable Planning Rules                        Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                      Page:    12 of 443
+
+Second      Third      Route and/or Destination
+Character   and
+            Fourth
+            Number
+            even 00-   Class 2 trains Oxenholme to Windermere
+            28
+            odd 01-    Class 2 trains Windermere to Oxenholme
+            29
+            even 30-   Class 2 trains Carlisle to Lancaster via Barrow-in-Furness
+            58
+            odd 31-    Class 2 trains Lancaster to Carlisle via Barrow-in-Furness
+            59
+            7x/8x      Class 2 trains Heysham/Morecambe to Lancaster
+            even
+            7x/8x      Class 2 trains Lancaster to Morecambe/Heysham
+            odd
+                       Merseyrail trains to Chester
+                       ECS to Camden Carriage Sidings/WM
+                       ECS to Coventry
+D                      To Nottingham/Derby area - bounded by Wichnor Jn, Tutbury & Hatton, Clay
+                       Cross, Mansfield Woodhouse, Staythorpe, Elton & Orston, Loughborough,
+                       Lounge Jn
+                       Leeds to Chester/Ellesmere Port
+                       Class 1 Transport for Wales services Liverpool to Chester
+            4x/5x/6x   Class 2 trains Manchester to Chester via Northwich
+            7x         Class 2 trains Manchester to Greenbank
+                       To North Wales area (Chester inclusive to Wrexham General/Holyhead and
+                       branches)
+            50-99      Class 2 trains from Euston via DC lines
+                       Marylebone to Stratford-upon-Avon
+                       Birmingham Snow Hill line services to Stratford-upon-Avon via Dorridge
+                       ECS to Central Rivers
+E                      To the Eastern Region
+                       Class 2 local services between Didcot/Oxford and Worcester/Great Malvern
+                       Class 2 local services from Bristol Temple Meads to Worcester/Great
+                       Malvern
+                       Class 1 trains Chester/Ellesmere Port to Leeds
+            odd 21-    Class 1 trains Liverpool to Scarborough
+            55
+            odd        Class 2 trains Manchester Piccadilly to York via Huddersfield and Wakefield
+                       Westgate
+                       ECS to Wembley LMD from or via Marylebone
+                       Class 2 local services between Birmingham New Street and Kings Norton via
+                       the Camp Hill Lines
+F                      To Leicester area - bounded by Bedford (exclusive), Uffington, Loughborough
+                       (exclusive), Mantle Lane, Hinckley
+                       To Liverpool area – bounded by Crewe (exclusive), Mickle Trafford, Hooton,
+                       Dee Marsh, Farington Curve Jn (exclusive), Euxton Jn (exclusive), Crow Nest
+                       Jn, Astley, Warrington Central, Plumley, Middlewich (exclusive)
+                       Wrexham Central/Wrexham General to Bidston
+                       Class 2 trains Great Malvern/Worcester to Warminster via Bristol Temple
+                       Meads
+            0x/1x      Class 1 trains Blackpool to Liverpool
+
+
+
+                           Electronic copy - uncontrolled when printed

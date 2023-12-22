@@ -1,0 +1,62 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                    Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                   Date:    6th October 2023
+                                         Change Timetable 2024                          Page:    52 of 289
+
+
+GW828 CORYTON TO HEATH JUNCTION
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Coryton                              –
+Whitchurch                           –           –              S
+Rhiwbina                             –           –              S
+Birch Grove                          –           –              S
+Ty Glas                              –           –              S
+Heath Low Level                      –           –              S
+Heath Junction                       –           –                     To/from Queen Street – GW810
+
+GW830 MERTHYR TYDFIL TO BARRY ISLAND VIA CARDIFF QUEEN STREET
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Merthyr Tydfil                       –
+Pentre Bach                          –           –
+Troed–y–Rhiw                         –           –
+Merthyr Vale                         –           –                     Platform detail must be shown
+Quakers Yard                         –           –              S      Platform detail must be shown
+Abercynon                            –           –                     Platform detail must be shown
+                                                                       To/from Mountain Ash – GW834
+Stormstown                           –           –              S
+Pontypridd Signal V753                           –                     For shunts to/from Pontypridd Station
+                                                                       (North end)
+Pontypridd Junction                  –           –                     To/from Porth – GW835
+Pontypridd                           –           –                     Platform detail must be shown. Values
+                                                                       which can be shown in the “Platform
+                                                                       Details” field are:
+                                                                       1 – Platform 1 (Bay Platform)
+                                                                       2 – Platform 2 (Bi-directional)
+                                                                       3 – Platform 3 (Up Platform, A train can
+                                                                       depart to Radyr from this platform)
+Pontypridd Signal V730               –                                 For shunts to/from Pontypridd Station
+                                                                       (South end)
+Trefforest                           –           –              S
+Trefforest Estate                    –           –              S
+Taffs Well                           –           –                     Platform detail must be shown
+Taffs Well Depot                     DCV         UCV            S
+                                     UCV         DCV
+Radyr                                –           –                     Platform detail must be shown. Values
+                                                                       which can be shown in the “Platform
+                                                                       Details” field are:
+                                                                       1 – Platform 1
+                                                                       2 – Platform 2 (Bi-directional)
+                                                                       3 – Platform 3
+Radyr Junction                                                         To/from Ninian Park – GW840
+Llandaf                              –           –
+Cathays                              –           –              S
+Queen Street North Junction                                            To/from Heath Jn – GW810
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

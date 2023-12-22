@@ -1,0 +1,55 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                  Date:    6th October 2023
+                                        Change Timetable 2024                         Page:    53 of 289
+
+
+GW830 MERTHYR TYDFIL TO BARRY ISLAND VIA CARDIFF QUEEN STREET
+TIMING POINT                        DOWN        UP             CODE   NOTES
+
+Cardiff Queen Street                – UL        –                     Platform detail must be shown.
+
+                                                                      Values which can be shown in the
+                                                                      “Platform Details” field are :
+                                                                      1 – Platform 1 (Bay)
+                                                                      2 – Platform 2 (Down Llandaff Loop)
+                                                                      3 – Platform 3 (Down Llandaff)
+                                                                      4 – Platform 4 (Up Llandaff)
+                                                                      5 – Platform 5 (Up Llandaff Loop)
+
+Queen Street South Junction                                           To/from Cardiff Bay – GW839
+CVL East Boundary                   –           –
+Cardiff Central                     – RL        – DL                  To/from Marshfield – GW900
+                                                                      To/from Pontyclun – GW900
+                                                                      Platform detail must be shown
+                                                                      Platforms 4/6/7/8
+Cardiff Radyr Branch Junction       –           – UR DR               To/from Penarth Curve North Jn – GW840
+                                                                      Mandatory for trains to/from Penarth Curve
+                                                                      North Jn & also for trains travelling from
+                                                                      Penarth Curve South Jn via the Up Barry
+                                                                      Relief.
+Penarth Curve South Junction        –           – RL                  To/from Penarth Curve North Jn – GW860
+Grangetown                          –           –              S
+Cogan Junction                      –           –                     To/from Penarth – GW864
+Cogan                               –           –              S
+Eastbrook                           –           –              S
+Dinas Powys                         –           –              S
+Barry Docks Line Junction                                             To Barry Docks ABP
+Cadoxton                            –           –                     From Barry Docks ABP
+Barry Docks ABP                     –           –              S
+Barry Dock                                      –              S
+Barry Signal CF7283                 –                          S      For shunt moves to/from Barry Down
+                                                                      Siding
+Barry                               –           –
+Barry Tourist Railway               –           –              S
+Barry Down Siding                               –              S
+Barry Junction                                                        To/from Aberthaw – GW870
+Barry Island                                    –                     Single Line between Barry and Barry
+                                                                      Island
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

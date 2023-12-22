@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:     28th July 2023
+West and Central
+                                                                                           Page:   261 of 443
+
+
+Norton Bridge
+
+Adjustments to Sectional Running Times
+Movement Down                           Reason                                         Value
+Down Fast at Stafford towards Yarnfield Slower speed junction and approach             2 Class 390
+Jn via East Chord                       control                                        2 Class 22x
+                                                                                       1½ Class 350
+                                                                                       3 for Freight trains
+Down Fast from Doxey Jn towards            Slower speed junction and approach          1½ Class 390
+Yarnfield Jn via East Chord                control                                     1½ Class 22x
+                                                                                       1 Class 350
+                                                                                       3 for Freight trains
+
+Adjustments to Sectional Running Times
+Movement Up                          Reason                                            Value
+Trains from Stone via East Chord at  Differential junction speed Acceleration          ½ 1 approaching next
+Norton Bridge Jn                                                                       timing point
+
+Junction Margins
+First Movement                             Second Movement                             Margin
+Train towards Yarnfield Jn via East        Train towards Stafford on Up Fast           3
+Chord
+Train towards Stafford from Yarnfield Jn   Train towards Yarnfield Jn via East Chord   3
+via East Chord
+
+
+Basford Hall Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                              Value
+Down trains to Crewe Independent Lines or         Approach control                                    2
+Basford Hall Yards
+Down trains crossing "FL" to "SL"                 Approach control                                    2
+
+Movement Up                                       Reason                                              Value
+Up trains from Crewe Independent Lines or         Acceleration                                        3
+Basford Hall Yards                                                                                    approaching
+                                                                                                      next timing
+                                                                                                      point
+Up trains crossing "SL" to "FL"                   Approach control                                    1
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down train under 500m (78 SLU) pass to            Down train pass to the Down Slow Independent        4
+Crewe Basford Hall Yard (Freightliner)            Lines
+Down train 549m (85 SLU) or less pass to          Down train pass to the Down Fast Independent        4
+Crewe Basford Hall Yard (Freightliner)            Lines
+Down train between 501m (78 SLU) and 549m         Down train pass to the Down Slow Independent        5½
+(85 SLU) pass to Crewe Basford Hall Yard          Line
+(Freightliner)
+Down train 550m (86 SLU) or more pass to          Down train pass to the Down Fast Independent        6½
+Crewe Basford Hall Yard (Freightliner)            Line
+Down train 550m (86 SLU) or more pass to          Down train pass to the Down Slow Independent        7
+Crewe Basford Hall Yard (Freightliner)            Line
+
+
+
+
+                              Electronic copy - uncontrolled when printed

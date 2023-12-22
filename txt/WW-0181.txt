@@ -1,0 +1,65 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                       Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                      Date:    6th October 2023
+                                          Change Timetable 2024                             Page:    178 of 289
+
+
+Thatcham
+Maximum dwell time
+Down direction - 2 minutes*
+*To minimise level crossing barrier down-time, Down trains stopping at Thatcham are to be advertised earlier by
+the amount of recovery / pathing allowances between the previous stop and Thatcham.
+Dwell Time
+80x                                             1½ (Between 0630 and 0900 in the Up direction. Between 1630
+                                                and 1930 in the Down direction. SX only)
+
+Newbury Racecourse
+
+Adjustments to Sectional Running Times
+Movement                                 Reason                                      Timing Load         Value
+Train stopping at platform 3 from Theale Approach control                            80x                 {1½}*
+                                                                                     DMU/EMU             {1}
+Depart Newbury Racecourse platform 1 or       Slow speed crossover                   80x                 {½}
+3 in up direction                                                                                        approaching
+                                                                                                         next timing
+                                                                                                         point
+*Can be reduced to 1 if train has stopped at Thatcham
+
+
+Newbury
+
+Adjustments to Sectional Running Times
+Movement                                             Reason                         Timing Load          Value
+From the Down Main to Platform 2 or 3.               Slow crossover speed (25       DMU/EMU              {½}*
+                                                     mph)
+                                                                                    80x                  {1}*
+* Does not apply to trains that have stopped at Newbury Racecourse.
+Down train pass Newbury platform 1                  Acceleration                    80x                  {2}
+                                                                                                         Approaching
+                                                                                                         next timing
+                                                                                                         point
+                                                                                    Freight              {1½}
+                                                                                                         Approaching
+                                                                                                         next timing
+                                                                                                         point
+Down train pass Newbury (via down main) having       Acceleration                   80x                  {1}
+stopped at Newbury Racecourse                                                                            Approaching
+                                                                                                         next timing
+                                                                                                         point
+
+Down trains originating or splitting at Newbury      Running brake test on          DMU                  {½}
+                                                     steep gradient                                      Approaching
+                                                                                                         next timing
+                                                                                                         point
+Up train pass Newbury but stopping at Newbury        Not passing Newbury at         80x                  {½}
+Racecourse                                           linespeed
+
+Junction Margins
+First Movement                                       Second Movement                                    Margin
+Down stopping train arrives Newbury having           Down non-stop passenger train passes               3
+called at Newbury Racecourse                         Newbury
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,48 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                          Version:   4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024                 Date:    28/07/2023
+                                                                                                  Page:    11 of 242
+
+1.3.2 Days of Operation
+The following abbreviations are used to identify the day or days that a train operates.
+
+ Abbreviation      Description
+ M                 Monday
+ T                 Tuesday
+ W                 Wednesday
+ Th                Thursday
+ F                 Friday
+ S                 Saturday
+ Su                Sunday
+ EWD               Every Week Day (Monday to Saturday)
+ Daily             Every day – ITPS will not accept this; there must be a separate entry for Sundays
+ Suffixes
+ O                 Adding this indicates that the train will run only on that day or those days shown
+ X                 Adding this indicates that the train will not run on that day or those days shown
+
+ General
+ BHX               Denotes that this train does not run on a bank holiday
+
+
+
+
+1.3.3 Traction and Rolling Stock
+ Abbreviation      Description
+ 15X               DMU classes 150/153/155/156/158/159
+ 17X               DMU classes 170 and 175
+ 22X               DMU classes 220/221/222
+ 80X               Class 800, 801, 802 and 803 multiple units in 5, 9 or 10 car formation
+ DMU               Any diesel multiple unit (excluding classes 220/221/222)
+ EMU               Any electric multiple unit
+ ECS               Empty Coaching Stock includes empty diesel and electric multiple units.
+ HST               Trains consisting of two Class 43 locomotives and Mk 3 passenger vehicles
+ LH                A passenger or parcels train hauled or propelled by one or more locomotives
+ LHCV              Locomotive hauled coaching vehicles
+ MU                Multiple unit
+ Power             Passenger stock equipped with power operated external doors
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,65 @@
+                                                    OFFICIAL
+
+ NETWORK RAIL                        Timetable Planning Rules 2024                   Version:    4.1
+ Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                  Date:     6th October 2023
+                                         Change Timetable 2024                         Page:     235 of 289
+
+
+Entering Margam Moors TC from Bridgend       Slower line speed to        Freight           {1}
+direction                                    allow turnout into          Passenger         {2}
+                                             Margam TC
+Trains exiting Margam Moors TC in the UP     Slower line speed           Freight           {2} Approaching
+direction towards Stormy/Bridgend.           exiting Margam TC.                            next timing point
+                                                                         Passenger         {2} Approaching
+                                                                                           next timing point
+
+Junction Margin
+First movement                                   Second Movement                            Value
+Up Pass from Margam Abbey Works East Jn          Down Pass                                  4
+
+Port Talbot
+
+Adjustments to Sectional Running Times
+Movement                                     Reason                       Timing Load       Value
+From the Down Main to Down Relief Line       Approach Control             All traffic       {2}
+From the Up Main to Up Relief Line           Approach Control             All traffic       {2}
+
+Dwell Time
+150 to 175                         1
+Class 80x / LH                     1½
+
+Baglan
+
+Dwell Time
+150 to 153                         ½
+156 to 159 / LH                    1
+
+Briton Ferry
+
+Dwell Time
+150 to 153                         ½
+156 to 159 / LH                    1
+
+Neath
+
+Dwell Time
+150 to 175                         1
+22x / 80x / LH                     1½
+
+Skewen
+
+Dwell Time
+150 to 153                         ½
+156 to 159 / LH                    1
+
+Llamsamlet
+
+Dwell Time
+150 to 153                         ½
+156 to 159 / LH                    1
+
+Swansea Loop West Junction
+
+
+                                   Electronic copy - uncontrolled when printed.

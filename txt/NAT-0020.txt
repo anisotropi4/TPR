@@ -1,0 +1,52 @@
+                                                     OFFICIAL
+
+
+Network Rail                                                                                      Version 4.0
+National                                                                                  Date: 28th July 2023
+                                   Final Proposal for Subsidiary Change 2024
+                                               Page 19 of 114
+1.13 Designations and Terminology in the Timetable Planning Rules
+ 1.13.1 The use of Z as the second character is prohibited for WTT services. It is for use only by Special
+        Traffic Trains and STP additional trains not conforming to any route code.
+
+ 1.13.2 To assist with understanding of the Route documents, exceptions to the standard Rules will be in the
+        order listed in 1.13.4.
+
+ 1.13.3
+          #       Freight exception (1)
+          $       Freight exception (2)
+          %       Passenger exception (1)
+          &       Passenger exception (2)
+          *       General/misc. exception (1)
+          ^       General/misc. exception (2)
+
+          Any subsequent exceptions are denoted by doubling up the symbol e.g. General exception (3) is **, (4)
+          is ^^ and so on.
+
+ 1.13.4    Timing Allowances – definitions and usage –
+1.13.4.1 Engineering Allowance – allowance added to schedules to accommodate planned speed restrictions.
+         This allowance is required to compensate for loss of speed and the resultant increase in running time
+         in a section. Engineering time is stated in the Route Timetable Planning Rules document and
+         reviewed in conjunction with Network Rail Route Access Planning.
+
+1.13.4.2 Pathing Allowance – allowance added to a schedule to compensate for an increase in running time in
+         a section due to the service sighting a signal aspect that would prevent it from meeting its SRT and to
+         meet applicable Timetable Planning Rules.
+
+1.13.4.3 Adjustment Allowance –allowance is used where train will be performing a move that
+           means it will be unable to meet its SRT for that section. For example, where the
+           SRT is based on the fastest route:
+                 •  Reducing speed for a slow speed junction.
+                 •  Restrictive signalling approaching a junction (including flashing signal aspects and
+                    approach control)
+                 • Acceleration to prevailing line speed when joining from a slow speed junction.
+           Adjustment allowances are documented in Section 5.3 of the relevant route Timetable Planning
+           Rules
+
+1.13.4.4 Performance Allowance – allowance added to a schedule to account for anticipated time loss across
+         sections of a journey. These may be documented in the Route Timetable Planning Rules.
+
+
+
+
+                                 Electronic copy – uncontrolled when printed

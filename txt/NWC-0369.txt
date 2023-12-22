@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                         Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024             Date:    28th July 2023
+West and Central
+                                                                                         Page:    357 of 443
+
+West Kirby
+
+Other Restrictions
+Permissive working applies in both platforms
+
+
+NW8013 CANNING STREET JN TO HOOTON SOUTH JN
+
+Hamilton Square
+
+See entry under route NW8011 - Mann Island Jn to West Kirby (via Loop)
+
+
+Birkenhead Central
+
+Dwell Time
+All                                   1$
+$ includes an allowance for traincrew change
+
+Train Watering Points                Fixed watering point available
+
+Minimum Turnround Time – Trains changing direction at end of journey
+EMU shunting between arrival platform and a different departure platform for services to/from        7
+Liverpool Central only
+
+
+Rock Ferry
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+Trains terminating in Platforms 3 & 4             Approach Control                                   2
+Trains departing from Platforms 3 & 4             Slower line Speed                                  1
+
+
+Hooton
+
+Other Restrictions
+Both through lines and the bay platform are DC electrified. The through platforms are bi-directional. Permissive
+working does not apply. The maximum permitted station dwell time of 5 minutes does not apply.
+
+
+NW8015 BIDSTON EAST JN TO NEW BRIGHTON (NEW BRIGHTON LINES)
+
+Bidston East Jn
+
+See entry under route NW8011 Mann Island Jn to West Kirby (via Loop)
+
+
+New Brighton
+
+Other Restrictions
+Permissive working applies in both platforms
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,67 @@
+NETWORK RAIL                             Timetable Planning Rules                           Version: 4.1
+London North Eastern                       Revised Final Rules for                            Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                        Page: 329 of 368
+
+
+
+
+LN631 DARLINGTON SOUTH JUNCTION TO EAGLESCLIFFE SOUTH JUNCTION
+Timing Section                 Type     LH      MU      Freight       Remarks
+
+Up
+Approach Darlington            E        1       1       1
+                               P                1
+
+
+ LN632 STOCKTON CUT JUNCTION TO SALTBURN
+ Timing Section                        Type    LH       MU        Freight       Remarks
+                                               80X
+
+ Down
+                                       E       1        1*        1             *Terminating trains only
+ Approach Middlesbrough
+                                       P                1
+ Approach Saltburn                     E       1        1         1
+ Up
+ Approach Whitehouse Jn                E       1        1         1
+
+
+ LN634 GUISBOROUGH JUNCTION TO WHITBY
+ Timing Section                        Type    LH       MU        Freight       Remarks
+
+ Down
+ Approach Nunthorpe                    E       1        1         1
+ Approach Whitby                       E       1        1         1
+ Up
+ Approach Nunthorpe                    E                1
+                                       P       2
+ Approach Cargo Fleet Signal
+                                       E                1         2
+
+
+ LN646 NORTON-ON-TEES SOUTH TO FERRYHILL SOUTH JUNCTION
+ Timing Section                        Type    LH       MU        Freight   Remarks
+                                               HST      LL
+                                               EPU
+                                               22X
+
+ Down – Weekdays
+ Approach Ferryhill South Junction     E            2                 2
+
+
+  LN678 DARLINGTON NORTH JUNCTION TO EASTGATE
+  Timing Section                        Type    LH      MU         Cl 6
+                                                HST
+
+
+  Down – Weekdays
+  Approaching Bishop Auckland           P      1
+                                        E      1                   1
+  Up – Weekdays
+  Approaching Darlington                P      1        1
+                                        E      1                   1
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

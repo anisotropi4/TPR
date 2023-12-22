@@ -1,0 +1,62 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version: 4.1
+London North Eastern                 Revised Final Rules for                     Date: 12 October 2023
+                                Subsidiary Change Timetable 2024                 Page: 322 of 368
+
+
+LN170 WERRINGTON JUNCTION TO FLYOVER EAST JUNCTION (VIA LINCOLN)
+LOCATION                         DIRECTION USABLE LENGTH            NOTES
+                                           SLU/METRES
+
+Beckingham Down Goods Loop       Down               100 / 640
+Beckingham Up Goods Loop         Up                 100 / 640
+West Holmes Down Gainsborough    Down                89 / 570
+Slow
+West Holmes Up Gainsborough      Up                 100 / 640
+Slow
+
+
+
+
+LN600 SHAFTHOLME JUNCTION TO RESTON GSP
+LOCATION                         DIRECTION USABLE LENGTH            NOTES
+                                           SLU/METRES
+
+Darlington UGL                   Up                  89 / 569
+Darlington DPL                   Down               105 / 672
+Ferryhill UGL                    Up                  70 / 448
+Durham UPL                       Up                  88 / 563
+Durham Down Slow                 Down                80 / 512
+Low Fell Down/Up Goods           Down/Up             35 / 224
+Heaton DGL South                 Down               117 / 748
+Heaton DGL South + North         Down              383 / 1307
+Heaton UGL                       Up                 107 / 684
+Morpeth UPL                      Up                  67 / 428
+Chevington DPL                   Down               131 / 838
+Chevington UPL                   Up                 135 / 864
+Wooden Gate DPL                  Down                76 / 486
+Wooden Gate DRS                  Down                61 / 390
+Wooden Gate UPL                  Up                 137 / 876
+Crag Mill DPL                    Down              160 / 1024
+Crag Mill UPL                    Up                170 / 1088
+Tweedmouth No. 1 Reception       Up                  60 / 384
+Berwick-upon-Tweed DGL           Down               119 / 761
+Berwick-upon-Tweed UGL           Up                  60 / 384
+
+
+LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THE
+COAST
+LOCATION                         DIRECTION USABLE LENGTH            NOTES
+                                           SLU/METRES
+
+Down Cliff House Loop            Down              109 / 700         Reversal possible in the loop
+Up Cliff House Loop              Up                311 / 1991
+East Boldon Up Loop              Up                 69 / 442
+Down Pelaw Goods Loop            Down               50 / 320
+Up Pelaw Goods Loop              Down/Up            60 / 384
+
+
+LN632 STOCKTON CUT JUNCTION TO SALTBURN
+LOCATION                         DIRECTION USABLE LENGTH            NOTES
+                                           SLU/METRES
+
+                                Electronic copy - uncontrolled when printed.

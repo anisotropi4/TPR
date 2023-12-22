@@ -1,0 +1,59 @@
+ NETWORK RAIL                            Timetable Planning Rules                       Version: 4.1
+ Kent & HS1                                                    OFFICIAL
+                                       Final Proposal for Subsidiary                              25th August 2023
+                                                                                        Date:
+                                           Timetable 2024                               Page:     62 of 168
+
+
+
+5 Running Times, Margins and Allowances
+Except where otherwise stated, the information in this section of the Timetable Planning Rules reflects the
+general rules used in developing the 1994/5 timetable (Several exceptions to the general rules were agreed for
+1994/5 and exceptions may continue to be possible with the specific agreement of Network Rail in every case).
+
+5.1 Sectional Running Times
+The definition for Sectional Running Times (SRTs) is listed in Section 1.4 of the National TPRs
+
+5.1.1 Source of Current SRTs
+The definitive catalogue of SRTs is held within BPlan.
+
+5.1.2 Method of Calculation
+Sectional running times (SRTs) are agreed between Train Operators and Network Rail as part of the agreement
+of Timetable Planning Rules: normally they will not change from one timetable to the next. Network Rail will,
+however, re-calculate SRTs for particular train/route combinations in the following circumstances:
+
+i) Where a Train Operator anticipates using a train/route combination for which no suitable SRTs exist;
+ii) Where Network Rail anticipates a change to route data, e.g. line speed changes;
+iii) Where there is evidence that the SRTs in current use do not adequately represent real train performance;
+iv) Where it is cost-effective to re-calculate all SRTs on a route at the same time as a re-calculation for a
+     particular train type.
+
+Timetable Planning Rules values can be calculated in a number of legitimate ways including:
+
+a)   Through actual timing of trains
+b)   Use of On Train Monitoring Recorder (OTMR) systems
+c)   Use of computer system actual values
+d)   Use of computer simultion tools
+e)   By any other agreed methodology
+
+On certain routes a 5% allowance is included in the calculation to take account of the lack of explicit engineering
+allowances in Timetable Planning Rules.
+
+Network Rail carries out rounding of the calculated SRTs to obtain values in half minutes. Rounding is carried out
+cumulatively over a route, with intermediate times being rounded down and arrival at final destination being
+rounded up. However, during this process the accumulative value of the SRTs should never be more than +/–
+half–a–minute from the accumulative value of the ‘raw’ data at important locations such as junctions and major
+stations.
+
+Network Rail carries out other adjustments to the rounded SRTs, e.g. to remove obvious anomalies where
+differences in rounding cause a train to have a longer SRT than that of another train with poorer performance. On
+intensively used, slow speed route sections, Network Rail may adjust SRTs for different train types to show the
+same numeric values in order to make maximum use of available line capacity.
+
+5.1.3 New and Revised Sectional Running Times
+New and revised SRTs are agreed between Train Operators and Network Rail on an individual basis and are
+supplied by the method agreed in each instance.
+
+
+
+                                      Electronic copy - uncontrolled when printed

@@ -1,0 +1,65 @@
+ NETWORK RAIL                                Timetable Planning Rules                          Version:    4.3
+ Route: Sussex                               Final Rules for Subsidiary                        Date:       18th October 2023
+                                                   Timetable 2024 OFFICIAL
+                                                                                               Page:       69 of 163
+
+5.3 Junction Margins and Station Planning Rules
+The definition for Junction Margins and Station Planning Rules is listed in Section 6.6, 6.7 and 6.8 of the National
+TPRs.
+
+Light Engine movements, postal and test trains to be treated as passenger trains when applying
+margins/allowances where there is a freight/passenger difference.
+
+All times shown are in minutes. Where adjustments to sectional running times are shown, the value must be added to the normal
+SRTs shown in B Plan. Negative adjustments are specially identified.
+
+Running brake tests must be carried out at the first opportunity after beginning a journey/crew change. These allowances are not
+necessarily listed at individual timing points. Additional adjustment time to allow for running brake tests should be agreed between
+the respective NR and Operator planner
+
+Minimum station allowances are the minimum practical for the particular type of stock. These are shown with exceptions being
+listed by line of route where applicable.
+
+Peak is defined as services arriving in London (Blackfriars, Victoria or London Bridge) between 07.00 and 09.59 SX and departing
+London (Blackfriars, Victoria and London Bridge) between 16.00 and 18.59 SX.
+
+ STANDARD VALUES – MINIMUM
+
+ Adjustments to Sectional Running Times
+ Movements                                                    Reason                                                  Value
+ Terminating trains arriving on half minutes in final         Station working                                         {½}
+ timing link (with the exception of ARL)
+
+ Trains originating on whole minutes
+ Freight^ schedules must depart from origin on a whole minute. (This is due to IT systems requirements - ^TOPS)
+
+ All allowances mentioned in the exceptions should be included in train times when approaching the listed timing point
+ unless otherwise noted.
+
+ Attachment of Units
+ Standard                                      4*
+ * At least ½ minute must be added to the schedule of rear portion when approaching the front portion to attach.
+
+ Attachment of Units – Southern Services Only
+ Class                                     Allowance                             Comments
+ 171                                       3                                     2 applies for ECS
+ 377 or 387                                4
+
+ Attachment of Units – South Western Railway Services Only
+ Class                              Allowance                                             Comments
+ 450                                4
+ 455                                2
+ 458                                5
+ 701                                4
+ 707                                4
+
+ Berthing Facilities
+ When berthed on a running line during darkness or other conditions of poor visibility the person in charge must place
+ a lamp displaying a red aspect at the end(s) of the train to face any movement that may approach on the same line.
+
+ Trains must not be berthed on running lines except:-
+
+ a) on platform lines at terminal stations
+ b) on dead end bay lines at through stations
+ c) on lines specified at individual locations within Section 5.3
+                                     Electronic copy - uncontrolled when printed

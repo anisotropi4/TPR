@@ -1,0 +1,37 @@
+ NETWORK RAIL                            Timetable Planning Rules                       Version:   4.2
+ Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                                Change                    Date:    27th October 2023
+                                              Timetable 2024                              Page:    175 of 178
+
+5.4.1 Loop Lengths
+
+The table below shows the maximum length of train that may use each of the loops at the following locations. All
+lengths are in SLU (Standard Length Unit – an SLU measures 21 feet) and metres. All lengths are measured from
+the signal at the exit to the loop to the block joint in rear unless started otherwise. All lengths quoted exclude
+allowance for locomotives or stand back unless stated otherwise. Check Sectional Appendix for locations where
+standage is not quoted.
+
+ SW105 CLAPHAM JUNCTION TO WEYMOUTH
+ LOCATION                            DIRECTION      USABLE LENGTH          NOTES
+                                                    SLU   METRES
+
+ Wallers Ash Up Passenger Loop       Up             125       805
+ Wallers Ash Down Passenger          Down           173       1108
+ Loop
+ Southampton Up Goods Loop           Up / Down      67        433          Between E748 and E753
+ Southampton Down Loop               Down           69        443          Between E743 and E738
+ Southampton Down Loop               Up             69        443          At E738 Signal clear of 536A points
+ Southampton Down Loop               Up             116       745          At E738 Signal clear of 539B points
+
+
+
+ SW210 CLAPHAM JUNCTION TO READING (VIA RICHMOND)
+ LOCATION                            DIRECTION      USABLE LENGTH          NOTES
+                                                    SLU   METRES
+
+ Staines Up Goods Loop               Up             36        236
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

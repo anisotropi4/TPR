@@ -1,0 +1,46 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                      Version:    4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024             Date:     28/07/2023
+                                                                                              Page:     169 of 242
+
+Monktonhall Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                          Value
+Down trains from Drem to Millerhill between        Approach Control                                2
+Prestonpans and Monktonhall Junction
+
+Movement Up                                        Traction                                        Value
+Up trains passing from Millerhill (Acceleration)   Class 6 up to 400t                              ½*
+                                                   (Up to 60-TR35)
+                                                   Electric 60mph up to 1400t; 75mph up to 800t
+                                                   Class 4 up to 400t or Class 6 600t – 800t       1*
+                                                   (Up to 75-TR35 or 60-TR40 to 60-TR60)
+                                                   Electric 60mph 1600 to 2000t; 75mph 1000t to
+                                                   1200t
+                                                   Class 4 600t – 1000t or Class 6 1000t – 1400t   1½ *
+                                                   (75-TR40 to 75-TR70 or 60-TR65 to 60-TR90)
+                                                   Electric 75mph >=1400t; 60mph >=2200t
+                                                   Class 4 >=1200t or Class 6 1600t – 1800t        2*
+                                                   (Above 75-TR75 or 60-TR95 to 60-TR110)
+                                                   Class 6 2000t – 2800t                           2½ *
+                                                   (60-TR115 to 60-TR160)
+                                                   Class 6 >=3000t                                 3*
+                                                   (Above 60-TR165)
+Up trains from Millerhill (Acceleration)           Class 4 >=1000t or Class 6 1200t – 1800t        ½^
+                                                   Class 6 >=2000t                                 1^
+*To be applied approaching Prestonpans
+^To be applied approaching Drem
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Up train not stopping at Wallyford pass from       Up train from Millerhill pass                   3
+Portobello Junction
+Up train not stopping at Wallyford pass from       Up train from Millerhill depart                 2
+Portobello Junction
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                      Page:   101 of 443
+
+
+NW8011 MANN ISLAND JN TO WEST KIRBY (VIA LOOP)
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Hoylake                                  –           –        S      Platform detail must be shown
+West Kirby Siding No. 1                              –        S
+West Kirby Siding No. 2                              –        S
+West Kirby                                           –               Platform detail must be shown
+
+
+NW8013 CANNING STREET JN TO HOOTON SOUTH JN
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Canning Street Jn                                                    To/from Mann Island Jn – NW8011
+Hamilton Square                          –           –               Platform detail must be shown as follows:
+                                                                     1 for trains towards James Street
+                                                                     2 for trains towards Birkenhead Central
+                                                                     3 for trains towards West Kirby
+Mersey Tunnel (End/start of                                          6 chains from Birkenhead Central
+Underground Section)
+Birkenhead Central                       –           –               Platform detail must be shown
+Birkenhead Central Signal 717            –                    S
+Birkenhead Central C.S.                  –                    S
+Green Lane                               –           –        S
+Rock Ferry North Jn                                                  To/from north facing bay platforms at Rock
+                                                                     Ferry
+Rock Ferry                               –           –               Platform detail must be shown
+Rock Ferry South Jn                                                  To/from Canning Street – NW8017
+Bebington                                –           –        S      Platform detail must be shown
+Port Sunlight                            –           –        S      Platform detail must be shown
+Spital                                   –           –        S      Platform detail must be shown
+Bromborough Rake                         –           –        S      Platform detail must be shown
+Bromborough                              –           –        S      Platform detail must be shown
+Eastham Rake                             –           –        S      Platform detail must be shown
+Hooton North Jn
+Hooton                                   –           –               Platform detail must be shown
+Hooton South Jn                                                      To/from Chester North Jn – NW3011
+                                                                     To/from Ellesmere Port – NW3013
+
+
+NW8015 BIDSTON EAST JN TO NEW BRIGHTON (NEW BRIGHTON LINES)
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Bidston East Jn                          –           –               To/from Birkenhead North – NW8011
+Wallasey Village                         –           –        S      Platform detail must be shown
+Wallasey Grove Road                      –           –        S      Platform detail must be shown
+New Brighton Siding No. 1                            –        S
+New Brighton Siding No. 2                            –        S
+New Brighton Wall Siding                             –        S
+New Brighton                                         –               Platform detail must be shown
+
+
+
+
+                              Electronic copy - uncontrolled when printed

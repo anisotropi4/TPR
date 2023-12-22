@@ -1,0 +1,43 @@
+NETWORK RAIL                    Timetable Planning Rules                    Version: 4.1
+London North Eastern              Revised Final Rules for                     Date: 12 October 2023
+                             Subsidiary Change Timetable 2024                 Page: 323 of 368
+
+
+LN632 STOCKTON CUT JUNCTION TO SALTBURN
+LOCATION                      DIRECTION USABLE LENGTH            NOTES
+                                        SLU/METRES
+Redcar Down Loop              Down           53 / 380
+
+
+LN696 HEPSCOTT JUNCTION TO MORPETH JUNCTION
+LOCATION                      DIRECTION USABLE LENGTH            NOTES
+                                        SLU/METRES
+
+Morpeth DMU Reverse Siding    Up/Down            19 / 121
+
+
+LN804 TAPTON JUNCTION TO GASCOIGNE WOOD VIA SHEFFIELD
+LOCATION                     DIRECTION      USABLE LENGTH        NOTES
+                                             SLU/METRES
+Heeley Up Loop               Up                106 / 680         Standage from S70 to clear of track
+                                                                 circuit in rear
+
+
+LN808 DORE STATION JN TO EARLES SIDINGS (EXCL.)
+LOCATION                     DIRECTION      USABLE LENGTH        NOTES
+                                             SLU/METRES
+Bamford Up Loop              Up                106 / 680         Standage from DE5108 to clear of axle
+                                                                 counter section in rear
+
+
+LN882 WAKEFIELD KIRKGATE WEST JUNCTION TO GOOLE POTTERS GRANGE
+JUNCTION
+LOCATION                      DIRECTION USABLE LENGTH            NOTES
+                                        SLU/METRES
+
+Up Calder Goods Loop          Up/Down            70 / 453
+
+
+
+
+                             Electronic copy - uncontrolled when printed.

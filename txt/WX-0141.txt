@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                  Date:    27th October 2023
+                                            Timetable 2024                            Page:    139 of 178
+
+Epsom
+Between all conflicting moves where the second train is arriving/passing except as below         3
+Up departure from Platform 2                     Up departure from Platform 3                    2
+Up departure from Platform 3                     Up departure from Platform 2                    2
+Down arrival into Platform 2                     Up departure from Platform 3                    2
+Up train arriving Platform 3                     Up train departing Platform 2                   2
+Down train departing Platform 1 to Ashtead/Up    Down train arriving Platform 2                  3½
+Siding
+Down train arriving Platform 2                   Down train passing/departing Platform 1 to      2
+                                                 Ashtead/Up Siding
+
+Simultaneous Moves Not Permitted - a 3-minute margin is to be applied except where stated above
+Up train arriving Platform 3                  Down train ex Ewell West arriving Platform 2
+Up train arriving Platform 3                  Up train departing Platform 2 towards Ewell West
+Down train departing Platform 1 to Ashtead/Up Down train ex Ewell West arriving Platform 2
+Siding
+Up train arriving Platform 1 from Ashtead/Up  Down train ex Ewell West arriving Platform 2
+Siding
+
+Changes here to be consulted in tandem with the SO680 on the Sussex route.
+
+
+Leatherhead
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                         Value
+Down trains towards Bookham passing               Speed Differential                             {½}
+Leatherhead
+Up trains from Bookham passing Leatherhead        Speed Differential                             {½}*
+* This allowance should appear in the section from Leatherhead
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Between all conflicting moves where the second train is arriving/passing except as below         3
+Up train arrives/passes from Dorking             Down train passes towards Effingham Junction    1½
+Up train arrives/passes from Dorking             Down train departs towards Effingham Junction   1
+
+Limit of Shunt
+                                     Length Limit
+Up Platform (clear of W482)          8 cars
+
+Changes here to be consulted in tandem with the SO680 on the Sussex route.
+
+
+SW185 MOTSPUR PARK JUNCTION TO CHESSINGTON SOUTH
+
+Motspur Park Junction
+
+See entry under route – SW180
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

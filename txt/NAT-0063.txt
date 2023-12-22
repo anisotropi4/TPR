@@ -1,0 +1,65 @@
+                                                OFFICIAL
+
+
+Network Rail                                                                                  Version 4.0
+National                                                                              Date: 28th July 2023
+                                Final Proposal for Subsidiary Change 2024
+                                             Page 62 of 114
+Type           Days    TID          Start Time       Origin                   Destination
+
+                                    02:28
+RHTT                                01:59            Leeds                    Leeds
+               SX      3S24         02:28
+RHTT                                04:44            Leeds
+               SX      3S25         04:55                                     Leeds
+RHTT                                04:44            Leeds
+               SO      3S25         04:55                                     Leeds
+RHTT           SX      3S26         06:28            Leeds                    York Thrall Europa
+RHTT           SO      3S26         06:22            Leeds                    York Thrall Europa
+RHTT           SO      3S26         06:22            Leeds                    York Thrall Europa
+RHTT           SX      3S26         06:28            Leeds                    York Thrall Europa
+                                                                               YORK THRALL
+                       3S29                  08:27   YORK THRALL EUROPA
+                                                                               EUROPA
+East Midlands
+RHTT       MO          3J87         02:45            Toton TMD                Toton TMD
+                                                     STAPLEFORD &             STAPLEFORD &
+RHTT           MO      3J85         04:59            SANDIACRE                SANDIACRE
+                                                                              STAPLEFORD &
+RHTT           MO      3J86         02:45            TOTON T.M.D.             SANDIACRE
+RHTT           SX      3J88         23:07            Toton TMD                Stapleford & Sandiacre
+RHTT           SX      3J88         21:25            Toton TMD                Stapleford & Sandiacre
+RHTT           TThO    3J89         05:00            Stapleford & Sandiacre   Toton TMD
+RHTT           SO      3J89         05:00            Stapleford & Sandiacre   Toton TMD
+RHTT           WFO     3J89         05:00            Stapleford & Sandiacre   Toton TMD
+RHTT                                                 Toton TMD                West Hampstead North
+               FSX     3J92         23:42                                     JN
+RHTT                   3J92                          Toton TMD                West Hampstead
+               FO                   23:17                                     Thameslink
+RHTT                   3J92                          Toton TMD                West Hampstead North
+               Su                   23:32                                     JN
+RHTT                   3J92                          TOTON T.M.D.             West Hampstead North
+               FSX                  23:42                                     Jn
+RHTT                   3J93                          West Hampstead           Toton TM
+               SO                   12:01            Thameslink
+RHTT                   3J93                          West Hampstead           Toton TMD
+           SX                       12:01            Thameslink
+North West & Central
+RHTT       SX          2S01         22:52            London Euston            London Euston
+RHTT       MO          2S01         00:01            London Euston            London Euston
+RHTT       SU          3J01         12:35            Bescot T.M.D             London Euston
+RHTT       SO          3J01         10:50            Bescot T.M.D             Bescot T.M.D
+RHTT       SX          3J01         10:50            Bescot T.M.D             London Euston
+RHTT       MWO         3J01         10:50            Bescot T.M.D             London Euston
+RHTT       FO          3J01         10:50            Bescot T.M.D             London Euston
+                                                     Kings Norton Signal
+RHTT           SO      3J01         11:00            SY522                    Kings Norton Plant Dept
+                                                                              Bescot T.M.D
+                                                                              KINGS NORTON OT
+RHTT           TThO    3J02         01:09            London Euston            PLANT DEPT
+                                                                              Bescot T.M.D
+                                                                              KINGS NORTON OT
+RHTT           MWFO    3J02         01:09            London Euston            PLANT DEPT
+                                                                              Bescot T.M.D
+RHTT           SO      3J02         00:59          London Euston              AMERSHAM
+                              Electronic copy – uncontrolled when printed

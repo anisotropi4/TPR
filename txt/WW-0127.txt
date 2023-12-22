@@ -1,0 +1,68 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                         Version:    4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                        Date:     6th October 2023
+                                         Change Timetable 2024                               Page:     124 of 289
+
+
+
+Reading West Junction
+
+Adjustment to Sectional Running Time (to be shown approaching location)
+Movement                                     Reason                 Timing Load                       Value
+Crossing from the Up Relief to Festival Line Slower speed junction  All traffic                       {½}
+Crossing from the Up Relief to Up West       Approach control       All passenger                     {1}
+Curve                                                               traffic
+Crossing from the Up Relief to Up West       Approach Control       All Class 4 and 6                 {1½}
+Curve                                                               trains
+Crossing from the Down Relief to the Up      Approach control       All traffic                       {1}
+Passenger Loop
+
+Adjustment to Sectional Running Time (to be shown after this location)
+Movement                                   Reason                      Timing Load                    Value
+Reading to Reading West Junction RL –      Not at line speed passing   Class 4 and 6                  {½}
+having stopped at Reading                  Reading West Junction       1000T
+                                                                       Class 4 and 6                  {1}
+                                                                       1200T
+                                                                       Class 4 and 6                  {1½}
+                                                                       1400T and 1600T
+                                                                       Class 6 1800T                  {2}
+                                                                       Class 6 2000T                  {2½}
+                                                                       and 2200T
+                                                                       Class 6 2400T                  {3}
+Crossing from the Up or Down West Curve    Acceleration                All traffic                    {½}*
+or Festival Line
+Crossing from Reading West Curve and       Acceleration                All Class 4 traffic            {½} approaching
+crossing at Tilehurst East Junction.                                                                  Tilehurst East Jn
+                                                                       Class 4 1600T                  {½} after
+                                                                                                      Tilehurst East Jn
+                                                                                                      (additional to the
+                                                                                                      above).
+                                                                                All Class 6 traffic   {½} approaching
+                                                                                                      Tilehurst East Jn
+                                                                                                      and {½} after
+                                                                                                      Tilehurst East Jn
+Crossing from Reading West Curve and              Acceleration                  All Class 4 and 6     {1} approaching
+running RL                                                                      traffic               Goring and
+                                                                                                      Streatley
+*Does not apply to 22x when using the Festival Line
+
+Planning note
+Care must be taken when dwelling/ pathing a train between Reading West Jn and Oxford Road Jn on the West
+Curve lines, to ensure held train does not block access to other lines (see 5.4.1 GW220)
+
+Tilehurst East Junction
+
+Crossing and conflicting moves
+First Movement                                      Second Movement                                   Margin
+An Up train on the main line crossing to the Up     An Up train on the relief line following          Headway plus 1
+relief at Tilehurst East Junction                                                                     minute
+An Up train on the relief line                      An Up train on the main line crossing to the      Headway plus 2
+                                                    Up relief at Tilehurst East Junction              minutes
+A down train from Scours Lane                       An Up relief line service                         Junction margin
+                                                                                                      matrix for the
+
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,56 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version: 4.1
+Kent & HS1                                                    OFFICIAL
+                                      Final Proposal for Subsidiary                             25th August 2023
+                                                                                      Date:
+                                          Timetable 2024                              Page:     147 of 168
+
+
+SO420 YORK WAY SOUTH JUNCTION TO CAMDEN ROAD
+INCLINE JUNCTION
+
+Signal AF41
+Dwell Time
+2 minutes. All trains (Passenger and Freight) towards CTRL from the North London Line must stop at Signal AF41
+on approach to York Way South Junction for drivers to set up CSR (Cab Secure Radio) and change traction
+setting. This is due to the North London Line not having CSR coverage and CSR must be set up at the first signal
+berth on entering a new control area.
+
+
+SO450 EBBSFLEET WEST JUNCTION TO SPRINGHEAD ROAD JUNCTION
+Dot Stops
+Dot stops are not permitted in any train at any location on this route
+
+
+Ebbsfleet International
+
+See entry under route SO400
+
+SO470 ASHFORD WEST JUNCTION (AD947 AND AD949 SIGNALS) TO ASHFORD
+INTERNATIONAL
+Dot Stops
+Dot stops are not permitted in any train at any location on this route
+
+Ashford West Junction
+
+Junction Margins
+First Movement                                      Second Movement                                  Margin
+Up train from Ashford International                 Up train running fast on CTRL                    3
+Down train leaving CTRL towards Ashford             Down fast train running towards Channel          2½
+International                                       Tunnel
+
+
+SO480 ASHFORD INTERNATIONAL TO ASHFORD EAST JUNCTION (AD 954 AND
+AD 956 SIGNALS)
+Dot Stops
+Dot stops are not permitted in any train at any location on this route
+
+Ashford East Junction
+
+Movement Up                                         Reason                                           Value
+Up Eurostar Class 373/374 train towards             Speed differential after Ashford East Junction   ½
+Ashford International
+
+
+
+
+                                     Electronic copy - uncontrolled when printed

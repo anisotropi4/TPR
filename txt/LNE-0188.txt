@@ -1,0 +1,62 @@
+NETWORK RAIL                        Timetable Planning Rules                     Version: 4.1
+London North Eastern                  Revised Final Rules for                      Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                  Page: 185 of 368
+
+
+Widdrington
+
+Dwell Time
+DMU                               ½
+
+
+Chevington Loops
+
+Junction Margins
+First Movement                                Second Movement                                Margin
+Down passenger arrive                         Non–stop pass Morpeth                          4 mins after
+
+Down freight arrive                           Non–stop passes Morpeth                        2 mins after
+
+Down passenger pass Morpeth                   Down depart Loop                               8
+Up passenger arrive                           Non-stop pass Alnmouth                         Same time
+Up freight arrive                             Non-stop pass Alnmouth                         1
+Up Passenger (100mph+) Pass Alnmouth          Freight Departs Chevington Loop                7
+Up Passenger (100mph+) Departs Alnmouth       Freight Departs Chevington Loop                8
+Up Class 4 Freight Pass Alnmouth              Freight Departs Chevington Loop                9
+Up Class 6 Freight Pass Alnmouth              Freight Departs Chevington Loop                12
+
+
+Acklington
+
+Dwell Time
+DMU                               ½
+
+
+Wooden Gates
+
+Adjustments to Sectional Running Times
+Movement Up                                   Reason                                        Value
+Arrive Wooden Gates Loop from Belford not     Approach Control                              2 to be applied
+stopping at Alnmouth                                                                        approaching
+                                                                                            Alnmouth
+
+
+Junction Margins
+First Movement                      Second Movement                     Margin
+Down Passenger arrive               Non-stop passes Alnmouth            6
+Down Freight arrive                 Non-stop passes Alnmouth            7
+Down Passenger arrive               Down Passenger arrive Alnmouth      4
+Down Freight arrive                 Down Passenger arrive Alnmouth      5
+Down Passenger pass Alnmouth        Down depart Loop                    1
+
+
+Alnmouth for Alnwick (inc Wooden Gates loops)
+
+Dwell Time
+Standard                          1½
+DMU                               1
+LNER                              2
+
+Junction Margins
+
+                                 Electronic copy - uncontrolled when printed.

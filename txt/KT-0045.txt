@@ -1,0 +1,49 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                              OFFICIAL
+                                Final Proposal for Subsidiary                             25th August 2023
+                                                                                Date:
+                                     Timetable 2024                             Page:     41 of 168
+
+
+
+
+SO290A BLACKHEATH JUNCTION TO CHARLTON JUNCTION
+TIMING POINT                    DOWN         UP          CODE      NOTES
+
+Blackheath Junction                                                To/from Blackheath – SO300
+Angerstein Junction                   -           -                To/from Angerstein Wharf - SO290B
+
+Angerstein Shunt Signal L429    -                                  Use TIPLOC ANGR429
+Charlton Junction                                                  To/from Charlton - SO290
+
+
+SO290B ANGERSTEIN JUNCTION TO ANGERSTEIN WHARF
+TIMING POINT                    DOWN         UP          CODE      NOTES
+
+Angerstein Junction             (Single)          -                To/from Charlton Junction - SO290A
+Angerstein Stop Board               -            -
+Angerstein Wharf Loop                        (Single)              Timing point on Arr/Dep line except trains
+                                                                   for Norriskips Terminal which stand on the
+                                                                   “RR” line and the loco runs round using the
+                                                                   Arr/Dep line
+Angerstein Wharf Bardon                                  FS        TIPLOC BRONLPT or
+Aggregates                                                         ANGRGBR (for GBRF services)
+                                                                   Access controlled by FOC shunter but
+                                                                   trains can be signalled onto the single line
+                                                                   without a release, however no shunt
+                                                                   moves allowed
+Angerstein Norriskips                                    FS        TIPLOC ANGRNOR
+                                                                   Access controlled by FOC shunter but
+                                                                   trains can be signalled onto the single line
+                                                                   without a release, however no shunt
+                                                                   moves allowed
+Angerstein Wharf Tarmac                                  FS        TIPLOC ANGRTAR
+                                                                   Access controlled by FOC shunter but
+                                                                   trains can be signalled onto the single line
+                                                                   without a release, however no shunt
+                                                                   moves allowed
+
+
+
+
+                               Electronic copy - uncontrolled when printed

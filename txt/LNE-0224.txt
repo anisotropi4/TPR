@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                             Version: 4.1
+London North Eastern                     Revised Final Rules for                              Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                          Page: 221 of 368
+
+
+Brigg
+
+Junction Margins
+First Movement                                    Second Movement                                         Margin
+Arrive from Wrawby                                Depart to Wrawby                                        1
+
+
+Kirton Lime Sidings
+
+Junction Margins
+First Movement                                    Second Movement                                         Margin
+Pass from Northorpe                               Pass to Northorpe                                       3
+
+
+Northorpe SB
+
+Junction Margins
+First Movement                                    Second Movement                                         Margin
+Arrive Loop from either direction                 Pass ML                                                 6*
+* May be reduced to 4 minutes if second train has 2 minutes pathing approaching Northorpe SB
+
+
+Gainsborough Central
+
+Adjustment to Sectional Running Times
+Movement Down                                         Reason                                             Value
+Depart Platform 2 in Down direction                   Differential junction speed                        ½
+
+Junction Margins
+First Movement                                    Second Movement                                         Margin
+Arrive from Single line                           Depart to Single line                                   Same time
+
+Minimum Turnround
+DMU                                                           5
+
+Gainsborough Trent Junctions
+
+Junction Margins
+1st move →    Retford to    Retford to   Don to          Don to       Lincoln to    Lincoln to   Wrawby      Wrawby
+              Wrawby        Lincoln      Wrawby          Lincoln      Don           Retford      Jn to Don   Jn to
+2nd move ↓    Jn                         Jn                                                                  Retford
+Retford to         –            5           4                 3            3           No            3           No
+Wrawby Jn                                                                            conflict                 conflict
+Retford to         5            –             4               –            3           No            4            4
+Lincoln                                                                              conflict
+Don to             4            4             –               5           No           No           No             No
+Wrawby Jn                                                               conflict     conflict     conflict       conflict
+Don to             3            –             5               –           No           No            3              3
+Lincoln                                                                 conflict     conflict
+Lincoln to         3            3            No              No            –            –            5              4
+Doncaster                                  conflict        conflict
+Lincoln to        No           No            No              No            –            –            3              5
+Retford         conflict     conflict      conflict        conflict
+Wrawby Jn to       3            4            No               4            5            4            –              4
+Don                                        conflict
+
+                                    Electronic copy - uncontrolled when printed.

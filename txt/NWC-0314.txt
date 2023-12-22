@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                          Page:   302 of 443
+
+Carlisle
+
+Splitting and Coupling of Units: Permitted in all platforms. 20 minutes is required for attaching or detaching LH
+vehicles
+
+
+Caldew Jn
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Down train pass to Down Goods                     Pass from Up Goods                                 6
+Pass from Up Goods                                Down train pass to Down Goods                      4
+
+
+Mossband Jn
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+All trains to Up Goods that have travelled from   Approach control on CE509                          2
+Cove Signal MC862 (excluding Class 66 timing
+loads)
+
+
+Gretna Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                             Value
+Passenger trains routed towards Annan             Flashing yellow aspects                            1
+Freight trains routed towards Annan *             Flashing yellow aspects                            1 Class 4
+                                                                                                     ½ Class 6
+* Does not apply to Class 7 or 8 trains
+
+Movement Up                                         Reason                                            Value
+Applies to the following Timing Loads for trains that have travelled from Annan which are not routed to the Up
+Goods.
+Class 6 up to 800t (inclusive)                      Acceleration                                      ½ after
+                                                                                                      Gretna Jn
+Class 6 800t (exclusive) to 1200t (inclusive)       Acceleration                                      1 after Gretna
+                                                                                                      Jn
+Class 6 1200t (exclusive) to 1800t (inclusive)      Acceleration                                      1½ after
+                                                                                                      Gretna Jn
+Class 6 over 2000t                                  Acceleration                                      2 after Gretna
+                                                                                                      Jn
+Class 4 up to 400t                                  Acceleration                                      ½ after
+                                                                                                      Gretna Jn
+Class 4 600t                                        Acceleration                                      1 after Gretna
+                                                                                                      Jn
+Class 4 800t (inclusive) to 1200t (inclusive)       Acceleration                                      1½ after
+                                                                                                      Gretna Jn
+Class 4 over 1400t                                  Acceleration                                      2 after Gretna
+                                                                                                      Jn
+All diesel passenger timing loads                   Acceleration                                      1 after Gretna
+                                                                                                      Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

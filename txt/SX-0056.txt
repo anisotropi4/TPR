@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                Version:   4.3
+Route: Sussex                         Final Rules for Subsidiary              Date:      18th October 2023
+                                            Timetable 2024 OFFICIAL
+                                                                              Page:      52 of 163
+
+
+
+
+SO520A FORD JUNCTION TO LITTLEHAMPTON JUNCTION
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+Ford Junction and Littlehampton                        P                                    P
+
+
+
+
+SO530 SOUTH CROYDON JUNCTION TO EAST GRINSTEAD
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+South Croydon and East Grinstead                       P                                    P
+
+
+SO540 HURST GREEN JUNCTION TO UCKFIELD
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+Hurst Green Junction and Uckfield                      NA                                   NA
+
+
+SO550 REDHILL TO TONBRIDGE
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+Redhill and Tonbridge                                  P                                    P
+
+
+SO560 REDHILL TO GOMSHALL
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+Redhill and Reigate                                    P                                    P
+Reigate and Gomshall                                   NA                                   P
+
+
+SO590 KEYMER JUNCTION TO EASTBOURNE
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+Keymer Junction and Eastbourne                         P                                    P
+
+
+SO600 WILLINGDON JUNCTION TO ASHFORD INTERNATIONAL
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+Willingdon Junction and Ore                            P                                    P
+Ore and Ashford International                          NA                                   P
+
+SO610 APPLEDORE TO LYDD TOWN
+ROUTE SECTION                                          PASS                                 ECS SLIDE +
+
+Appledore and Lydd Town                                NA                                   NA
+
+
+
+
+                                Electronic copy - uncontrolled when printed

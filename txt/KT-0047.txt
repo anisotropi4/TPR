@@ -1,0 +1,63 @@
+NETWORK RAIL                    Timetable Planning Rules                      Version: 4.1
+Kent & HS1                                          OFFICIAL
+                            Final Proposal for Subsidiary                               25th August 2023
+                                                                              Date:
+                                 Timetable 2024                               Page:     43 of 168
+
+
+SO310 HITHER GREEN TO MAIDSTONE WEST (VIA SIDCUP)
+TIMING POINT                DOWN        UP     CODE        NOTES
+
+                            DML
+                            RVL
+Dartford                    -           UML                Platform detail must be shown
+                                        DML
+                                        RVL
+Dartford Up Sidings         -           -         S        Timing point for trains to and from Up Sidings.
+                                                           Siding numbers to be shown
+Dartford Down Siding        -           -         S        Timing point for trains to and from Down Siding
+Stone Crossing              -           -         S
+Greenhithe                  -           -         S
+Swanscombe                  -           -         S
+Northfleet Junction         -           -         FS       Timing point for trains to and from Northfleet
+                            UM                    X        Tarmac and for Down trains crossing over to up
+                                                           line.
+                                                           TIPLOC NRTHFTJ
+Northfleet Tarmac                       -         FS       TIPLOC NRTHDBC
+                                                           Access controlled by FOC shunter
+Northfleet                  -           -         S        Platform detail must be shown
+Springhead Road Junction    -           -                  To/from Ebbsfleet International – SO450
+Gravesend                   -           -                  Platform detail must be shown.
+Signal NK1611/NK443         -           -         FS       For freight moves between Grain Branch and
+                                                           Hoo Yards
+                                                           TIPLOC HOOJ611 is used for both signals
+Hoo Junction                -           -                  To/from Grain - SO320 See also Section 5.3
+Hoo Down Yard               -                     FS       TIPLOC HOOJDYD
+
+Hoo Up Yard                                       FS       Departures in Up direction to use TIPLOC –
+                                                           HOOJ512
+                                                           Departures in Down direction to use TIPLOC –
+                                                           HOOJ511
+                                                           See also Section 5.3
+                                                           Access controlled by FOC shunter
+Higham                      -           -         SF       Timing point for all up freight trains crossing
+                                                           into the Up Yard at Hoo Junction. See also
+                                                           section 5.3
+Strood                      -           -                  Platform detail must be shown.
+Strood Signal NK1630        -           -                  Timing point for trains reversing at Strood
+Cuxton                      -           -
+Rugby Sidings               -           -      FS          TIPLOC HALGDBC (DBC)
+                                                           TIPLOC HALGGBR (GBRf)
+                                                           TIPLOC HALGFHH (FHH)
+                                                           TIPLOC HALGCLR (Colas)
+Halling Groundframe         -                  FS          Use TIPLOC HALGGF
+                                                           Timing point for trains accessing the sidings
+Halling                     -           -      S
+Snodland                    -           -      S
+New Hythe                   -           -      S
+Brookgate Sidings           -           -      FS
+Aylesford                   -           -
+Allington Groundframe       -           -      FS          Use TIPLOC ALLGREV
+                                                           Timing point for trains accessing the sidings
+
+                           Electronic copy - uncontrolled when printed

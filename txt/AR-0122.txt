@@ -1,0 +1,68 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                    Version:      4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                    Date:
+                                                2024                                           2023
+                                                                                   Page:       119 of 183
+
+Ely
+
+
+Splitting and Coupling of trains permitted       In all platforms
+
+
+Ely Papworth Sidings
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                             Allowance
+Trains propelling into Ely Papworth Sidings      Reduced speed of propelling movement               {3}
+from Ely North Junction
+
+
+
+Ely North Junction
+
+Adjustments to Sectional Running Times
+Trains travelling towards King’s Lynn,           To allow for slow speed crossover off curve        {2}
+Middleton Towers or Norwich via Ely West         approaching Ely North Junction, adjustment
+Curve                                            time to be shown approaching the next timing
+                                                 point on EA1162 or EA1580 as appropriate
+
+Junction Margins
+Movement                                         Second movement                                    Margin
+All fouling moves                                                                                   3
+Exceptions to the above
+Pass Ely North Junction                          Depart Ely West Curve onto Down                    2
+                                                 Norwich/King’s Lynn
+Pass Ely North Junction                          Pass Ely West Curve onto Down                      4
+                                                 Norwich/King’s Lynn
+Conflicting Passenger Pass                       Depart/Pass to Ely Papworth Sidings                1
+Conflicting Freight Pass                         Depart/Pass to Ely Papworth Sidings                2
+
+
+EA1162 ELY NORTH JUNCTION TO KING’S LYNN
+
+Littleport Signal L24
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Pass/arrive Littleport from King’s Lynn          Depart towards King’s Lynn                         Simultaneous
+
+
+Littleport
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Pass/arrive from King’s Lynn                     Depart towards King’s Lynn (Not stopping at        1
+                                                 Littleport Signal L22)
+Pass/arrive from King’s Lynn                     Pass towards King’s Lynn (Not stopping at          2
+                                                 Littleport Signal L22)
+Arrive / pass Downham Market from Littleport     Depart / pass Littleport towards Downham           Same time (0)
+                                                 Market
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

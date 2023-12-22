@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                           Version:   4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024               Date:    28th July 2023
+West and Central
+                                                                                              Page:   123 of 443
+
+
+MD301 RUGBY TRENT VALLEY JN TO PENKRIDGE (VIA BIRMINGHAM)
+TIMING POINT                            DOWN           UP         NOTES
+
+Birmingham New Street to Galton         3#             3          # Down direction is increased to 4 minutes when
+Jn                                                                locomotive hauled train in excess of 7 vehicles is
+                                                                  preceding.
+Galton Jn to Dudley Port                3 Non-         3 Non-     The stopping headway should be applied to a
+                                        stop           stop       service following a preceding service which stops at
+                                        4              4          either a station or any other location for operational
+                                        Stopping       Stopping   reasons
+Dudley Port to Wolverhampton            3 Non-         3 Non-     The stopping headway should be applied to a
+(exclusive)                             stop           stop       service following a preceding service which stops at
+                                        4              4          either a station or any other location for operational
+                                        Stopping       Stopping   reasons
+Wolverhampton (inclusive) to            3              3
+Wolverhampton North Jn
+Wolverhampton North Jn to               3              3
+Penkridge
+
+
+MD306 BIRMINGHAM NEW STREET TO ASHCHURCH (EXCLUSIVE)
+TIMING POINT                       DOWN                UP          NOTES
+
+Birmingham New Street to Five      3*                  3           * Where the first train is longer than 6 x 23 metre
+Ways (inclusive)                   2+                              length overall
+                                                                   + Where the first train is NOT longer than 6 x 23
+                                                                   metre length overall AND does not stop at Five
+                                                                   Ways. The second train must stop at Five Ways.
+                                                                   The third train must depart/pass Birmingham New
+                                                                   Street at 4 minute headway. This revised headway
+                                                                   can be applied on two occasions in a clock face
+                                                                   hour.
+Five Ways (exclusive) to Kings     4#                  4$          # Reduced to 3 minutes at Kings Norton if
+Norton                                                             preceding train is a CrossCity service moving to
+                                                                   Slow Line
+                                                                   $ See margins in Section 5.3 as reduced headway
+                                                                   is possible at University Station in the Up direction’
+Kings Norton to Barnt Green        3 Fast              3 Fast      * Applies where Slow Lines exist
+                                   Lines               Lines       # Applies on Down Gloucester Goods Longbridge
+                                   4 Slow              4 Slow      to Cofton Jn
+                                   Lines *             Lines *
+                                   5 Goods #
+Barnt Green to Ashchurch           3*                  3*          * 4 applies following freight
+
+
+MD310 BARNT GREEN TO REDDITCH
+TIMING POINT                            DOWN           UP         NOTES
+
+Barnt Green to Alvechurch                          *              * Single line - One Train in Section (OTS)
+Alvechurch to Weights Lane Jn                      *              * Passing point on Single line. Only one train in each
+                                                                  direction can be planned on this section at the same
+                                                                  time.
+Weights Lane Jn to Redditch                        *              * Single line - One Train in Section (OTS)
+
+
+
+
+                               Electronic copy - uncontrolled when printed

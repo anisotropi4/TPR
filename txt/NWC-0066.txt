@@ -1,0 +1,53 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                      Page:   54 of 443
+
+
+MD710 NEASDEN SOUTH JN TO HARROW ON THE HILL
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Neasden South Jn                        –                            To/from Marylebone – MD701
+                                                                     To/from Neasden Jn – EA1360 Refer to
+                                                                     Anglia Timetable Planning Rules
+Network Rail/LUL Boundary
+Lines between 9 miles 13 chains and 25 miles 21 chains are maintained and controlled by LUL. Timing points
+Harrow on the Hill to Mantles Wood (inclusive) are shown for completeness but are not part of MD710
+Harrow on the Hill                       –            –
+Watford South Jn (MET)                   –            –
+Rickmansworth (MET)                      –            –
+Chorleywood                              –            –
+Chalfont and Latimer                     –            –
+Amersham (MET)                           –            –               To/from Mantles Wood – MD712
+
+
+MD712 AMERSHAM TO AYLESBURY
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Mantles Wood                            –            –               Network Rail/LUL Boundary
+                                                                     To/from Amersham – MD710
+Great Missenden Signal ME769            –                     S      For shunt moves from Up to Down line
+Great Missenden                         –            –
+Wendover                                –            –
+Stoke Mandeville                        –            –
+Aylesbury Jn                                                         To/from Little Kimble – MD720
+Aylesbury                                            –               Platform detail must be shown
+                                                                     To/from Aylesbury Vale Parkway – MD725
+                                                                     MD726
+
+
+MD715 NEASDEN SOUTH JN TO NEASDEN JN
+TIMING POINT                        DOWN        UP         CODE      NOTES
+
+Neasden South Jn                        –            –               To/from Wembley Stadium – MD701
+                                                                     To/from Harrow on the Hill – MD710
+                                                                     To/from Marylebone – MD701
+Route Boundary: NW&C/Anglia
+Neasden Jn                              –            –        X      To/from Acton Canal Wharf - Refer to
+                                                                     Anglia Timetable Planning Rules –
+                                                                     EA1360
+
+
+
+
+                             Electronic copy - uncontrolled when printed

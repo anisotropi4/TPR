@@ -1,0 +1,56 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:     28th July 2023
+West and Central
+                                                                                       Page:     351 of 443
+
+Liverpool Central (Low Level)
+
+Other Restrictions
+Both platforms are bi-directional and services to Headbolt Lane, Ormskirk, Southport and Hunts Cross may depart
+from either platform. Services from Hunts Cross may only depart towards Sandhills from Platform 2. Permissive
+working does not apply.
+
+
+Paradise Jn
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Down train towards James Street pass             Down train depart/pass Liverpool Central           2
+Paradise Jn                                      towards Moorfields
+Down train from Liverpool Central arrive/pass    Down train depart/pass Liverpool Central           Same time
+Moorfields                                       towards James Street
+Down train from Liverpool Central arrive/pass    Up train depart/pass Paradise Jn towards           Same time
+Moorfields                                       Liverpool Central
+
+
+Moorfields (Low Level)
+
+Connectional Allowance               10
+
+Platform Reoccupation Time           2½
+
+
+Sandhills
+
+Dwell Time
+Southport to Hunts Cross and         1
+Hunts Cross to Southport services
+(crew change).
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Between all movements (limited to 2 x 2 minute                                                      2
+moves in succession).
+
+Platform End Conflicts
+Down train depart/pass Sandhills towards         Up train arrive/pass Sandhills from Bank Hall      2½
+Kirkdale
+Up train arrive/pass Sandhills from Bank Hall    Down train depart/pass Sandhills towards           2
+                                                 Kirkdale
+
+Platform Reoccupation Time           2½
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,59 @@
+                           OFFICIAL
+
+
+
+
+MD736     Oxford Parkway. Adjustments to Sectional Running Times,
+          heading corrected to 'Up' as approach control applies for trains in
+          the Up direction crossing to the Down platform (Platform 2)
+MD900     Worcester Through Sidings Ground Frame. Planning note added
+          for requirement of 3 minute OP stop for trains to/from Worcester
+          Hereford Sidings 5-7.
+NW1001    Stafford. Adjustment value for Up Slow to Platform 5/6
+          amended. Removal of one Up Adjustment as this was duplicated
+          at Norton Bridge.
+          Nine new junction margins added due to signal overlaps affecting
+          moves to platform 5 and 6 in both directions.
+          Norton Bridge. Adjustment in the Up has had the value increased
+          to 1 as ½ was not sufficient. The reason for application has been
+          amended to reference exact reason it is being applied.
+          Basford Hall Jn. 5 junction margins added based on moves to
+          Crewe Basford Hall Yard (Freightliner)
+          Crewe. Dwell time for loco hauled trains amended to 2 for all
+          types of LH services.
+          Crewe Coal Yard. Second Down adjustments removed. First
+          Down adjustment reason amended to Acceleration. Value
+          amended to 3 for Freight. Value amended on fourth Down
+          Adjustment for passenger to 1.
+          Up movement adjustments amended to simplify. Values
+          amended to 2 for all, removing the splits depending on service
+          type. Third adjustment removed as combined with second move.
+          Crewe Coal Yard. Two new junction margins based on moves
+          from the Down Independent Lines. First rule amended to Down
+          Slow move only. Value amended.
+          Farington Jn. Amended the First move on the fifth rule to say
+          crossing from Up Slow vice Down Slow.
+          Preston. Margin for first movement depart Platform 4 or 5 to Up
+          Fast followed by Up arrival into Platform 6 reinstated. This was
+          erroneously deleted in Version 2.1
+NW1007    Gresty Lane Jn. Removal of note for reference of requiring prior
+          authorisation.
+NW1009    Basford Hall Jn. Standage length in Up direction added.
+          Crewe Signal NH34/36. Amendment of planning rules
+          information for simplicity. The addition of SLU measurements
+          added where missed.
+          Crewe Sorting Sidings North SB. Planning rules note amended to
+          remove reference of prior agreement. Two new Junction Margins
+          values added.
+          Salop Goods Jn SB. Two new values added for Junction Margins.
+NW2015    Eccles. Junction margin added for a train departing from Up
+          Goods Loop following a passing service
+NW3007 Bidston. Minimum Turnround Time, added Class 197 and 230 to
+       the table
+NW3023 Greenbank. Removed junction margins as these are now timed at
+       Hartford C.L.C Jn.
+
+
+
+
+                              9

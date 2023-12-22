@@ -1,0 +1,62 @@
+NETWORK RAIL                               Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                            25th August 2023
+                                                                                      Date:
+                                            Timetable 2024                            Page:     90 of 168
+
+
+Rochester Bridge Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                        Reason                                          Value
+All freight trains which have passed through         Speed Differential                              ½ applied at
+Strood                                                                                               next timing
+                                                                                                     point
+
+Length Restrictions
+A train exceeding 151m/23SLU in length will foul 2276 points when standing at EK4703 on the Down North Kent
+Therefore, junction margins must be based on train’s departure/passing time at Rochester Bridge Junction. No
+allowances are permitted for any train over the above stated lengths
+
+
+Rochester
+
+Connectional Allowance                 4
+
+Berthing Facilities
+Location                                              Cars                            Notes
+Platform 3                                            12
+Up Loop                                               12
+Down Loop                                             12
+
+Limit of Shunt                                       Length Limit
+Up Chatham Main (clear of signal ER5)                10
+Up Passenger Loop (clear of signal ER3)              10
+
+Permissive working for attaching/detaching and platform sharing is authorised as shown below:
+Platform 3                         Down Rochester Loop                 Attaching/Detaching
+
+
+Chatham
+
+Connectional Allowance                 4
+
+Dwell Time
+All Services                           1
+
+
+
+Gillingham
+
+Dwell Time
+All Thameslink services                                                   1½
+
+Adjustments to Sectional Running Times
+Movement Down                                       Reason                                         Value
+All freight trains using all 60mph timing loads     Speed differential approaching Gillingham      1½
+which are routed via Gillingham Down
+Reception Line
+
+Berthing Facilities
+Location                                            Cars                                           Notes
+                                      Electronic copy - uncontrolled when printed

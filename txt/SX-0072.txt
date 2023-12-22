@@ -1,0 +1,43 @@
+NETWORK RAIL                         Timetable Planning Rules                    Version:   4.3
+Route: Sussex                        Final Rules for Subsidiary                  Date:      18th October 2023
+                                           Timetable 2024 OFFICIAL
+                                                                                 Page:      68 of 163
+
+SO250D FALCON JUNCTION TO LATCHMERE JUNCTION (NO 1)
+LINE/LOCATION              SECTION               CRITICAL           REMARKS
+                                                 TIMES SX
+Clapham Junction           Factory Junction      07.00 – 10.00      To and from Platforms 16 and 17 and
+                                                 16.00 – 19.00      Brighton Slow Lines
+
+
+SO500 LONDON VICTORIA TO BRIGHTON
+LINE/LOCATION              SECTION               CRITICAL           REMARKS
+                                                 TIMES SX
+
+Clapham Junction           Falcon Junction       07.00 – 10.00      To and From Platforms 16 and 17 and
+                                                 16.00 – 19.00      Brighton Slow Lines
+
+ROUTE SECTIONS
+LINE/LOCATION              SECTION               CRITICAL           REMARKS
+                                                 TIMES SX
+
+London Victoria / Three    It is intended to     06.00 – 21.00      In peak periods no more than 20 trains per
+Bridges                    restrict usage to     EWD                hour will be permitted on the fast Lines
+                           90% of capacity
+London Victoria and        The capacity is       SUNDAYS:           Two Track railway timetables on Sundays
+Balcombe Tunnel Junction   restricted to two     No more than       are detailed in the Engineering Access
+                           track railway         the current        Statement and also in section 6.3 Two-
+                                                 level of service   Track Timetable Railway of the Timetable
+                                                                    Planning Rules.
+
+
+SO645 BATTERSEA PARK TO PECKHAM RYE (ATLANTIC LINES)
+LINE/LOCATION              SECTION               CRITICAL           REMARKS
+                                                 TIMES SX
+Factory Junction           Factory Junction      07.00 – 09.45      From Longhedge Junction to
+                                                 16.00 – 19.00      Atlantic/Chatham Lines
+
+
+
+
+                             Electronic copy - uncontrolled when printed

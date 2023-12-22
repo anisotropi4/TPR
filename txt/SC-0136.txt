@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                         Version:    4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                Date:     28/07/2023
+                                                                                               Page:     131 of 242
+
+SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH)
+
+Edinburgh
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+Trains arriving in platforms 3-6 on top of        Approach control                                   1
+another train
+Trains arriving into South Loop Siding from       Approach control                                   1
+Abbeyhill Junction
+
+Connectional Allowance               10
+
+Dwell Time – Through trains
+MU                                   1½
+Mk IV & 80X                          4
+22X                                  3 (Increased to 4 if catering supplies are required to be replenished)
+Maximum standage time Through        60* ^
+Platforms
+Maximum standage time Bay            75 ^#
+Platforms
+Trains Stabling Overnight            Must not be diagrammed to arrive before 22:30^
+*With the exception of Sleeper services where capacity permits; to allow passengers to board significantly earlier than
+scheduled passenger services
+
+^ With the agreement of Network Rail, dwells & trains stabling overnight may exceed the maximum standage times
+stated where platform capacity permits and running additional ECS moves is considered to potentially have an adverse
+effect on overall network performance Network Rail reserve the right to apply the maximum standage times after it has
+been demonstrated to the relevant TOC through apporopriate discussion that leaving the train in the platform will have
+an adverse impact on capacity & performance.
+
+# Does Not Apply to South Loop Siding or 16 Mid Road
+
+Minimum Turnround - values can be reduced where prior agreement has been reached between Network Rail and
+Train Operators
+Loco change                          12
+Loco runround                        16
+ECS forming Passenger service        25
+LNER
+Passenger service forming ECS        20
+LNER
+Passenger service forming            34 (25 from Newcastle)
+Passenger service LNER
+ECS off/forming Avanti West          20
+Coast Trains
+Passenger service forming            30 However, values can be amended to 20 where specific agreement exists
+Passenger service Avanti West        between Network Rail and Avanti West Coast.
+Coast Trains
+TPE                                  20
+CrossCountry                         20 (10 if origin is in Scotland). However, values can be amended to 10 (5 if
+                                     origin is in Scotland) where specific agreement exists between NR and XC
+Passenger service forming            40 (20 if origin is Newcastle)
+Passenger service – Lumo
+Passenger service forming/formed     20
+by ECS – Lumo
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

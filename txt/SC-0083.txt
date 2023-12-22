@@ -1,0 +1,65 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules               Version:   4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024      Date:    28/07/2023
+                                                                                       Page:    78 of 242
+
+THE FOLLOWING INFORMATION SHOWS THE EXCEPTIONS TO THESE STANDARD VALUES
+ SC001 GRETNA JUNCTION TO GLASGOW CENTRAL (VIA BEATTOCK)
+
+ Gretna Jn
+
+ Please refer to Line of Route NW4001 (LNW Timetable Planning Rules)
+
+
+ Quintinshill
+
+ Junction Margins
+ First Movement                                    Second Movement                          Margin
+ Arrive Down Loop                                  Down train pass Gretna Junction          4
+ Down train pass signal MC863                      Depart Down Loop                         1
+ Arrive Up Loop                                    Up train pass signal MC862               4
+ Up train pass Gretna Junction                     Depart Up Loop                           1
+
+
+ Lockerbie UPL/DPL
+
+ Junction Margins
+ First Movement                                    Second Movement                          Margin
+ Train arrive in Loop                              Passenger train pass                     5
+ Train arrive in Loop                              Freight train pass                       6
+ Pass Lockerbie (Class 1, 2, 5, 9)                 Depart Loop                              2
+ Pass Lockerbie (Class 0, 4)                       Depart Loop                              3
+ Pass Lockerbie (Class 6, 7, 8)                    Depart Loop                              4
+
+
+ Lockerbie
+
+ Dwell Time
+ 390                                  1½
+ 397                                  1
+
+
+ Beattock UPL/DPL
+
+ Junction Margins
+ First Movement                                    Second Movement                          Margin
+ Train arrive in Up Loop                           Up Passenger train pass                  7
+ Train arrive in Up Loop                           Up Freight train pass                    8
+ Train arrive in Down Loop                         Down Passenger train pass                5
+ Train arrive in Down Loop                         Down Freight train pass                  6
+ Pass Beattock (Class 1, 2, 5, 9)                  Depart Loop                              2
+ Pass Beattock (Class 0,4)                         Depart Loop                              3
+ Pass Beattock (Class 6, 7, 8)                     Depart Loop                              4
+
+
+
+ Beattock Summit UPL/DPL
+
+ Junction Margins
+ First Movement                                    Second Movement                          Margin
+ Train arrive in Loop                              Passenger train pass                     5
+ Train arrive in Loop                              Freight train pass                       6
+
+
+                                     Electronic copy - uncontrolled when printed.

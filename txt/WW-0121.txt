@@ -1,0 +1,65 @@
+                                                          OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                           Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                          Date:    6th October 2023
+                                           Change Timetable 2024                                 Page:    118 of 289
+
+
+Turnround Allowances (From Paddington)
+DMU                                                             5
+Class 387/319/769                                               5
+Class 80X (5 car)                                               6
+Class 80X (9/10 Car)                                            8
+
+Junction Margins
+First Movement                                Second Movement                         Margin
+Down train pass on Up Relief to Up            Up train pass/arrive Platform 5         5
+Goods Loop
+
+Slough Up Goods Loop
+
+Adjustment to Sectional Running Time
+Movement                                             Reason                         Timing Load           Value
+Crossing into the loop from the down direction       Slow turnout speed into        All traffic           {1}
+                                                     the loop (25mph)
+
+Burnham
+
+Dwell Time
+Class 165/6                               ½
+
+Taplow
+
+Dwell Time
+Class 165/6                               ½
+
+Maidenhead East Jn
+
+Junction Margins
+First movement                                          Second Movement                                           Margin
+Passenger/ECS pass Maidenhead on Up Main                Passenger/ECS cross Maidenhead East Jn from               2½
+                                                        Down Main to Down Relief
+Passenger/ECS cross Maidenhead East Jn from             Passenger/ECS pass Maidenhead on Up Main                  2
+Down Main to Down Relief
+
+Planning Note
+It is not possible to add timing allowances between Maidenhead East Jn and Maidenhead as there are no
+intermediate signals, though {1} for permissive platform arrivals remains required. If an engineering allowance is
+required in a Down train approaching Maidenhead (see Section 5.5), and the train is also timed at Maidenhead
+East Jn, then the allowance should instead be applied at Maidenhead East Jn.
+
+Maidenhead
+
+Connectional Allowance                3
+
+Dwell Time
+80x                                    1½
+Class 165/6                            1
+Class 387/319/769                      1
+Class 345                              1*
+* 2 Minutes for a train terminating then running ECS in the same direction
+
+Turnround allowances                  16X/319/387/769           Class 80X (5 Car)          Class 80X (9/10 Car)
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024              Date:    28th July 2023
+West and Central
+                                                                                            Page:   224 of 443
+
+Bearley Jn
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+From Whitlocks End direction to Stratford          From Stratford to Hatton direction                  3 a)*
+                                                                                                       4 b)*
+From Stratford to Hatton                           From Whitlocks End to Stratford                     3
+From Hatton direction to Stratford                 From Stratford to Hatton direction                  3 a)*
+                                                                                                       4 b)*
+a) Stopping at Wilmcote
+b) Not stopping at Wilmcote
+* A train towards Hatton can wait at Bearley Jn at signal HS3488 for the single line from Hatton to clear if required.
+A stop must be shown at Bearley Jn in the schedule and the single line cannot be re–occupied until 2 minutes
+after the preceding train from the single line has passed Bearley Jn.
+
+
+Stratford Upon Avon
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                            5
+LH                                  25*
+LH shunting to a different platform 40
+
+* Does not apply to Chiltern Railways fixed formation loco hauled sets with DVT, use Standard Turnround
+
+
+MD425 TYSELEY SOUTH JN TO BEARLEY JN
+
+Yardley Wood
+
+Dwell time                                                  1
+
+
+Whitlocks End
+
+Adjustment to Sectional Running Times
+Movement Up                                                  Reason                                     Value
+Depart Platform 2 towards Tyseley                            Slow crossover                             ½
+
+Dwell Time                                                   1
+
+Platform End Conflicts
+The margin between a train leaving Platform 2 at Whitlocks End towards Shirley and the next train towards
+Stratford must be 4 minutes
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                                           5
+
+
+Henley In Arden
+
+Dwell Time                            1
+
+
+
+
+                               Electronic copy - uncontrolled when printed

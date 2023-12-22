@@ -1,0 +1,65 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                    Date:    6th October 2023
+                                          Change Timetable 2024                           Page:    211 of 289
+
+
+Lydney
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                   Reason                  Timing Load        Value
+From the Down Main to the Down Loop and    Slow turnout speed into All traffic        +{2}
+Up Main to the Up Loop                     the loop (15 mph)
+
+Dwell Time
+150 to 231 (Down platform)              1 (maximum)
+150 to 231 (Up platform)                1
+
+Level Crossing Restriction
+To prevent excessive level crossing barrier down-time, passenger trains stopped at Lydney in the Down direction
+only, to be advertised earlier by the amount of recovery / pathing allowances shown between Gloucester and
+Lydney.
+
+Chepstow
+
+Dwell Time
+150 to 170                              1
+
+Turnround allowances
+                                        DMU
+From Cardiff and beyond                 8
+
+Caldicot
+
+Dwell Time
+150 to 153                           1
+156 to 175                           1
+* See the note in route GW700 in section 5.2.1. Headway Values
+
+Severn Tunnel Junction
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                        Reason                      Timing Load         Value
+From Down Main to Down Relief prior to          Slow speed turnout with     Passenger and       {1½} #
+Severn Tunnel Junction                          approach control            ECS
+                                                                            Freight             {2} #
+# A quicker crossover of 70mph is available at Severn Tunnel Jn that would not require an adjustment allowance
+
+Dwell Time
+For all other entries, refer to GW900
+
+GW730 SHREWSBURY SUTTON BRIDGE JUNCTION TO NEWPORT
+MAINDEE WEST JUNCTION (NORTH AND WEST LINE)
+
+English Bridge Junction
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                        Reason                       Timing Load           Value
+ Trains towards Abbey Foregate Jn               Approach control             All                   {1}
+If a train of over 38SLUs is stopped at Abbey Foregate Jn in the Wellington direction, then a 3 minute margin must
+apply from the train departs Abbey Foregate to the next train passing English Bridge Jn. This is to mitigate against
+the length of train fouling the junction.
+
+                                    Electronic copy - uncontrolled when printed.

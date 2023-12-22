@@ -1,0 +1,55 @@
+NETWORK RAIL                            Timetable Planning Rules                          Version:   4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024              Date:    28th July 2023
+West and Central
+                                                                                             Page:   276 of 443
+
+Preston
+
+Arrive Platform 4 or Platform 5 in Up Direction      Arrive Platform 6 in Up Direction                 Headway ^
+                                                     Arrive Platform 6 from Down Fast or Down          Parallel *
+                                                     Slow
+Depart Platforms 4 or 5 via DFL in Up Direction      Arrive Platform 6 in Up Direction                 Parallel %
+Depart Platforms 4 or 5 to Up Fast                   Arrive Platform 6 in Up Direction                 3
+Depart Platform 6 to Up Fast                         Arrive Platforms 4 or 5 in Up direction           Parallel *
+Depart Platform 3C or Platform 4C to Up Slow         Depart from Platforms 4 or 5 to Up Fast           Parallel **
+                                                     Depart from Platforms 4 or 5 to Up Slow           Headway
+Arrive Goods Loop in Up direction                    Arrive Platform 6 in Down direction               3
+Arrive Goods Loop in Up direction                    Depart Platform 6 in Down direction               1
+
+* Must be no conflicting movement to/from Platforms 3C or 4C. If there is a conflicting movement margin of 3
+applies
+^ Must be no conflicting movement to/from Platforms 3C or 4C. If there is a conflicting movement margin of 3
+applies
+** Must be no conflicting arrival in Up direction to Platform 6. If there is a conflicting movement margin of 3 applies
+% Must be no conflicting movement to/from Platforms 2, 3, 3C or 4C. If there is a conflicting movement, margin of
+3 applies
+
+Planning Restrictions
+Trains consisting of 13 or more Mk3 vehicles* must use Platform 4 in the Down direction and Platform 3 in the Up
+direction. * Or the equivalent length of train consisting of Mk1 and 2 vehicles.
+
+A train in the Up direction cannot arrive in Platform 6 at the same time as a train is departing in the Up direction
+from Platforms 4 or 5. Except when the departing train departs via the Down Fast Line to Ribble Jn.
+
+Between the hours of 0001 and 0900 Sunday, trains are to be retimed with minimum dwell time at Preston station.
+E.C.S. trains are to be stabled away from running lines (in line with Engineering Access Statement requirements)
+
+Platform Reoccupation Time              4 except in the following instances:
+                                        3 minutes for same direction movements by multiple units following other
+                                        multiple units
+                                        6 minutes for trains occupying platforms 3 or 4 and approaching from
+                                        opposite directions
+
+Platform Standage
+A train of up to 470m can be held in Platform 3 clear of fouling other routes. This excludes any allowance for signal
+standback. Note this is longer than the useable length of the platform – see Section 5.4
+
+Splitting and Coupling of Units        In all platforms.
+Permitted                              The second unit may enter the same platform after 3 minutes if both units are
+                                       using the same approach route, after 2 minutes if using different approach
+                                       routes (e.g. Fast and Slow).
+
+
+
+
+                               Electronic copy - uncontrolled when printed

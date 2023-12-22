@@ -1,0 +1,66 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                    Date:    6th October 2023
+                                          Change Timetable 2024                           Page:    217 of 289
+
+
+Newtown
+
+Down DMU into Down platform                         Up DMU into Up platform                           2½
+Down DMU into Down platform                         Up Loco hauled into Up platform                   4
+Down Loco Hauled into Down platform                 Up DMU into Up platform                           3½*a
+Down Loco Hauled into Down platform                 Up Loco hauled into Up platform                   4*b
+Down DMU into Up Platform                           Up DMU into Down platform                         1½
+Down DMU into Up platform                           Up loco hauled into Down platform                 3
+Down Loco hauled into Up platform                   Up DMU into Down platform                         3
+Down Loco hauled into Up platform                   Up Loco hauled into Down platform                 5
+* This applies to down train comprising light locos and trains up to 120m long
+a 4 for over 120m
+b 4½ for over 120m
+
+Caersws
+
+Dwell Time
+Power                                 1
+
+Talerddig
+
+Dwell Time
+Power                                 1
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+DMU into Up loop                                   DMU passes on Down loop                            1½
+DMU into Up loop                                   Loco hauled passes on Down loop                    2½
+Loco Hauled into Up loop                           DMU passes on Down loop                            2½
+Loco Hauled into Up loop                           Loco hauled passes on Down loop                    3½
+
+The first train into Talerddig MUST use the up loop.
+
+Machynlleth
+
+Adjustments to Sectional Running Times
+Movement                                        Reason                                             Value
+Dovey Jn to Machynlleth                         Approach control for attaching moves               {2}
+
+Attachment Allowance                  5
+Detachment Allowance                  6
+Connectional Allowance                4
+Dwell Time
+Power                                 2
+
+Platform end conflicts
+First Movement                                     Second Movement                                    Margin
+Up DMU into Up platform                            Down DMU along/ from Down Loop into Down           1½
+                                                   platform
+Up DMU into Up platform                            Down Loco hauled along/ from Down Loop into        2
+                                                   Down platform
+Up Loco Hauled into Up platform                    Down DMU from Talerddig into Down platform         3½
+Up Loco Hauled into Up platform                    Down Loco hauled from Talerddig into Down          4½
+                                                   platform
+Platform end conflicts
+
+
+                                    Electronic copy - uncontrolled when printed.

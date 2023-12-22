@@ -1,0 +1,59 @@
+NETWORK RAIL                             Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                          Timetable 2024                            Page:        100 of 168
+
+
+Parks Bridge Junction
+Conflicts at Parks Bridge Junction
+
+Down cross towards Ladywell Jn                   Up pass from Hither Green on UKF            2
+Up pass from Hither Green on UKF                 Down cross towards Ladywell Jn              2
+
+Conflicts at Courthill Loop South Junction
+
+Down cross from DKS to DKF                       Up pass on UKS towards New Cross            2½
+Up pass on UKS towards New Cross                 Down cross from DKS to DKF                  1½
+Up cross from UKF to UKS                         Down pass on DKF towards Hither Green       1½
+Down pass on DKF towards Hither Green            Up cross from UKF to UKS                    2½
+Up cross from UKS towards Lewisham               Down pass on DKS                            1½*
+Down pass on DKS                                 Up cross from UKS towards Lewisham          2½
+*additional 1 minute required when freight is the first move
+
+
+Hither Green
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                             Value
+Freight passing towards Lee                        Approach control                                   ½
+Freight pass to Down Goods                         Speed differential approaching Hither Green        1
+                                                   Approach control
+
+Movement Up                                        Reason                                             Value
+Pass Up Slow to Up Fast                            Approach control                                   1
+
+Freight pass from Lee                               Speed Differential
+Up to 800t/TR55                                                                                       ½*
+1000t/TR70 or above                                                                                   1*
+*approaching next timing point
+
+Connectional Allowance               4
+
+Dwell Time
+All services (Up morning peak        1
+only)
+
+Length Restrictions
+A train exceeding 205m/32SLU in length will foul 911 points when standing at TL300 on the Up Hither Green
+Departure Road
+Therefore, junction margins must be based on train’s departure time at Hither Green
+
+Planning Note
+Trains may only be planned to call at Platform 1 during times of engineering work or other circumstances agreed
+in advance with the TOC. This is due to station staff needing to be present to unlock the anti-tresspass gates
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

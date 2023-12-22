@@ -1,0 +1,48 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                       Page:    173 of 443
+
+Denbigh Hall South Jn
+
+Pass Up Slow to Bletchley (Passenger)           Pass from East West Rail to Down Slow              4½
+Pass Up Slow to Bletchley (Freight)             (Freight)                                          5
+Pass from East West Rail to Down Slow
+                                                Pass Up Slow to Bletchley                          3½
+(Passenger)
+Pass from East West Rail to Down Slow
+                                                Pass Up Slow to Bletchley                          4
+(Freight)
+                                                Pass from East West Rail to Down Slow
+                                                                                                   4
+                                                (Passenger)
+Pass to Bletchley Carriage Sidings
+                                                Pass from East West Rail to Down Slow
+                                                                                                   6
+                                                (Freight)
+Pass from East West Rail to Down Slow
+                                                                                                   4
+(Passenger)
+                                                Pass to Bletchley Carriage Sidings
+Pass from East West Rail to Down Slow
+                                                                                                   4½
+(Freight)
+Pass from Bletchley Carriage Sidings            Pass Up Slow to Bletchley                          3½
+Pass Up Slow to Bletchley                       Pass from Bletchley Carriage Sidings               4½
+
+
+Denbigh Hall North Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                             Value
+Down Slow to Down Fast (Bletchley to Denbigh    Differential Junction speed                        1
+Hall North Jn)
+
+Movement Up                                     Reason                                             Value
+Up Fast to Up Slow (Denbigh Hall North Jn to    Differential Junction speed                        2
+Bletchley)
+
+
+
+
+                             Electronic copy - uncontrolled when printed

@@ -1,0 +1,64 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                        Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024               Date:    28/07/2023
+                                                                                              Page:    168 of 242
+
+Dunbar
+*Train capable of travelling at 85mph
+Operating Notes:
+
+All Scotrail Operated Services must be planned to use Platform 1 only
+
+
+Drem
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                           Value
+Down trains departing from Drem DPL between       For acceleration purposes                        2
+Drem and Longniddry/Prestonpans
+
+Movement Up                                       Reason                                           Value
+Up trains routed to Drem UPL between              Approach Control                                 2
+Prestonpans/Longniddry and Drem
+Up stopping trains using platform 1W              Approach Control                                 2
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Down train arr/pass from North Berwick            Up train pass                                    4
+Down train arr/pass from North Berwick            Depart to North Berwick                          1
+Down train arr/pass from North Berwick            Arrive from Edinburgh                            3½*
+Down train arr/pass from North Berwick            Arrive DPL                                       3
+Up train pass/depart                              Arr/pass from North Berwick                      3½
+Depart to North Berwick                           Up Pass                                          3½
+Arrive DPL                                        Arr/pass from North Berwick                      3
+Depart UPL to Dunbar                              Arr/pass from North Berwick                      3½
+Up non-stop passenger train pass Drem             Up train depart Drem UPL                         2
+Up arrive                                         Arr/pass from North Berwick                      5*
+Down non-stop passenger train pass Drem           Down train depart Drem DPL                       2
+Down pass                                         Arrive from North Berwick                        3
+*Margin can be simultaneous if arrival from Edinburgh shown to arrive on platform 1W
+
+
+
+Prestonpans
+
+Adjustments to Sectional Running Times
+
+Movement Up                                       Reason                                            Value
+Up trains to UPL                                  Approach control                                  2
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Up Class 1 train pass Prestonpans                 Up train depart Prestonpans UPL                   2
+
+
+Restriction
+Pathing time should not be inserted approaching Prestonpans in a Down train not stopping at Prestonpans if
+following a down train which is stopping at Prestonpans and/or Wallyford. This prevents the second train seeing
+restrictive aspects between Prestonpans and Monktonhall Junction
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

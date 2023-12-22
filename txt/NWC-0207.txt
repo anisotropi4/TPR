@@ -1,0 +1,49 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:   195 of 443
+
+Galton Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                           Value
+Trains towards Smethwick Jn                      Junction differential                            ½
+
+Movement Up                                      Reason                                           Value
+Trains from Smethwick Jn                         Slow speed junction                              ½ all
+                                                                                                  passenger
+                                                                                                  rolling stock
+                                                                                                  to be applied
+                                                                                                  approaching
+                                                                                                  Soho South
+                                                                                                  Jn
+Train departing Smethwick Galton Bridge not      Not at line speed by Galton Jn                   ½
+calling at Smethwick Rolfe Street                                                                 approaching
+                                                                                                  next timing
+                                                                                                  point (not
+                                                                                                  Class 730)
+
+Junction Margins
+Due to the restrictive length of the chord and overlap issues at Galton Jn, trains towards Soho Junctions from
+Smethwick Jn must not be planned to be held at Galton Jn itself. Use of suitable adjustment values must be used
+to hold the train at Smethwick Jn on route MD435 before crossing Galton Jn towards the Soho Junctions.
+
+
+Smethwick Galton Bridge Low Level
+
+Connectional Allowance            7
+
+Dwell Time
+Class 158                         1
+
+
+Sandwell & Dudley
+
+Dwell Time
+Class 158/197                     1
+Class 390/80x                     1½
+
+
+
+
+                             Electronic copy - uncontrolled when printed

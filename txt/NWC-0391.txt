@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                     Page:    379 of 443
+
+STATION                            PLATFORM         LENGTH      NOTES
+
+Crewe                              1                      335   In Down direction. Additional 21.8m beyond
+                                                                locomotive
+Crewe                              1                      313   In Up direction
+Crewe                              2                      160   Bay to Crewe South Jn
+Crewe                              3                       91   Bay to Crewe South Jn. Signal 73m beyond
+Crewe                              4                      132   Bay to Crewe South Jn. Signal 31.9m beyond
+Crewe                              5                      258   In Down direction. Additional 47.4m beyond
+                                                                locomotive
+Crewe                              5                      275   In Up direction. Additional 30.1m beyond
+                                                                locomotive
+Crewe                              6                      450   Down towards Winsford/Crewe Steelworks
+Crewe                              6                      315   Down towards Sandbach. Additional 5m from
+                                                                locomotive
+Crewe                              6                      390   Up from Winsford/Crewe Steelworks. Additional
+                                                                59.5m from locomotive
+Crewe                              6                      256   Up from Sandbach. Additional 59.5m from
+                                                                locomotive
+Crewe                              7                      155   Bay to Crewe South Jn
+Crewe                              8                      117   Bay to Crewe South Jn
+Crewe                              9                      204   Bay to Chester lines only
+Crewe                              10                      81   Bay to Crewe North Jn
+Crewe                              11                     310   In Down direction. Additional 20m from
+                                                                locomotive
+Crewe                              11                     301   In Up direction. Additional 29.1m from
+                                                                locomotive
+Crewe                              12                     436   In Down direction
+Crewe                              12                     427   In Up direction. Additional 8.5m beyond signal
+Croston                            Single                  76
+Cuddington                         Down                    79
+Cuddington                         Up                      87
+
+Daisy Hill                         2                      117
+Daisy Hill                         1                      117
+Dalston (Cumbria)                  Down                    75   Additional 79.3m unlined
+Dalston (Cumbria)                  Up                      80   Additional 67.2m unlined
+Dalton                             1                       88   Up line
+Dalton                             2                      101   Down line
+Danzey                             Up                     153
+Danzey                             Down                   154
+Darlaston                          2                      105
+Darlaston                          1                      105
+Darwen                             1                       94
+Darwen                             2                       94
+Davenport                          Down                   138
+Davenport                          Up                     142
+Deansgate (Manchester)             1                      151   Up line
+Deansgate (Manchester)             2                      155   Down line
+Delamere                           Down                    78
+Delamere                           Up                      77
+Denham                             1                      169
+Denham                             2                      163
+Denham Golf Club                   1                      168
+Denham Golf Club                   2                      165
+Dent                               Down                    94
+
+
+                             Electronic copy - uncontrolled when printed

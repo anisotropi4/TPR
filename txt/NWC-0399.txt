@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    387 of 443
+
+STATION                               PLATFORM      LENGTH      NOTES
+
+Liverpool Lime Street (Mainline)      7                   156
+Liverpool Lime Street (Mainline)      8                   156
+Liverpool Lime Street (Mainline)      9                   270
+Liverpool Lime Street (Mainline)      10                  267
+Liverpool Moorfields see Moorfields
+Liverpool South Parkway               1                   124   Up Fast line
+Liverpool South Parkway               2                   138   Down Fast line
+Liverpool South Parkway               3                   138   Up Slow line
+Liverpool South Parkway               4                   118   Down Slow line
+Liverpool South Parkway               5                   130   Up Southport
+Liverpool South Parkway               6                   130   Down Southport
+London Euston                         1                   398   Stopboard to Signal
+London Euston                         2                   376   Stopboard to Ramp
+London Euston                         3                   325   Stopboard to Signal
+London Euston                         4                   321   Stopboard to Signal
+London Euston                         5                   270   Stopboard to Signal
+London Euston                         6                   268   Stopboard to Signal
+London Euston                         7                   292   Stopboard to Signal
+London Euston                         8                   254   Stopboard to Signal
+London Euston                         9                   197   Stopboard to Signal
+London Euston                         10                  194   Stopboard to Signal
+London Euston                         11                  258   Stopboard to Ramp/Signal
+London Euston                         12                  293   Stopboard to Signal
+London Euston                         13                  304   Stopboard to Ramp
+London Euston                         14                  306   Stopboard to Signal
+London Euston                         15                  402   Stopboard to Ramp
+London Marylebone                     1                   227   Buffer stop to signal
+London Marylebone                     2                   242   Buffer stop to signal
+London Marylebone                     3                   242   Buffer stop to signal
+London Marylebone                     4                   128   Buffer stop to ramp
+London Marylebone                     5                   216
+London Marylebone                     6                   216
+Longbridge                            Down                150
+Longbridge                            Up                  170
+Longport                              Down                119
+Longport                              Up                  160
+Long Buckby                           Down                179
+Long Buckby                           Up                  181
+Long Preston                          Down                 92
+Long Preston                          Up                   72
+Lostock                               Down                156
+Lostock                               Up                  155
+Lostock Gralam (Cheshire)             Down                104
+Lostock Gralam (Cheshire)             Up                  101
+Lostock Hall (Lancashire)             Down                 84
+Lostock Hall (Lancashire)             Up                   84
+Lye                                   1                   119
+Lye                                   2                   120
+Lytham                                Single              103
+
+Macclesfield                          1                   305   Down Stoke
+Macclesfield                          2                   268   Up Stoke
+Macclesfield                          3                   268   Macclesfield Loop
+
+
+
+                             Electronic copy - uncontrolled when printed

@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:    267 of 443
+
+Hartford Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Down trains passing from CLC line to Down        Acceleration                                      1 After
+Slow                                                                                               Hartford Jn.
+
+Movement Up                                      Reason                                            Value
+Up trains crossing Up Fast to CLC line           Approach control                                  2 Before
+                                                                                                   Hartford Jn.
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Pass Up Fast to Up Main                          Depart from Up Slow to Up Main                    2
+
+
+Acton Bridge
+
+Adjustments to Sectional Running Times
+Movement Up                                      Reason                                            Value
+All trains timed over 110mph from Runcorn        Differential Junction Speed                       ½
+joining the Up Main at Weaver Jn
+All trains crossing FL to SL                     Reduced speed required                            1
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Pass Down Fast to Down Main                      Depart Down Slow to Down Main                     2
+
+Platform Reoccupation Time          4
+
+
+Weaver Jn
+
+Junction Margins
+First Movement                                 Second Movement                                     Margin
+Up train from Acton Grange Jn passes Weaver Up train from Runcorn passes Weaver Junction           3*
+Jn
+* The normal headway applies at the next mandatory timing point – see section 5.2
+
+
+Acton Grange Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Pass Down Main to Down Helsby                    Approach control and deceleration                 2
+
+                                                 Slow speed crossover and acceleration away        1
+                                                 from junction                                     Approaching
+                                                                                                   next timing
+                                                                                                   point
+Pass Down Helsby to Down Main                    Acceleration away from junction                   1
+                                                                                                   Approaching
+                                                                                                   next timing
+                                                                                                   point
+
+
+
+
+                              Electronic copy - uncontrolled when printed

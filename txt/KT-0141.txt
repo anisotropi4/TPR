@@ -1,0 +1,63 @@
+NETWORK RAIL                              Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                      OFFICIAL
+                                        Final Proposal for Subsidiary                           25th August 2023
+                                                                                      Date:
+                                           Timetable 2024                             Page:    137 of 168
+
+
+Hoo Junction
+For Freight departures from Hoo Junction in the up        Hoo Junction signal NK512 to be used (TIPLOC HOJ512)
+direction
+For Freight departures from Hoo Junction in the           Hoo Junction signal NK511 to be used(HOOJS11)
+down direction
+For freight departures from Hoo Junction towards          Cliffe signal NK509 to be used(CLFFD12)
+the Grain Branch
+For freight arrivals at Hoo Junction from the Grain       The TIPLOC (HOOJ) must be used and CLFFD12 must
+Branch                                                    not be used
+
+
+Hoo Down Yard
+
+Freight Length Restrictions                                                                          Length Limit
+                                                                                                     60 SLU
+
+
+ Hoo Up Yard
+
+ Freight Length Restrictions                                                                         Length Limit
+                                                                                                     67 SLU
+ Propelling Movements                                  Reason                                        Value
+ Propelling movements from Tonbridge                   Slow speed movement when propelling.          5
+ towards Tonbridge West Yard
+
+
+ Strood
+
+ Berthing Facilities
+ Location                          Cars        Notes
+ Up Platform Loop (Platform        8
+ 3)
+
+ Connectional Allowance            4
+
+ Dwell Time
+ 12 Car services in platform 2            1½
+ All other services                       1
+
+ ECS Working
+ ECS trains from Down Main Signal NK1630 running beyond Strood towards Gravesend are required to stand in
+ platforms 2 or 3 for 1 minute to ensure correct operation of ARS
+
+
+ Permissive working for attaching/detaching and platform sharing is authorised as shown below:
+ Platform 1                      Down North Kent                              Detaching only
+ Platform 2                      Up North Kent                                Prohibited
+ Platform 3                      Up Loop                                      Attaching/Detaching and Platform
+                                                                              Sharing
+ A second train must arrive in an occupied platform before the first train is allowed to depart
+
+ Overlap Restrictions
+ First Movement                                          Second Movement                                 Margin
+
+
+                                       Electronic copy - uncontrolled when printed

@@ -1,0 +1,45 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:      28th July 2023
+West and Central
+                                                                                     Page:      205 of 443
+
+Aston
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Train passes Aston from Stechford towards        Train passes Aston towards Proof House Jn        3
+Perry Barr North Jn
+Train passes Aston from Stechford towards        Train arrives or passes Aston from Proof         3
+Perry Barr North Jn                              House Jn towards Four Oaks
+Train departs or passes Aston towards Proof      Train arrives or passes Aston from Stechford     3½
+House Jn                                         towards Perry Barr North Jn
+Train passes Aston from Perry Barr North Jn      Train departs Aston towards Four Oaks            2
+towards Stechford
+Train passes or arrives Aston from Perry Barr    Train departs Aston towards Four Oaks            1
+North Jn towards Proof House Jn
+
+
+Perry Barr
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                             Value
+Pass Perry Barr towards Perry Barr West Jn      Junction differential                              1
+
+Movement Up                                     Reason                                             Value
+Pass Perry Barr from Perry Barr West Jn         Junction differential                              1 Applies at
+                                                                                                   next timing
+                                                                                                   point after
+                                                                                                   Perry Barr
+
+Dwell Time                           1 Peak (Up trains to Birmingham New Street 0700 – 0830 SX and Down
+                                     trains from Birmingham New Street 1600 – 1800 SX)
+
+Junction Margins
+First Movement                                  Second Movement                                    Margin
+Depart/Pass towards Bescot Stadium              Arrive/Pass from Perry Barr West Jn towards        4
+                                                Aston
+
+
+
+
+                             Electronic copy - uncontrolled when printed

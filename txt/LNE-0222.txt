@@ -1,0 +1,62 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version: 4.1
+London North Eastern                  Revised Final Rules for                     Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                 Page: 219 of 368
+
+
+New Clee
+
+Dwell Time
+Request stop only                 No dwell allowance
+
+
+Grimsby Docks
+
+Dwell Time
+Cleethorpes – Barton on Humber    ½
+services
+
+
+Grimsby Docks Loop
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Arrive Grimsby Town from Cleethorpes          Depart Loop for Cleethorpes                   Same Time
+Arrive Loop from Grimsby Town                 Depart Cleethorpes (non-stop)                 3 before Up
+                                                                                            train arrives in
+                                                                                            Loop
+Arrive Loop from Grimsby Town                 Depart Cleethorpes (stopping)                 Depart
+                                                                                            Grimsby
+                                                                                            Docks 3 after
+                                                                                            Up train
+                                                                                            arrives in
+                                                                                            Loop
+
+
+Grimsby Town
+
+Dwell Time
+Barton services                   1
+All other services                1½
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Arrive in Bay                                 Arrive from Cleethorpes                       3
+Arrive from Cleethorpes                       Arrive in Bay                                 3
+Arrive in Bay                                 Depart to Habrough                            1
+Arrive from Cleethorpes                       Depart to Cleethorpes                         1
+
+Minimum Turnround                 8 Barton services
+                                  10 Lincoln services
+                                  15 Doncaster/Newark and beyond
+
+
+Marsh Junction
+
+Junction Margins
+First Movement                                Second Movement                               Margin
+Pass to Grimsby                               Pass from Branch                              3
+Pass from Branch                              Pass to Grimsby (non-stop)                    5
+Pass from Branch                              Pass to Grimsby (stopping Great Coates)       3
+
+
+                                 Electronic copy - uncontrolled when printed.

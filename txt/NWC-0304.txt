@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:    292 of 443
+
+
+
+Chester DMU Depot
+
+Under normal circumstances trains arrive at DMU Depot at the station end of the depot, and depart from the
+Birkenhead end of the depot
+
+
+NW3003 CHESTER EAST JN TO ACTON GRANGE JN
+
+Frodsham Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                           Value
+All trains to Halton Jn via the Frodsham Single   Approach Control for lower speed diverging       1
+                                                  route
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Up train from Halton Jn to Frodsham               Down train from Frodsham towards Runcorn         3
+                                                  East
+Down train from Frodsham towards Runcorn          Up train from Halton Jn to Frodsham              3
+East
+
+
+NW3007 WREXHAM CENTRAL TO BIDSTON WEST JN
+For planning purposes Wrexham Central to Neston (exclusive) are shown in Western & Wales Timetable
+Planning Rules – NW3007
+
+Bidston
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Train movement over Down West Kirby line          Conflicting train movement from Down             2½
+                                                  Wrexham line
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Class 150/153/197 (2-car) Only                                                                     3
+Class 197 (3-car)/Class 230                                                                        4
+DMU/EMU – shunting to a different platform (services to/from West Kirby only)                      7
+
+
+NW3013 HOOTON SOUTH JN TO HELSBY JN
+
+Ellesmere Port
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Depart Up Platform towards Helsby.                Arrive Down platform from Hooton                 5
+Arrive Down platform from Hooton                  Depart Up Platform towards Helsby.               5
+Depart Down Platform towards Hooton               Arrive Up platform from Helsby                   5
+Arrive Up platform from Helsby                    Depart Down Platform towards Hooton              5
+
+
+
+
+                              Electronic copy - uncontrolled when printed

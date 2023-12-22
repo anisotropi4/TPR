@@ -1,0 +1,63 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                        Version:    4.1
+East Midlands                       Final Subsidiary Change Rules 2024                      Date:     13th September
+                                                                                                      2023
+                                                                                            Page:     11 of 123
+
+
+
+1.3.2 Days of Operation
+The following abbreviations are used to identify the day or days that a train operates.
+
+Abbreviation     Description
+M                Monday
+T                Tuesday
+W                Wednesday
+Th               Thursday
+F                Friday
+S                Saturday
+Su               Sunday
+EWD              Every Week Day (Monday to Saturday)
+Daily            Every day – ITPS will not accept this; there must be a separate entry for Sundays (Note –
+                 need to include reference to new ITPS processes).
+Suffixes
+O                Adding this indicates that the train will run only on that day or those days shown
+X                Adding this indicates that the train will not run on that day or those days shown
+
+General
+BHX              Denotes that this train does not run on a bank holiday
+
+
+1.3.3 Traction and Rolling Stock
+Abbreviation     Description
+15X              DMU classes 150/153/155/156/158/159
+17X              DMU classes 170 and 175
+180              DMU class 180
+22X              DMU classes 220/221/222
+360              EMU class 360
+810              Bi-Mode class 810
+DMU              Any diesel multiple unit (excluding classes 220/221/222)
+EMU              Any electric multiple unit
+ECS              Empty Coaching Stock includes empty diesel and electric multiple units.
+HST              Trains consisting of two Class 43 locomotives and Mk 3 passenger vehicles
+LH               A passenger or parcels train hauled or propelled by one or more locomotives
+LHCV             Locomotive hauled coaching vehicles
+Power            Passenger stock equipped with power operated external doors
+
+
+1.3.4 Line Codes
+Abbreviation     Description
+A                A Line
+B                B Line
+BP               Bypass Line
+C                C Line
+D                D Line
+DBH              Down Barrow Hill
+DBL              Down Broadholme Loop
+DCT              Down Canal Tunnel
+DER              Depot Exit Road
+DF               Down Fast
+DFL              Down Fast Line
+
+                                        Electronic copy - uncontrolled when printed.

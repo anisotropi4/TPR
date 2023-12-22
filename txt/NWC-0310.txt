@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version:     4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024        Date:      28th July 2023
+West and Central
+                                                                                        Page:   298 of 443
+
+Oxenholme Lake District
+
+Train passes CE45 on Down Windermere to          Train passes Oxenholme in Down direction          4
+Down Main
+Up train pass platform 1                         Up train depart platform 3                        2$
+Up train depart platform 1                       Up train depart platform 3                        3$
+Train from platform 3 to Up Main Line            Train movement over Down or Up Main Lines         5
+Train departs from platforms 1 or 3 to the Up    Train departs from the Up Goods Loop to the       3
+Main                                             Up Main
+Train departs from platform 3 to the Up Main     Train departs from signal CE45 on the Down        2
+                                                 Windermere to the Down Main
+Up train arrives Up Goods Loop                   Up train departs or passes Oxenholme              4
+
+$ A 4 minute headway applies at the next mandatory timing point
+
+Platform Reoccupation Margin                     3½, except as below:
+
+First Movement                                   Second Movement                                   Margin
+Train departs or passes platform 3 to the Up     Train departs from signal CE45 on the Down        2
+Main                                             Windermere to platform 3
+
+
+Grayrigg
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Arrive Up Goods Loop                            Up train pass to Oxenholme                        4
+Up train pass to Oxenholme                      Depart Up Goods Loop                              2
+Arrive Down Goods Loop                          Down train pass to Tebay                          4
+Down train pass to Tebay                        Depart Down Goods Loop                            2
+
+
+Tebay
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Between all conflicting movements, except:                                                        4
+Train pass to Shap or Grayrigg                  Depart Goods Loop                                 2
+
+
+Shap Summit
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                            Value
+Up train to Up Goods Loop                        Approach control and slow speed crossover         2
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Arrive Up Goods Loop                            Up train pass to Tebay                            4
+Up train pass to Tebay                          Depart Up Goods Loop                              2
+Arrive Down Sidings                             Down train pass to Harrison’s Sidings             4
+Down train pass to Harrison’s Sidings           Depart Down Sidings                               2
+Down departure of over 283 meters/44 SLU        Pass on Up or Down Mains                          4
+from Shap Summit Quarry departs Shap
+Summit
+
+
+                              Electronic copy - uncontrolled when printed

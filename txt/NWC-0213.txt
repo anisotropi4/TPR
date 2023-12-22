@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                        Page:    201 of 443
+
+Cofton Jn
+
+Junction Margins
+First Movement                                   Second Movement                                       Margin
+Pass or depart Barnt Green towards               Depart from Cofton Down Goods                         1
+Bromsgrove
+Pass or arrive Barnt Green towards Redditch      Depart from Cofton Down Goods                         2
+
+Planning Restriction
+Two trains can be planned to stand at Cofton Jn on the Down Goods provided the second train is less than 458m
+in length
+
+
+Barnt Green
+
+Adjustments to Sectional Running Times *
+Movement Down                                     Reason                                          Value
+All trains routed to Down Redditch (to            Approach control and junction differential      1
+Alvechurch)
+
+Movement Up                                       Reason                                          Value
+Non-stop trains from Up Redditch towards          Junction differential                           1 Applies at
+Longbridge                                                                                        next timing
+                                                                                                  point after
+                                                                                                  Barnt Green
+Depart from Barnt Green platform 3 to Up Slow     Junction differential                           ½ Applies at
+or Up Fast                                                                                        next timing
+                                                                                                  point after
+                                                                                                  Barnt Green
+* Adjustments apply only to trains formed of Class 730 EMU
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Down Main passing towards Bromsgrove             Depart Barnt Green to the Up Main from           2
+                                                 Redditch branch
+Non-stop train passes Barnt Green platform 1     Train departs Barnt Green platform 3             2
+on Up Gloucester Fast                            (Redditch branch) to the Up Gloucester Fast
+Depart Barnt Green to the Up Main from           Down Main passing towards Bromsgrove             3
+Redditch branch
+
+Dwell Time
+DMU                                             1
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                      5
+
+
+Bromsgrove
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                 Timing Load     Value
+Non-stop train to the Down Bromsgrove Loop      Flashing Yellows                       All Timing      ½
+via Platform 4                                                                         Loads
+Non-stop train to the Down Bromsgrove Loop      Slow speed junction                    All Timing      ½
+via Platform 3                                                                         Loads
+
+
+
+                             Electronic copy - uncontrolled when printed

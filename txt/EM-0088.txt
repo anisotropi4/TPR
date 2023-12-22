@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                       Version:   4.1
+East Midlands                       Final Subsidiary Change Rules 2024                     Date:    13th September
+                                                                                                    2023
+                                                                                           Page:    86 of 123
+
+Nottingham
+
+Adjustments to Sectional Running Times
+Movement Down                    Reason                                                                Value
+Arriving in occupied platform    Approach control                                                      1
+
+Attachment/detachment of Locomotives/Units
+EMR DMU/180/222                5 detach
+                               6 attach
+
+Connectional Allowance                8
+
+Dwell Time
+Without reversing
+All                                   2
+With reversing
+EMR DMU/180/222                       7
+Locomotive hauled                     20 run-round
+
+Minimum Turnround
+DMU                                   10
+EMR from Barton-under-                15
+Needwood or Derby Etches Park
+Locomotive hauled                     30
+
+Platform Constraint
+Due to permissive working rules, it is not possible for simultaneous arrivals and departures within platform 1, 3, 4,
+6, 7 i.e. an arrival in 6a and departure from 6b, or arrival in 6b and departure from 6a
+
+Planning Note
+Down direction (Eastbound)
+A train exceeding 200m in length will foul Mansfield Junction when pathing time is applied between Mansfield
+Junction and Nottingham. Therefore, junction margins must be based on trains’ arrival/pass time at Nottingham.
+
+Up direction (Westbound)
+A train exceeding 200m in length will foul Nottingham West Junction if held at Mansfield Junction or when pathing
+time is applied between Nottingham and Mansfield Junction. Therefore, junction margins must be based on trains’
+pass/departure time at Mansfield Junction.
+
+
+Nottingham (Western Side)
+
+Platform End Margins
+First Movement                                     Second Movement                                     Margin
+Depart platform 1 or 3 to any line                 Arrive platform 1 or 3 from Line A                  3½
+Depart platform 4, 5, 6 or 7 to Line B             Arrive platform 4, 5, 6 or 7 from Line A            4
+Depart platform 4, 5, 6 or 7 to Line C or D        Arrive platform 4, 5, 6 or 7 from Line A            4½
+Depart any platform to Line C or D                 Arrive any platform from Line B                     4½
+Depart any platform to Line A or B                 Any conflicting arrival from Line C                 3½
+Depart platform 1, 3, 4, 5 or 6 to Line D          Arrive any platform from Line C                     4½
+Depart platform 7 to Lines A, B or C               Arrive platform 7 from Line D                       4½
+Depart platform 7 to Line D                        Arrive platform 7 from any other line               4½
+Depart to the west from any platform               Conflicting departure to the west from any other    2
+                                                   platform
+
+
+
+
+                                          Electronic copy - uncontrolled when printed.

@@ -1,0 +1,52 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:      28th July 2023
+West and Central
+                                                                                        Page:     354 of 443
+
+Aintree
+
+Minimum Turnround Time – Trains changing direction at end of journey
+EMU shunting between arrival platform 2 and departure platform 1 for services from/to Liverpool      7
+Central only
+
+
+Maghull
+
+Minimum Turnround Time – Trains changing direction at end of journey
+EMU shunting between arrival platform 1 and departure platform 2 for services from/to Ormskirk       7
+only
+
+
+Town Green
+
+Minimum Turnround Time – Trains changing direction at end of journey
+EMU shunting between arrival platform 1 and departure platform 2 for services from/to Ormskirk       7
+only
+
+
+Ormskirk
+
+Other Restrictions
+Permissive working applies to the platform which can be accessed from Sandhills Jn
+
+Platform/Single Line                 4
+reoccupation
+
+
+NW8009 WALTON JN TO HEADBOLT LANE
+
+Walton Jn
+
+See entry under route NW8005 – Sandhills Jn to Ormskirk
+
+
+Fazakerley
+
+Junction Margins
+First Movement                                   Second Movement                                     Margin
+Up train arrive/pass Fazakerley                  Down train depart/pass Fazakerley                   Same time
+
+
+
+
+                             Electronic copy - uncontrolled when printed

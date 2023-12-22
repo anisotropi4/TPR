@@ -1,0 +1,68 @@
+                                                   OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                   Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable              12th September
+                                                                                 Date:
+                                               2024                                       2023
+                                                                                 Page:    128 of 183
+
+Hampstead Heath
+
+Platform Reoccupation                                                                       2½
+
+
+Finchley Road & Frognal
+
+Platform Reoccupation                                                                       2½
+
+
+West Hampstead
+
+Dwell Time                                                                                  1
+
+Platform Reoccupation                                                                       2½
+
+
+Brondesbury
+
+Platform Reoccupation                                                                       2½
+
+
+Brondesbury Park
+
+Platform Reoccupation                                                                       2½
+
+
+Kensal Rise
+
+Platform Reoccupation                                                                       2½
+
+
+Kensal Green Turnback Siding
+
+Capacity of Siding                                     207 metres. This equates to 2x 5 car EMU or 32 SLU
+Permissive Working for Splitting and Coupling of       In Turnback Siding
+Trains Permitted
+
+
+Kensal Green Junction
+
+Adjustment to Sectional Running Times
+Movement                                       Reason                                           Value
+Trains signalled towards Kensal Green          Approach controlled signal NL1036 due to         {½}
+Turnback Siding                                overlap on points
+
+Junction Margins
+Movement                                                                                        Margin
+Fouling move, except for those listed below                                                     2½
+First move                                     Second move                                      Margin
+Down NLL train passes towards Harlesden        Up NLL train passes from Willesden Jn High       4
+Junction                                       Level towards Kensal Rise
+Up NLL train passes from Willesden Jn High     Down NLL train passes towards Harlesden          1
+Level towards Kensal Rise                      Junction
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

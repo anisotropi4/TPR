@@ -1,0 +1,55 @@
+Network Rail                                          OFFICIAL                                        Version 4.0
+National                                                                                      Date: 28th July 2023
+                                       Final Proposal for Subsidiary Change 2024
+                                                 Page 35 of 114
+
+
+
+
+TIMING INFORMATION IN WORKING TIMETABLES
+
+  The timing load description depicts the particular combination of trailing weight and traction type used for timing
+  the train. The timing load used for any particular train is separate from and does not override the maximum load
+  applicable for the route and traction concerned as published by Railtrack.
+  To avoid excessively large numbers of different timing loads a banded approach has been adopted for loads in
+  regular use, with steps approximately every 200 tonnes. In some cases the Sectional Running Times (SRTs) may
+  be common to two or more timing load bands pending review of the data used to determine the timings.
+  The descriptions used reflect the limitation of 8 characters imposed by train planning systems. the following three
+  formats are currently used for freight timing load descriptions;
+
+  1.   Diesel hauled class 6, 7 and 8 trains (other than class 60 hauled - see below) without specifying
+       a particular traction class. The maximum trailing weight on which the timing is based can be
+       determined by reference to Timing Reference Matrix.
+
+
+                 45                                                                            TR70
+  Max speed of the train                 Indicates whether the timings             Timing reference number
+                                         incorporate RT3973 speed restrictions
+                                         B = Both (i.e. a Heavy Axle Weight
+                                         Container train)
+                                         C = Container
+                                         H = Heavy Axle weight train
+                                         - = Standard SRTs
+
+  2.   Used for Class 60 hauled services
+
+         60                            H                   60                     S                       12
+  Max speed of the         Indicates whether the   Loco class           Indicates whether        Trailing weight -
+  train                    timings incorporate                          the train is single      upper limit of a two
+                           RT3973 speed                                 or double headed         hundred tonne
+                           restrictions                                                          band (i.e. 12
+                                                                                                 indicates a weight
+                                                                                                 between 1001 and
+                                                                                                 1200 tonnes)
+                           B = Both (i.e. a Heavy Loco class number     S = Single headed        Where appropriate
+                           Axle Weight Container                        D = Double               a leading zero is
+                           train)                                       headed                   used . (e.g. 08
+                           C = Container                                                         represents 601-
+                           H = Heavy Axle weight                                                 800 tonnes)
+                           train
+                           - = Standard SRTs
+
+
+
+
+                                    Electronic copy – uncontrolled when printed

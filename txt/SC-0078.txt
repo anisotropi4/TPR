@@ -1,0 +1,67 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                           Version:   4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024                  Date:    28/07/2023
+                                                                                                   Page:    73 of 242
+
+SC203 INVERNESS TO WICK
+TIMING POINT                           DOWN         UP           NOTES
+
+RB: A following train must wait 1 minute for the train in front to clear the section and then 1 minute to carry out a
+token exchange before it can depart.
+
+Inverness – Clunes IB Signal                    RB*              Single Line.
+                                                                 *Long Section Token can be given between
+                                                                 Inverness and Muir of Ord in both directions if
+                                                                 avaliable.
+Clunes IB Signal – Muir of Ord                  RB*              Single Line
+                                                                 *Long Section Token can be given between
+                                                                 Inverness and Muir of Ord in both directions if
+                                                                 avaliable.
+Muir of Ord – Dingwall                          RB               Single Line
+Dingwall – Evanton IB Signal                    RB*              Single Line
+                                                                 *Long Section Token can be given between Dingwall
+                                                                 and Invergordon in both directions if avaliable.
+Evanton IB Signal - Invergordon                 RB*              Single Line
+                                                                 *Long Section Token can be given between Dingwall
+                                                                 and Invergordon in both directions if avaliable.
+Invergordon - Fearn                             RB*              Single Line
+                                                                 *Long Section Token can be given between
+                                                                 Invergordon and Tain in both directions if avaliable.
+Fearn – Tain                                    RB*              Single Line
+                                                                 *Long Section Token can be given between
+                                                                 Invergordon and Tain in both directions if avaliable.
+Tain – Ardgay                                   RB*              Single Line
+                                                                 *Long Section Token can be given between Tain
+                                                                 and Larig in both directions if avaliable.
+Ardgay – Lairg                                  RB*              Single Line
+                                                                 *Long Section Token can be given between Tain
+                                                                 and Lairg in both directions if avaliable.
+Lairg – Rogart                                  RB*              Single Line
+                                                                 *Long Section Token can be given between Lairg
+                                                                 and Brora in both directions if avaliable.
+Rogart - Brora                                  RB*              Single Line
+                                                                 *Long Section Token can be given between Lairg
+                                                                 and Brora in both directions if avaliable.
+Brora – Helmsdale                               RB*              Single Line
+                                                                 *Long Section Token can be given between Brora
+                                                                 and Forsinard in both directions if avaliable.
+Helmsdale – Forsinard                           RB*              Single Line
+                                                                 *Long Section Token can be given between Brora
+                                                                 and Forsinard in both directions if avaliable.
+Forsinard - Halkirk                       RB*            RB      Single Line
+                                                                 *Long Section Token can be given between
+                                                                 Forsinard and Georgemas Junction in the Down
+                                                                 direction if avaliable.
+                                                                 In the Up direction Georgemas Junction to Forsinard
+                                                                 is one section only.
+Halkirk – Georgemas Junction              RB*            RB      Single Line
+                                                                 *Long Section Token can be given between
+                                                                 Forsinard and Georgemas Junction in the Down
+                                                                 direction if avaliable.
+                                                                 In the Up direction Georgemas Junction to Forsinard
+                                                                 is one section only.
+
+
+
+                                     Electronic copy - uncontrolled when printed.

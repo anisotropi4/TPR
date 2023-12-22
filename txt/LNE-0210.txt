@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version: 4.1
+London North Eastern                     Revised Final Rules for                          Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                      Page: 207 of 368
+
+
+Nunthorpe
+
+First Movement                         Second Movement                         Margin
+Arrive from Middlesbrough              Depart to Middlesbrough                 1
+Arrive from Battersby                  Depart to Battersby                     1
+
+Minimum Turnround                    5 in same platform
+                                     3 at signal N1
+Restrictions:
+        A down train cannot pass Signal MW6993 whilst a train is on line to Nunthorpe, or occupying platform 2 at
+        Nunthorpe; if a down train needs to come onto the line in these circumstances, then the first train must
+        shunt to Platform 1, via signal N1. These shunt moves must be fully timed BUT cannot occur if a train is on
+        line between Nunthorpe and Battersby in either direction
+
+
+Great Ayton
+
+Dwell Time
+All                                  ½.
+
+
+Battersby
+
+Adjustments to Sectional Running Times
+Arriving when earlier train already in the        Calling on signal                                 ½
+platform
+
+Crossing/Reversing Margin                         First arriving train departs second               13½
+Example:
+1st Train arrive                                  arr. Xx.00
+2nd Train arrive                                  arr. Xx.05
+2nd Train depart                                  dep. Xx.08½
+1st Train depart                                  dep. Xx.13½
+
+Dwell Time
+All                                   5 (minimum required for train reversing and not crossing another service)
+Restrictions:
+    • Trains arriving from either direction can only be planned into the platform and NOT directly into the Run
+        Round loop
+    • Due to the operation of two Ground Frames, any run round must be allowed a minimum of 30 minutes.
+        When the locomotive is moving from the run round loop onto the east end of the train, the driver must be
+        in possession of the token for either the Glaisdale or Nunthorpe section; planners must satisfy themselves
+        that there are no trains moving in either direction on the relevant section
+Notes:
+    • Trains crossing at Battersby occupy the same section of track and platform and must have 5 minutes
+        between consecutive arrivals and departures due to TPWS requirements
+    • Trains passing do so by utilizing the permissive working on the platform line. Planners must satisfy
+        themselves of the lengths of both trains, and that they both can be accommodated according to the
+        platform length AND the distances quoted below
+    • Platform and runround loop, stop board to stop board = 175m
+    • Buffer stops to east end stop board = 325m
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

@@ -1,0 +1,63 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                  Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024         Date:    28/07/2023
+                                                                                        Page:    167 of 242
+
+
+Oxwellmains Crossovers
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                     Value
+Down trains from Oxwellmains Up or Down           For acceleration purposes                  2
+Sidings between Oxwellmains Crossovers and
+Dunbar
+
+Movement Up                                       Reason                                     Value
+Up train timed as 221 that has called at Dunbar   Acceleration                               ½*
+*To be applied approaching next timing point
+
+Junction Margins
+First Movement                                    Second Movement                            Margin
+Arrive Oxwellmains Lafarge                        Down Train Pass                            4
+Down train pass from Grantshouse                  Train depart terminal                      2
+Down train pass from Grantshouse                  Up train depart to Down Sidings            1
+Down Train pass from Up sidings                   Up trains pass (Passenger)                 3
+Down Train pass from Up sidings                   Up trains pass (Freight)                   4
+
+For trains to Up or Down Sidings
+                           ARR             DEP
+Dunbar dep/pass                            XX/XX
+Oxwellmains Crossovers     XXOP00          XXOP00½
+Oxwellmains Up or Down     XX:XX
+Sidings
+
+
+Dunbar
+
+Dwell Time
+80X TPE Only                          1½
+
+Minimum Turnround
+MU                                    5
+22x                                   5
+
+Adjustments to Sectional Running Times
+Movement Down                         Reason                                  Value
+Down train departing P1               Slow Speed Crossover                    ½*
+*To be applied approaching next timing point
+
+Junction Margins
+First Movement                                    Second Movement                            Margin
+Down arrival in Up Platform line                  Up non-stop via Up Main                    4
+Down departure from Up Platform line              Up non-stop via Up Main                    4
+Up departure from Up Platform line                Down arrival in Up platform                5
+Up arrival in up platform                         Up non-stop via Up Main                    5
+Up train pass travelling at linespeed*            Up train depart station                    2
+Up train pass                                     Down train depart Up Platform              1
+Down train pass travelling at linespeed*          Down train depart Up Platform              2
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

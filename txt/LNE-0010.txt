@@ -1,0 +1,62 @@
+ NETWORK RAIL                                   Timetable Planning Rules                                  Version: 4.1
+ London North Eastern                             Revised Final Rules for                                   Date: 12 October 2023
+                                             Subsidiary Change Timetable 2024                               Page: 7 of 368
+
+
+
+1.2 Sectional Appendices and Rule Book
+1.2.1 Sectional Appendix
+The Sectional Appendix to the Working Timetable and Books of Rules and Regulations shall be used.
+
+The Sectional Appendix is the sole source of information regarding the following:
+Electrification limits refer to relevant Table ‘A’
+Permissive Working refer to relevant Table ‘A’, then see below.
+Route Clearance refer to ‘tab’ associated with relevant Table ‘A’
+
+To identify the type of Permissive Working that applies at a given location refer to the appropriate Sectional Appendix
+Table A for that location. If there is authority for Permissive Working, this will appear in the Signalling and Remarks.
+There are different authorities that depend upon the signalling and layout of the location. The following list identifies
+the types of Permissive Working that will appear in the Sectional Appendix.
+
+Type               Description
+PP                 Permissive Working – full use for class 1, 2, 3 ECS, 5, 9 and 0 trains
+PP – A             Permissive Working – Attaching and Detaching use only for class 1, 2, 3 ECS, 5, 9 and 0 trains
+PP – C             Permissive Working – Contingency use only for class 1, 2, 3 ECS, 5, 9 and 0 trains
+PP – S             Permissive Working – Platform Sharing use only for class 1, 2, 3 ECS, 5, 9 and 0 trains
+PF                 Permissive Working for class 3 to 8 and 0 trains
+Source: Sectional Appendix – General Instructions – National – Explanation of Table A terms and symbols
+
+
+1.2.2 Rule Book
+The following Modules of the Rule Book GE/RT8000 affects all sections unless specified. The sections listed affect
+railway operations and train movements. The listed section does not apply to Train Planning directly, but its
+application will affect how trains operate, and it is for that reason the item appears here.
+
+ RULE BOOK MODULE                                         SECTION                              NOTES
+
+ G1 General safety responsibilities and                   5.5 Using the phonetic               Operational principles
+ personal track safety for non–track workers              alphabet;
+ OTM Working of on–track machines (OTM                    2.2 Before starting a                TTPR Section 4.6
+                                                          journey
+                                                          5.6 Carrying out a running           TTPR Section 5.1.2
+                                                          brake test
+ P1 Single line working                                   6.5 Warning anyone                   When planning Single Line Working
+                                                          working on or near the line
+                                                          used for single line working
+                                                          9.3 Right–direction
+                                                          movements
+                                                          9.4 Wrong–direction
+                                                          movements
+ S1 Signals and indicators controlling train                                                   Operational principles
+ movements
+ S2 Observing and obeying fixed signals                   3.1 Passenger train at a             Operational principles
+                                                          position–light, shunt–ahead
+                                                          or shunting signal
+
+ SP Speeds                                                2.4 Differential permissible         TTPR Section 5.1.2
+                                                          speed indicators
+                                                          2.5 Permissible speed                TTPR Section 5.1.2
+                                                          indicators with letters
+                                                          2.6 Enhanced permissible             TTPR Section 5.1.2
+
+                                             Electronic copy - uncontrolled when printed.

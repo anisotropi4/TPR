@@ -1,0 +1,64 @@
+NETWORK RAIL                        Timetable Planning Rules                     Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                   Page:    382 of 443
+
+STATION                          PLATFORM         LENGTH      NOTES
+
+Great Malvern                    Down                   135
+Great Malvern                    Up                     142
+Great Missenden                  1                      102   Up DOO
+Great Missenden                  2                      161   Down
+Green Lane                       1                      127   Down line
+Green Lane                       2                      128   Up line
+Green Road                       Down                    75   Additional 46.8m OOU
+Green Road                       Up                      75   Additional 47.6m OOU
+Greenbank                        Down                    82
+Greenbank                        Up                      77
+Greenfield                       Down                   115
+Greenfield                       Up                     157
+Grindleford                      1                       96
+Grindleford                      2                       92
+Guide Bridge                     Down                   147
+Guide Bridge                     Up                     152
+
+Haddenham & Thame                1 Up                   190
+Haddenham & Thame                2 Down                 190
+Hadfield                         Single                 109   Bay
+Hag Fold                         Down                    96
+Hag Fold                         Up                      96
+Hagley                           1 Down                 125
+Hagley                           2 Up                   122
+Hale (Cheshire)                  Down                   126
+Hale (Cheshire)                  Up                     131
+Halewood                         Down                   107
+Halewood                         Up                     107
+Hall Green                       Down                   154
+Hall Green                       Up                     154
+Hall i’ th’ Wood                 1                       92
+Hall i’ th’ Wood                 2                       94
+Hall Road                        1                      127   Up line. Additional 24m OOU
+Hall Road                        2                      151
+Hamilton Square (Birkenhead)     1                      124   Up line
+Hamilton Square (Birkenhead)     2                      119   Down line to Birkenhead Central
+Hamilton Square (Birkenhead)     3                      128   Down line to Conway Park
+Hampton In Arden                 Down                   184
+Hampton In Arden                 Up                     187
+Hamstead                         Down                   105   To Signal SB4641
+Hamstead                         Up                     129
+Handforth                        Down                   165
+Handforth                        Up                     165
+Hapton                           Down                    90   Additional 30.2m OOU
+Hapton                           Up                      91   Additional 29.5m OOU
+Harlesden                        Down                   123
+Harlesden                        Up                     123
+Harrington                       Down                    43   Additional 76.2m unlined
+Harrington                       Up                      43   Additional 76.6m unlined
+Harrow & Wealdstone              1                      121   Down DC
+Harrow & Wealdstone              2                      182   Up DC
+Harrow & Wealdstone              3                      246   Down Fast
+Harrow & Wealdstone              4                      246   Up Fast
+
+
+
+                           Electronic copy - uncontrolled when printed

@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024              Date:    28th July 2023
+West and Central
+                                                                                           Page:    193 of 443
+
+Birmingham New Street
+
+Down arrive platform 8B (short)                       Depart No.2 siding to Five Ways or Soho           1
+                                                      South Jn
+                                                      Arrive No.2 siding from Five Ways or Soho         3
+                                                      South Jn
+Down arrive platform 9B (short)                       Depart No.3 siding to Five Ways or Soho           1
+                                                      South Jn
+                                                      Arrive No.3 siding from Five Ways or Soho         3
+                                                      South Jn
+Up arriving Platform 11A (short)                      Down arrive Platform 12A                          4
+Up arrive platform 11A (short) or 12A                 Up depart platform 11A (short) or 12A             1
+Up arrive platform 12A                                Down arrive platform 11                           4
+N.B. Short refers to the platform up to the inner starter signal
+
+Platforming Maximum Length Trains:
+Two trains of maximum length must not be planned to share the same platform face simultaneously. Maximum
+length is Class 390, 15 Mk.2/13 Mk.3 vehicles and one locomotive or other type of stock of similar length.
+
+
+Platform Reoccupation
+Platform                              Margin
+Same direction                        3
+Opposite direction                    See table for platform end margin
+Platform 4C (Bay)                     3
+
+Platform End Margin
+Trains may arrive 1 minute before a departure or 3 minutes after a departure. Exceptions, see below table:
+
+First Movement                                      Second Movement                                         Margin
+Train arrives at A or B end of platform from any    Train arrives at the same platform but at               4
+route                                               opposite end
+Trains departing from A end of platform towards     Any conflicting arrival                                 4
+Five Ways or Soho Road
+Trains departing from B end of platform towards     Any Conflicting arrival                                 4
+Proof House Jn
+Train consist of 7 or more vehicles departing       Any conflicting arrival                                 4
+any platform
+Train consist of 4 or more vehicles departing via   Train arriving via DEL line platforms 7,8 & 9           4
+DEL line platforms from 7,8,9 & 10
+Train consist of 3 or fewer vehicles departing      Train arriving via DEL line platforms 7,8 & 9           3
+via DEL line platforms from 7,8,9 & 10
+Train consist of 4 or more vehicles departing via   Train arriving via DEL line                             4
+DEL line platforms from 11 &12
+Train consist of 3 or fewer vehicles departing      Train arriving via DEL line                             3
+via DEL line platforms from 11 &12
+Train departs platform 9 towards Proof House        Train arrives in platform 10 via Coventry lines         4
+Jn via Derby lines                                  from Proof House Jn
+Train departs platform 1 towards Soho South Jn      Arrival into any platform from Up Stour                 5
+Train departs towards Proof House Jn                Train arrives into platforms 1, 2 or 3 from Proof       5
+                                                    House Jn via A route
+Train departs platforms 5, 6, 7 or 8 towards        Arrival into platforms 5 to 12 from the Selly           5
+Selly Oak direction                                 Oak direction
+Train departing towards Soho South Jn from all      Trains arriving onto platforms 10, 11 & 12 from         4
+platforms except platform 1                         Soho South Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,66 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                         Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                        Date:    6th October 2023
+                                         Change Timetable 2024                               Page:    146 of 289
+
+
+Exeter St Thomas
+
+Dwell Time
+Class 15x                              1
+
+Starcross
+
+Dwell Time
+Class 15x                              1
+
+Dawlish Warren
+
+Dwell Time
+Class 22x/80x London services                 1½
+Class 15x                                     1
+
+Junction Margins
+First Movement                                   Second Movement                             Margin
+Up stopping train arrives Platform 2             Up fast train passes UML (has not           2½
+                                                 called at Dawlish)
+Up stopping train arrives Platform 2             Up fast train passes UML (has called at     4
+                                                 Dawlish
+Up fast train passes UML (does not call at       Up stopping train departs Platform 2        2
+Starcross)
+Down stopping train arrives Platform 1           Down fast train passes DML (has not         2½
+                                                 called at Starcross)
+Down fast train passes DML                       Down stopping train departs Platform 1      2
+
+Platform Re-occupation                           4
+
+Dawlish
+
+Dwell Time
+22x                               1½*
+Class 80x                         1½
+Class 15x                         1
+* Dwell to be 2 minutes on Summer Saturdays (Periods E, F and G) for trains arriving between 09:00 – 18:00
+
+Teignmouth
+
+Dwell Time
+22x                                1½*
+Class 80x                          1½
+Class 15x                          1
+* Dwell to be 2 minutes on Summer Saturdays (Periods E, F and G) for trains arriving between 09:00 – 18:00
+
+Newton Abbot
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                          Reason                          Timing Load        Value
+Down train crossing to platform 3 Slower speed crossover          All                {½}
+
+Junction Margins
+First Movement                         Second Movement                                        Margin
+An Up departure from P1 or P2          A down arrival into P2 or P1                           4
+
+
+                                       Electronic copy - uncontrolled when printed.

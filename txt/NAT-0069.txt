@@ -1,0 +1,60 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                              Version 4.0
+National                                                                          Date: 28th July 2023
+                               Final Proposal for Subsidiary Change 2024
+                                            Page 68 of 114
+Type           Days   TID          Start Time       Origin                 Destination
+
+De-Icer        SX     8Y90         15:49           Horsham Up T.C.         Purley Down Sdgs
+De-Icer        SU     8Y90         17:09           Horsham Up T.C.         London Bridge
+De-Icer        SX     8Y90         22:48           Purley Down Sdgs        Horsham Up T.C.
+De-Icer        SO     8Y90         15:48           Horsham Up T.C.         Purley Down Sdgs
+De-Icer        SU     8Y90         23:21           London Bridge           Horsham T.C.
+De-Icer        SX     8Y90         05:20           Horsham Up T.C.         Horsham Up T.C.
+De-Icer        SO     8Y90         05:06           Horsham Up T.C.         Horsham Up T.C.
+De-Icer        SU     8Y90         06:35           Horsham Up T.C.         Horsham Up T.C.
+De-Icer        SO     8Y90         20:35           Purley Down Sdgs        Horsham Up T.C.
+De-Icer        SX     8Y91         17:00           Horsham Up T.C.         Horsham Up T.C.
+De-Icer        SO     8Y91         17:06           Horsham Up T.C.         Horsham Up T.C.
+De-Icer        SU     8Y91         16:10           Horsham Up T.C.         Horsham Up T.C.
+De-Icer        SX     8Y92         18:47           Horsham Up T.C.         Streatham
+De-Icer        SU     8Y92         16:40           Horsham Up T.C.         Streatham
+De-Icer        MSX    8Y92         02:03           Streatham               Horsham Up T.C.
+De-Icer        SO     8Y92         17:48           Horsham Up T.C.         Streatham
+De-Icer        MO     8Y92         00:09           Streatham               Horsham Up T.C.
+De-Icer        SU     8Y92         01:25           Streatham               Horsham Up T.C.
+De-Icer        SX     8Y93         19:00           Horsham Up T.C.         Preston Park
+De-Icer        SO     8Y93         13:58           Horsham Up T.C.         Horsham Up T.C.
+De-Icer        SU     8Y93         13:45           Horsham Up T.C.         Brighton
+De-Icer        MX     8Y93         00:19           Preston Park            Horsham Up T.C.
+De-Icer        SU     8Y93         19:03           Brighton                Horsham Up T.C.
+De-Icer        SX     3Y09         05:48           Horsham UP T.C.         Wimbledon E.M.U.D.
+Wessex
+RHTT           SU     3S80         16:22          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SO     3S80         06:17          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S80         06:16          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S80         15:15          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SU     3S81         16:24          Totton Yard              Totton Yard
+RHTT           SO     3S81         05:58          Totton Yard              Totton Yard
+RHTT           SX     3S81         05:53          Totton Yard              Totton Yard
+RHTT           SX     3S81         16:13          Totton Yard              Totton Yard
+RHTT           SU     3S82         14:25          Totton Yard              Totton Yard
+RHTT           SO     3S82         07:34          Totton Yard              Totton Yard
+RHTT           SX     3S82         06:11          Totton Yard              Totton Yard
+RHTT           SX     3S82         19:37          Totton Yard              Totton Yard
+RHTT           SU     3S83         15:51          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SO     3S83         03:59          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S83         03:47          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S83         16:17          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SU     3S84         07:40          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SO     3S84         15:29          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S84         05:15          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S84         16:29          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SU     3S85         17:03          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SO     3S85         05:32          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S85         05:22          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S85         16:58          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+RHTT           SX     3S86         05:22          Effingham Jn C.H.S.      Effingham Jn C.H.S.
+                             Electronic copy – uncontrolled when printed

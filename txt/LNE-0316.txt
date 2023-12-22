@@ -1,0 +1,57 @@
+NETWORK RAIL              Timetable Planning Rules                    Version: 4.1
+London North Eastern        Revised Final Rules for                     Date: 12 October 2023
+                       Subsidiary Change Timetable 2024                 Page: 313 of 368
+
+
+STATION                   PLATFORM      USABLE       NOTES
+                                        LENGTH
+
+MetroCentre               Down          100
+MetroCentre               Up            100
+Mexborough                Down          112
+Mexborough                Up            112
+Micklefield               Down          101
+Micklefield               Up            90
+Middlesbrough             Down          265
+Middlesbrough             Up            201
+Millfield                 Down          65
+Millfield                 Up            65
+Mirfield                  2             150
+Mirfield                  3             102
+Moorthorpe                Down          110
+Moorthorpe                Up            120
+Morley                    Down          117
+Morley                    Up            117
+Morpeth                   Down          232
+Morpeth                   Up            234
+Mytholmroyd               Down          122
+Mytholmroyd               Up            122
+Nafferton                 Down          80
+Nafferton                 Up            58
+New Barnet                Down Fast     177
+New Barnet                Down Slow     160
+New Barnet                Up Fast       165
+New Barnet                Up Slow       165
+New Clee                  Single        144
+New Holland               Single        43
+New Pudsey                Down          122
+New Pudsey                Up            122
+New Southgate             Down Fast     172
+New Southgate             Down Slow     172
+New Southgate             Up Fast       172
+New Southgate             Up Slow       172
+Newark Castle             Down          97
+Newark Castle             Down          97
+Newark Castle             Up            66
+Newark Castle             Up            66
+Newark North Gate         Down          255
+Newark North Gate         Passenger     302          Down direction
+                          Loop
+Newark North Gate         Passenger     238          Up direction
+                          Loop
+Newark North Gate         Up            255
+
+
+
+
+                       Electronic copy - uncontrolled when printed.

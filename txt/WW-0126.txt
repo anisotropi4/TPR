@@ -1,0 +1,68 @@
+                                                     OFFICIAL
+
+ NETWORK RAIL                         Timetable Planning Rules 2024                  Version:     4.1
+ Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                 Date:      6th October 2023
+                                          Change Timetable 2024                        Page:      123 of 289
+
+
+Reading
+A down train from Platform 12 towards Reading    An Up train from Down Feeder Relief towards          4½ minutes
+West Jn on Down Relief                           Platform 15
+A down train from Platform 13 towards Reading    An up train from Reading West Jn arriving at         4 minutes
+West Jn                                          Platforms 12/13
+A down train from Platform 14 towards Reading    An up train from Reading West Jn arriving at         4 minutes
+West Jn                                          Platforms 12 -14
+A down train from Platform 15 towards Reading    An up train from Reading West Jn arriving at         4 minutes
+West Jn                                          Platforms 12 -15
+A down train from Platforms 13-15 to Reading     An up train from Reading West Jn to Platforms        4 minutes
+Traincare Depot                                  13-15
+An up train from Platforms 12-15 towards         A down train from Kennet Bridge Jn to Platform       Standard Jn
+Kennet Bridge Jn                                 15                                                   Margin matrix
+                                                                                                      to apply at
+                                                                                                      Kennet
+                                                                                                      Bridge Jn
+An up train from Platforms 15 towards Kennet     A down train from Reading Southern Jn to             4 minutes
+Bridge Jn                                        Platforms 13-15
+An up train from Platforms 14 towards Kennet     A down train from Kennet Bridge Jn to                4 minutes
+Bridge Jn via Up Relief Line                     Platforms 14/15 or Reading Southern Jn to
+                                                 Platforms 13-15
+An up train from Platforms 13 towards Kennet     A down train from Kennet Bridge Jn or Reading        4 minutes
+Bridge Jn via Up Relief Line                     Southern Jn to Platforms 13-15
+An up train from Platforms 12 towards Kennet     A down train from Kennet Bridge Jn to Platform       Standard Jn
+Bridge Jn                                        12                                                   Margin matrix
+                                                                                                      to apply at
+                                                                                                      Kennet
+                                                                                                      Bridge Jn
+An up train from Platforms 13-15 towards         A down train from Kennet Bridge Jn to Platform       4 minutes
+Reading Southern Jn                              15
+An up train from Platforms 13/14 towards         A down train from Kennet Bridge Jn to Platform       4 minutes
+Reading Southern Jn                              14
+A down train from Kennet Bridge Jn to            An up train from Platform 12 to Kennet Bridge        1 minute
+Platforms 13/14 via Down Relief                  Jn
+A down train from Kennet Bridge Jn or Reading    An up train from Platform 13/14 to Kennet            1 minute
+Southern Jn to Platform 15                       Bridge Jn via Up Relief
+
+ Reading High Level Jn
+
+ Adjustment to Sectional Running Time (to be shown approaching location)
+ Movement                                  Reason                  Timing Load                  Value
+ Crossing from Up Main to Down Main or     Slower speed junction   80x / 387 / 319 /            {½}
+ Festival Line                                                     769 / 22x / 16x /
+                                                                   Class 4 freight
+
+ Adjustment to Sectional Running Time (to be shown after this location)
+ Movement                                       Reason                      Timing Load         Value
+ Reading to Reading High Level Junction         Not at line speed passing   Class 4 and 6       {½}
+ (ML or FVL) – having stopped at Reading        Reading High Level          1000t and 1200T
+                                                Junction
+                                                                            Class 4 and 6       {1}
+                                                                            1400T and
+                                                                            1600T
+                                                                            Class 6 1800T       {1½}
+                                                                            and 2000T
+                                                                            Class 6 2200T       {2}
+                                                                            and 2400T
+
+
+                                    Electronic copy - uncontrolled when printed.

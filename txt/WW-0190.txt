@@ -1,0 +1,63 @@
+                                                         OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules 2024                   Version:     4.1
+Western + Wales              Final Principal and Preliminary Proposal for Subsidiary
+                                                                 OFFICIAL                  Date:      6th October 2023
+                                             Change Timetable 2024                         Page:      187 of 289
+
+
+GW548 PARSON STREET JUNCTION TO PORTBURY
+
+Ashton Junction
+
+Junction Margins
+First Movement                                      Second Movement                          Margin
+Up train passing Ashton Junction                    Down train departing Ashton Junction     4
+Down train passing Parson Street                    Up train departing Ashton Junction       4
+                                                    Signal B335
+
+Ashton Junction Signal B335
+
+Dwell Time                                         2$
+$ To give up the single line token (up direction only)
+
+GW560 HEYWOOD ROAD JUNCTION TO FAIRWOOD JUNCTION VIA WESTBURY
+
+Westbury
+
+Adjustments to Sectional Running Times
+Movement                                                 Reason                              Timing        Value
+                                                                                             Load
+From Westbury Up/Down Yard towards                       Not at linespeed passing Westbury   All freight   {2}
+Hawkeridge Jn or Heywood Rd Jn                           Station.                            traffic       Approaching
+                                                                                                           next timing
+                                                                                                           point
+From Westbury P2 or 3 towards Warminster                 Slower speed crossovers             80x           {1}
+                                                                                                           approaching
+                                                                                                           next timing
+                                                                                                           point
+                                                                                             DMU
+                                                                                                           {½}
+                                                                                                           approaching
+                                                                                                           next timing
+                                                                                                           point
+
+Junction Margins*
+First Movement                               Second Movement                     Margin
+Up pass/depart                               Down conflicting pass/arrive        3^
+Down pass/arrive                             Up conflicting depart               2
+Up pass/arrive                               Down conflicting depart             1
+Down pass/depart                             Up conflicting pass/arrive          4
+*For moves at the Country end of Westbury Down Reception line refer to Westbury Yard Entry/Exit
+^Increase by 1 if first movement is to Heywood Road and second movement is from Heywood Road
+
+Overlap Restrictions
+First Movement                                   Second Movement                       Margin
+Up train arrive platform 3                       Down train to Up Reception or         3
+                                                 Westbury DMU Sidings (except
+                                                 from Up Trowbridge Siding)
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

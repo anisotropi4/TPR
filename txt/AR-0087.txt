@@ -1,0 +1,48 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                      Version:     4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                   12th September
+                                                                                       Date:
+                                               2024                                            2023
+                                                                                    Page:      84 of 183
+
+Stratford
+
+Connectional Allowance                           7
+
+Junction Margins for Stratford Central Junction
+Movements and Conflicting Moves                                                                     Margin
+Passenger Following Passenger                                                                       2
+Passenger Following Freight                   Standard (exceptions below)                           3
+Up Freight Pass Platform 10 to Channelsea Jn  Down Passenger Arrive Platform 10                     3½
+Up Freight Pass Platform 10 to Channelsea Jn  Up Passenger Arrive Platform 9                        2½
+Freight following Freight                     Standard (exceptions below)                           4
+Up Freight Pass Platform 10A to Channelsea    Down Freight Pass Platform 10A from                   4
+Jn                                            Channelsea Jn
+Freight Following Passenger                   Standard (exceptions below)                           3
+Down Passenger Depart Platform 10             Up Freight Pass Platform 10 to Channelsea Jn          2½
+Down Passenger Depart Platform 10             Down Freight Depart Stratford Signal L295             1½
+Up Passenger Pass from Orient Way             Up Freight Pass Platform 10 to Channelsea Jn          1½
+Up Passenger Pass from Orient Way             Down Freight Pass Platform 10A from                   3½
+                                              Channelsea Jn
+Down Passenger Pass to Orient Way             Down Freight Pass Platform 10A from                   2½
+                                              Channelsea Jn
+Down Passenger Pass to Orient Way             Up Freight Pass Platform 10 to Channelsea Jn          1
+Down Passenger Pass/Arrive Platform 10A       Up Freight Pass Platform 10 to Channelsea Jn          1
+from Liverpool Street
+Up Passenger Depart Platform 10A to           Down Freight Pass Platform 10A from                   3
+Liverpool Street                              Channelsea Jn
+
+Platform Reoccupation
+First Movement                                   Second Movement                                    Margin
+Platform 11
+Trains towards Liverpool Street                  Trains towards Temple Mills East Jn                3
+Platform 12
+Trains towards Liverpool Street                  Trains towards Temple Mills East Jn, applicable    6
+                                                 to trains from Liverpool Street
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

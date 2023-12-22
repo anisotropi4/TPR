@@ -1,0 +1,60 @@
+ NETWORK RAIL                                                         Timetable Planning Rules                                            Version: 4.1
+ Kent & HS1                                                                                OFFICIAL
+                                                                   Final Proposal for Subsidiary                                                    25th August 2023
+                                                                                                                                          Date:
+                                                                        Timetable 2024                                                    Page:            2 of 168
+
+
+
+                                                                                      Contents
+ Section                                                                         Page no.           Section                                                                       Page no.
+
+                                                                                                    4.4 Freight Train Load Limits .......................................... 53
+1 Introduction and General Notes ..................... 3
+                                                                                                    4.5 Freight Train Length Limits....................................... 53
+   1.1 Index of Routes ................................................................4
+                                                                                                    4.6 Driver Only Operation Limits ................................... 54
+   1.2 Sectional Appendices and Rule Book ....................6
+                                                                                                    4.7 Engineers’ Trains Restrictions ................................ 61
+       1.2.1 Sectional Appendix ................................................6
+                                                                                                  5 Running Times, Margins and Allowances 62
+       1.2.2 Rule Book...................................................................6
+                                                                                                    5.1 Sectional Running Times .......................................... 62
+   1.3 Definitions ...........................................................................8
+                                                                                                       5.1.1 Source of Current SRTs.................................... 62
+       1.3.1 Train Classification .................................................8
+                                                                                                       5.1.2 Method of Calculation ........................................ 62
+       1.3.2 Days of Operation................................................ 15
+                                                                                                       5.1.3 New and Revised Sectional Running Times62
+       1.3.3 Traction and Rolling Stock ............................... 16
+                                                                                                       5.1.4 Timing of Trains Consisting of Passenger
+       1.3.4 Line Codes ............................................................. 16
+                                                                                                       Vehicles on Goods Lines ............................................. 63
+       1.3.5 Activity and Other Codes .................................. 19
+                                                                                                    5.2 Headways ........................................................................ 64
+
+2 Route Description ............................................. 21                                   5.2.1 Headway Values .................................................. 64
+
+   2.1 Planning Geography ................................................... 21                       5.2.2 General Capacity Constraints ........................ 76
+
+   2.2 Route Opening Hours ................................................. 51                     5.3 Junction Margins and Station Planning Rules . 78
+
+                                                                                                    5.4 Platform Lengths ........................................................ 149
+3 Electrification....................................................... 52
+                                                                                                       5.4.1 Loop Lengths ...................................................... 161
+   3.1 Electrification Limits ..................................................... 52
+                                                                                                    5.5 Timing Allowances .................................................... 164
+   3.2 Electrification Supply Restrictions ......................... 52
+                                                                                                  6 Timetabling Considerations ........................ 165
+4 Rolling Stock Restrictions .............................. 53
+                                                                                                    6.1 Advertised and Working Times............................ 165
+   4.1 Locomotive Route Availability ................................. 53
+                                                                                                    6.2 Timing of Light Locomotives ................................. 166
+   4.2 Passenger Stock Restrictions ................................. 53
+                                                                                                    6.3 Two-Track Timetable Railway .............................. 168
+   4.3 Freight Wagon Restrictions ...................................... 53
+
+
+
+
+                                                                Electronic copy - uncontrolled when printed

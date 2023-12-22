@@ -1,0 +1,64 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules                   Version:   4.1
+East Midlands                    Final Subsidiary Change Rules 2024                 Date:    13th September
+                                                                                             2023
+                                                                                     Page:   65 of 123
+
+Wellingborough
+
+Dwell Time
+DMU                                1
+180/222                            1½ 2 minutes in the Up morning and Down evening peak
+360                                1
+
+Planning Note
+No timing allowances should be applied between Wellingborough and either Wellingborough South Junction or
+Wellingborough North Junction as there are no intermediate signals
+
+
+Wellingborough North Junction
+
+Adjustment to Sectional Running Times
+Movement Down                                   Reason                                        Value
+Down Fast to Down Slow not stopping at          Flashing yellow approach                      ½ approaching
+Wellingborough                                                                                Wellingborough
+
+Junction Margins
+First Movement                                 Second Movement                                Margin
+Down Fast pass Wellingborough before           Up Fast passenger pass Wellingborough          4
+crossing to Down or Up Slow
+Down Fast pass Wellingborough before           Up Fast freight pass Wellingborough            5½
+crossing to Down or Up Slow
+Down Fast pass Wellingborough before           Up Fast passenger arrive Wellingborough        4½
+crossing to Down or Up Slow
+Down Fast to Down or Up Slow having stopped    Up Fast passenger pass Wellingborough          3½
+at Wellingborough
+Down Fast to Down or Up Slow having stopped    Up Fast freight pass Wellingborough            5
+at Wellingborough
+Down Fast to Down or Up Slow having stopped    Up Fast passenger arrive Wellingborough        4
+at Wellingborough
+Up Fast pass Wellingborough                    Down Fast to Down Slow passenger not           2
+                                               stopping at Wellingborough
+Up Fast pass Wellingborough                    Down Fast to Down or Up Slow freight           3
+Up Fast pass Wellingborough                    Depart Wellingborough Platform 1 to Down or    Same time
+                                               Up Slow
+Up Fast arrive Wellingborough                  Down Fast to Down Slow passenger not           2½
+                                               stopping at Wellingborough
+Up Fast arrive Wellingborough                  Down Fast to Down or Up Slow freight           3½
+Up Fast arrive Wellingborough                  Depart Wellingborough Platform 1 to Down or    -½
+                                               Up Slow
+Down Fast to Down Slow                         Up Slow to Up Fast                             3
+Depart Wellingborough Platform 3 to Down       Up Slow to Up Fast                             4½
+Slow
+Up Slow to Up Fast                             Down Slow pass Wellingborough                  2½
+Up Slow to Up Fast                             Down Slow depart Wellingborough Platform 3     1
+
+Planning Note
+No timing allowances should be applied between Wellingborough North Junction and Wellingborough as there are
+no intermediate signals
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

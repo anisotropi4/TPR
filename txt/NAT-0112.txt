@@ -1,0 +1,65 @@
+                                                                       OFFICIAL
+
+
+       Network Rail                                                                                                              Version 4.0
+       National                                                                                                          Date: 28th July 2023
+                                                 Final Proposal for Subsidiary Change 2024
+                                                             Page 111 of 114
+
+
+
+       Appendix K – Dwell Time Methodology Guide
+       Introduction
+ •     This guide has been designed to accompany the rounding methodology for Station Dwells
+       contained in Section 1.3 of the National Timetable Planning Rules
+
+ •     The guide has been split into two key topics:
+            • Data
+            • Consultation
+
+       This guide provides advice on how to use data and best practice for consultation when carrying out
+       a station dwell review
+
+ •     Normally, the starting point for a station dwell investigation will be performance data that suggests
+       that a dwell is currently not being met. This data should prompt further investigation to understand
+       why this result is being shown.
+
+ •     As expertise for the various solutions sit in multiple areas; a three-pronged approach should be
+       taken for the review involving; NR Capacity Planning, the Operator and NR Route Performance.
+
+ •     Working together will also ensure that the reviews are more effective and shared objectives are
+       agreed upfront. More details on collaboration are provided in the consultation section of this guide.
+
+ •     Only when it is known why a data source is returning the result, can the best solution be reached to
+       increase dwell adherence, or the performance data can be knowledgably discounted.
+
+ •     If new or, alternative rolling stock is introduced to a Line of Route then the standard values should
+       be reviewed, and any new values required should be published in the relevant route Timetable
+       Planning Rules.
+
+ •     There are many solutions to improving dwell adherence such as, but not exclusive to:
+            • Operational changes – including the dispatch process
+            • Changing the berth offsets1
+            • Amending other TPR values, such as SRTs
+            • Re-balancing dwells across a line of route
+            • Increasing the planned dwell
+
+
+Data
+
+
+
+
+       1 Berth offset values adjust time at signal to time at TIPLOC and are used in SMART, ODA, and Quartz data. Each station will have two
+       offsets – a departure offset which is a number of seconds taken for a train to reach the signal beyond a location, and an arrival offset
+       which is a number of seconds taken for a train to arrive at a location after passing the signal before the location.
+
+       The value is calculated as an average of all services passing that point during the period of observations. As the value is an average,
+       there are a number of variables that can affect the figure, most of which apply to the different mix of traffic using a location:
+
+                       •   Different traction types – different traction types have different maximum speeds, rates of braking and acceleration.
+                       •   Mix of stopping and passing services.
+                       •   Mix of passenger and freight services.
+                       •   Variations in driver behaviour.
+                       •   Different lengths of trains.
+                                              Electronic copy – uncontrolled when printed

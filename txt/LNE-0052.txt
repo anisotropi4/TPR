@@ -1,0 +1,56 @@
+NETWORK RAIL                      Timetable Planning Rules                    Version: 4.1
+London North Eastern                Revised Final Rules for                     Date: 12 October 2023
+                               Subsidiary Change Timetable 2024                 Page: 49 of 368
+
+
+LN804 TAPTON JUNCTION TO GASCOIGNE WOOD JUNCTION VIA SHEFFIELD
+TIMING POINT                    DOWN       UP         CODE     NOTES
+
+Swinton                         –          –                   To/from Mexborough – LN826
+Bolton upon Dearne              –          –          S
+Goldthorpe                      –          –          S
+Thurnscoe                       –          –          S
+Moorthorpe Down Loop            –          –          S
+Moorthorpe                      –          –                   To/from South Kirkby Jn – LN824
+Moorthorpe Signal L6586                    -          S
+Pontefract Baghill              –          –          S
+Ferrybridge South Junction                                     To/from Pontefract East Junction – LN882
+Ferrybridge North Junction      –          –                   To/from Knottingley – LN888
+
+Ferrybridge PowerGen                       –          S
+Ferrybridge HS                             –          S
+Ferrybridge NP Depot                       –          S
+Milford Jn                      –          –                   To/from Castleford – LN854
+                                                               To/from Church Fenton – LN854
+Milford West Sdgs               –          –          S
+Gascoigne Wood Junction         –          –                   To/from Hambleton West Jn – LN898
+
+
+LN806 TAPTON JUNCTION TO MASBOROUGH JUNCTION VIA ‘OLD ROAD’
+TIMING POINT                    DOWN       UP         CODE     NOTES
+
+Tapton Junction                 –          –                   To/from Chesterfield – LN3201
+Barrow Hill South Junction      – GL       –          X
+  Barrow Hill SS                –          –          S
+Barrow Hill North Junction      –          – SGL
+Foxlow Junction                 –          –          X
+  Westthorpe Run Round          –                     S
+Beighton Junction               – DGL      –                   To/from Woodhouse Junction – LN816
+Treeton Junction                –          –
+Canklow Loop                    –          –          S
+Masborough SS South Junction    –          –          XS
+ Masborough FD                             –          S
+Masborough Junction             –          –          X        To/from Aldwarke Jn – LN804
+
+
+LN807 DORE SOUTH JN TO DORE WEST JN
+TIMING POINT                    DOWN       UP         CODE     NOTES
+
+Dore South Jn                   –          –          XS       To/from Tapton Jn – LN804
+Dore West Jn                    –          –                   To Totley Tunnel East – LN808
+                                                               From Grindleford – LN808
+
+
+
+
+                               Electronic copy - uncontrolled when printed.

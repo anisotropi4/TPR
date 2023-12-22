@@ -1,0 +1,32 @@
+NETWORK RAIL                           Timetable Planning Rules                          Version: 4.1
+London North Eastern                     Revised Final Rules for                           Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                       Page: 355 of 368
+
+
+
+6 Timetabling Considerations
+6.1 Advertised and Working Times
+    It is not permissible for trains to be specified to be advertised to arrive before or depart after the booked times
+    stated in the working timetable (WTT).
+
+    It is permissible for trains to be specified to be advertised to depart before the booked times stated in the
+    working timetable in the following circumstances;
+
+    (i) Where the WTT departure time is delayed to achieve the required headway behind a preceding train or
+        margin following a conflicting move.
+
+    (ii) As an aid to punctual departure where this practice has been agreed between the Train Operator and
+         Network Rail.
+
+    By agreement between the Train Operator and Network Rail, trains may be specified to be advertised to arrive
+    after the booked times stated in the WTT. This agreement is used instead of engineering/performance
+    allowances.
+
+6.2 Timing of Light Locomotives
+    It is a general principle that all light locomotive movements will be timed. Any exceptions to this must be
+    agreed by the appropriate Operational Planning Manager.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

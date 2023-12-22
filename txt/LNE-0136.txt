@@ -1,0 +1,31 @@
+NETWORK RAIL                      Timetable Planning Rules                    Version: 4.1
+London North Eastern                Revised Final Rules for                     Date: 12 October 2023
+                               Subsidiary Change Timetable 2024                 Page: 133 of 368
+
+
+Conington South Junction
+
+Junction Margins
+First Movement                             Second Movement                                 Margin
+Up train cross to SL                       Before next Up fast train passes                4
+Cross Down to Up                           Before Down fast passes Holme                   5
+Cross Down to Up                           After Down fast passes Holme                    1
+Cross Down to Up                           After Up train passes                           2
+
+
+Holme Junction
+
+Adjustments to Sectional Running Times
+Movement Down                              Reason                                          Value
+After Holme Jn                             DS – DF when DF to Peterborough; differential   1 HST/180/
+                                           junction speed                                  225/80X
+
+Junction Margins
+First Movement                             Second Movement                                 Margin
+Pass DFL                                   Pass from DSL                                   2½
+Pass DFL                                   Depart from DSL                                 2
+
+
+
+
+                              Electronic copy - uncontrolled when printed.

@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024          Date:     28th July 2023
+West and Central
+                                                                                         Page:   329 of 443
+
+
+NW5019 GLOSSOP TO DINTING WEST JN
+
+Glossop
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Class 319 and 323 EMUs                                                                              3
+
+
+Dinting
+
+See entry under route NW5015 Hadfield to Ardwick Jn
+
+
+NW5021 GUIDE BRIDGE WEST JN TO STALYBRIDGE
+
+Stalybridge
+
+See entry under route NW7021 – Miles Platting Jn to Marsden
+
+
+NW6001 MANCHESTER PICCADILLY EAST JN TO EUXTON JN
+
+Manchester Piccadilly (Platforms 13 and 14)
+
+See entry under route NW5001 Crewe North Jn to Manchester Piccadilly
+
+
+Manchester Oxford Road
+
+Dwell Time
+LH/Class 22x/Class 390               2
+All other                            1½ Off-Peak (2 applies if booked a crew change)
+                                     2 Peak (Trains towards Manchester Piccadilly 0745 to 0900 SX and from
+                                     Manchester Piccadilly 1620 to 1800 SX)
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Depart to Deansgate                              Arrive/pass from Deansgate (conflicting move)      3
+Freight pass from Deansgate                      Depart to Deansgate (conflicting move)             2
+Depart any through platform                      Depart same through platform in opposite           simultaneous
+                                                 direction
+Arrive into any through platform                 Arrive into same through platform from             3
+                                                 opposite direction
+Arrive into platform 2 from Manchester           Arrive into platform 1 from Deansgate              2
+Piccadilly
+Arrive into platform 1 from Manchester           Arrive into platform 2 from Deansgate              2
+Piccadilly
+Arrive into platform 2 from Deansgate            Arrive into platform 1 from Manchester             3
+                                                 Piccadilly
+Arrive into platform 3 or 4 from Manchester      Arrive into platform 3, 4 or 5 from Deansgate      2½
+Piccadilly
+
+
+
+
+                              Electronic copy - uncontrolled when printed

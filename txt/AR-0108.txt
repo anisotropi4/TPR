@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                    Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable               12th September
+                                                                                   Date:
+                                               2024                                        2023
+                                                                                  Page:    105 of 183
+
+Parkeston Carriage Sidings
+
+ Siding       Length (m)       Length (SLUs)                             Comment
+    1            365                57           *Can accommodate up to 523m/81SLU by fouling No2 Siding
+    2            365                57           *Can accommodate up to 523m/81SLU by fouling No1 Siding
+    3            512                79
+    4            335                52
+    5            300                46
+    6            300                46
+
+
+Harwich International
+
+Single Line Reoccupation                                                                        Margin
+Reoccupation of single line towards Harwich Town                                                4
+
+
+EA1160 BETHNAL GREEN EAST JUNCTION TO BISHOP’S STORTFORD
+
+Bethnal Green
+
+Junction Margins
+First Movement                                   Second Movement                                Margin
+Depart/Pass Bethnal Green from Down              Arrive/Pass Bethnal Green from Up Suburban     3
+Suburban to Down Fast
+Arrive/Pass Bethnal Green from Up Suburban       Depart/Pass Bethnal Green from Down            1
+                                                 Suburban to Down Fast
+Pass Bethnal Green from Down Main to Down        Arrive/Pass Bethnal Green from Up Fast to Up   3
+Fast                                             Suburban
+Arrive/Pass Bethnal Green from Up Fast to Up     Pass Bethnal Green from Down Main to Down      1
+Suburban                                         Fast
+
+
+London Fields
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                         Value
+For trains that have reversed at London Fields   Slow speed move over crossover from Up         {½}
+Platform 1 towards Hackney Downs                 Suburban to down Suburban
+
+
+Hackney Downs
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                         Value
+Trains crossing from Down Fast Line to Down      Via slow speed crossover                       {1}
+Slow at Hackney Downs South Junction (for
+platform 4 Hackney Downs)
+Trains from Platform 4 at Hackney Downs          Via slow speed crossover                       {½}
+travelling towards Clapton via Hackney Downs
+North Junction. To be shown approaching next
+timing point
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

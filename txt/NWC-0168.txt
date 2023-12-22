@@ -1,0 +1,55 @@
+ NETWORK RAIL                            Timetable Planning Rules                         Version:   4
+ Region: North              Final Proposal for Subsidiary Change Timetable 2024             Date:    28th July 2023
+ West and Central
+                                                                                             Page:   156 of 443
+
+
+5.3 Junction Margins and Station Planning Rules
+Line of route
+The definition for Junction Margins and Station Planning Rules is listed in Section 6.6, 6.7 and 6.8 of the
+National TPRs.
+
+All times shown are in minutes. Where adjustments to sectional running times are shown, the value must
+be added to the normal SRTs shown in B Plan. Negative adjustments are specially identified.
+
+Minimum station allowances are the minimum practical for the particular type of stock. These are shown
+with exceptions being listed by line of route where applicable.
+
+Light engine movements, postal and test trains are to be treated as passenger trains when applying
+margins or allowances where there is a passenger/freight differential.
+
+ STANDARD VALUES – MINIMUM (APPLIES TO ALL ROUTES EXCEPT THOSE STARTING MD9XX)
+ Adjustment to Sectional Running Times
+ Movements                                               Reason                                        Value
+ Terminating trains arriving on half minutes in final    Station working                               ½
+ timing link (except trains terminating at Liverpool
+ Central and London Overground/LUL trains
+ terminating anywhere on MD120, MD137 or MD166)
+ CrossCountry schedules must depart from origin and terminate at destination on a whole minute. (This is due to
+ limitations with TOC Resourcing IT software called Integrale
+
+ Freight schedules must depart from origin on a whole minute. (This is due to TOPS requirements)
+
+ Connectional Allowance                 5
+
+ Attachment of Locomotives/Units
+ Class/Type                      Allowance
+ Class 22x                       7
+ Class 80x                       7 (Avanti West Coast)
+                                 8 (Transpennine Express)
+ DMU                             6, except:
+                                 GWR Class 165/166 DMU, 5
+                                 TfW Class 150/153/158/197, 5
+                                 XC Class 170, 4
+ EMU                             5
+ Locomotive                      10
+
+ Brake Testing
+ Running brake tests must be carried out at the first opportunity after beginning a journey/crew change. These
+ allowances are not necessarily listed at individual timing points. Additional adjustment time to allow for running
+ brake tests should be agreed between the respective Network Rail and Operator planners.
+
+
+
+
+                                Electronic copy - uncontrolled when printed

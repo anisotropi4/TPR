@@ -1,0 +1,52 @@
+NETWORK RAIL                         Timetable Planning Rules                       Version: 4.1
+London North Eastern                   Revised Final Rules for                        Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                    Page: 347 of 368
+
+
+LN752 WRAWBY JUNCTION TO MARSHGATE JUNCTION
+Timing Section                     Type    LH      MU      Freight   Remarks
+                                           HST     LL
+                                           EPU
+                                           22X
+
+Down – Weekdays
+Approach Scunthorpe Foreign Ore    E         1       1       1
+Branch Jn
+Approach Thorne Jn                 E         1               1
+Approach Doncaster                 E         1      1        1
+                                   P         3      2*               *1 minute for trains starting at Goole or
+                                                                     Scunthorpe
+Up – Weekdays
+Approach Scunthorpe                P                 1               Terminating trains only
+                                   E         1       1*      1       *Terminating trains Only
+Approach Wrawby Jn                 E         1               1
+
+
+LN758 BRANCLIFFE EAST JUNCTION TO KIRK SANDALL JUNCTION
+Timing Section                     Type    LH      MU      Freight   Remarks
+                                           HST     LL
+                                           EPU
+                                           22X
+
+Down – Sundays
+Approach St. Catherine’s Jn        E        15      15       15      Applies only to the first train on the route.
+Up – Sundays
+Approach Brancliffe Jn             E        15      15       15      Applies only to the first train on the route.
+
+
+LN766 BENTLEY JUNCTION TO HEXTHORPE JUNCTION (DONCASTER
+AVOIDING LINE)
+Timing Section                     Type    LH      MU      Freight   Remarks
+                                           HST     LL
+                                           EPU
+                                           22X
+
+Down – Sundays
+Approach Hexthorpe Junction        E         1       1       1
+Up – Sundays
+Approach Bentley Junction          E         1       1       1
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

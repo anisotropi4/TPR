@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                             25th August 2023
+                                                                                     Date:
+                                          Timetable 2024                             Page:     70 of 168
+
+
+SO260 BRIXTON JUNCTION TO SHORTLANDS JUNCTION (CATFORD LOOP)
+TIMING POINT                         DOWN                      UP                     NOTES
+
+ Road Junction                        3 Stopping                                       3 Following Freight
+                                                                                      UP
+                                                                                       *3 Following Freight
+ Crofton Road Junction –              2½ Non-Stopping *         2 Non-Stopping **     *DOWN
+ Shortlands Junction                  3 Stopping                3 Stopping             3 Following Freight
+                                                                                      **UP
+                                                                                       3 Following Freight
+
+
+SO280 FARRINGDON TO HERNE HILL
+TIMING POINT                         DOWN               UP                NOTES
+
+Farringdon – London Blackfriars      2½                 2½                Trains through the Thameslink Core are
+                                                                          planned on a depart to depart headway
+                                                                          with a 1 minutes dwell included.
+London Blackfriars - Southwark       2                  2
+Bridge Junction
+Southwark Bridge Junction -          3                  2* Non-Stopping   *Up Holborn to Up Holborn Slow only
+Herne Hill                                              3 Stopping
+
+
+SO280A LONDON BLACKFRIARS TO METROPOLITAN JUNCTION
+TIMING POINT                         DOWN          UP          NOTES
+
+London Blackfriars – Metropolitan
+                                        2½         2½
+Junction
+ETCS Level 2 operating within GTR trains will normally be operatational between Blue Anchor Junction and
+Blackfriars Junction via the Snow Hill Lines and lines 4 & 5. Special operational arrangements will need to apply
+for trains taking alternative routes between these locations. A 2 ½ minute headway is therefore allowed between
+consecutive trains operated by ETCS compatible rolling stock
+
+SO280B LOUGHBOROUGH JUNCTION TO CAMBRIA JUNCTION
+TIMING POINT                         DOWN          UP          NOTES
+
+Loughborough Junction – Cambria      2½            2½
+Junction
+
+
+SO280C LOUGHBOROUGH JUNCTION TO CANTERBURY ROAD JUNCTION
+TIMING POINT                         DOWN          UP          NOTES
+
+Loughborough Junction –              2½            2½
+Canterbury Road Junction
+
+
+SO290 NORTH KENT EAST JUNCTION TO DARTFORD JUNCTION (VIA
+GREENWICH)
+TIMING POINT                         DOWN                    UP                     NOTES
+
+ North Kent East Junction –           2½                     2 Non-Stopping
+
+                                    Electronic copy - uncontrolled when printed

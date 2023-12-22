@@ -1,0 +1,62 @@
+NETWORK RAIL                             Timetable Planning Rules                     Version: 4.1
+London North Eastern                       Revised Final Rules for                      Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                  Page: 200 of 368
+
+
+Thornaby
+
+Junction Margins
+First Movement                                      Second Movement                             Margin
+Pass from Bowesfield Junction to Down Main          Pass from Goods Line                        2½
+Pass from Bowesfield Junction to Down Main          Depart Signal TY198/TY194/TY197             1*
+Pass from Bowesfield Junction to Goods Line         Pass from Goods Line                        3
+Pass from Bowesfield Junction to Goods Line         Depart Signal TY198/TY194/TY197             1½^
+Arrive from Bowesfield Junction                     Pass from Goods Line                        2
+Pass from Goods Line                                Pass from Bowesfield Junction               3½*
+Pass from Goods Line                                Arrive from Bowesfield Junction             4*
+Pass from Goods Line                                Pass to Goods Line                          4*
+* If first train is 640m to be increased by ½
+^ If first trains is over 600m to be increased by ½
+Where the second movement is Pass from Goods Line this is based on the second train having yellow signals
+
+
+Newport East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                         Reason                                      Value
+Down Goods to Down Fast                               Acceleration                                1
+                                                                                                  1½ for freight
+                                                                                                  over 600m
+                                                                                                  To be applied
+                                                                                                  approaching
+                                                                                                  next timing
+                                                                                                  point
+Down Main to Down Slow                                Approach control                            1
+Movement Up                                           Reason                                      Value
+Up Fast to Up Goods                                   Approach control                            1
+Pass Up Slow to Up Main                               Acceleration                                1
+                                                                                                  1½ for freight
+                                                                                                  over 600m
+                                                                                                  To be applied
+                                                                                                  approaching
+                                                                                                  next timing
+                                                                                                  point
+
+Junction Margins
+First Movement                                        Second Movement                             Margin
+All Conflicting Moves                                                                             3*
+Down Main to Down Fast                                Up Fast to Up Goods                         2*
+Down Main to Down Fast                                Up Slow to Up Main                          2½*
+Down Main to Down Slow                                Up Fast to Up Goods                         2½^
+Down Main to Down Slow                                Depart Signal DS6875 to Down Fast           1½*
+Down Goods to Down Fast                               Down Main to Down Slow                      2½^
+Up Fast to Up Goods                                   Up Slow to Up Main                          3½*
+Up Slow to Up Goods or Up Main                        Down Goods to Down Fast                     3½*
+Up Slow to Up Main                                    Up Fast to Up Goods                         3½*
+* If first train is over 641m to be increased by ½
+^ If first trains is over 600m to be increased by ½
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

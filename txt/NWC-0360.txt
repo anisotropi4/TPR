@@ -1,0 +1,47 @@
+NETWORK RAIL                           Timetable Planning Rules                 Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024     Date:    28th July 2023
+West and Central
+                                                                                  Page:    348 of 443
+
+
+NW7021 MILES PLATTING JN TO MARSDEN
+
+Miles Platting Jn
+
+See entry under route NW7001 Manchester Victoria West Jn to Hebden Bridge
+
+
+Philips Park West Jn
+
+Adjustments to Sectional Running Time
+Movement                              Reason                                     Value
+Down train pass from Brewery Jn       Acceleration                               1
+Up train towards Brewery Jn           Approach control and deceleration          1
+
+Junction Margins
+First Movement                             Second Movement                       Margin
+Pass from Miles Platting towards Baguley   Depart from Up Brewery towards        1 minute after the first
+Fold Jn                                    Baguley Fold Jn                       train passes Baguley Fold
+                                                                                 Jn
+Pass to Brewery Jn                         Pass from Miles Platting              3 where 1st train is up to
+                                                                                 40 SLUs
+                                                                                 3½ >40 SLU up to 60 SLU
+                                                                                 4 over 60 SLU
+
+
+Baguley Fold Jn
+
+Adjustments to Sectional Running Time
+Movement                              Reason                                     Value
+Down train from Philips Park South Jn Acceleration                               ½ passenger
+                                                                                 1 freight up to 800t/TR40
+                                                                                 1½ freight 1000t/TR55
+                                                                                 and above
+Up train to Philips Park South Jn          Approach control and deceleration     1 passenger
+                                                                                 1½ freight
+Up train towards Brewery Jn                Approach control and deceleration     ½
+
+
+
+
+                              Electronic copy - uncontrolled when printed

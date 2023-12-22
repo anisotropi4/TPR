@@ -1,0 +1,65 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                    Date:    6th October 2023
+                                         Change Timetable 2024                           Page:    223 of 289
+
+
+
+Platform Re-occupation                3
+
+When 2 trains depart from Platform 2 in opposite directions after splitting, the departure times must be 2
+minutes apart.
+
+Radyr
+
+Connectional Allowance                3
+
+Platform Re-occupation                4*
+* Applies to Platforms 2 and 3 only. Where trains are using the Up Platform in the opposite direction, the minimum
+platform re-occupation time is 3 minutes.
+
+Trains running to the Llandaf line starting at Radyr cannot run from Platform 3.
+Trains running to the city line can only run from Platform 2 or 3.
+
+Services using Platform 2 arriving from Cathays require an additional ½ minute allowance to cater for slower line
+speed.
+
+Cardiff Queen Street
+
+Connectional Allowance                3
+
+Dwell Time for Cardiff Valley         1½
+150, 153, 231 and 769
+
+Junction Margin                       See Section 5.3.1
+Platform end conflicts
+First Movement                                     Second Movement                                   Margin
+Down train arriving at Platform 3                  Down train departing Platform 2 towards Cardiff   ½ minute
+                                                   Central
+Down Train departing or passing Platform 2         Down train arriving or passing Platform 3         3 minutes
+Down train arriving from Llandaf to Platform 2     Up train departing to Heath Junction from         1 minute
+or 3                                               Platform 4 or 5
+Down train departing from Platform 2 or 3 to       Up train arriving from Cardiff Central to         3 minutes
+Cardiff Bay                                        Platform 2
+Down train departing from Platform 2 or 3 to       Up train from Cardiff Central arriving into       3 minutes
+Cardiff Central                                    Platform 2
+Up train departing to Heath Junction from          Down train arriving from Llandaf to Platform 2    3 minutes
+Platform 4 or 5                                    or 3
+Up train departing or passing Platform 5           Up train arriving or passing Platform 4           3 minutes
+Up train from Cardiff Bay or Cardiff Central       Down departure from Platform 2 or 3 to Cardiff    1 minute
+Platform 8 arriving into Platform 4 or 5           Bay.
+Up train from Cardiff Bay or Cardiff Central       Down departure from Platform 2 or 3 to Cardiff    1 minute
+Platform 8 arriving into Platform 4 or 5           Central.
+Up train from Cardiff Central arriving into        Down train arriving into Platform 3               3 minutes
+Platform 2
+Up train from Cardiff Central arriving into        Down departure from Platform 3 to Cardiff         3 minutes
+Platform 2                                         Central or Cardiff Bay.
+
+Platform Re-occupation                3
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

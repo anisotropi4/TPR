@@ -1,0 +1,36 @@
+NETWORK RAIL                         Timetable Planning Rules                      Version:     4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024          Date:      28th July 2023
+West and Central
+                                                                                     Page:      165 of 443
+
+Sudbury Jn
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Freight Train from Up or Down Relief Lines, Up   Train departs Wembley Central towards             2½
+and Down Goods and Brent Reception Lines to      Willesden West London Jn on the Up Slow
+Down Slow
+Freight Train from Up or Down Relief Lines, Up   Train passes Wembley Central towards              3½
+and Down Goods and Brent Reception Lines to      Willesden West London Jn on the Up Slow
+Down Slow
+Passenger/ECS from Up or Down Relief Lines,      Train departs Wembley Central towards             1
+Up and Down Goods and Brent Reception Lines      Willesden West London Jn on the Up Slow
+to Down Slow
+Passenger/ECS from Up or Down Relief Lines,      Train passes Wembley Central towards              2
+Up and Down Goods and Brent Reception Lines      Willesden West London Jn on the Up Slow
+to Down Slow
+Train departs Wembley Central towards            Train departs from Up or Down Relief Lines,       1½
+Willesden West London Jn on the Up Slow          Up and Down Goods and Brent Reception
+                                                 Lines to Down Slow
+Train passes Wembley Central towards             Train departs from Up or Down Relief Lines,       1
+Willesden West London Jn on the Up Slow          Up and Down Goods and Brent Reception
+                                                 Lines to Down Slow
+Train departs Wembley Central towards            Train passes from Up or Down Relief Lines to      4½
+Willesden West London Jn on the Up Slow          Down Slow
+Train passes Wembley Central towards             Train passes from Up or Down Relief Lines to      4
+Willesden West London Jn on the Up Slow          Down Slow
+
+
+
+
+                            Electronic copy - uncontrolled when printed

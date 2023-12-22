@@ -1,0 +1,59 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                        Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024               Date:    28/07/2023
+                                                                                              Page:    194 of 242
+
+Kennethmont
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass from Huntly                                  Pass to Huntly                                    4
+Pass from Huntly                                  Depart to Huntly                                  2
+
+
+Huntly
+
+Dwell Time                           1
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                            Value
+Up train arriving into Platform 1                 Approach Control                                  ½
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Arrive from Keith                                 Arrive from Kennethmont                           2
+Arrive from Kennethmont                           Arrive from Keith                                 2
+Arrive from Kennethmont                           Depart to Kennethmont                             1
+Arrive from Keith                                 Depart to Keith                                   2
+Arrive from Keith                                 Pass to Keith                                     4½
+Arrive from Kennethmont                           Pass to Kennethmont                               3
+
+Note
+Trains use Platform 1 unless crossing another, when crossing all trains require {½} approaching Huntly from either
+Keith or Kennethmont due to Approach Control.
+If trains passing it is preferable for train from Keith to arrive first (driver phones to confirm train complete).
+Freight Yard (not in regular use). Max RR is 8 SLU; otherwise needs to be undertaken in Station (20 minutes is
+sufficient). Shunt keys required to pass beyond Loop ends, but cannot do so if train has been accepted from
+Keith and/or Kennethmont.
+
+
+Keith Loop
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass from Keith Station                           Depart to Keith Station                           1
+Pass from Huntly                                  Depart to Huntly                                  1½
+Arrive from Keith Station                         Arrive from Huntly                                2
+Arrive from Keith Station                         Pass from Huntly                                  3
+Arrive from Huntly                                Depart to Huntly                                  3½
+Arrive from Huntly                                Depart Keith Station to Huntly                    3
+Arrive from Huntly                                Pass from Elgin (not stopping Keith)              5
+
+Note
+Run round not possible if train has been accepted from Huntly and/or Elgin.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

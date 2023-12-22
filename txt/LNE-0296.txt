@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                             Version: 4.1
+London North Eastern                      Revised Final Rules for                              Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                          Page: 293 of 368
+
+
+Hull
+
+Dwell Time
+All                                   3 plus any differential allowance for arriving train
+
+Fueling allowances
+The following allowances must be made when fueling is required (only one trip at any one time)
+HST                                40
+2 cars                             10
+3 cars                             15
+4 cars                             20
+6 cars                             30
+8 cars                             40
+
+Junction Margins
+First Movement                                     Second Movement                                       Margin
+Arrive Platforms 4 to 7 from Selby or              Depart Platforms 1 to 3 or Station Sidings to         Same time
+Bridlington                                        Selby
+Arrive Platforms 1 to 3 or Station Sidings from    Depart Platforms 4 to 7 to Selby or Bridlington       1
+Selby or Bridlington
+Arrive from Selby                                  Arrive from Bridlington and vice versa                3
+Depart Platforms 1 to 3 or Station Sidings to      Depart Platforms 4 to 7 to Bridlington                Same time
+Selby
+Depart Platforms 4 to 7 to Selby               Depart Platforms 1 to 3 or Station Sidings to             3
+                                               Bridlington
+Depart to Selby                                Arrive from Selby or Bridlington                          4
+Depart to Bridlington                          Arrive from Bridlington                                   5
+Depart to Bridlington                          Arrive from Selby                                         4
+Arrive Signal 1005 or Arrive Headshunt         Arrive Hull Station or Station Sidings                    4
+ECS from Botanic Gardens must arrive 5 minutes in front of or behind where conflicts occur
+
+Minimum Turnround
+From Beverley                         7
+From Bridlington/Doncaster/           10
+Leeds/ Scarborough and York
+From Halifax                          15
+From beyond Doncaster/Leeds/          20
+York
+LNER 80X from Class 1 or 9 to         13
+ECS or ECS to Class 1 or 9
+
+Train Watering Points                 Available at the station
+
+Hull Station Sidings Lengths
+Siding A                              105 metres
+Siding B                              119 metres
+Siding C                              162 metres
+Siding D                              166 metres
+Siding E                              238 metres
+
+
+LN902 MICKLEFIELD JUNCTION TO CHURCH FENTON NORTH JUNCTION
+
+Church Fenton
+Refer to LN854
+
+                                    Electronic copy - uncontrolled when printed.

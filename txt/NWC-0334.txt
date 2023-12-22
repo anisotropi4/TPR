@@ -1,0 +1,58 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:    4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024           Date:     28th July 2023
+West and Central
+                                                                                        Page:     322 of 443
+
+Heald Green
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+Up trains not calling at Heald Green routed       Reduction of speed over junction                   ½ approach
+towards Manchester Airport                                                                           Heald Green
+Down trains not calling at Heald Green from       Acceleration to main line speed from junction      ½ After Heald
+Manchester Airport                                                                                   Green
+
+Junction margin
+First Movement                                    Second Movement                                    Margin
+Pass Heald Green from Styal                       Depart Heald Green to Manchester Airport           2
+
+
+Slade Lane Jn
+
+See entry under route NW5001 Crewe North Jn to Manchester Piccadilly
+
+
+NW5005 HEALD GREEN SOUTH JN TO HEALD GREEN WEST JN
+
+Heald Green South Jn
+
+See entry under route NW5003 Wilmslow to Slade Lane Jn (Styal Lines)
+
+
+Heald Green West Jn
+
+See entry under route NW5007 Manchester Airport to Heald Green North Jn
+
+
+NW5007 MANCHESTER AIRPORT TO HEALD GREEN NORTH JN
+
+Manchester Airport
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+Trains arriving at Manchester Airport on top of   Approach control                                   ½
+another train
+
+Other Restrictions
+Permissive working in each platform is only possible if:
+   1. The train occupying the ‘A’ end is no more than 4 cars
+   2. The second train arriving into the ‘B’ end is no more than 4 cars
+
+Platform end Conflicting Moves
+First Movement                                    Second Movement                                    Margin
+Train departing                                   Train arriving                                     4
+
+
+
+
+                               Electronic copy - uncontrolled when printed

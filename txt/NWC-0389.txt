@@ -1,0 +1,64 @@
+NETWORK RAIL                         Timetable Planning Rules                      Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                     Page:    377 of 443
+
+STATION                           PLATFORM         LENGTH      NOTES
+
+Bushey                            1                      134   Down DC
+Bushey                            2                      146   Up DC
+Bushey                            3                       91   Down Fast
+Bushey                            4                      207   Up Fast
+Bushey                            5                      246   Down Slow
+Bushey                            6                      246   Up Slow
+Butlers Lane                      Down                   151
+Butlers Lane                      Up                     151
+Buxton                            1                      165
+Buxton                            2                      143
+
+Canley                            Down                   168
+Canley                            Up                     168
+Cannock                           Down                    72
+Cannock                           Up                      72
+Capenhurst                        1                      139   Down line
+Capenhurst                        2                      142   Up line
+Cark & Cartmel                    Down                    93   Additional 45m OOU
+Cark & Cartmel                    Up                      85   Additional 71.5m OOU
+Carlisle                          1                      238   In Down direction. Additional 65.4m ‘loco stop’
+                                                               to
+Carlisle                          1                      334   In Up direction. Additional 49.2m foul of sidings
+Carlisle                          2                      105   Bay to Carlisle South Jn
+Carlisle                          3                      300   In Down direction. Additional 26.8m ‘loco stop’
+                                                               to
+Carlisle                          3                      268   In Up direction. Additional 40.2m ‘loco stop’ to
+Carlisle                          4                      409   In Down direction. Additional 21.4m foul of ‘C’
+                                                               siding
+Carlisle                          4                      349   In Up direction. Additional 44.5m ‘loco stop’ to
+Carlisle                          5                      166   Bay to Carlisle South Jn
+Carlisle                          6                      160   Bay to Carlisle South Jn. Additional 11m
+                                                               beyond signal
+Carlisle                          7                      141   Bay to Gretna Jn
+Carlisle                          8                      149   Bay to Gretna Jn. Additional 36m beyond signal
+Carlton                           Down                   131
+Carlton                           Up                     111
+Carnforth                         1                      182   In Up direction/turnback
+Carnforth                         2                      242   In Down direction
+Carnforth                         2                      200   In Up direction/turnback
+Carpenders Park                   Down                   128
+Carpenders Park                   Up                     128
+Castleton (Greater Manchester)    Down                   138
+Castleton (Greater Manchester)    Up                     144
+Chapel–en–le–Frith                Down                    92
+Chapel–en–le–Frith                Up                      86
+Chassen Road                      Down                   145
+Chassen Road                      Up                     145
+Cheadle Hulme                     1                      167   Down Wilmslow
+Cheadle Hulme                     2                      167   Up Wilmslow
+Cheadle Hulme                     3                      121   Down Stoke
+Cheadle Hulme                     4                      182   Up Stoke
+Cheddington                       1                      246   Down Fast
+Cheddington                       2                      246   Up Fast
+Cheddington                       3                      246   Down Slow
+
+
+                            Electronic copy - uncontrolled when printed

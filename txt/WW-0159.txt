@@ -1,0 +1,64 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                       Version:      4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                      Date:       6th October 2023
+                                         Change Timetable 2024                             Page:       156 of 289
+
+
+St. Erth
+Down services cannot depart until tail lamp clear given by Penzance. Under STP trains can move to St. Erth
+advanced starter in order to clear the platform.
+
+Penzance
+
+Turnround allowances
+                                    L/H       220      DMU/GWR Short        Class 80X (5    Class 80X (9/10 Car)
+                                              &        Form HST             car)
+                                              221      (HSTGW4)
+From Paddington and                 45        25       20*                  25              25
+Waterloo/Swindon/Bristol
+From North of Bristol (including    50        30       20*                  20* – Class 2
+South Wales)
+From Plymouth and West thereof      30                 10
+From St.Ives                                           5$
+From Bristol TM                                                             25 – Class 1    25
+                                                                            20* – Class 2
+From Plymouth                                                               15 – Class 1    20
+                                                                            10 – Class 2
+$ : 3 minutes, if not sequential. (DMU only)
+*Can be reduced to 10 by agreement with the operator
+
+GW174 WEST EALING TO GREENFORD WEST JUNCTION
+
+Drayton Green
+Platform End Margin
+First Movement                                      Second Movement                              Margin
+Passenger train from West Ealing to Drayton         Train (passenger or freight) from Drayton    1 minutes
+Green                                               Green
+Freight train from West Ealing to Drayton           Train (passenger or freight) from Drayton    2 minutes
+Green                                               Green
+
+GW180 HEATHROW AIRPORT JUNCTION TO HEATHROW TERMINALS 4 & 5
+Not Network Rail property from 12m 30c (tunnel portal), but controlled by Thames Valley Signalling Centre (TVSC)
+
+Heathrow Tunnel Junction
+
+Adjustment to sectional running times (shown approaching this location)
+Movement                           Reason                     Timing Load                        Value
+Down trains crossing from Down     Slow speed crossover       All                                {1}
+Airport to the Up Airport          (8214pts)
+Down trains crossing from Down     Slow speed crossover       All                                {1}
+Airport Relief to the Up Airport   (8214pts)
+Up trains crossing from the Up     Slow speed crossover       All                                {1}
+Airport to the Down Airport Relief (8214pts)
+Up trains crossing from the Up     Slow speed crossover       All                                {1}
+Airport to the Down Airport        (8214pts)
+
+Junction Margin                      2
+
+Heathrow Terminals 2 and 3
+
+
+
+                                   Electronic copy - uncontrolled when printed.

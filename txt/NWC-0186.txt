@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                          Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024              Date:     28th July 2023
+West and Central
+                                                                                            Page:   174 of 443
+
+Milton Keynes Central
+
+Attachment of Units:
+Class 350 EMU                                      9
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                             Timing Load      Value
+Train arriving from Down Slow into Platform 1 or   Approach Control on TK5233         All              1
+2
+Train arriving from Down Slow into Platform 2a     Approach Control on TK5233         All              1½
+
+Train arriving from Down Fast into Platform 5      Approach Control                   All              ½
+(Milton Keynes Reversible Fast)
+Pass platform 5 (Milton Keynes Reversible Fast)    Flashing Yellow Aspects and        Timing Loads     2 approaching
+from Down Fast to Down Fast                        Differential Junction Speeds       timed at         Milton Keynes
+                                                                                      125mph           Central and 1
+                                                                                                       approaching
+                                                                                                       next timing
+                                                                                                       point
+                                                                                      Timing Loads     1½
+                                                                                      at 100mph or     approaching
+                                                                                      110mph           Milton Keynes
+                                                                                                       Central and 1
+                                                                                                       approaching
+                                                                                                       next timing
+                                                                                                       point
+Non-stop train from Down Fast to Down Slow         Flashing Yellow Aspects on                          1
+using the Milton Keynes Reversible Fast            TK3233
+
+Movement Up                                        Reason                                              Value
+Train from Up Fast stopping in Plat 5              Flashing Yellow Aspects on Signal KR3250            ½
+
+Dwell Time
+Class 390/Class 80x                                1½ for pick up or set down only
+West Midlands Trains                               1 (1½ if crew change booked)
+
+Detachment of Units:
+Class 350 EMU                                      9
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Non-stop Down train passes Milton Keynes           Down train recessed in Platforms 2 or 5 departs     2^ $
+Central towards Hanslope Jn                        towards Hanslope Jn
+Non-stop Up train passes Milton Keynes             Up train recessed in Platforms 2, 2a, 3 or 5        2$
+Central towards Bletchley                          departs towards Bletchley or the relief lines at
+                                                   Denbigh Hall South Jn
+Non-stop from Down Fast to Down Slow using         Pass on Up Fast                                     3½
+the Milton Keynes Reversible Fast
+Non-stop from Down Fast to Down Slow using         Arrive Platform 4 from Up Fast                      4
+the Milton Keynes Reversible Fast
+Depart Platform 5 to Down Slow                     Pass Platform 4 from Up Fast                        4
+Depart Platform 5 to Down Slow                     Arrive Platform 4 from Up Fast                      4½
+Non-stop Up train passes Milton Keynes             Up train recessed in Platforms 2, 2a, 3 or 5        2^
+Central towards Bletchley                          departs towards Bletchley or the Relief Lines at
+                                                   Denbigh Hall South Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

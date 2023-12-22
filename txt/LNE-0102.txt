@@ -1,0 +1,59 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version: 4.1
+London North Eastern                   Revised Final Rules for                      Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                  Page: 99 of 368
+
+
+LN768 MANSFIELD WOODHOUSE TO SHIREOAKS EAST JUNCTION
+TIMING POINT                       DOWN       UP          NOTES
+
+Mansfield Woodhouse to             AB+2       AB+2
+Shirebrook Jn
+Shirebrook Jn to Shireoaks East    AB+2       AB+2
+Jn
+
+
+LN784 HIGH MARNHAM TO SHIREBROOK EAST JUNCTION
+TIMING POINT                       DOWN       UP          NOTES
+
+Standard Headway                   AB+2       AB+2
+Exceptions:
+High Marnham to Boughton                  AB+2*           *Single Line, OTS
+Junction
+
+
+LN786 BEVERCOTES COLLIERY BRANCH
+TIMING POINT                       DOWN       UP          NOTES
+
+Bevercotes Colliery to Boughton           AB+2*           *Single Line - Out of use
+Junction
+
+
+LN804 TAPTON JUNCTION TO GASCOIGNE WOOD JUNCTION VIA SHEFFIELD
+TIMING POINT                       DOWN            UP            NOTES
+
+Tapton Junction to                 4               4             See Section 5.3 - converging margin at Dore
+Sheffield (exclusive)                                            Station Jn for trains having stopped at Dore
+                                                                 & Totley
+Sheffield (inclusive) to           3               3             Down
+Nunnery Main Line Junction                                       2 Consecutive departures from Sheffield
+                                                                 diverging at Nunnery Main Line Jn
+                                                                 Up
+                                                                 2½ when preceding/following train from
+                                                                 Woodburn Junction
+Nunnery Main Line Junction to      3               3
+Wincobank Junction
+Wincobank Junction to              3               3             Up
+Holmes Junction                                                  2½ from Rotherham Central when following
+                                                                 non–stop
+Holmes Junction to Swinton         3               3
+Swinton to                         4               4
+Ferrybridge North Junction
+Ferrybridge North Junction to      4 passenger     4 passenger
+Milford Junction                   6 freight       6 freight
+Milford Junction to                AB+2*           AB+2*         *TCB plan as AB
+Gascoigne Wood
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

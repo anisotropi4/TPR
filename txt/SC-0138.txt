@@ -1,0 +1,55 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                           Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024                  Date:    28/07/2023
+                                                                                                 Page:    133 of 242
+
+Princes Street Gardens
+
+Junction Margins
+First Movement                                   Second Movement                                      Margin
+Up train pass                                    Down train pass coming from separate line*           2
+All other margins                                                                                     3
+* Only applies to trains departing Edinburgh Waverley; trains passing 3 minutes
+
+
+Haymarket
+
+Adjustments to Sectional Running Times
+Movement Up                                        Reason                                             Value
+Trains arriving/departing Platform 0               Approach to terminal platform/Slower speed         ½
+                                                   over Junction
+
+Dwell Time
+MU (ScotRail)                         1
+LH Slam Doors                         2
+
+ECS moves to T.M.D
+ECS moves from Edinburgh to Haymarket T.M.D. require a ½ minute. OP stop at Haymarket.
+
+Restrictions
+No pathing to be used approaching Haymarket Depot
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+Depart to Haymarket TMD                            Arrive into Platform 0 or 1                        5
+Depart to Haymarket TMD                            Depart to Down North                               1
+Depart Platform 0                                  Arrive Platform 1                                  4
+Train pass/arrive from Haymarket TMD               Depart to West                                     ½
+Depart to West                                     Conflicting train pass/arrive from Haymarket       3½
+                                                   TMD
+Train arrives/pass from Slateford direction        Depart to West from Platform 4                     ½
+Depart to West from Platform 4                     Train arrives/pass from Slateford direction        3½
+Depart to West from Platform 4                     Depart EH520 Signal                                1
+Up train arrive Platform 3                         Down train depart Platform 2, crossing to DS at    Same time
+                                                   Haymarket Central
+
+Platform Re-occupation                2½ *
+                                      * May be reduced to 2 minutes if first train is booked to run towards Slateford
+                                      and formed of 6 cars or less and second train has {1} approaching
+                                      Haymarket
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

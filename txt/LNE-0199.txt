@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                   Version: 4.1
+London North Eastern                    Revised Final Rules for                    Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                Page: 196 of 368
+
+
+Pelaw Metro Junction
+
+Junction Margins
+First Movement                                  Second Movement                                Margin
+Down Metro Pass Pelaw Metro Jn from             Down passenger/light engine Pass Pelaw         3
+Sunderland                                      Junction from Sunderland
+Down Metro pass Pelaw Metro Jn from             Down freight pass Pelaw Junction from          3½
+Sunderland                                      Sunderland
+Up Metro Pass Metro Jn to Sunderland            Up Passenger/light engine pass Pelaw           2½
+                                                Junction to Sunderland
+Up Metro Pass Metro Jn to Sunderland            Up Freight pass Pelaw Junction to Sunderland   2
+Down Pass Pelaw Junction from Sunderland        Down Metro Pass Pelaw Metro Jn from            2
+                                                Sunderland
+Pass Passenger/light engine pass Pelaw          Up Metro Pass Pelaw Metro Jn to Sunderland     2½
+Junction to Sunderland
+Up Freight pass Pelaw Junction to Sunderland    Up Metro pass Pelaw Metro Jn to Sunderland     4
+
+
+
+Pelaw Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                  Reason                                          Value
+Trains into Pelaw Goods Loops                  Approach Control                                ½
+
+Trains from Jarrow to Park Lane                Acceleration                                    1 to be
+                                                                                               applied
+                                                                                               approaching
+                                                                                               next timing
+                                                                                               point
+Movement Up                                    Reason                                          Value
+Trains from Pelaw Goods Loops                  Accelaration                                    2 (1 MU)
+                                                                                               to be applied
+                                                                                               approaching
+                                                                                               next timing
+                                                                                               point
+Trains to Jarrow or Wardley.                   Approach Control                                ½
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Down depart Heworth                            Down pass Pelaw Junction from Jarrow or         3
+                                               Wardley
+Down depart Heworth                            Down depart loop                                2½
+Passenger/light loco Down pass Pelaw           Down depart loop/pass Pelaw Junction from       3½
+Junction to Heworth (not stopping)             Jarrow or Wardley
+Down pass                                      Up train depart Down Goods Loop                 1½
+Down train arrive Up Goods Loop                Up pass towards Boldon (not stopping            2
+                                               Heworth)
+Down train arrive Up Goods Loop                Up pass towards Jarrow/Wardley                  1
+Down train arrive Up Goods Loop                Up depart Heworth                               ½
+Freight pass from Jarrow                       Up depart Heworth                               2½
+Light loco pass Pelaw Junction from Jarrow     Up depart Heworth                               1½
+Freight pass Pelaw Junction from Jarrow        Pass Pelaw Junction to Boldon (not stopping     3
+                                               Heworth)
+Light loco pass Pelaw Junction from Jarrow     Pass Pelaw Junction to Boldon (not stopping     2
+                                               Heworth)
+
+                                  Electronic copy - uncontrolled when printed.

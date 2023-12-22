@@ -1,0 +1,53 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                        Version:    4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024               Date:     28/07/2023
+                                                                                               Page:     187 of 242
+
+Pitlochry
+
+Dwell Time
+HST Power Doors                       1½
+LH                                    2
+MU                                    1
+
+Junction Margins
+First Movement                                      Second Movement                                    Margin
+Arrive from Blair Atholl                            Pass to Blair Atholl                               3
+Arrive from Dunkeld & Birnam                        Pass to Dunkeld & Birnam                           3
+Operational Notes:
+
+Up Side Platform (Platform 1) is preferred for stopping services for disabled access where possible.
+
+LNER services that exceed 3 hours 30 minutes running between Edinburgh Waverley-Inverness must have 5
+minute dwell at either Stirling, Perth or Pitlochry for Driver PNB requirements
+
+It is not possible for 2 trains to pass here where they both exceed the maximum length from the standage behind
+the signals:
+
+Platform 1 (Up Train) 175 metres
+Platform 1 (Down Train) 180 metres
+Platform 2 (Down Train) 175 metres
+Platform 2 (Up Train) 175 metres
+
+Total standage between signals SJP248 and SJP253 (platform 1) and between SJP250 and SJP251 (platform 2)
+is 105m
+
+Total standage in the down direction at signals SJP251 and SJP253 is 226m
+Total standage in the up direction at signals SJP248 and SJP250 is 203m
+
+In all platforming scenarios the overlength train must be planned to depart first
+
+
+
+Blair Atholl
+
+Junction Margins
+First Movement                                      Second Movement                                    Margin
+Down Arrive/pass                                    Up Depart                                          ½
+Down Arrive/pass                                    Up Pass                                            4
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

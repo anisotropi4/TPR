@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                    Date:    27th October 2023
+                                           Timetable 2024                              Page:    161 of 178
+
+North Camp
+
+Dwell Times
+Class 16x                             45 seconds* to be shown as alternate ½ and 1 minute dwells
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)
+
+
+Farnborough North
+
+Dwell Times
+Class 16x                             45 seconds* to be shown as alternate ½ and 1 minute dwells
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)
+
+
+Blackwater
+
+Adjustments to Sectional Running Times
+Movements                                         Reason                                           Value
+Depart Blackwater Platform 1 having arrived       Restrictive Aspects                              {½}*
+with the section beyond BEF2978 occupied
+Depart Blackwater Platform 2 having arrived       Restrictive Aspects                              {½}*
+with the section beyond BEF2979 occupied
+* Applies approaching next timing point.
+
+Dwell Times
+Class 16x                             45 seconds* to be shown as alternate ½ and 1 minute dwells
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)
+
+
+Blackwater Signal BEF2980
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Up train departs Blackwater Signal BEF2980        Down train passes Blackwater                     3
+towards Up Blackwater
+Up train departs Blackwater Signal BEF2980        Down train arrives at Blackwater                 3½*
+towards Up Blackwater
+Up train passes Blackwater Signal BEF2978         Up train departs Blackwater Signal BEF2980      1½
+                                                  towards Up Blackwater
+* A Down train cannot arrive at Blackwater Platform 2 whilst a shunt movement is standing behind BEF2980.
+
+
+Sandhurst
+
+Adjustments to Sectional Running Times
+Movements                                         Reason                                           Value
+Depart Sandhurst Platform 1 having arrived with   Restrictive Aspects                              {½}*
+the section beyond BEF2982 occupied
+* Applies approaching next timing point.
+
+Dwell Times
+Class 16x                             45 seconds* to be shown as alternate ½ and 1 minute dwells
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

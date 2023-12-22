@@ -1,0 +1,64 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                OFFICIAL
+                                  Final Proposal for Subsidiary                          25th August 2023
+                                                                               Date:
+                                     Timetable 2024                            Page:    11 of 168
+
+
+  Second       LONDON CHARING CROSS SERVICES
+ Character
+    A          UP trains via Woolwich and Blackheath
+    B          UP trains via Woolwich and Greenwich
+               London Bridge and Maidstone West/Strood via Redhill
+     C         UP trains via Bexleyheath
+     D         UP trains via Sidcup and Ore (Class 1 not available)
+               UP local trains from Sevenoaks via Orpington and Herne Hill (also applies to services
+               towards London Blackfriars)
+               Hastings – Ashford International (includes Rye shuttles)
+     E         DOWN trains via Greenwich and Woolwich
+               DOWN local trains to Sevenoaks via Catford and Swanley
+               UP trains to Eastern Region
+               Local trains Tonbridge and Tunbridge Wells
+     F         UP local trains from Sevenoaks to Cannon Street or Charing Cross
+               London Victoria/London Bridge and Hastings/Ore via Brighton Mainline
+               UP empty trains to Cannon Street or Charing Cross
+     G         via Chislehurst, Swanley and Chatham
+               Brighton - Hastings Semi-fast (Class 1)
+               Brighton – Hasting stopping services (Class 2)
+     H         Trains to/from Hastings (Class 1 only)
+               Trains to/from Tunbridge Wells (Class 2 only) (except trains covered by E )
+               Hastings Line via Tonbridge (except trains covered by E)
+     I         Cannon Street or Charing Cross rounders (via Sidcup and Greenwich)
+               Redhill – Tonbridge
+     J         DOWN empty trains to Grove Park from Charing Cross or Cannon Street
+               DOWN trains London Cannon Street to London Bridge
+               2JNN Even Numbers: Bromley North to Grove Park
+               2JNN Odd Numbers: Grove Park to Bromley North
+     K         UP trains from Mid Kent Line
+               Ashford International and Brighton via Hastings.
+     L         DOWN trains via Blackheath and Woolwich
+               UP trains to Eastern Region
+               Local trains to/from Sevenoaks or intermediate stations via Orpington and Catford (also
+               applies to services towards London Blackfriars)
+     M         DOWN trains via Bexleyheath
+               UP trains to North West/Midlands Zone
+     N         DOWN trains via Sidcup
+     O         London Cannon Street or London Charing Cross rounders (via Greenwich and Sidcup)
+               From other Zones to Southern Region not covered elsewhere
+               Tunbridge Wells and Three Bridges via Tonbridge
+     P         UP trains London Bridge to London Cannon Street
+               Circular services via Greenwich – Slade Green - Bexleyheath
+     Q         Class 2. Non-standard services – by prior agreement only
+     R         DOWN trains via Orpington and Paddock Wood.
+     S         DOWN local trains to Sevenoaks.
+               UP trains to Scotland Zone
+     T         Tonbridge to Strood via Maidstone West
+               Circular services via Bexleyheath – Slade Green - Greenwich
+     U         Via Nunhead and Lewisham
+               Or
+               Maidstone East via Chislehurst and Swanley (also applies to services from London Cannon
+               Street)
+     V         DOWN trains to Mid Kent Line.
+               Up trains to Great Western Zone
+     W         UP trains via Paddock Wood and Orpington
+                                   Electronic copy - uncontrolled when printed

@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                       Version:   4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                          Page:   313 of 443
+
+Wilmslow
+
+*Margins can be reduced to 3½ minutes if the second train has a minimum of 1½ minutes pathing time
+approaching Wilmslow and ½ adjustment allowance after Wilmslow for non-stop trains.
+
+# Margin can be reduced to 4½ minutes if the second train has a minimum of 1½ minutes pathing time
+approaching Wilmslow and ½ adjustment allowance after Wilmslow for non-stop trains.
+
+$ Margin can be reduced to 2 minutes if the second train has a minimum of 1½ minutes pathing time approaching
+Wilmslow and ½ adjustment allowance after Wilmslow.
+
+Platform Reoccupation Time               2½
+
+Planning Restriction
+A bi-directional movement cannot arrive into the Down Wilmslow (platform 3) at the same time as a movement is
+signalled to depart the Up Styal (Platform 2) to the Up Wilmslow, due to the signalling overlap
+
+
+Cheadle Hulme
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                            Value
+All non-stop Up trains towards Macclesfield        Slow speed junction and flashing yellow           ½
+                                                   aspects
+Arrive in Platform 1 at same time as arrival in    Approach Control                                  ½
+Platform 3 routed to the Down Main
+All trains passing Cheadle Hulme from Down         Acceleration to main line speed from slower       ½ approaching
+Stoke                                              speed junction                                    next timing
+                                                                                                     point
+Junction Margins
+First Movement                                      Second Movement                                  Margin
+Between all conflicting moves, except:                                                               3
+Down Stoke to Down Main                             Up Main to Up Wilmslow                           3½ passenger,
+                                                                                                     ECS and light
+                                                                                                     engines $
+                                                                                                     4 freight $
+Down Wilmslow to Down Fast at Adswood Road          Down Stoke to Down Slow at Adswood Road          2½ *
+Jn                                                  Jn
+Down Stoke to Down Fast at Adswood Road Jn          Down Wilmslow to Down Slow at Adswood            2½ *
+                                                    Road Jn
+
+* Value applies at both Cheadle Hulme and Adswood Road Jn
+
+$ Where first movement is an arrival into platform 3 (Down Stoke) the overlap from signal MS391 is set to the Up
+Wilmslow. The next arrive/pass on the Up Main to Up Wilmslow must be 4 minutes after the first movement departs
+platform 3.
+
+Planning Note
+A train can be routed from the Down Stoke into Platform 3 at Cheadle Hulme at the same time as a train from the
+Down Wilmslow is routed through Platform 1 to the Down Main. In these circumstances no Up trains can pass
+Adswood Road Jn to the Up Main until the train from the Down Wilmslow has passed Adswood Road Jn
+
+Platform Reoccupation Time             2½ After train on Up Wilmslow passes clear of the junction. This only applies
+Down Macclesfield arrival into         to trains which stop at Cheadle Hulme
+Platform 3 only
+
+
+
+                               Electronic copy - uncontrolled when printed

@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    264 of 443
+
+Crewe
+
+Platform Reoccupation
+Standard (including TfW Loco Hauled services)       3, except:
+Locomotive hauled (excepting TfW Loco Hauled        3½
+services) or HST following Multiple Unit or Light
+locomotive
+Multiple Unit or Light locomotive following         3½
+Locomotive hauled (excepting TfW Loco Hauled
+services) or HST
+Locomotive hauled (excepting TfW Loco Hauled        4
+services) or HST following locomotive hauled
+(excepting TfW Loco Hauled services) or HST
+
+Splitting and Coupling of Units: Permitted in all platforms
+
+Train Watering Points                               Platforms 10, 11 and 12.
+
+
+Crewe D.H.S.
+
+Moves applicable to Electric and Diesel Traction
+For departures or arrivals via Platforms 11 and 12 or via the Up & Down Loop:
+
+                             ARR             DEP                                        ARR            DEP
+Crewe D.H.S. dep.                            XX.00           Crewe*                                    XX/XX
+                                             “-“                                                       "-"
+Crewe$                        XXRM02         XXRM06          Crewe Signal 551           XXRM02         XXRM06
+                                             "-"                                                       "-"
+Crewe Signal 551              XXRM08         XXRM12          Crewe$                     XXRM08         XXRM12
+Crewe*                                       XX/14           Crewe D.H.S. arr           XX.14
+* A platform or running line must be specified in the platform column.
+$ "MT" must be specified in the platform column.
+For all other northbound departures and arrivals:
+                              ARR            DEP                                        ARR            DEP
+Crewe D.H.S.                                 XX.00           Crewe*                                    XX/XX
+                                             "-"                                                       "-"
+Crewe$                        XXRM02         XXRM06          Crewe Signal 533 or PLP    XXRM02         XXRM06
+                                             "-"                                                       "-"
+Crewe Signal 533 or PLP       XXRM08         XXRM12          Crewe$                     XXRM08         XXRM12
+                                             "-"                                                       "-"
+Crewe*                                       XX/14           Crewe D.H.S.               XX.14
+* A platform or running line must be specified in the platform column.
+$ "MT" must be specified in the platform column.
+
+For southbound departures and arrivals via Basford Hall Jn:
+                         ARR           DEP                                              ARR            DEP
+Crewe D.H.S.                           XX.00        Crewe Basford Hall Jn                              XX/XX
+                                       "-"                                                             "FL" "SL
+Crewe*                   XXRM02        XXRM06       Crewe*                              XXRMXX         XXRMXX
+                                       "FL" "SL"                                                       "-"
+Crewe Basford Hall Jn                  XX/XX        Crewe D.H.S.                                       XX.XX
+
+* "MT" must be specified in the platform column.
+
+
+
+                              Electronic copy - uncontrolled when printed

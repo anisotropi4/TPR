@@ -1,0 +1,65 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                     Version:   4.1
+East Midlands                      Final Subsidiary Change Rules 2024                   Date:    13th September
+                                                                                                 2023
+                                                                                         Page:   102 of 123
+
+LN3615 HELPSTON JUNCTION TO SYSTON SOUTH JUNCTION
+Uffington
+
+Reversals
+2 minutes for Sandite reversals through the crossover. A train cannot leave Ketton on the Up until the Sandite has
+crossed to the Down line. The Sandite cannot cross to the Down if a train is in section on the Down to Ketton.
+
+Planning Note
+Pathing allowances should be avoided when approaching Uffington from Helpston Junction. If there is excess time
+in the schedule of a train approaching Uffington prior to clearance for entering the next block section, those
+services should be timed to observe a stop.
+
+
+Stamford
+
+Dwell Time
+170                                  1
+
+
+Ketton
+
+Trains to Wards Sidings. Trains can only arrive or depart as shown below
+Trains from Manton Junction                                   Trains to Helpston Junction
+                               Arr              Dep                                      Arr           Dep
+Manton Jn                                       XX/XX         Ketton W.S.                              XX:XX
+Ketton S.B.                                     XX/XX         Ketton WS GF               XXOPXX        XXOPXX
+Ketton WS GF                   XXRMOPXX XXRMOPXX Uffington                                             XX/XX
+Ketton W.S.                    XX:XX
+The shunter controls movements at the ground frame using a radio to communicate with the driver. The driver of
+inwards trains collects the radio at the ground frame as the locomotive passes.
+If there is a movement to reverse from Down Main line to Up Main line at Ketton, a following train cannot leave
+Uffington until 2 minutes after the first service clears the Down Main line
+
+
+Manton Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                            Value
+From Corby – Down Corby to Down Main              Crossover speed                                   1 a)
+   a) Passenger trains and Class 6 Freight                                                          ½ b)
+       up to 600t trailing                                                                          to be applied
+   b) Class 6 Freight Trains 800t to 1200t                                                          approaching
+       trailing (including TR40/55/70), also                                                        Oakham
+       Class 4 Freight trains up to 1200t
+       trailing
+
+
+Movement Up                                       Reason                                            Value
+To Corby – Up Main to Up Corby                    Crossover speed                                   ½ All
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+All conflicting moves                                                                               3
+
+
+
+
+                                         Electronic copy - uncontrolled when printed.

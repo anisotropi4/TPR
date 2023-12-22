@@ -1,0 +1,52 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                     Page:    34 of 443
+
+
+MD150 KENSAL GREEN JN TO WILLESDEN SUBURBAN JN
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Kensal Green Jn                          –           –               To/from Gospel Oak – Refer to Anglia
+                                                                     Timetable Planning Rules – EA1310
+                                                                     To/from Willesden Junction High Level –
+                                                                     Refer to Anglia Timetable Planning Rules
+                                                                     – EA1310
+                                                                     To/from Harlesden Jn – MD155
+Route Boundary: Anglia/NW&C                                          5 miles 25 chains
+Willesden Suburban Jn                                                To/from Willesden Junction Low Level –
+                                                                     MD120
+
+
+MD155 KENSAL GREEN JN TO HARLESDEN JN (CITY LINES)
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Kensal Green Jn                          –           –               To/from Gospel Oak – Refer to Anglia
+                                                                     Timetable Planning Rules – EA1310
+                                                                     To/from Willesden Suburban Jn – MD150
+Route Boundary: Anglia/NW&C                                          0 miles 21 chains
+Willesden Distillers Sidings            –                     F
+Harlesden Jn                         CL SL –       SL –              To/from Brent Sidings – MD101
+                                                                     To/From Up and Down Goods – MD101
+                                                                     To/from Wembley Central via SL – MD101
+                                                                     To/from Wembley InterCity Depot via CL –
+                                                                     MD136
+                                                                     To/from Railnet Reception via HLG –
+                                                                     MD137
+
+
+MD160 WILLESDEN HIGH LEVEL JN TO MITRE BRIDGE JN
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Willesden High Level Jn                                              To/from Willesden Junction High Level –
+                                                                     Refer to Anglia Timetable Planning Rules
+                                                                     – EA1310
+Route Boundary: Anglia/NW&C                                          0 miles 9 chains
+Mitre Bridge Jn                        UWL           –               To/from Kensington Olympia – Refer to
+                                       DWL                           Sussex Timetable Planning Rules –
+                                                                     SO250.
+
+
+
+
+                              Electronic copy - uncontrolled when printed

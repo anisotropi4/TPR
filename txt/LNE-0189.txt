@@ -1,0 +1,58 @@
+NETWORK RAIL                     Timetable Planning Rules                     Version: 4.1
+London North Eastern               Revised Final Rules for                      Date: 12 October 2023
+                              Subsidiary Change Timetable 2024                  Page: 186 of 368
+
+
+Alnmouth for Alnwick (inc Wooden Gates loops)
+First Movement                              Second Movement                                 Margin
+Up Passenger clear inside                   Non-stop pass                                   5
+Up Freight clear inside                     Non-stop pass                                   6
+
+
+Chathill
+
+Dwell Time
+DMU                             ½
+
+
+Belford (inc Crag Mill Loops)
+
+Junction Margins
+First Movement                              Second Movement                                 Margin
+Down Passenger arrive loop                  Down non-stop pass                              5
+Down Freight arrive loop                    Non-stop pass                                   6
+
+
+
+Crag Mill Loops
+
+Junction Margins
+First Movement                              Second Movement                                 Margin
+Up Passenger arrive loop                    Non-stop passes Belford                         5
+Up Freight arrive loop                      Non-stop passes Belford                         6
+Down Passenger pass Belford                 Freight depart Down Loop                        2
+Up Passenger pass Belford                   Freight depart Up Loop                          1
+
+
+Tweedmouth
+
+Junction Margins
+First Movement                              Second Movement                                 Margin
+Up Freight arrive loop                      Non-stop passes Berwick from Scotland           6
+
+
+Berwick-upon-Tweed
+
+Dwell Time
+TPE 802                         1½
+LNER all services               2 May be reduced to 1½ with prior agreement from the operator
+
+Junction Margins
+First Movement                              Second Movement                                 Margin
+Down Freight arrive loop                    Non-stop pass                                   6
+Up Freight arrive loop                      Non-stop pass                                   6
+
+
+
+
+                              Electronic copy - uncontrolled when printed.

@@ -1,0 +1,62 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version: 4.1
+London North Eastern                   Revised Final Rules for                      Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                  Page: 190 of 368
+
+
+Billingham Junction
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Pass to Branch                                  Depart from Billingham                          2
+Pass to Branch                                  Pass from Billingham                            2
+Pass/depart from Billingham                     Pass to Branch                                  4
+
+
+Greatham
+
+Adjustment to Sectional Running Times: Up Direction
+Coming from various Works sites on Acceleration from Slow Speed            1
+Down Side                            crossover
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Down depart to Works sites on Down Side         Pass Billingham Junction                         4
+Down pass to Hartlepool                         Depart Works site on Down Side                   Same time
+Down pass from Hartlepool                       Depart Works site on Down Side                   Same time
+Pass from Works sites on Down Side              Down pass to Hartlepool                          4½
+Pass from Works sites on Down Side              Down arrive, going to Works sites on Down        5½
+                                                Side
+Restrictions:
+    • Trains leaving Down line, going to various Works sites on Down side, require a 30 second ‘OP’ stop at
+        Greatham
+
+
+Seaton Snook Junction/Seaton Carew
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Up depart to branch from Up main                Up arrive Seaton Carew                          4½
+Up depart to branch from Down main              Up depart Seaton Carew                          2
+Up depart to branch from Up or Down Main        Up pass Greatham (not stopping Seaton           6
+                                                Carew)
+Up depart to branch from Down main              Down pass Greatham                              2
+Up pass Greatham                                Up depart to branch from Down main              ½
+Pass from branch                                Up arrive Seaton Carew                          4½
+Pass from branch                                Up pass Greatham (not stopping Seaton           6
+                                                Carew)
+Down Depart Seaton Carew to Hartlepool          Up depart DGL                                   2½
+Down pass Greatham to Hartlepool (not           Up depart DGL                                   4
+stopping Seaton Carew)
+Down Depart Seaton Carew to Hartlepool          Down depart DGL                                 3½
+Down pass Greatham to Hartlepool (not           Down depart DGL                                 5
+stopping Seaton Carew)
+Pass Seaton Carew from Cliff House Up Loop      Freight Pass Hartlepool                         6½
+Pass Seaton Carew from Cliff House Up Loop      Passenger Depart Hartlepool                     5
+Pass Greatham                                   Depart Loop                                     ½
+Pass Greatham                                   Pass at Seaton Carew from Loop                  2
+Depart Seaton Carew                             Depart Loop                                     4
+Depart Seaton Carew                             Pass at Seaton Carew from Loop                  5
+
+Restrictions:
+   • Trains going to Seaton on Tees branch require a 1 minute OP Stop at junction
+
+                                  Electronic copy - uncontrolled when printed.

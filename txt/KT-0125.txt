@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                        Timetable 2024                              Page:     121 of 168
+
+
+Tunbridge Wells and Tunbridge Wells Turnback Siding
+Permissive working for attaching/detaching and platform sharing is authorised as shown below:
+Platform 1                          Attaching/detaching and Platform Sharing
+Platform 2                          Attaching/detaching and Platform Sharing
+
+Simultaneous moves which ARE permitted:
+First Movement                                            Second Movement
+Train departs from Turnback Siding towards Platform 2     Up Train arrives in Platform 1 from Frant
+or vice versa
+Train signalled from PE426 to PE424 (Up direction,        Train from Turnback siding to platform 2 or vice versa
+Strawberry Hill Tunnel)
+
+
+Strawberry Hill Tunnel
+
+Junction Margins
+First Movement                                   Second Movement                                      Margin
+Down Train has passed through the tunnel         Up Train approaching the tunnel                      3
+Up Train has passed through the tunnel           Down Train approaching the tunnel                    3
+
+
+Wadhurst Station
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Up train arrives in Platform 1                    Down train departs Platform 2                       ½
+
+
+Wadhurst Tunnel South
+
+Junction Margins
+First Movement                                   Second Movement                                      Margin
+Down Train has passed through the tunnel         Up Train approaching the tunnel                      3
+
+
+
+Mountfield Tunnel
+
+Junction Margins
+First Movement                                   Second Movement                                      Margin
+Up train has passed through the tunnel           Down train approaching the tunnel                    3
+Down train has passed through the tunnel         Up train approaching the tunnel                      3
+
+Planning Note
+Up trains approaching Mountfield Tunnel cannot be held at signal RB6 and will be held back at signal RB5
+
+
+ SO180 PADDOCK WOOD TO MAIDSTONE WEST
+
+ Paddock Wood
+ See entry under route SO130
+
+
+
+                                   Electronic copy - uncontrolled when printed

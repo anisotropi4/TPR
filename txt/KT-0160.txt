@@ -1,0 +1,63 @@
+NETWORK RAIL                       Timetable Planning Rules                   Version: 4.1
+Kent & HS1                                               OFFICIAL
+                                 Final Proposal for Subsidiary                          25th August 2023
+                                                                              Date:
+                                    Timetable 2024                            Page:    156 of 168
+
+
+STATION                 PLATFORM                           USABLE     NOTES
+                                                           LENGTH
+
+London Victoria         7                                     286
+London Victoria         8                                     221
+London Waterloo East    A - Down Slow                         282
+London Waterloo East    B - Up Slow                           245
+London Waterloo East    C - Down Fast                         250
+London Waterloo East    D - Up Fast                           257
+Longfield               1 - Up Chatham Main                   246
+Longfield               2 - Down Chatham Main                 246
+Loughborough Junction   1 - Up Holborn                        190
+Loughborough Junction   2 - Down Holborn                      163
+Lower Sydenham          1 - Up Mid Kent                       285
+Lower Sydenham          2 - Down Mid Kent                     284
+
+Maidstone Barracks      1 - Up Maidstone Branch               167
+Maidstone Barracks      2 - Down Maidstone Branch             165
+Maidstone East          1 - Up Maidstone                      166
+Maidstone East          2 - Down Maidstone                    164     Down direction
+Maidstone East          2 - Down Maidstone                    164     Up direction
+Maidstone East          3 - Down Bay                          172
+Maidstone West          1 - Up Passenger Loop                 175
+Maidstone West          2 - Down Maidstone Branch             152
+Marden                  1 - Up Main                           244
+Marden                  2 - Down Main                         244
+Margate                 1 - Down Main                         249
+Margate                 2 - Down Passenger Loop               248
+Margate                 3 - Up Main                           249
+Margate                 4 - Up Bay                            298
+Martin Mill             1 - Up Deal                           166
+Martin Mill             2 - Down Deal                         166
+Maze Hill               1 - Up Greenwich                      242
+Maze Hill               2 - Down Greenwich                    241
+Meopham                 1 - Up Chatham Main                   245
+Meopham                 2 - Down Chatham Main                 244
+Minster                 1 – Down                              161
+Minster                 2 – Up                                179
+Mottingham              1 - Up Dartford Loop                  206
+Mottingham              2 - Down Dartford Loop                206
+
+New Beckenham           1 - Up Mid Kent                       282
+New Beckenham           2 - Down Mid Kent                     284
+New Cross               A - No3 Up                            298     12 car
+New Cross               B - No2 Reversible                    243     Down direction 12 car
+New Cross               B - No2 Reversible                    243     Up direction 12 car
+New Cross               C - No1 Down                          242     12 car
+New Eltham              1 - Up Dartford Loop                  285
+New Eltham              2 - Down Dartford Loop                288
+New Hythe               1 - Up Maidstone Branch               166
+New Hythe               2 - Down Maidstone Branch             166
+Newington               1 - Up Passenger Loop                 246
+Newington               2 - Down Passenger Loop               244
+Northfleet              1 - Up Main                           208
+
+                                Electronic copy - uncontrolled when printed

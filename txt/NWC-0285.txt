@@ -1,0 +1,57 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    273 of 443
+
+Balshaw Lane Jn
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                             Value
+All trains timed with a maximum speed above       Acceleration to Up Main line speed                 ½
+75mph joining Up Main from Up Slow.
+Adjustment to be shown after Balshaw Lane
+Jn. Any of the adjustments shown for Wigan
+North Western to be added to this where
+appropriate.
+
+
+Euxton Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                             Value
+All trains joining the Down Slow from the Down    Approach control and 30mph crossovers              ½ applies
+Bolton                                                                                               approaching
+                                                                                                     Euxton Jn
+                                                  Acceleration from 30mph crossovers to line         1 applies after
+                                                  speed                                              Euxton Jn
+                                                                                                     ½ applies
+                                                                                                     after Euxton
+                                                                                                     Jn if stopping
+                                                                                                     at Leyland
+All trains joining the Down Fast from the Down    Acceleration from 50mph crossovers to line         ½ applies
+Bolton                                            speed                                              after Euxton
+                                                                                                     Jn
+All trains crossing from the Down Fast to the     Approach control and 30mph crossovers              1 applies
+Down Slow                                                                                            approaching
+                                                                                                     Euxton Jn
+                                                  Acceleration from 30mph crossovers to line         1 applies after
+                                                  speed                                              Euxton Jn
+
+Movement Up                                       Reason                                            Value
+All trains crossing from the Up Fast to Up        Deceleration from line speed for 60mph            ½ applies
+Bolton that have not stopped at Leyland           crossovers                                        approaching
+                                                                                                    Euxton Jn
+All trains crossing from the Up Slow to Up      Flashing yellow aspects and 30mph crossovers ½ applies
+Bolton or crossing to the Up Fast                                                                   approaching
+                                                                                                    Euxton Jn *
+* Assumes no conflicting move on the Down Fast. If there is a conflicting move on the Down Fast, refer to junction
+margins below.
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+All conflicting moves                                                                                3
+
+
+
+
+                              Electronic copy - uncontrolled when printed

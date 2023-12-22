@@ -1,0 +1,63 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                     Date:    27th October 2023
+                                             Timetable 2024                               Page:    135 of 178
+
+Romsey
+Between all movements except as below                                                                 3
+Service arriving from Eastleigh                      Departure towards Redbridge                      1
+Freight Service Passing from Eastleigh               Departure towards Redbridge                      1½
+Up train passing/stopping Platform 1 towards         Down train Terminate Platform 2 from Eastleigh   4
+Redbridge
+Up train passes/departs Platform 1 towards           Up train departs Platform 2 towards Eastleigh    2*
+Redbridge
+Up train passes/departs Platform 1 towards           Up train departs Platform 2 towards Redbridge    2*
+Eastleigh
+* 3 minutes if the first movement is a freight service.
+
+Platform Re-occupation
+                                     Margin
+Platform 1 (Up Platform)             3
+
+Simultaneous Moves Not Permitted
+Up train departing down Platform (Platform 2)      Up train arriving up Platform (Platform 1)
+
+
+Laverstock South Junction
+
+Junction Margins
+First Movement                                       Second Movement                                   Margin
+Between all movements                                                                                  4*$
+Down train via Laverstock Loop towards               Down train towards Salisbury passes Salisbury 7
+Andover passes Laverstock South Junction             Tunnel Junction
+* If a down train is signalled via Laverstock Loop then a train signalled from Salisbury to the Romsey direction
+must be held at signal SY40 until the train which has traversed Laverstock Loop has cleared signal SY34
+$ If a train is signalled from the Romsey direction via Laverstock Loop to the Up Main Line then trains bound for
+the Romsey line must be held at signal SY40 until the train has cleared Laverstock South Junction
+
+Salisbury Tunnel Junction
+
+See entry under route – SW115
+
+
+SW155 TOTTON FAWLEY LOOPS TO FAWLEY
+
+Totton
+
+See entry under route – SW105
+
+
+Marchwood
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Re-occupation of Single Line                                                                          *
+* Arrive 2 minutes before crossing, depart 1 minute after
+
+Operating Note
+Trains entering the Marchwood MOD from Totton must have a 2 minute OP stop to obtain permission to pass the
+stop board.
+Trains departing Marchwood towards Totton do not require an OP stop at Marchwood.
+
+
+                                    Electronic copy - uncontrolled when printed.

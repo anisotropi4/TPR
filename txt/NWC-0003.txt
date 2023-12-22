@@ -1,0 +1,62 @@
+                           OFFICIAL
+
+
+
+
+MD320      Bushbury Jn. Correction to reference to next timing location.
+           Amended to Penkridge on MD301.
+MD501      Castle Bromwich Jn. Addition of missing line code ML in Up
+           direction. Note updated to reflect timing point can be omitted
+           from 150+ schedules
+           Grand Jn. Note amended to reflect Timing point can be omitted
+           from 150+ schedules
+MD575      Grand Jn. Note amended to reflect Timing point can be omitted
+           from 150+ schedules
+MD712      Aylesbury. Route reference to Aylesbury Vale Parkway amended
+           to MD726
+MD720      Aylesbury. Route reference to Aylesbury Vale Parkway amended
+           to MD726
+MD726      Aylesbury Vale Parkway. Removed reference to platform detail
+           being shown at here. No platform detail is selectable, and TRUST
+           does not show any platform/routing information here.
+MD736      Bicester Gavray Jn. Line code UB and note concerning Down
+           direction movements reversing behind Signal OB1792 deleted.
+           Trains no longer reverse at this signal and there is no signalled
+           move to this location from Bicester direction.
+           Bicester Signal OB1792. Location deleted, this is no longer a
+           reversal point on the Up Bletchley
+           Claydon West Jn. Note referencing platform detail to be shown
+           deleted. Reference to route MD726 corrected with note added
+           that line is currently out of use towards Calvert
+           Claydon Loops. New location added to planning geography. This
+           location includes the Claydon Loop and Reception Line. Platform
+           detail to be shown to distinguish which line is being used.
+           Claydon East Jn. Entry updated with platform detail deleted
+           (replaced under Claydon Loops). Note added that this is a timing
+           point for trains crossing to or from Claydon Loops.
+           Bletchley Signal TK4133. Added as a timing point for trains on
+           the Down Bletchley. To be used to hold a train waiting a path to
+           the Down Slow at Denbigh Hall South Jn. This is the protecting
+           signal for the junction.
+MD741      Flyover Summit Jn is shown italicized as it is a reference point,
+           not a timing point. The line code indicators ‘-‘ are deleted.
+           Fenny Stratford Jn. Note added that for timing purposes this
+           location is shown as Fenny Stratford
+           Fenny Stratford deleted from this line of route as per Sectional
+           Appendix it will only appear on MD140. Notes amended at Fenny
+           Stratford Jn accordingly.
+MD900      Wylds Lane Jn. Note amended to reflect Timing Point can be
+           omitted from 150+ schedules.
+       Worcester Ground Frame. New location added to planning
+       geography. This location is situated on the through lines at the
+       back of Worcester Shrub Hill, the ground frame controls
+       intermediate signals on both the Up and Down lines. Only
+       required for trains stopping here
+NW1001 Colwich shown underlined as this is a mandatory timing point
+       Stafford Trent Valley Jn shown without underlining as this is a
+       conditional timing point
+       Farington Jn is no longer bold as timing point only required when
+       crossing between FL and SL, crossing to Lostock Hall Jn or Leyland
+
+
+                              3

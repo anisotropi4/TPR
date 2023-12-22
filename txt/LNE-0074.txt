@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version: 4.1
+London North Eastern                     Revised Final Rules for                        Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                    Page: 71 of 368
+
+
+LN664 BOLDON EAST JUNCTION TO BOLDON NORTH JUNCTION
+ROUTE SECTION                        SX                       SO                          SUN
+
+Boldon East Jn to Boldon North Jn    Continuous               0000 – 2300                 0800 – 2400
+
+
+LN666 BOLDON WEST JUNCTION TO TYNE DOCK
+ROUTE SECTION                        SX                       SO                          SUN
+
+Boldon West to Green Lane            Continuous               0000 – 2300                 0800 – 2400
+Junction
+Green Lane Junction to Tyne          Not NR Infrastructure    Not NR Infrastructure       Not NR Infrastructure
+Biomass/Coal Loading Sidings
+
+
+LN678 DARLINGTON NORTH JUNCTION TO EASTGATE
+ROUTE SECTION                        SX                       SO                          SUN
+
+Darlington North Junction to         0645–2230                0645–2230                   0730 – 2040
+Bishop Auckland and Eastgate
+
+
+LN682 KING EDWARD BRIDGE SOUTH JUNCTION TO PETTERIL BRIDGE
+JUNCTION
+ROUTE SECTION                        SX                       SO                          SUN
+
+Blaydon to Petteril Bridge           Open continuously from Continuous                   0000 – 0010
+                                     0540 (Mon)                                          0815 – 2245
+*Extended opening hours listed below are agreed for the purpose of operating specific Northern Trains services.
+These are subject to Network Rail receiving funding on an ongoing basis as agreed between Northern Trains and
+Network Rail.
+
+Blaydon to Petteril Bridge closes 2350 vice 2340 SO
+
+
+
+
+LN694 BENTON NORTH JUNCTION TO MORPETH NORTH JUNCTION VIA
+BEDLINGTON
+ROUTE SECTION                        SX                       SO                          SUN
+
+Benton North Junction to Morpeth     Continuous               Continuous                  Continuous
+North Junction (via Bedlington)
+
+
+LN702 BEDLINGTON NORTH JUNCTION TO LYNEMOUTH ALCAN
+ROUTE SECTION                        SX                       SO                          SUN
+
+Bedlington North Junction to         Continuous               Continuous                  Continuous
+Marchey’s House
+Marchey’s House to Lynemouth         Continuous               Continuous                  Continuous
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

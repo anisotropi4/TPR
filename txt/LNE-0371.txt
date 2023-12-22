@@ -1,0 +1,49 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+London North Eastern                    Revised Final Rules for                      Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                  Page: 368 of 368
+
+
+
+
+          Leeds Area Timing Points 2
+                                                          MANDATORY TIMING POINT                  CROSSING TRAINS ONLY
+
+                                                          STOPPING TRAINS ONLY
+
+
+
+
+                    MARSH LANE          NEVILLE HILL
+                      TILCON              T&RSMD
+                     [MRLNTIL]          [NEVLTMD]
+
+                                                                   ROUTE 836/898
+
+
+                    MARSH LANE     GL   NEVIILE HILL           NEVIILE HILL
+       TO                                                                              CROSS GATES
+       LEEDS         JUNCTION             WEST JN                EAST JN
+                                                                                         [CSGT]
+                      [MRLNJN]           [NEVLWJN]              [NEVLEJN]
+                                                         GL
+
+
+
+
+                       HUNSLET          NEVILLE HILL
+                        EAST TC         UP SIDINGS
+                       [HNSLTE]          [NEVLHUS]
+
+
+
+
+                       HUNSLET
+                        TILCON
+                       [HNSLTIL]
+                                                                                   Timing Points and Running Lines
+                                                                                   Blank line applies where identity is not shown
+
+
+
+
+                                                       Electronic copy - uncontrolled when printed.

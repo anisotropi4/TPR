@@ -1,0 +1,61 @@
+NETWORK RAIL                                  Timetable Planning Rules                          Version: 4.1
+Kent & HS1                                                        OFFICIAL
+                                          Final Proposal for Subsidiary                                   25th August 2023
+                                                                                                Date:
+                                               Timetable 2024                                   Page:      122 of 168
+
+
+ East Peckham Tip
+
+ Junction Margins
+ First Movement                          Second Movement                    Margin
+ Freight train arriving inside East      Down train departs from            The second train departs from Paddock Wood
+ Peckham Tip                             Paddock Wood                       no more than 1 minute before the first train
+                                                                            arrives in East Peckham Tip sidings.
+
+
+ Maidstone West
+
+ Junction Margins
+ First Movement                                          Second Movement                                          Margin
+ Northbound departure from Platform 2                    Southbound arrival into platform 2                       3
+
+ Connectional Allowance                   4
+
+ Dwell Time
+ All Services                             1
+
+ Permissive working for attaching/detaching and platform sharing is authorised as shown below:
+ Platform 1                              Attaching/Detaching in Up direction
+ Platform 2                              Attaching/Detaching in Down direction
+ In all circumstances, a second train is prohibited from entering these platforms if it will not attach to the first train
+
+ Planning Note
+ Please note a change of line designation here when planning trains to/from the Paddock Wood direction
+
+
+SO200 - Please see Sussex Timetable Planning Rules – SO600
+
+
+SO210 - Please see Sussex Timetable Planning Rules – SO610
+
+
+
+SO220 ASHFORD TO RAMSGATE
+(VIA CANTERBURY WEST)
+
+Canterbury West
+
+Berthing Facilities
+Location                Cars Notes
+Down Siding             12
+Up Siding               4*     train held at EDH6 signal
+Chartham Siding         8      No EMU to be stabled due to partial electrification and risk of gapping
+* anything longer a 4 car needs to be held back at EDH25 signal on the Down Main as the back end will foul EDH2
+points meaning no movements in either direction. This movement can only be done if there is no Up train
+scheduled, or once a train has passed EDH36 signal and its overlap has dropped out.
+
+Connectional Allowance                    4
+
+
+                                        Electronic copy - uncontrolled when printed

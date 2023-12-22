@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                     Page:    41 of 443
+
+
+MD320 PROOF HOUSE JN TO BUSHBURY JN (VIA BESCOT)
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Proof House Jn                          –                           To/from Birmingham New Street – MD301
+Duddeston                               –           –        S
+Aston                                   –           –               Platform detail must be shown
+                                                                    To/from Stechford – MD315
+Aston North Jn                                                      To/from Four Oaks – MD340
+Witton                                  –           –        S
+Perry Barr                              –           –        S      To/from Perry Barr West Jn – MD335
+Perry Barr North Jn                     –           –               To/from Perry Barr West Jn – MD325
+Hamstead                                –           –        S
+Tame Bridge Parkway                     –           –        S
+Newton Jn                               –           –        X      To/from Bescot Yard
+Bescot Down Goods Loop                – GL          –        S      Bi–directional
+Bescot Down Yard                        –                    S
+Bescot Up Goods Loop                  – GL          GL       S      Bi-directional between Newton Jn and
+                                                                    Bescot Middle Jn
+Bescot Middle Jn                                                    To/from New Ballast Sidings (Virtual
+                                                                    Quarry)
+                                                                    To/from Up Sorting Sidings
+Bescot Stadium                          –           –
+Bescot Jn                               –           –        X      To/from Pleck Jn – MD345
+                                                                    To/from Bescot Yard
+Darlaston Jn                            –           –               To/from Pleck Jn – MD360
+Darlaston                               –           –        S
+Willenhall                              –           –        S
+Portobello Jn                           –           –               To/from Wolverhampton Crane Street Jn –
+                                                                    MD365
+Bushbury Signal SB4695                  –                    S      For trains over 382metres/60SLU required
+                                                                    to stop at Bushbury Jn only.
+Bushbury Jn                                         –               To/from Stafford Trent Valley Jn –
+                                                                    NW1001
+                                                                    To/from Penkridge – MD301
+
+
+MD325 SOHO SOUTH JN TO PERRY BARR NORTH JN (SOHO LINES)
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Soho South Jn                           –                           To/from Birmingham New Street – MD301
+Soho East Jn                            –           –               To/from Soho North Jn – MD330
+Perry Barr West Jn                      –           –               To/from Perry Barr – MD335
+Perry Barr North Jn                                 –               To/from Bescot Stadium – MD320
+
+
+MD330 SOHO EAST JN TO SOHO NORTH JN (SOHO LINES)
+TIMING POINT                       DOWN        UP          CODE     NOTES
+
+Soho East Jn                            –           –               To/from Perry Barr
+
+                                                                     West Jn – MD335
+Soho Curve North Jn                     –           –               For planning purpose this location is
+                                                                    known as Soho North Jn
+                                                                    To/from Galton Jn – MD301
+
+
+
+
+                             Electronic copy - uncontrolled when printed

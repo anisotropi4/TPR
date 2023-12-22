@@ -1,0 +1,62 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                      Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024             Date:    28/07/2023
+                                                                                            Page:    100 of 242
+
+SC029 LARKFIELD JUNCTION TO SHIELDS JUNCTION
+
+Terminus Junction
+
+Adjustment to Sectional Running Times
+Movement Down                                    Reason                                          Value
+Down train from Muirhouse going to Shields       Acceleration                                    ½
+Junction
+
+Movement Up                                      Reason                                          Value
+Up trains from Shields Junction via the ‘Burma   Acceleration from low speed line                1
+Road’ approaching Larkfield Junction             (Train length below 300m)
+                                                 Acceleration from low speed line                1½
+                                                 (Train length between 300m and 350m)
+                                                 Acceleration from low speed line                2
+                                                 (Train length between 350m and 400m)
+                                                 Acceleration from low speed line                2½
+                                                 (Train length greater than 400m)
+Up train from Shields Junction going to          Approach Control                                1
+Muirhouse
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Up pass to Muirhouse                             Down pass to Shields                            3
+Pass to Shields                                  Up pass to Muirhouse                            2
+
+Restrictions
+Only one train can stand or be on line between Muirhouse Central Junction and Terminus Junction at any one
+time.
+
+
+SC031 GRETNA JUNCTION TO GLASGOW BRIDGE STREET JUNCTION (VIA
+KILMARNOCK)
+
+Gretna Jn
+
+Please refer to Line of Route NW4001 (LNW Timetable Planning Rules)
+
+
+
+Dumfries
+
+Dwell Time
+MU                                   1½
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Up Train Pass                                    Depart P1 for Dumfries South Junction           2
+Up Train Depart                                  Depart P1 for Dumfries South Junction           2
+Down Train Depart/Pass to Holywood               Depart Dumfries South Junction for Platform 1   2
+Down Train Depart/Pass to Holywood               Depart Dumfries Yard                            2
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

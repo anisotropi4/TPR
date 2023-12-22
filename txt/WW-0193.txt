@@ -1,0 +1,60 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                       Timetable Planning Rules 2024                 Version:   4.1
+Western + Wales        Final Principal and Preliminary Proposal for Subsidiary
+                                                           OFFICIAL                Date:    6th October 2023
+                                       Change Timetable 2024                       Page:    190 of 289
+
+
+A shunt move at W722 signal prevents any moves from Westbury or Westbury DMU Sidings towards
+Hawkeridge Jcn or Bradford Jcn.
+Up train to Heywood Road Jcn departs or  Conflicting shunt move Apply
+passes Westbury                          to W722 signal or       standard
+                                         Down Trowbridge         junction
+                                         Siding departs          margin
+                                         Westbury                matrix
+Up train to Heywood Road Jcn departs or  Conflicting move        2½ -      Apply passenger margin when
+passes Westbury                          departs Westbury        following following light engine or ECS.
+                                         DMU Sidings             passenger * If freight departs from a
+                                                                           standing start, margin is
+                                                                 3½* –     increased to 4½ minutes.
+                                                                 following
+                                                                 freight
+Up train departs or passes Westbury      Conflicting shunt move 2½ –       Apply passenger margin when
+                                         departs W722 signal     following following light engine or ECS.
+                                         or Down Trowbridge      passenger * If freight departs from a
+                                         Siding                            standing start, margin is
+                                                                 3½* –     increased to 4½ minutes.
+                                                                 following
+                                                                 freight
+Shunt move arrives W722 signal or Down   Conflicting shunt move 1½
+Trowbridge Siding                        departs W722 signal
+                                         or Down Trowbridge
+                                         Siding
+Down train from Heywood Road Jcn or      Conflicting shunt move 1½
+Bradford Jcn arrives or passes Westbury  departs W722 signal
+                                         or Down Trowbridge
+                                         Siding
+Shunt move from W722 signal or Down      Conflicting Down train  3
+Trowbridge Siding arrives Westbury or    from Bradford Jcn
+Westbury DMU Sidings                     arrives or passes
+                                         Westbury
+Train departs Westbury DMU Sidings       Conflicting Up train or 4
+                                         shunt move departs
+                                         Westbury
+Train arrives Westbury DMU Sidings       Conflicting move        1½
+                                         departs Westbury,
+                                         W722 signal or Down
+                                         Trowbridge Siding
+Up train departs or passes Westbury UR   Up train arrives        3–        * If freight departs from a
+line towards Bradford Jn or Heywood Road Westbury platform 3     following standing start at W211 signal,
+Jcn                                                              LD or     margin is increased to 5
+                                                                 ECS       minutes.
+                                                                 4* –
+                                                                 following
+                                                                 freight
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

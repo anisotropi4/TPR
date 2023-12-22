@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                     Version: 4.1
+London North Eastern                      Revised Final Rules for                      Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                  Page: 91 of 368
+
+
+LN632 STOCKTON CUT JUNCTION TO SALTBURN
+TIMING POINT                          DOWN            UP             NOTES
+
+Stockton Cut Junction to Thornaby     4               4
+Thornaby to Newport East              4 Passenger     4 Passenger
+Junction – Main Line                  5 Freight       4 ½ Freight
+Thornaby to Newport East              4*              5*^ GL1        * Based on yellow signals due to relative
+Junction (exclusive) – Goods Line                     4½* GL2        low line speed
+                                                                     ^ Increased by ½ for Freight longer than
+                                                                     600m
+Newport East Junction (inclusive)     4               4
+to Whitehouse Junction – Fast
+Line
+ Newport East Junction (inclusive)    5*$             5*^            * Based on yellow signals due to relative
+to Whitehouse Junction – Slow                                        low line speed
+Line                                                                 $ Increased by ½ for Freight longer than
+
+                                                                     700m
+                                                                     ^ Increased by ½ for Freight longer than
+                                                                     600m
+Whitehouse Junction to Redcar         5               5
+Central
+Redcar Central to Longbeck            AB +2           AB +2
+Longbeck to Saltburn West             AB +2           AB +2*         * A train cannot depart/pass Crag Hall until
+Junction                                              AB +3½ ^       a train from Crag Hall has passed Longbeck
+                                                                     ^ For trains from Crag Hall following a train
+                                                                     from Saltburn to Longbeck
+Saltburn West Junction to Saltburn               AB+2*               *Single Line, TCB
+
+
+LN634 GUISBOROUGH JUNCTION TO WHITBY
+TIMING POINT                          DOWN       UP          NOTES
+
+Middlesbrough to Cargo Fleet                  AB+2*          *Single Line See junction margins at Middlesbrough
+Road                                                         for conflicts on and off the single line
+Cargo Fleet Road to Nunthorpe                 AB+2^          ^Single Line, TCB but treat as AB. See Restrictions
+                                                             at Nunthorpe
+Nunthorpe to Battersby                        AB+5^          ^Single Line, NSTR but treat as AB*
+Battersby to Glaisdale                        AB+5^          ^Single Line, NSTR but treat as AB*
+Glaisdale to Whitby                           AB+5^          ^Single Line, NSTR but treat as AB*. See
+                                                             Restrictions at Glaisdale and Whitby
+Passing points:
+Nunthorpe
+Battersby
+Glaisdale
+
+
+LN642 SALTBURN WEST JUNCTION TO BOULBY POTASH MINE
+TIMING POINT                          DOWN       UP          NOTES
+
+Saltburn West Junction to Crag                AB+2*          *Single Line TB
+Hall                                                         ^ A train cannot depart/pass Crag Hall until the
+                                                             preceeding train has passed Longbeck
+Crag Hall to Boulby                           AB+2*          *Single Line NST
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

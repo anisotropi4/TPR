@@ -1,0 +1,51 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                             Version 4.0
+National                                                                         Date: 28th July 2023
+                              Final Proposal for Subsidiary Change 2024
+                                          Page 33 of 114
+ C      Stops to change train crew.
+ D     Other than in timing load - Stops to set down/detach.
+ (D)   Driver Only Operation applies.
+ ECS   Also “+” when placed intra-time - Empty coaching stock.
+ +     When not placed intra-time - Must only convey vehicles authorised to run 100mph or
+       more.
+ @     when placed intra time at Colchester DOO London side of Colchester only
+ EMU   Electric Multiple Unit
+ K/k   See explanatory note.
+ L     Stops to change Locomotive.
+ N     Stop not advertised.
+ NA    Train not advertised.
+ NPCCS Non passenger carrying coaching stock.
+ OP    Stops for other operating reasons.
+ P     Push pull operated train.
+ PR    Propelling between points shown.
+ Q     Runs when required.
+ R     Stops when required.
+ RM    Stops for reversing movement, or driver to change ends.
+ RR    Stops to run round.
+ S     Stops for railway personnel only.
+ t     Stops for tablet, staff or token purposes.
+ U     Stops to take up/attach.
+ VB    Vacuum braked train.
+ X     Points at which;
+        (a) Trains run from one running line to another, or
+      (b) Trains cross on single lines.
+ [5]   Indicates the number of minutes allowed for temporary speed restrictions and
+       engineering work.
+ (5)   Indicates the number of minutes given for pathing requirements.
+ <5>   Indicates the number of minutes given for performance allowance.
+ ||    Light Locomotive.
+ *     (In arrival and departure times) Stops and shunts for other trains ahead or to pass only.
+ *     (In departure time only) Traffic and/or shunts for other trains to pass.
+ •     Air-conditioned. Public address system applies on day coaches.
+ §     Indicates headcode is changed en route.
+ Ø     See explanatory note. (May be supplemented by reference letter n).
+ →     For continuation of train timings see subsequent column.
+ ←     Train timings continued from previous column.
+
+
+
+
+                            Electronic copy – uncontrolled when printed

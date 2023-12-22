@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+London North Eastern                     Revised Final Rules for                       Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                   Page: 251 of 368
+
+
+
+
+Rotherham Central
+
+
+Dwell Time
+Supertram                          ½
+All                                1
+Junction Margins
+First Movement                               Second Movement                                     Margin
+Arrive from Holmes Junction                  Depart to Holmes Junction                           1½
+Arrive/pass from Woodburn Junction           Depart to Holmes Junction                           1
+Pass/depart to Holmes Junction               Arrive/pass from Woodburn Junction                  4
+Supertram Arrive from Parkgate               Supertram depart to Parkgate                        1
+Operating Restriction
+Only 1 Supertram between Rotherham Central and Parkgate in either direction at any one time. This is due to the
+power being drawn from the overhead lines.
+
+
+Tinsley East Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass from Woodburn Junction                       Pass to Woodburn Junction/Supertram               4
+Down Pass Tinsley East Junction                   Pass from Supertram                               2½
+
+
+Tinsley North Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass to Supertram                                 Up Pass Tinsley South Junction                    3
+Down Pass Tinsley East Junction                   Pass from Supertram                               2½
+
+
+Tinsley South Junction
+
+OPERATING RESTRICTION
+All trains towards Shepcote Lane Junction must be planned with an “OP” stop of 2 minutes for driver instructions.
+
+
+
+Broughton Lane Junction
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Pass to Tinsley Yard                             Pass from Tinsley South Junction                  4
+Pass to Tinsley South Junction                   Pass from Tinsley Yard                            3
+OPERATING RESTRICTION
+All trains towards Shepcote Lane Junction must be planned with an “OP” stop of 2 minutes for driver instructions.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

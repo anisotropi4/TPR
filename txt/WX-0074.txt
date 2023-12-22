@@ -1,0 +1,65 @@
+NETWORK RAIL                             Timetable Planning Rules                      Version:   4.2
+Route: Wessex                        Final Rules for Subsidiary OFFICIAL
+                                                                Change                   Date:    27th October 2023
+                                              Timetable 2024                             Page:    72 of 178
+
+Dwell Time*
+* Dwell times may be varied during the production of timings for trains in conjunction with engineering work or
+other special traffic arrangements at the discretion of the Amended Timetable Manager.
+Class 150 DMU                        ½
+Class 153 DMU                        ½
+Class 158 DMU                        ½
+Class 159 DMU                        ½
+Class 165/166 DMU                    ½
+Class 22x DEMU                       1½
+Class 377 EMU                        ½
+Class 387 EMU                        ½
+Class 444 EMU                        ½$
+Class 450 EMU                        ½$
+Class 455 EMU                        ½
+Class 458 EMU                        1
+Class 701                            ½
+Class 80X                            1½
+Loco Hauled                          1
+Trains terminating and then          1*
+running ECS in the same
+direction (except SWR services)
+Trains terminating and then          2 (1-6 cars)*
+running ECS in the same              4 (7-12 cars)*
+direction (SWR services)
+$ An actual minimum dwell time of 45 seconds is required at all station stops. As timetable systems can only use
+multiples of 30 seconds, every second station stop must have a dwell time of at least 1 minute input into the
+system.
+* By exception, allowances for trains terminating and then running ECS in the same direction may be reduced after
+discussion and agreement between the operator and Network Rail.
+
+Locomotive Change                    10
+
+Locomotive Runaround                 10
+
+Junction Margins
+Between all conflicting              3
+movements
+Resetting of route for a departing   1
+service following the arrival of a
+conflicting inwards service
+
+Platform Reoccupation
+Platform reoccupation in the same direction is equal to the stopping headway minus 30 seconds except where
+stated otherwise.
+
+Minimum Turnround – Passenger Stock
+Stock              1     2      3               4       5       6          7     8     9     10      11      12
+                   Car   Car    Car             Car     Car     Car        Car   Car   Car   Car     Car     Car
+Class 150 DMU            3      3               4       4       4
+Class 153 DMU      3     3      4               4
+Class 158 DMU            3      3               4       4       4
+(GWR)
+Class 158/159 DMU        3      4               5       5       5          6     6     6     7
+(SWR)
+Class 165/166 DMU        3      3               4       4       4          5     5
+(GWR)
+Class 22x DEMU                                  10      10                       10    10    10
+Class 377                       4               4       4       4          5     5     5     6       6       6
+
+                                     Electronic copy - uncontrolled when printed.

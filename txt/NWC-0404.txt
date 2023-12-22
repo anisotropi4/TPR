@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                     Page:    392 of 443
+
+STATION                            PLATFORM         LENGTH      NOTES
+
+Preston                            5                      269
+Preston                            6                      269
+Princes Risborough                 1                       61   Bay
+Princes Risborough                 2                      167   Bi–Directional (Down 165m to ME165 signal)
+Princes Risborough                 3                      170   Down DOO
+
+Queen’s Park                       1                      141   Up DC
+Queen’s Park                       4                      132   Down DC
+Queen’s Park                       5                      194   Up Slow
+Queen’s Park                       6                      194   Down Slow
+
+Rainford                           Down                    72
+Rainford                           Up                      51
+Rainhill                           Down                   135
+Rainhill                           Up                     180
+Ramsgreave & Wilpshire             Down                    60
+Ramsgreave & Wilpshire             Up                      60
+Ravenglass                         Down                    94
+Ravenglass                         Up                      94   Additional 27.9m OOU
+Reddish North                      Down                    95
+Reddish North                      Up                     130
+Reddish South                      Single                  72
+Redditch                           Single                 161
+Ribblehead                         Down                   102
+Ribblehead                         Up                      94
+Rice Lane                          1                      129   Up line. Additional 30m OOU
+Rice Lane                          2                      141   Down line
+Ridgmont                           1                       61
+Ridgmont                           2                       61
+Rishton                            Down                    45   Additional 38.4m OOU
+Rishton                            Up                      65   Additional 65m OOU
+Roby                               1                      116   Down Chat Moss Fast
+Roby                               2                      116   Down Chat Moss Slow
+Roby                               3                      100   Up Chat Moss Fast
+Roby                               4                      100   Up Chat Moss Slow
+Rochdale                           1                      198   Down Rochdale
+Rochdale                           2                      132   Bay to Rochdale East Jn
+Rochdale                           3                      184   Up Rochdale
+Rochdale                           4                      105   Bay to Castleton East Jn
+Rock Ferry                         1                      135   Down Main line
+Rock Ferry                         2                      135   Bi–directional
+Rock Ferry                         3                      130   Bay to Green Lane
+Rock Ferry                         4                      130   Bay to Green Lane
+Romiley                            1                      100
+Romiley                            2                      110
+Roose                              Down                    86   Additional 32m OOU
+Roose                              Up                      87   Additional 36m OOU
+Rose Grove                         Down                    87
+Rose Grove                         Up                      94   Additional 84m OOU
+Rose Hill                          Single                  88   Bay
+Rowley Regis                       1                      184
+Rowley Regis                       2                      184
+Rufford                            Down                    76
+
+
+
+                             Electronic copy - uncontrolled when printed

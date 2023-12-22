@@ -1,0 +1,54 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+London North Eastern                     Revised Final Rules for                       Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                   Page: 84 of 368
+
+
+LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION
+TIMING POINT                    DOWN                  UP                     NOTES
+
+King’s Cross to Hitchin         3                     3*                     Includes Down Slow line up to
+(inclusive)                                                                  Hitchin North Jn (inclusive)
+                                                                             *May be reduced to 2½ where a
+                                                                             train from the USL at Woolmer
+                                                                             Green is following a non-stop train
+                                                                             on the UFL that is timed at 100mph
+                                                                             or above
+Hitchin (exclusive) to Holme    3 – Fast Line         3 – Fast Line
+(exclusive)                     4 – Slow Line         4 – Slow Line
+Holme (inclusive) to            3                     3
+Peterborough (inclusive)
+Peterborough (exclusive) to     3                     3
+Helpston Junction (Stamford
+Lines)
+Peterborough (exclusive) to     3 – behind non-stop   3 – behind non-stop
+Loversall Carr Jn (inclusive)   passenger service     passenger service
+
+                                5 – Slow Lines        5 – Slow Lines
+                                between Helpston      between
+                                Jn (inclusive) and    Peterborough
+                                Stoke Jn              (exclusive) and
+                                (exclusive)           Stoke Jn (inclusive)
+
+                                4 – Other             4 – Other
+Loversall Carr Jn (exclusive)   3 – behind non-stop   3 – behind non-stop
+to Shaftholme Jn (inclusive)    passenger service     passenger service
+                                on Fast Lines         on Fast Lines
+
+                                4                     4
+
+
+LN105 MOORGATE TO FINSBURY PARK JUNCTION
+TIMING POINT                         DOWN       UP          NOTES
+
+Standard Headway                     4          4
+
+
+LN110 CANONBURY WEST JUNCTION TO FINSBURY PARK JUNCTION
+TIMING POINT                         DOWN       UP          NOTES
+
+Standard Headway                     3          3
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

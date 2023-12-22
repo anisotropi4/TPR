@@ -1,0 +1,84 @@
+NETWORK RAIL                                          Timetable Planning Rules                                                                                                                                  Version: 4.1
+London North Eastern                                    Revised Final Rules for                                                                                                                                   Date: 12 October 2023
+                                                   Subsidiary Change Timetable 2024                                                                                                                               Page: 280 of 368
+
+
+
+Engine Shed Junction & Holbeck Depot Junction
+
+
+
+
+                                                                                                                                                                                                                                                                            Arrive L3859 from Leeds
+
+
+                                                                                                                                                                                                                                                                                                          Arrive L4491 from Leeds
+                                                                                                                                                                                                                       Depart Whitehall Curve
+                                                                                                                                                                                       Pass Stourton to Depot
+
+
+
+
+                                                                                                                                                                                                                                                 Depart L4491 to Depot
+                                                                          Pass from Leeds UM
+
+
+                                                                                                      Pass from Whitehall
+
+
+
+
+                                                                                                                                                                  Pass to Shunt Neck
+                                                                                                                                             Depart Shunt Neck
+                                                      Pass to Whitehall
+                                   Pass to Leeds
+
+
+
+
+                                                                                                                             Depart L3859
+                                                      Junction
+ 1st Move ↓         2nd
+                 Move →
+Pass to Leeds                 H                          H                S                      2.5                        H               H                    1                     H                           1                             1                         4                          4
+Pass to Whitehall
+Junction                      H                          H                S                      2.5                        H               H                    1.5                   H                          1.5                            1                         4                          4
+Pass from Leeds UM            S                          S                H                       H                         S               S                    H                     S                           H                            N                         S/H                         H
+Pass from Whitehall           4                           4               H                       H                          2               2                   H                     3                           H                            N                          H                          H
+Depart L3859 to Leeds         H                          H                S                       2                         N/A             H                    2                     H                           2                            H                          2                          S
+Depart Shunt Neck             H                          H                S                      1.5                        H               N/A                  2                     H                           2                            1.5                       1.5                         S
+Pass to Shunt Neck            3                           3               H                      2.5                        1.5             N                    N/A                   2                          1.5                           1.5                        H                          H
+Pass Stourton to Depot        H                          H                S                      2.5                        N               1.5                  1.5                   H                          1.5                           N                         4.5                         4.5
+Depart Whitehall Curve       4.5                       4.5                H                       H                         2.5             2.5                  H                     3                          N/A                           N                          H                          N
+Depart L4491 to Depot        1.5                       1.5                3                       3                          2               2                   2                     H                           2                            N/A                        5                          5
+Arrive L3859 From Leeds       N                          N                H                       H                         T               0.5                  H                     S                          0.5                           N                         N/A                         3.5
+Arrive L4491 from Leeds       S                          S                H                       H                         S               0.5                  H                     N                           N                            N                         3.5                         N/A
+
+S = Simultaneous
+H = Headway
+N = Not Possible
+
+Note: Margins shown at signal numbers are for reference only and are timed as a stop at Engine Shed Junction &
+Holbeck Depot Junction
+
+
+LN880 YORK TO SCARBOROUGH
+York
+Refer to LN600
+
+
+Scarborough Bridge Junction
+Refer to LN600 under York
+
+
+Malton
+
+Dwell Time
+DMU                                                 1
+80x/Class68 mk5                                     1½
+
+
+Junction Margins
+First Movement                                                                                 Second Movement                                                                                                                                                           Margin
+
+                                                   Electronic copy - uncontrolled when printed.

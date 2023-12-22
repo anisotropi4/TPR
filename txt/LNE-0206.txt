@@ -1,0 +1,56 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version: 4.1
+London North Eastern                    Revised Final Rules for                        Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                    Page: 203 of 368
+
+
+South Bank
+
+Restrictions
+When a run round is taking place no other train should be timed on the Goods Lines between South Bank and
+Grangetown
+
+
+Beam Mill Junction
+
+Junction Margins
+First Movement                                  Second Movement                                      Margin
+Pass South Bank to Down Goods                   Pass from Lackenby                                   7
+Pass Sounth Bank to Down Goods (trains          Pass from Lackenby                                   8
+longer than 600m)
+Arrive at Signal G727                           Pass from Lackenby                                   7
+Restrictions
+Following a pass from Lackenby no train may pass South Bank to the Goods Line until the train from Lackenby
+has passed South Bank. This is due to overlap constraints. There is an exception for trains in the Down under 573
+meters which can be planned to stop at Signal G727 to allow a train from Lackenby to pass
+
+
+Grangetown SB
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Pass to Tees Dock                                Deceleration                                      1
+Pass from Down Goods to Down Main                Acceleration                                      1
+
+                                                                                                   1½ for freight
+                                                                                                   over 600m
+
+                                                                                                   To be applied
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+Movement Up                                      Reason                                            Value
+Pass from Tees Dock                              Acceleration                                      1
+
+                                                                                                   1½ for freight
+                                                                                                   over 600m
+
+                                                                                                   To be applied
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+Pass from Up Main to Up Goods                    Deceleration                                      1
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

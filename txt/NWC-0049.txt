@@ -1,0 +1,60 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                    Page:    37 of 443
+
+
+MD180 RUGBY TRENT VALLEY JN TO NEW BILTON
+TIMING POINT                      DOWN        UP          CODE     NOTES
+
+Rugby Trent Valley Jn                  –         DCL               To/from Rugby – MD101
+New Bilton                                        –
+
+
+
+MD232 HINCKLEY (EXCLUSIVE) TO ABBEY JN
+TIMING POINT                      DOWN        UP          CODE     NOTES
+
+Hinckley                               –           –               To/from Wigston North Jn – Refer to East
+                                                                   Midlands Timetable Planning Rules -
+                                                                   LN3232
+Route Boundary: NW&C/LNE                                           2 miles 62 chains
+Nuneaton Signal WN4205                 –           –        S      Timing point on the Up Hinckley for trains
+                                                                   to/from Cemetery Siding
+Cemetery Siding                                    –        S
+Nuneaton South Jn                                                  To/from Rugby Trent Valley Jn – MD101
+Nuneaton                           A DC UA       – SL              Platform Detail must be shown
+                                                                   A – Arley Line
+                                                                   DC – Down Connecting Line Down
+                                                                   (Nuneaton) Chord
+                                                                   UA – Up Arley Line – To be used for trains
+                                                                   using Nuneaton North Chord to Canal
+                                                                   Farm Jn
+                                                                   SL: to Attleborough South Jn – MD101
+Nuneaton Midland Yard Jn               –           DA       X      Timing point for trains using Nuneaton
+                                                                   North Chord to Canal Farm Jn and for
+                                                                   trains using Platform 7 at Nuneaton bi-
+                                                                   directionally
+                                                                   DA – Down Arley Line, to be used for
+                                                                   trains using Platform 7 bi-directionally
+                                                                   To Canal Farm Jn - MD233
+Abbey Jn                               –           A               To/from Water Orton – MD555
+                                                                   To/from Nuneaton Platforms 1 to 5 –
+                                                                   MD555
+Nuneaton Signal NW4242                             –        S      Shunt signal for trains from Abbey Jn
+                                                                   reversing towards Platforms 6 or 7 at
+                                                                   Nuneaton
+
+
+MD233 NUNEATON MIDLAND YARD JN TO CANAL FARM JN
+TIMING POINT                      DOWN        UP          CODE     NOTES
+
+Nuneaton Midland Yard Jn               –                           From Nuneaton – MD232
+                                                                   Single line and signalled in down direction
+                                                                   ONLY
+Canal Farm Jn                          –                           To Amington Jn – MD101
+
+
+
+
+                            Electronic copy - uncontrolled when printed

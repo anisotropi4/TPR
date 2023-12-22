@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                  Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                   Page:      37 of 163
+
+SO630 BRIGHTON TO LITTLEHAMPTON
+TIMING POINT                       DOWN         UP          CODE       NOTES
+
+Brighton                           -                                   Platform detail must be shown
+                                   WCR                                 To/from Preston Park - SO500
+                                                                       To/from London Road – SO620
+                                                                       Line code WCR is required for movements
+                                                                       between Platform 2 and Lovers Walk
+                                                                       Depot
+Brighton West Carriage Road        -                                   Use TIPLOC BRGH277
+Signal T1277                       WCR
+Brighton West Carriage Road        -                                   Use TIPLOC BRGHL38
+Signal L38                         WCR
+Brighton West Carriage Road        -                                   Use TIPLOC BRGH279
+Signal T1279                       WCR
+Brighton Wall Siding               -            -                      Shunt Signal T1281 available
+                                                                       Use TIPLOC BRGHWS
+                                                                       Siding detail must be shown (S1, S2 or S3)
+Brighton Signal T1280              -            -                      Shunt Signal T1280 available
+                                                                       Use TIPLOC BRGH280
+Hove Signal T672                                -                      Shunt Signal T672 available
+                                                                       Use TIPLOC HOVE672
+Hove Yard                          -            -                      Signal T676 available
+                                                                       USE TIPLOC HOVEYD
+                                                                       Controlled by shunters release and is not
+                                                                       continuously staffed by the TOC
+                                                                       Siding detail must be shown (S1, S2, S3,
+                                                                       S4, S5 or S6)
+Hove                               -            -                      Platform detail must be shown.
+                                                                       To/from Preston Park - SO500C
+Hove Up Sidings                    -            -                      ECS moves. TIPLOC HOVEUSG
+Hove Signal 1400                   -            -                      Shunt Signal 1400 available
+                                                                       Use TIPLOC HOVE400
+Aldrington                         -            -           S
+Portslade                          -            -           S
+Fishersgate                        -            -           S
+Southwick                          -            -           S
+Shoreham by Sea                    -            -                      Platform detail must be shown
+Lancing                            -            -           S
+East Worthing                      -            -           S          Platform detail must be shown
+Worthing                           -            -                      Platform detail must be shown
+West Worthing                      -            -
+West Worthing Shed                 -            -                      Access controlled by a shunter (site has no
+                                                                       leaseholder)
+                                                                       Use TIPLOC WWRTHND
+West Worthing Middle Siding                     -           S          TIPLOC WWRTMS
+                                                                       ECS movements to/from the Middle Siding
+Durrington on Sea                  -            -           S
+Goring by Sea                      -            -           S
+Angmering                          -            -
+
+
+
+
+                              Electronic copy - uncontrolled when printed

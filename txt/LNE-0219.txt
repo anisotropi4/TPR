@@ -1,0 +1,62 @@
+NETWORK RAIL                        Timetable Planning Rules                     Version: 4.1
+London North Eastern                  Revised Final Rules for                      Date: 12 October 2023
+                                 Subsidiary Change Timetable 2024                  Page: 216 of 368
+
+
+Seaton Delaval
+
+Dwell Time
+DMU     45 Seconds shown as 1/½ alternating
+
+
+Red House Farm Junction
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Passenger pass to Newsham                      Passenger pass to Seaton Delaval (calling at    3
+                                               Newsham Station)
+Passenger pass to Newsham                      Freight pass to Seaton Delaval                  2½
+Freight pass to Newsham                        Freight pass to Seaton Delaval                  3
+Freight pass to Newsham                        Passenger pass to Seaton Delaval (calling at    3½
+                                               Newsham Station)
+Passenger pass to Newsham                      Passenger depart to Seaton Delaval              1
+Freight pass to Newsham                        Passenger depart to Seaton Delaval              1½
+Passenger pass to Newsham                      Passenger dass to Seaton Delaval                3½
+
+
+Newsham
+
+Dwell Time
+DMU     45 Seconds shown as 1/½ alternating
+
+
+Blyth Bebside
+
+Dwell Time
+DMU     45 Seconds shown as 1/½ alternating
+
+
+Bedlington
+
+Dwell Time
+All                                            1 for trains stopping in the up direction
+                                               45 Seconds shown as 1/½ alternating in the down direction
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Freight pass from West Sleekburn Junction to   Passenger arrive Bedlington from Newsham        5½
+Bedlington Sidings
+Freight pass from West Sleekburn Junction to   Passenger arrive Bedlington from West           4
+Bedlington Sidings                             Sleekburn Junction
+Freight pass from West Sleekburn Junction to   Freight pass from Newsham towards West          5
+Bedlington Sidings                             Sleekburn Junction
+Freight pass from Morpeth to Bedlington        Passenger depart to West Sleekburn Junction     5½
+Sidings                                        (stopping Bedlington)
+Pass from Bedlington Sidings towards Morpeth   Pass from Newsham to Morpeth                    Headway
+Pass from Bedlington Sidings towards Morpeth   Pass from Newsham to West Sleekburn             3½
+                                               Junction
+Pass from Bedlington Sidings towards West      Pass from Newsham to West Sleekburn             3½
+Sleekburn Junction                             Junction
+Pass from Bedlington Sidings towards Morpeth   Arrive Bedlington from Newsham                  3½
+
+                                 Electronic copy - uncontrolled when printed.

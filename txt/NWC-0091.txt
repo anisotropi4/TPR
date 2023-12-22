@@ -1,0 +1,60 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                   Page:   79 of 443
+
+
+NW4007 KIRKHAM NORTH JN TO BLACKPOOL SOUTH
+TIMING POINT                     DOWN        UP          CODE     NOTES
+
+Squires Gate                          –           –        S
+Blackpool Pleasure Beach              –           –        S
+Blackpool South                                   –
+
+
+NW4011 MORECAMBE SOUTH JN TO MORECAMBE
+TIMING POINT                     DOWN        UP          CODE     NOTES
+
+Morecambe South Jn                    –           –               Single line from Morecambe South Jn
+                                                                  to/from Bare Lane Jn
+                                                                  To/from Lancaster – NW4001
+Bare Lane Jn                                                      To/from Hest Bank – NW4013
+Bare Lane                           DUH           –               Platform detail must be shown for Northern
+                                    DUM                           services. Platform 1 for DUM (Down and
+                                                                  Up Morecambe); Platform 2 for DUH
+                                                                  (Down and Up Heysham)
+                                                                  DUH and DUM are independent single
+                                                                  lines from Bare Lane to/from Morecambe
+Morecambe Jn Ground Frame           DUH        DUH         S      Trains stopping to operate Ground Frame
+                                                                  (See Section 5.3).
+                                                                  To/from Heysham Port access is to/from
+                                                                  DUH line only – NW4017
+Morecambe                                      DUH                Access to run–round is to/from DUH line
+                                               DUM                only
+
+
+NW4013 HEST BANK TO BARE LANE
+TIMING POINT                     DOWN        UP          CODE     NOTES
+
+Hest Bank                             –           –               Single line from Hest Bank to/from Bare
+                                                                  Lane Jn
+                                                                  To/from Carnforth North Jn – NW4001
+Bare Lane Jn                                                      To/from Bare Lane – NW4011
+
+
+NW4017 MORECAMBE JN TO HEYSHAM PORT
+TIMING POINT                     DOWN        UP          CODE     NOTES
+
+Morecambe Jn Ground Frame           DUH           –               Single line from Morecambe Jn Ground
+                                                                  Frame to/from Heysham Port
+                                                                  To/from Morecambe – NW4011 (access is
+                                                                  to/from DUH line only)
+Heysham Power Station Sidings                                     To/from Heysham Power Station
+Ground Frame
+Heysham Power Station                          DUH         S
+Heysham Port                                   DUH
+
+
+
+
+                           Electronic copy - uncontrolled when printed

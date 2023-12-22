@@ -1,0 +1,65 @@
+NETWORK RAIL                             Timetable Planning Rules                     Version:      4.3
+Route: Sussex                            Final Rules for Subsidiary                   Date:         18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                      Page:         113 of 163
+
+Horsham
+
+Adjustment to Sectional Running Times
+Movement                                         Reason                                                 Value
+All movements from the Down Portsmouth to        Approach control                                       {½}
+Platforms 1 or 2
+Attachment in any platform                       Calling-on allowance to be added to second             {1}
+                                                 train due to restrictive aspect at signals T839,
+                                                 T841, T848 or T895
+
+Berthing Facilities
+Location                                           Cars      Notes
+Platform 1                                         12
+Platform 4                                         12
+No 1 Branch Siding (Carriage Road)                 12
+No 2 Branch Siding (Oil Siding)                    12
+No 3 Branch Siding                                 12
+No 4 Branch Siding                                 12
+No 1 Down Siding                                   8
+No 2 Down Siding                                   6         Can hold 8 cars but this will block No 3 Down Siding
+No 3 Down Siding                                   4
+Malthouse Siding                                   16
+Up Siding                                          12
+On the main line berthing is permitted in the Down and Up Loops (Platforms 1 and 4) only due to restrictions upon
+berthing on running lines
+
+Attaching and Detaching is not permitted in Carriage Sidings Nos. 1 to 3 and Down Sidings North for safety
+reasons
+
+Connectional Allowances
+All Services                         4
+
+Dwell Times
+All Services                         1
+
+Junction Margins
+First Movement                                      Second Movement                                           Margin
+Between any departure and conflicting arrival except where otherwise stated below                             3
+Departures from Platform 1-4 towards Dorking        Arrivals into Platforms 1-4 via Up Main from              5
+                                                    Dorking
+Train reversing at Signal 1401 on the Up Main       Following movement departs Horsham towards                Same time
+arrives at Field Sidings                            Warnham
+Departures from Platform 1-4 towards Littlehaven Arrive Horsham Platforms 1 or 2 from Dorking                 4
+Arrive from T895 signal via Up Horsham into         Depart Platform 4 to the Down North Sidings               Parallel
+Platform 1, 2 or 3
+Arrive Platform 4 from the Down North Sidings       Arrive Platform 1 or 2 from Littlehaven via Up            Parallel
+                                                    Main from Signal T895
+Arrive 1401 signal on Up Main                       Depart T837 signal via Up Main towards                    1
+                                                    Horsham
+Arrive 1401 signal on Up Main                       Pass T837 signal via Up Main towards Horsham              2
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1      Up Platform Loop         (Up Direction)       Attaching/Detaching and Platform Sharing
+Platform 2      Up Main                  (Up Direction)       Attaching/Detaching
+Platform 3      Down Main                (Down Direction)     Attaching/Detaching and Platform Sharing
+
+
+
+                               Electronic copy - uncontrolled when printed

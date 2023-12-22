@@ -1,0 +1,62 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version: 4.1
+London North Eastern                       Revised Final Rules for                     Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                 Page: 102 of 368
+
+
+LN836 DONCASTER MARSHGATE JUNCTION TO NEVILLE HILL EAST JUNCTION
+TIMING POINT                           DOWN       UP         NOTES
+
+Standard Headway                       4          4
+Exceptions:
+South Kirkby Junction to Hare          4*^        4^         *3 from Branch following train from Doncaster at
+Park Junction                                                South Kirkby Jn. 2 if from a stand
+                                                             ^3 A class 2 stopping service following a Class 1
+                                                             non stop
+Wakefield Westgate to Holbeck          4          4          Down
+Junction                                                     3½ on approach to Holbeck Jn if 1st train has an
+                                                             excess of pathing, engineering or performance
+                                                             allowances.
+
+                                                             Up
+                                                             3½ Loco hauled or stopping DMU following electric
+                                                             service
+Armley Junction to Leeds               2½         2½         A and B Lines Only
+Armley Junction to Whitehall Jn        3          3          C and D Lines Only
+Holbeck Junction to Leeds              2          2
+Whitehall Junction to Leeds            2          2          E and F Lines Only
+Leeds to Neville Hill East Junction    3          3
+
+
+LN838 LEEDS ARMLEY JUNCTION TO YORK SKELTON JUNCTION VIA
+HARROGATE
+TIMING POINT                           DOWN       UP         NOTES
+
+Standard Headway                       AB+2       AB+2
+Exceptions:
+Poppleton to Hammerton                        AB+2*          *Single Line, ET
+Cattal to Knaresborough                       AB+2*          *Single Line, ET
+Harrogate to Horsforth                 6½*       6½*         Following Non-Stop service
+                                       8*        8*          Following Stopping service
+                                                             *Please refer to Harrogate station under junction
+                                                             margins for exceptions to the headways listed
+
+Horsforth to Armley Junction           5          4½
+Armley Junction to Leeds               2½         2½         A and B Lines Only. See also LN836 for other
+                                                             headways west of Leeds.
+
+
+LN842 THORPE MARSH JUNCTION TO ADWICK JUNCTION
+TIMING POINT                           DOWN       UP         NOTES
+
+Standard Headway                       4          4
+
+
+LN848 HARE PARK JUNCTION TO CROFTON WEST JUNCTION
+TIMING POINT                           DOWN       UP         NOTES
+
+Standard Headway                       4          4
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

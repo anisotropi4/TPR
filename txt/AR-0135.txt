@@ -1,0 +1,68 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                      Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                     Date:
+                                               2024                                          2023
+                                                                                     Page:   132 of 183
+
+Highbury & Islington
+
+Platform Reoccupation                                                                           2
+
+
+Canonbury West Junction
+
+Planning Note
+A train cannot pass Canonbury West Junction towards Highbury Vale Junction while a train is reversing at Signal
+K375.
+
+Junction Margins
+Movement                                                                                       Margin
+Fouling move                                                                                   3
+For ARS regulating purposes, in the Eastbound (Stratford) direction ARR and DEP times with activities A and * to
+be used and not pathing time for trains from the Finsbury Park direction.
+
+
+Dalston Kingsland
+
+Dwell Time                                       Up (Westbound) trains                          1 AM peak
+
+
+Navarino Road Junction
+
+Junction Margins
+First Movement                                   Second Movement                                Margin
+Down Train travelling towards Reading Lane       Up Train travelling towards Dalston
+                                                                                                2½
+Junction on the Graham Road Curve                Kingsland
+                                                 Down Train travelling towards Reading Lane
+Up Train travelling towards Dalston Kingsland                                                   2½
+                                                 Junction on the Graham Road Curve
+
+
+Hackney Central
+
+Dwell Time                                                                                      1 AM/PM peak
+
+
+Homerton
+
+Dwell Time                                       Down (Eastbound) train                         1 PM peak
+
+
+Lea Junction
+
+Junction Margins
+Movement                                                                                          Margin
+Fouling move                                                                                      3
+For ARS regulating purposes, in the Eastbound (Stratford) direction ARR and DEP times with activities A and * to
+be used and not pathing time for trains which require regulation to avoid conflicting movements approaching
+Channelsea Junction. The conflicting movements are from Stratford platforms 1 & 2, or towards High Meads
+Junction
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

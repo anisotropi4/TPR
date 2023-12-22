@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                   Date:    27th October 2023
+                                           Timetable 2024                             Page:    131 of 178
+
+
+Fareham Signal E825
+
+Length Restrictions
+A train standing at Signal E825 on the Down Portsmouth which exceeds 270m / 42 SLU in length (exclusive of
+standback allowance) will foul 597B points at Fareham North Junction. Therefore, junction margins at Fareham
+North Junction must be based on the train’s departure time at Signal E825 if over length.
+A train standing at Signal E825 on the Down Portsmouth which exceeds 95m / 14 SLU in length (exclusive of
+standback allowance) will foul 596B points (Fareham Sidings). Therefore, junction margins at Fareham Sidings
+must be based on the train’s departure time at Signal E825 if over length.
+
+
+Fareham Sidings
+See also entry under route – SW140
+
+
+Fareham
+See also entry under route – SW140
+
+
+SW140 ST DENYS TO PORTCREEK JUNCTION
+
+St. Denys
+See entry under route – SW105
+
+
+Bitterne
+
+Dwell Times
+Class 450                            ½
+
+
+Woolston
+
+Dwell Times
+Class 450                            1
+
+
+Sholing
+
+Dwell Times
+Class 450                            ½
+
+
+Netley
+
+Dwell Times
+Class 450                            ½
+
+
+Hamble
+
+Dwell Times
+Class 450                            1
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

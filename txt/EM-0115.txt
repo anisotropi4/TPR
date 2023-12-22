@@ -1,0 +1,60 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                      Version:   4.1
+East Midlands                       Final Subsidiary Change Rules 2024                    Date:    13th September
+                                                                                                   2023
+                                                                                          Page:    113 of 123
+
+
+5.5 Timing Allowances
+
+All allowances shown are in minutes.
+SX Daytime allowances apply at all times except where specified differently in Sections 5.5.2, 5.5.3, 5.5.4, 5.5.5 and
+5.5.6. The locations at which allowances are included within a Train Slot may vary. The total allowance included
+within a Train Slot will not exceed the maximum value allowed.
+
+E refers to engineering allowance
+P refers to performance allowances
+
+5.5.1 SX Daytime (See routes for applicable times)
+
+SX Daytime allowances apply at all times except where specified differently in Sections 5.5.2, 5.5.3, 5.5.4, 5.5.5 and
+5.5.6
+
+On Monday different allowances apply on some routes until the end of the ‘Sunday’ allowances at the times specified
+in the tables below. Please refer to Section 5.5.4 for the ‘Sunday’ allowances section to identify the routes to which
+those allowances apply.
+
+
+LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY)
+Timing Section                        Type     FL/ML   SL         GL    Remarks
+
+Down – SX Daytime
+Approaching St Albans City            E                1*               0600 – 2300 Services terminating at St
+                                                                        Albans City and Luton only
+Approaching Luton                     E        1*      1*               0600 – 2300 *Services terminating at
+                                                                        Luton and Bedford only
+Approaching Bedford South Jn          E        1       1*               0600 – 2300 *EMR services only
+Approaching Bedford                   E                1*               0600 – 2300 *Services terminating at
+                                                                        Bedford only. May be moved to Bedford
+                                                                        South Jn if appropriate.
+Approaching Derby Way & Works         E        1                        0600 – 2300
+Junction
+Up – SX Daytime
+Approaching Chesterfield              P        2*      2*               *Terminating trains only
+Approaching Derby                     E        1*#                      0600 – 2300
+                                                                        *Does not apply to services from Matlock
+                                                                        #Can be applied approaching St Mary’s
+
+                                                                        South Junction if required
+Approaching Bedford North Jn          E        1                        0600 – 2305
+Approaching Brent Curve Jn            E                2                0600 – 2300
+(Hendon Lines)
+Approaching Carlton Road Jn or        E        1       1*               0600 – 2300 *All Thameslink trains only,
+Kentish Town                                                            may be moved to approaching West
+                                                                        Hampstead Thameslink if appropriate
+
+
+
+
+                                          Electronic copy - uncontrolled when printed.

@@ -1,0 +1,64 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                      Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                     Date:    6th October 2023
+                                        Change Timetable 2024                            Page:    176 of 289
+
+
+First Movement                                  Second Movement                           Margin
+Train from Down Feeder Relief and Up Feeder     Departure from Reading West               2½
+Main.
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                 Reason                              Timing Load               Value
+Trains from Reading West Curve that are  Because of the new Mandatory        220, 221                  {1}
+calling at Reading West Station.         Timing Point at Oxford Road Jn
+                                         SRT’s between Oxford Road Jn
+                                         and Southcote Jn have been
+                                         calculated based on trains
+                                         operating to/from the route via
+                                         Reading Station and therefore
+                                         some differences for certain Timing
+                                         Loads are required to take into
+                                         account slowing to go to/from
+                                         Reading West Curve.
+
+Connectional Allowance                          3
+
+Signalling Limitations
+It is not possible to add pathing time between Reading West and Oxford Road Jn because the protecting signal for
+Oxford Road Jn is at the east platform end at Reading West. Increased dwell time should be added at Reading
+West where it would otherwise be necessary to add pathing time.
+It is not possible to add pathing time between Oxford Road Jn and Reading West because there are no
+intermediate signals. Additional Pathing time should be added approaching Oxford Road Jn instead.
+
+Southcote Junction
+
+Adjustments to Sectional Running Times (allowance to be shown after this location)
+Movement                                     Reason                                  Timing Load       Value
+Up train from Basingstoke                    Not passing Southcote Junction at       Class 6 Freight   {½}
+                                             linespeed.
+
+
+Theale
+
+Dwell Time
+LH                                             1½
+80x                                            1½ (Between 0630 and 0900 in the Up direction. Between 1630
+                                               and 1930 in the Down direction. SX only)
+
+Adjustments to Sectional Running Times
+Movement                          Reason                                     Value
+Down train to                     Approach control                           {2}
+GL/Reception/Platform 1
+Down train from GL/Reception      Acceleration                               Freight up to 50 SLUs {1}*
+                                                                             Freight up to 80 SLUs {2}*
+                                                                             Freight above 80 SLUs {2½}*
+Up train to GL/Reception              Approach control                       {2}
+Up train from GL/Reception            Acceleration                           Freight up to 50 SLUs {1}*
+                                                                             Freight up to 80 SLUs {2}*
+                                                                             Freight above 80 SLUs {2½}*
+
+
+                                   Electronic copy - uncontrolled when printed.

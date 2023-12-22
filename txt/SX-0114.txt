@@ -1,0 +1,63 @@
+NETWORK RAIL                              Timetable Planning Rules                      Version:   4.3
+Route: Sussex                             Final Rules for Subsidiary                    Date:      18th October 2023
+                                                Timetable 2024 OFFICIAL
+                                                                                        Page:      110 of 163
+
+Shoreditch High Street
+
+Dwell Times
+All SX services calling at Canada Water between            ½
+0700 and 1000 and between 1640 and 1940)
+
+
+Whitechapel
+
+Adjustment to Sectional Running Times
+Movement                                            Reason                                              Value
+Trains using crossover in either direction          Slow Crossover                                      {½}
+
+Dwell Time
+All services                                        1
+
+
+Shadwell
+
+Junction Margins
+First Movement                                          Second Movement                                     Margin
+Depart signal EL3001 on the UEL towards                 Arrive into Platform 1 from the direction of        2
+Platform 2                                              Canada Water
+Arrive into Platform 1 from the direction of            Depart signal EL3001 on the UEL towards             1
+Canada Water                                            Platform 2
+
+
+Canada Water
+
+Adjustment to Sectional Running Times
+Movement                                            Reason                                              Value
+Trains using crossover in either direction          Slow Crossover                                      {½}
+
+Dwell Time
+All services                          1
+
+
+Surrey Quays
+
+Dwell Time
+All services                          1
+
+
+Canal Junction
+
+Junction Margins
+First Movement                                    Second Movement                                       Margin
+Train from New Cross                              Train towards New Cross Gate                          1
+Train from New Cross                              Train towards New Cross Gate Reversible Line          1½
+Train from New Cross                              Train towards New Cross Depot or Washer Road          1½
+
+
+New Cross Gate North Junction
+
+Junction Margins
+
+
+                                 Electronic copy - uncontrolled when printed

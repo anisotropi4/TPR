@@ -1,0 +1,61 @@
+NETWORK RAIL                        Timetable Planning Rules                      Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                     Page:   14 of 443
+
+Second      Third      Route and/or Destination
+Character   and
+            Fourth
+            Number
+            even       To Marylebone (except from Aylesbury via Amersham and Oxford
+            even 62-   Snow Hill lines services to Leamington Spa
+            98
+                       ECS to Tyseley LMD
+                       To Rugeley/Hednesford via Aston
+                       Class 2 trains Leeds/Skipton to Lancaster/Morecambe/Carlisle (both
+                       directions)
+                       Merseyrail trains to Hooton
+I           even       Class 1 Transport for Wales service to Birmingham International
+            odd        Class 2 trains Birmingham New Street to Birmingham International
+            even       Class 2 trains Birmingham International to Birmingham New Street
+            odd        Class 2 trains Wigan to Leeds via Dewsbury
+            1x/2x
+            even       Class 2 trains Leeds to Wigan Wallgate via Dewsbury
+            8x/9x
+                       LUL trains to Stonebridge Park
+                       Passenger trains terminating at Wembley Stadium
+J                      To Shrewsbury area – bounded by Dorrington, Abbey Foregate, Nantwich
+                       (exclusive), Gobowen and including the lines to Aberystwyth and Pwllheli
+                       To Manchester area – bounded by Diggle, Stalybridge, Philips Park South Jn,
+                       Water Street Jn (exclusive), Patricroft, Crow Nest Jn (exclusive), Blackrod,
+                       Bromley Cross, Smithy Bridge
+                       Class 1 trains Birmingham International/New Street to Crewe via Shrewsbury
+            0x/1x      Class 2 trains Wigan to Manchester Victoria via Atherton
+            2x         Class 2 trains Clitheroe/Blackburn to Manchester Victoria/Rochdale
+            3x         Class 2 trains Headbolt Lane to Manchester Victoria via Atherton
+            4x         Class 2 trains Preston to Manchester Victoria
+            9x         Class 2 trains Stalybridge to Manchester Victoria
+                       Bidston to Wrexham Central
+            even       Class 1 trains Manchester Victoria to Leeds via Bradford Interchange
+            odd        Class 1 trains Leeds to Manchester Victoria via Bradford Interchange
+                       Marylebone to Stourbridge Junction
+                       Birmingham Snow Hill line trains to Stourbridge Junction
+                       ECS to Shrewsbury Abbey Foregate Carriage Sidings
+            odd        Euston to Watford Junction via WCML
+            even       Watford Junction to Euston via WCML
+                       LUL trains to Harrow & Wealdstone
+K                      To Crewe area - bounded by Uttoxeter, Congleton, Chelford, Middlewich,
+                       Crewe, Nantwich, Penkridge, Rugeley Town
+            odd        Class 1 (low numbers) TransPennine trains Manchester Piccadilly to Hull
+            even       Class 1 (low numbers) TransPennine trains Hull to Manchester Piccadilly
+                       Class 1 trains Birmingham New Street to Leicester
+            odd        Class 2 trains Euston to Milton Keynes Central
+            even       Class 2 trains Milton Keynes Central to Euston
+                       ECS to Crewe Carriage Sidings
+                       Birmingham New Street to Crewe Class 2 Stafford to Crewe via Stoke-on-
+                       Trent
+                       Crewe to Derby Class 1 trains Derby to Crewe via Stoke-on-Trent
+            0x         Class 2 trains Manchester (and beyond) to Stoke-on-Trent
+
+
+                           Electronic copy - uncontrolled when printed

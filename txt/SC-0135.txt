@@ -1,0 +1,65 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                          Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024                 Date:    28/07/2023
+                                                                                                 Page:    130 of 242
+
+Gartsherrie South Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                              Value
+Down pass to Gartcosh Junction                    Approach Control                                    1
+Movement Up                                       Reason                                              Value
+Train passing from Up Perth to Up Slow            Approach Control                                    1
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Pass Down Perth                                   Up pass from Gartcosh Junction                      4
+Up pass from Gartcosh Junction                    Pass Down Perth (not stopping Coatbridge            4
+                                                  Central)
+Up pass from Gartcosh Junction                    Down depart Coatbridge Central                      Same time
+
+Cumbernauld
+
+Junction Margins
+First Movement                                      Second Movement                                   Margin
+Depart Down Relief Siding                           Down train not stopping Greenfaulds pass          Same time*
+                                                    Garnqueen North Junction
+Depart station to Down Relief Siding                Down Freight train passes station                 5
+Depart station to Down Relief Siding                Down Passenger train passes station               4
+Down train arriving Cumbernauld                     Depart Down Relief Sidings                        2½
+Down train pass/depart Cumbernauld                  Depart Down Relief Sidings                        1½
+Down train pass Garqueen North Junction             Depart Up DRS to Cumbernauld                      1
+Up train arriving Cumbernauld from DRS              Down arrive Greenfaulds                           1½
+* May pass earlier if the equivalent amount of ( ) or [ ] is inserted before Cumbernauld
+
+SC099 WHIFFLET NORTH JUNCTION TO RUTHERGLEN EAST JUNCTION
+
+Langloan Junction
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down pass from Coatbridge Central                 Up pass to Whifflet (not stopping Kirkwood)         4½
+Down pass from Coatbridge Central                 Depart from Kirkwood towards Whifflet               1
+Up pass to Whifflet                               Depart Coatbridge towards Kirkwood                  ½
+Up pass to Whifflet                               Pass towards Kirkwood (not stopping                 5
+                                                  Coatbridge)
+
+SC103 GARNQUEEN NORTH JUNCTION TO COWLAIRS WEST JUNCTION
+
+Springburn
+Please refer to SC129 margins
+
+Restrictions
+Pathing time must not be used between:
+
+Gartcosh and Gartcosh Junction
+Gartcosh Junction and Gartcosh
+Stepps and Gartcosh
+
+Owing to signalling constraints.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

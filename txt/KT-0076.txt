@@ -1,0 +1,59 @@
+NETWORK RAIL                            Timetable Planning Rules                 Version: 4.1
+Kent & HS1                                                  OFFICIAL
+                                    Final Proposal for Subsidiary                          25th August 2023
+                                                                                 Date:
+                                         Timetable 2024                          Page:      72 of 168
+
+
+ SO310 HITHER GREEN TO MAIDSTONE WEST (VIA SIDCUP)
+ TIMING POINT                      DOWN                   UP                   NOTES
+
+ Hither Green – Lee                2½*                    2½                  DOWN
+                                                                              4 minutes if preceding freight is
+                                                                              from Lee Spur Junction
+
+ Lee – Crayford                    2 Non-Stopping *       2 Non-Stopping *    DOWN
+                                   2½ Stopping            2½ Stopping         *2½ Following Freight
+
+                                                                              UP
+                                                                               3 minutes if preceding train
+                                                                              travels towards Lee Spur Junction
+
+  Crayford – Hoo Junction          2 Non-Stopping         2 Non-Stopping
+                                   2½ Stopping            2½ Stopping
+  Hoo Junction - Strood            3*                     2 Non-Stopping *    *4½ minutes Following Freight
+                                                          3 Stopping*
+  Strood – Cuxton (inclusive)      3 Non-Stopping          3 Non-Stopping
+                                   4 Stopping              4 Stopping
+  Cuxton (exclusive) - Aylesford   4 Non-Stopping          4 ½ Non-Stopping
+                                   5 Stopping              5 ½ Stopping
+  Aylesford – Maidstone            3 ½ Non-Stopping        3 ½ Non-Stopping
+  Barracks                         4 ½ Stopping            4 ½ Stopping
+  Maidstone Barracks –             AB+2                    AB+2
+  Maidstone West
+
+
+SO310A LEE SPUR JUNCTION TO LEE LOOP JUNCTION
+TIMING POINT                        DOWN         UP            NOTES
+
+Lee Spur Junction – Lee Loop        3            3
+Junction
+
+
+SO310B CRAYFORD SPUR ‘A’ TO CRAYFORD SPUR ‘B’ JUNCTION
+TIMING POINT                        DOWN         UP            NOTES
+
+Crayford Spur ‘A’ Junction –        3            3
+Crayford Spur ‘B’ Junction
+
+
+ SO310C STROOD TO ROCHESTER BRIDGE JUNCTION
+ TIMING POINT                      DOWN                   UP                   NOTES
+
+  Strood – Rochester Bridge        AB+1                    AB+1               TCB to be planned as AB
+  Junction
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

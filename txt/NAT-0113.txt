@@ -1,0 +1,70 @@
+                                                          OFFICIAL
+
+
+      Network Rail                                                                                          Version 4.0
+      National                                                                                      Date: 28th July 2023
+                                      Final Proposal for Subsidiary Change 2024
+                                                  Page 112 of 114
+•     Gathering information from differing data sources will start to build a picture of what is happening
+      during a station dwell. Each data source will need to be assessed for its suitability for providing
+      valid information to a station dwell review.
+
+•     The most common sources of data used in a station dwell review are listed in the table below, with
+      pros and cons. GPS/OTMR data provides the most reliable wheels stop to wheels start time for
+      large sample sizes, but other data sources also have pros that should be considered when
+      completing a review of dwell performance.
+
+
+    Data Source         Who owns          Where is the                       Pros                         Cons
+                        the data?         feed from?
+    Live observations   N/A               Station             o      Provides a rounded view    o   Low sample sizes
+                                                                     of the dispatch process    o   Manual process
+                                                              o      Provides insight into          introduces variance
+                                                                     why a data source is
+                                                                     returning a particular
+                                                                     result
+                                                              o      Can check accuracy of
+                                                                     berth offsets
+    SMART and ODA       NR Capacity       Signal berths       o      High sample sizes          o   Reliant on the use of
+    data                Planning                              o      Covers a wide                  berth offsets
+                                                                     geographical area          o   Train length sometimes
+                                                              o      Analysis can be filtered       not known
+                                                                     to a very granular level   o   Characteristics on the
+                                                              o      Early arrivals can be          day not recorded
+                                                                     removed or default to      o   External factors such
+                                                                     planned WTT arrival            as engineering blocks
+                                                                     time                           need cross-referencing
+                                                              o      90% of locations are       o   For ODA data there is
+                                                                     covered by signal berth        a lag of 6-12 weeks
+                                                                     data                           before data is
+                                                                                                    uploaded into the tool
+    QUARTZ data         Amey              Signal berths       o      Station staff can          o   Uses berth offsets to
+                        Consulting                                   comment on individual          provide a dwell value
+                        own the                                      times.                     o   Classes dwell
+                        programme.                            o      Provides insight into an       adherence as within
+                        NR supply the                                overall journey – can          20-seconds
+                        timing data                                  demonstrate a ripple       o   Data gets archived
+                        and                                          effect                         after a set period
+                        NR/Operator                           o      Shows perceived trends
+                                                                     – worst performing
+                        station staff
+                                                                     trains, worst performing
+                        can make
+                                                                     hours, worst delay by
+                        interventions                                day, etc . . .
+    GPS & OTMR data     Operators         GPS on train        o      High sample sizes          o   Relies on GPS
+                                                              o      Does not rely on berth         accuracy
+                                                                     offset averages            o   Accessibility – can
+                                                              o      Analysis can be filtered       require download from
+                                                                     to a very granular level       individual units
+                                                              o      Early arrivals can be
+                                                                     removed
+
+      •   Data from any source should be cleansed to make sure it only includes data relevant to
+          passenger train timings, including the relevant timing loads and stopping patterns.
+
+      •   If a data source uses berth offsets, then the berth offset should be validated for accuracy before
+          any other changes to the station dwell are proposed.
+
+
+                                    Electronic copy – uncontrolled when printed

@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                           Version:      4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024               Date:       28th July 2023
+West and Central
+                                                                                            Page:       275 of 443
+
+Preston Ribble Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                       Reason                                                 Value
+Trains on the Down Fast crossing to any             Approach control                                       1
+through platform other than platforms 3 or 4 at
+Preston or routed to the Down Goods or Up &
+Down Goods
+Trains crossing from the Down Slow to Down          Approach control                                       1
+Fast, Up Fast, Up Slow or Down Goods
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Up train arrives in platform 3 at Preston        Train from Down Fast routed to platforms 2,        4*
+                                                 3C, 4, 4C or 5 at Preston
+* Does not apply if second movement is crossed to Up Slow at Ribble Jn but note {1} then applies for approach
+control (see Adjustments to Sectional Running Times)
+
+
+Preston
+
+Adjustments to Sectional Running Times
+Movement                                            Reason                                                 Value
+Trains terminating in Bay Platforms 3c/4c           Approach control                                       ½
+                                                                                                           approaching
+                                                                                                           Preston
+Trains routed to the Up and Down Goods Loop         Slow crossover                                         ½
+                                                                                                           approaching
+                                                                                                           Preston
+
+Connectional Allowance                 8
+
+Dwell Time
+All                                    2, except:
+Avanti West Coast Services             3
+
+Junction Margins
+First Movement                                      Second Movement                                        Margin
+Train departure towards Lancaster                   Conflicting train arrival from Lancaster into any      4
+                                                    Platform or Goods line
+Train departure from Platforms 1 and 2 to Up        Subsequent train departure from Platforms 1            4
+Slow Line                                           and 2 to Up Slow Line
+
+Overlap Margins
+First movement                                      Second movement                                      Margin
+Arrive Platform 4 from Down Fast or Down Slow       Arrive Platform 5 in Up direction                    3
+                                                    Pass Platform 5 in Up direction                      4
+Arrive Platform 5 from Down Fast or Down Slow       Arrive Platform 4 in Up direction                    3
+Arrive Platform 6 from Down Fast or Down Slow       Arrive Platforms 4 or 5 in Up Direction              Parallel *
+Depart Platforms 4 or 5 to Up Fast or Up Slow       Arrive Platforms 4 or 5 in Up Direction              3 passenger
+                                                                                                         4 freight
+Arrive Platform 4 in Up direction                   Arrive Platform 5                                    4
+Arrive Platform 5 in Up direction                   Arrive Platform 4                                    4
+Arrive Platform 4 or Platform 5 in Up Direction     Arrive Platform 6 in Up Direction from Up            Parallel *
+from Up Fylde                                       Through (from Garstang)
+
+
+
+                               Electronic copy - uncontrolled when printed

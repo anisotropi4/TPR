@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:      28th July 2023
+West and Central
+                                                                                       Page:      199 of 443
+
+University
+
+Platform reoccupation margins
+First movement                                    Second movement                                    Margin
+Depart platform 2 towards Selly Oak               Arrive platform 2 from Five Ways                   3
+Depart platform 1 towards Five Ways               Arrive platform 1 from Selly Oak                   2½ *
+
+* The 1 minute station dwell time combined with a 2½ minute platform reoccupation in the Up direction adds up to
+½ less than the 4 minute headway. This is acceptable provided the full headway is applied at the next applicable
+timing point.
+
+
+Selly Oak
+
+Dwell Time                            1
+
+
+Kings Norton
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                              Value
+Non-stop trains routed from Lifford East Jn on   Differential Junction speed                         1
+the Down Camp Hill                                                                                   1½ (HST)
+                                                                                                     Applies at
+                                                                                                     next timing
+                                                                                                     point after
+                                                                                                     Kings Norton
+
+Movement Up                                      Reason                                              Value
+Non-stop trains routed towards Lifford East Jn   Approach Control and Differential Junction          1 (22x)
+on the Up Camp Hill                              speed                                               1½ all other
+                                                                                                     traction
+
+Dwell Time                            1
+
+Junction Margins
+First Movement                                   Second Movement                                     Margin
+Arrive or pass Platform 4 from Selly Oak         Pass from Up Fast or Up Slow towards Lifford        3
+                                                 East Jn
+Pass towards Lifford East Jn                     Arrive or pass Platform 4 from Selly Oak            2½
+Pass on Down Fast                                Pass from Up Fast or Up Slow towards Lifford        2
+                                                 East Jn
+Pass from Up Fast or Up Slow towards Lifford     Pass on Down Fast                                   2½
+East Jn                                                                                              Passenger
+                                                                                                     3½ Freight
+Pass on Down Fast                                Pass or depart from Down Slow to Down Fast          2½
+Pass or depart from Down Slow to Down Fast       Pass on Down Fast                                   3½
+Pass Platform 1 from Up Fast                     Arrive Platform 1 from Up Slow                      3
+Pass or depart from Up Fast or Up Slow           Arrive or pass Platform 1 via 615A/615B points      2½
+towards Lifford East Jn                          towards Bournville
+Arrive or pass Platform 1 from Up Fast           Pass or depart from Up Slow towards Lifford         1½
+                                                 East Jn
+
+
+
+
+                               Electronic copy - uncontrolled when printed

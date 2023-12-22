@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:     4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                    Date:      27th October 2023
+                                            Timetable 2024                              Page:      91 of 178
+
+Basingstoke
+Up train arriving at Platform 2                           Down train arriving/passing Platform 1 from Down
+                                                          Reading/Up Reading/Barton Mill Sidings
+Up train arriving at Platform 2                           Up train departing Platform 1 towards Up Fast/Up
+                                                          Slow/Up Reading/Down Reading/Barton Mill Sidings
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                           Down Slow           Attaching * /Detaching
+Platform 2                           Down Fast           Attaching * /Detaching
+Platform 3                           Up Fast             Attaching * /Detaching
+Platform 4                           Up Slow             Attaching * /Detaching and Platform Sharing
+Platform 5                           Up Bay              Attaching/Detaching and Platform Sharing
+* The second portion is not permitted to approach from the Down Slow, Down Fast, Down Reading or Up Reading
+A second train must arrive in an occupied Platform before the first train is allowed to depart
+
+
+Worting Junction
+
+Adjustment to Sectional Running Times
+Movement                                           Reason                                               Value
+Up Class 159/22x crossing from Up Exeter to        Speed Differential                                   {½}*
+Up Slow
+* Applies approaching next timing point.
+
+
+Micheldever
+
+Limit Of Shunt
+                                     Length Limit
+Down Line clear of Platform End      12 cars
+
+
+Wallers Ash
+
+Junction Margins
+First Movement                                     Second Movement                                  Margin
+Up direction train arrives in Wallers Ash (Loop)   Up direction train passes Wallers Ash (Loop)     3½
+Down direction train arrives in Wallers Ash        Down direction train passes Wallers Ash          3½
+(Loop)                                             (Loop)
+Up direction train passes Wallers Ash (Loop)       Up direction train departs Wallers Ash (Loop)    2
+Down direction train passes Wallers Ash (Loop)     Down direction train departs Wallers Ash         2
+                                                   (Loop)
+
+
+Winchester
+
+Berthing Facilities
+                                     Cars                Notes
+Baltic Siding                        12                  4 cars on conductor rail. No Overnight (except in
+                                                         connection with engineering work terminations) or Long
+                                                         term berthing permitted. Required by Control as refuge
+                                                         for failures.
+
+Dwell Times
+
+                                    Electronic copy - uncontrolled when printed.

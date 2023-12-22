@@ -1,0 +1,27 @@
+NETWORK RAIL                    Timetable Planning Rules                    Version:   4.3
+Route: Sussex                   Final Rules for Subsidiary                  Date:      18th October 2023
+                                      Timetable 2024 OFFICIAL
+                                                                            Page:      32 of 163
+
+SO540 HURST GREEN JUNCTION TO UCKFIELD
+TIMING POINT                DOWN          UP         CODE       NOTES
+
+Hurst Green Junction        -             -                     To/from Hurst Green - SO530
+                                                                For planning purposes this timing point is
+                                                                shown as Hurst Green
+Edenbridge Town             -             -          S
+Hever                       -             -
+Cowden                      -             -          S
+Blackham Junction           -             -
+Ashurst                     -             -          S
+Ashurst Junction            -             -
+Eridge                      -             -          S
+Crowborough                 -             -
+Greenhurst Junction         -             -
+Buxted                      -             -          S
+Uckfield                    -             -
+
+
+
+
+                       Electronic copy - uncontrolled when printed

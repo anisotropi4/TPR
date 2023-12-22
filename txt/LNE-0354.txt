@@ -1,0 +1,28 @@
+NETWORK RAIL              Timetable Planning Rules                    Version: 4.1
+London North Eastern        Revised Final Rules for                     Date: 12 October 2023
+                       Subsidiary Change Timetable 2024                 Page: 351 of 368
+
+
+
+
+LN914 HULL TO SEAMER WEST JUNCTION
+Timing Section          Type    LH      MU      Cl 6   Remarks
+                                HST     LL
+                                EPU
+                                Cl 4
+                                22X
+
+Down – Sundays
+Approach Bridlington    E         2      2             Terminating trains only
+                        P                1
+Approach Seamer         E         2      2*            * Does not apply to trains starting from
+                                                       Filey and continuing to York or beyond
+Up – Sundays
+Approach Bridlington    P                1
+Approach Hull           E         2      2*            * 1 minute for trains starting from Beverley
+                        P                1
+
+
+
+
+                       Electronic copy - uncontrolled when printed.

@@ -1,0 +1,66 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                       Version:    4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                      Date:     6th October 2023
+                                          Change Timetable 2024                             Page:     196 of 289
+
+
+Junction Margins
+First movement                                   Second Movement                                     Value
+Down pass/arrive platform 2                      Up arrive platform 1, to any conflicting route      2
+                                                 after Patchway
+
+Dwell Time
+158/16x/387                           1
+
+Signalling Restriction
+A Down train from any route cannot pass/arrive Patchway platform 2 while an Up conflicting move is stopped at
+Patchway platform 1. This is due to junction signal BL1536 being positioned in rear of Patchway platform 1. If the
+Down train is routed first, the above Signalling Restriction applies to the Up train.
+
+Trains from Filton West Jn must not have pathing time or stops added approaching Patchway, this should be
+added approaching Filton West Jn instead. Signal BL1834 (approaching Single Line Jn) cannot be cleared until
+BL2046 (protecting Patchway Junction No.1) is cleared, this is due to the risk of trains rolling back over ‘Filton Tip
+AOCL’.
+
+Pilning
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                   Reason                  Timing Load        Value
+From Patchway to Pilning Down Loop Pass    Slow speed turnout into All traffic        {1}
+to Pass or Stop                            the loop (40mph) and
+                                           approach control
+From Severn Tunnel East to Pilning Up Loop Slow speed turnout into All traffic        {1½}
+Pass to Pass or Stop                       the loop (20 mph)
+
+Dwell Time
+150                                   ½
+153 to 170                            1
+
+Note: Refer to section 4.3 regarding freight movements through the Severn Tunnel
+
+GW606 COWLEY BRIDGE JUNCTION TO BARNSTAPLE
+
+Newton St. Cyres
+
+Dwell Time
+15x to 16x                            ½*
+* : Request Stop
+
+Crediton
+
+Dwell Time
+15x                                   1*
+
+Platform end conflicts
+A train in the UP (Exeter direction) can depart Crediton at the same time as a train in the DOWN (Barnstaple
+direction) is shown to arrive.
+
+A train in the DOWN (Barnstaple direction) cannot depart until 1 minute after a train in the UP (Exeter direction)
+has arrived.
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

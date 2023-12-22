@@ -1,0 +1,64 @@
+NETWORK RAIL                             Timetable Planning Rules                        Version:    4
+Region: North               Final Proposal for Subsidiary Change Timetable 2024            Date:     28th July 2023
+West and Central
+                                                                                           Page:     362 of 443
+
+Peak Forest Up Sidings
+
+# Includes collection of radio.
+Train draws forward beyond Signal 19 and driver communication with shunter prior to reversal.
+Reversal commences when departing Peak Forest Ground Signal 45.
+$ - an additional 2 minutes for a C stop should be added to this time if required by the operator
+
+Siding Lengths
+Siding                                                        Useable Length
+                                                              Metres                        SLU
+1                                                             285                           44
+2                                                             275                           42
+2A                                                            110                           17
+3                                                             192                           29
+4                                                             192                           29
+
+
+Peak Forest South SB
+
+Junction Margins
+First Movement                                     Second Movement                                      Margin
+Freight from Long Sidings depart Peak Forest       Freight passes from Chinley South Jn to Great        4
+South SB                                           Rocks.
+
+For Light Engine moves to Peak Forest Cemex Sidings
+Chinley South Jn pass            XX/XX
+Peak Forest South SB arr         XXOP00
+Peak Forest South SB dep         XX02
+Peak Forest 28 Signal arr        XXRM03
+Peak Forest 28 Signal dep        XX RM PR06
+Clear 34 points pass             XX/07 #
+Peak Forest Cemex Siding arr     XX 09
+
+For trains to/from Peak Forest Cemex Sidings
+
+Chinley South Jn.                      XX/XX                      Peak Forest Cemex          XX.00
+                                                                  Sidings dep
+Peak Forest South SB arr               XX/OP00                    Peak Forest South          XXRR10
+                                                                  Long Sidings arr
+Peak Forest South SB dep               XX.02 *                    Peak Forest South          XXRR30
+                                                                  Long Sidings dep
+Peak Forest 28 Signal arr              XX.05                      Peak Forest South SB       XX /35 $
+                                                                  pass
+Peak Forest 28 Signal dep               XX RM PR06 *              Chinley South Jn.        XX/XX
+Clear 34 points pass                    XX/12 #
+Peak Forest Cemex Sidings arr           XX.PR19
+Time between Cemex arrivals                                                                30
+* Includes collection of radio. Train draws forward clear of 28 Signal and communication with shunter prior to
+reversal. Reversal commences when departing 28 Signal.
+
+# When clear of 34 points, and after a further 2 mins for signaller’s duties, a train can pass on the Down Goods at
+Signal CY168.
+
+$ - an additional 2 minutes for a C stop should be added to this time if required by the operator
+
+
+
+
+                                Electronic copy - uncontrolled when printed

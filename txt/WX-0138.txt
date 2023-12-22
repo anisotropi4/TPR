@@ -1,0 +1,59 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                     Date:    27th October 2023
+                                             Timetable 2024                               Page:    136 of 178
+
+
+SW160 BROCKENHURST TO LYMINGTON PIER
+
+Brockenhurst
+
+See entry under route – SW105
+
+
+SW165 HAMWORTHY JUNCTION TO HAMWORTHY GOODS
+
+Hamworthy
+
+See entry under route – SW105
+
+
+SW170 WARMINSTER TO WILTON JUNCTION
+
+Wilton Junction
+
+See entry under route – SW115
+
+
+Wilton Junction G.S.P.
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Freight departs from Wilton Junction G.S.P.        Conflicting train passes Wilton Junction            8*
+towards Quidhampton Sidings
+Train from Warminster passes Wilton Junction         Freight departs Wilton Junction G.S.P. Signal 7    3
+towards Salisbury                                    towards Quidhampton Sidings
+Train passes Wilton Junction towards Salisbury       Conflicting Freight departs Quidhampton            3
+                                                     Sidings towards Wilton Junction G.S.P.
+Up train passes Wilton Junction on the Up            Train arrives at Wilton Junction G.S.P. from       3
+Exeter from Tisbury                                  Down Warminster
+Train departs Wilton Junction G.S.P. from Down Up train passes Wilton Junction on the Up                3
+Warminster towards Quidhampton Sidings               Exeter from Tisbury
+* Margin to be increased to 12 minutes if the freight is propelling into Quidhampton Sidings and only a single
+shunter is available.
+
+Restrictions
+A train arriving at Wilton Junction G.S.P. from SY60 signal on the Down Warminster will prevent a train from being
+signalled from SY56 on the Up Exeter, until the route is set from No. 4 points towards Quidhampton Sidings.
+It is not possible for a train to reverse behind Signal 7 on the Up Warminster to travel towards Salisbury. Trains
+reversing on the Up Warminster behind Signal 7 can only be signalled towards Quidhampton Sidings.
+
+Limit of Shunt
+                                                   Length Limit
+Down Warminster (from Quidhampton Sidings)         301m/47 SLU
+(clear of signal 250 or 8)
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

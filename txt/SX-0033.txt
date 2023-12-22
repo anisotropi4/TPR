@@ -1,0 +1,61 @@
+NETWORK RAIL                       Timetable Planning Rules                   Version:   4.3
+Route: Sussex                      Final Rules for Subsidiary                 Date:      18th October 2023
+                                         Timetable 2024 OFFICIAL
+                                                                              Page:      29 of 163
+
+SO511A HIGHBURY AND ISLINGTON TO NEW CROSS GATE
+TIMING POINT                       DOWN     UP       CODE   NOTES
+
+Haggerston                         -        -
+Hoxton                             -        -        S
+Shoreditch High Street             -        -        S
+Whitechapel                        -        -        S
+Shadwell Crossover                 -                        Timing point only for reversals of Up trains
+                                                            arriving or Down trains departing.
+                                                            Track code detail must be shown:
+                                                            UEL for Up East London
+                                                            DEL for Down East London
+Shadwell                           -        -               Platform detail must be shown for trains
+                                                            commencing or finishing their journey at this
+                                                            location
+Wapping                            -        -        S
+Rotherhithe                        -        -        S
+Canada Water                       -        -               Platform detail must be shown for trains
+                                                            commencing or finishing their journey at this
+                                                            location
+Canada Water Crossover                      -        S      Timing point only for reversals of Down trains
+                                                            arriving or Up trains departing
+                                                            Track code detail must be shown:
+                                                            UEL for Up East London
+                                                            DEL for Down East London
+Surrey Quays                       -        -        S
+Surrey Quays Silwood Junction      -        -               To/From Old Kent Road Junction – SO681
+Silwood Sidings                    -        -        S      ECS moves only
+Canal Junction                     - RVL    -               To/From New Cross – SO511B
+New Cross Gate Depot Washer                          S
+Road
+New Cross Gate CSD                      -        -   S
+New Cross Gate Maintenance              -        -   S
+Facility
+New Cross Gate North Junction      -        RVL
+New Cross Gate Depot Headshunt                       S
+TfL /NR Boundary Up                                         From New Cross Gate - SO510
+New Cross Gate                     -        -               Platform detail must be shown
+                                                            TIPLOC NEWXGEL applies to East London Line
+                                                            services using Platform 1
+                                                            TIPLOC NEWXGTE applies to this timing point
+                                                            on SO510
+TfL/ NR Boundary Down                                       To Brockley - SO510
+
+
+SO511B CANAL JUNCTION TO NEW CROSS
+TIMING POINT             DOWN          UP        CODE    NOTES
+
+Canal Junction           -             -                 To/From Surrey Quays Silwood Junction – SO511A
+Rolt Street Junction      SINGLE       -
+New Cross                              SINGLE
+
+
+
+
+                            Electronic copy - uncontrolled when printed

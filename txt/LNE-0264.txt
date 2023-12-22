@@ -1,0 +1,50 @@
+NETWORK RAIL                             Timetable Planning Rules                   Version: 4.1
+London North Eastern                       Revised Final Rules for                    Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                Page: 261 of 368
+
+
+Knaresborough
+First Movement                                   Second Movement                                Margin
+Arrive from Cattal                               Depart to Cattal                               1
+Arrive from Starbeck ECS (to shunt)              Following depart Starbeck                      5½
+Depart to Cattal                                 Following depart Starbeck                      2
+Depart Up platform to Starbeck                   Arrive from Cattal                             4
+Arrive from Cattal                               Depart Up platform to Starbeck                 1½
+
+Minimum Turnround
+Arrive loaded from Starbeck,        5
+depart ECS
+Arrive ECS from Starbeck, depart 9
+loaded
+Arrive loaded from Starbeck or      10
+Cattal, depart loaded
+Restrictions.
+     • An up train cannot pass/depart Starbeck whilst preceding train is in up platform at Knaresborough,
+         whether continuing towards Cattal or shunting between platforms. Reflected in margins above.
+     • When shunting between platforms, trains normally use crossover on viaduct.
+     • Departure from Up platform towards Starbeck should not be planned for passenger traffic
+
+
+Cattal
+
+Junction Margins
+First Movement                                  Second Movement                                 Margin
+Arrive/Pass from Knaresborough                  Depart to Knaresborough                         1
+Arrive/Pass from Knaresborough                  Pass to Knaresborough                           1½
+Arrive from Hammerton                           Arrive from Knaresborough                       Simultaneous
+Arrive from Knaresborough                       Arrive from Hammerton                           Simultaneous
+
+
+Hammerton
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Arrive/Pass from Poppleton                        Depart to Poppleton                              1
+Arrive/Pass from Poppleton                        Pass to Poppleton                                2½
+Arrive from Cattal                                Arrive from Poppleton                            Simultaneous
+Arrive from Poppleton                             Arrive from Cattal                               Simultaneous
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

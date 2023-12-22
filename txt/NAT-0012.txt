@@ -1,0 +1,57 @@
+                                                      OFFICIAL
+
+
+Network Rail                                                                                           Version 4.0
+National                                                                                       Date: 28th July 2023
+                                 Final Proposal for Subsidiary Change 2024
+                                                 Page 11 of 114
+† Depends on departure time of first train plus stopping headway
+
+Applicable Platform Reoccupation values can be found in the relevant section 5.3 of the TPRs. Where no
+Platform Reoccupation value is quoted then the applicable non-stop headway should be applied.
+
+The above table assumes use of the same platform. The same should apply where different platforms are
+available, excepting that separate margins for diverging or converging movements may apply and Platform
+Reoccupation is only relevant where the same platform is being used. Consecutive arrivals on different
+platforms from the same line should be planned as per the non-stop headway unless other rules are
+specified.
+
+
+1.5.6 Diverging or Converging Movements
+In circumstances where trains diverge (pass or depart from one common line to different lines) or converge
+(arrive or pass from different lines to one common line) then different margins may apply. Any such
+differences will be shown as junction margins in Section 5.3 of TPRs. If there is no specific converging or
+diverging margin then headway must be applied.
+
+
+1.5.7 Absolute Block and Track Circuit Block Headways
+Absolute Block is a signalling system that allows only one train to be in a block section at the same time. The
+block indicator is used to indicate whether the line between adjacent signal boxes is clear or occupied
+
+Timetable Planning Rules must always state whether an Absolute Block section is inclusive or exclusive of
+the timing point.
+
+Within the Timetable Planinng Rules, AB indicates locations where absolute block signalling applies. Here the
+headway is to be calculated from the transit time of the first of each pair of trains running between the stated
+timing points. A value “x” shall be added to the transit time to allow for the signaller’s actions and sighting of
+the relevant signal. The planning headway is shown as “AB+x”.
+
+AB methodology may also be used to express the headway in other areas (e.g. Track Circuit Block), the value
+“x” including the time taken to reset the route, clear the signal on entry to the section and sight the relevant
+signal.
+
+Track Circuit Block is defined as a method of signalling trains in a section of line using track circuits or other
+means of automatic train absence detection and without using block instruments.
+
+For the purposes of Timetable Planning, the headways section will only contain numeric values or Absolute
+Block values – Track Circuit Block may be referenced in the notes but will have a planning value of ‘AB+x’.
+
+
+Default planning of Absolute Block and Track Circuit Block sections require Train A to have passed/departed
+the block before train B can enter/stop within the block (ie. section is inclusive of timing points), unless
+otherwise stated as exclusive.
+
+
+
+
+                                 Electronic copy – uncontrolled when printed

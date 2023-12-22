@@ -1,0 +1,64 @@
+NETWORK RAIL                   Timetable Planning Rules                         Version:      4.2
+Route: Wessex              Final Rules for Subsidiary OFFICIAL
+                                                      Change                      Date:       27th October 2023
+                                    Timetable 2024                                Page:       164 of 178
+
+STATION               PLATFORM AND LINE              USAB        NOTES
+                                                     LE
+                                                     LENG
+                                                     TH
+Addlestone            1 - Down                        166
+Addlestone            2 - Up                          176
+Aldershot             1 - Up                          247
+Aldershot             2 - Down                        252        Trains can reverse in the Platform
+Aldershot             3 - Down Passenger Loop         252        Trains can reverse in the Platform
+Alton                 1 - Up                          167
+Alton                 2 - Down                        170
+Andover               1 - Up                          219
+Andover               2 - Down                        223
+Ascot                 1* - Up                         220        * - Station entrance side.
+                                                                 Down direction
+Ascot                 1* - Up                          252       * - Station entrance side.
+                                                                 Up direction
+Ascot                 2 - Down                         211       Down direction
+Ascot                 2 - Down                         224       Up direction
+Ascot                 3 - Down Passenger Loop          212       Down direction
+Ascot                 3 - Down Passenger Loop          214       Up direction
+Ash                   1 - Up                           173
+Ash                   2 - Down                         101
+Ash Vale              1 - Up                           169
+Ash Vale              2 - Down                         170
+Ashford (Middlesex)   1 – Up                           206
+Ashford (Middlesex)   2 - Down                         206
+Ashtead               1 - Up Portsmouth                209
+Ashtead               2 - Down Portsmouth              206
+Ashurst New Forest    1 - Up                           155
+Ashurst New Forest    2 - Down                         156
+Axminster             1 - Up                           148
+Axminster             2 - Down                         142
+Bagshot               1 - Up                            90
+Bagshot               2 - Down                          89
+Barnes                1 - Up Slow                      207       Trains can reverse in the Platform
+Barnes                2 - Up Fast                      214       Trains can reverse in the Platform
+Barnes                3 - Down Fast                    206
+Barnes                4 - Down Slow                    212
+Barnes Bridge         1 - Up                           204
+Barnes Bridge         2 - Down                         203
+Basingstoke           1 - Down Slow                    296       Trains can reverse in the Platform
+Basingstoke           2 - Down Fast                    245
+Basingstoke           3 - Up Fast                      245
+Basingstoke           4 - Up Slow                      245
+Basingstoke           5 - East Bay                     117
+Beaulieu Road         1 - Up                           101
+Beaulieu Road         2 - Down                         101
+Bedhampton            1 - Up                           124
+Bedhampton            2 - Down                         124
+Bentley               1 - Up                           123       Down direction
+Bentley               1 - Up                           123       Up direction
+Bentley               2 - Down Passenger Loop          122
+Berrylands            1 - Up Slow                      209
+Berrylands            2 - Down Slow                    207
+Bitterne              1 - Up                           136
+Bitterne              2 - Down                         148
+
+                           Electronic copy - uncontrolled when printed.

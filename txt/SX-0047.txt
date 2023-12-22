@@ -1,0 +1,57 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version:   4.3
+Route: Sussex                      Final Rules for Subsidiary                  Date:      18th October 2023
+                                         Timetable 2024 OFFICIAL
+                                                                               Page:      43 of 163
+
+SO680 SOUTH BERMONDSEY JUNCTION TO HORSHAM
+TIMING POINT                   DOWN         UP          CODE       NOTES
+
+Dorking Signal CBK9            -                                   For ECS moves to shunt between
+                                                                   platforms at the London end of the station
+                                                                   TIPLOC: DORKBK9
+Holmwood                       -            -           S
+Ockley                         -            -           S
+Warnham                        -            -
+Horsham Signal T837            DM                                  TIPLOC: HORS837
+                               UM                                  Timing point for all Down direction services
+Horsham Signal T1401           -                        S          For ECS moves to/from Field Sidings
+                               UM                                  TIPLOC: HORS401
+Horsham Signal T836            -            -                      For all movements to/from Field Sidings
+                                                                   and for all movements to/from Horsham
+                                                                   Up TC
+Horsham M.D.U. Siding          -            -                      Entry via T837 signal
+                                                                   TIPLOC: HORSUKF
+Horsham Field Sidings                       -                      ECS movements to/from Field Sidings
+(Thameslink Sidings)                                               Shunters release required (this does not
+                                                                   include all other sidings)
+                                                                   Use TIPLOC HORSTLS
+Horsham Up TC                               -                      Timing point for trains to and/from the
+                                                                   terminal complex
+                                                                   Use TIPLOC HORSHUS
+                                                                   Shunters release required (this does not
+                                                                   include all other sidings)
+Horsham                        -            UM                     Platform detail must be shown.
+                                                                   To/from Christ’s Hospital - SO520
+
+
+SO680A HERNE HILL TO TULSE HILL
+TIMING POINT                   DOWN         UP          CODE       NOTES
+
+Herne Hill                     -            -                      Platform detail must be shown
+                                                                   To/from Brixton - Refer to Kent Timetable
+                                                                   Planning Rules - SO110
+                                                                   To/from West Dulwich – Refer to Kent
+                                                                   Timetable Planning Rules – SO110
+                                                                   To/from Loughborough Junction - Refer to
+                                                                   Kent Timetable Planning Rules - SO280
+Herne Hill Signal VS602                                            Shunt available
+                                                                   Use TIPLOC HERN602
+Tulse Hill                     -            -                      Platform detail must be shown
+                                                                   To/from West Norwood Junction - SO680C
+                                                                   To/from Leigham Junction - SO680B
+                                                                   To/from Streatham - SO680
+
+
+
+
+                          Electronic copy - uncontrolled when printed

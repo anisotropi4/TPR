@@ -1,0 +1,50 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                             25th August 2023
+                                                                                     Date:
+                                         Timetable 2024                              Page:    103 of 168
+
+
+Chislehurst
+
+Length Restrictions
+A train exceeding 346m/54SLU in length on the Up Chatham Loop will foul 868 points in rear at Hawkwood
+Junction when standing at AD22.
+Therefore, junction margins must be based on train’s departure time at Chislehurst
+
+
+Petts Wood Junction
+
+Adjustments to Sectional Running Times
+Crossing moves timed at Petts Wood Junction do not require the standard {½} adjustment. Values should be
+applied as below
+Movement Down                       Reason                                 Value
+Pass from Down Fast Tonbridge       Acceleration                           ½*
+Loop (not stopping at Petts Wood)
+Pass from Down Slow Tonbridge       Acceleration                           ½*
+Loop (not stopping at Petts Wood)
+
+Movement Up                           Reason                                 Value
+Pass Up Slow to Up Slow Tonbridge     Approach Control                       1
+Loop
+Pass Up Slow to Up Fast               Approach Control                         1½^
+* applied approaching next timing point. Does not apply to freight less than 1200T/TR70
+^ applied approaching next timing point
+
+Length Restrictions
+A train exceeding 432m/67SLU in length on the Down Slow Tonbridge Loop will foul 873 points in rear at
+Hawkwood Junction when standing at AD31.
+Therefore, junction margins must be based on train’s departure time at Petts Wood Junction
+A train exceeding 604m/94SLU in length on the Down Fast Tonbridge Loop will foul VS207 signal in rear when
+standing at AD35.
+Therefore, junction margins must be based on train’s departure time at Petts Wood Junction
+
+
+Petts Wood
+
+Connectional Allowance               4
+
+
+
+
+                                   Electronic copy - uncontrolled when printed

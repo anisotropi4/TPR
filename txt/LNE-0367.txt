@@ -1,0 +1,58 @@
+NETWORK RAIL                            Timetable Planning Rules                     Version: 4.1
+London North Eastern                      Revised Final Rules for                      Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                  Page: 364 of 368
+
+
+
+
+                 Doncaster Area Timing Points 2                              MANDATORY TIMING POINT                 CROSSING TRAINS ONLY
+
+                                                                             STOPPING TRAINS ONLY
+
+
+
+  TO HEXTHORPE
+  JN
+                         BENTLEY                                                 CARCROFT                        ADWICK
+                         [BTLYSY]                      ADWICK
+                                                                                 JUNCTION                       JUNCTION
+                                                      [ADWICK]
+                                                                  LN836          [CRCRFTJ]                      [ADWICKJ]
+
+
+
+                                                                                               SKELLOW
+                                              LN842                                                                   HAYWOOD
+                                                                                               JUNCTION
+                                                                                                [SKLWJN]              JUNCTION
+            AL
+
+TO                                                                                                  LN888
+DONCASTER                                         SHAFTHOLME                    JOAN CROFT                     TEMPLE HIRST
+                      ARKSEY LOOP
+                                                   JUNCTION                      JUNCTION                       JUNCTION
+                       [ARKSEYL]
+                                                    [SHFTHLJ] LN600              [JNCROFT]                      [TEMPLHJ]
+
+                                                                                                 HECK
+                                             APPLEHURST
+                                              JUNCTION            THORPE                       PLASMOR PS
+                    LN766
+                                              [APLHRSJ]           MARSH                        [HCKPLSM]
+                                                                 JUNCTION
+
+                                                                                  HATFIELD &
+                        BENTLEY                      KIRK          US             STAINFORTH         FL          THORNE
+                       JUNCTION                   SANDALL JN                       (HTFLASF)                    JUNCTION
+                        [BTLYJN]                   [KKSNJN]                                                     [THORNEJ]
+                                                                                                     SL
+                                                                                    DS
+                                                                                               LN736/752
+
+                             TO LOW ELLERS
+                                                                    KIRK
+                             CURVE JN                             SANDALL                                      Timing Points and Running Lines
+                                                                 [KKSNDAL]
+                                                                                                               Blank line applies where identity is not shown
+
+                                                         Electronic copy - uncontrolled when printed.

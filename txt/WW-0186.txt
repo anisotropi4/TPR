@@ -1,0 +1,62 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                     Version:    4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                    Date:     6th October 2023
+                                         Change Timetable 2024                           Page:     183 of 289
+
+
+15x/16x SRTs at Clink Road Junction are based on running to/from Frome therefore adjustment allowances are not
+required.
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Up pass from Blatchbridge Jn (direct)          Up pass from Frome North Jn                     2
+
+Converging Margins
+First Movement                                 Second Movement                                 Margin
+Passenger pass from Frome North Jn             Pass from Blatchbridge Jn (via Frome            4
+towards Westbury                               avoiding line)
+
+Blatchbridge Junction
+
+Adjustments to Sectional Running Times
+Movement                               Reason                                      Timing Load     Value
+Pass to Frome                          Approach control                            80x             {1}
+Pass from Frome                        Acceleration                                80x             {1} approaching
+                                                                                                   next timing point
+
+Planning Note
+15x/16x SRTs at Blatchbridge Junction are based on running to/from Frome therefore adjustment allowances are
+not required.
+
+East Somerset Junction
+
+Adjustments to Sectional Running Times
+Movement                                       Reason                                 Timing Load        Value
+Pass to Merehead Quarry Jn                     Approach control                       All                {1½ }
+Pass from Merehead Quarry Jn                   Acceleration                           Freight up to      {½}*
+                                                                                      1000t
+                                                                                      Freight 1200 to    {1}*
+                                                                                      1400t
+                                                                                      Freight 1600t to   {1½}* #
+                                                                                      2000t
+                                                                                      Freight 2200t to   {2}* #
+                                                                                      2600t
+                                                                                      Freight 2800t or   {2½}* #
+                                                                                      above
+*To be applied approaching next timing point
+# Reduce by 1 if class 7
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Down pass to Merehead Quarry Jn (direct)       Up pass from Castle Cary                        3
+Down pass to East Somerset Jn W324 Signal      Up pass from Castle Cary                        2½
+(via BL)
+Up pass from Castle Cary                       Down pass to Merehead Quarry Jn                 3½
+Up pass from Merehead Quarry Jn                Down pass to Merehead Quarry Jn                 5
+Down pass to Merehead Quarry Jn                Up depart from BL                               2
+Up pass from Castle Cary                       Up pass from Merehead Quarry Jn                 2½
+Up pass from Castle Cary                       Up depart from BL                               2
+
+                                   Electronic copy - uncontrolled when printed.

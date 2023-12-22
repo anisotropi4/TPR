@@ -1,0 +1,64 @@
+NETWORK RAIL                              Timetable Planning Rules                        Version:   4.2
+Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                 Change                     Date:    27th October 2023
+                                               Timetable 2024                               Page:    107 of 178
+
+Brockenhurst
+Up Siding                12                     Only to be used in connection with engineering works
+
+Connectional Allowances
+All Services                               3
+
+Dwell Times
+All Services except as below               1½
+Down direction SWR Services                1
+
+Junction Margins
+First Movement                                         Second Movement                                  Margin
+Between all movements except as below                                                                   3
+Up Main Line or Up Lymington arrivals                  Down departures                                  1
+Platform 1 Down Main Line departures                   Up Lymington arrivals                            4½
+Platform 1 Down Main Line departures                   Up Main Line arrivals                            4
+Train passes on Up Main Line                           Up Main Line arrival platform 1                  4½
+Train passes on Down Main Line                         ECS crosses from Platform 1 to Down              2
+                                                       Passenger Loop
+Up Main Line departure                                 Down Main Line arrival into platform 1           3
+Down Main arrive in Platform 1 or 4                    Passing Down Main Line                           5
+
+Overlap Restrictions
+First Movement                                  Second Movement                          Signal         Margin
+Down arrival at Platform 1                      Up arrival at Platform 2                 BH6            3
+Up arrival at Platform 2                        Down arrival at Platform 1               BH6            3
+Up arrival at Platform 2                        Up departure from Platform 1             BH6            1
+Up departure from Platform 1                    Up arrival at Platform 2                 BH6            3
+
+Limit Of Shunt
+                                                 Length Limit
+Up Loop to Up Main                               12 cars / 10 444
+(clear of BH60) Country end
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1       Up Platform Loop         (Up direction)      Attaching/Detaching *
+Platform 2       Up Main                  (Up direction)      Attaching/Detaching *
+Platform 3       Down Main                                    Prohibited
+Platform 4       Down Platform Loop       (Both directions)   Attaching/Detaching and Platform Sharing $
+* Attaching from Lymington Branch only
+$ A second train must arrive in an occupied Platform before the first train is allowed to depart
+A down train entering occupied platform 4 must not exceed 5-coaches
+
+Station Working Requirements
+Lymington branch shuttle trains will normally run to Platform 4
+
+
+New Milton
+
+Dwell Times
+All Passenger Services                 1
+
+
+Christchurch
+
+Dwell Times
+
+                                      Electronic copy - uncontrolled when printed.

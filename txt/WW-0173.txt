@@ -1,0 +1,64 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                   Version:    4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                  Date:     6th October 2023
+                                           Change Timetable 2024                         Page:     170 of 289
+
+
+
+Stapleton Road
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                          Reason                               Timing Load      Value
+From North Somerset Junction to Stapleton         Slow speed junction                  HST              + {1}
+Road Pass to Stop                                                                      22x
+
+
+
+Dwell Time
+15x / 16x / GWR Short Form HST (HSTGW4) /         1
+80x
+LH                                                1½
+
+
+Lawrence Hill
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                      Reason                    Timing Load                      Value
+From North Somerset Junction to Lawrence Hill Slow speed junction       HST/22x                          {1}
+Pass to Stop                                                            D245 to D455
+
+
+Dwell Time
+150                                                ½
+153 to 170 / GWR Short Form HST (HSTGW4)           1
+
+Overlap Restrictions
+First Movement                                 Second Movement                                           Margin
+Pass Dr Days Jn on Up Filton Main or Down Down arrival at Lawrence Hill routed to Up Filton 2*
+Filton Main                                    Main, Down Filton Main or DBL or UBL at Dr Days Jn
+Cross from Up Filton Main or UBL to Up Filton Down arrival at Lawrence Hill                              2
+Relief at Dr Days Jn
+*Can be reduced to 0 if second train has minimum of 2 minutes dwell at Lawrence Hill. This is to allow overlap to
+be reset.
+
+Dr.Days Junction
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                           Reason                       Timing Load                           Value
+
+All trains on the Down Filton Relief at   Slow speed junction and         DMU / GWR Short Form        {½}
+Narroways Hill Jn crossing to the         approach control                HST (HSTGW4)
+Down Filton Main at Dr Days Jn
+
+
+Any trains not stopping at Lawrence       Slow speed junction and         HST/22x/DMU/80x/GWR         {1}
+Hill routed towards North Somerset        approach control                Short Form HST
+Jn via ‘Rhubarb Curve’                                                    (HSTGW4)
+
+                                                                          D245 to D455 / Freight      {1}
+
+
+
+                                      Electronic copy - uncontrolled when printed.

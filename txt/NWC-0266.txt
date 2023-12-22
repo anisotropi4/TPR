@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:     4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:      28th July 2023
+West and Central
+                                                                                        Page:    254 of 443
+
+Worcester Shrub Hill
+
+Adjustment to Sectional Running Time
+Movement Down                                    Reason                           Timing Load       Value
+Train from the Cotswold line via Norton Jn       Norton Jn – Worcester SRT        80x               ½
+                                                 based from Abbotswood Jn
+
+Movement Up                                      Reason                           Timing Load       Value
+Arrival from Droitwich Spa direction routed to   SPAD mitigation                  All               1
+Platform 2B with Platform 2A occupied                                             DMU/EDMU          approaching
+                                                                                                    Tunnel Jn
+                                                                                                    1
+                                                                                                    approaching
+                                                                                                    Shrub Hill
+Arrival from Worcester Foregate Street routed    SPAD mitigation                  All               1
+to Platform 2B with Platform 2A occupied.                                         DMU/EDMU          approaching
+                                                                                                    Shrub Hill
+
+Connectional Allowance                           7
+
+Dwell Time
+DMU                                              1
+Class 80X                                        1½
+
+Junction Margins
+First Movement                                   Second Movement                        Margin
+Arrival of an up train from Worcester Foregate   Departure of a down train from         3
+Street at Worcester Shrub Hill                   Worcester Shrub Hill towards
+                                                 Worcester Foregate Street
+An arrival or departure to/from platform 3 or    An Up arrival at platform 2            3
+Worcester Back Road
+A train arriving at platform 2 from Worcester    Train departing platform 1 towards     2
+Foregate Street or Worcester Tunnel Jn           Norton Jn
+An arrival at Platform 1 entirely or platform 1B An arrival at platform 2 From          4
+only                                             Worcester Foregate Street direction
+An arrival at platform 2 from Worcester          An arrival at Platform 1 entirely or   3*
+Foregate Street direction                        platform 1B only from Wylds Lane Jn
+Train from Worcester Foregate Street arrives     Train passes platform 1 from Wylds     3½
+platform 2                                       Lane Jn
+*Can be reduced to 2½ if (2) applied at Worcester Shrub Hill
+
+Planning Note
+Platform 1A cannot accommodate a 5-car Class 80x
+
+No pathing to be applied to schedules between Worcester Foregate Street and Worcester Shrub Hill in the Up
+direction due to signal overlap at Worcester Shrub Hill requiring the route to be set to a platform.
+
+Platform Reoccupation                             3*
+* Where trains are using the same platform in the OPPOSITE direction, the minimum platform re-occupation time
+is 4 minutes.
+
+
+
+
+                               Electronic copy - uncontrolled when printed

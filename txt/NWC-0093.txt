@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    81 of 443
+
+
+NW4027 CARLISLE YARD RECESS SIDINGS TO BRUNTHILL
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+End of Line                                                          96 miles 9 chains
+Stainton Jn                                                          Single line from Stainton Jn to/from
+                                                                     Brunthill Branch Jn and Brunthill
+                                                                     To/from Brunthill
+Brunthill Branch Jn                                                  To/from Carlisle New Yard
+Brunthill                                                            Network Rail Boundary
+                                                                     To/from Carlisle Warehousing Siding
+
+
+NW4029 MOSSBAND JN TO BUSH–ON–ESK
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Mossband Jn                             –                            Single line from Mossband Jn to/from
+                                                                     Network Rail Boundary
+                                                                     To/from Carlisle – NW4001
+Bush–on–Esk West Jn                                                  To/from Longtown M.o.D.
+Bush-on-Esk East Jn
+Network Rail Boundary                                                  0 miles 24 chains
+                                                                       To/from Smalllstown M.o.D.
+Note: The only timing link currently used is from Mossband to/from Longtown M.o.D.
+
+
+NW4031 GRETNA JN TO GRETNA GREEN (EXCLUSIVE)
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Please refer to Line of Route SC031 (Scotland Timetable Planning Rules) for Gretna Jn to Gretna Green
+
+
+NW4033 CARNFORTH NORTH JN TO CARLISLE SOUTH JN (VIA BARROW)
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Carnforth North Jn                      –            –               To/from Morecambe South Jn – NW4001
+Carnforth                               –            –
+Carnforth Station Jn                    –            –               To/from Settle Jn – NW9903
+Silverdale                              –            –         S
+Arnside                                 –            –
+Grange–over–Sands                       –            –
+Kents Bank                              –            –         S
+Cark & Cartmel                          –            –         S
+Ulverston                               –            –
+Dalton                                  –            –         S
+Dalton Jn                               –            –               To/from Park South Jn via NW4041
+Roose                                   –            –         S
+Salthouse Jn                            –            –         X     To/from Port of Barrow
+Barrow–in–Furness                       –            –               Platform detail must be shown
+                                                                     Single line from 29 miles 28 chains to/from
+                                                                     Park South Jn
+Barrow-in-Furness Carriage                           –         S     To/from Barrow-in-Furness
+Sidings
+Park South Jn                           –            –               To/from Dalton Jn via NW4041
+Askam                                   –            –
+Kirkby–In–Furness                       –            –         S
+
+
+                             Electronic copy - uncontrolled when printed

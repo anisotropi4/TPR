@@ -1,0 +1,64 @@
+                                                 OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                        Version:   4
+Scotland                    Final Rules for Subsidiary Change Timetable 2024               Date:    28/07/2023
+                                                                                           Page:    20 of 242
+
+SC011 LAW JUNCTION TO UDDINGSTON JUNCTION (VIA HOLYTOWN)
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Law Junction                                                       To/from Lanark Junction – SC001
+                                                                   Trains using loops to be timed as such.
+Wishaw                           –           –
+Wishaw Central Junction                                            To/from Shieldmuir – SC013
+Holytown Junction                –           –                     To/from Shotts – SC007
+Holytown                         –           –              S      Platform detail must be shown
+Mossend East Junction            –           –                     To/from Mossend North Junction – SC015
+                                                                   To/from Mossend South Junction – SC017
+Mossend West Junction            –           –                     To/from Mossend South Junction – SC019
+Bellshill                        –           –              S      Platform detail must be shown
+ Motherwell signal GMM185        –                          F      Reversals into Viewpark Sidings
+Viewpark Sidings Lafarge                     –              F
+Uddingston Junction              –           –                     To/from Newton East Junction – SC001
+
+
+SC013 WISHAW CENTRAL JUNCTION TO SHIELDMUIR JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Wishaw Central Junction          –           –                     To/from Wishaw – SC011
+Shieldmuir Junction              –           –                     To/from Shieldmuir – SC001
+
+
+SC015 MOSSEND EAST JUNCTION TO MOSSEND NORTH JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Mossend East Junction            –           –                     To/from Law Junction – SC011
+Mossend North Junction           –           –                     To/from Greenhill Lower Junction – SC093
+
+
+SC017 MOSSEND EAST JUNCTION TO MOSSEND SOUTH JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Mossend East Junction            –           –                     To/from Law Junction – SC011
+Mossend South Junction           –           –                     To/from Motherwell – SC093
+
+
+SC019 MOSSEND SOUTH JUNCTION TO MOSSEND WEST JUNCTION
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Mossend South Junction           –           –                     To/from Motherwell – SC093
+Mossend West Junction            –           –                     To/from Uddingston Junction – SC011
+
+
+SC023 MOTHERWELL TO NEWTON (VIA HAMILTON)
+TIMING POINT                     DOWN        UP             CODE   NOTES
+
+Motherwell                                                         Platform detail must be shown
+                                                                   To/from Uddingston Junction – SC001
+Airbles                          –           –
+Haughhead Junction               –           –                     To/from Chatelherault –SC024
+Hamilton Central                 –           –
+Hamilton West                    –           –              S      Also freight trains to/from E.G. Steele
+
+
+                                Electronic copy - uncontrolled when printed.

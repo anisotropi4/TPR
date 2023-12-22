@@ -1,0 +1,62 @@
+                                                      OFFICIAL
+
+ NETWORK RAIL                         Timetable Planning Rules 2024                    Version:   4.1
+ Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                   Date:    6th October 2023
+                                          Change Timetable 2024                          Page:    245 of 289
+
+
+Mostyn Docks and Trading
+The next planned service on the Down Main cannot pass Holywell Junction until 2 minutes after the train to Mostyn
+Docks has arrived at Mostyn Ground Signal 15.
+The next planned service on the Up Main cannot pass Rhyl (Talacre when open) until 2 minutes after the train to
+Mostyn Docks has arrived inside at Mostyn Docks.
+
+Mostyn West Jn
+
+Standard NW Route Jn Margins apply
+
+Prestatyn
+
+Dwell Time
+LH (MK IV)                             1½
+Power                                  1
+220/221                                1½
+390 (hauled)                           1½
+
+Rhyl
+
+Dwell Time
+LH                                     2
+Power                                  1
+220/221/LH MK4                         1½
+390 (hauled)                           2
+
+Platform Reoccupation
+First Movement                         Second Movement                        Margin
+Train departs Platform 1 towards       Train arrives into Platform 1 from     3½
+Chester on Up Holyhead                 Chester, crossing at Rhyl Jn from
+                                       Down Holyhead
+Train departs Platform 2 towards       Train arrives into Platform 2 from     7½
+Chester, crossing to Up Holyhead at    Chester
+Rhyl Jn
+
+Abergele & Pensarn
+
+Dwell Time
+LH                                     1
+Power                                  1
+LH MK4                                 1½
+
+Colwyn Bay
+
+Dwell Time
+LH                                     2
+Power                                  1
+220/221/LH MK4                         1½
+390 (hauled)                           2
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

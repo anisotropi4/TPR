@@ -1,0 +1,63 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4.1
+Anglia                 Amended Final Principal and Subsidiary Change Timetable                12th September
+                                                                                     Date:
+                                                 2024                                         2023
+                                                                                     Page:    38 of 183
+
+EA1320 CAMDEN ROAD WEST JUNCTION TO STRATFORD PLATFORMS 1 AND 2
+TIMING POINT                    DOWN         UP          CODE     NOTES
+                                EAST         WEST
+                                BOUND        BOUND
+
+Westbourne Road                 - UNL        NL REV               Up Line code UNL to be shown for trains
+Junction                                                          towards Highbury and Islington
+                                                                  NLL Platform 7.
+                                                                  Tiploc – WSBRNRJ
+Highbury Signal NL1238                       -           S        Timing point on ELL transfer track for trains
+                                                                  which change traction current in up direction
+                                                                  Tiploc - HIGH238
+                                                                  From Highbury and Islington ELL – Refer to
+                                                                  Sussex Timetable Planning Rules – SO511
+Highbury Signal EL321           -                        S        Timing point on ELL transfer track for trains
+                                                                  which change traction current in down direction
+                                                                  Tiploc - HIGH321
+                                                                  To Highbury and Islington ELL Platform 2 –
+                                                                  Refer to Sussex Timetable Planning Rules –
+                                                                  SO511
+Highbury & Islington            -            -           S        Platform detail must be shown – NLL Platform 7
+                                                                  Up (Westbound) and 8 Down (Eastbound).
+                                                                  Tiploc - HIGHBYA
+Canonbury West Junction         - UNL        - DNL                Line code UNL is to be shown for trains
+                                                                  towards Canonbury Platform 3.
+                                                                  Line code DNL is for trains towards Highbury
+                                                                  and Islington Platform 8
+                                                                  To/from Finsbury Park – Refer to LNE
+                                                                  Timetable Planning Rules – LN110
+Canonbury                       -            -           S        Platform detail must be shown – NLL Platform 3
+                                                                  Up (Westbound) and 4 Down (Eastbound).
+                                                                  Tiploc - CNNB
+Dalston Kingsland               -            -           S
+Navarino Road Junction          -            -                    To/from Reading Lane Junction – EA1180
+Hackney Central                 -            -           S
+Homerton                        -            -           S
+Victoria Park Junction          - UNL                    X        Crossover location Down to Up Line
+Hackney Wick                    - UNL        -           S        Platform 1 to be shown for Down (Eastbound)
+                                                                  trains turning round
+Lea Junction                    -            -                    To/from High Meads Junction – EA1340
+Channelsea Up Loop Signal                                         Due to ARS specifications stops must be
+NL1286                                                            shown at Lea Jn (Tiploc – LEAJ), ARS will then
+                                                                  hold the train at Signal NL1286
+Channelsea North Junction                                         To/from High Meads Junction – EA1350
+Channelsea Junction             NLL -        - AL                 Up Line code AL to be used by trains routed via
+                                                                  Channelsea Up Loop and Signal NL1286
+Channelsea South Junction                                         To/from Stratford Central Junction West via
+                                                                  Channelsea Curve – EA1150
+Stratford Platforms 1 and 2     -            NLL                  Platform detail must be shown
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,46 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:     4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024            Date:      28th July 2023
+West and Central
+                                                                                        Page:      232 of 443
+
+Kingsbury Branch Jn
+
+Planning Rules
+
+Incoming trains from Tamworth direction to show 2 minute OP stop to pick up radio and prepare to propel towards
+Kingsbury Reception Sidings
+
+Departing trains from Kingsbury Reception Sidings towards Tamworth to show 1 minute OP stop to prepare to
+change direction.
+
+
+Kingsbury Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                               Value
+Pass from Tamworth towards Whitacre Jn           Junction speed differential and flashing yellow      ½ except:
+                                                 signals                                              1 22x
+                                                                                                      1½ HST%
+
+% Reduce to ½ if stopping at Tamworth
+
+Movement Up                                      Reason                                               Value*
+Pass to Tamworth having stopped at Water         Not at line speed by Kingsbury Jn                    ½ 170
+Orton (via Up Derby)
+Pass to Tamworth having crossed from Up          Not at line speed by Kingsbury Jn                    ½ 75mph
+Derby Slow or Park Lane Jn at Water Orton                                                             freight 800t
+West Jn (via Up Derby)                                                                                and above
+                                                                                                      ½ 60 mph
+                                                                                                      freight
+                                                                                                      2000t/TR115
+                                                                                                      and above
+Pass from Whitacre Jn to Tamworth (stopping      Junction speed differential and acceleration         1½ 170
+at Wilnecote)
+Pass from Whitacre Jn to Tamworth (stopping      Junction speed differential and acceleration         1 170
+at Tamworth)                                                                                          1½ 22x
+                                                                                                      2 HST
+
+
+
+
+                             Electronic copy - uncontrolled when printed

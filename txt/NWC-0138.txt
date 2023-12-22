@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:    126 of 443
+
+
+MD405 LEAMINGTON SPA JN TO COVENTRY SOUTH JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Leamington Spa to Milverton Jn       4             4
+Milverton Jn to Kenilworth Loop      5             TCB*    *Single Line TCB planned as AB +1
+Kenilworth Loop to Gibbet Hill Jn    5             5       Single Line
+Gibbet Hill Jn to Coventry           3             3
+
+
+MD410 COVENTRY NORTH JN TO NUNEATON SOUTH JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Coventry to Chilvers Coton Jn        4             4
+Chilvers Coton Jn to Nuneaton        AB+2          AB+2
+
+
+MD415 HATTON STATION TO STRATFORD–UPON–AVON
+TIMING POINT                         DOWN          UP      NOTES
+
+Hatton Station to Hatton West Jn     AB+2          AB+2    Axle Counter Block but timed as AB
+Hatton West Jn to Bearley Jn                   *           * Single line - Axle Counter Block but timed as
+                                                           AB+2
+Bearley Jn to Stratford upon Avon    AB*           AB*     *Train 1 arrives Stratford Upon Avon; Train 2
+                                                           passes Bearley Jn simultaneously and vice-
+                                                           versa.
+
+
+MD420 HATTON NORTH JN TO HATTON WEST JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Hatton North Jn to Hatton West Jn              *           * Single line - TCB plan as AB+2
+
+
+MD425 TYSELEY SOUTH JN TO BEARLEY JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Tyseley to Whitlocks End             6
+Whitlocks End to Wood End            AB+2                  TCB but timed as AB
+Wood End to Henley in Arden          AB+2                  TCB but timed as AB
+Henley in Arden to Bearley Jn        AB+2                  TCB but timed as AB
+Bearley Jn to Henley in Arden                      AB+2    TCB but timed as AB
+Henley in Arden to Sig TB3478                      AB+2    TCB but timed as AB
+Signal TB3478 to Whitlocks End                     AB+2    TCB but timed as AB
+Whitlocks End to Tyseley                           6
+
+
+MD430 DROITWICH SPA TO STOURBRIDGE NORTH JN
+TIMING POINT                         DOWN          UP      NOTES
+
+Droitwich Spa to Kidderminster       4             4#      # Headway is increased to 5 minutes when following
+                                                           a freight train
+Kidderminster to Stourbridge         4             4
+Junction
+
+
+
+
+                               Electronic copy - uncontrolled when printed

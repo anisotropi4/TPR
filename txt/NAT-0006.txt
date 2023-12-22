@@ -1,0 +1,63 @@
+                                                    OFFICIAL
+
+
+Network Rail                                                                                        Version 4.0
+National                                                                                    Date: 28th July 2023
+                                  Final Proposal for Subsidiary Change 2024
+                                                Page 5 of 114
+ 1.2.8    Supporting information must be stored in a format accessible to Network Rail and Timetable
+          Participants. Such information must be made available when requested.
+
+ 1.2.9    TPR values for Headways and Junction Margins shall always include rules based on the application
+          of the least restrictive aspect the signalling system can show.
+
+ 1.2.10 Where the actual operation of the Railway allows, equivalent TPR values for Headways and
+        Junction Margins may be developed giving consideration to restrictive signalling aspects. Such
+        values may not exist as the exclusive rule, and must always include allowances that reflect the
+        impact on the SRT of trains operating on restrictive aspects. These restrictive aspect rules and
+        allowances cannot be applied independently as they comprise a single rule.
+
+ 1.2.11 Any rule that is not predicated on the basis of the signalling system showing the least restrictive
+        aspect must be clearly identified as a restrictive aspect rule in order that Network Rail and
+        Timetable Participants fully appreciate the operational implications of adoption of that rule.
+
+ 1.2.12 A process of rounding will apply to all technical values generated through this methodology in order
+        to express planning values in multiples of half minutes and be compatible with downstream
+        systems.
+
+1.3 Procedure for Amending TPRs
+ 1.3.1    When producing TPR change proposals, Network Rail and/or the Timetable Participant will set out
+          why the change is proposed, and the planned date for implementation.
+
+ 1.3.2    The proposal will consist of:
+
+         (a) A proposal number, provided by the appropriate Network Rail TPR forum
+
+         (b) Source data and assumptions for both infrastructure and rolling stock
+
+         (c) Supporting evidence as agreed by Network Rail and affected parties
+
+         (d) Outputs from the simulation model or other methodology, Technical values, planning values, and
+             any rounding applied expressed in seconds and/or %age uplift
+
+         (e) Network Rail will consult in accordance with the Network Code
+
+         (f) Network Rail will document responses and decisions taken on implementation or otherwise, so
+             that each TPR entry has an audit trail
+
+
+1.4 Sectional Running Times
+ 1.4.1    Sectional Running Times are referred to in Section 5.1 of the TPR.
+
+ 1.4.2    A Sectional Running Time is the time taken for various train types (Timing Loads) to traverse a
+          Network Link, representing the fastest route of that Network Link.
+
+ 1.4.3    All SRTs are compiled individually by:
+
+         (a) Direction of travel
+
+         (b) Each track on multiple lines
+
+         (c) Optimal performance possible for line and rolling stock, including acceleration or deceleration
+             impact as appropriate
+                               Electronic copy – uncontrolled when printed

@@ -1,0 +1,55 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                         Version:   4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024                Date:    28/07/2023
+                                                                                                 Page:    223 of 242
+
+
+
+5.5 Timing Allowances
+All allowances shown are in minutes.
+ LH/HST,22x       Refers to non-freight locomotive hauled trains, High Speed Trains (two Class 43 locomotives with
+ & 80X            coaching stock) and Classes 220/221/222 & 80X
+ MU               Refers to all forms of multiple unit, whether diesel or electric as well as to light locomotives. #
+                  However, Scotrail EMU traction includes 5% allowance for Engineering purposes and therefore
+                  the “E” allowances shown do not apply to these services.
+ FRT              Refers to locomotive hauled freight trains
+
+SX Daytime allowances apply at all times except where specified differently in Sections 5.5.2, 5.5.3, 5.5.4, 5.5.5 and
+5.5.6. The locations at which allowances are included within a Train Slot may vary. The total allowance included
+within a Train Slot will not exceed the maximum value allowed.
+All allowances are indicative for the Final Principal Rules and are subject to change.
+E refers to engineering allowance
+P refers to performance allowances
+
+
+
+5.5.1 SX Daytime (See routes for applicable times)
+On Monday different allowances apply on some routes until the end of the ‘Sunday’ allowances at the times specified
+in the tables below. Please refer to Section 5.5.4 for the ‘Sunday’ allowances section to identify the routes to which
+those allowances apply.
+
+SC001 GRETNA JUNCTION TO GLASGOW CENTRAL (VIA BEATTOCK)
+Timing Section                        Type    LH       MU#       FRT    Remarks
+                                              HST
+                                              22X
+                                              80X
+
+Down – Weekdays
+Approaching Carstairs South        E           2        2          2
+Junction
+Approaching Rutherglen East        E           1        1          1
+Junction
+Between Lanark Junction and Bridge P           1        1               For express passenger trains that originate
+Street Junction                                                         south of Carstairs/Edinburgh
+# See note regarding EMUs at the beginning of Section 5.5
+Up – Weekdays
+Approaching Carstairs North        E           1        1          1    Only for trains routed to Gretna Junction
+Junction
+Approaching Signal MC862           E           2        2          2
+# See note regarding EMUs at the beginning of Section 5.5
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

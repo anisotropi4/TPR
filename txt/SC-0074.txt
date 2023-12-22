@@ -1,0 +1,60 @@
+                                                         OFFICIAL
+
+NETWORK RAIL                                 Timetable Planning Rules                             Version:   4
+Scotland                        Final Rules for Subsidiary Change Timetable 2024                    Date:    28/07/2023
+                                                                                                    Page:    69 of 242
+
+SC149 NORTH BERWICK TO DREM
+TIMING POINT                          DOWN          UP              NOTES
+
+North Berwick – Drem                              OT                Single Line
+
+
+SC155 MONKTONHALL JN TO MILLERHILL YARD (GOODS LINE)
+TIMING POINT                          DOWN          UP              NOTES
+
+Monktonhall Junction – Millerhill     4             5
+Yard
+
+
+SC161 MILLERHILL YARD TO PORTOBELLO JUNCTION (MILLERHILL LINE)
+TIMING POINT                          DOWN          UP              NOTES
+
+Millerhill Yard – Newcraighall        5             5
+Newcraighall – Portobello Junction               4½* ^              Single line
+                                                                    *Up direction only, please refer to section 5.3
+                                                                    Junction Margins and Station Planning Rules for
+                                                                    down direction.
+                                                                    ^Maximum of two trains in route section
+
+
+SC163 PORTOBELLO JUNCTION TO NIDDRIE WEST JUNCTION (SUBURBAN
+LINE)
+TIMING POINT                          DOWN          UP              NOTES
+
+Portobello Junction – Niddrie West               AB+2
+Junction
+
+
+SC164 TWEEDBANK TO NEWCRAIGHALL NORTH JUNCTION
+TIMING POINT                          DOWN         UP               NOTES
+
+Tweedbank – Bowland Junction          AB+1½            AB+1½        Single Line
+Bowland Junction – Galabank           AB+1½            AB+1½        TCB
+Junction
+Galabank Junction – Tynehead              AB+2          AB+2        Single Line
+Junction
+Tynehead Junction – Fushiebridge          AB+2          AB+2        TCB
+Junction
+Fushiebridge Junction – Kings             AB+2         AB+1½        Single Line
+Gate Junction
+Kings Gate Junction –                     AB+2      AB+2½*          TCB
+Newcraighall South Junction
+Newcraighall South Junction –             AB+2                      Single Line
+Newcraighall                                                        *Up trains may depart Newcraighall 1 minute after
+                                                                    preceding train passes King’s Gate Junction
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

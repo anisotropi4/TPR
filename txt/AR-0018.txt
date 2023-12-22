@@ -1,0 +1,66 @@
+                                                   OFFICIAL
+
+
+NETWORK RAIL                      Timetable Planning Rules                       Version:   4.1
+Anglia             Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                    Date:
+                                             2024                                           2023
+                                                                                   Page:    15 of 183
+
+Abbreviation   Description
+IE             Independent Electric (Ilford). Up direction running Up Passenger Avoiding Line via Signal
+               L336 and 2170 points.
+IL             Independent Line (Ilford). Down direction running via Down Passenger Avoiding Line.
+               Up direction running Up Passenger Avoiding Line over short route via 2172 points.
+LS             Long Siding
+LVR            Lea Valley Reversible
+MEM            Main, Electric, Main
+ML             Main Lines
+ML1            Main Line departing Liverpool Street Platforms 5-9 via points 2008/2009
+ML2            Main Line departing Liverpool Street Platforms 5-9 via points 2014/2015
+MME            Main, Main, Electric
+MSF            Main, Suburban, Fast
+NL             Down North London
+PL             Platform Line
+REV            Reversible
+RM             Reversible (Temple Mills E Junction and Channelsea Junction)
+RL             Down North London Relief
+RVL            Reversible
+S              Suburban Line
+S1             S line from Bethnal Green running via points 2014/2015 to Liverpool Street Platforms 5-9
+S2             S line from Bethnal Green running via points 2008/2009 to Liverpool Street Platforms 5-9
+SEM            Via signals 71,95 and 221
+SL             Slow Line
+SMF            Via signals 71,93 and 103
+TL             Down & Up Trimley Loop
+               Through Line
+TLG            Through Line then Down Goods Loop
+UBL            Up Bow Line
+UCL            Up Connecting Line
+UEL            Up Electric Line
+UG             Up Goods
+UGL            Up Goods Line
+UH             Up Harwich
+UL             Up Line / Up Lowestoft
+UM             Up Main
+UM4            Up Main then via Platform 4
+UML            Up Main Line
+UMT            Up Main then Through Line
+UNL            Up North London
+UPL            Up Passenger Loop
+UX             Up trains to Cambridge running DM from 1093 or 1092 points
+               Up Main from Cambridge via non-preferred route (1052 points)
+UX1            Up trains from Stratford running BL to DML via points 2128R
+UX2            Up trains from Stratford running BL to DML via points 2133R
+UX3            Up trains from Stratford running DBL to BL via points 2134R
+UX4            Up trains from Stratford running DBL to DML via points 2134R/2128R
+UXL            See XUL
+W              Line W
+XL             Trains via points 2156R
+XDL            Trains via points 2153R/2159R .
+XUL            Up trains from Bow Junction to Up ML via points 2120R
+
+
+
+
+                               Electronic copy - uncontrolled when printed.

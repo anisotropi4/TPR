@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+London North Eastern                     Revised Final Rules for                       Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                   Page: 145 of 368
+
+
+
+
+Black Carr Junction
+
+Junction Margins
+First Movement                                    Second Movement                                Margin
+Pass to Loversall Carr Junction                   Pass from Bessacarr Junction                   3½
+
+
+Decoy North Junction
+
+Junction Margins
+First Movement                                    Second Movement                                Margin
+Cross to WSL                                      Next train passes Loversall Carr               3
+Down pass/arrive Doncaster                        Pass DSL to FL                                 Same time
+
+
+Doncaster Carr IEP Depot
+
+Restrictions
+   • Arrivals – No more than four arrivals onto the depot within any 60 minutes period. Minimum time between
+        arrivals must be 10 minutes.
+   • Departures – No more than four departures from the depot within any 60 minutes period. Minimum time
+        between departures must be 10 minutes.
+
+
+
+Doncaster
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                         Value
+Trains arriving Platform 5                        TPWS                                           ½
+Depart Platform 8 to Down Main                    Slow Access to Down Main Line                  1 passenger
+                                                                                                 approaching
+                                                                                                 Shaftholme
+                                                                                                 Junction
+
+Movements Up                                      Reason                                         Value
+Trains diverging from Up Fast and stopping at     Approach control                               ½ 221
+Platform 3b (via 2463pts)
+Depart Platform 3b towards Hexthorpe              Low speed crossover                            ½ 221
+Junction                                                                                         approaching
+                                                                                                 Hexthorpe
+                                                                                                 Junction
+Trains from Up Leeds line if diverging to down-   Approach control                               1 (except
+side. Approaching Doncaster                                                                      DMU/EMUs)
+Trains from Up Leeds line if diverging to Up      Approach control                               2
+East Slow line. Approaching Doncaster
+Trains arriving Platforms 6 and 7                 TPWS                                           ½
+Trains from Up Fast to Down side platforms        Approach control                               1 Passenger
+                                                                                                 2 Freight
+
+Connectional Allowance               7
+
+Dwell Time
+DMU                                  2
+LH/80X                               2
+                                    Electronic copy - uncontrolled when printed.

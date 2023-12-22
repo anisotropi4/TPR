@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                         Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024             Date:    28th July 2023
+West and Central
+                                                                                         Page:    312 of 443
+
+Wilmslow
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                         Timing Load       Value
+Down Wilmslow to Down Styal, not stopping at      Flashing Yellow Aspects        All Timing        ½
+Wilmslow                                                                         Loads at
+                                                                                 75mph or
+                                                                                 above
+Down Wilmslow to Up Styal (platform 2)            Approach control               Passenger         ½
+                                                                                 and light
+                                                                                 engines
+                                                                                 Freight           1
+Up Styal to Up Wilmslow, not stopping at          Acceleration to main line      All Timing        1*
+Wilmslow                                          speed from slow speed          Loads at
+                                                  junction                       100mph or
+                                                                                 above
+                                                                                 Freight           1 approaching
+                                                                                                   Alderley Edge
+                                                                                                   ½ after
+                                                                                                   Alderley Edge
+                                                                                                   $
+Up freight departing Wilmslow                     Not at line speed at Alderley Edge               ½ after
+                                                                                                   Alderley Edge
+                                                                                                   $
+Up Wilmslow to Down Wilmslow, not stopping        Approach control at Wilmslow North Jn            3
+at Wilmslow
+Up Wilmslow to Down Wilmslow, stopping at         Approach control at Wilmslow North Jn            2
+Wilmslow
+
+* Applies approaching next timing point
+$ Value in addition to allowance shown at Sandbach
+
+Dwell Time
+Avanti West Coast Services             1½
+TfW Loco Hauled services               1½
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Pass/Depart Platform 2 to Up Wilmslow             Pass Platform 3 (passenger)                      4*
+Pass/Depart Platform 2 to Up Wilmslow             Arrive platform 3 (stopping Alderley Edge)       3½
+Pass/Depart Platform 2 to Up Wilmslow             Arrive Platform 3 (non-stop Alderley Edge)       4½ *
+Pass/Depart Platform 2 to Up Wilmslow             Pass Platform 3 (freight)                        5½ *
+Pass/Depart Platform 2 to Up Wilmslow             Depart Platform 4, terminating at Alderley       2
+                                                  Edge
+Pass/Depart Platform 4 to Up Wilmslow             Depart Platform 2, terminating at Alderley       2
+                                                  Edge
+Arrive/Pass platform 3 from Down Wilmslow         Depart Platform 2 to Up Wilmslow                 1
+Arrive/Pass platform 3 from Down Wilmslow         Pass Platform 2 to Up Wilmslow                   2½ $
+Depart platform 2 or 3 to reversing siding        Arrive platform 1 from Down Wilmslow             4½ *
+Depart platform 2 or 3 to reversing siding        Pass platform 1 from Down Wilmslow               5½ *
+Depart platform 2 or 3 to reversing siding        Pass Platform 1 from Down Wilmslow               6½ #
+                                                  (Freight)
+Arrive/Pass platform 1 from Down Wilmslow         Depart platform 2 or 3 to reversing siding       1
+Pass/Depart platform 3 to reversing siding        Pass/Depart Platform 2 to Up Wilmslow            3
+
+
+
+
+                                Electronic copy - uncontrolled when printed

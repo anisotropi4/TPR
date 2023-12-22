@@ -1,0 +1,70 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                12th September
+                                                                                     Date:
+                                                2024                                         2023
+                                                                                     Page:   98 of 183
+
+Europa Junction
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+First Train passes Europa Junction towards        Freight train from Westerfield passes Europa    3
+Stowmarket                                        Junction towards Stowmarket.
+
+
+Stowmarket
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                          Allowance
+Up train arriving in Platform 2                   Via slow speed crossover                        {1}
+Up train departing from Platform 2 to Up Main     Via slow speed crossover                        {1}
+                                                                                                  approaching
+                                                                                                  next timing
+                                                                                                  point
+
+Dwell Time
+All passenger services                                                                            1
+
+
+Haughley Junction
+
+Adjustments to Sectional Running Times
+Movement                    Timing Load                   Reason                                  Allowance
+Down pass towards Bury      Freight Trains                Speed differential and approach         {1}
+St Edmunds                                                control
+Applicable to Up direction  Class 6 up to 1600t/TR90      Speed Differential                      {½}
+passing moves from the      (inclusive)
+Bury St Edmunds             Class 6 over 1600t/TR90       Speed Differential                      {1}
+direction, to be applied at
+                            Class 4 under 600t/TR30       Speed Differential                      {½}
+the next timing location
+                            Class 4 600t/TR30 to          Speed Differential                      {1}
+                            1235t/TR70 (inclusive)
+                            Class 4 over 1235t/TR70       Speed Differential                      {1½}
+
+Junction Margins
+Movement                                                                                          Margin
+Fouling move                                                                                      3
+Before divergence of following move                                                               3
+
+
+Diss
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                          Allowance
+Down train arriving in Platform 1 (Up Platform)   Via slow speed crossover                        {1}
+Down train departing from Platform 1 (Up          Via slow speed crossover                        {1}
+Platform) to Down Main                                                                            approaching
+                                                                                                  next timing
+                                                                                                  point
+
+Dwell Time
+All passenger services                                                                            1
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

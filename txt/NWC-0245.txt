@@ -1,0 +1,66 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:    4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:     28th July 2023
+West and Central
+                                                                                       Page:    233 of 443
+
+Kingsbury Jn
+
+Pass from Whitacre Jn to Tamworth (not          Junction speed differential and acceleration       1 170
+stopping at Wilnecote or Tamworth)                                                                 1½ 22x and
+                                                                                                   HST
+                                                                                                   75mph
+                                                                                                   freight:
+                                                                                                   1½ to 400t
+                                                                                                   2 600t/TR40
+                                                                                                   and above
+                                                                                                   60mph
+                                                                                                   freight:
+                                                                                                   ½ to
+                                                                                                   600t/TR40
+                                                                                                   1
+                                                                                                   800t/1000t/T
+                                                                                                   R55
+                                                                                                   1½
+                                                                                                   1200t/1400t/T
+                                                                                                   R70
+                                                                                                   2 1600t/TR85
+                                                                                                   2½ 1800t-
+                                                                                                   2200t/TR100-
+                                                                                                   115
+                                                                                                   3
+                                                                                                   2400t/TR130
+                                                                                                   and above
+* Approaching next timing point
+
+Junction Margins
+First Movement                                  Second Movement                                    Margin
+Train from Tamworth                             Train departing Kingsbury Shunt Frame              1
+                                                Kingsbury Reception Sidings towards
+                                                Kingsbury Jn or Tamworth
+Passenger train from Water Orton or Whitacre    Train departing Kingsbury Shunt Frame              2
+Jn                                              Kingsbury Reception Sidings towards
+                                                Tamworth
+Freight train from Water Orton or Whitacre Jn   Train departing Kingsbury Shunt Frame              3
+                                                Kingsbury Reception Sidings towards
+                                                Tamworth
+Train from Tamworth that has propelled at       Train from Tamworth                                3%#
+Kingsbury Branch Jn and arrived at Kingsbury
+Reception Sidings
+Train towards Tamworth that has propelled       Train from Tamworth                                3%#
+from Kingsbury Reception Sidings and arrived
+at Kingsbury Branch Jn
+Train towards Tamworth that has propelled       Train from Water Orton or Whitacre Jn direction    4
+from Kingsbury Reception Sidings and arrived
+at Kingsbury Branch Jn
+Train from Kingsbury Jn arrive Kingsbury        Passenger train from Tamworth                      2%
+Reception Sidings
+Train from Kingsbury Jn arrive Kingsbury        Freight train from Tamworth                        4#
+Reception Sidings
+Train from Kingsbury Jn arrive Kingsbury        Passenger train from Water Orton or Whitacre       2
+Reception Sidings                               Jn direction
+Train from Kingsbury Jn arrive Kingsbury        Freight train from Water Orton or Whitacre Jn      4
+Reception Sidings
+
+
+
+                              Electronic copy - uncontrolled when printed

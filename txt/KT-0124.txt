@@ -1,0 +1,61 @@
+NETWORK RAIL                             Timetable Planning Rules                       Version: 4.1
+Kent & HS1                                                      OFFICIAL
+                                        Final Proposal for Subsidiary                             25th August 2023
+                                                                                        Date:
+                                           Timetable 2024                               Page:    120 of 168
+
+
+Buckland Junction
+
+Junction Margins                                                                                      Margin
+Between all conflicting movements                                                                     2
+
+
+Dover Priory
+See entry under route SO130
+
+
+SO170 TONBRIDGE TO BOPEEP JUNCTION
+
+Tonbridge
+See entry under route SO130
+
+
+Somerhill Tunnel
+
+Junction Margins
+
+First Movement                                      Second Movement                                   Margin
+Up Train                                            Down Train                                        2
+Down Train                                          Up train                                          3
+
+
+Wells Tunnel Junction
+
+Junction Margins                                                                                      Margin
+Between all conflicting movements                                                                     2
+
+
+Tunbridge Wells and Tunbridge Wells Turnback Siding
+
+Berthing Facilities
+Location                            Cars            Notes
+Turnback Siding                     12
+
+Connectional Allowance              4
+
+Dwell Time
+All Services                        1
+
+Junction Margins
+First Movement                                      Second Movement                                   Margin
+Up train arrives                                    Down train departs                                1
+Train departs from Turnback Siding towards          An Up train arrives in Platform 2                 6
+Platform 1
+Train departs from Platform 1 towards               An Up train arrives in Platform 2                 6
+Turnback Siding
+Train departs from Platform 1 towards               A Down train departs Platform 2 towards Frant     5
+Turnback Siding                                     or the Turnback Siding
+Train arrives in Platform 1 from the Turnback       Train departs Platform 2 towards Frant or         1
+Siding                                              Turnback Siding
+                                    Electronic copy - uncontrolled when printed

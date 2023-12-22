@@ -1,0 +1,71 @@
+                                                       OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                         Version:    4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                     12th September
+                                                                                        Date:
+                                                2024                                              2023
+                                                                                        Page:     83 of 183
+
+Bethnal Green
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                              Value
+All down trains from 1600 to 1859 Mondays to
+                                                   Platform departure performance recovery
+Fridays running ML and approaching from                                                                {1}
+                                                   allowance
+Liverpool Street
+                                                                                                       {1} Loco
+Approaching Up direction moves from Temple
+                                                   Via slow speed crossover                            hauled
+Mills line
+                                                                                                       {½} EMU
+
+Junction Margins                                                                                       Margin
+First Movement                                     Second Movement
+Up train travelling towards Liverpool Street       Down Train travelling towards Stratford             2½
+Down train travelling towards Stratford            Up train travelling towards Liverpool Street        1
+
+
+Bow Junction
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                                              Value
+                                                                                                       {1} Loco
+Approaching Down direction moves towards
+                                                   Via slow speed crossover                            hauled
+BL, DX1, DX3, DX4 or UBL
+                                                                                                       {½} EMU
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Pass Bow Jn on Down ML                             Depart Bow Jn from Up Temple Mills to Up ML         1
+Pass/Depart Bow Jn from Up Temple Mills to
+                                                   Pass Bow Jn on Down ML                              3
+Up ML
+
+Restriction
+For ARS regulating purposes in the Up direction on Temple Mills lines ARR and DEP times with activities A and *
+to be used and not pathing time.
+
+
+Bow Yard
+
+Note: Only one train can be planned into Bow East Yard at any one time. Bow West can accommodate one train in
+the Plasmor terminal and one train in the Aggregates terminal but both terminals share the reception/run-round
+roads. Any train in the Aggregates terminal will block the reception/run-round roads.
+
+Junction Margins
+First Movement                           Second Movement                         Margin
+Freight train arrives in Bow West for    Freight train arrives in Bow West for
+                                                                                 25
+Plasmor terminal                         Aggregates terminal
+
+Terminal Length
+Bow Depot Reception Loop Length          42 SLUs
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

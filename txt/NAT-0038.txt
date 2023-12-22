@@ -1,0 +1,66 @@
+                                                     OFFICIAL
+
+
+Network Rail                                                                                       Version 4.0
+National                                                                                   Date: 28th July 2023
+                                     Final Proposal for Subsidiary Change 2024
+                                                  Page 37 of 114
+
+
+  N.B. Pending a full evaluation of the characteristics of the class 66, the class 56 values shown
+  above should be used, subject to any maximum load for a class 66 over the route(s) in
+  question.
+
+  Timing Loads used for Container or Heavy Axle Weight Trains
+
+  SRTs for trains conveying vehicles with special characteristics (Containers or Heavy Axle Weight vehicles)
+  are calculated as per the methodology described in section 1.4, taking into account any restrictions
+  published in the relevant RT3973 form. Where restrictions relating to a specific characteristic are shown (ie.
+  Not applying to all trains running with special characteristics) these should be shown as adjustment time in
+  section 5.3 of the route TPR document. Within the timing loads, the following references apply:
+
+  H – Train is Heavy Axle Weight
+  C – Train is container traffic
+  B – Train is both Containers and Heavy Axle Weight
+       Other Timing Loads:
+
+  LD    Light Diesel Locomotive
+  LE    Light Electric Locomotive
+
+Line Abbreviations
+
+ AL          Avoiding Line                                             DHL   Down Hendon Line
+ CL          Carriage Line                                             DPL   Down Platform Line
+ DR          Down Reception Line                                       DPV   Down Platform Loop
+ DRL         Down Relief Line                               RVL              Reversible Line
+ DS          Down Sidings                                              TL    Through Line
+ GL          Goods Line                                                UML   Up Main Line
+ HLG         High Level Goods Line                                     UPL   Up Platform Line
+ ML          Main Line                                                 UR    Up Reception Line
+ PL          Platform Line                                             US    Up Sidings
+ RL          Relief Line                                               UHL   Up Hendon Line
+                                                                       UPV   Up Passenger Loop
+               Other Abbreviations
+
+ C.C.D.             Coal Concentration Depot                N.Y.         Network Yard
+ C.T.        Container Terminal                             O.R.         Oil Refinery
+ D.C.S.      Down Carriage Sidings                          P.A.D.       Pre-assembly Depot
+ F.D.        Freight Depot                                  Qry          Quarry
+ F.L.T.             Freightliner Terminal                   Recp         Reception Sidings
+ F.P.        Fuelling Point                                 R.S.         Recessing Sidings
+ G.F.        Ground Frame                                   R.T.S.       Refuse Transfer Station
+ H.S.        Holding Sidings                                Sdgs         Sidings
+ Jn          Junction                                       S.F.         Shunting Frame
+ L.C.        Level Crossing                                 Sig          Signal
+ L.I.P.             Locomotive Inspection Point             S.S.         Sorting Sidings
+ T.C.        Terminal Complex                               T.& R.S.     Traction and Rolling
+                                                            M.D.         Stock Maintenance Depot
+ T.M.D.      Traction Maintenance Depot                     Yd.          Yard
+
+Activities
+
+*       Stops to await passage of other trains         OR              Train locomotive on rear
+AE      Stops to attach or detach assisting locomotive RM              Stops for reversing movement or for
+        driver                                                           to change ends.
+
+                                Electronic copy – uncontrolled when printed

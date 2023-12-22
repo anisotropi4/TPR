@@ -1,0 +1,67 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                     Version:   4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                    Date:    6th October 2023
+                                           Change Timetable 2024                           Page:    26 of 289
+
+
+GW108 FORDGATE TO PENZANCE
+TIMING POINT                           DOWN       UP              CODE   NOTES
+
+Whiteball Tunnel                       –          –                      Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Tiverton Parkway                       –          –
+Tiverton Loop                          –          –                      Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Cowley Bridge Junction                 –          –                      To/from Crediton – GW606
+Exeter Riverside New Yard              –          –               S
+Exeter St.Davids Signal E664           –          –               S      Shunting moves only
+Exeter St. David’s                     –          –                      Platform detail must be shown.
+                                                                         To/from Exeter Central – GW610
+Exeter TMD                             –          –               S
+Exeter St.Davids Signal E677           –          –               S      Shunting moves only
+Exeter St.Davids Signal E679           –          –               S      Shunting moves only
+Exeter St.Davids Signal E35                       –               S      Shunting moves and regulating as req only
+Exeter St. Thomas                      –          –               S      Platform detail must be shown.
+Exeter City Basin                      –          –               S
+Marsh Barton                           –          –               S
+Starcross                              –          –               S      Platform detail must be shown.
+Dawlish Warren                         –          –                      Platform detail must be shown.
+Dawlish                                –          –                      Platform detail must be shown.
+                                                                         Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Teignmouth                             –          –                      Platform detail must be shown.
+                                                                         Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Hackney Yard                           –          –               S
+Newton Abbot East Junction                                               To/from Heathfield – GW618
+Newton Abbot                           –          –                      Platform detail must be shown.
+Newton Abbot West Junction             –          –                      To/from Paignton – GW620
+Dainton Tunnel                         –          –                      Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Totnes                                 –          –                      Platform detail must be shown.
+Rattery                                –          –                      Signal PH5605 in Down direction
+                                                                         Signal PH5604 in Up direction
+                                                                         Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Aish                                   –          –                      Signal PH5609 in Down direction
+                                                                         Signal PH5610 in the Up direction
+                                                                         Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Ivybridge                              –          –                      Platform detail must be shown.
+                                                                         Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Hemerdon                               –          –                      Signal PH5623 in Down direction
+                                                                         Signal PH5624 in Up direction
+                                                                         Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Tavistock Jn Signal P132               –                          S
+Tavistock Jn                           –          –                      Timing point can be omitted from a ‘150
+                                                                         TIPLOC’ schedule
+Tavistock Jn Yard                      –          –               S
+Tavistock Jn Down Siding               –                          S
+Tavistock Jn Signal P197                          –               S
+Laira Junction                         –          –               X      To/from Mount Gould Jn – GW628/GW629
+
+                                     Electronic copy - uncontrolled when printed.

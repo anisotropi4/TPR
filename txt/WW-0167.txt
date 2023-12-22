@@ -1,0 +1,65 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                       Timetable Planning Rules 2024                         Version:    4.1
+Western + Wales        Final Principal and Preliminary Proposal for Subsidiary
+                                                           OFFICIAL                        Date:     6th October 2023
+                                       Change Timetable 2024                               Page:     164 of 289
+
+
+Kingham
+
+Dwell Time
+80x                                1½
+16X                                1
+
+Moreton-in-Marsh
+
+Adjustment to Sectional Running Time (approaching this location)
+Movement                                   Reason                        Timing Load                Value
+Up train approaching Moreton with either a ‘Missed Distant’                Class 16X                {½}
+train using the DM – UM crossover at                                       80x                      {1}
+Moreton or a train ‘in section’ between
+Moreton and Ascott
+Down train that terminates at Moreton      Distant at caution (MW1),       All traffic              {2}
+                                           approach-release aspects
+                                           (MW2 & MW3)
+
+Dwell Time
+80x /Loco Hauled                  1½
+16x                               1
+
+                Turn-backs – minimum time between arrival and corresponding departure
+Method                                   Description of Move       Timing Load       Value
+Down Train – Method 1                   Train arrives in Down      Class 16X        13 mins
+                                        Platform, driver changes   80x 9 car        25 mins
+                                        ends, train shunts to Up   80x 5 car        20 mins
+                                        Main, reverses, train
+                                        shunts into Up Platform,
+                                        driver changes ends
+                                        Add [1] terminating at
+                                        Moreton in Marsh to all
+                                        trains.
+Down Train – Method 2                   Train arrives in Down      Class 16X        5 mins
+                                        Platform, driver changes   80x              10 mins
+                                        ends. Train departs
+                                        towards Oxford.
+                                        Approaching next timing
+                                        location add:
+                                        {½} 16x
+                                        {2} All other traffic
+Up Train                                Train arrives in Up        Class 16X        12 mins
+                                        Platform; train draws      80x 9 car        20 mins
+                                        forward, reverses, shunts  80x 5 car        15 mins
+                                        into Down Platform.
+                                        Add [1] terminating at
+                                        Moreton in Marsh to all
+                                        trains.
+
+Class 80X Turnround Allowances (From Paddington)
+5 car                         10
+9/10 Car                      10
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

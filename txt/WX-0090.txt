@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:       4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                    Date:        27th October 2023
+                                            Timetable 2024                              Page:        88 of 178
+
+Woking Up Yard Entry/Exit
+First Movement                                   Second Movement                                        Margin
+Train departs Woking Up Yard Entry/Exit to       Pass/Depart Woking Up Yard Entry/Exit from             3
+Woking Up Yard Sidings                           Woking Up Reception to Woking Platform 1
+Train departs Woking Up Yard Entry/Exit to       Up service arrives at Woking Platform 1 from           2
+Woking Up Yard Sidings                           Woking Junction
+Train departs Woking Up Yard Entry/Exit to       Down service arrives at Woking Platform 1 from         2
+Woking Up Yard Sidings                           Down Fast or Down Slow
+
+Planning note
+Due to services being foul of points 2219 whilst waiting acceptance, access to Woking Platform 1 in either
+direction will be restricted until a service has departed Woking Up Yard Sidings Entry/Exit to Woking Up Yard
+Sidings. Margins should be based on a train’s departure time from Woking Up Yard Entry/Exit - see junction
+margins above.
+
+
+Woking Junction
+
+Adjustment to Sectional Running Times
+Movement                                        Reason                                                 Value
+Down trains which have stopped at Woking        Acceleration from stop                                 {½}*
+running via FL non-stop to Farnborough
+* This allowance should appear approaching the next timing point after Woking Junction
+
+Junction Margins
+First Movement                                    Second Movement                                      Margin
+Between all movements                                                                                  3
+
+Overlap Restrictions
+First Movement                              Second Movement                            Signal     Margin
+Down Fast train from Woking arrives at      Up train passes Woking Junction from       WK375      3*
+Woking Junction/Signal WK1208               Up Guildford
+Up train passes Woking Junction from        Down train passes Woking station           WK375      2½*
+Up Guildford                                towards Woking Junction via Down
+                                            Fast
+Up train passes Woking Junction from        Down train departs Woking station          WK375      1½*
+Up Guildford                                towards Woking Junction via Down
+                                            Fast
+* These margins only apply when there is also a train passing Woking Junction from the Down Slow to the Down
+Guildford less than 3 minutes before or after the train crossing from the Up Guildford.
+
+
+Brookwood London End Junction
+
+Adjustment to Sectional Running Times
+The standard {½} for changing lines is already included in the SRT’s.
+
+
+Brookwood
+
+Connectional Allowances
+All Services                         3
+
+Dwell Times
+Up direction services departing between 0700 and 0830 or Down direction services arriving        1
+between 1700 and 1930 Monday to Friday
+
+
+                                    Electronic copy - uncontrolled when printed.

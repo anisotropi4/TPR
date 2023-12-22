@@ -1,0 +1,42 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                        Version:    4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024               Date:     28/07/2023
+                                                                                              Page:     96 of 242
+
+
+Mossend West Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                            Value
+Up train to Mossend South Junction, not           Approach Control                                  1
+stopping Bellshill
+Up train to Mossend South Junction, stopping      Approach Control                                  ½
+Bellshill which are timed as 385
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass to Mossend South Junction                    Depart Holytown                                   1
+Pass to Mossend South Junction                    Freight pass from Mossend East Junction, not      3½
+                                                  stopping Holytown
+Pass from Mossend East Junction                   Depart Bellshill to Mossend South Junction        ½
+
+
+
+Bellshill
+
+Restriction
+Pathing trime must not be used between Bellshill and Mossend West Junction on services routed towards
+Mossend South Junction owing to signaling constraints, dwell time should be increased at Bellshill
+
+
+Viewpark Sidings
+
+Restriction
+Whilst a train is in transit between Uddingston Junction and Viewpark Sidings, a second train cannot be timed
+towards Mossend West Junction until 1 minute after the first train has come to a stand in Viewpark Sidings.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

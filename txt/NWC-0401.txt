@@ -1,0 +1,64 @@
+NETWORK RAIL                         Timetable Planning Rules                      Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                      Page:   389 of 443
+
+STATION                           PLATFORM         LENGTH      NOTES
+
+Meols Cop                         Down                   112
+Meols Cop                         Up                     110
+Middlewood                        Down                    92
+Middlewood                        Up                      92
+Millbrook                         1                       73
+Millbrook                         2                       73
+Mill Hill                         Down                    92
+Mill Hill                         Up                      92
+Millom                            Down                   123
+Millom                            Up                     121
+Mills Hill                        1                      117
+Mills Hill                        2                      117
+Milton Keynes Central             1                      251
+Milton Keynes Central             2                      308
+Milton Keynes Central             2A                     124
+Milton Keynes Central             3                      300
+Milton Keynes Central             4                      300
+Milton Keynes Central             5                      300
+Milton Keynes Central             6                      300
+Mobberley                         Down                   101
+Mobberley                         Up                     110
+Monks Risborough                  Single                  94
+Moorfields (Deep Level)           3                      128   Loop line in one direction only (Wirral Line)
+Moorfields (Low Level)            1                      128   Bi–directional (Northern Line)
+Moorfields (Low Level)            2                      128   Bi–directional (Northern Line)
+Moorside                          Down                   111   Additional 60.2m OOU
+Moorside                          Up                     109   Additional 64.2m OOU
+Morecambe                         1                      114   Bay on Down & Up Morecambe Line
+Morecambe                         2                      144   Bay on Down & Up Heysham Line
+Moreton (Merseyside)              1                      128   Up line
+Moreton (Merseyside)              2                      127   Down line
+Moseley Village                   2                      150
+Moseley Village                   1                      150
+Moses Gate                        Down                    79
+Moses Gate                        Down                    79
+Moses Gate                        Up                      79
+Mossley (Greater Manchester)      Down                    89
+Mossley (Greater Manchester)      Up                      89
+Mossley Hill                      1                      115   Up Fast line
+Mossley Hill                      2                      115   Down Fast line
+Mossley Hill                      3                      137   Up Slow line
+Mossley Hill                      4                      162   Down Slow line
+Moss Side                         Single                  97
+Moston                            1                      120
+Moston                            2                      121
+Mouldsworth                       Down                    52   Additional 26.5m beyond signal
+Mouldsworth                       Up                      77
+
+Navigation Road (Network Rail     Single                 122
+line)
+Neston                            Down                    81
+Neston                            Up                      84
+Nethertown                        Single                  51
+
+
+
+                            Electronic copy - uncontrolled when printed

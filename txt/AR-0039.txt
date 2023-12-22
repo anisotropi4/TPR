@@ -1,0 +1,70 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                     Version:    4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                    Date:
+                                               2024                                          2023
+                                                                                    Page:    36 of 183
+
+EA1280 STRATFORD CENTRAL JUNCTION TO COPPERMILL JUNCTION
+TIMING POINT                  DOWN         UP          CODE     NOTES
+
+Ruckholt Road Junction        -                        X        Timing point in Down Direction for trains
+                                                                approaching Temple Mills Loop or Orient Way
+                                                                CS only
+Temple Mills Loop             -            -           S
+Orient Way C S                -            -           S
+Lea Bridge                    - LVR        -           S X
+Coppermill Junction Signal    -                        S        All Down trains on the Temple Mills line which
+L1005                                                           require pathing time approaching Coppermill
+                                                                Junction to be shown with Arr/Dep (‘A’ in
+                                                                Activity Field) for ARS regulating purposes
+Coppermill Junction           -            -                    To/from Tottenham Hale – EA1160
+                                                                Timing point required for All trains on the Down
+                                                                or Up Cambridge lines
+
+
+EA1290 TOTTENHAM SOUTH JUNCTION TO SOUTH TOTTENHAM EAST
+JUNCTION
+TIMING POINT                  DOWN         UP          CODE     NOTES
+
+Tottenham South Junction      -            -                    To/from Coppermill Junction – EA1160
+Tottenham South Junction                   -           S        Trains in Up direction from Sth Tottenham East
+Signal L1004                                                    Junction which require pathing time
+                                                                approaching Coppermill Junction to be shown
+                                                                with Arr/Dep (‘A’ in Activity Field) for ARS
+                                                                regulating purposes
+South Tottenham Signal S17    -                        S
+South Tottenham East                                            To/from South Tottenham – EA1370
+Junction
+
+
+EA1300 SOUTH TOTTENHAM WEST JUNCTION TO SEVEN SISTERS JUNCTION
+TIMING POINT                  DOWN         UP          CODE     NOTES
+
+South Tottenham West                                            To/from South Tottenham – EA1370
+Junction
+South Tottenham Signal S16                 -           S
+Seven Sisters Signal L1327    -                        S        Conditional timing point for trains which stop at
+                                                                this signal in the Down Direction
+Seven Sisters Junction                                          To/from Seven Sisters – EA1170
+
+
+EA1310 CAMDEN ROAD (WEST) JUNCTION TO RICHMOND
+TIMING POINT                  DOWN         UP          CODE     NOTES
+                              WEST         EAST
+                              BOUND        BOUND
+
+Camden Road (West)            -            -                    Tiploc – CMDNRDJ
+Junction                                                        To/from Camden Road – EA1320
+Kentish Town West             -            -           S
+Gospel Oak                    -            -                    Platform detail must be shown
+Gospel Oak Junction                                             To/from Barking – EA1370
+Gospel Oak Signal NL1000                   -           S        Timing point for trains reversing at Gospel Oak
+Hampstead Heath               -            -                    Timing point for all trains westbound
+                                                                Timing point for stopping trains only eastbound
+
+
+
+                                  Electronic copy - uncontrolled when printed.

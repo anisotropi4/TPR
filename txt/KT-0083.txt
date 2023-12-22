@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                  Version: 4.1
+Kent & HS1                                                    OFFICIAL
+                                      Final Proposal for Subsidiary                        25th August 2023
+                                                                                 Date:
+                                         Timetable 2024                          Page:      79 of 168
+
+
+STANDARD VALUES – MINIMUM
+Class 376 EMU                                                       4
+Class 395 EMU                                                       4
+Class 465 EMU                                                       3
+Class 466 EMU                                                       3
+
+Connectional Allowance                                              5
+
+Detachment of Units:
+Class 375/377/387 EMU                                               4
+Class 465/466 EMU                                                   3
+Class 395 EMU                                                       4
+
+Dwell Time
+Standard                                                            ½
+Class 395 and 700 EMU when traction changeover is required          1
+
+Dwell Times – Empty Coaching Stock to Passenger Service in the same direction except where otherwise
+specified*
+Stock            1 or 2 car    3 or 4 car       5 or 6 car 8 car           9-10 car       12 car     Eurostar
+Class 171        1 min         1 min            1 min      1 min           1 min          1 min
+Class 373/374                                                                                        26
+EMU
+Class                          1 min            1 min      1 min           1 min          1 min
+375/377/387
+EMU
+Class 376                                       1 min                      1 min
+EMU
+Class 395                                       1 min                                     1 min
+EMU
+Class 465                      1 min                       1 min                          1 min
+EMU
+Class 466        1 min         1 min            1 min      1 min           1 min          1 min
+EMU
+Class 700                                                   1 min                         1 min
+EMU
+Class 707                                       1 min                      1 min
+EMU
+*Please note that any train departing needs to be rounded up to a full minute in line with the above
+
+Dwell Times – Passenger service to Empty Coaching Stock in the same direction except where otherwise
+specified
+Stock          1 or 2 car  3 or 4 car     5 or 6 car 8 car        9-10 car    12 car     Eurostar
+Class 171      2 mins      2 mins         2 mins     2 mins       2 mins      2 mins
+
+Class 373/374                                                                                    35
+EMU
+Class                         1 min            1 min        1 min        1 min      1 min
+375/377/387
+EMU
+Class 376                                      1 min                     1 min
+EMU
+Class 395                                      1 min                     1 min
+EMU
+Class 465                     1 min                         1 min                   1 min
+                                  Electronic copy - uncontrolled when printed

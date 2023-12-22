@@ -1,0 +1,64 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                              Version 4.0
+National                                                                          Date: 28th July 2023
+                               Final Proposal for Subsidiary Change 2024
+                                            Page 61 of 114
+Type           Days   TID          Start Time       Origin                 Destination
+
+                                                   Carlisle Kingmoor SDG
+RHTT           WFO    3J77         02:46           (DRS)                   Nunthorpe
+                                                   Carlisle Kingmoor SDG
+RHTT           TTho   3J77         02:46           (DRS)                   Nunthorpe
+                                                   Carlisle Kingmoor SDG   Carlisle Kingmoor SDG
+RHTT           SU     3J77         10:18           (DRS)                   (DRS)
+                                                   Carlisle Kingmoor SDG
+RHTT           MO     3J77         05:02           (DRS)                   Nunthorpe
+                                                                           Carlisle Kingmoor SDG
+RHTT           TTho   3J78         08:35           Nunthorpe               (DRS)
+                                                                           Carlisle Kingmoor SDG
+RHTT           MO     3J78         11:34           Nunthorpe               (DRS)
+                                                                           Carlisle Kingmoor SDG
+RHTT           WFO    3J78         08:35           Nunthorpe               (DRS)
+                                                                           Carlisle Kingmoor SDG
+RHTT           SO     3J78         08:36           Nunthorpe               (DRS)
+RHTT                               23:52
+               SU     3S10         23:59           Doncaster West Yard     York Thrall Europa
+RHTT                               04:07           York Thrall Europa
+               TThO   3S11         02:12                                   Sheffield
+RHTT                               03:30           York Thrall Europa
+               MWFO   3S11         01:50                                   Sheffield
+RHTT                               04:03           York Thrall Europa
+               SO     3S11         02:00                                   Sheffield
+RHTT                               07:27           Sheffield
+               MWFO   3S12         07:43                                   Wrenthorpe Recp.
+RHTT                  3S12         06:48           Sheffield               Sheffield
+               TThO                07:43
+RHTT                  3S12         06:47           Sheffield               Sheffield
+               SO                  06:50
+                                   08:52
+RHTT           MWFO   3S13         08:50           Wrenthorpe Recp         Grimsby Town
+RHTT           SO     3S13         09:08           Sheffield               Sheffield
+RHTT                  3S13         09:24           Sheffield               Woodburn Jn
+               TThO                09:26
+RHTT                  3S14         11:33           Woodburn Jn
+               TThO                11:24                                   Hull
+                                   11:16                                   Bridlington
+RHTT           MWFO   3S14         11:38           Grimsby Town            York Thrall Europa
+RHTT           MWFO   3S14         11:16           Grimsby Town            Hull
+RHTT           SO     3S14         11:48           Sheffield               Hull
+RHTT           MWFO   3S15         20:13           Bridlington             York Thrall Europa
+RHTT           SO     3S15         14:34           Hull                    York Thrall Europa
+RHTT           TThO   3S15         15:19           Hull                    York Thrall Europa
+RHTT           MWFO   3S15         18:35           Hull                    York Thrall Europa
+RHTT           SO     3S16         19:41           York Thrall Europa      Doncaster West Yard
+RHTT           SU     3S21         17:19           York Thrall Europa      Selby
+RHTT           SX     3S21         16:46           York Thrall Europa      Selby
+RHTT           SX     3S22         20:15           Selby                   Hall Royd Jct
+RHTT           SU     3S22         20:14           Selby                   Hall Royd Jct
+RHTT           SX     3S23         21:57           Hall Royd Jct           Leeds
+RHTT           Su     3S23         22:02           Hall Royd Jct           Leeds
+RHTT           SO     3S24         01:59           Leeds                   Leeds
+
+                             Electronic copy – uncontrolled when printed

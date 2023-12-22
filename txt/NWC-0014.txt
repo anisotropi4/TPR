@@ -1,0 +1,65 @@
+ NETWORK RAIL                                       Timetable Planning Rules                                                     Version:          4
+ Region: North                         Final Proposal for Subsidiary Change Timetable 2024                                         Date:           28th July 2023
+ West and Central
+                                                                                                                                     Page:         2 of 443
+
+
+                                                                         Contents
+ Section                                                             Page no.           Section                                                                       Page no.
+
+                                                                                         5.1.1 Source of Current SRTs ............................ 116
+1 Introduction and General Notes ...................... 3
+                                                                                         5.1.2 Method of Calculation ................................ 116
+  1.1 Index of Routes ..................................................... 4            5.1.3 New and Revised Sectional Running Times
+  1.2 Sectional Appendices and Rule Book ................ 8                              ................................................................................. 117
+
+     1.2.1 Sectional Appendix ........................................ 8                 5.1.4 Timing of Trains Conveying Passengers on
+                                                                                         Goods Lines ........................................................... 117
+     1.2.2 Rule Book ....................................................... 8
+                                                                                      5.2 Headways ........................................................... 118
+  1.3 Definitions ............................................................ 10
+                                                                                         5.2.1 Headway Values ........................................ 118
+     1.3.1 Train Classification ...................................... 10
+                                                                                         5.2.2 General Capacity Constraints .................. 154
+     1.3.2 Days of Operation ........................................ 19
+                                                                                      5.3 Junction Margins and Station Planning Rules156
+     1.3.3 Traction and Rolling Stock ......................... 19
+                                                                                      5.4 Platform Lengths ............................................... 371
+     1.3.4 Line Codes.................................................... 21
+                                                                                         5.4.1 Loop Lengths .............................................. 400
+     1.3.5 Activity and Other Codes ............................ 23
+                                                                                      5.5 Timing Allowances ............................................ 411
+2 Route Description .......................................... 25                        5.5.1 SX Daytime (See routes for applicable times)
+                                                                                         ................................................................................. 411
+  2.1 Planning Geography ........................................... 25
+                                                                                         5.5.2 SX Night Time (See routes for applicable
+  2.2 Route Opening Hours ....................................... 109                    times) ...................................................................... 429
+                                                                                         5.5.3 SO Day time (See routes for applicable times)
+3 Electrification ............................................... 114                    ................................................................................. 431
+
+  3.1 Electrification Limits .......................................... 114              5.5.4 SO Night time (See routes for applicable
+                                                                                         times) ...................................................................... 433
+  3.2 Electrification Supply Restrictions .................. 114
+                                                                                         5.5.5 Sundays Daytime (See routes for applicable
+                                                                                         times) ...................................................................... 435
+4 Rolling Stock Restrictions ............................. 115
+                                                                                         5.5.6 Sunday Night time (See routes for applicable
+  4.1 Locomotive Route Availability ......................... 115                        times) ...................................................................... 437
+
+  4.2 Passenger Stock Restrictions ......................... 115
+                                                                                    6 Timetabling Considerations ......................... 439
+  4.3 Freight Wagon Restrictions ............................. 115
+                                                                                      6.1 Advertised and Working Times ....................... 439
+  4.4 Freight Train Load Limits ................................. 115
+                                                                                      6.2 Timing of Light Locomotives ............................ 439
+  4.5 Freight Train Length Limits .............................. 115
+  4.6 Engineers’ Trains Restrictions ........................ 115                   Appendix A Timing Point Diagrams ................. 440
+
+5 Running Times, Margins and Allowances .... 116
+                                                                                    This page is intentionally left blank. ................ 443
+  5.1 Sectional Running Times ................................. 116
+
+
+
+
+                                                      Electronic copy - uncontrolled when printed.

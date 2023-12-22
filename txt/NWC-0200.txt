@@ -1,0 +1,57 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    188 of 443
+
+Coventry
+
+Passing Trains from Gibbet Hill Jn towards Berkswell. (Applies approaching next timing point after
+Coventry)
+Passing Trains from Berkswell towards Gibbet Hill Jn
+Movement Up                                      Reason                                           Value
+Trains from Berkswell towards Gibbet Hill Jn not Deceleration to 15 mph and differential junction 1 passenger,
+stopping at Coventry                             Speed                                            ECS and light
+                                                                                                  engines
+
+                                                                                                     1½ freight
+
+Passing Trains from Coundon Road towards Rugby Trent Valley Jn (Applies approaching next timing
+point after Coventry)
+Movement Up                                    Reason                                  Value
+Passenger/ECS                                  Acceleration Allowance                  1½
+Class 6 up to 400t (inclusive)                 Acceleration Allowance                  ½
+Class 6 600t                                   Acceleration Allowance                  1
+Class 6 800t                                   Acceleration Allowance                  1½
+Class 6 1000t (inclusive) to 1500t (inclusive) Acceleration Allowance                  2
+Class 6 1600t (inclusive) to 1800t (inclusive) Acceleration Allowance                  2½
+Class 6 2000t (inclusive) to 2200t (inclusive) Acceleration Allowance                  3
+Class 6 over 2200t                             Acceleration Allowance                  3½
+Class 4 up to 400t                             Acceleration Allowance                  1
+Class 4 600t                                   Acceleration Allowance                  1½
+Class 4 800t (inclusive) to 1500t (inclusive)  Acceleration Allowance                  2
+Class 4 over 1500t                             Acceleration Allowance                  2½
+
+Dwell Time
+Class 390/80x                       1½ for pick up or set down.
+DMU/EMU                             1
+West Midlands Trains                1 (1½ if crew change booked)
+
+Junction Margins – London End
+First Movement                                     Second Movement                                   Margin
+Up Freight passing towards Gibbet Hill Jn          Down train from Rugby Trent Valley Jn arrives     5
+                                                   platforms 3 or 4
+Up passenger departing or passing towards          Down train from Rugby Trent Valley Jn arrives     4$
+Gibbet Hill Jn                                     platforms 3 or 4
+Up train departs platform 1 to Rugby Trent         Up train arrives platform 2                       4*
+Valley Jn
+Up train departs platform 2 to Rugby Trent          Up train not stopping at Canley or Tile Hill     4$
+Valley Jn                                           arrives platform 1
+*Can be reduced to 3 if there is no Down arrival/pass from Rugby Trent Valley Jn into Platform 3 or 4 within 3
+minutes before or after the arrival into platform 2
+$ Where the second movement is a train with a minimum of 1 minute pathing time approaching Coventry, the
+Junction Margin may be reduced by ½ minute.
+
+
+
+
+                              Electronic copy - uncontrolled when printed

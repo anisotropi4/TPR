@@ -1,0 +1,64 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                           25th August 2023
+                                                                                     Date:
+                                           Timetable 2024                            Page:    86 of 168
+
+
+Bickley
+First Movement                         Second Movement                                            Value
+Freight crossing from Down             Freight passes Bickley Junction on the Up Chatham Slow     2
+Chatham Fast to Down Chatham
+Slow
+
+
+Bickley Junction
+
+Adjustments to Sectional Running Times
+Crossing moves timed at Bickley Junction do not require the standard {½} adjustment. Values should be applied
+as below
+Movement Down                                    Reason                           Value
+Freight trains crossing to the Down Slow         Speed Differential               1
+Tonbridge Loop
+Down Chatham Fast to Down Slow Tonbridge         Approach Control VS203           {½}
+Loop
+Crossing Down Chatham Fast to Down Slow          Approach Control signal VS199 {1} and also {1} approaching
+                                                 for 15mph using 854-856          next timing point
+                                                 crossover and speed differential
+Crossing Down Chatham Slow to Down Fast          Approach Control signal VS201 {½} and also {½} approaching
+                                                 for 40mph using 869-871          next timing point
+                                                 crossover and speed differential
+Crossing Down Chatham Slow to Down Slow          Approach Control signal VS201 {½}
+Tonbridge Loop                                   for 30mph using 859-861
+                                                 crossover and speed differential
+
+Movement Down Up                                     Reason                          Value
+Crossing Up Fast Tonbridge Loop to Up                Speed differential              {½} approaching next timing
+Chatham Fast                                                                         point
+All trains passing from Up Slow Tonbridge            Speed differential              {½} approaching next timing
+Loop to Up Chatham Slow or Fast                                                      point *
+Crossing Up Chatham Slow to Up Chatham               Approach Control signal VS200   {1}
+Fast                                                 for 15mph using 854-857
+                                                     crossover
+                                                     Speed differential              {1} approaching next timing
+                                                                                     point
+* applicable if the train is stopping at Bickley or Bromley South. 1 minute if not
+
+Junction Margins
+First Movement                                       Second Movement                 Value
+Freight crossing from Down Chatham Fast or to        Freight passes on Up Chatham    3½
+Down Slow Tonbridge Loop or Freight crossing         Fast
+from Down Chatham Slow to Down Chatham
+Fast or Down Slow Tonbridge Loop
+
+Length Restrictions
+A train exceeding 690m/107SLU in length on the Up Slow Tonbridge Loop will foul VS232 signal in rear when
+standing at VS288.
+Therefore, junction margins must be based on train’s departure time at Bickley Junction
+A train exceeding 679m/106SLU in length on the Up Fast Tonbridge Loop will foul VS214 signal in rear when
+standing at VS212.
+Therefore, junction margins must be based on train’s departure time at Bickley Junction
+
+
+
+                                      Electronic copy - uncontrolled when printed

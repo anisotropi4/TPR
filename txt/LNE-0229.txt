@@ -1,0 +1,42 @@
+ NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+ London North Eastern                      Revised Final Rules for                         Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                     Page: 226 of 368
+
+
+ LN740 GRIMSBY MARSH WEST JUNCTION TO HUMBER ROAD JUNCTION
+
+ Great Coates No1 Signal Box
+
+ Operating Stop                        All trains to/from Grimsby Union Dock Branch must have a 2 minute ‘OP’
+                                       stop to collect /return the staff used for OT(S) working
+
+
+ Pyewipe Road Signal Box
+
+ Operating Stop                        All trains to/from Immingham East Junction must have a 2 minute ‘OP’ stop
+                                       for token exchange purposes
+
+
+ Humber Road Junction
+
+ Adjustment to Sectional Running times
+ Movement Up                        Reason                                       Value
+ Up services to the N.C.B Coal      Approach Control                             1
+ Terminal or Reception Sidings
+ (including RR1,RR7 and ESL )
+
+The junction margins for Humber Road Jn are to be replaced with those detailed in the following matrix:
+
+
+Table 1: Junction Margin Matrix for IMNGHRJ Humber Road Junction (NB: the matrix continues on the next
+page)
+There is one train working at the NCB 1, RR1, and RR7 coal loading points
+At Reception Sidings, roads 3, 4 and 5 are available for trains arriving at the yard itself. RR1 consists of Roads 1 and
+2, and RR7 consists of Roads 6 and 7
+ESL is a bi-directionally worked siding line with stop boards. Trains can exit into Immingham Sorting Sidings at the
+eastern end of ESL
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

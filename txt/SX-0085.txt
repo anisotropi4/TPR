@@ -1,0 +1,60 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:      4.3
+Route: Sussex                          Final Rules for Subsidiary                   Date:         18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                     Page:        81 of 163
+
+Balham
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+Up non-freight* train from Streatham Hill            Down train depart Balham towards Selhurst        ½
+pass/arrive Balham
+Up non-freight* train from Streatham Hill            Down train pass Balham towards Selhurst          1
+pass/arrive Balham
+Up freight+ train from Streatham Hill or any         Down train depart/pass Balham towards            2
+train coming directly from Streatham Hill Shed Selhurst
+pass/arrive Balham
+Down train pass/depart Balham towards                Up train pass/arrive Balham from Streatham       2½
+Selhurst                                             Hill
+Down freight+ train pass Balham on Down              Up arrive/pass Platform 4 from Up Brighton       3
+Fast Line towards Selhurst                           Slow
+* A non-freight train is deemed as any Class 0, 1, 2, 3, 5, seasonal Class 8 or 9
++ A freight train refers to any Class 4, 6, 7 or non-seasonal Class 8
+
+Planning Note
+                                                  Notes
+Fast line platforms                               Trains formed of a 12 car Class 700 EMU must not be planned
+                                                  to use these platforms, due to operational restrictions
+
+
+Streatham North Junction
+
+Length Limit
+A train exceeding 246 metres/38 SLU in length on the Reversible Fast Spur in the Up direction will foul TVC788
+when stood at TVC650.
+Therefore, junction margins must be based on trains’ departure time at Streatham North Junction
+The standage art signal TVC659 on the Brighton Slow in the Down direction is 266m/41 SLUs without fouling
+Streatham North Junction in rear
+
+
+Streatham Common
+
+Adjustment to Sectional Running Times
+Freight Timing Loads on the Down Slow which have travelled from Streatham Station
+
+ITPS Timing Load                                  Reason                                             Value
+Freight up to 800t inclusive of Heavy Axle        Speed Differential                                 {½}
+Freight up to 1200t inclusive of Heavy Axle       Speed Differential                                 {1}
+Freight up to 1600t inclusive of Heavy Axle       Speed Differential                                 {1½}
+Freight up to 2000t inclusive of Heavy Axle       Speed Differential                                 {2}
+Freight up to 2400t inclusive of Heavy Axle       Speed Differential                                 {2½}
+
+Length Limit
+The standage at signal TVC661 on the Down Streatham Spur to avoid fouling Streatham Jn is 244 metres/38
+SLUs/12 cars (or 10 cars if the train is formed of Class 171 stock).
+The standage at signal TVC782 on the Up Streatham Spur to avoid fouling Streatham Common Jn is 179
+metres/28 SLUs/8 cars
+
+
+
+
+                                Electronic copy - uncontrolled when printed

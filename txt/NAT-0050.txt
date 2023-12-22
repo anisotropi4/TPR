@@ -1,0 +1,68 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                                    Version 4.0
+National                                                                                Date: 28th July 2023
+                             Final Proposal for Subsidiary Change 2024
+                                            Page 49 of 114
+                         should be taken to avoid timing points that are close together as this will
+                         complicate the planning process. Where timing points are closely spaced,
+                         additional care is needed to ensure that allowances for acceleration,
+                         deceleration and pathing/engineering/performance are correct.
+
+Network Link             These link timing points to form a planning geography network which
+                         allows various planning systems to function. Where multiple running lines
+                         exist, more than one network link may exist between two timing points. The
+                         line codes to be used are shown in TPR section 2.1 alongside planning
+                         locations, and the codes to be used should match the Sectional Appendix
+                         line names as closely as possible. Network Links are formed between two
+                         tiplocs, but should never extend past a mandatory timing point, with the
+                         exception of links created for planning rail replacement bus services.
+
+Planning Headway         The minimum planned time interval between two successive train
+                         schedules at a specific timing point on the same line in the same direction,
+                         such that the second train can meet its SRT. This is expressed in multiples
+                         of half minutes and is derived from the technical headway rounded to at
+                         least the next half minute or above by agreement.
+
+Platform Reoccupation    The time between first train departing and second train arriving at a
+                         specific platform in the same direction; this commonly defaults to, but
+                         should never exceed the applicable headway. This value need not be
+                         calculated on the least restrictive signal aspect, but the second train in the
+                         sequence must be able to meet its SRTs.
+
+Run-round Time           The minimum time between arrival and departure at a timing point when a
+                         locomotive or locomotives are moved from one end of a train to the other,
+                         including detachment, movement, attachment and safety checks.
+
+Sectional Running Time   Time taken for various train types (Timing Loads) to traverse a Network
+(SRT) / Timing Link      Link, representing the fastest route of that Network Link.
+
+
+Signalling Headway       The minimum time permissible between two successive trains at a specific
+                         signal on the same line in the same direction based on the best performing
+                         trains using the route.
+
+Superlinks               A train schedule cannot be published in TRUST with more than 150
+                         TIPLOCs. Any schedule requiring more than 150 TIPLOCs will need to be
+                         split into two schedules or will need to have certain Timing Points removed.
+
+                         See Section 2.1 Planning Geography for TIPLOCs that can be removed.
+
+                         Examples of 150 TIPLOC schedules are CrossCountry’s services from
+                         Penzance to destinations beyond Edinburgh (typically Glasgow Central,
+                         Dundee or Aberdeen) in both directions.
+
+Stanox                   Tiplocs are linked to stanoxes for TOPS reporting purposes. These are
+                         numeric location codes of 5 digits. More than one tiploc may be linked to a
+                         stanox, but not the other way around. Each stanox is assigned to a TRA
+                         (TOPS reporting area) which is specific to a TOC, FOC or Network Rail.
+                          This means that for effective TOPS reporting, one location may have
+                         multiple stanoxes and tiplocs particular to each FOC.
+
+Station Dwell Time       The minimum time shown in timetables for trains to be at a stand in a
+                         station, from when train wheels stop on arrival to when wheels start on
+                         departure.
+
+Technical Headway        The minimum permissible time interval between two successive trains at a
+                          Electronic copy – uncontrolled when printed

@@ -1,0 +1,58 @@
+NETWORK RAIL                         Timetable Planning Rules                    Version: 4.1
+London North Eastern                   Revised Final Rules for                     Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                 Page: 45 of 368
+
+
+LN750 WOODBURN JUNCTION TO DEEPCAR
+TIMING POINT                       DOWN       UP         CODE     NOTES
+
+Woodburn Junction                  –          –                   To/from Woodhouse – LN736
+                                                                  To/from Broughton Lane Jn – LN830
+Deepcar                                                           NR boundary
+Stocksbridge Works                            –
+
+
+LN752 WRAWBY JUNCTION TO MARSHGATE JUNCTION
+TIMING POINT                       DOWN       UP         CODE     NOTES
+
+Wrawby Junction                    –          FL SL               To/from Brocklesby – LN736
+                                              DGL
+Foreign Ore Branch Junction        –          –                   To/from Santon F.O.T. –LN754
+North Lincoln Junction             DSG        –          X
+  Scunthorpe Corus CHP             –                     S
+  Scunthorpe Anchor Exchange       –                     S
+  Scunthorpe Container Terminal    –                     S
+  Scunthorpe Entrance ‘C’          –                     S
+  Scunthorpe Trent TC              – DSG                 S
+Scunthorpe Trent Junction          –          –          X        To/from Roxby – LN756
+  Scunthorpe FD                    –          –          S
+Frodingham Jn                      –          – ML       X
+                                              USG
+Scunthorpe                         –          –                   Platform detail must be shown
+Scunthorpe West Jn
+Gunhouse Loop                                 –          S
+Althorpe                           –          –          S
+Crowle                             –          –
+Thorne South                       –          –          S
+Thorne Junction                    – SL       –                   To/from Goole – LN912
+                                                                  All trains on the Fast Lines between
+                                                                  Thorne Junction and Kirk Sandall Junction
+                                                                  in both directions are timed ‘-‘ line
+  Hatfield Colliery                – USL      –          SF
+Hatfield & Stainforth              – SL       – SL                To/from Applehurst Jn –LN842
+Kirk Sandall                       –          –          S
+Kirk Sandall Junction              –          – SL       XF       To/from Low Ellers Curve Jn – LN758
+Bentley Junction                   – AL       –                   To/from Hexthorpe Jn – LN826
+Marshgate Junction                                                To/from Doncaster – LN101
+
+
+LN754 SCUNTHORPE FOREIGN ORE BRANCH
+TIMING POINT                       DOWN       UP         CODE     NOTES
+
+Foreign Ore Branch Junction        –          –                   To/from Appleby – LN752
+Santon Foreign Ore Terminal                   –
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

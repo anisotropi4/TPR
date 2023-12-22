@@ -1,0 +1,61 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    353 of 443
+
+Hillside
+
+Minimum Turnround Time – Trains changing direction at end of journey
+EMU shunting between arrival platform 1 and departure platform 2 for services from/to Southport      7
+only
+
+
+Southport
+
+See entry under route NW6009 Windsor Bridge North Jn to Southport
+
+
+NW8003 PARADISE JN TO JAMES STREET (STOCK INTERCHANGE/HOLDING
+LINE)
+
+Paradise Jn
+
+See entry under route NW8001 Hunts Cross West Jn to Southport
+
+
+James Street
+
+See entry under route NW8011 Mann Island Jn to West Kirby (via Loop)
+
+
+NW8005 SANDHILLS JN TO ORMSKIRK
+
+Kirkdale
+
+Dwell Time
+EMU                                   1$
+$ includes an allowance for traincrew change
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Arrival of train at Kirkdale C.S. from Walton Jn   Depart/pass Kirkdale to Walton Jn                 1½
+Arrival of train at Kirkdale C.S. from Walton Jn   Arrive/pass Kirkdale from Walton Jn               1½
+Departure of train from Kirkdale C.S. to           Arrive/pass Kirkdale from Sandhills               4
+Sandhills
+Departure of train from Kirkdale C.S. to           Depart/pass Kirkdale to Sandhills                 Same time as
+Sandhills                                                                                            first train
+                                                                                                     arrive/pass
+                                                                                                     Sandhills
+
+
+Walton Jn
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Down Ormskirk to Down Headbolt                     Up Ormskirk to Up Ormskirk                        2½
+Up Ormskirk to Up Ormskirk                         Down Ormskirk to Down Headbolt                    2
+
+
+
+
+                               Electronic copy - uncontrolled when printed

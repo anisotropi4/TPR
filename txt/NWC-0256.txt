@@ -1,0 +1,58 @@
+NETWORK RAIL                             Timetable Planning Rules                        Version:   4
+Region: North               Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                           Page:    244 of 443
+
+High Wycombe
+
+Adjustment to Sectional Running Times
+Movement Down                                     Reason                                               Value
+Trains to platform 1 at High Wycombe              Slow turnout and approach to buffer stops            1
+
+Movement Up                                       Reason                                               Value
+Depart platform 1                                 Slow speed crossover                                 ½
+                                                                                                       approaching
+                                                                                                       next timing
+                                                                                                       point
+Depart or Pass platform 2                         Approach control                                     1
+                                                                                                       approaching
+                                                                                                       High
+                                                                                                       Wycombe
+                                                  Acceleration from slow speed crossover               ½
+                                                                                                       approaching
+                                                                                                       next timing
+                                                                                                       point
+Connectional Allowance                 1
+
+Dwell Time
+DMU                                   1
+
+Junction Margins
+First Movement                                    Second Movement                                      Margin
+Up train out of Bay platform 1                    Down train                                           3
+Up train departing platform 2                     Down train                                           3
+Down train departing platform 2                   Up train arriving/passing platform 2                 3
+Down train arriving platform 1                    Down train passing platform 2                        2
+Down train arriving platform 1                    Down train arriving platform 2                       2½
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                        5
+
+Platform Reoccupation
+Through Lines: –                      3
+Bay                                   3
+
+
+Princes Risborough
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                              Value
+Down Main to Platform 2 (Up Princes                Differential Junction speed                         2 Freight
+Risborough Loop)                                                                                       1 DMU
+Pass Princes Risborough to Thame Branch            Approach control                                    1
+Siding
+
+
+
+
+                                Electronic copy - uncontrolled when printed

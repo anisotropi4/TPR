@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version: 4.1
+London North Eastern                    Revised Final Rules for                     Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                 Page: 183 of 368
+
+
+Benton North Junction
+
+Adjustment to Section Running Times
+Movement Down                                   Reason                                      Value
+Pass to Benton East Junction                    Approach Control                            1 Passenger
+                                                                                            1½ Freight
+Movement Up                                     Reason                                      Value
+Pass from Benton East Junction                  Acceleration                                ½ Passenger
+
+                                                                                            Freight 60mph
+                                                                                            ½ - 400t to 800t
+                                                                                            1 - 1000t to 2200t
+                                                                                            1½ - 2400t plus
+
+                                                                                            Freight 75mph
+                                                                                            1 - 400t to 800t
+                                                                                            1½ - 1000t plus
+
+
+
+Junction Margins
+First Movement                                  Second Movement                             Margin
+Passenger Pass to Benton East Jn                Pass Up Main for timing loads above or at   2
+                                                100mph
+Passenger Pass to Benton East Jn                Pass Up Main for timing loads below         3
+                                                100mph
+Passenger Pass to Benton East Jn                Pass Down Main for timing loads above or    2
+                                                at 100mph
+Passenger Pass to Benton East Jn                Pass Down Main for timing loads below       2½
+                                                100mph
+Freight Pass to Benton East Jn                  Pass Up Main for timing loads above or at   2½
+                                                100mph
+Freight Pass to Benton East Jn                  Pass Up Main for timing loads below         3½
+                                                100mph
+Freight Pass to Benton East Jn                  Pass Down Main for timing loads above or    2½
+                                                at 100mph
+Freight Pass to Benton East Jn                  Pass Down Main                              3
+Pass Up Main                                    Pass to Benton East Jn                      2
+Pass Up Main 100mph Plus                        Pass from Benton East Jn                    2½
+Pass Up Main                                    Pass from Benton East Jn                    3
+Passenger Pass Up Main                          Depart Benton North Jn                      1½
+Freight Pass Up Main                            Depart Benton North Jn                      2
+Passenger Pass from Benton East Jn              Pass Up Main for timing loads above or at   3
+                                                100mph
+Passenger Pass from Benton East Jn              Pass Up Main for timing loads below         3½
+                                                100mph
+Freight Pass from Benton East Jn                Pass Up Main for timing loads above or at   4
+                                                100mph
+Freight Pass from Benton East Jn                Pass Up Main for timing loads below         4½
+                                                100mph
+Pass from Benton East Jn                        Pass to Benton East Jn                      2
+Pass to Benton East Jn                          Pass from Benton East Jn                    3
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

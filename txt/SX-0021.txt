@@ -1,0 +1,48 @@
+ NETWORK RAIL                               Timetable Planning Rules                        Version:    4.3
+ Route: Sussex                              Final Rules for Subsidiary                      Date:       18th October 2023
+                                                  Timetable 2024 OFFICIAL
+                                                                                            Page:       17 of 163
+
+
+2 Route Description
+
+2.1 Planning Geography
+Network Rail maintains the planning geography and issues it to Train Operators using the BPlan system. BPlan data
+is to be regarded as the master geography and it is the responsibility of Train Operators and nominated Network Rail
+users to ensure that data in their train planning systems reflects the master geography.
+
+It is essential that all locations, times and full details such as platforms, running lines, activities, etc. comply fully with
+all of the following rules. Any Network Links used for buses only are to have running line defined as BUS. All data
+used by a specifier must be that supplied by Network Rail: use of estimated times added or amended locally will
+cause the trains concerned to fail validation.
+
+In order to avoid the creation of unnecessary journey legs and associated point-to-point timings, all passing times
+must conform to these rules.
+
+Locations in bold type and underlined are mandatory timing points, i.e. apply to all trains on the specified line of
+route.
+
+Locations in bold type are conditional timing points with a mandatory element. These are locations where all trains
+travelling on a specific line or in a specific direction are required to be timed at this location, which will be defined in
+the Notes column. For lines/directions for which the mandatory element does not apply they are to be treated as non-
+mandatory timing points and are only required to be shown in connection with a specific activity with one or more of
+the codes shown below in the Code column.
+
+Locations in normal type are non-mandatory timing points and are required to be shown only for a specific activity
+which one of more of the codes shown below in the Code column.
+
+Locations in italic type are not timing points but are shown for reference purposes
+
+Line references shown in italics e.g. SO500 are only for reference purposes.
+
+In the tables below, the following codes apply:
+
+F           Only freight trains are timed here
+P           Only passenger trains are timed here
+S           Only stopping trains are timed here
+X           Only trains crossing from one running line to another are timed here
+
+
+
+
+                                    Electronic copy - uncontrolled when printed

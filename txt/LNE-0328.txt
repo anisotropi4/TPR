@@ -1,0 +1,69 @@
+NETWORK RAIL                              Timetable Planning Rules                        Version: 4.1
+London North Eastern                        Revised Final Rules for                         Date: 12 October 2023
+                                       Subsidiary Change Timetable 2024                     Page: 325 of 368
+
+
+5.5.1 SX Daytime (See routes for applicable times)
+On Monday different allowances apply on some routes until the end of the ‘Sunday’ allowances at the times specified
+in the tables below. Please refer to Section 5.5.4 for the ‘Sunday’ allowances section to identify the routes to which
+those allowances apply.
+
+
+ LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION
+Timing Section                  Type     LH      MU      Freight      Remarks
+                                         HST
+                                         80X
+                                         22X
+
+ Down
+ Approach Welwyn Garden                                               Applied for trains terminating at Welwyn Garden
+                                E                1
+ City                                                                 City Only
+ Approach Stevenage             P        1*      1*                   *Not applicable to trains from Hertford Loop
+                                E                        1*
+ Approach Holme Jn              E        1       1       1
+ Approach Newark
+                                E        1       1       1
+ Northgate
+ Approach Loversall Carr Jn     E        1       1       1
+ Up
+                                                                         *Not required for services that are routed
+ Approach Doncaster             E        1*      1*      1
+                                                                              towards Sheffield
+                                                                       *May be shown approaching Newark Northgate
+ Approach Newark F.C.           E        1*      1*      1*
+                                                                               for trains booked to call there
+                                                                      Does not apply to trains from Stamford direction
+ After Tallington               E        1       1       1            (LN3615) or EMR services from Nottingham
+                                                                      Branch Junction
+ Approach Welwyn Garden
+                                E                        1
+ City
+ Approaching Potters Bar        P        1       1
+                                                                      Services routed towards the North London Lines
+                                                                      (LN115) are to receive this allowance
+                                                                      approaching Copenhagen Jn.
+ Approach Belle Isle            E        1*      1*      1            *This does not apply to ECS moves to Kings
+                                                                      Cross originating at Bounds Green, Hornsey
+                                                                      EMUD or Ferme Park sidings, or Hornsey or
+                                                                      Bowes Park Reversing Sidings.
+
+
+ LN105 MOORGATE TO FINSBURY PARK JUNCTION
+ Timing Section                         Type    LH      MU         Freight   Remarks
+                                                HST     LL
+                                                80X
+                                                22X
+
+ Up – Weekdays
+ Approach Moorgate                      E                 1
+
+
+ LN110 CANONBURY WEST JUNCTION TO FINSBURY PARK JUNCTION
+ Timing Section                         Type    LH      MU         Freight   Remarks
+
+
+
+ Up
+ Approach Canonbury West                E         1       1          1
+                                       Electronic copy - uncontrolled when printed.

@@ -1,0 +1,55 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                        Version:   4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024               Date:    28/07/2023
+                                                                                             Page:    186 of 242
+
+SC193 PERTH TO INVERNESS
+
+Perth
+
+Refer to SC119
+
+
+Stanley Junction
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Up Pass                                          Down Pass                                         3
+
+
+Dunkeld & Birnam
+
+Dwell Time
+HST Power Door                       1½
+LH                                   2
+MU                                   1
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Down train when passing Up train                 Approach Control                                  1
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Down Arrive                                        Up Pass                                         3½
+Up Arrive                                          Down Arrive                                     1½
+Down Arrive                                        Up Depart                                       1
+Down Arrive                                        Up Arrive                                       4*
+Up Arrive                                          Down Depart                                     1
+Up Arrive                                          Down Pass                                       2
+*Can be reduced to 2 minutes if {½} inserted approaching Dunkeld due to sighting signal at danger.
+Operating Restriction
+Trains cannot arrive simultaneously; must arrive at least ½ minutes apart as per margins above. However, trains
+can depart simultaneously subject to satisfying the above rules.
+
+Loop Length Restriction/Operating Instructions
+Trains must not exceed 307 metres / 47 SLU if using mainline or 321 metres / 50 SLU if using Down Loop. A train
+exceeding these lengths can pass (i.e not stop) another train subject to the above margins. Stopping trains
+normally use the Up platform, except when passing/being passed by an Up service.
+Down trains may ‘overtake’ another Down train, the train being overtaken standing at the Down platform, the
+overtaking train stopping at or passing through the Up platform
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

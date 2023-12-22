@@ -1,0 +1,60 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                        Page:    306 of 443
+
+Salthouse Jn
+
+N.B. Barrow-in-Furness SB releases Salthouse Jn Ground Frame. However, it cannot be released if Dalton Jn SB
+is closed.
+
+When the Ground Frame is released the Up and/or Down lines (as detailed below) are considered blocked
+between Barrow-in-Furness and Dalton Jn inclusive.
+
+For arrivals from Barrow-in-Furness:
+Barrow dep                        XX.00 #                      # Cannot depart until 2 minutes after preceding
+                                  "-"                          train on the Up Main has passed Dalton Jn
+Salthouse Jn Ground Frame arr     XX OP RM PR 05               * Up and Down lines must be considered blocked
+Salthouse Jn Ground Frame dep     XX OP RM PR 15 *             while train is at Salthouse Jn Ground Frame.
+                                  "-"                          Trains from Barrow-in-Furness or Dalton Jn
+Barrow Ramsden Dock/Barrow        XX PR 25                     cannot enter the section until 2 minutes after the
+Docks (ABP) arr                                                above departure from Salthouse Jn Ground
+                                                               Frame.
+For departures to Barrow-in-Furness:
+Barrow Ramsden Dock/Barrow       XX PR 00                      * Down line only must be considered blocked
+Docks (ABP) dep                                                while train is at Salthouse Jn Ground Frame.
+                                 "-"                           Trains from Dalton Jn cannot enter the section
+Salthouse Jn Ground Frame arr    XX PR OP RM 10 #              until 2 minutes after the above departure from
+Salthouse Jn Ground Frame dep    XX PR OP RM 20 *              Salthouse Jn Ground Frame.
+                                 "-"
+Barrow arr                       XX.24
+
+For arrivals from Dalton Jn:
+Dalton Jn pass                       XX/XX #
+                                     "-"
+Salthouse Jn Ground Frame arr        XX OP 06 *
+Salthouse Jn Ground Frame dep        XX OP 16 *
+                                     "-"
+Barrow Ramsden Dock/Barrow           XX.26
+Docks (ABP) arr
+# Cannot depart until 2 minutes after preceding train on the Down Main has passed Barrow-in-Furness
+
+* Down line only must be considered blocked while train is at Salthouse Jn Ground Frame. Trains from Dalton Jn
+cannot enter the section until 2 minutes after the above departure from Salthouse Jn Ground Frame.
+
+For departures to Dalton Jn:
+Barrow Ramsden Dock/Barrow           XX.00
+Docks (ABP) dep
+                                    "-"
+Salthouse Jn Ground Frame arr       XX OP 10 *
+Salthouse Jn Ground Frame dep       XX OP 20 *
+                                    "-"
+Dalton Jn pass                      XX/27
+Up and Down lines must be considered blocked while train is at Salthouse Jn Ground Frame.
+Trains from Barrow-in-Furness or Dalton Jn cannot enter the section until 2 minutes after departure from
+Salthouse Jn Ground Frame.
+
+
+
+
+                               Electronic copy - uncontrolled when printed

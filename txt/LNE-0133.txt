@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+London North Eastern                    Revised Final Rules for                       Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                   Page: 130 of 368
+
+
+Biggleswade
+
+Movement Up                        Reason                        Value
+Sandy to Biggleswade. To be        UF to US; approach control    ½
+applied approaching Biggleswade
+Biggleswade to Hitchin. To be      UF to US; acceleration from   1 for non-stopping trains only
+applied after Biggleswade          slow speed pointwork
+
+METHOD OF WORKING TO/FROM PLASMOR SIDINGS
+
+Method of Working from South, to Plasmor Sidings:
+   • Hitchin                      xx/xx
+   • Biggleswade [platform 4] arr xxRM00
+   • Biggleswade [platform 4] dep xxRMPR03
+   • Biggleswade Plasmor          xxPR06½
+
+Method of Working from North, to Plasmor Sidings:
+   • Sandy                            xx/xx
+   • Biggleswade [platform 1 or 2]    xx/00
+   • Biggleswade Signal K235 arrive xxRM02
+   • Biggleswade Signal K235 depart xxRMPR04
+   • Biggleswade [platform 4] arrive   xxPRRM07
+   • Biggleswade [platform 4] depart   xxRM09
+   • Bigglswade Plasmor arrive         xx:12½
+
+Method of Working from Plasmor Sidings to South:
+   • Bigglswade Plasmor depart       xxPR00
+   • Biggleswade [platform 4] arrive xxPRRM02
+   • Biggleswade [platform 4] depart xxRM04
+   • Hitchin                          xx/xx
+
+Method of Working from Plasmor Sidings to North:
+   • Bigglswade Plasmor depart       xx:00
+   • Bigglswade [platform 4] arrive  xxOP02 (OP stop to allow GF operator to join train)
+   • Biggleswade [platform 4] depart xxOP07
+   • Sandy                           xx/xx
+
+Notes:
+   • Run Rounds, if required, use the DSL. Planners must satisfy themselves that a ‘window’ of at least 10
+       minutes exists between other traffic to allow this to take place
+   • Siding Lengths:
+   • No. 1 Siding (adjacent to Down Slow): Complete siding 821yards/117slu; south, clear of ‘A’ ground frame
+       476yards/67slu; north, clear of ‘B’ ground frame and all points 85yards/12slu; between ‘A’ ground frame
+       and ‘B’ ground frame 276yards/39slu
+   • No. 2 Siding (adjacent to no. 1 siding at south end) – 205yds/29slu [presently out of use]
+   • No. 3 Siding (adjacent to no. 1 siding at north end) – 213yards/39 slu
+   • No. 4 Siding (adjacent to no. 3 siding) – 213yards/39 slu
+   • No. 5 Siding (adjacent to no. 4 siding) – room for locomotive only
+
+
+Sandy
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                           Value
+
+
+                                  Electronic copy - uncontrolled when printed.

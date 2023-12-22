@@ -1,0 +1,63 @@
+NETWORK RAIL                              Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                    OFFICIAL
+                                      Final Proposal for Subsidiary                              25th August 2023
+                                                                                       Date:
+                                           Timetable 2024                              Page:    136 of 168
+
+
+ Gravesend
+
+ Junction Margins
+ First Movement                                    Second Movement                                   Margin
+ Up train arrive/passplatform 1                    Down train arrive into platform 0                 2½
+ Up train depart from platform 0                   Up train arrive/pass platform 1                   2½*
+ Up train depart/pass platform 1                   Up train depart from platform 0                   2
+ Down train arrive in platform 0                   Up train pass/arrives platform 1                  2
+ Down train arrive in platform 0                   Up train depart platform 1                        1
+ Down train arrive/passing platform 1              Down train arrive into platform 0                 3
+ Down train arrive platform 2                      Down train arrive into platform 0                 3
+ *4 for freight without having to approach a red aspect
+
+ Adjustments to Sectional Running Times
+ Movement                                           Reason                                           Value
+ Trains leaving Bay Platform 0                      Speed Differential                               ½
+ Trains arriving in Bay platform 0                  Speed Differential                               1
+ Down Trains arriving platform 1                    Speed Differential                               ½
+
+ Connectional Allowance               4
+
+ Dwell Time
+ All services                         1
+
+ Berthing Facilities
+ Location                              Cars
+ Platform 0                            12
+
+ Permissive working for attaching/detaching and platform sharing is authorised as shown below:
+ Platform 0 (Bay platform)                           Prohibited
+ Platform 1                                          Prohibited
+ Platform 2                                          Prohibited
+
+
+Hoo Junction
+
+Junction Margins                                                                   Margin
+Between all conflicting moves                                                      2
+Re-occupation of single line to/from Grain                                         4
+
+Adjustments to Sectional Running Times
+Movement                                           Reason                          Value
+Light Engine & Freight up to 800T inclusive        Speed Differential              ½ approaching next timing point
+from Grain Branch
+Freight over 801T from Grain Branch                Speed Differential              1 approaching next timing point
+
+Limit of Shunt
+Down North Kent (clear of Signal NK443)
+
+Timing points to enable ARS to operate. See also Section 2.1
+For Freight arrivals at Hoo Junction in up direction Higham (HIGM) to be used
+For Freight arrivals at Hoo Junction in down         Hoo Junction (HOOJ) to be used
+direction
+
+
+                                    Electronic copy - uncontrolled when printed

@@ -1,0 +1,68 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                    Version:      4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                   Date:       6th October 2023
+                                         Change Timetable 2024                          Page:       231 of 289
+
+
+Cardiff Central
+
+80x                                   2
+150 to 175                            3
+Platforms 4/6/7/8 150/153 & 769       1½
+Class 387 (ECS to passenger)          2
+
+Minimum allowance for reversals       15 minutes
+or run rounds en route (loco
+hauled (Except TfW))
+
+Intervals for ECS to/from Canton Sidings
+Services in the same direction, to and from Canton Sidings, should be timed a minimum of 5 minutes apart at
+Canton.
+
+Platform Working
+Permissive working is not permitted with Class 80X (9/10 car) units
+
+Platform Number                                    Platform Capability
+Platform 0                                         Can fit up to a 4x23m DMU car only.
+Platform 1                                         Permissive move possible, please check length of train and
+                                                   adhere to platform re-occupation values below.
+Platform 2                                         Permissive move possible, please check length of train and
+                                                   adhere to platform re-occupation values below.
+Platform 3                                         Split into A (Cardiff West end) and B (Cardiff East end), with
+                                                   80x 9/10 car required to be booked in middle (whole platform).
+                                                   Permissive move possible, please check length of train and
+                                                   adhere to platform re-occupation values below.
+Platform 4                                         Split into A (Cardiff West end) and B (Cardiff East end), with
+                                                   80x 9/10 car required to be booked in middle (whole platform).
+                                                   Permissive move possible, please check length of train and
+                                                   adhere to platform re-occupation values below.
+Platform 6                                         Permissive move possible, please check length of train and
+                                                   adhere to platform re-occupation values below.
+Platform 7                                         Permissive move possible, please check length of train and
+                                                   adhere to platform re-occupation values below.
+Platform 8                                         Permissive move possible, please check length of train and
+                                                   adhere to platform re-occupation values below.
+
+Platform end conflicts (East End)
+First Movement                                     Second Movement                                        Margin
+Down arrival from Line B into Platform 0/1         Up train pass Platform 0/1/2 from Line A/B/Up           2½
+                                                   Barry/Up Barry Relief to Line B
+Down arrival from Line D/E into Platform 3         Up train pass Platform 4/Line D from Up                  2
+                                                   Barry/Up Barry Relief to Line D/E
+Down arrival from Line C to Platform 2             Up train pass Line C from Line C to Line C                2
+Down arrival from Line D to Platform 3             Up train pass Line D from Line D to Line D               2½
+Down arrival from Line B to Platform 1/2           Up train pass Platform 0 from Line A to Line B            3
+
+Platform end conflicts (West End)
+First Movement                                     Second Movement                                        Margin
+Down departure Platform 3/4/6 to Down              Down departure Platform 4/6/8 to Line A/D/E             1½
+Barry/Down Barry Relief
+Up train passing Line D from Up Barry/Up Barry     Down departure Platform 3 to Line D/E                    1½
+Relief
+Down departure Platform 0/1/2 to Line D            Down departure Platform 3/4 to Line A                    2
+
+
+
+                                   Electronic copy - uncontrolled when printed.

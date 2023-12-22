@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:     4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:      28th July 2023
+West and Central
+                                                                                       Page:     289 of 443
+
+Roby
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                              Timing Load          Value
+Down Chat Moss Slow to Down Chat Moss           Acceleration from slower speed      All Passenger        ½
+not stopping at Roby (applies at next timing    junction                            and light
+point after Roby)                                                                   engines
+                                                                                    Freight Timing       ½
+No adjustment applies to any traffic timed at                                       Loads to 1000t
+45mph or less                                                                       Freight Timing       1
+                                                                                    Loads 1200-
+                                                                                    1400T
+                                                                                    Freight Timing       1½
+                                                                                    Loads above
+                                                                                    1600T
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Down Chat Moss Fast towards Edge Hill             Down Chat Moss Slow towards Edge Hill             2
+
+
+Olive Mount Jn
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                            Value
+Down Freight train passing to Olive Mount         Approach control                                  1
+Chord                                                                                               approaching
+                                                                                                    Olive Mount
+                                                                                                    Jn
+
+Movement Up                                       Reason                                            Value
+Up Freight train passing from Olive Mount         Acceleration to line speed                        1 after Olive
+Chord                                                                                               Mount Jn
+Up Passenger train stopping at Wavertree          Acceleration to line speed                        ½ after Olive
+Technology Park, then non-stop to Huyton                                                            Mount Jn
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Down Freight train pass to Olive Mount Chord      Up train pass non-stop towards Huyton             4
+Down Freight train pass to Olive Mount Chord      Up stopping train pass from Wavertree             2
+                                                  Technology Park
+Up train pass                                     Down Freight train pass to Olive Mount Chord      4
+Up Freight train pass from Olive Mount Chord      Down Freight train pass to Olive Mount Chord      5
+Up train pass towards Huyton                      Up Freight train pass from Olive Mount Chord      3
+
+
+Down/Up Waterloo Sidings (Tuebrook)
+
+Run-round Allowance                   25 minutes
+Run-round Allowance (DOO)             35 minutes for DB Cargo trains
+
+
+
+
+                              Electronic copy - uncontrolled when printed

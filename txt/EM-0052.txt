@@ -1,0 +1,65 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                      Version:   4.1
+East Midlands                       Final Subsidiary Change Rules 2024                    Date:    13th September
+                                                                                                   2023
+                                                                                           Page:   50 of 123
+
+Arrive North Reception Road 2                   Depart North Reception Road 1                       2
+Arrive North Reception Road 1                   Depart North Reception Road 2                       2
+
+
+Cricklewood Depot North Junction
+
+Junction Margins
+First Movement                                  Second Movement                                     Margin
+Arrive/Pass Hendon Down Slow from               Depart/Pass Hendon Up Slow                          1
+Cricklewood North Reception Road
+Depart/Pass Hendon Up Slow                      Arrive/Pass Hendon Down Slow from                   4
+                                                Cricklewood North Reception Road
+
+
+Brent Curve Junction
+
+Planning Restriction
+A 5-minute stop should be applied at this location if propelling into Cricklewood Aggregate Sidings via signals
+WH590, WH486 or WH586
+
+
+Hendon
+Planning Note
+Up Slow Line
+No timing allowances should be placed between Silkstream Junction or Hendon as there are no intermediate
+signal. Such allowances should be placed approaching Silkstream Junction, Cricklewood or West Hampstead as
+appropriate.
+
+Down Fast Line
+Pathing time required to maintain a TPR compliant headway or junction margin with a train crossing between the
+Fast and Hendon Lines at Silkstream Junction must be placed approaching Hendon in the down direction as there
+is no intermediate signal between Hendon signal WH43 and Silkstream Junction.
+
+
+Silkstream Junction
+
+Junction Margins
+First Movement                            Second Movement                              Margin
+Down Slow to Down Slow                    Down Hendon to Down Slow                     3
+Up Fast to Up Hendon                      Down passenger pass Hendon on Down           3
+                                          Fast
+Up Fast to Up Hendon                      Down freight pass Hendon on Down Fast        4
+Down passenger pass Hendon on             Up Fast to Up Hendon                         3
+Down Fast
+Down freight pass Hendon on Down          Up Fast to Up Hendon                         3½
+Fast
+
+Adjustment to Sectional Running Times
+Movement Down                       Reason                                             Value
+Pass Down Hendon Line to Down       Acceleration                                       After Silkstream Junction:
+Slow                                                                                   Freight
+                                                                                       1 400t
+                                                                                       2 600t – 800t/TR40
+                                                                                       2½ 1,000t – 1.400t/TR55-85
+                                                                                       3 1,600t – 1,800t/TR100
+                                                                                       3½ 2,000t – 2,200t/TR115
+
+                                        Electronic copy - uncontrolled when printed.

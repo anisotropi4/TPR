@@ -1,0 +1,72 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                      Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                      Date:
+                                                2024                                          2023
+                                                                                     Page:    87 of 183
+
+Ilford
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                              Value
+Trains timed at 75mph or above crossing from      Deceleration                                        {½}
+Up ML to Up Passenger Avoiding Line                                                                   approaching
+                                                                                                      Ilford
+
+Connectional Allowance                            2
+
+Dwell Time                                      1* MTR Elizabeth line services
+* May be reduced to ½ minute by agreement with the operator
+
+
+
+Ilford Depot London End Junction
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                              Value
+Down train crossing from Main Line to Electric    Faster speed due to not entering Depot              {-½}
+                                                                                                      {-½}
+Up train crossing from Electric Line to Main
+                                                  Faster speed due to not exiting Depot               approaching
+Line not departing Depot
+                                                                                                      Ilford
+
+Junction Margins
+First Movement                                     Second Movement                                   Margin
+Down Train Passing Ilford on Electric Lines        Up Train Passing on Electric Lines from Depot 4
+Down Train Departing Ilford on Electric Lines      Up Train Passing on Electric Lines from Depot* 4½*
+Up Train Passing on Electric Lines from Depot      Down Train Passing Ilford on Electric Lines       2
+Up Train Passing on Electric Lines from Depot      Down Train Departing Ilford on Electric Lines     1½
+* Margin may be reduced to 4 minutes if the next train following on the Up Electric Line from Seven Kings has {½}
+approaching its next timing point
+
+
+Seven Kings
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                           Value
+Down train stopping at Seven Kings crossing      Approach control prior to slow speed crossover   {1}
+from the down Electric Line to platform 3
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Down EL train arrive at Seven Kings              Up train pass/depart Seven Kings towards         1
+                                                 Ilford EMUD
+Down train pass/depart Seven Kings Platform      Up train arrive Seven Kings Platform 3           3
+3 towards Down ML
+Down train pass/depart Seven Kings Platform      Up passenger train which passes Seven Kings      4½
+3 towards Down ML                                Platform 3 pass/arrive Ilford
+Down train pass/depart Seven Kings Platform      Up freight train which passes Seven Kings        5
+3 towards Down ML                                Platform 3 pass/arrive Ilford
+Up train depart Seven Kings Platform 3           Down train pass/arrive Seven Kings Platform 3    3
+Up passenger train which has passed Seven        Down train pass/arrive Seven Kings Platform 3    1½
+Kings Platform 3 pass/arrive Ilford
+Up freight train which has passed Seven          Down train pass/arrive Seven Kings Platform 3    1
+Kings Platform 3 pass/arrive Ilford
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,63 @@
+                                                     OFFICIAL
+
+ NETWORK RAIL                         Timetable Planning Rules 2024                    Version:   4.1
+ Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                   Date:    6th October 2023
+                                          Change Timetable 2024                          Page:    244 of 289
+
+
+NW3001 SALTNEY JUNCTION TO HOLYHEAD
+
+Shotton Low Level
+
+Dwell Time
+LH                                    1
+Power                                 1
+
+Flint Jn
+
+Standard NW Route Jn Margins apply
+
+Flint
+
+Dwell Time
+LH                                    1
+Power                                 1
+220/221/LH MK4                        1½
+390 (hauled)                          1½
+
+Mostyn East Jn
+
+Crossing and conflicting moves
+First Movement                        Second Movement                         Margin
+An up train passing on the Up         A down train crossing from the Down     2½
+Holyhead                              Holyhead to arrive at Mostyn Docks
+A down train crossing from the        An up train passing on the Up           4½
+Down Holyhead to arrive at Mostyn     Holyhead
+Docks
+A down train passing on the Up        An up train from Mostyn Docks           4
+Holyhead (Reversible)                 crossing to the Down Holyhead
+                                      (Reversible)
+An up train from Mostyn Docks         A down train passing on the Up          14 (Second movement is
+crossing to the Down Holyhead         Holyhead (Reversible)                   passenger)
+(Reversible)                                                                  18 (Second movement is freight)
+
+Mostyn Docks and Trading
+
+For arrivals from the Holywell direction:
+Holywell dep                            XX.00
+                                        "-"
+Mostyn Ground Signal 21 arr             XXOP07#
+Mostyn Ground Signal 21 dep             XXOP11~
+                                        "-"
+Mostyn Ground Signal 15 arr             XXOP13*
+Mostyn Ground Signal 15 dep             XXOP17
+                                        "-"
+Mostyn Docks arr                        XX.22
+# Stops and sets back to Up Main
+~ Cannot depart until 2 minutes after preceding train on the Up Main has passed Holywell Junction (Minimum
+standing time 4 minutes).
+* Stops and draws forward into yard
+
+
+                                    Electronic copy - uncontrolled when printed.

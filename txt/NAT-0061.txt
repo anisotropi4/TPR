@@ -1,0 +1,66 @@
+                                               OFFICIAL
+
+
+Network Rail                                                                              Version 4.0
+National                                                                          Date: 28th July 2023
+                               Final Proposal for Subsidiary Change 2024
+                                            Page 60 of 114
+Type           Days   TID          Start Time       Origin                 Destination
+
+                      3J30                                                 Harringay Up Rev
+                                                                           SDGS
+                                                                           Royston (Herts)Loop
+RHTT                               04:09           Foxton                  Harringay Up Rev
+               SX     3J32         04:06                                   SDGS
+                                                                           Royston (Herts)Loop
+RHTT                                               Foxton                  Harringay Up Rev
+               SO     3J32         04:42                                   SDGS
+                                                                           Harringay Up Rev
+RHTT           Su     3J32         14:08           Foxton                  SDGS
+                      3J33
+RHTT           SX     3J34         07:42           Royston (Herts)Loop     Royston (Herts)Loop
+                      3J33
+RHTT           SO     3J34         09:04           Royston (Herts)Loop     Royston (Herts)Loop
+
+RHTT                  3J34                         Royston (Herts)Loop     Royston
+               SX     3J36         11:02                                   Ferme Park Recp
+
+RHTT                  3J34                         Royston (Herts)Loop     Royston (Herts)Loop
+               SO     3J36         12:31                                   Ferme Park Recp
+
+RHTT                  3J35         16:42           Royston                 Peterborough L.I.P.
+               SX     3J38         16:43                                   Harringay Up Rev Sdgs
+
+RHTT                  3J35         18:32           Royston (Herts)Loop     Peterborough L.I.P.
+               SO     3J38         18:33                                   Harringay Up Rev Sdgs
+RHTT           Su     3J40         10:17           Doncaster Up Decoy      Peterborough L.I.P.
+
+RHTT           SO     3J41         08:08           Peterborough L.I.P.     Doncaster Up Decoy
+
+RHTT           TThO   3J41         08:03           Peterborough L.I.P.     Barnetby
+
+RHTT           MWFO   3J41         06:10           Peterborough L.I.P.     Doncaster Up Decoy
+                                   13:58
+RHTT           SU     3J41         14:08           Peterborough L.I.P.     Peterborough L.I.P.
+
+RHTT           MWFO   3J42         09:54           Doncaster Up Decoy      Peterborough
+                                   11:40
+RHTT           SO     3J42         11:55           Doncaster Up Decoy      Peterborough L.I.P.
+
+RHTT           TThO   3J42         10:46           Barnetby                Peterborough L.I.P.
+
+RHTT           SU     3J42         17:57           Peterborough L.I.P.     Peterborough L.I.P.
+                                   16:04
+RHTT           MWFO   3J43         16:03           Peterborough            Peterborough L.I.P.
+
+RHTT           TThO   3J43         16:00           Peterborough L.I.P.     Peterborough L.I.P.
+
+RHTT           SX     3J44         19:06           Peterborough L.I.P.     Peterborough L.I.P.
+
+               TTHO   3J51         09:50           YORK THRALL EUROPA      YORK THRALL EUROPA
+               MWFO   3J51         09:50           YORK THRALL EUROPA      YORK THRALL EUROPA
+               SO     3J51         09:52           YORK THRALL EUROPA      YORK THRALL EUROPA
+                                                   Carlisle Kingmoor SDG
+RHTT           SO     3J77         04:10           (DRS)                   Nunthorpe
+
+                             Electronic copy – uncontrolled when printed

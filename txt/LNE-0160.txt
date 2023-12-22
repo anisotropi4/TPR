@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+London North Eastern                      Revised Final Rules for                         Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                     Page: 157 of 368
+
+
+Spalding
+
+Dwell Time
+DMU                                                 1
+
+Minimum Turnround                                   4 – trains from Peterborough
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Up train pass/depart Platform 1                    Down train terminates Platform 1                    3
+
+
+Sleaford South Junction
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Up train passes from Sleaford                      Down fast pass                                      2½
+Down fast pass                                     Up train passes from Sleaford                       2
+Up train passes from Sleaford                      Down train passes to Sleaford                       2½
+
+
+Sleaford North Junction
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Up train passes to Sleaford                        Down fast pass                                      2
+Down fast pass                                     Up train passes to Sleaford                         3
+Down train passes from Sleaford                    Up train passes to Sleaford                         3
+
+
+Lincoln Terrace Sidings
+
+Planning note
+When entering, the sidings diverge into Siding 1 and Siding 2 beyond Signal SL7821, which is the protecting
+signal for exiting the sidings. The two sidings then converge again at the far end and extend to a buffer stop,
+dimensions are as follows:
+
+Siding 1
+Signal SL7821 to convergence with Siding 2 at rear – 214m/33 SLUs
+Convergence point with Siding 2 at rear to buffer stop – 65m/10 SLUs
+
+Siding 2
+Signal SL7821 to convergence with Siding 1 at rear – 209m/33 SLUs
+Convergence point with Siding 1 at rear to buffer stop – 65m/10 SLUs
+
+
+
+Pelham Street Junction
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Pass from Market Rasen                             Pass to Sleaford                                    3
+Pass to Sleaford                                   Pass from Market Rasen                              4
+
+
+
+                                    Electronic copy - uncontrolled when printed.

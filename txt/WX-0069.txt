@@ -1,0 +1,30 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                    Date:    27th October 2023
+                                            Timetable 2024                              Page:    67 of 178
+
+SW300 GOMSHALL TO SHALFORD JUNCTION
+TIMING POINT                        DOWN           UP             NOTES
+
+Gomshall - Chilworth                AB+1½                         Based on time preceding train departs / passes
+                                                                  Chilworth. TCB timed as AB.
+Chilworth – Shalford (exclusive)    5
+Shalford (inclusive) – Shalford     3 – Non-
+Junction                            stopping
+                                    3½ -
+                                    Stopping
+Shalford Junction - Shalford                       3 – Non-
+                                                   stopping
+                                                   3½ -
+                                                   Stopping
+Shalford - Chilworth                               AB+1           Based on time preceding train arrives / passes
+                                                                  Chilworth. An Up train cannot arrive at
+                                                                  Chilworth until preceding train departs / passes
+                                                                  Gomshall. TCB timed as AB.
+Chilworth - Gomshall                               AB+1½          Based on time preceding train departs / passes
+                                                                  Gomshall. TCB timed as AB
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

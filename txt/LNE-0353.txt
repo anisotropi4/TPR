@@ -1,0 +1,66 @@
+NETWORK RAIL                       Timetable Planning Rules                       Version: 4.1
+London North Eastern                 Revised Final Rules for                        Date: 12 October 2023
+                                Subsidiary Change Timetable 2024                    Page: 350 of 368
+
+
+LN868 WINCOBANK JUNCTION TO HORBURY JUNCTION VIA BARNSLEY
+Timing Section                   Type    LH      MU       Freight   Remarks
+                                         HST     LL
+                                         EPU
+                                         22X
+
+Down – Sundays
+Approach Barnsley                E          1               1
+Up – Sundays
+Approach Barnsley                P                  1               Trains starting from Leeds only
+Approach Wincobank Junction      E          1               1
+
+
+LN872 ALTOFTS JUNCTION TO LEEDS WEST JUNCTION
+Timing Section                   Type    LH      MU       Freight   Remarks
+                                         HST     LL
+                                         EPU
+                                         22X
+
+Down – Sundays
+Approach Engine Shed Junction    E          2      2*       2       Approaching Stourton for trains that
+                                                                    terminate or call
+                                                                    * 1 minute for trains from Knottingley
+                                                                    direction
+                                 P                  2
+
+
+
+
+LN882 WAKEFIELD KIRKGATE WEST JUNCTION TO GOOLE POTTERS GRANGE
+JUNCTION
+Timing Section                   Type    LH      MU       Freight   Remarks
+                                         HST     LL
+                                         EPU
+                                         22X
+
+Down – Sundays
+Approach Pontefract              E                 1*               * Trains terminating from Wakefield
+                                                                    direction
+                                 P                 1*               * Trains terminating from Wakefield
+                                                                    direction
+Approach Knottingley             E          1       1       1
+                                 P                  1
+Approach Goole                   P                  2
+Up – Sundays
+Approach Knottingley             P                  1
+Approach Wakefield Kirkgate      E                  1
+                                 P                  1
+
+
+LN912 THORNE JUNCTION TO GILBERDYKE JUNCTION
+Timing Section                   Type    LH      MU       Cl 6      Remarks
+                                         HST     LL
+                                         EPU
+                                         Cl 4
+                                         22X
+
+Down – Sundays
+Approaching Gilberdyke           P          1       1
+Approach Goole                   P                  1            Terminating trains only
+                                Electronic copy - uncontrolled when printed.

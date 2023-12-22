@@ -1,0 +1,33 @@
+                                                  OFFICIAL
+
+
+NETWORK RAIL                     Timetable Planning Rules                      Version:   4.1
+Anglia            Amended Final Principal and Subsidiary Change Timetable                 12th September
+                                                                                  Date:
+                                            2024                                          2023
+                                                                                 Page:    12 of 183
+
+ Second Character     Route and/or Destination
+ X                    Special conditions for exceptional load
+
+ Y                    Ipswich and Stowmarket EMU peak services
+                      ECS to form Class 1 trains,
+                      Willesden Junction to/from Clapham Junction
+                      Stratford, Camden Road to Clapham Junction
+                      Elizabeth line to Paddington Crossrail (including ECS to Old Oak Depot)
+                      Ipswich District (except Felixstowe Branch)
+
+ Z                    Special Traffic Trains
+                      Must NOT be used for WTT services
+                      STP additional trains not conforming to any route code
+
+
+ Third and Fourth Characters
+
+ For services running solely within Anglia, Down services normally carry EVEN NUMBERS and Up services
+ normally carry ODD NUMBERS
+
+
+
+
+                               Electronic copy - uncontrolled when printed.

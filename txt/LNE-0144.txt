@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 141 of 368
+
+
+Grantham
+First Movement                                 Second Movement                                       Margin
+Up Train from Up/Down Slow depart              Down train passes/arrives Grantham                    5
+Grantham
+Down train passes/arrives Grantham                   Up Train from Up/Down Slow depart Grantham      1
+Up train passes                                      Up Train from Up/Down Slow depart Grantham      2
+Depart Platform 1 to Up Main                         Depart Platform 4 to Up Main via Up/Down        3*
+                                                     Slow
+*If first train is a class 80x, this margin can be reduced to 2
+
+Platform Re-occupation
+Same direction                                     3
+
+
+Claypole Loop
+
+Restrictions
+In Down directions, train in excess of 350 yards (50 SLU) in length are only permitted to stand for a maximum of
+15 minutes
+
+
+Newark North Gate
+
+Advertised Differential              Trains to Nottingham should be advertised to depart 2 minutes earlier
+
+Adjustments to Sectional Running Times
+Movement (to be shown after Newark)               Reason                                                  Value
+UDPL/P3 to Down Main when Down Main to            Junction differential when joining the Main line        ½ HST/180/
+Retford                                                                                                   225/80X
+Newark Crossing East Jn via P3/UDG to the         Junction differential when joining the Main line        2 Freight
+Up Main; pass to pass
+
+Movement (to be shown approaching Newark)         Reason                                                  Value
+Up Main to P3/UDPL                                Approach control and differential junction              ½ HST/180/
+                                                  speed                                                   225/80X
+Down Main to Newark Crossing East Jn via          Approach control and differential junction              2 freight
+P3/UDG; pass to pass                              speed
+Down arrive Platform 3                            Approach control and differential junction              ½
+                                                  speed                                                   HST/225/80x
+
+Connectional Allowance               7
+
+Dwell Time
+DMU/EMU                              1½*. * 4 for reversing trains
+LH/802                               1½
+LNER all services                    2 – may be reduced to 1½ with prior agreement from the operator
+
+Junction Margins
+First Movement                                  Second Movement                                           Margin
+Pass Up Main                                    Arrive Platform 3 from Down Main                          3
+Pass Up Main                                    Arrive Goods Loop from Down Main (freight)                3½
+Depart Platform 2 to Up Main (Class 180/80x)    Arrive Platform 3 from Down Main                          3½
+Depart Platform 2 to Up Main (Class 91)         Arrive Platform 3 from Down Main                          4
+Depart Platform 2 to Up Main (Class 180/80x)    Arrive Goods Loop from Down Main (freight)                4
+Depart Platform 2 to Up Main (Class 91)         Arrive Goods Loop from Down Main (freight)                4½
+Down arrival into Platform 3 or Goods Loop      Down Main passenger pass                                  2
+                                   Electronic copy - uncontrolled when printed.

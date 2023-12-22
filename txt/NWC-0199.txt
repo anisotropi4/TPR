@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                        Page:   187 of 443
+
+
+
+MD145 CAMDEN ROAD WEST JN TO CAMDEN JN
+
+Camden Jn
+See entry under route MD101 Euston to Armitage Jn (exclusive)
+
+
+Primrose Hill Signal WM801
+
+Planning Note
+The standage at signal WM801 (Down Primrose Hill) is 733 meters/114SLUs (exclusive of stand-back allowance)
+to be clear of Camden Road West Jn.
+
+
+
+MD232 HINCKLEY (EXCLUSIVE) TO ABBEY JN
+
+Nuneaton
+See entry under route MD101 Euston to Armitage Jn (exclusive)
+
+
+MD301 RUGBY TRENT VALLEY JN TO PENKRIDGE (VIA BIRMINGHAM)
+
+Rugby Trent Valley Jn
+See entry under route MD101 Euston to Armitage Jn (exclusive)
+
+
+Coventry
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                             Value
+Trains from Rugby Trent Valley Jn towards         Deceleration to 15 mph and differential junction   1½
+Coundon Road not stopping at Coventry             Speed
+Trains from Rugby Trent Valley Jn to Platform 4   Approach Control                                   1
+
+Passing Trains from Gibbet Hill Jn towards Berkswell. (Applies approaching next timing point after
+Coventry)
+Movement Down                                  Reason                                       Value
+Passenger/ECS                                  Acceleration Allowance                       1½
+Class 6 up to 400t (inclusive)                 Acceleration Allowance                       ½
+Class 6 600t                                   Acceleration Allowance                       1
+Class 6 800t                                   Acceleration Allowance                       1½
+Class 6 1000t (inclusive) to 1500t (inclusive) Acceleration Allowance                       2
+Class 6 1600t (inclusive) to 1800t (inclusive) Acceleration Allowance                       2½
+Class 6 2000t (inclusive) to 2200t (inclusive) Acceleration Allowance                       3
+Class 6 over 2200t                             Acceleration Allowance                       3½
+Class 4 up to 400t                             Acceleration Allowance                       1
+Class 4 600t                                   Acceleration Allowance                       1½
+Class 4 800t (inclusive) to 1500t (inclusive)  Acceleration Allowance                       2
+Class 4 over 1500t                             Acceleration Allowance                       2½
+
+
+
+
+                             Electronic copy - uncontrolled when printed

@@ -1,0 +1,55 @@
+                                                                                           OFFICIAL
+
+
+                                NETWORK RAIL                          Timetable Planning Rules                                   Version:        4.1
+                                Anglia                 Amended Final Principal and Subsidiary Change Timetable                                   12th September
+                                                                                                                                   Date:
+                                                                                 2024                                                            2023
+                                                                                                                                   Page:         82 of 183
+
+
+                                                                                                 2nd Move >>>
+             Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep    Dep   Dep     Dep   Dep   Dep    Dep   Dep       Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep   Dep
+                                            5                 6                 7                         8                  9            10        11    12    13    13    14    14    15    16    17
+             1S    2S    3S    4S    5S    ML     5    6S    ML     6    7S    ML     7    8S      8     ML     9S     9    ML     10S   ML        ML    ML    ML    EL    ML    EL    EL    EL    EL
+1st Move                                   ML1   ML2         ML1   ML2         ML1   ML2          ML1   ML2           ML1   ML2     *
+Dep 1 S      2c    2     2     2     2      P     P     2     P     P     2     P     P     2      P      P      2     P     P      2       P       P    P     P     P     P     P     P     P     P
+Dep 2 S      2     2c    2     2     2      P     P     2     P     P     2     P     P     2      P      P      2     P     P      2       P       P    P     P     P     P     P     P     P     P
+Dep 3 S      2     2     2c    2     2      P     P     2     P     P     2     P     P     2      P      P      2     P     P      2       P       P    P     P     P     P     P     P     P     P
+Dep 4 S      2     2     2     2c    2      P     P     2     P     P     2     P     P     2      P      P      2     P     P      2       P       P    P     P     P     P     P     P     P     P
+Dep 5 S      2     2     2     2     2c     2c    2c    2     2     P     2     2     P     2      2      P      2     2     P      2       P       P    P     P     P     P     P     P     P     P
+Dep 5 ML /
+ML1          P     P     P     P     2c    2c    2c    2     2     2      2     2    2      2      2     2       2     2    2       2       2       2    2     2     P     2     P     P     P     P
+Dep 5 ML2    P     P     P     P     2c    2c    2c    2     2     2      2     2    2      2      2     2       2     2    2       2       2       2    2     2     P     2     P     P     P     P
+Dep 6 S      2     2     2     2     2     2     2     2c    2c    2c     2     2    Px     2      2     Px      2     2    Px      2       Px      P    P     P     P     P     P     P     P     P
+Dep 6 ML /
+ML1          P     P     P     P     2      2     2    2c    2c    2c    2     2     2      2      2     2       2     2    2       2       2       2    2     2     P     2     P     P     P     P
+Dep 6 ML2    P     P     P     P     Px     2     2    2c    2c    2c    2     2     2      2      2     2       2     2    2       2       2       2    2     2     P     2     P     P     P     P
+Dep 7 S      2     2     2     2     2      2     2    2     2     2     2c    2c    2c     2      2     Px      2     2    Px      2       Px      P    P     P     P     P     P     P     P     P
+Dep 7 ML /
+ML1          P     P     P     P     2      2     2    2      2     2    2c    2c    2c    2      2      2       2     2     2      2       2       2    2     2     P     2     P     P     P     P
+Dep 7 ML2    P     P     P     P     Px     2     2    Px     2     2    2c    2c    2c    2      2      2       2     2     2      2       2       2    2     2     P     2     P     P     P     P
+Dep 8 S      2     2     2     2     2      2     2    2      2     2    2     2     2     2c     2c     2c      2     2     2      2       Px      P    P     P     P     P     P     P     P     P
+Dep 8 ML1    P     P     P     P     2      2     2    2      2     2    2     2     2     2c     2c     2c      2     2     2      2       2       2    2     2     P     2     P     P     P     P
+Dep 8 ML /
+ML2          P     P     P     P     Px     2     2    Px     2     2    Px     2     2    2c     2c     2c     2     2     2       2       2       2    2     2     P     2     P     P     P     P
+Dep 9 S      2     2     2     2     2      2     2    2      2     2    2      2     2    2      2      2      2c    2c    2c      2       Px      P    P     P     P     P     P     P     P     P
+Dep 9 ML1    P     P     P     P     2      2     2    2      2     2    2      2     2    2      2      2      2c    2c    2c      2       2       2    2     2     P     2     P     P     P     P
+Dep 9 ML /
+ML2          P     P     P     P     Px    2     2     Px    2     2     Px    2     2     2       2     2      2c    2c    2c      2       2       2    2     2     P     2     P     P     P     P
+Dep 10 S*    2     2     2     2     2     2     2     2     2     2     2     2     2     2       2     2      2     2     2       2c      2c      P    P     P     P     P     P     P     P     P
+Dep 10 ML    P     P     P     P     Px    2     2     Px    2     2     Px    2     2     Px      2     2      Px    2     2       2c      2c      2    2     2     P     2     P     P     P     P
+Dep 11 ML    P     P     P     P     P     2     2     P     2     2     P     2     2     P       2     2      P     2     2       P       2       2c   2     2     P     2     P     P     P     P
+Dep 12 ML    P     P     P     P     P     2     2     P     2     2     P     2     2     P       2     2      P     2     2       P       2       2    2c    2     P     2     P     P     P     P
+Dep 13 ML    P     P     P     P     P     2     2     P     2     2     P     2     2     P       2     2      P     2     2       P       2       2    2     2c    2c    2     P     P     P     P
+Dep 13 EL    P     P     P     P     P     P     P     P     P     P     P     P     P     P       P     P      P     P     P       P       P       P    P     2c    2c    2     2     2     2     2
+Dep 14 ML    P     P     P     P     P     2     2     P     2     2     P     2     2     P       2     2      P     2     2       P       2       2    2     2     2     2c    2c    P     P     P
+Dep 14 EL    P     P     P     P     P     P     P     P     P     P     P     P     P     P       P     P      P     P     P       P       P       P    P     P     2     2c    2c    2     2     2
+Dep 15 EL    P     P     P     P     P     P     P     P     P     P     P     P     P     P       P     P      P     P     P       P       P       P    P     P     2     P     2     2c    2     2
+Dep 16 EL    P     P     P     P     P     P     P     P     P     P     P     P     P     P       P     P      P     P     P       P       P       P    P     P     2     P     2     2     2c    2
+Dep 17 EL    P     P     P     P     P     P     P     P     P     P     P     P     P     P       P     P      P     P     P       P       P       P    P     P     2     P     2     2     2     2c
+
+
+
+
+                                                                    Electronic copy - uncontrolled when printed.

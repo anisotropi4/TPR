@@ -1,0 +1,64 @@
+NETWORK RAIL                              Timetable Planning Rules                          Version:      4.2
+Route: Wessex                         Final Rules for Subsidiary OFFICIAL
+                                                                 Change                       Date:       27th October 2023
+                                               Timetable 2024                                 Page:       133 of 178
+
+Fareham
+* E283 signal is within the overlap of E810 – an Up train cannot arrive at Platform 1 whilst a shunt movement is
+standing at E283.
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                Up Portsmouth              (Up direction)               Attaching/Detaching *
+Platform 2                Up Bay                                                  Prohibited
+Platform 3                Down Portsmouth            (Down direction)             Detaching only
+* A second train is prohibited from entering this Platform if it will not attach to the first train
+
+Platform Re-occupation
+Platform Re-Occupation                                                                                       Margin
+
+All Platforms                                                                                                3
+
+Except: Platform 3 when second movement is from the Botley direction                                         2
+
+
+
+
+Cosham
+
+Adjustment to Sectional Running Times
+Movement                                             Reason                                                 Value
+Up trains from Portcreek Junction                    Speed Differential                                     {½}
+
+Dwell Times
+All Services                           1
+
+Station Working Requirements
+Down trains exceeding eight cars should not be timed to stop for more than 1 minute to avoid blocking the level
+crossing.
+
+
+Cosham Junction
+
+Adjustment to Sectional Running Times
+Movement                                             Reason                                                 Value
+Down trains towards Portcreek Junction               Speed Differential                                     {½}
+
+Junction Margins
+First Movement                                       Second Movement                                        Margin
+Between all movements                                                                                       2
+
+
+Portcreek Junction
+
+See also entry under route – SW110
+
+
+SW140A COSHAM JUNCTION TO FARLINGTON JUNCTION
+
+Cosham Junction
+
+See entry under route – SW140
+
+
+                                      Electronic copy - uncontrolled when printed.

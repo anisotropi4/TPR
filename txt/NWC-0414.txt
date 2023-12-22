@@ -1,0 +1,62 @@
+NETWORK RAIL                        Timetable Planning Rules                    Version:   4
+Region: North          Final Proposal for Subsidiary Change Timetable 2024        Date:    28th July 2023
+West and Central
+                                                                                  Page:    402 of 443
+
+
+MD301 RUGBY TRENT VALLEY JN TO PENKRIDGE (VIA BIRMINGHAM)
+LOCATION                       DIRECTION      USABLE LENGTH       NOTES
+                                               SLU   METRES
+Soho North Jn – Down Soho      Up               45     289
+Goods Loop
+Watery Lane (Down Stour        Down             108       694
+Goods)
+Watery Lane (Up Stour          Up               79        512
+Goods)
+Down Bushbury Goods Loop       Down             153       981
+
+
+MD306 BIRMINGHAM NEW STREET TO ASHCHURCH (EXCLUSIVE)
+LOCATION                       DIRECTION      USABLE LENGTH       NOTES
+                                               SLU   METRES
+Kings Norton Arrival &         Up & Down        82     530        Not suitable for electric traction
+Departure                                                         Between signals SY523 and SY57
+Blackwell Down Goods Loop      Down              89       570
+Down Bromsgrove Loop           Down             309      1983
+
+Up Bromsgrove Loop             Up               111       720     From signal BA7612 to clear of 641 points
+                                                                  The Tamper Siding cannot be accessed
+                                                                  when the Up Bromsgrove Loop is
+                                                                  occupied by a freight service.
+Up Spetchley Goods Loop        Up               86        552     From signal BA7648 to clear of 650 points
+Down Abbotswood Goods          Down             80        512     From signal to BA7659 to clear of 652
+Loop                                                              points
+Up Eckington Goods Loop        Up               78        500
+
+
+MD320 PROOF HOUSE JN TO BUSHBURY JN (VIA BESCOT)
+LOCATION                       DIRECTION      USABLE LENGTH       NOTES
+                                               SLU   METRES
+Bescot Down Goods Loop         Down                    473        Standage between signals SB6659 and
+                                                                  SB9656
+Bescot Down Goods Loop         Down                       362     Standage between signals SB6663 and
+                                                                  SB9662
+Bescot Up Goods Loop           Down                       522     Standage between signals SB9657 and
+                                                                  SB6654
+Bescot Up Goods Loop           Up                         712     Standage between signals SB6654 and
+                                                                  SB6660
+Bescot Up Goods Loop           Up                         531     Standage between signal SB6654 and
+                                                                  clear of SB560/SB561 points
+Bescot Up Goods Loop           Up                         272     Standage between signal SB6660 and
+                                                                  clear of SB566A points
+
+
+MD325 SOHO SOUTH JN TO PERRY BARR NORTH JN (SOHO LINES)
+LOCATION                       DIRECTION      USABLE LENGTH       NOTES
+                                               SLU   METRES
+Down Perry Barr Goods Loop     Down             69     442
+
+
+
+
+                             Electronic copy - uncontrolled when printed

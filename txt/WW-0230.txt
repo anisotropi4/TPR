@@ -1,0 +1,75 @@
+                                                                     OFFICIAL
+
+NETWORK RAIL                                       Timetable Planning Rules 2024                            Version:       4.1
+Western + Wales                        Final Principal and Preliminary Proposal for Subsidiary
+                                                                           OFFICIAL                           Date:        6th October 2023
+                                                       Change Timetable 2024                                  Page:        227 of 289
+
+
+                                                                     First Movement
+                                  Pass P1    Depart       Pass P2    Arrive    Pass P3     Pass P3      Depart         Pass       Arrive P4
+                                             Pl                      P2        in          in UP via    P3 in          P4
+                                                                               DOWN        DT           DOWN
+                   Pass P1                                Parallel   Parallel  3 to DR     Parallel     4              Parallel   Parallel
+                                                                               4 to DM
+                   Depart P1                              Parallel   Parallel  2           Parallel     3              Parallel   Parallel
+
+                   Pass P2        Parallel   Parallel                           3          3            3              4          4
+ Second Movement
+
+
+
+
+                   from ML
+                   Pass P2        Parallel   Parallel                           4          4            4              4          4
+                   from RL
+                   Arrive P2      Parallel   Parallel                           4½         4            Parallel       Parallel   Parallel
+                   Pass P3 in     4          4            3          3                     4½                          Parallel   Parallel
+                   DOWN
+                   Arrive P3 in   Parallel   Parallel     Parallel   Parallel              5                           Parallel   Parallel
+                   DOWN
+                   Depart P3      2          4            2          2                                                 Parallel   Parallel
+                   in DOWN
+                   Pass P3 in     Parallel   Parallel     4          4          4½                      5              4          4
+                   UP via DT
+                   Depart P3      Parallel   Parallel     Parallel   Parallel   4½ to                   4 to           4          4
+                   in UP via                                                    arrive                  arrive
+                   DT
+                   Pass P4        Parallel   Parallel     4          4          Parallel   5            Parallel
+                   Depart P4      Parallel   Parallel     4 to       4 to       Parallel   4            Parallel
+                                                          arrive     arrive
+
+Note: Refer to section 4.3 regarding freight movements through the Severn Tunnel
+
+Llanwern West Junction
+
+Adjustments to Sectional Running Times
+Movement                               Reason                                              Timing Load             Value
+Down Main to Down Relief               Slower speed turnout                                All trains timed        {½}
+                                                                                           over 75mph
+Up Relief to Up Service Line                                  Slow speed turnout           All                     {2}
+From Up Relief at Llanwern Jn to Up Main                      Slow speed turnout at        All                     {1} Approaching
+                                                              Llanwern West                                        next timing point
+Down Service Line to Down Relief                              Slow speed turnout           All                     {2} Approaching
+                                                                                                                   next timing point
+
+Maindee East Junction
+
+The single line from Maindee North junction cannot be re-occupied until 3 minutes after the previous train has
+passed Maindee North Jn in the Hereford direction or 2 minutes after it has passed Maindee East in the Llanwern
+West Jn direction.
+
+Newport
+
+Junction Margins
+First Movement                                        Second Movement                          Margin
+Dep via ML towards Ebbw Jn*                           Arrive/Pass Newport (S. Wales)           5½
+                                                      from Gaer Jn via DM
+Pass via ML towards Ebbw Jn*                          Arrive/Pass at Newport (S. Wales)        5
+                                                      from Gaer Jn via DM
+Pass/depart to Maindee North Jn                       Pass/depart to Maindee East Jn via       3
+                                                      ML
+
+
+
+                                                 Electronic copy - uncontrolled when printed.

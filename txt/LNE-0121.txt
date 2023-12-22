@@ -1,0 +1,49 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version: 4.1
+London North Eastern                     Revised Final Rules for                          Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                      Page: 118 of 368
+
+
+LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION
+London King’s Cross
+From Hull (Hull Trains)                      30
+                                             20 for arrivals during the following hours:
+                                             Monday-Friday 0700-1000 and 1600-1900
+                                             Saturday all day
+                                             Sunday 1700 – 2100
+From Sunderland (Grand Central)              35 except for:
+                                             20 1700–1930 Monday-Friday
+                                             20 all day Saturday
+                                             20 during Sunday engineering work
+                                             20 for arrivals originating from York during contingency timetable
+Lumo                                         20* for trains entering passenger service from ECS or for trains leaving
+                                             passenger service to ECS
+                                             42** for passenger service forming passenger service
+                                             *May be reduced to 15 through agreement with operator
+                                             **May be reduced to 35 through agreement from the operator
+
+Planning Restriction
+When planning permissive working at Kings Cross, a standage allowance must be included in the calculations as
+per the below:
+    • All types of services except below – 18m (2m from buffer stops to first train, 6m between trains and 10m
+        signal sighting allowance)
+    • Class 387 & 717 in Platforms 0,1,3,4,5,7 or 9 – 27m (due to increased signal sighting allowance)
+A 5 car 80x and an 8 car 387 or 700 can only platform share in P0.
+A 5 car 180 and an 8 car 387 or 700 can only platform share in P1.
+
+Diesel traction cannot be planned into P0.
+
+Station Watering Points                      Platforms 0–10
+
+
+Belle Isle Junction
+Junction Margins
+All crossing margins                                                                                   2
+NB – for conflicting arrivals/departures into London King’s Cross, please refer to London King’s Cross platform end
+conflicts
+Planning Note: Trains planned to cross from Up Slow to Line F at Belle Isle will conflict with trains passing Belle
+Isle from the Canal Tunnels on either the UCT or DCT. It is not a parallel move.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

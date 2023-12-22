@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024           Date:    28th July 2023
+West and Central
+                                                                                       Page:    190 of 443
+
+Hampton-In-Arden
+
+Dwell Time
+Class 350 EMU                        ½
+
+
+Birmingham International
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                            Value
+Train from Coventry passing platforms 1, 2, 4    Differential junction speed                       ½
+and 5
+
+Movement Up                                      Reason                                            Value
+Train from Stechford to platform 3               Approach Control                                  1*
+Non-stop passenger train from Stechford          Flashing yellow aspects/Speed differential        ½
+routed via platforms 1, 2 or 5
+* Reduced to ½ for trains that have stopped at Marston Green
+
+Dwell Time
+Class 22x                            1½
+Class 390/80x                        1½ for pick up or set down
+EMU                                  1
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Up or Down arrival into any platform              Conflicting departure from any platform         1
+Down train departs towards Stechford              Up train arrives/passes via a conflicting route 4^
+Down train departs platform 3                     Up train arrives/passes platform 3              3*
+Up train arrives platforms 1 or 2                 Down train arrives platforms 1 or 2             Simultaneous
+Up train arrives platform 1 or 2                  Down train arrives platform 3                   Simultaneous
+* Approach control allowance (see Adjustments to Sectional Running Times) applies to the second movement
+^ Where the second movement is a train with a minimum of 1 minute pathing time approaching Birmingham
+International, the Junction Margin may be reduced by ½ minute.
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                      10
+Trains from Coventry,         5
+Birmingham, and Wolverhampton
+
+
+Marston Green
+
+Dwell Time
+Class 350 EMU                        1
+
+
+Lea Hall
+
+Dwell Time
+Class 350 EMU                        1
+
+
+
+
+                              Electronic copy - uncontrolled when printed

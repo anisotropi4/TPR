@@ -1,0 +1,60 @@
+                                                      OFFICIAL
+
+ NETWORK RAIL                          Timetable Planning Rules 2024                 Version:   4.1
+ Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                Date:    6th October 2023
+                                           Change Timetable 2024                       Page:    241 of 289
+
+
+Dwell Time
+15x                                    3
+
+Ffairfach
+Dwell Time
+15x                                    *
+* Request Stop
+‘All Down’ services must stop in platform to operate the level crossing ½ minute.
+
+Llandybie
+Dwell Time
+15x                                    *
+* Request Stop
+‘All Up’ services must stop in platform to operate the level crossing ½ minute.
+
+Ammanford
+Dwell Time
+15x                                    *
+* Request Stop
+‘All Up’ services must stop in platform to operate the level crossing ½ minute.
+
+Pantyffynnon
+Dwell Time
+15x                                    *
+
+Pontarddulais
+Dwell Time
+15x                                    *
+* Request Stop
+
+Llangennech
+
+Dwell Time
+15x                                    *
+* Request Stop
+
+Bynea
+
+Dwell Time
+15x                                    *
+* Request Stop
+
+GW940 CARMARTHEN STATION TO CARMARTHEN BRIDGE JUNCTION
+
+Carmarthen
+
+Dwell Time
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

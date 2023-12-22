@@ -1,0 +1,64 @@
+                                                        OFFICIAL
+
+NETWORK RAIL                              Timetable Planning Rules                      Version:   4.1
+East Midlands                       Final Subsidiary Change Rules 2024                    Date:    13th September
+                                                                                                   2023
+                                                                                           Page:   68 of 123
+
+Kettering North Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                         Reason                                         Value
+Up Slow/Down Slow/Up Fast to Down Main                Acceleration – to be applied approaching       ½ 180, 222
+                                                      Market Harborough                              and freight
+                                                                                                     <1,600t
+Up Slow/Down Slow to Down Main                        Differential junction speed                    ½ 180, 222
+
+Movement Up                                           Reason                                         Value
+Up Main to Up Slow/Down Slow                          Differential junction speed                    ½* 180, 222
+                                                                                                     and freight
+                                                                                                     <1,600t
+*1 for 180/222 if permissively working at Kettering
+
+Junction Margins
+First Movement                                        Second Movement                                Margin
+Down Fast to Down Fast                                Pass Down/Up Slow to Down Fast                 2½
+Down Fast to Down Fast                                Depart Down/Up Slow (Signal LR71 or Signal     2
+                                                      LR93) to Down Fast
+Up Fast to Up Fast                                    Down Slow or Up Slow to Down Fast              3
+                                                      passenger
+Up Fast to Up Fast                                    Down Slow or Up Slow to Down Fast freight      3½
+Down Slow or Up Slow to Down Fast                     Up Fast to Up Fast passenger                   3
+Down Slow or Up Slow to Down Fast                     Up Fast to Up Fast freight                     3½
+
+
+Market Harborough
+
+Dwell Time
+DMU                                   1
+180/222                               1½ 2 minutes in the Up morning and Down evening peak
+
+
+Kilby Bridge Junction
+
+Junction Margins
+First Movement                                        Second Movement                                Margin
+Down Main to Up and Down Slow                         Down Main to Down Main passenger               3
+Down Main to Up and Down Slow                         Down Main to Down Main freight                 4
+Down Main to Down Main                                Depart Up and Down Slow to Up Main             1
+Down Main to Down Main                                Pass Up and Down Slow to Up Main               4
+Up and Down Slow to Up Main                           Down Main to Down Main passenger               2½
+Up and Down Slow to Up Main                           Down Main to Down Main freight                 4
+
+
+
+
+Wigston North Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                         Reason                                       Value
+
+
+
+
+                                        Electronic copy - uncontrolled when printed.

@@ -1,0 +1,61 @@
+                                                         OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                     Version:   4.1
+East Midlands                         Final Subsidiary Change Rules 2024                   Date:    13th September
+                                                                                                    2023
+                                                                                           Page:    101 of 123
+
+Cliffe Hill Stud Farm Quarry
+
+Only one train is permitted on the Cliffe Hill Branch at any one time. Therefore, a train is not permitted to go onto
+the Cliffe Hill Branch until a train has departed. Access for trains using the Refuge sidings is via the LOS on the Up
+Line.
+LN3601 KETTERING NORTH JUNCTION to MANTON JUNCTION
+Corby
+Attachment of units
+Inclusive of turnround and shunt       15
+involved
+
+Detachment of units
+Inclusive of turnround and no shunt    10
+involved
+
+Maximum dwell time                     18
+
+Minimum Turnround                      7
+
+Adjustment to Sectional Running Times
+Movement                                              Reason                                           Value
+Up Corby to AB or BSC                                 Approach control signal KM3962                   2
+
+Junction Margins/Platform Re–occupation
+First Movement                                        Second Movement                                  Margin
+Up Corby to Manton Jn                                 From Up Corby                                    5
+Up Corby to Manton Jn                                 From Reception & Run–Round                       4
+Up Corby to Manton Jn                                 AB or BSC* to R & R–R                            4
+Up Corby to Manton Jn                                 AB or BSC to Manton Jn                           Standard
+                                                                                                       headway
+Up Corby to R & R–R                                   From Up Corby                                    5
+Up Corby to Kettering                                 From R & Run–Round to Corby                      4
+Up Corby to Kettering                                 From R & Run–Round to Kettering                  Standard
+                                                                                                       headway
+Up Corby to AB or BSC                       Up Corby to M Jn/R & R–R                                   5
+Up Corby to AB or BSC                       AB or BSC to M Jn/R & R–R                                  5
+R & R–R to AB or BSC                        AB or BSC to M Jn/R & R–R                                  5
+AB or BSC to R or R–R                       Up Corby to Manton Jn                                      5
+AB or BSC to Manton Jn                      Up Corby to R & R–R                                        5
+AB or BSC to Manton Jn                      Up Corby to AB & BSC                                       5
+AB or BSC to Manton Jn                      R & R–R to Corby                                           5
+AB or BSC to Manton Jn                      R & R–R to AB or BSC                                       5
+*AB & BSC – Up & Down Automotive Branch and Up & Down BSC Branch
+
+
+Corby North Run-Round Loop
+
+Planning restriction
+Capacity for electric units is restricted to 240m of the first reception siding
+
+
+
+
+                                            Electronic copy - uncontrolled when printed.

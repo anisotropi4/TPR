@@ -1,0 +1,64 @@
+NETWORK RAIL                           Timetable Planning Rules                 Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary               Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                Page:      75 of 163
+
+Imperial Wharf
+
+Dwell Times
+Southern Services only                                                                          1
+
+
+Longhedge Junction
+
+Limit of Shunt
+                                         Length Limit
+Down Ludgate (Clear of signal TVS63)
+
+Longhedge Junction Signal W135 Freight Restriction
+Between Longhedge Junction and Clapham Junction is steeply graded. Therefore a down direction locomotive
+hauled train from Longhedge Junction via the Ludgate Line must not be allowed to pass signal W135 (Culvert
+Road) until the route can be set from signal W145 into Clapham Junction
+
+Length Restrictions
+A train exceeding 1340m/209SLU in length on the Up Kensington will foul Latchmere No3 Junction when standing
+at TVS78 signal
+Therefore, junction margins must be based on trains’ departure time at Longhedge Junction
+A train exceeding 728m/113SLU in length on the Up Battersea will foul Pouparts Junction and TVC584 when
+standing at TVS68 signal.
+Therefore, junction margins must be based on trains’ departure time at Longhedge Junction
+
+
+SO250A Stewarts Lane Junction
+
+Junction Margins
+First Movement                                    Second Movement                                Margin
+Train departing from or passing signal TVS47 at   Departure from London Victoria towards         2
+Stewarts Lane Junction towards Stewarts Lane      Stewarts Lane Junction
+Depot/Longhedge Junction or Factory Junction
+Train departing from or passing signal TVC546     Departure from London Victoria towards         2
+at Battersea Pier Junction towards London         Stewarts Lane Junction
+Victoria
+
+
+SO250A - Stewarts Lane T&R.S.M.D
+
+Berthing Facilities
+                                    Cars                     Notes
+Shed No 1                           10                       Carriage washing facilities
+Shed No 2                           10                       Carriage washing facilities
+Shed No 3                           12                       Carriage washing facilities
+Shed No 4                           12                       Carriage washing facilities
+Shed No 5                           12                       Carriage washing facilities
+Shed No 6                           12                       VSOE only / Carriage washing facilities
+Shed No 7                           12                       VSOE only / Carriage washing facilities
+Shed No 8                                                    Out of Use
+Shed No 9                           12                       Carriage washing facilities
+Shed No 10                          12                       Maintenance Only / Carriage washing facilities
+Shed No 11                          12                       Maintenance Only / Carriage washing facilities
+Shed No 12                          12                       Maintenance Only / Carriage washing facilities
+Shed No 13                          12                       Maintenance Only / Carriage washing facilities
+Shed No 14                          12                       Maintenance Only / Carriage washing facilities
+Siding No 1                         10                       Carriage washing facilities
+Siding No 2                         12                       Carriage washing facilities
+                               Electronic copy - uncontrolled when printed

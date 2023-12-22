@@ -1,0 +1,63 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                  Date:    6th October 2023
+                                         Change Timetable 2024                         Page:    222 of 289
+
+
+Nantwich
+
+Dwell Time
+LH                                   1
+
+GW770 EBBW VALE TOWN TO GAER JUNCTION (WESTERN VALLEY LINE)
+
+Ebbw Vale Town
+
+Turnaround Allowance                 4
+
+GW810 RHYMNEY TO QUEEN STREET NORTH JUNCTION
+
+Bargoed
+
+Dwell Time for Cardiff Valley 150 & 231          1
+
+Junction Margin                      2
+
+Platform Re-occupation               3
+
+Ystrad Mynach
+
+Connectional Allowance               3
+
+Platform Re-occupation               3*
+* 4 minutes applies on the Up Platform between a Down departure in the Cardiff direction and an Up arrival from
+the Cardiff direction
+
+Caerphilly
+
+Platform Re-occupation              3
+Up terminating passenger trains can only arrive in the Bay Platform (Platform 1).
+
+GW830 MERTHYR TYDFIL TO BARRY ISLAND VIA CARDIFF QUEEN STREET
+
+Abercynon
+
+Platform end conflicts
+First Movement                                    Second Movement                                  Margin
+Arrive from Quakers Yard                         Depart to Quakers Yard                            ½
+Depart to Quakers Yard                           Arrive from Aberdare                              3*
+Arrive from Aberdare                             Depart to Quakers Yard                            ½
+Arrive from Aberdare                             Depart to Aberdare                                Simultaneous
+ Linked with route GW834
+*Can be reduced to 2 minutes if second train has pathing time applied approaching Abercynon
+
+Pontypridd
+
+Junction Margin
+First Movement                                       Second Movement                               Margin
+Up depart to Merthyr/Aberdare                        Down arrive from Treherbert                   3
+Down arrive from Treherbert                          Up depart to Merthyr/Aberdare                 2
+
+                                    Electronic copy - uncontrolled when printed.

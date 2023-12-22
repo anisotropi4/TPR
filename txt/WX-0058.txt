@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version:    4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                     Date:     27th October 2023
+                                           Timetable 2024                               Page:     56 of 178
+
+SW110 WOKING JUNCTION TO PORTSMOUTH HARBOUR
+TIMING POINT                       DOWN           UP             NOTES
+
+Woking Junction – Guildford        2 – Non-       2 – Non-
+                                   stopping       stopping
+                                   3½ -           3½ -
+                                   Stopping       Stopping
+Guildford – Shalford Junction      3*             2              * Increase to 3½ at Guildford if both trains are
+                                                                 taking the same route at Shalford Junction, or if
+                                                                 the first train is from Guildford Platforms 3, 5, 6,
+                                                                 or 8.
+Shalford Junction – Petersfield    3 – Non-       3 – Non-
+                                   stopping       stopping
+                                   3½ -           3½ -
+                                   Stopping       Stopping
+Petersfield – Havant               3– Non-        3 – Non-
+                                   stopping       stopping
+                                   3 - Stopping   3–
+                                                  Stopping
+Havant – Portcreek Junction        2 – Non-       2 – Non-
+                                   stopping       stopping
+                                   2½ -           2½ -
+                                   Stopping       Stopping
+Portcreek Junction – Portsmouth    2 – Non-       2 – Non-
+Harbour                            stopping       stopping
+                                   2½ -           2½ -
+                                   Stopping       Stopping
+
+
+SW115 WORTING JUNCTION TO EXETER ST DAVIDS
+TIMING POINT                       DOWN           UP             NOTES
+
+Worting Junction - Andover         5 – Non-       5 – Non-
+                                   stopping       stopping
+                                   6–             6–
+                                   Stopping       Stopping
+Andover – Grateley                 6 – Non-       6 – Non-
+                                   stopping       stopping
+                                   8 - Stopping   7–
+                                                  Stopping
+Grateley – Salisbury Tunnel        5 – Non-       5 – Non-
+Junction                           stopping       stopping
+                                   6–             6–
+                                   Stopping       Stopping
+Salisbury Tunnel Junction –        2½ - Non-      AB+1*          * TCB timed as AB.
+Salisbury                          stopping
+                                   and
+                                   Stopping
+Salisbury – Wilton                 3 – Non-       3 – Non-
+                                   stopping       stopping
+                                   3½ -           3½ -
+                                   Stopping       Stopping
+Wilton – Tisbury Loop              AB+2           AB+2           Single line. Tokenless Block plan as AB.
+Tisbury Loop – Gillingham          AB+1           AB+1           Single line. TCB plan as AB.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

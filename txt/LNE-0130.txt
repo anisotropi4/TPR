@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+London North Eastern                      Revised Final Rules for                         Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                     Page: 127 of 368
+
+
+Stevenage
+                                                    differential junction speed                         1 HST/LH/
+                                                                                                        225/80X
+Movement Up                                         Reason                                              Value
+Hitchin to Stevenage                                UF to US pass to pass (use for Hertford             1 EMU
+                                                    diversions); approach control and differential      1½ HST/LH
+                                                    junction speed                                      180/225/80X
+                                                    UF to US pass to stop (use for Hertford             ½ HST/LH/
+                                                    diversions); approach control and differential      180/80X
+                                                    junction speed
+                                                    US to UF pass to pass; approach control and         1
+                                                    differential junction speed
+Stevenage to Woolmer Green                          UF to US pass to pass                               1
+                                                    US to UF pass to pass                               1 180/EMU
+                                                                                                        1½ HST/LH/
+                                                                                                        225/80X
+
+Connectional Allowance                4
+
+Dwell Time
+Class 387                             1
+LH/222                                1½
+Class 700 and 717                     1½ - may be reduced to 1 with TOC agreement
+802/803                               1½
+LNER all services                     2 – May be reduced to 1½ with prior agreement from the operator
+
+Junction Margins
+First Movement                                    Second Movement                                 Margin
+Cross to DSL                                      Pass DFL                                        3
+Cross to USL                                      Pass UFL                                        3
+Pass DFL                                          Depart DSL to DFL                               2
+Pass DFL                                          Pass DSL to DFL                                 2½*
+Pass UFL                                          Depart USL to UFL                               2
+Pass UFL                                          Pass USL to UFL                                 2½*
+Depart USL to UFL                                 Arrive/Pass UFL                                 3
+Depart DSL in Up direction                        Arrive DSL                                      6
+Depart DSL in Up direction                        Arrive DSL from DML                             4
+* May be reduced to 2 minutes if second train has 1 or more minutes pathing time approaching Stevenage
+
+Planning Restriction
+Whilst a train is sat at Signal K214 on the Down Fast, it is not possible to plan a service down into Platform 3.
+
+Platform Re–occupation
+In same direction                     2½
+
+Station Working
+Up trains must be routed SL from Hitchin if UFL platform at Stevenage is occupied by an originating down
+passenger service.
+
+Turnround                             Suburban EMU services turning around in Platform 4: 8 maximum SX, 10
+                                      maximum SO
+
+
+Hitchin
+
+Adjustments to Sectional Running Times
+                                     Electronic copy - uncontrolled when printed.

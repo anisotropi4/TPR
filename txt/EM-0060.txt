@@ -1,0 +1,44 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                    Version:   4.1
+East Midlands                      Final Subsidiary Change Rules 2024                  Date:    13th September
+                                                                                                2023
+                                                                                       Page:    58 of 123
+
+Flitwick Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                    Reason                                          Value
+Down Fast to Down Slow or Down Slow to           Approach Control                                1 approaching
+Down Fast (not stopping at Flitwick)                                                             Flitwick station
+Down Fast to Down Slow or Down Slow to           Approach Control                                ½ approaching
+Down Fast (stopping at Flitwick)                                                                 Flitwick station
+
+Movement Up                                      Reason                                          Value
+Up Fast to Up Slow or Up Slow to Up Fast (not    Acceleration                                    1 after Flitwick
+stopping at Flitwick)                                                                            station
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Down Fast to Down Slow or Down Slow to           Up Fast pass Flitwick                           3
+Down Fast
+Down Fast to Down Slow or Down Slow to           Up Fast arrive Flitwick                         3½
+Down Fast
+Up Fast to Up Slow or Up Slow to Up Fast         Down Slow pass Flitwick                         2½
+Up Fast to Up Slow or Up Slow to Up Fast         Down Slow depart Flitwick                       1
+
+Planning Note
+No timing allowances should be applied between Flitwick Junction and Flitwick as there are no intermediate
+signals
+
+
+Elstow
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Freight arrive into Elstow Redland Sidings       Up train pass/depart Bedford South on Up Slow     1
+
+
+
+
+                                       Electronic copy - uncontrolled when printed.

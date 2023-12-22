@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                    Version: 4.1
+London North Eastern                     Revised Final Rules for                     Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                 Page: 38 of 368
+
+
+LN652 BILLINGHAM JUNCTION TO SEAL SANDS STORAGE
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Billingham Jn                        –          –                   To/from Norton Jns – LN627
+Belasis Lane SB                      –          –                   Trains to/from Phillips Loop direction Must
+                                                                    stop for token exchange See 5.3
+Haverton Hill East Grid                         –          S
+Port Clarence Sidings: Bells Bank               –          S
+Port Clarence Sidings: Petroplus                           S
+Phillips Loop                        –          –                   Must stop for ground frame operation see
+                                                                    5.3
+Port Clarance Refinery                                     S
+Port Clarence Phillip’s                         –          S
+North Tees Level Crossing                                           Present end of route
+Seal Sands Branch Jn                 –          –                   Permanently Out of Use
+Seal Sands Storage                              –                   Permanently Out of Use
+
+
+LN656 SEATON-ON-TEES BRANCH
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Seaton Snook Jn                      –          –          X        To/from Seaton Carew – LN627
+Hartlepool Power Station                        –
+
+
+LN662 RYHOPE GRANGE JUNCTION TO HENDON
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Ryhope Grange Jn                     –          –                   To/from Seaham – LN627
+Grangetown (T&W) LC                  –          –                   Must stop for LC – See 5.3 for details
+Hendon                               –          –                   Line Detail must be shown
+                                                                    Network Rail Boundary
+Port of Sunderland                              –                   Previously known as Sunderland South
+                                                                    Dock. For planning purposes the location
+                                                                    now refers to any of the sidings in the Port
+
+
+LN664 BOLDON EAST JUNCTION TO BOLDON NORTH JUNCTION
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Boldon East Jn                       –          –          X        To/from Sunderland – LN627
+Boldon North Jn                      –          –                   To/from Green Lane – LN666
+
+
+LN666 BOLDON WEST JUNCTION TO TYNE DOCK
+TIMING POINT                         DOWN       UP         CODE     NOTES
+
+Boldon West Junction                 –          –                   To/from Pelaw – LN627
+Boldon North Junction                –          –                   To/from Boldon East Jn LN664
+Green Lane Junction                  –          –                   Green Lane Junction and Tyne Dock are
+                                                                    within Port of Tyne Authority land and are
+                                                                    not Network Rail infrastructure.
+Tyne Dock
+
+
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,65 @@
+                                                        OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                       Version:    4.1
+East Midlands                         Final Subsidiary Change Rules 2024                     Date:     13th September
+                                                                                                       2023
+                                                                                               Page:   82 of 123
+
+Chesterfield South Junction
+minutes after the departure from Chesterfield.
+2) With a route set from Chesterfield Platform 1 to the Up Main, it is not possible to set a route for a train from
+Chesterfield Platform 2 to the Up Barrow Hill line. Therefore, time movements from Platform 2 to pass
+Chesterfield South Jn 3 minutes before the departure from Chesterfield Platform 1, or 3 minutes after the
+departure from Chesterfield Platform 1.
+
+
+Chesterfield
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                              Value
+Freight crossing Down Main to Down Barrow          Deceleration                                        ½
+Hill
+
+Dwell Time
+DMU                              1
+22X                              1½
+
+Junction Margins
+First Movement                                     Second Movement                                     Margin
+Depart/Pass Platform 1 or 2 to Barrow Hill         Arrive/Pass Platform 2 from Tapton Junction         3½
+Lines
+
+Minimum Turnaround               5 from Sheffield (Empty DMU to form passenger service)
+                                 10 from Sheffield, Derby or Nottingham
+                                 20 from beyond Sheffield, Derby or Nottingham
+
+Planning Restriction
+Services turning back from Derby to run on the Up Erewash Line are not permitted to use Platform 1, all such
+services must be planned on Platform 2/3
+
+Planning Note
+No timing allowances should be applied in the Up direction between Tapton Junction and Chesterfield as there are
+no intermediate signals
+
+
+Tapton Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                       Reason                              Value
+Passenger crossing Down Main to Down                Differential Junction Speed         ½*
+Barrow Hill.                                        Acceleration                        ½**
+* Approaching Tapton Jn
+** After Tapton Jn
+Freight crossing Down Main to Down Barrow           Acceleration                        1½**
+Hill. ** After Tapton Jn
+Passenger crossing Down Barrow Hill to Down         Acceleration                        1***
+Main. *** After Tapton Jn
+Freight crossing Down Barrow Hill to Down           Differential Junction Speed         ½*
+Main.                                               Acceleration                        ***Class 4 trains
+*Approaching Tapton Jn                                                                  400t 2½
+***After Tapton Jn                                                                      600t/TR40 3
+                                                                                        800t – 1,000t 3½
+                                                                                        1,200t – 1,400t/TR70 4
+                                                                                        1,600t 4½
+
+                                         Electronic copy - uncontrolled when printed.

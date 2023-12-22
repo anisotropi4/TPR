@@ -1,0 +1,64 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                             Version:   4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024                    Date:    28/07/2023
+                                                                                                     Page:    201 of 242
+
+Wick
+
+Restriction
+If a train is occupying the platform at Wick or in the process of shunting to the Loop or one of the sidings, then the
+section from Georgemas Junction to Wick is occupied and a token for this section cannot be issued at Georgemas
+Junction. Any such shunt move can commence 5 minutes after an Up train has departed, or 7minutes following a
+steam train or a large loco-hauled special departing via the ground frame.
+
+
+SC205 DINGWALL TO KYLE OF LOCHALSH
+General Restriction
+
+At all Token Exchange Points where a token exchange has to be carried out, a minimum dwell of 1 minute is
+required. At a number of TEPs along this route, it is possible to receive a Long Section Token, allowing the train to
+traverse the next two sections without an intermediate token exchange stop. A Long Section Token can only be
+issued if both sections are clear.
+
+The whole RETB area north of Inverness is under the control of a single console at Inverness PSB. Therefore
+token exchanges anywhere north of Inverness, on the Thurso/Wick and Kyle lines, cannot happen simultaneously,
+irrespective of actual locations; arrivals therefore, at any location, must be a minimum of 1 minute apart.
+
+Dwell Time
+Where a token exchange takes place                            1
+
+Crossing Margins
+When both trains are able to fit into the crossing loop, the train that arrives first departs after the second train to
+arrive has departed.
+
+When one of the trains is longer than the crossing loop, the train longer than the crossing loop always departs first.
+
+Except when the first train is longer than the loop            No crew change                 With crew change
+First train arrive                                             xx00                           xx00
+Second train arrive                                            xx01                           xx01
+Second train depart                                            xx02                           xx04
+First train depart                                             xx03                           xx05
+
+When the first train is longer than the loop                   No crew change                 With crew change
+First train arrive                                             xx00                           xx00
+Second train arrive                                            xx01                           xx01
+First train depart                                             xx03                           xx04
+Second train depart                                            xx04                           xx05
+
+
+Dingwall
+All trains must stop for token exchange purposes
+
+Dwell Time
+All Up trains                           1
+All Down trains                         1½
+
+
+Foderty IB Signal
+
+All trains must stop for token exchange purposes, unless a Long Section Token has been issued at the
+previous Token Exchange Point.
+
+
+                                      Electronic copy - uncontrolled when printed.

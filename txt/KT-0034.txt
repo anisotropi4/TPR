@@ -1,0 +1,60 @@
+NETWORK RAIL                    Timetable Planning Rules                      Version: 4.1
+Kent & HS1                                             OFFICIAL
+                               Final Proposal for Subsidiary                            25th August 2023
+                                                                              Date:
+                                  Timetable 2024                              Page:      30 of 168
+
+
+
+
+SO130A LONDON CANNON STREET TO METROPOLITAN JUNCTION
+TIMING POINT                   DOWN       UP          CODE        NOTES
+
+London Cannon Street           DMR                                Platform detail must be shown
+                               EMR
+London Cannon Street Signal    DMR                                Shunt signal available for ECS movements
+TL1066                         EMR                                Use TIPLOC CANO166
+Cannon Street Sidings                                    S        Timing Point for trains to and from Sidings
+Metropolitan Junction          RVL        SL                      To/from London Blackfriars - SO280A
+                               MRD        USH                     To/from Ewer Street Junction – SO130
+                               MRE
+
+
+SO130B LONDON CANNON STREET TO LONDON BRIDGE
+TIMING POINT                   DOWN       UP          CODE        NOTES
+
+London Cannon Street           ADN                                Platform detail must be shown
+                               CDN
+                               CRV
+                               DRV
+London Cannon Street Signal    DMR                                Shunt signal available for ECS movements
+TL1066                         EMR                                Use TIPLOC CANO166
+Cannon Street Sidings                                    S        Timing Point for trains to and from Sidings
+Borough Market Junction        DCS        UPB                     Down Direction:
+                               UCS        UPC                     UCS can only be accessed from the
+                                          RVC                     Cannon Street Reversible (CRV or DRV)
+                                          RVD                     DCS can access Platforms 1 & 2 at
+                                                                  London Bridge
+                                                                  UCS can access Platforms 2 & 3 at
+                                                                  London Bridge
+London Bridge                  124        -                       Platform detail must be shown
+                                          UCS                     To/from North Kent East Junction - SO130
+                                          DCS                     Up Direction:
+                                                                  UCS can be accessed from Platforms 2 &
+                                                                  3 at London Bridge
+                                                                  DCS can only be accessed from Platform
+                                                                  2 at London Bridge
+
+
+
+
+SO130C TANNERS HILL JUNCTION TO LEWISHAM VALE JUNCTION
+TIMING POINT                   DOWN       UP           CODE       NOTES
+
+Tanners Hill Junction          DTH        UKF                     To/from New Cross – SO130
+Lewisham Vale Junction         -          - UTH                   To/from Lewisham Junction - SO330
+
+
+
+
+                              Electronic copy - uncontrolled when printed

@@ -1,0 +1,66 @@
+ NETWORK RAIL                            Timetable Planning Rules                       Version:   4.3
+ Route: Sussex                           Final Rules for Subsidiary                     Date:      18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                        Page:      67 of 163
+
+5.2.2 General Capacity Constraints
+ma
+The standard headway as shown in 5.2.1 is defined as the minimum planned interval between trains at their closest
+point in any route section as shown. Assumptions as to the capacity of any particular route section should not be
+made solely by the information contained within this sub-section.
+
+Network Rail will expect operators to allow greater margins between trains, where possible, in order that the finished
+timetable is robust.
+
+If operators time a series of trains at the minimum headway as shown, they are expected to allow an additional margin
+of either 2 minutes before another train is timed to follow, or 1 minute each for the next 2 successive trains. A series
+should normally be defined as a maximum of 4 successive trains.
+
+If trains are deliberately timed to close up on a preceding train, additional allowances must be inserted.
+
+ETCS Level 2 operating within GTR trains will normally be operational between Blue Anchor Junction and Blackfriars
+Junction via the Snow Hill Lines and lines 4 & 5. Special operational arrangements will need to apply for trains taking
+alternative routes between these locations. A 2 ½ minute headway is therefore allowed between consecutive trains
+operated by ETCS compatible rolling stock
+
+In the interests of a more robust timetable and performance, it is intended that bids from operators for additional
+services over certain lines and junctions which have minimal spare capacity will be limited for both permanent and
+amended train working, with the following exceptions:
+
+a) Where usage already exceeds the capacity limit, operators will be permitted to retain existing paths but will be
+   encouraged to move trains away from the critical period or route section where there are acceptable
+   customer/cost considerations. If an operator relinquishes a path in the critical period, other operators would not
+   be able to re-occupy the path.
+b) If an operator wishes to bid for an additional train/s in the critical period or over the critical route section, that
+   request will be tabled for discussion. Normally, additional bids that breach the capacity limit will not be accepted
+   but in exceptional circumstances may be accepted subject to all parties affected acknowledging and accepting the
+   performance risks.
+
+Where single line working is to operate or trains are to be routed to run on a line other than that normally planned for
+them, constraints on capacity will apply – see Engineering Access Statement.
+
+The following special capacity and timing restrictions apply in addition to the constraints stated elsewhere in this
+document:
+
+
+ SO250 FACTORY JUNCTION TO MITRE BRIDGE JUNCTION
+ LINE/LOCATION                 SECTION                 CRITICAL           REMARKS
+                                                       TIMES SX
+ Factory Junction              Factory Junction        07.00 – 09.45      From Longhedge Junction to
+                                                       16.00 – 19.00      Atlantic/Chatham Lines
+ North Pole Junction           North Pole Junction     ALL DAY            No more than 13 paths per hour in each
+                               to Latchmere                               direction
+                               Junction (No 3)                            Stopping services are likely to absorb more
+                                                                          than one path
+
+
+ SO250A GROSVENOR BRIDGE JUNCTION TO FACTORY JUNCTION
+ LINE/LOCATION                 SECTION                 CRITICAL           REMARKS
+                                                       TIMES SX
+ Factory Junction              Factory Junction        07.00 – 09.45      From Longhedge Junction to
+                                                       16.00 – 19.00      Atlantic/Chatham Lines
+
+
+
+
+                                  Electronic copy - uncontrolled when printed

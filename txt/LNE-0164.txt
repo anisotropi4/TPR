@@ -1,0 +1,62 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 161 of 368
+
+
+Sleaford
+
+Dwell Time
+All                                  1
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down train from Lincoln or Grantham arrive        Up train from Spalding or Skegness arrive           3
+Platform 1                                        Platform 2
+Up train from Spalding or Skegness arrive         Down train from Lincoln or Grantham arrive          2
+Platform 2                                        Platform 1
+Down train from Lincoln or Grantham arrive        Up train from Spalding or Skegness arrive           4
+Platform 3                                        Platform 2
+Up train from Spalding or Skegness arrive         Down train from Lincoln or Grantham arrive          4
+Platform 2                                        Platform 3
+Up train departs to Lincoln from Platform 3       Down train from Grantham arrive                     6
+Down train from Lincoln or Grantham arrive        Up train departs to Lincoln from Platform 3         1
+Up train departs to Lincoln or Grantham from      Up train from Spalding or Skegness arrive           4
+Platform 3
+Train arrives from Grantham                       Train from Lincoln pass Sleaford N Junction         2
+Train from Lincoln arrives Platform 3             Train from Grantham arrive                          6
+Arrive from Spalding or Skegness                  Depart to Spalding or Skegness                      1
+Arrive from Lincoln                               Depart to Lincoln                                   2
+Depart to Spalding                                Arrive from Skegness                                6
+Depart to Skegness                                Arrive from Spalding                                7
+
+Minimum Turnround                    5 trains from Peterborough, Lincoln or Grantham
+                                     10 trains from beyond Peterborough, Lincoln or Grantham
+
+
+Heckington
+
+Adjustment to sectional running time
+Movement Down                                     Reason                                              Value
+Departing Heckington                              Only applies to trains consisting of 5 or more      3
+                                                  vehicles. HN13 signal which protects Great
+                                                  Hale Drove LC on the Down line, will not clear
+                                                  until the train clears the track circuit in rear.
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Train from Sleaford                               Train to Sleaford                                   3
+
+Restriction. No acceptance into Up platform until 2 minutes after train has arrived off the Single Line from
+Sleaford.
+
+
+Hubberts Bridge
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Train from Boston                                 Train to Boston                                     3
+
+Restriction. No acceptance into Down platform until 2 minutes after train has arrived off Single Line from Boston
+
+
+                                    Electronic copy - uncontrolled when printed.

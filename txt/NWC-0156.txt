@@ -1,0 +1,58 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version:   4
+Region: North              Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                        Page:    144 of 443
+
+
+NW5015 HADFIELD TO ARDWICK JN
+TIMING POINT                           DOWN          UP      NOTES
+
+Hadfield to Dinting SB                           *           * Single line - One Train in Section (OTS)
+Dinting SB to Hyde Jn                  AB+2          AB+2
+Hyde Jn to Guide Bridge                4             4
+Guide Bridge to Ashburys               3             3
+Ashburys to Ardwick Jn                 2             2
+
+
+NW5017 DINTING SOUTH JN TO DINTING EAST JN
+TIMING POINT                           DOWN          UP      NOTES
+
+Dinting South Jn to Dinting East                 *           Single line - One Train in Section (OTS) within
+Jn                                                           Dinting Station limits
+
+
+NW5019 GLOSSOP TO DINTING WEST JN
+TIMING POINT                           DOWN          UP      NOTES
+
+Glossop to Dinting South Jn                      *           * Single line - One Train in Section (OTS)
+Dinting South Jn to Dinting West                 *           * Single line - One Train in Section (OTS) within
+Jn                                                           Dinting Station limits
+
+
+NW5021 GUIDE BRIDGE WEST JN TO STALYBRIDGE
+TIMING POINT                           DOWN          UP      NOTES
+
+Guide Bridge West Jn to                4             4
+Stalybridge
+
+
+NW6001 MANCHESTER PICCADILLY EAST JN TO EUXTON JN
+TIMING POINT                           DOWN          UP      NOTES
+
+Manchester Piccadilly to Water         2*            2*      * Following a passenger service (includes Class 1,
+Street Jn (inclusive)                  3$            3$      2 and Class 3 or 5 ECS) and light engines. Where
+                                                             there are 2 successive movements following a
+                                                             passenger service at the minimum headway, the
+                                                             next train whether passenger or freight must follow
+                                                             at a headway of 3
+
+                                                             $ following Freight
+Water Street Jn (exclusive) to         3             3
+Lostock Jn
+Lostock Jn to Chorley                  4             4
+Chorley to Euxton Jn                   4             4
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

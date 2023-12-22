@@ -1,0 +1,60 @@
+                                                     OFFICIAL
+
+ NETWORK RAIL                         Timetable Planning Rules 2024                   Version:    4.1
+ Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                  Date:     6th October 2023
+                                          Change Timetable 2024                         Page:     250 of 289
+
+
+Penyffordd Cement Sidings
+Penyffordd pass                       XX.XX                     Penyffordd Cement      XX.00
+                                                                Sdgs dep
+Penyffordd Cement Sdgs Ground         XXPR04                    Penyffordd Cement      XXOP05
+Frame arr.                                                      Sdgs Ground Frame arr.
+Penyffordd Cement Sdgs Ground         XXPR34                    Penyffordd Cement Sdgs XXOP35
+Frame dep                                                       Ground Frame dep.
+Penyffordd Cement Sdgs arr            XX.39                     Dee Marsh Junction     /
+                                                                Dee Marsh Reception    RR
+                                                                Sdgs arr
+                                                                Dee Marsh Reception    RR
+                                                                Sdgs dep
+                                                                Penyffordd pass        /
+
+Arrivals and departures from and to Wrexham for light locomotives
+Penyffordd pass                     XX.XX                  Penyffordd Cement              XX.00
+                                                           Sdgs dep
+Penyffordd Cement Sdgs Ground       XXRM04                 Penyffordd Cement              XXRM05
+Frame arr.                                                 Sdgs Ground Frame arr.
+Penyffordd Cement Sdgs Ground       XXRM08                 Penyffordd Cement              XXRM09
+Frame dep                                                  Sdgs Ground Frame
+                                                           dep
+Penyffordd Cement Sdgs arr          XX.13                  Penyffordd pass                XX/11
+
+Departure to Dee Marsh Reception Sidings for light locomotives
+                                                            Penyffordd Cement      XX.00
+                                                            Sdgs dep
+                                                            Penyffordd Cement      XXOP05
+                                                            Sdgs Ground Frame arr.
+                                                            Penyffordd Cement      XXOP09
+                                                            Sdgs Ground Frame
+                                                            dep
+                                                            Dee Marsh Reception
+                                                            Sdgs arr
+
+Shotton High Level
+
+Dwell Time
+Slam                                  ½
+Power                                 ½
+
+Dee Marsh Junction
+
+Other Restrictions
+Loco hauled trains of all types must not be timed to pass each other between Penyffordd * and Dee Marsh Jn.
+owing to weight restriction at Hawarden Bridge.
+* Applies between Wrexham General and Dee Marsh Jn. when Penyffordd SB is switched out.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

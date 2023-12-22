@@ -1,0 +1,54 @@
+NETWORK RAIL                            Timetable Planning Rules                      Version: 4.1
+London North Eastern                      Revised Final Rules for                       Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                   Page: 272 of 368
+
+
+LN860 DIGGLE JUNCTION TO COPLEY HILL EAST JUNCTION
+Marsden
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                            Value
+Departing up platform or UPL towards              Acceleration from 15mph pointwork                 1
+Huddersfield
+Movement Up                                       Reason                                            Value
+Train Arriving Platform 3                         Approach Control                                  1
+Train departing Platform 3                        Acceleration from 15mph pointwork                 ½
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+ Depart Marsden Up Loop or Up Main (in down       Marsden pass in Up Direction                     4½
+direction)
+Depart Up Loop or Up Main (in Down Direction)     Arrive Platform 2 or UPL (not stopping           5½
+                                                  Slaithwaite)
+Depart Up Loop or Up Main (in Down Direction)     Up arrive Slaithwaite (see Restriction)          2
+Pass/arrive Up                                    Depart Up Loop or Platform 2 (in Down            1
+                                                  Direction)
+Pass Diggle Junction                              Depart Up Loop                                   1
+
+Restriction: Whilst a train is Departing Up Loop or Up Main in the Down Direction, an Up stopping train cannot
+arrive at Slaithwaite; reflected in margins above
+
+
+Minimum Turnround                     5 from Huddersfield or Leeds
+
+
+Huddersfield
+
+Adjustments to Sectional Running Times
+Movement Up                                       Reason                                           Value
+Arriving trains Platforms 5                       Approach control                                 1
+Arriving trains Platform 6                        Approach control                                 ½
+Arriving trains Platform 4 if already occupied    Approach control                                 ½
+
+Dwell Time       1 All, except
+TPE              1½
+
+Junction Margins (NB includes moves impacted by restrictive overlaps)
+First Movement                             Second Movement                                         Margin
+Up arrive Platform 1                       Arrive Platform 4 from Penistone                        3½
+Up depart Platform 1                       Up arrive Platform 1                                    2½
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

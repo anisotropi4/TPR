@@ -1,0 +1,58 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                      Page:    418 of 443
+
+
+NW1002 PENKRIDGE STATION (INCLUSIVE) TO TRENT VALLEY JN NO.1
+(STAFFORD)
+Down
+Location                            Type     FL/ML   SL      GL      Remarks
+Approaching Stafford Trent Valley   E        1
+Jn
+
+
+NW1007 NANTWICH (EXCLUSIVE) TO CREWE SOUTH JN
+Timing Section                      Type     FL/ML   SL      GL      Remarks
+
+Down – Daily
+Approaching Crewe Gresty Lane       E        2
+
+
+NW1021 WINWICK JN TO GOLBORNE JN (VIA EARLESTOWN)
+Timing Section                      Type     FL/ML   SL      GL      Remarks
+
+Down – Daily
+Approaching Golborne Jn             E            1
+
+Up – Daily
+Approaching Winwick Jn              E            1
+
+
+NW2001 WEAVER JN TO LIVERPOOL LIME STREET
+Timing Section                      Type     FL/ML   SL      GL      Remarks
+
+Down – Daily
+Approaching Runcorn                 E        1       1
+Approaching Liverpool South         E        1       1
+Parkway
+
+Up – Daily
+Approaching Weaver Jn               E        1
+
+
+NW2015 ORDSALL LANE JN TO EDGE HILL
+Timing Section                      Type     FL/ML   SL      GL      Remarks
+
+Down – Daily
+Approaching Liverpool Lime Street   E        2       2               May be taken anywhere between Huyton
+                                                                     and Liverpool Lime Street
+
+Up – Daily
+Approaching Ordsall Lane Jn         E        2                       Does not apply to any train starting from
+                                                                     Weaste or Eccles
+
+
+
+
+                              Electronic copy - uncontrolled when printed

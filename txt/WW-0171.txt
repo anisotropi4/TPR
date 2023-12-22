@@ -1,0 +1,65 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules 2024                     Version:     4.1
+Western + Wales           Final Principal and Preliminary Proposal for Subsidiary
+                                                              OFFICIAL                    Date:      6th October 2023
+                                          Change Timetable 2024                           Page:      168 of 289
+
+
+From the Down Main to Down Loop and Up            Slow speed at loop entry (25 mph)        All traffic     +{1}
+Main to Up Loop
+
+Standish Junction
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement Down                            Reason                            Timing Load                     Value
+Trains from the direction of Gloucester  SRT differential after Slow speed HST / D245-D455                 {1}
+Horton Road Junction                     turnout at Gloucester Yard
+                                         Junction
+                                                                           170/22X/15X/16x/                {½}
+                                                                           GWR Short Form
+                                                                           HST (HSTGW4)
+Trains towards the direction of Stroud   SRT differential – Approach       22x / HST /                     {1}
+                                         control and slow speed turnout at D245-D455
+                                         Standish Junction
+                                                                           15X/16x/ GWR                    {½}
+                                                                           Short Form HST
+                                                                           (HSTGW4)
+
+Junction Margins (Northbound trains)
+First Movement               Second Movement                Margin       Notes
+A train From Cam & Dursley   A train from Stonehouse        2½           Headway must be compliant at next
+direction towards Gloucester direction passes                            mandatory TIPLOC
+Yard Jn passes Standish Jn   Standish Jn to the Up
+on the Up Charfield          Charfield
+
+Cam & Dursley
+
+Dwell Time
+15x, 16x                                          ½ ( 1 minute peak hours)
+
+Yate
+Dwell Time
+15x                                               ½ ( 1 minute peak hours)
+
+GW440 YATE SOUTH JUNCTION TO WESTERLEIGH
+
+Yate Signal BL6568
+
+A dwell must be shown at this signal in the up direction for a minimum of 5 minutes to set up the locomotive’s
+GSMR.
+
+Adjustment to Sectional Running Time
+Movement                             Reason                                  Timing Load             Value
+Yate Signal BL6568 to Yate           Not passing Yate at linespeed           Freight                 {1} to be shown
+                                     having stopped at Yate Signal                                   after Yate
+                                     BL6568.
+
+GW450 STOKE GIFFORD JUNCTION TO BRISTOL EAST JUNCTION
+
+Filton Abbey Wood
+
+Junction margins
+First Movement                                    Second Movement                                        Margin
+
+                                     Electronic copy - uncontrolled when printed.

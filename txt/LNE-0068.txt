@@ -1,0 +1,53 @@
+NETWORK RAIL                       Timetable Planning Rules                    Version: 4.1
+London North Eastern                 Revised Final Rules for                     Date: 12 October 2023
+                                Subsidiary Change Timetable 2024                 Page: 65 of 368
+
+
+LN904 HAMBLETON SOUTH JUNCTION TO HAMBLETON WEST JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Hambleton South Jn               –          –          X        To/from Shaftholme Jn – LN600
+Hambleton West Jn                –          –                   To/from Neville Hill East Jn – LN898
+
+
+LN906 HAMBLETON EAST JUNCTION TO HAMBLETON NORTH JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Hambleton East Jn                –          –                   To/from Selby – LN898
+Hambleton North Jn               –          –                   To/from York – LN600
+
+
+LN908 SELBY WEST JUNCTION TO SELBY CANAL JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Selby West Junction              –          –          X        To/from Hambleton East – LN898
+Selby Canal Junction             –          –          XF       To/from Temple Hirst Jn – LN910
+
+
+LN910 TEMPLE HIRST JUNCTION TO SELBY SOUTH JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Temple Hirst Junction            –          –                   To/from Shaftholme Jn – LN600
+Selby Canal Junction             –          –          XF       To/from Selby West Junction – LN908
+Selby South Junction                                            To/from Selby – LN898
+
+
+LN912 THORNE JUNCTION TO GILBERDYKE JUNCTION
+TIMING POINT                     DOWN       UP         CODE     NOTES
+
+Thorne Junction                  –          – SL                To/from Hatfield & Stainforth – LN752
+Thorne North                     –          –          S
+Goole Potters Grange Junction    – GL       –          X        To/from Rawcliffe – LN882
+                                                                GL line code required for trains to/from
+                                                                LN882 to Platform 2
+Goole Shunt Spur                                       S        To/From Goole Docks
+ Goole Docks                                           S
+Goole Up & Down Goods Loop                  –          S
+Goole                            –          – GL                Platform detail must be shown
+Saltmarshe                       –          –          S
+Gilberdyke Junction              –          –                   To/from Brough – LN898
+
+
+
+
+                                Electronic copy - uncontrolled when printed.

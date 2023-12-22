@@ -1,0 +1,63 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024          Date:    28th July 2023
+West and Central
+                                                                                       Page:   365 of 443
+
+
+
+Romiley
+
+Junction Margins
+First Movement                                   Second Movement                                 Margin
+Pass / Depart to Hyde                            Arrive / Pass from Bredbury                     3½
+                                                                                                 Passenger *
+Pass / Depart to Hyde                            Arrive / Pass from Bredbury                     4½ Freight *
+Arrive / Pass from Bredbury                      Depart to Hyde                                  1
+Arrive / Pass from Bredbury                      Pass to Hyde (Passenger)                        3
+Arrive / Pass from Bredbury                      Pass to Hyde (Freight)                          4*
+* Margins can be reduced by 1 minute if the second train has a minimum of 1½ minute pathing time approaching
+Romiley.
+
+
+NW9011 ROMILEY JN TO HYDE JN
+
+Hyde Jn
+See entry under route NW5015 Hadfield to Ardwick Jn
+
+
+NW9019 BUXTON TO BRIGG’S SIDINGS
+
+Buxton SB
+
+See entry under route NW9021 Buxton to Hazel Grove East Jn
+
+
+Hillhead Ground Frame
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Arrives at Hillhead Sidings                      Departs from Dowlow / Hindlow Quarry             4
+Arrives at Hillhead Sidings                      Departs Buxton S.B                               2
+Arrives Buxton S.B                               Departs Hillhead Sidings                         2
+Arrives at Hillhead Sidings                      Departs from Hillhead Sidings                    3
+Arrives Dowlow / Hindlow Quarry                  Departs Hillhead Sidings                         2
+
+Arrivals
+A stop must be shown of two minute duration for a shunter to meet the driver, walk and operate Hillhead Ground
+Frame to arrive a train.
+
+Departures
+A stop must be shown of four minute duration for a shunter to operate Hillhead Ground Frame and hand the token
+to the driver to depart a train.
+
+
+Brigg’s Ground Frame
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Arrives at Dowlow / Hindlow Quarry               Departs from Dowlow / Hindlow Quarry             2
+Arrives Dowlow / Hindlow Quarry                  Departs Hillhead Sidings                         2
+
+
+
+                             Electronic copy - uncontrolled when printed

@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+ NETWORK RAIL                        Timetable Planning Rules 2024                     Version:   4.1
+ Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                    Date:    6th October 2023
+                                         Change Timetable 2024                           Page:    234 of 289
+
+
+ LH                               1
+
+ Pencoed
+
+ Dwell Time
+ 150 to 153                       ½
+ 156 to 159 / LH                  1
+
+ Tremains Down Loop
+
+ Junction Margins
+ First Movement                                Second Movement                                    Margin
+ Arrive in Loop                                Down Pass Bridgend                                 1½
+ Arrive/Pass Bridgend from Pontyclun           Depart Loop                                        1
+
+Bridgend
+
+Adjustments to Sectional Running Times
+Movement                                     Reason                      Timing Load         Value
+Down Main to Maesteg Branch (Route           Approach control            All                 {½} approaching
+GW874) non – stop services                                                                   Bridgend
+Maesteg Branch (Route GW874) to Up Main      Slow speed junction         All                 {½} after Bridgend
+non – stop services
+Up Main to Up VOG (Route GW870) non –        Approach control            All trains          {1} approaching
+stop services                                                                                Bridgend
+Up Main to Up VOG (Route GW870)              Approach control            Passenger trains    {½} approaching
+stopping at Bridgend                                                     only                Bridgend
+Down VOG ((Route GW870) to Down Main         Slow speed junction         Passenger trains    {½} after Bridgend
+non – stop services                          SRT differential            only
+Down VOG (Route GW870) to Down Main          Slow speed junction         Freight trains      {1} after Bridgend
+non – stop services                          SRT differential            only
+
+Dwell Time
+80x                               1½
+15x                               1
+
+Junction Margin
+First Movement     Second Movement        Reason                                   Timing Load       Value
+Down main to       Up Pass Stormy         Conditional double red aspects                             Same time
+Maesteg branch
+Pass/Depart to     Arrive/Pass from                                                                  4
+Aberthaw           Aberthaw
+Pass/Depart to     Pass/Arrive from                                                                  3½
+Aberthaw from Up   Down Main
+Main/Maesteg
+
+Pyle
+
+Dwell Time
+15x / LH                          1
+
+Margam Moors Junction
+
+Adjustments to Sectional Running Times
+Movement                                     Reason                      Timing Load         Value
+
+
+                                   Electronic copy - uncontrolled when printed.

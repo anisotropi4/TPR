@@ -1,0 +1,60 @@
+NETWORK RAIL                    Timetable Planning Rules                    Version: 4.1
+London North Eastern              Revised Final Rules for                     Date: 12 October 2023
+                             Subsidiary Change Timetable 2024                 Page: 47 of 368
+
+
+LN768 MANSFIELD WOODHOUSE TO SHIREOAKS EAST JUNCTION
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Mansfield Woodhouse           –          –                   To/from Kirkby Lane End Jn – LN3273
+Shirebrook                    –          –          S
+Shirebrook Jn                 –          –          F        To/from Warsop Jn – LN722
+Shirebrook East Junction                                     To/from Warsop Jn – LN784
+Langwith Whaley Thorns        –          –          S
+Creswell                      –          –          S
+Elmton & Cresswell Jn         –          –          F
+Whitwell Derby SB             –          –          F
+Whitwell                      –          –          S
+Woodend Junction              –          –                   To/from Shireoaks West Jn – LN736
+Shireoaks East Junction       –          –                   To/from Worksop – LN736
+
+
+LN772 WARSOP JUNCTION TO SHIREBROOK JUNCTION
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Warsop Junction               –          –                   To/from Welbeck Colliery Jn – LN784
+Shirebrook Junction           –          –          X        To/from Mansfield – LN768
+
+
+LN782 WOODEND JUNCTION TO SHIREOAKS WEST JUNCTION
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Woodend Junction              –          –                   To/from Whitwell – LN757
+Shireoaks West Junction       –          –          X        To/from Shireoaks – LN736
+
+
+LN784 HIGH MARNHAM TO SHIREBROOK EAST JUNCTIONS
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+High Marnham                  –          –
+Boughton Junction             –          –          X        To/from Bevercotes – LN786
+Thoresby Colliery Junction    –          –                   To/from Thoresby Colliery – LN788
+Clipstone East Junction       –          –                   To/from Clipstone South Jn – LN790
+Clipstone West Junction       –          –                   To/from Clipstone South Jn – LN800
+Welbeck Colliery Junction     –          –                   To/from Welbeck Colliery – LN802
+Warsop Junction               –          –                   To/from Shirebrook Jn – LN772
+Shirebrook East Junction      –          –                   To/from Woodend Jn – LN768
+
+
+LN786 BEVERCOTES COLLIERY BRANCH
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Boughton Junction             –          –                   To/from High Marnham – LN784
+Bevercotes Colliery                      –          S
+
+
+LN788 THORESBY COLLIERY BRANCH
+TIMING POINT                  DOWN       UP         CODE     NOTES
+
+Thoresby Colliery Junction    –          –                   To/from High Marnham – LN784
+                             Electronic copy - uncontrolled when printed.

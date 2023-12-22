@@ -1,0 +1,38 @@
+ NETWORK RAIL                            Timetable Planning Rules                         Version:   4.3
+ Route: Sussex                           Final Rules for Subsidiary                       Date:      18th October 2023
+                                               Timetable 2024 OFFICIAL
+                                                                                          Page:      13 of 163
+
+1.3.2 Days of Operation
+The following abbreviations are used to identify the day or days that a train operates.
+
+ Abbreviation              Description
+ M                         Monday
+ T                         Tuesday
+ W                         Wednesday
+ Th                        Thursday
+ F                         Friday
+ S                         Saturday
+ Su                        Sunday
+ EWD                       Every Week Day (Monday to Saturday)
+ Daily                     Every day – will not accept this; there must be a separate entry for Sundays
+
+ Suffixes
+ O                         Adding this indicates that the train will run only on that day or those days shown
+ X                         Adding this indicates that the train will not run on that day or those days shown
+
+ General
+ BHX                       Denotes that this train does not run on a bank holiday
+
+
+
+1.3.3 Traction and Rolling Stock
+ Abbreviation      Description
+ DMU               Any diesel multiple unit
+ ECS               Empty Coaching Stock
+ EMU               Electric multiple unit
+
+
+
+
+                                  Electronic copy - uncontrolled when printed

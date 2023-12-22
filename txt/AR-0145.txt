@@ -1,0 +1,48 @@
+                                                       OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                       Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                       Date:
+                                                2024                                           2023
+                                                                                      Page:    142 of 183
+
+Jurgens LC
+
+Trains to West Thurrock Sidings
+All trains must stop to operate the level           OP stop                                         2
+crossing at Jurgens LC
+
+Trains to Purfleet Foster Yeoman
+All trains to Purfleet Foster Yeoman must have      OP stop to activate level crossing, RM and PR   10
+an extended OP stop at Jurgens LC in order to
+activate the level crossing and propel back into
+the terminal.
+
+Trains from Purfleet Foster Yeoman
+All trains from Purfleet Foster Yeoman must         RR Allowance (due to distance the loco must     45
+have a RR at Jurgens LC before departing            travel via 2267 points, Up Tilbury and
+Purfleet Long Siding via Deep Wharf LC,             2265/2266 points)
+UR1166 signal, 2266 & 2265 points to Purfleet.
+No other trains should be planned onto any
+part of Purfleet Long Siding until the RR is
+complete.
+
+
+West Thurrock Headshunt
+
+Trains to and from West Thurrock Sidings
+All trains stop before propelling move to sidings   RM and PR stop                                  2
+or after propelling move from sidings
+
+
+West Thurrock Junction
+
+For ARS regulating purposes in the Eastbound direction, ARR and DEP times with activities A and * are to be
+used and NOT pathing time approaching Grays due to overlap restrictions. This is to apply when a train is
+departing Platform 3 at Grays towards the Up Tilbury line or from Platform 2 towards Ockendon.
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

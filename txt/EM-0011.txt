@@ -1,0 +1,66 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                            Timetable Planning Rules                      Version:   4.1
+East Midlands                     Final Subsidiary Change Rules 2024                    Date:    13th September
+                                                                                                 2023
+                                                                                         Page:   9 of 123
+
+Passenger Services
+
+2Exx             Nottingham to Spalding
+2Fxx             NOT USED
+2Hxx             Nottingham to Mansfield Woodhouse
+2Ixx             NOT USED
+2Jxx             NOT USED
+2Kxx             NOT USED
+2Lxx             Leicester to Lincoln via Nottingham
+                 Lincoln to Leicester via Nottingham
+2Mxx             NOT USED
+2Nxx             Matlock to Newark Castle via Derby & Nottingham
+2Oxx             NOT USED
+2Pxx             NOT USED
+2Qxx             Network Rail Test Trains
+2Rxx             NOT USED
+2Sxx             Bedford to Bletchley
+                 Bletchley to Bedford
+                 Nottingham to Skegness
+                 Skegness to Nottingham
+2Txx             Nottingham to Lincoln via Newark North Gate
+                 Lincoln to Nottingham via Newark North Gate
+2Uxx             NOT USED
+2Vxx             NOT USED
+2Wxx             Nottingham to Worksop
+2Xxx             NOT USED
+2Yxx             NOT USED
+2Zxx             NOT USED
+
+TID              Class 3 services (WTT)
+3Jxx             Network Rail Seasonal/Railhead Treatment Trains
+3Qxx             Network Rail Test Trains
+3Sxx             Network Rail Seasonal/Railhead Treatment Trains
+
+Thameslink Services
+
+ECS movements will generally carry a 5*xx TID that matches the inward or outward workings, for example an
+ECS movement to form 9T01 would be 5T01, except as below:
+TID             Class 5 services (WTT)
+5Jxx            ECS movements to Cricklewood Sidings complex
+                ECS movements from Cricklewood Sidings complex which form services to Sevenoaks
+5Uxx            ECS movements from Bedford to Bedford Cauldwell
+5Yxx            ECS movements from Bedford to Bedford Jowett Sidings
+
+TID               Class 9 services (WTT)
+9Exx              St Albans City and St Pancras International (all stations services) – Not to be used for
+                  services through the Thameslink Core beyond St Pancras and south thereof.
+9Gxx              Bedford and St Pancras International (semi-fast services) – Not to be used for services
+                  through the Thameslink Core beyond St Pancras and south thereof.
+9Hxx              Luton and St Pancras International (all stations services) – Not to be used for services
+                  through the Thameslink Core beyond St Pancras and south thereof.
+9Jxx              Peterborough and Horsham via London Bridge and Redhill
+9K00-75           Luton / Kentish Town and Orpington via Catford
+9K76-88 (even)    Orpington to West Hampstead via Catford
+9K90-98 (even)    Orpington to London Blackfriars via Catford or London Victoria (Sundays)
+9Lxx              Bedford and East Grinstead via London Bridge
+
+
+                                       Electronic copy - uncontrolled when printed.

@@ -1,0 +1,65 @@
+NETWORK RAIL                               Timetable Planning Rules                    Version:    4.3
+Route: Sussex                              Final Rules for Subsidiary                  Date:       18th October 2023
+                                                 Timetable 2024 OFFICIAL
+                                                                                       Page:       86 of 163
+
+Purley
+
+Adjustment to Sectional Running Times
+Movement                              Reason                                         Value
+All movements to Platforms 5 and 6    Approach Control                               {½}
+All movements crossing from Down Fast Speed Differential & Acceleration              {½} approaching Purley
+to Down Slow                                                                         {1} approaching Stoats Nest
+                                                                                     Junction*
+All movements crossing from Up Slow to          Speed Differential & Acceleration    {½} approaching Purley
+Up Fast                                                                              {½} approaching the next timing
+                                                                                     point if called at Purley
+                                                                                     {1} approaching next timing point
+                                                                                     if not calling at Purley
+Up attachment in platform 5                     Calling-on allowance to be added     {1}
+                                                to second train due to restrictive
+                                                aspect at signals T560 or T576
+*required if train has not called at Purley
+
+Berthing Facilities
+                                       Cars                         Notes
+Siding                                 16                           This location is not to be used without prior
+                                                                    arrangement
+Berthing within the station is permitted in Platform 6 only and is limited to train class 377and 700 only due to
+restrictions upon berthing on running lines
+
+Connectional Allowances
+All Services                           4
+
+Dwell Times
+All Peak Services                      1
+
+Junction Margins
+First Movement                                  Second Movement                         Margin
+Depart Platform 3, 4 or 5 to Up Fast            Pass Platform 2 on Down Fast            3
+Depart Platform 5 to Up Slow                    Arrive Platform 5 from Down Slow        2½
+Depart platform 6 towards Tattenham             Arrive platforms 4 or 5 from            3
+Corner                                          Caterham
+Depart platform 5 towards Caterham or           Arrive platforms 5 from Caterham        3
+Tattenham Corner
+Depart platform 5 towards Caterham or           Arrive platform 4 from Tattenham        Parallel
+Tattenham Corner                                Corner
+Down departure                                  Conflicting Down departure to a         2
+                                                different route
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                                                                      Prohibited
+Platform 2                                                                      Prohibited
+Platform 3                                                                      Prohibited
+Platform 4                                                                      Attaching Only*
+Platform 5                           Up Direction                               Attaching
+Platform 6                           Down Direction                             Detaching Only
+* to provide additional capacity in the Up direction from Caterham or Tattenham Corner where there is no
+alternative
+A 3 minute margin between two services booked to attach is to be allowed (inclusive of calling-on allowance)
+
+
+
+
+                                  Electronic copy - uncontrolled when printed

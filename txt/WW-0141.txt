@@ -1,0 +1,66 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                  Version:   4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                 Date:    6th October 2023
+                                        Change Timetable 2024                        Page:    138 of 289
+
+
+Highbridge & Burnham
+Uphill Junction to Highbridge & Burnham      From Worle Junction via     D245 to D315     -{1}
+Pass to Stop                                 avoiding line at higher
+                                             speed
+                                                                         D350 to D455     -{2}
+                                                                         15x to 166       -{½}
+Uphill Junction to Highbridge & Burnham      From Weston-super-          HST/22X/80x      +{1}
+Pass to Stop                                 Mare with slow speed at
+                                             Uphill Jn
+Uphill Junction to Highbridge & Burnham      From Worle Junction via     15x to 166/GWR   -{½}
+Pass to Pass                                 avoiding line at higher     Short Form HST
+                                             speed                       (HSTGW4)
+Uphill Junction to Highbridge & Burnham      From Weston-super-          HST/22X/80x      +{1}
+Pass to Pass                                 Mare with slow speed at
+                                             Uphill Jn
+                                                                         D245 to D315     +{1}
+                                                                         D350 to D455     +{2}
+
+Dwell Time
+Class 150                          ½
+Class 153 to 159                   1
+LH                                 1½
+
+Highbridge Up Goods Loop
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                 Reason                  Timing Load        Value
+Crossing into the Up loop                Slow turnout speed into All traffic        +{1}
+                                         the loop (25 mph)
+
+Bridgwater
+
+Dwell Time
+LH                                 1½
+Class 15x                          1
+
+GW107 WORLE JUNCTION TO UPHILL JUNCTION VIA WESTON-SUPER-MARE
+
+Weston Milton
+
+Dwell Time
+LH                                 1½
+Class 15x, 16x                     ½
+GWR Short Form HST (HSTGW4)        1
+
+Weston-super-Mare
+
+Dwell Time
+22x / Class 80x London services    2
+Class 80x Non London services      1½
+GWR Short form HST (HSTGW4)        1*
+*1½ in the down direction SX between 1545 - 1830
+
+Junction margins
+
+
+
+                                  Electronic copy - uncontrolled when printed.

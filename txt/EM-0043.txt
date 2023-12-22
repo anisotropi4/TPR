@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                          Timetable Planning Rules                         Version:    4.1
+East Midlands                   Final Subsidiary Change Rules 2024                       Date:     13th September
+                                                                                                   2023
+                                                                                          Page:    41 of 123
+
+LN3615 HELPSTON JUNCTION TO SYSTON SOUTH JUNCTION
+TIMING POINT                      DOWN         UP              NOTES
+
+Helpston Jn to Uffington          AB+2*        AB+2*           *TCB plan as AB
+Uffington to Ketton SB            AB+2         AB+2
+Ketton SB to Luffenham            AB+2         AB+2
+Luffenham to Manton Jn            AB+2         AB+2
+Manton Jn to Oakham               AB+2         AB+2
+Oakham to Langham Jn              AB+2         AB+2
+Langham Jn to Ashwell LC          AB+2         AB+2
+Ashwell LC to Whissendine         AB+2         AB+2            Intermediate Block Section on Up line at 98mp
+Whissendine to Melton Mowbray     AB+2         AB+2*           Intermediate Block Section on Up line at 103mp
+                                                               *In the Up direction AB sections are:
+                                                               Melton Mowbray to Signal MN54$
+                                                               Signal MN54 to Whissendine
+
+                                                               $Trains leaving Melton Mowbray Up Loop cannot
+
+                                                               depart until the preceding train passes Signal MN54
+                                                               + 2 minutes
+Melton Mowbray to Frisby          AB+2         AB+2#           When Melton Mowbray Signalbox is switched out
+                                                               the block section becomes Whissendine to Frisby
+                                                               #
+                                                                In the Up direction, Melton Mowbray Station is not
+                                                               including in the Frisby – Melton Mowbray AB
+                                                               Section. Therefore once a train arrives at Melton
+                                                               Mowbray station, the next train can pass Frisby 2
+                                                               minutes later
+Frisby to Syston South Jn         5            5
+
+
+LN3620 MELTON JUNCTION G.F. TO ASHFORDBY
+TIMING POINT                      DOWN         UP              NOTES
+
+Melton Jn G.F. to Ashfordby                AB+2*               *Single Line, NST
+
+
+LN3625 NOTTINGHAM EAST JUNCTION TO NEWARK FLAT CROSSING
+(EXCLUSIVE)
+TIMING POINT                     DOWN              UP                NOTES
+
+Nottingham to Netherfield Jn     4                 4
+Netherfield Jn to Lowdham        4                 6
+Lowdham to Fiskerton Jn          AB+2              AB+2              Absolute block from departure time of
+                                                                     preceding train at Fiskerton in the Up
+                                                                     (Nottingham) direction
+Fiskerton Jn to Staythorpe       AB+2              AB+2
+Staythorpe to Newark Castle      AB+2              AB+2
+Newark Castle to Newark Flat     6 passenger       6 passenger       Down
+Crossing                                                             6 freight following passenger
+                                                                     8 when freight following freight
+                                                                     Up
+                                                                     6 freight following passenger
+                                                                     8 when freight following freight
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,56 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+London North Eastern                     Revised Final Rules for                       Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                   Page: 353 of 368
+
+
+LN600 SHAFTHOLME JUNCTION TO RESTON GSP
+Timing Section                       Type    LH      MU      Cl 6, 7   Remarks
+                                             HST     LL      &8
+                                             80X
+                                             EPU
+                                             Cl 4
+                                             22X
+
+Additional Engineering Allowance
+Down and Up – Sunday night/Monday morning
+Loversall Carr Junction –        E     5*             5*       5*      2230 Sun – 0530 Mon
+Doncaster                                                              * 3 for trains timed SL/GL
+Colton Junction – York           E      3              3        3      2200 Sun – 0550 Mon (A)
+York – Skelton Junction          E      2              2        2      2240 Sun – 0545 Mon all trains to be timed
+                                                                       over same line
+Skelton Junction – Longlands         E         2       2        2      2130 Sun – 0555 Mon all trains to be timed
+Junction                                                               to run Slow line
+Longlands Junction – Darlington      E        15      15       15      2145 Sun – 0545 Mon (B)
+South Junction
+Darlington South Jn – Tursdale Jn    E        15      15       15   2230 Sun – 0545 Mon (B)
+Tursdale Junction – Durham           E        15      15       15   2235 Sun – 0525 Mon (B)
+Durham – King Edward Bridge          E        15      15       15   2230 Sun – 0525 Mon (B)
+King Edward Bridge – Newcastle       E         2       2        2   2240 Sun – 2335 Sun All FL trains to be
+                                                                    timed over the same line (C)
+                                                                    2335 Sun – 0525 Mon All trains to be
+                                                                    timed over same line (C)
+Newcastle to Heaton South Jn         E         2       2        2   2245 Sun – 0500 Mon All trains to be
+                                                                    timed over same line (C)
+(A) To be coordinated with Church Fenton – Colton. Only one allowance between Church Fenton and York
+(B) Only one allowance per train between Longlands and King Edward Bridge South
+`(C) Only one allowance between KEB and Heaton South Junction
+
+
+LN752 WRAWBY JUNCTION TO MARSHGATE JUNCTION
+Timing Section                       Type    LH      MU      Cl 6, 7   Remarks
+                                             HST     LL      &8
+                                             EPU
+                                             Cl 4
+                                             22X
+
+Additional Engineering Allowance
+Down and Up – Sunday night/Monday morning
+Wrawby Junction – Thorne         E      2              2        2      2340 Sun – 0530 Mon.
+Junction
+Thorne Jn – Kirk Sandall Jn      E      2              2        2      2345 Sun – 0445 Mon all trains to be timed
+                                                                       via slow lines
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

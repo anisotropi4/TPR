@@ -1,0 +1,66 @@
+                                                      OFFICIAL
+
+NETWORK RAIL                             Timetable Planning Rules                       Version:   4.1
+East Midlands                      Final Subsidiary Change Rules 2024                     Date:    13th September
+                                                                                                   2023
+                                                                                          Page:    10 of 123
+
+Passenger Services
+
+9Mxx               Bedford and St Pancras International (all stations services) – Not to be used for services
+                   through the Thameslink Core beyond St Pancras and south thereof.
+9N80-99            Bedford and Littlehampton via London Bridge and Hove
+9O01-79            St Albans City and Sutton via Mitcham Eastfields, Sutton and St Albans City via
+                   Wimbledon
+9O80-88            Sutton via Wimbledon to West Hampstead, Kentish Town or Blackfriars
+9O90-98            Sutton via Wimbledon to Luton or Bedford
+9P00-75            Luton and Rainham or Gillingham via Woolwich Arsenal
+9P76-88 (even      Rainham/Gillingham to West Hampstead
+numbers)
+9P81-89 (odd       Bedford to Rainham/Gillingham (fast from St Albans City)
+numbers)
+9P90-97            Shuttle services between London Bridge/Dartford and Rainham/Gillingham
+9P98-99            West Hampstead and Rainham via Lewisham and Bexleyheath
+9Qxx               NOT USED
+9R00-69            Bedford and Gatwick Airport / Three Bridges / Brighton via London Bridge and Redhill.
+                   Northbound services terminating at London Bridge (Central) must be allocated numbers
+                   between 70-79 SX and 70-99 SO and Sun
+9R80-99            Bedford and Gatwick Airport / Three Bridges / Brighton via London Bridge and Redhill that
+                   have a maximum of four station calls between Bedford and St Pancras (applies SX)
+9Sxx               Cambridge and Gatwick Airport / Three Bridges / Brighton via London Bridge and Quarry
+                   Lines
+9T00-73            Bedford and Gatwick Airport / Three Bridges / Brighton via London Bridge and Quarry
+                   Lines. Northbound services terminating at London Bridge (Central) must be allocated
+                   numbers between 74-79 SX and 74-99 SO and Sun
+9T80-99            Bedford and Gatwick Airport / Three Bridges / Brighton via London Bridge and Quarry
+                   Lines that have a maximum of four station calls between Bedford and St Pancras (applies
+                   SX)
+9Uxx               Cambridge and Maidstone East / Ashford via London Bridge and Swanley
+9V01-79            St Albans City and Sutton via Wimbledon, Sutton and St Albans City via Mitcham
+                   Eastfields
+9V80-88            Sutton via Mitcham Eastfields to West Hampstead, Kentish Town or Blackfriars
+9V90-98            Sutton via Mitcham Eastfields to Luton or Bedford
+9W01-89            Bedford and Gatwick Airport / Three Bridges / Brighton via Tulse Hill and Streatham
+                   Common
+9W90-99            Horsham or Three Bridges to Peterborough via Streatham Common and Tulse Hill
+9Xxx               NOT USED
+9Y00-75            Welwyn Garden City (southbound only)/ Kentish Town / Blackfriars and Sevenoaks via
+                   Catford and Swanley
+9Y76-98 (even      Sevenoaks to Welwyn Garden City via Swanley and Catford (SX) or London Victoria via
+numbers)           Swanley and Catford (Sundays)
+9Zxx               Not to be used in the WTT
+
+The fifth character of the headcode must match one of the following based on where the train terminates:
+– B – Kent and Sussex
+– C – Wessex
+– D – Great Western
+– E – Central & West Coast South and East Midlands
+– F – North West
+– G – LNE
+– H – Anglia
+– L – Scotland
+
+The sixth character of the headcode is the next sequential alpha available/freeform.
+
+
+                                        Electronic copy - uncontrolled when printed.

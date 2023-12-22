@@ -1,0 +1,64 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                                    Timetable Planning Rules                 Version:   4
+Scotland                           Final Rules for Subsidiary Change Timetable 2024        Date:    28/07/2023
+                                                                                           Page:    159 of 242
+
+Glen Douglas
+
+All trains must stop for token exchange purposes, unless a Long Section Token has been issued at the
+previous Token Exchange Point.
+
+
+Arrochar & Tarbet
+
+All trains must stop for token exchange purposes.
+
+For Up trains, see general restrictions above.
+For Down trains, see general restrictions above.
+
+
+Ardlui
+
+All trains must stop for token exchange purposes, unless a Long Section Token has been issued at the
+previous Token Exchange Point.
+
+
+Crianlarich
+
+All trains must stop for token exchange purposes.
+
+For up trains, see general restrictions above.
+
+Adjustments to Sectional Running Times
+Movement Up                                          Reason                                     Value
+Second portion to arrive from Tyndrum Lower          RETB Intermediate Block                    3
+or Upper Tyndrum
+
+Dwell Time
+Down trains (Junction plunger)           3
+Departure of 1st train after dividing    6
+sets
+All Up joining trains                    6
+
+Junction Margins
+First Movement                                       Second Movement                            Margin
+Down train, first portion depart                     Down train, second portion depart          3
+Up train, first portion arrive                       Up train, second portion arrive            4½
+Up train arrive                                      Down train depart                          3
+Down depart to Oban                                  Up arrive from                             4½
+
+Down depart to Fort William                          Up arrive from Oban                        4½
+
+
+Upper Tyndrum
+
+All trains must stop for token exchange purposes.
+
+Dwell Time
+All trains (RETB requirement)            3
+
+
+
+
+                                        Electronic copy - uncontrolled when printed.

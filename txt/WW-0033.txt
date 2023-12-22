@@ -1,0 +1,65 @@
+                                                     OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                  Date:    6th October 2023
+                                         Change Timetable 2024                         Page:    30 of 289
+
+
+GW182 WEST DRAYTON TO COLNBROOK
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+West Drayton                             –            RL               To/from Heathrow Airport Jn – GW103
+Signal T3503                             –
+Signal T3502                                          –
+Thorney Mill Signal T6253                –                      S      For trains propelling into Thorney Mill
+                                                                       Stone Terminal (Use THYMGF)
+Thorney Mill Stone Terminal                      –              S      NB. Multiple operator specific TIPLOCS
+Signal T3511                             –
+Signal T3512                                          –
+Colnbrook Logistics Centre                       –              S      NB. Multiple operator specific TIPLOCS
+Colnbrook Aggregates Terminal                    –              S      NB. Multiple operator specific TIPLOCS
+Colnbrook Oil Terminal                           –              S      NB. Multiple operator specific TIPLOCS
+
+GW184 SLOUGH TO WINDSOR & ETON
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Slough                               –           ML –                  To/from Heathrow Airport Jn – GW103
+Slough Signal T3538                  –           –              S      Shunting moves to/from Bay Platform 1
+                                                                       only
+Windsor & Eton Central                           –
+
+GW185 MAIDENHEAD TO MARLOW
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Maidenhead                           –           RL                    To/from Slough – GW103
+Furze Platt                          –           –              S
+Cookham                              –           –              S
+Bourne End                           –           –                     Reverse
+Marlow                                           –
+
+GW187 TWYFORD TO HENLEY-ON-THAMES
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Twyford                              –           RL                    To/from Maidenhead – GW103
+Twyford T1632                                    –              S      Shunting moves to/from Twyford
+Wargrave                             –           –              S
+Shiplake                             –           –              S
+Henley-on-Thames                                 –
+
+GW190 READING SPUR JUNCTION TO READING NEW JUNCTION
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Reading Spur Junction                            –                     To/from Earley – SW210
+                                                                       Wessex Route timing point
+                                                                       Refer Wessex Timetable Planning Rules –
+                                                                       SW210
+Reading New Junction                 DML         –              X      To/from Reading – GW103
+
+GW195 READING EAST JN TO READING SOUTHERN JN
+TIMING POINT                         DOWN        UP             CODE   NOTES
+
+Reading Southern Jn                  –           –
+Signal T1691                         –                          S      Down direction only
+
+                                   Electronic copy - uncontrolled when printed.

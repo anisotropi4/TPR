@@ -1,0 +1,61 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version: 4.1
+London North Eastern                    Revised Final Rules for                       Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                   Page: 197 of 368
+
+
+Pelaw Junction
+Freight Pass From Jarrow                       Pass Pelaw Junction to Boldon (stopping          3½
+                                               Heworth)
+Light Loco Pass from Jarrow                    Pass Pelaw Junction to Boldon (stopping          2½
+                                               Heworth)
+Freight pass Pelaw Junction from Jarrow        Pass Pelaw Junction to Jarrow/Wardley            3½
+Light loco pass Pelaw Junction from Jarrow     Pass Pelaw Junction to Jarrow/Wardley            2½
+Freight pass Pelaw Junction from Jarrow        Depart Loop to Jarrow/Wardley/Boldon             2½
+Light loco pass Pelaw Junction from Jarrow     Depart Loop to Jarrow/Wardley /Boldon            1½
+Pass from Heworth                              Pass from Jarrow                                 3½
+Passenger/light loco pass Pelaw Junction to    Up depart loop to Boldon                         2
+Boldon
+Freight pass Pelaw Junction to Boldon          Up depart loop to Boldon                         3½
+Pass Pelaw Junction to Jarrow/Wardley          Up depart loop to Boldon                         3
+Up arrive loop                                 Up freight pass Pelaw Junction                   3½
+Up arrive loop                                 Up passenger pass Pelaw Junction (not            2
+                                               stopping Heworth)
+Up train depart Down Goods Loop                Down passenger/light engine pass                 3
+Up train depart Down Goods Loop                Down freight pass                                3½
+Up train depart Down Goods Loop                Pass from Jarrow/Wardley                         2½
+Up train depart Down Goods Loop                Down train arrive either loop                    3½
+Pass Pelaw Junction to Wardley                 Pass Passenger/light engine pass Pelaw           3
+                                               Junction from Sunderland to Heworth
+Pass Pelaw Junction to Wardley                 Freight pass Pelaw Junction from Sunderland      3½
+                                               to Heworth
+Pass Pelaw Junction to Wardley                 Pass Pelaw Junction to Up or Down Goods          2½
+                                               Loop
+Depart Pelaw Junction (on Up Main) to          Passenger/light engine pass Pelaw Junction       4
+Wardley                                        from Sunderland to Heworth
+Depart Pelaw Junction (on Up Main) to          Freight pass Pelaw Junction from Sunderland      5
+Wardley                                        to Heworth
+Depart Pelaw Junction (on Up Main) to          Pass Pelaw Junction to Up or Down Goods          3½
+Wardley                                        Loop
+Restrictions:
+   • Class 5 reversals in Goods Loop – the loop used must be specified and timed accordingly
+
+
+
+Heworth
+
+Dwell Time
+All                                 1 Up
+                                    ½ Down
+
+
+Park Lane Junction
+Junction Margins
+First Movement                                 Second Movement                                  Margin
+Pass from Greensfield Junction/King Edward     Pass to High Level Bridge Junction               3
+Bridge East Junction
+Depart from Greensfield Junction/King Edward   Pass to High Level Bridge Junction               4½
+Bridge East Junction
+Pass from Greensfield Junction/King Edward     Pass to Greensfield Junction/King Edward         2½
+Bridge East Junction                           Bridge East Junction
+Depart from Greensfield Junction/King Edward   Pass to Greensfield Junction/King Edward         4
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,63 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version: 4.1
+London North Eastern                   Revised Final Rules for                      Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                  Page: 206 of 368
+
+
+Saltburn West Junction
+Pass from Crag Hall                            Depart Signal L209                               1 minute after
+                                                                                                the first train
+                                                                                                has passed
+                                                                                                Longbeck
+
+Saltburn
+
+Minimum Turnround                  5
+                                   There must not be two consecutive 5 minute turnrounds, and the total of any
+                                   two consecutive turnrounds must equal 15 minutes. These values may be
+                                   reduced if sufficient pathing time is included in the schedule approaching
+                                   Saltburn
+
+                                   20 – TPE
+
+
+
+
+LN634 GUISBOROUGH JUNCTION TO WHITBY
+The route between Nunthorpe and Whitby is under the control of a single signaller at Nunthorpe signal box.
+Therefore token exchanges between Nunthorpe and Whitby cannot happen simultaneously, irrespective of actual
+locations; arrivals therefore, at any location, must be a minimum of 1 minute apart
+
+
+Guisborough Junction
+
+Refer to LN632
+
+
+James Cook
+
+Dwell Time
+All                                ½
+
+
+Marton
+
+Dwell Time
+All                                ½
+
+
+Gypsy Lane
+
+Dwell Time
+All                                ½. Compulsory stop on Down only
+
+
+Nunthorpe
+
+Crossing Margin                    Down train must arrive 3 minutes before Up service. An Up train cannot
+                                   arrive in platform when a Down train has been accepted from Middlesbrough
+
+Dwell Time
+All                                ½
+
+
+                                 Electronic copy - uncontrolled when printed.

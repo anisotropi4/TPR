@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:     4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                     Date:      27th October 2023
+                                            Timetable 2024                               Page:      142 of 178
+
+Hinchley Wood
+Class 455 and Class 701 EMU                                                                     1
+Up direction services departing between 0630 and 0900 Monday to Friday
+
+
+Effingham Junction
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                              Value
+Up trains towards Bookham passing Effingham Speed Differential                                        {½}
+Junction
+Down trains from Bookham passing Effingham        Speed Differential                                  {½} *
+Junction
+* This allowance should appear in the section from Effingham Junction
+
+Connectional Allowances
+All Services                         6
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Between all movements except as below                                                                 3
+Down Cobham train                                 Up Bookham train passing behind                     1
+
+Simultaneous Moves Not Permitted
+Down train arriving                               Train arriving via crossover of 3152 points
+
+Restriction
+A down train cannot pass/depart Effingham Junction until the previous train has departed Horsley. This is because
+there are no signals between these locations.
+
+
+Horsley
+
+Restriction
+An up train cannot depart Horsley until the previous train has departed Effingham Junction. This is because there
+are no signals between these locations.
+
+
+Guildford
+
+See entry under route – SW110
+
+
+SW205 LEATHERHEAD TO EFFINGHAM JUNCTION
+
+Leatherhead
+
+See entry under route – SW180
+
+
+Effingham Junction
+
+See entry under route – SW200
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

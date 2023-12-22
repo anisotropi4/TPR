@@ -1,0 +1,41 @@
+NETWORK RAIL               Timetable Planning Rules                         Version:   4.2
+Route: Wessex          Final Rules for Subsidiary OFFICIAL
+                                                  Change                      Date:    27th October 2023
+                                Timetable 2024                                Page:    174 of 178
+
+Woking            5 - Down Slow                    289       Down direction
+Woking            5 - Down Slow                    275       Up direction
+Woking            6 - Down Bay                     127
+Wokingham         1 - Up                           209
+Wokingham         2 - Down                         273
+Wool              1 - Up                           123
+Wool              2 - Down                         118
+Woolston          1 - Up                           150
+Woolston          2 - Down                         150
+Worcester Park    1 - Up                           208
+Worcester Park    2 - Down                         206
+Worplesdon        1 - Up                           246
+Worplesdon        2 - Down                         246
+Wraysbury         1 - Up                           172
+Wraysbury         2 - Down                         166
+
+Yeovil Junction   1 - Up Passenger Loop            185       Down direction
+Yeovil Junction   1 - Up Passenger Loop            153       Up direction
+Yeovil Junction   2 - Down                         160       Down direction.
+Yeovil Junction   2 - Down                         152       Up direction
+Yeovil Pen Mill   1 - Crossing Loop in Single      175       Down direction
+                  Line
+Yeovil Pen Mill   1 - Crossing Loop in Single      189       Up direction
+                  Line
+Yeovil Pen Mill   2 - Crossing Loop in Single      163       Down direction
+                  Line
+Yeovil Pen Mill   2 - Crossing Loop in Single      163       Up direction
+                  Line
+Yeovil Pen Mill   3 - Single                       162       Down direction only
+Yetminster        Single                            93       Down direction
+Yetminster        Single                            93       Up direction
+
+
+
+
+                       Electronic copy - uncontrolled when printed.

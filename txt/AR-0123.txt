@@ -1,0 +1,63 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                         Timetable Planning Rules                       Version:   4.1
+Anglia                Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                       Date:
+                                                2024                                           2023
+                                                                                       Page:   120 of 183
+
+Littleport
+
+Restriction
+Down direction trains which exceed the platform length (167m) must not be held in the station for pathing
+purposes. Trains no longer than 300m in length may be held at Littleport Signal L22 instead. Trains longer than
+300m in length must be held at Littleport Signal L24. This is due to the risk of fouling the level crossing
+immediately south of Littleport station.
+
+
+Littleport Signal L22
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Pass/arrive Littleport from King’s Lynn           Depart to King’s Lynn                              1
+
+
+Downham Market
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Pass / arrive from Ely                            Depart to Ely                                      1
+Pass / arrive from Ely                            Pass to Ely                                        2
+Arrive / pass Littleport from Downham Market      Depart / pass Downham Market towards               Same time (0)
+                                                  Littleport
+
+
+Watlington Signal MR2
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Pass/arrive Watlington from King’s Lynn           Depart towards King’s Lynn not stopping at         Simultaneous
+                                                  Watlington
+
+
+Watlington
+
+Junction Margins
+First Movement                                    Second Movement                                    Margin
+Pass/arrive from King’s Lynn                      Depart to King’s Lynn                              1
+Pass/arrive from King’s Lynn                      Pass to King’s Lynn                                2
+
+Restriction
+Trains to be held at Watlington Signal MR2 instead of Watlington if dwell longer than one minute is required for
+pathing purposes. This is due to level crossing risk at Watlington.
+
+
+King’s Lynn Stabling Siding
+
+Length Limit                                                                                         188m
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,65 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                     Page:    427 of 443
+
+
+NW8015 BIDSTON EAST JN TO NEW BRIGHTON (NEW BRIGHTON LINES)
+Timing Section                       Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching New Brighton             P       1                      Only applies to Merseyrail Electrics Class
+                                                                    2 services
+
+
+NW9001 DORE WEST JN TO EDGELEY JN NO.1 (HOPE VALLEY LINES)
+NW9001 EARLES SIDINGS (INCL.) TO EDGELEY JN NO.1
+Timing Section                       Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching Earles Sidings SB        E       1
+Approaching Hazel Grove High         E       1
+Level Jn
+Approaching Hazel Grove High         P       1
+Level Jn
+
+Up – Daily
+Approaching Chinley North Jn         E       1*                     *Does not apply to trains routed from New
+                                                                    Mills Central towards Chinley South Jn
+Approaching Totley Tunnel East       E       3£                     £ 2 185 2½ Class 2 stopping trains
+
+
+NW9021 BUXTON TO HAZEL GROVE EAST JN
+Timing Section                       Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching Hazel Grove              E       2
+
+Up – Daily
+Approaching Buxton                   E       2
+
+
+NW9901 GARGRAVE TO CARLISLE SOUTH JN
+Timing Section                       Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching Petteril Bridge Jn       E       2                      Allowance increased to 17 minutes for all
+                                                                    traction types during the times when
+                                                                    S.L.W. is required - refer to Engineering
+                                                                    Access Statement for more details
+
+Up – Daily
+Approaching Settle Jn                E       15                     Only applies during the times when S.L.W.
+                                                                    is required refer to Engineering Access
+                                                                    Statement for more details
+
+
+NW9903 SETTLE JN TO CARNFORTH STATION JN
+Timing Section                       Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching Carnforth                E       2
+
+
+
+                               Electronic copy - uncontrolled when printed

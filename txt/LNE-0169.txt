@@ -1,0 +1,64 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+London North Eastern                    Revised Final Rules for                      Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                  Page: 166 of 368
+
+
+Temple Hirst Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Pass to Selby                                   Deceleration                                     ½ for timing
+                                                                                                 loads above
+                                                                                                 100mph
+Movement Up                                     Reason                                           Value
+Pass from Selby                                 Acceleration                                     ½ for trains
+                                                                                                 above
+                                                                                                 100mph
+
+                                                                                                 Applied
+                                                                                                 approaching
+                                                                                                 next timing
+                                                                                                 point
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Pass to Selby                                      Up Pass                                         3½
+Pass to Selby                                      Down Pass                                       3
+Pass to Selby                                      Pass from Selby                                 4
+Up Pass                                            Pass to Selby                                   3½*
+Pass from Selby                                    Pass to Selby                                   3*
+* Can be reduced by ½ if the second train has at least 1 minute of pathing time approaching Temple Hirst
+
+
+Hambleton South Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                           Value
+Pass to Hambleton West, if stopping at          Approach control                                 1
+Hambleton West.
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Down ML train pass Hambleton North Junction     Pass Hambleton South Junction from               4*
+                                                Hambleton West Junction
+Pass Hambleton South Junction to Hambleton      Down ML pass Hambleton North Junction            4
+West Junction
+Pass Hambleton South Junction from              Down ML train pass Hambleton North Junction      4
+Hambleton West Junction
+Up ML train passes Hambleton North Junction      Pass Hambleton South Junction from              5$
+                                                 Hambleton West Junction
+*1 minute if second train stopped at Hambleton South Junction
+$2 if second train stopped at Hambleton South Junction
+
+
+
+
+Hambleton North Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                   Reason                                       Value
+Pass from Hambleton East Junction               Acceleration                                 ½ passenger*
+
+                                                                                             Freight
+                                                                                             ½ 400t to 800t
+                                  Electronic copy - uncontrolled when printed.

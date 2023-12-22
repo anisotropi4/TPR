@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                       Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                     Date:
+                                               2024                                           2023
+                                                                                     Page:    89 of 183
+
+Shenfield
+
+Class 6 under 600t                             Speed Differential                                  {1}
+Class 6 600t to 1600t inclusive                Speed Differential                                  {1½}
+Class 6 over 1600t                             Speed Differential                                  {2}
+Class 4 under 600t                             Speed Differential                                  {1}
+Class 4 600t to 799t inclusive                 Speed Differential                                  {1½}
+Class 4 800t to 1000t inclusive                Speed Differential                                  {2}
+Class 4 over 1000t                             Speed Differential                                  {2½}
+
+Adjustments to Sectional Running Times
+Approaching Up direction moves for non-stop trains from Chelmsford direction crossing to EL or Up Passenger
+Loop at Shenfield
+Movement                                       Reason                                             Allowance
+Up Freight Trains                              Speed differential                                 {1½}
+
+Connectional Allowance                                                                             3
+
+Dwell Time                                     1 Peak time only
+                                               1 Class 745/755 operated services
+
+Junction Margins
+First Movement                                 Second Movement                                     Margin
+Arrival                                        Conflicting departure                               1
+Passenger passing move                         Conflicting departure                               1
+Freight passing move                           Conflicting departure                               2
+Up departure to EL                             Conflicting pass or arrival                         3
+
+Overlap Restrictions
+First Movement                                 Second Movement                                     Margin
+Up departure from platform 1 to ML or EL       Up arrival into platform 2                          2
+Via 2265 Points
+Up arrival into platform 2                     Up departure from platform 1 to ML or EL Via        1
+                                               2265 Points
+
+
+Chelmsford
+
+Adjustments to Sectional Running Times
+Movement                                         Reason                                            Value
+Down direction non-stop moves to Chelmsford      Slow speed crossover into loop                    {1}
+Down Loop
+Up direction non-stop moves from Chelmsford      Slow speed exit from loop                         {1}
+Reception or Chelmsford Down Loop                                                                  approaching
+                                                                                                   next timing
+                                                                                                   point
+Up direction passenger trains from Chelmsford   Speed differential                                 {½}
+platform 2                                                                                         approaching
+                                                                                                   next timing
+                                                                                                   point
+Note that these allowances must be added to any other adjustment allowances required in this section, e.g. for
+crossing movements at Shenfield.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

@@ -1,0 +1,64 @@
+                                                       OFFICIAL
+
+NETWORK RAIL                           Timetable Planning Rules 2024                   Version:   4.1
+Western + Wales            Final Principal and Preliminary Proposal for Subsidiary
+                                                               OFFICIAL                  Date:    6th October 2023
+                                           Change Timetable 2024                         Page:    62 of 289
+
+
+
+GW930 CARMARTHEN STATION TO CARMARTHEN JUNCTION
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Carmarthen                             –           –                     Platform detail must be shown
+                                                                         To/from Carmarthen Bridge Jn – GW940
+Carmarthen Junction                    –           –                     To/from Whitland – GW900
+
+GW940 CARMARTHEN STATION TO CARMARTHEN BRIDGE JUNCTION
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Carmarthen                             –           –                     Platform detail must be shown
+                                                                         To/from Carmarthen Jn – GW930
+Carmarthen Bridge Junction             –           –                     To/from Whitland – GW900
+
+GW950 WHITLAND TO PEMBROKE DOCK
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Whitland                               –           –                     Platform detail must be shown
+                                                                         To/from Carmarthen Bridge Jn /
+                                                                         Carmarthen Jn – GW900
+Whitland Signal W34                    –           –              S
+Narberth                               –           –              S
+Kilgetty                               –           –              S
+Saundersfoot                           –           –              S
+Tenby                                  –           –
+Penally                                –           –              S
+Manorbier                              –           –              S
+Lamphey                                –           –              S
+Pembroke                               –           –              S
+Pembroke Dock                                      –
+
+GW960 CLARBESTON ROAD TO MILFORD HAVEN
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Clarbeston Road Junction                                                 To/from Clarbeston Road – GW900
+Haverfordwest                          –           –                     Platform detail must be shown. Values
+                                                                         which can be shown in the “Platform
+                                                                         Details” field are:
+                                                                         1 – Platform 1 (Up Main)
+                                                                         2 – Platform 2 (Down Main)
+Johnston                               –           –
+Gulf Oil Branch Junction                                                 To/from Waterston – GW970
+Herbrandston Jn                        –           –                     To/from Robeston – GW980
+Milford Haven                                      –
+
+GW970 GULF OIL BRANCH JUNCTION TO WATERSTON GULF OIL REFINERY
+TIMING POINT                           DOWN        UP             CODE   NOTES
+
+Gulf Oil Branch Junction                                                 To/from Johnston – GW960
+Waterston Sidings                                  –
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

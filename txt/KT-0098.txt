@@ -1,0 +1,63 @@
+NETWORK RAIL                               Timetable Planning Rules                        Version: 4.1
+Kent & HS1                                                     OFFICIAL
+                                       Final Proposal for Subsidiary                                 25th August 2023
+                                                                                           Date:
+                                             Timetable 2024                                Page:    94 of 168
+
+
+Faversham
+
+Train departs Platform 4 towards                  Conflicting Up train arrives/passes Platform 2                2
+Canterbury East
+
+Overlap Restrictions
+First Movement                                    Second Movement                          Reason               Margin
+Train departs Platform 1 in the Up direction      Train arrives Up direction into          EK4334 signal        2
+                                                  Platform 2
+Train arrives Up direction into Platform 2        Train departs Platform 1 in the Up       EK4334 signal        2
+                                                  direction
+Train departs Platform 1 towards Herne            Down arrival into Platform 2             EK4337 signal        2
+Bay
+Down arrival into Platform 2                      Train departs Platform 1 towards         EK4337 signal        2
+                                                  Herne Bay
+Depart Platform 2 to Up Sidings                   Down arrival into Platform 1             EK4339 signal        2
+Down arrival into Platform 1                      Depart Platform 2 to Up Sidings          EK4339 signal        2
+
+
+Herne Bay
+
+Platform Reoccupation
+First Movement                                       Second Movement                                       Value
+Up train departing from Platform 2                   Down train arriving into Platform 2                   4
+
+
+Margate
+
+Berthing Facilities
+Location                                             Cars                                                  Notes
+Up Bay (Platform 4)                                  12
+
+Connectional Allowance                 4
+
+Dwell Time
+All Services                           1
+
+Permissive Working for attaching/detaching and platform sharing is authorised as shown below:
+Platform 1            Down Thanet                     Detaching only, platform sharing prohibited in both directions
+Platform 2            Down Passenger Loop             Detaching only, platform sharing prohibited in both directions
+Platform 3            Up Thanet                       Prohibited
+Platform 4            Up Bay                          Attaching & detaching, platform sharing permitted
+
+
+Ramsgate
+
+Adjustments to Sectional Running Times
+Movement Down                                        Reason                                                Value
+12 Car electric trains from Deal towards             Voltage drop in power supply                          1
+Ramsgate
+
+Berthing Facilities
+Location                             Cars                   Notes
+
+
+                                      Electronic copy - uncontrolled when printed

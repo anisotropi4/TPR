@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024            Date:    28th July 2023
+West and Central
+                                                                                         Page:    367 of 443
+
+Overlap Restriction – Buxton SB to Great Rocks Jn
+A train cannot depart Buxton URS towards Great Rocks Jn if there is a conflicting move at Great Rocks Jn due to
+the overlap on signal GR13 at Great Rocks Jn. This is accounted for in the junction margins above.
+Once a train has departed Buxton SB towards Great Rocks Jn, no other conflicting move can occur at Great
+Rocks Jn. Refer to Great Rocks Jn entry for details.
+
+
+NW9901 GARGRAVE TO CARLISLE SOUTH JN
+
+Hellifield
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+Non-stop trains approaching Hellifield on Up      Approach to 15mph crossover                        2
+Main routed via Up Branch
+
+Dwell Time
+LH/HST                               2
+All other                            1
+
+
+Long Preston
+
+Dwell Time
+LH/HST                               2
+All other                            1 Sundays Only
+
+
+Settle Jn
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                             Value
+Approaching Settle Jn trains on Down Main         Acceleration away from 15mph junction              1
+having joined from Down Branch at Hellifield.
+This applies only to trains that are non-stop
+through Hellifield.
+Trains joining Up Main line from Giggleswick.     Acceleration away from 15mph junction              1
+Adjustment after Settle Jn.
+Trains joining line to Giggleswick from Down      Deceleration to 15mph junction                     ½
+Main line. Adjustment approaching Settle Jn
+
+Junction Margins
+Train movement crossing to Up Main line from Giggleswick
+Train cannot depart from Hellifield on Down Main line until 2 minutes after first movement has cleared Settle Jn
+
+
+Settle
+
+Dwell Time
+LH/HST                               2
+All other                            1 Except
+                                     09.30 - 12.00 towards Horton-in-Ribblesdale and 15.30 - 18.30 towards
+                                     Settle Jn when 2 applies
+
+
+
+
+                              Electronic copy - uncontrolled when printed

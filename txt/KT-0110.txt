@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                  Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                           25th August 2023
+                                                                                   Date:
+                                          Timetable 2024                           Page:     106 of 168
+
+
+ Orpington
+
+ Permissive Working for attaching/detaching and platform sharing is authorised as shown below:
+ Platform 1            Up Bay               Attaching/Detaching and Platform Sharing
+ Platform 2            Up Fast              Attaching/Detaching in Up direction ONLY
+ Platform 3            Down Fast            Attaching/Detaching in Both directions
+ Platform 4            Up Slow              Attaching/Detaching in Both directions
+ Platform 5            Down Slow            Attaching/Detaching in Both directions
+ Platform 6            Down Bay             Attaching/Detaching and Platform Sharing
+ Platform 7            Down Bay             Attaching/Detaching and Platform Sharing
+ Platform 8            Down Bay             Attaching/Detaching and Platform Sharing
+
+ Planning Note
+ Passenger trains from Down Slow do not require any adjustment as this is included in the SRT
+ All trains to / from the Carriage Sidings must be planned to stop at Orpington
+
+
+Sevenoaks
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                          Value
+Arrive/Pass Platform 2 or 4 from Orpington        Approach Control                ½
+Pass from Otford Jn                               Acceleration                    1* Passenger
+                                                                                  1 Class 4 400T or less
+                                                                                  1½* Class 4 600T-800T
+                                                                                  2* Class 4 1000T or greater
+                                                                                  ½* Class 6 800T or less
+                                                                                  1* Class 6 1000T-1400T
+                                                                                  1½* Class 6 1600T-2000T
+                                                                                  2* Class 6 2200T or greater
+*Applied approaching next timing point
+
+Movement Up                                       Reason                          Value
+Trains from Tonbridge routed into Platform 2      Approach Control                1
+Trains from Tonbridge routed into Platform 3      Approach Control                2
+
+Berthing Facilities
+Location                                          Cars                            Notes
+Down Siding                                       12
+Gusset*                                           6                               See Berthing Restrictions
+                                                                                  below
+Platform 4                                        12                              Only applies when Down
+                                                                                  Sidings and Gusset are
+                                                                                  required for maintenance
+                                                                                  activities (only classes 700,
+                                                                                  375, 376, 377, 378 & 395
+                                                                                  multiple units)
+                                                                                  Subject to Sectional Appendix
+                                                                                  conditions
+
+Connectional Allowance      4
+
+Berthing Planning Restrictions
+*When an 8 car train longer than 6 cars is stabled on the Sevenoaks Gusset, there is no access available to/from
+Sevenoaks CHS due to the stabled train fouling 1078 crossover.
+                                   Electronic copy - uncontrolled when printed

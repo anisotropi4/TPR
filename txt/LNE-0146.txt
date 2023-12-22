@@ -1,0 +1,60 @@
+NETWORK RAIL                          Timetable Planning Rules                       Version: 4.1
+London North Eastern                    Revised Final Rules for                        Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                    Page: 143 of 368
+
+
+
+
+Newark Flat Crossing
+
+Adjustment to Sectional Running Time
+Movement Down                                     Reason                                     Value
+Down Main pass (having stopped at Newark          Acceleration – to be applied approaching   ½ 180/80x/91
+Northgate)                                        Carlton-on-Trent Loops
+
+Movement Up                                       Reason                                     Value
+Up Main pass towards Newark Northgate             Deceleration – to be applied approaching   ½ 180/80x/91
+(stopping at Newark Northgate)                    Newark Flat Crossing
+
+Junction Margins
+First Movement                                    Second Movement                            Margin
+Pass to/from Newark Castle                        Down ECML pass                             3
+Pass to/from Newark Castle                        Up ECML pass (not calling at Newark        3
+                                                  Northgate)
+Pass to/from Newark Castle                        Up ECML pass (calling at Newark            3½
+                                                  Northgate)
+Pass ECML                                         Pass to/from Newark Castle                 2½*
+*Margin calculated based on restrictive aspects for second movement
+
+
+Carlton Loops
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Down Main pass Carlton Loops                      Depart Loop                                      1½
+Up Main pass Carlton Loops                        Depart Loop                                      1½
+
+
+Retford High Level
+
+Adjustment to Sectional Running Time
+Movement                                          Reason                                      Value
+Newark Flat Crossing/Carlton Loop to Retford      Not at linespeed passing Retford            2 approaching
+to Thrumpton West Jn (not stopping at Retford)                                                Retford
+Thrumpton West Jn to Retford to Newark Flat       Not at linespeed passing Retford            2 after Retford
+Crossing/Carlton Loop (not stopping at Retford)
+Down freight trains to Babworth loop              Slow Speed Crossover                        2 approaching
+                                                                                              Retford
+Up Passenger to Platform 2                        Differential junction speed                 1½ approaching
+                                                                                              Retford
+
+Connectional Allowance              10
+
+Dwell Time
+LH/802                              1½
+LNER all services                   2 – May be reduced to 1½ with prior agreement from the operator
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

@@ -1,0 +1,65 @@
+NETWORK RAIL                               Timetable Planning Rules                    Version:   4.3
+Route: Sussex                              Final Rules for Subsidiary                  Date:      18th October 2023
+                                                 Timetable 2024 OFFICIAL
+                                                                                       Page:      107 of 163
+
+Norwood Fork Junction
+Pathing time or other allowances should not exceed 1 minute for trains up to 164 metres in length. Trains longer
+than 164 metres should be planned without pathing time between Windmill Bridge Junction and Norwood Fork
+Junction. A planned stop at either Norwood Fork Junction or Windmill Bridge Junction where pathing time or
+allowances would otherwise exceed 1 minute is inappropriate given the congested nature of the network at this
+point.
+Pathing time or other allowances must not be placed between Gloucester Road Junction and Norwood Fork
+Junction in the Up direction due to the risk of trains standing at signal T24 fouling Gloucester Road Junction
+
+
+Gloucester Road Junction
+
+Length Restriction
+A train exceeding 153m/24SLU in length will foul Selhurst Junction when standing at T73 on the Down Selhurst
+Spur
+Therefore, junction margins must be based on trains’ departure time at Gloucester Road Junction
+
+Planning Restrictions
+Pathing time or other allowances must not be placed between Gloucester Road Junction and Norwood Fork
+Junction in the Up direction due to the risk of trains standing at signal T24 fouling Gloucester Road Junction
+
+
+West Croydon
+
+Adjustment to Sectional Running Times
+Movement                                              Reason                            Value
+All movements into Platform 1                         Approach Control on signal        {½}
+                                                      T37
+Up train arrive/pass platform 3 within 3 minutes      Approach control on signal        {1}
+of an arrival into/departure from platform 1          T36 and overlap on signal T30
+West Croydon Turnback Siding                          Operation of 8* and 10 car        {1} between West Croydon
+                                                      trains                            and Turnback Siding in both
+                                                                                        directions (excluding ARL
+                                                                                        services)
+
+Berthing Facilities
+                                       Cars                           Notes
+Platform 1 (Up Bay)                    10                             Two 5-car trains to attach or one 10-car to split
+Oakfield siding                        8                              Not to be used without prior arrangement
+Centre Turnback Siding                 10
+
+Connectional Allowances
+All Services                           4
+
+Dwell Times
+All Services                           1
+
+Junction Margins
+First Movement                                           Second Movement                                      Margin
+Down train arriving in Bay Platform 1                    Up train departing Platform 3                        1**
+Up train departing Platform 3                            Down train arriving in Bay Platform 1                3
+** Note that the {1} for approach control is in addition to the margin between the arrival of a train in Platform 1 and
+departure from Platform 3
+
+Permissive Working
+
+
+
+
+                                 Electronic copy - uncontrolled when printed

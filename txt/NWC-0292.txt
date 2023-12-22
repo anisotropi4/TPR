@@ -1,0 +1,56 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024             Date:    28th July 2023
+West and Central
+                                                                                          Page:    280 of 443
+
+M.S.C. Sidings
+
+Operating Restriction
+A maximum of 3 trains at once can be accommodated and successively run-round within the MSC Sidings.
+
+Run-round Allowance
+20 minutes for MGR trains to/from Fiddlers Ferry which arrive/depart with the same locomotive.
+
+
+Walton Old Jn
+
+Junction Margins
+First Movement                                     Second Movement                                    Margin
+Departure                                          Departure                                          5
+Arrival                                            Arrival                                            5
+Departure                                          Arrival                                            10
+Arrival                                            Departure                                          10
+
+
+Arpley Sidings
+
+Junction Margins
+First Movement                                        Second Movement                                   Margin
+Arrive from the North                                 Arrive from the North                             20 *
+Arrive from the South                                 Arrive from the South                             20 *
+Arrive from the North                                 Arrive from the South                             20 *
+Arrive from the South                                 Arrive from the North                             20 *
+Depart to the North via the Bank                      Depart to the North via the Bank                  10 *
+* Certain services may require a longer interval before a following arrival/departure due to their length. DB Cargo
+will maintain a list of these services, ensuring that the bids are compliant and advise NWR accordingly.
+Depart to the North via the Bank                      Arrive from the North via the Bank                10
+Arrive from the North via the Bank                    Depart to the North via the Bank                  5
+Arrive from the South                                 Depart to the South                               5
+Depart to the South                                   Arrive from the South                             10
+Arrive from Arpley Jn.                                Depart to Arpley Jn.                              5
+Depart to Arpley Jn.                                  Arrive from Arpley Jn.                            10
+Depart to Arpley Jn.                                  Depart to Arpley Jn.                              25 #
+Arrive from Arpley Jn.                                Arrive from Arpley Jn.                            25 #
+# Reduced 10 minutes if one move is LD.
+
+
+NW1021 WINWICK JN TO GOLBORNE JN (VIA EARLESTOWN)
+
+Winwick Jn
+
+Refer to route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+
+
+
+
+                              Electronic copy - uncontrolled when printed

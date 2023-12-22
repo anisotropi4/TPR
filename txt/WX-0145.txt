@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                   Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                Date:    27th October 2023
+                                            Timetable 2024                          Page:    143 of 178
+
+SW210 CLAPHAM JUNCTION TO READING (VIA RICHMOND)
+
+Clapham Junction
+
+See entry under route – SW100 and also Adjustments to Sectional Running Times below
+
+Adjustment to Sectional Running Times
+
+For all freight timing loads in the Up Direction on Fast Line or Slow Line
+Movement                                         Reason                                        Value
+Trains passing towards Latchmere Junction or     Speed Differential                            {1}
+Longhedge Junction
+
+
+Point Pleasant Junction
+
+Junction Margins
+First Movement                                    Second Movement                              Margin
+Between all movements except as below                                                          3
+Down Windsor Line service                         Up train from East Putney                    2
+
+
+Putney
+
+Connectional Allowances
+All Services                         5
+
+Dwell Times
+All Services                         1
+
+
+Barnes
+
+Adjustment to Sectional Running Times
+Movement                                          Reason                                       Value
+Down passenger trains passing towards             Speed Differential                           {½}
+Barnes Bridge
+Down freight passing towards Barnes Bridge        Speed Differential                           {1}
+Up passenger trains passing from Barnes           Speed Differential                           {½}*
+Bridge
+* This allowance should appear in the section from Barnes
+
+Adjustments to Sectional Running Times for up freight trains passing from Barnes Bridge. Allowances
+should be applied at the next timing point after Barnes.
+Train Class     Trailing Load                           Reason                              Value
+Class 6 and 7   801 – 1200t         TR40 – TR70         Speed Differential                  {½}
+                1201 – 2000t        TR85 – TR115        Speed Differential                  {1}
+                2001 – 2400t        TR130 – TR145       Speed Differential                  {1½}
+Class 4         Under 1200t         TR30 – TR70         Speed Differential                  {1}
+                1201 – 1600t        TR80 – TR90         Speed Differential                  {1½}
+
+Junction Margins
+First Movement                                    Second Movement                              Margin
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

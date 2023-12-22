@@ -1,0 +1,62 @@
+NETWORK RAIL                             Timetable Planning Rules                         Version: 4.1
+London North Eastern                       Revised Final Rules for                          Date: 12 October 2023
+                                      Subsidiary Change Timetable 2024                      Page: 233 of 368
+
+
+Gunhouse Loop
+
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+Arrive Loop                                          Stopping depart Althorpe                         4
+Arrive Loop                                          Non-stop arrives Scunthorpe                      8
+Stopping service depart Althorpe                     Depart Loop                                      3
+Depart Loop                                          Non-stop arrives Scunthorpe                      Same time
+
+
+Thorne Junction
+
+Adjustments to Sectional Running Times
+Movement Up                                          Reason                                           Value
+Train from Up Slow Line. Approaching Crowle          Differential Junction Speed                      1
+
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+Pass to Hull                                         Pass from Hull                                   4
+Pass from Hull                                       Pass to Hull/Cleethorpes                         4*
+Pass to Cleethorpes                                  Pass from Hull                                   3
+Pass from Cleethorpes                                Pass from Hull if calling at Hatfield and        3
+                                                     Stainforth
+* May be reduced to 3 if the service calls at Hatfield and Stainforth
+
+
+Hatfield Colliery
+
+Operating Restriction
+Only one train can be accommodated in the colliery at once. Trains can depart the colliery in the Down direction
+on the Up Slow Line or the Down Fast Line
+
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+Depart Colliery                                      Pass Hatfield & Stainforth on Up Fast/Up Slow    8
+Depart Colliery                                      Arrive Colliery                                  20
+
+
+Hatfield and Stainforth
+
+Adjustments to Sectional Running Times
+Movement Up                                          Reason                                           Value
+Trains from Applehurst Jn. to Up Slow Line           Acceleration                                     1
+Approaching Thorne Jn
+Trains from Applehurst Jn. to Up Fast Line           Acceleration                                     2
+Approaching Thorne Jn.
+
+Junction Margins
+First Movement                                       Second Movement                                  Margin
+Pass to Branch                                       Pass/Arrive from Doncaster                       4
+Pass/Arrive from Doncaster                           Pass to Branch                                   2½
+Pass to Branch                                       Arrive from Thorne                               3
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

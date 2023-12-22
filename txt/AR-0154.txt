@@ -1,0 +1,70 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                     Version:     4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                    Date:
+                                               2024                                           2023
+                                                                                   Page:      151 of 183
+
+EA1540 CHIPPENHAM JUNCTION TO ELY DOCK JUNCTION
+
+Snailwell
+
+Terminal Length
+Reception                                                                                          60 SLUs
+
+
+Soham
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Pass/Depart Soham to Chippenham Junction         Pass Soham/Arrive Soham from Chippenham           2½
+                                                 Junction (not timed at Soham Junction Signal
+                                                 CA491)
+Passenger Pass/Depart Soham to Chippenham        Depart Soham Junction Signal CA491 to Ely         1
+Junction                                         Dock Junction
+Freight Pass Soham to Chippenham Junction        Depart Soham Junction Signal CA491 to Ely         1½
+                                                 Dock Junction
+
+
+EA1560 ELY NORTH JUNCTION TO KINGS DYKE (INCLUSIVE)
+
+Ely West Junction
+
+Junction Margins
+First Movement                                   Second Movement                                   Margin
+Pass Ely West Junction onto the Ely West         Pass Ely North Junction towards Peterborough      3
+Curve
+Passenger pass Ely North Junction towards        Pass Ely West Junction onto the Ely West          2
+Peterborough                                     Curve
+Freight pass Ely North Junction towards          Pass Ely West Junction onto the Ely West          3
+Peterborough                                     Curve
+
+
+Manea
+
+Dwell Time                                       1 GA
+
+
+March
+
+Adjustments to Sectional Running Times
+Movement Down                      Reason                                  Value
+Trains via Platform 2 pass towards Approach control and via slow           All timing loads        {½}
+Whitemoor                          speed crossover
+
+Movement Up                           Reason                               Value*
+Class 4 freight pass from Whitemoor   Acceleration                         up to 600t              {1½}
+towards Ely                                                                800t to 1600t           {2½}
+                                                                           1800t and over          {3}
+Class 6 freight pass from Whitemoor Acceleration                           up to 600t              {1½}
+towards Ely                                                                800t and over           {2}
+*Allowance to be applied approaching next timing point
+
+Advertised Time Changes
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

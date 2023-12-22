@@ -1,0 +1,65 @@
+NETWORK RAIL                           Timetable Planning Rules                         Version:   4.2
+Route: Wessex                      Final Rules for Subsidiary OFFICIAL
+                                                              Change                      Date:    27th October 2023
+                                            Timetable 2024                                Page:    101 of 178
+
+Southampton Central
+All Services                          2
+
+Junction Margins
+First Movement                                     Second Movement                                      Margin
+Between all movements except as below                                                                   3
+Up freight crossing to Up Main at London end of    Conflicting Down Arrival                             4^
+Southampton Central
+Up freight crossing from Down Fast/Down Loop       Conflicting Up Arrival                               4
+at country end of Southampton Central
+Up Freight crossing from Down Fast/Down Loop       Up train arriving into same platform                 4½ ^
+Up Freight from Down Fast or Down Loop             Up departure towards Northam Junction                4½ $
+passes Southampton towards Northam Junction
+Down Freight passing Platform 4 towards Down       Down Arrival into Platform 4                         4
+Loop
+Train passes/departs to Down Loop                  Up train arrives/passes Southampton Central          6
+                                                   from Millbrook via Down Fast
+Down Freight to Millbrook FLT via Up Fast from     Up train arrives/passes from Up Slow                 6
+Platforms 2-4
+Down train passes/departs Southampton                 Conflicting Up train departs Down Loop towards    2
+Central                                               Southampton Central
+Train arrives/passes Southampton Central              Departures crossing behind                        1*
+* 2 minutes if the first movement is a freight service
+$ 3 minutes if the second train has {1½} approaching Northam Junction.
+^ Increase margin by ½ minute if first train longer than 97 SLU / 620m.
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1      Up Fast                    (Both directions)          Attaching/Detaching
+Platform 2      Up Slow                    (Both directions)          Attaching/Detaching and Platform Sharing *
+Platform 3      Down Slow                  (Both directions)          Attaching/Detaching and Platform Sharing *
+Platform 4      Down Fast                  (Both directions)          Attaching/Detaching
+* A second train must arrive in an occupied Platform before the first train is allowed to depart
+
+Simultaneous moves not permitted
+Down Train departing from Platform 4 to the Down         Down Train arriving at Platform 3
+Slow
+Down Train departing Platforms 2/3/4/Bay to the Up       Up Train approaching E744 signal from Millbrook
+Goods Loop/Up Fast or Up Train arriving Platforms
+2/3/4/Bay from Up Goods Loop/Up Fast
+Down Train departing Platforms 1/2/3/4/Bay to the Up     Up Train approaching E746 signal from Millbrook
+Goods Loop or Up Train arriving Platforms 1/2/3/4
+from the Up Goods Loop
+Up Train from Down Loop/Down Fast/Down Slow/Up           Down Train arriving in Platform 2
+Slow to Platform 1
+Down Train from Platform 1 to Down Slow/Down             Down Train arriving in Platform 2
+Fast/Down Loop
+Train arriving bay Platform from Up Slow/Up Fast/Up      Down Train arriving in Platforms 3 and 4
+Goods Line
+Train departing bay Platform to Down Fast Line           Down Train arriving Platform 4 (only conflicts if there is
+                                                         also an up or down arrival into Platform 3 or a down
+                                                         departure from platform 3)
+Train departing bay Platform to Down Slow Line           Down Train arriving in Platforms 3 and 4
+
+Up Train arriving Platform 3                             Up Train departing Platform 4
+
+Up Train arriving Platform 1 and Down Train arriving     Up Train departing Platform 2
+Platform 3
+
+                                    Electronic copy - uncontrolled when printed.

@@ -1,0 +1,63 @@
+NETWORK RAIL                             Timetable Planning Rules                        Version:    4.2
+Route: Wessex                        Final Rules for Subsidiary OFFICIAL
+                                                                Change                     Date:     27th October 2023
+                                              Timetable 2024                               Page:     79 of 178
+
+Vauxhall
+Between all movements                                                                         2
+When a movement is taking place from the Down Windsor Fast or Slow Lines to the Down Windsor Line via 1778
+points at Nine Elms Junction no movement is permitted beyond Signal W89 on the Down Windsor Fast Line or
+beyond Signal W87 on the Down Windsor Slow Line at Vauxhall.
+
+
+Nine Elms Junction
+
+Junction Margins
+First Movement                                      Second Movement                                     Margin
+Between all movements except as below                                                                   2
+Down Service crossing from the Windsor                                                                  3
+Reversible to the Down Waterloo Curve and Up
+Service crossing from the Up Waterloo Curve
+to the Windsor Reversible
+
+
+Queenstown Road
+
+Junction Margins
+First Movement                                      Second Movement                                     Margin
+Between all movements                                                                                   2
+
+Simultaneous Moves Not Permitted
+Up train crossing from Up Main Fast/Up Main         Down train arriving Platform 3
+Slow to Platform 2
+Down train from Platform 2 to Down Main Slow/       Down train arriving Platform 3
+Down Main Fast/Down Windsor Slow
+
+Planning Note
+10 car trains must not be planned to reverse in Platform 2, due to signal sighting issues for signals at either end of
+the platform.
+
+
+Clapham Yard
+
+Acceptance of Trains
+                                                                                                        Margin
+Between any two arrivals via the same                                                                   5
+entrance except as below:
+Between consecutive arrivals from Up Main                                                               10
+Lines
+Between consecutive arrivals from Up Windsor                                                            10
+Lines
+Dispatch of Trains
+                                                                                                     Margin
+Via Up Main Fast Line                                                                                5
+Via Down Main Lines                                                                                  10
+Via Up Windsor Lines                                                                                 5
+Via Down Windsor Lines                              subject to two departures every 10 minutes       5
+Electric trains entering/exiting Clapham Yard via the ladder to/from the Up Windsor Lines must be formed of at
+least 6 cars, owing to risk caused by gaps in the conductor rail.
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

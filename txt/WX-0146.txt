@@ -1,0 +1,65 @@
+NETWORK RAIL                             Timetable Planning Rules                      Version:   4.2
+Route: Wessex                        Final Rules for Subsidiary OFFICIAL
+                                                                Change                   Date:    27th October 2023
+                                              Timetable 2024                             Page:    144 of 178
+
+Barnes
+Between all movements except as below                                                               2½
+Up Richmond train                                  Down passing service to Hounslow                 1½
+Up Richmond train                                  Down starting service to Hounslow                1
+
+Overlap Restrictions
+First Movement                               Second Movement                           Signal        Margin
+Up train departs/passes Platform 1           Up train arrives at Platform 2            W520          2½
+towards Up Fast
+Up train arrives at Platform 2               Up train passes Platform 1 towards Up     W520          2½
+                                             Fast
+Up train arrives at Platform 2               Up train departs Platform 1 towards Up    W520          1
+                                             Fast
+Down train departs/passes Platform 4         Down train arrives at Platform 3          W525          2½
+towards Barnes Bridge
+Down train arrives at Platform 3             Down train passes Platform 4 towards      W525          2½
+                                             Barnes Bridge
+Down train arrives at Platform 3             Down train departs Platform 4 towards     W525          1
+                                             Barnes Bridge
+
+Terminating Trains Procedure
+Barnes Junction allows trains to be terminated on the Up Lines and sent back towards Richmond or towards
+Hounslow.
+Up train via Richmond and forming a Down train towards Richmond
+Train runs into either Up Platform at Barnes but Platform 2 retains the most flexibility.
+The driver will change ends and inform the signaller when ready to proceed, who will then set the route and clear
+the signal. The signaller will clear the signal (either W529 or W527 whichever is appropriate) and route the train
+over Vine Road (Richmond Line) crossing and 2589 points onto the Down Richmond Line.
+Up train via Hounslow and forming a Down train towards Hounslow
+Train runs into either Up Platform at Barnes but Platform 2 retains the most operating flexibility
+The driver will then change ends and inform the signaller when ready to proceed, who will then set the route and
+clear the signal
+The train is routed onto Down Richmond behind shunt signal W1090 and is brought to a stand
+The driver will again change ends and inform the signaller when ready to proceed
+Shunt signal W1090 will then be cleared and the train routed over Vine Road (Richmond Line) CCTV level
+crossing to LOS signal W1092 (platform 4)
+The driver will again change ends and inform the signaller when ready to proceed
+The signaller will signal W523 and route the train over Vine Road crossing (Hounslow Line) to the Down Hounslow
+Line
+
+
+Richmond
+
+Dwell Times
+All Services                            1
+
+
+St Margarets
+
+Junction Margins
+First Movement                                      Second Movement                                 Margin
+Up train arrives/passes Platform 2                  Down train crossing to Up Twickenham            1
+Up train passes from Up Loop to Richmond            Up train passes/arrives from Up Twickenham      3
+
+Simultaneous Moves Not Permitted
+Up train departs/passes Platform 1 towards          Up train arrives platform 2 from Twickenham
+Richmond
+
+
+                                     Electronic copy - uncontrolled when printed.

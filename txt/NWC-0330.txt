@@ -1,0 +1,66 @@
+NETWORK RAIL                           Timetable Planning Rules                       Version:      4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024           Date:       28th July 2023
+West and Central
+                                                                                           Page:    318 of 443
+
+
+
+Slade Lane Jn
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                               Value
+Up direction TfW services from Manchester         Running brake test                                   ½
+Piccadilly to Cardiff
+Up trains crossing from Up Fast to Up Slow or     Approach control                                     ½
+Up Styal                                                                                               approaching
+                                                                                                       Slade Lane
+                                                                                                       Jn
+Up trains crossing from Up Slow to Up Fast        Acceleration from slower speed junction              ½ after Slade
+                                                                                                       Lane Jn
+Down Styal to Down Slow or Down Fast              Joining main line at low speed and not reaching      ½ after Slade
+                                                  line speed before decelerating for Ardwick Jn        Lane Jn
+Down Fast to Down Slow                            Approach control                                     ½
+                                                                                                       approaching
+                                                                                                       Slade Lane
+                                                                                                       Jn
+Down Fast to Down Slow                            Joining slow line at low speed and not reaching      ½ after Slade
+                                                  line speed before decelerating for Ardwick           Lane Jn
+                                                  Junction
+Down Slow to Down Fast                            Approach control                                     ½
+                                                                                                       approaching
+                                                                                                       Slade Lane
+                                                                                                       Jn
+Down Slow to Down Fast                            Joining fast line at low speed and not reaching      ½ after Slade
+                                                  line speed before decelerating for Ardwick           Lane Jn*
+                                                  Junction
+Down trains which have stopped at                 Not at line speed                                    ½ after Slade
+Levenshulme or have a minimum of (1)                                                                   Lane Jn*
+approaching Slade Lane Jn
+
+* Only one {½} to be used between Slade Lane Jn and Ardwick Jn
+
+Junction Margins
+Movement                                                                                               Margin
+Conflicting movements, same or opposite direction                                                      2½
+
+Exceptions:
+First Movement                                     Second Movement                                     Margin
+From Up Fast or Up Slow                            Conflicting movement to Down Fast or Down           3$
+                                                   Slow
+From Down Styal to Down Fast                       From Up Fast to Up Styal or from Up Slow to         4
+                                                   any route
+For all margins where the first movement is freight the margin is increased by ½ minute.
+
+$ If the second movement stops at Levenshulme or has a minimum of 1 minute pathing time approaching Slade
+Lane Jn, the Junction Margin is reduced to 2 minutes.
+
+Converging/Diverging Margins:
+First Movement                                      Second Movement                                    Margin
+From Up Fast to Up Slow                             From Up Fast to Up Fast or Up Styal                2½
+From Up Fast to Up Fast                             From Up Slow to Up Fast                            2½
+For all margins where the first movement is freight the margin is increased by ½ minute.
+
+
+
+
+                              Electronic copy - uncontrolled when printed

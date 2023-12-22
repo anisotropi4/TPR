@@ -1,0 +1,70 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                        Version:     4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                     12th September
+                                                                                       Date:
+                                               2024                                              2023
+                                                                                       Page:     110 of 183
+
+Bishop’s Stortford
+
+Other Restrictions
+Due to staggered platforms and the location of the crossover, a train occupying Platform 2 will foul points 2627A
+preventing another train from departing Platform 1 in the Up direction.
+
+
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION
+
+Stansted Mountfitchet
+
+Junction Margins
+First Movement                                    Second Movement                                     Margin
+Down train pass towards Stansted East             Up train pass from Stansted North Junction          3
+Junction
+Down train pass towards Stansted East             Up train arrive from Stansted North Junction        4
+Junction
+Down train depart towards Stansted East           Up train pass from Stansted North Junction          3½
+Junction
+Down train depart towards Stansted East           Up train arrive from Stansted North Junction        4½
+Junction
+Up train pass from Stansted North Junction        Down train pass towards Stansted East               1
+                                                  Junction
+Up train pass from Stansted North Junction        Down train depart towards Stansted East             ½
+                                                  Junction
+Up train arrive from Stansted North Junction      Down train pass towards Stansted East               ½
+                                                  Junction
+Up train arrive from Stansted North Junction      Down train depart towards Stansted East             0
+                                                  Junction
+
+
+Stansted North Junction
+
+Adjustments to Sectional Running Times
+Movement                                          Reason                                              Value
+All trains to Stansted East Junction              Approach control                                    {½}
+All trains from Stansted East Junction            Acceleration                                        {½} after
+                                                                                                      Stansted
+                                                                                                      North Junction
+
+Junction Margins
+Movement                                          Margin
+Fouling move                                      3
+Before divergence of following move               3
+After merge                                       2
+
+
+Audley End
+
+Dwell Time                                                                                            1 AM/PM peak
+
+
+Duxford
+
+Terminal Length
+Reception                                                                                             22 SLUs
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

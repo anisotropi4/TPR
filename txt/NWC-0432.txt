@@ -1,0 +1,61 @@
+NETWORK RAIL                         Timetable Planning Rules                     Version:   4
+Region: North           Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                     Page:   420 of 443
+
+
+NW3023 EDGELEY JN No.2 TO MICKLE TRAFFORD
+Timing Section                      Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching Northwich East Jn       E       1
+Approaching Mickle Trafford         E       1
+
+Up – Daily
+Approaching Altrincham              E       1
+Approaching Edgeley Jn No.2         E       1
+
+
+NW4001 PRESTON RIBBLE JN TO COVE LEVEL CROSSING
+Please refer to line of route NW1001 for Preston Ribble Jn to Preston Fylde Jn
+Please refer to Line of Route SC001 (Scotland Timetable Planning Rules for Gretna Jn to Cove L.C.
+Timing Section                      Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching Lancaster               E       1*                     * Terminating services only
+Approaching Oxenholme Lake          E       1$                     $ For trains to Windermere branch only.
+District                                                           Allowance may be moved to beyond
+                                                                   Oxenholme at timer’s discretion.
+Approaching Tebay                   E       1
+Approaching Carlisle                E       2
+
+Up – Daily
+Approaching Carnforth North Jn      E       1
+(from Oxenholme)
+Approaching Lancaster               E       1                      Only applies to trains originating from
+                                                                   Windermere or Barrow-in-Furness and
+                                                                   terminating at Lancaster or Morecambe
+Approaching Preston Fylde Jn        E       2
+
+
+NW4005 PRESTON FYLDE JN TO BLACKPOOL NORTH
+Timing Section                      Type    FL/ML   SL     GL      Remarks
+
+Down – Daily
+Approaching Blackpool North         E       1
+
+Up – Daily
+Approaching Preston                 E       1
+
+
+NW4011 MORECAMBE SOUTH JN TO MORECAMBE
+Timing Section                      Type    FL/ML   SL     GL      Remarks
+
+Up – Daily
+Approaching Morecambe               E       2                      Only applies to trains originating from
+                                                                   beyond Lancaster
+
+
+
+
+                              Electronic copy - uncontrolled when printed

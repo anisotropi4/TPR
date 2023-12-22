@@ -1,0 +1,64 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version:   4.2
+Route: Wessex                       Final Rules for Subsidiary OFFICIAL
+                                                               Change                     Date:    27th October 2023
+                                             Timetable 2024                               Page:    132 of 178
+
+Bursledon
+
+Dwell Times
+Class 450                             ½
+
+
+Swanwick
+
+Dwell Times
+Class 450                             1
+
+
+Fareham Sidings
+
+Station Working Requirements
+Access is only available by use of a ‘Shunters Release’ which enables Eastleigh Area Signalling centre to set the
+route
+
+Berthing Facilities
+                             Length                                                 Notes
+Siding 1                     Length Limit 36 SLU (230 metres)                       No long term berthing permitted
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Siding 1 (Non Electrified)    Network Siding                                         Attaching/Detaching
+Siding 2 (Non Electrified)    DBS Leased Siding                                               -
+* This is only possible with agreement via the Eastleigh Panel and with the availability of a Shunter on the ground.
+
+
+Fareham
+
+Dwell Times
+All Services                          1
+
+Extract from Sectional Appendix Local Instructions Fareham
+All drivers of terminating trains which require shunting via either the Up Netley or Up Portsmouth lines must
+contact the signaller before any movement is made, even if a signal is already cleared. This is to ensure that the
+signaller is aware of and has a clear understanding of the movement to be made
+
+Junction Margins
+First Movement                                      Second Movement                                  Margin
+Between all movements except as below                                                                3*
+Service arriving from Netley Line                   Departure towards Eastleigh Line                 1
+Note: For Down services of more than 8 coaches, Junction Margins should be applied based on the departure
+from Fareham.
+* It may be necessary to apply additional time for Trains arriving/departing Fareham Siding using Platform 3 to
+reverse as they will need to confirm they are clear of points 590 with Eastleigh Signal Centre.
+
+Overlap Restrictions
+First Movement                                 Second Movement                        Signal         Margin
+Up train arrives at Platform 1                 Up train departs Platform 2 or 3       E810           1
+                                               towards Swanwick/Fareham North
+                                               Junction/E283
+Up train departs Platform 2 or 3 towards       Up train arrives at Platform 1         E810           3
+Swanwick/Fareham North Junction/E283
+Train passes/arrives at Platform 2 or 3 from   Up train arrives at Platform 1         E810           3*
+E283
+
+                                    Electronic copy - uncontrolled when printed.

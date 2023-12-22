@@ -1,0 +1,57 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                Timetable Planning Rules                        Version:   4
+Scotland                       Final Rules for Subsidiary Change Timetable 2024               Date:    28/07/2023
+                                                                                              Page:    140 of 242
+
+Camelon
+
+Connectional Allowance              4
+
+Restriction
+Pathing time must not be used between Camelon and Carmuirs East Junction in either direction, owing to
+signaling constraints.
+
+
+Carmuirs East Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                            Value
+Down trains toward Carmuirs West Junction         Approach control                                  ½
+(not stopping at Camelon)
+
+Movement Up                                       Reason                                            Value
+Up Freight trains from Carmuirs West Junction     Acceleration from slow speed                      ½*
+*Applied approaching next timing point
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Pass to Larbert Junction                          Pass from Carmuirs West Junction                  3*
+Pass to Larbert Junction (Camelon stopping        Pass from Carmuirs West Junction                  3
+service)
+Pass from Carmuirs West Junction                   Pass to Larbert Junction                        4
+Pass from Carmuirs West Junction                   Depart Camelon to Larbert Junction              1
+Pass from Carmuirs West Junction                   Depart Falkirk Grahamston (non stop at          1
+                                                   Camelon) to Larbert Junction
+* 5 minutes for trains with pathing allowance approaching Greenhill Lower or Carmuirs West junctions as they will
+require an approach control aspect at ECL389 signal rather than flashing yellows.
+Restriction
+Reversals should not be planned at Carmuirs East Junction due to the sub-optimal positioning of signal ECL272
+
+
+SC111 NEWBRIDGE JUNCTION TO BATHGATE
+
+Bathgate East Junction
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Up train pass from Down to Up Main from           Down train passes/arrives at Bathgate             5
+Bathgate LMD
+Pass from Sig. EN2031                             Down train departs Livingston North               Same time
+Pass from Sig. EN2031                             Down train passes Uphall                          Same time
+Up train non-stop from Bathgate                   Pass Bathgate East Junction from LMD              6
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

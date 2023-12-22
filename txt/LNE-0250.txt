@@ -1,0 +1,49 @@
+NETWORK RAIL                          Timetable Planning Rules                     Version: 4.1
+London North Eastern                    Revised Final Rules for                      Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                  Page: 247 of 368
+
+
+Masborough Sorting Sidings South Junction/Canklow Loop
+
+Adjustments to Sectional Running Times
+Movement Up                                     Reason                                           Value
+Train to Canklow Loop or stopping on Up line,   Stop at Signal S406 to collect radio then draw   3
+before propelling to Freight Depot              slowly forward
+
+Junction Margins
+First Movement                                  Second Movement                                  Margin
+Down pass Treeton Junction heading towards      Depart FD                                        4
+Masborough Junction
+Down pass Treeton Junction heading towards      Depart Canklow Loop towards FD                   4
+Masborough Junction
+Down pass/Arrive Masborough Junction            Depart Canklow Loop towards Masborough           Same time
+                                                Junction
+Up pass Masborough Junction towards Treeton     Depart FD to Treeton                             4½
+Up pass Masborough Junction towards Treeton     Depart Canklow Loop towards FD or                4
+                                                Masborough Junction
+Depart FD                                       Depart to FD                                     5½
+Depart FD                                       Pass to FD from Treeton                          6½
+Depart FD                                       Down pass Treeton Junction towards               4
+                                                Masborough Junction
+Depart Up Side to FD                            Down pass Treeton Junction towards               3
+                                                Masborough Junction
+Depart Up Side to FD or Masborough Junction     Up pass Masborough Junction towards Treeton      4½
+Arrive Canklow Loop                             Up pass Masborough Junction towards Treeton      1
+Arrive Canklow Loop                             Depart FD to Treeton                             1
+Up pass Masborough Junction towards Treeton     Depart FD to Up Side                             4½
+Junction
+Up pass Treeton Junction                        Up depart Canklow Loop                           1
+
+
+LN807 DORE SOUTH JN TO DORE WEST JN
+
+Dore South Jn
+
+Planning Note
+The standage at Signal S48 (Dore South Jn) on the Dore Single is 552 metres / 86SLUs, clear of Dore West Jn.
+This does not include any standback allowance from the signal.
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

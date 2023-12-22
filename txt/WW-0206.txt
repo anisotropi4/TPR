@@ -1,0 +1,58 @@
+                                                  OFFICIAL
+
+NETWORK RAIL                       Timetable Planning Rules 2024                  Version:    4.1
+Western + Wales        Final Principal and Preliminary Proposal for Subsidiary
+                                                           OFFICIAL                 Date:     6th October 2023
+                                       Change Timetable 2024                        Page:     203 of 289
+
+
+Dwell Time
+150 to 153                         3
+
+Calstock
+
+Dwell Time
+150 to 153                         ½
+
+GW640 LISKEARD TO LOOE VIA COOMBE
+
+Coombe Junction Halt
+
+Dwell Time
+DMU                                3
+
+St Keyne
+
+Dwell Time
+DMU                                ½*
+* Request Stop
+
+Causeland
+
+Dwell Time
+DMU                                ½*
+* Request Stop
+
+Sandplace
+
+Dwell Time
+DMU                                ½*
+* Request Stop
+
+GW660 PAR TO NEWQUAY
+
+Par
+
+See entry on route GW108
+
+St Blazey Signal Box
+
+Adjustments to Sectional Running Times
+Movement                                   Reason                        Timing Load         Value
+Up train arriving St Blazey with section   Approach control              All                 {2}
+ahead occupied
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

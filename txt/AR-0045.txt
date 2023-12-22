@@ -1,0 +1,69 @@
+                                                      OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                        Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                   12th September
+                                                                                       Date:
+                                               2024                                            2023
+                                                                                      Page:    42 of 183
+
+EA1390 BARKING TILBURY LINE JUNCTION EAST TO PITSEA (VIA TILBURY)
+TIMING POINT                    DOWN         UP          CODE     NOTES
+
+Barking Tilbury Line Junction                                     To/from Barking – EA1380
+East
+Barking Signal UR1104                        -           S        Reversing trains only
+Barking Riverside Up                         ML                   All Up trains to be timed here
+Junction
+Barking Ripple Road                          RL          S        Timing point for trains booked to stop at Ripple
+Junction                                                          Lane Signal 846 on the Departure Line from
+                                                                  Ripple Lane West S.S. or the Up Goods Line
+Ripple Lane Sig. 806                         GL                   Tiploc - RPLL806
+                                                                  Timing point for trains on the Up Goods line that
+                                                                  are not routed via Ripple Lane West S.S.
+Ripple Lane West Junction       ML GL        RL                   All Down trains and Up Riverside trains to be
+                                RL                                timed here
+                                                                  From Barking Riverside – EA1395
+Ripple Lane West S.S.           GL           GL          S        Tiploc - RPLLWSS
+                                                                  Timing point for trains routed via West S.S.
+                                                                  Use Ripple Lane Sig. 807 for trains routed via
+                                                                  the Down Goods Line
+Barking Riverside Down                                            To Barking Riverside – EA1395
+Junction
+Ripple Lane Sig. 807            GL                                Tiploc - RPLL807
+                                                                  Timing point for trains on the Down Goods that
+                                                                  are not routed via Ripple Lane West S.S.
+Ripple Lane Renwick Road        -            ML GL                All traffic in the Up direction must be timed here
+Junction                                                          and freight only in the Down direction if running
+                                                                  to Ripple Lane Exchange Sidings
+Ripple Lane Exchange            -            -           F        To/From Dagenham Junction – South East
+Sidings                                                           Route, Kent & HS1 Area, SO400
+Barking Eurohub                 -                        S        Tiploc – RPLLEUR
+                                                                  Timing point accessed from the Ripple Lane
+                                                                  Down Through Siding located adjacent to
+                                                                  Ripple Lane FLT and east of ‘H Group Sidings’.
+Ripple Lane Stora Sidings       -                        F
+Renwick Road Biffa              -                        F        Tiploc – RPLLRRB
+Ripple Lane Sig. FW6            -                        F
+Ripple Lane F.L.T.              GL           GL          F
+Ripple Lane H Group             -                        F
+Sidings
+Dagenham Storage Coy            -                        F
+Sidings
+Dagenham Dock                   -            ML GL                Line code ML for trains routed on the Up Tilbury
+                                                                  Line towards Barking and Line code GL for
+                                                                  trains routed on the Up Goods Line towards
+                                                                  Ripple Lane yards and Barking
+Dagenham Dock Reception         -            -           F
+Dagenham Dock A.R.C.            -            -           F
+Dagenham Signal UR826           -            -           F        Timing point for trains routed to/from
+                                                                  Dagenham Down Yard.
+                                                                  Required in schedules routed in both directions
+                                                                  as it is the ARS boundary point.
+Dagenham Down Yard              -            -           F
+Rainham                         -            -
+Purfleet                        - LS         -
+Deep Wharf LC                   LS -         LS          F        All trains on Long Siding to be timed here
+
+
+                                    Electronic copy - uncontrolled when printed.

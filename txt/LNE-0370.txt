@@ -1,0 +1,59 @@
+NETWORK RAIL                          Timetable Planning Rules                    Version: 4.1
+London North Eastern                    Revised Final Rules for                     Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                 Page: 367 of 368
+
+
+
+
+                       LN836/898/854 HOLBECK JUNCTION TO COLTON JUNCTION
+                       ST CATHERINE’S
+
+
+                 Leeds Area Timing Points 1
+                                                                             MANDATORY TIMING POINT                  CROSSING TRAINS ONLY
+
+                                                                             STOPPING TRAINS ONLY
+
+
+                                                    BURLEY
+                                                     PARK
+                                                   [BRLEYPK]
+                                                                 LN838
+                                    LN922
+
+                                KIRKSTALL            ARMLEY
+                                  LOOP             JUNCTION                      UH
+                                [KRKSLUL]          [ARMLJCN]
+
+                                                                      US   DH
+                                    LN852
+                                                                DS                                               A
+                                                                                       C
+                                                    HOLBECK                WHITEHALL           LEEDS WEST
+                                 BRAMLEY                                                                                     LEEDS
+                                                   JUNCTION                JUNCTION             JUNCTION
+                                [BRMLYSR]                                                                                   [LEEDS]       TO
+                                                   [HOLBJCN]               [WHRDJN]             [LEEDSWJ]                                 MARSH
+                                                                                        F
+                                                                                                                 F                        LANE
+                                                                                       UWC                                                JN
+                                                                                                   UM                 LN836/898
+                                                                CHC             DWC      DM
+                                                  COPLEY HILL
+                                                                                        ENGINE
+                                                     W JN
+                                                                                        SHED JN
+                                                  [COPHWJN]
+                                                                                       [ESJLEDS]
+
+                                   LN860                                                       LN872
+                                                                                       HUNSLET
+                               COTTINGLEY          OUTWOOD      LN836
+                                                                                        STN JN
+                               [COTNGLY]          [OUTWOOD]
+                                                                                       [HNSLTSJ]   Timing Points and Running Lines
+                                                                                                   Blank line applies where identity is not shown
+                                                                                                   Leeds Area Timing Points 2
+
+
+                                                     Electronic copy - uncontrolled when printed.

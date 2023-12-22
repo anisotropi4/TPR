@@ -1,0 +1,69 @@
+                                                     OFFICIAL
+
+
+NETWORK RAIL                        Timetable Planning Rules                       Version:   4.1
+Anglia               Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                     Date:
+                                               2024                                           2023
+                                                                                     Page:    145 of 183
+
+EA1420 THAMES HAVEN JUNCTION TO LONDON GATEWAY PORT/
+THAMES HAVEN SIDINGS
+
+Thames Haven
+
+Maximum Standage Length
+Reception                                                                                          68 SLUs
+
+
+EA1430 EAST SUFFOLK JUNCTION TO OULTON BROAD NORTH JUNCTION
+
+Ipswich Signal CO348
+
+Standage Length
+Up East Suffolk Line towards East Suffolk Junction & Ipswich standing at Ipswich Signal CO348
+                                                                                                   46 SLUs
+clear of Boss Hall Junction
+
+Restrictions
+Trains longer than 46 SLUs stopped at Ipswich Signal CO348 will foul Boss Hall Junction. In this circumstance
+headway at Boss Hall Junction applies between the departure time for the first train departing Ipswich Signal
+CO348 and the passing time of the second train at Boss Hall Junction.
+
+
+Westerfield
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Up passenger trains departs/passes platform 1     Down trains passes/arrives platform 1            3
+Up freight train passes platform 1                Down train passes/arrives platform 1             3½
+
+
+Woodbridge
+
+Dwell Time                                                                                         1
+
+Junction Margins
+First Movement                                    Second Movement                                  Margin
+Up passenger train arrive platform 2              Down train depart platform 1                     0
+
+
+Melton
+
+Stopping Instructions
+Single Line. Down trains must be timed to stop before continuing over Level Crossing.
+Services not stopping to set down or pick up passengers should show an OP stop and ½ minute dwell.
+
+
+Saxmundham
+
+Dwell Time                                                                                         1
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Arrive from Melton (Single Line)                  Depart to Melton (Single Line)                    1
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

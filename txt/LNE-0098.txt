@@ -1,0 +1,50 @@
+NETWORK RAIL                          Timetable Planning Rules                        Version: 4.1
+London North Eastern                    Revised Final Rules for                         Date: 12 October 2023
+                                   Subsidiary Change Timetable 2024                     Page: 95 of 368
+
+
+LN702 BEDLINGTON NORTH JUNCTION TO LYNEMOUTH ALCAN
+TIMING POINT                         DOWN                 UP                 NOTES
+
+Standard Headway                     5 following          5½ following
+                                     stopping             stopping
+                                     passenger            passenger
+
+                                     6 following          6 following
+                                     freight              freight under
+                                                          799 tonnes
+
+                                                          8 following
+                                                          freight 800
+                                                          tonnes and over
+Exceptions:
+Ashington                            1½ following         2½ following       TCB
+                                     passenger            passenger
+                                     2½ passenger
+                                     following freight
+Ashington to Lynemouth Power         AB+2                 AB+2               Freight route only between Ashington
+Station                                                                      Junction and Lynemouth P.S.
+                                                                             Movements between Hirst Lane L.C
+                                                                             and Lynemouth P.S are under the
+                                                                             control of Lynemouth P.S.
+
+
+LN706 WEST SLEEKBURN JUNCTION TO NORTH BLYTH
+TIMING POINT                        DOWN           UP          NOTES
+
+West Sleekburn Junction to          AB+2           AB+2
+Winning Junction
+Winning Junction to Freeman’s LC    AB+2       AB+2
+Freeman’s LC to North Blyth                 AB+2*              *Single Line. See Section 5.3 for Method of Working
+
+
+LN708 WINNING JUNCTION TO MARCHEY’S HOUSE JUNCTION
+TIMING POINT                        DOWN           UP          NOTES
+
+Winning Junction to Marchey’s       AB+2           AB+2
+House Junction
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

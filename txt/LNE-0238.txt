@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                   Version: 4.1
+London North Eastern                      Revised Final Rules for                    Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                Page: 235 of 368
+
+
+
+
+St Catherines Junction Loop
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+Arrive/Pass from Maltby                          Depart to Maltby                              2
+All other conflictions                                                                         3
+Restrictions
+Physical Loop Lengths:
+Up/Down St Catherines Curve - D220 to D227 – 499m
+Up/Down South Yorkshire – D218 to D225 – 499m
+
+
+LN768 MANSFIELD WOODHOUSE TO SHIREOAKS EAST JUNCTION
+Shirebrook
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+Pass from Shirebrook East Junction               Pass to Clipstone Junctions                   2
+Pass to Clipstone Junctions                      Pass from Shirebrook East Junction going to   4
+                                                 Shirebrook
+
+
+
+Shirebrook East Junction
+Junction Margins
+First Movement                                   Second Movement                               Margin
+All conflicting moves                                                                          4
+
+
+Langwith Whaley–Thorns
+
+Dwell Time
+All                                   1 08.00 – 18.00 EWD
+
+
+Creswell
+
+Dwell Time
+All                                   1 08.00 – 18.00 EWD
+
+Whitwell
+
+Dwell Time
+All                                   1 08.00 – 18.00 EWD
+
+
+
+Woodend Junction
+
+Junction Margins
+First Movement                                   Second Movement                               Margin
+Pass from Shirebrook                             Pass Shireoaks West Jn to Woodend             7
+Pass from Shireoaks West Jn                      Pass from Shirebrook                          8
+
+                                 Electronic copy - uncontrolled when printed.

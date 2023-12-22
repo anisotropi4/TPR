@@ -1,0 +1,31 @@
+NETWORK RAIL               Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                      OFFICIAL
+                        Final Proposal for Subsidiary                             25th August 2023
+                                                                        Date:
+                            Timetable 2024                              Page:     45 of 168
+
+
+
+
+SO320 HOO JUNCTION TO GRAIN SIDINGS
+SO320 HOO JUNCTION TO GRAIN SIDINGS
+TIMING POINT           DOWN         UP          CODE       NOTES
+
+Hoo Junction           -            -                      To/from Gravesend – SO310
+Signal NK509           -            -                      Use TIPLOC CLFFD12
+Cliffe Brett Marine                 -            FS        Access controlled by FOC shunter and
+                                                           groundframe operator
+Grain Level Crossing   -            -
+Grain Shared Area      -            -            FS        For ITPS purposes, the timing point to be
+                                                           shown as Grain (former station now a
+                                                           Shared Area)
+Grain BP                                         FS        TIPLOC GRAINBP
+Grain Thamesport FLT                             FS        TIPLOC GRAINTR
+Grain Foster Yeoman                              FS        TIPLOC GRAINFG (GBRF)
+                                                           TIPLOC GRAINFY (DBC)
+                                                           TIPLOC GRAINFL (FHH)
+
+
+
+
+                       Electronic copy - uncontrolled when printed

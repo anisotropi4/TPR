@@ -1,0 +1,65 @@
+NETWORK RAIL                                 Timetable Planning Rules                         Version: 4.1
+London North Eastern                           Revised Final Rules for                          Date: 12 October 2023
+                                          Subsidiary Change Timetable 2024                      Page: 363 of 368
+
+
+
+
+ LN600 SHAFTHOLME JUNCTION TO RESTON GSP
+
+                                                                                                                                 LN826
+         Doncaster Area Timing Points 1
+                                                        MANDATORY TIMING POINT                    STOPPING TRAINS ONLY                            HEXTHORPE
+                                                                                                                                                   JUNCTION
+                                                        NON MANDATORY TIMING POINT                CROSSING TRAINS ONLY                            [DONCHJN]
+
+                                                            * MANDATORY ON WEST SLOW LINES
+                                                                                                                                                            AL
+                                                                                                                               HEXTHORPE
+                                                                                                       BELMONT                   SIDINGS
+                   ST CATHERINE’S                                                                     DOWN YARD                [DONCHRS]
+                     JUNCTION                                                                         [DONCBDY]
+                                                          DONCASTER
+                     [DONCSCJ]
+                                                             R.M.T.                                                                                 ST JAMES’
+                                                          [DONCRMT]                                                                                JUNCTION
+           LN758
+                                                                                                                                                   [DONCSJJ]
+                     LOW ELLERS            DECOY S                                                                   WSL2
+                                                                                                      DONCASTER
+                      CURVE JN            JUNCTION*
+                                                                                              WSL 2    SIG. D249                  BRIDGE
+                      [LWELRSJ]           [DONCDSJ]                               DECOY N
+                                                                                                      [DONC249]                 JUNCTION*
+                                                                                 JUNCTION*
+                                                                                                                                [DONCBJN]
+                                                            DOWN                 [DONCDNJ]
+                                                                                                       WSL1
+                                                            DECOY
+                     WSL                                                                                                        WSL1               WSL2
+                                                          [DONCDDY]
+
+    LOVERSALL                                                                                                                                                    DONCASTER
+                                                LN600                                                                                         DONCASTER          SIGNAL D300
+      CARR JN                                                                    DONCASTER
+                                                                                                                                               [DONC]            (DONC300)
+    [DONCLCJ]                                                                     SIG. D254
+                                          ESL                                                             ESL
+                                                                                 [DONC254]
+                                                                 UP
+                                           POTTERIC            DECOY
+ LN726                                      CARR JN          [DONCUDY]
+                                          [DONCPCJ]
+          BESSACARR
+          JUNCTION
+                                                             DONCASTER
+           [BESSCRJ]
+                                          DONCASTER           RAILPORT
+                                           EUROPORT          [DONCRPR]                   TO KIRK
+                                                                                                                Timing Points and Running Lines
+                                           [DONCEP]                                      SANDALL JN             Blank line applies where identity is not shown
+
+
+
+
+                                                               Electronic copy - uncontrolled when printed.

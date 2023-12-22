@@ -1,0 +1,63 @@
+NETWORK RAIL                           Timetable Planning Rules                           Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024               Date:    28th July 2023
+West and Central
+                                                                                             Page:   342 of 443
+
+Newton Heath TMD
+
+Planning Note
+Trains arriving onto Newton Heath TMD arrive onto one of two fuel roads, each capable of taking up to six
+vehicles. A train can follow another onto the same fuel road, but once the road is full the units have to be fuelled
+and move forward onto the depot before a further arrival onto that road. A train can be arriving onto the second
+fuel road whilst units are being fuelled on the first road. This means that different permutations of rates of arrival
+are possible, depending on the number and length of vehicles on each arrival and the spacing between arrivals. It
+is also possible for an arrival to be formed of eight vehicles, though this requires a longer gap behind the arrival
+due to the time taken to accept the train onto the depot.
+
+If, for validation reasons, it is necessary to significantly retime an arrival onto Newton Heath from the path which is
+bid, contact should be made with the Northern Service Planning team to confirm that the revised path will be
+workable for depot flow. As a minimum, 5 minutes must be allowed between arrivals.
+
+
+Castleton South Jn
+
+Junction Margins
+First Movement                                      Second Movement                                     Margin
+Train from Castleton North Jn passes Castleton      Down non-stop train passes Vitriol Works            Same time
+South Jn
+Train from Castleton North Jn passes Castleton      Down stopping train departs Mills Hill              Same time
+South Jn
+Down train passes Castleton East Jn                 Train from Castleton North Jn departs               1
+                                                    Castleton South Jn
+
+
+Castleton Down Goods Loop
+
+Planning Note
+Trains planned to stand in excess of 382m on the Down Goods Loop will block access to Sidings 2, 3 and 4 and
+also the route to/from Castleton North Jn via the Up & Down Through Siding.
+
+
+Castleton East Jn
+
+Junction Margins
+First Movement                                      Second Movement                                     Margin
+Down train arrives at Rochdale #                    Shunting move from Castleton East or                3
+# Applies only to trains which dwell at Rochdale    Castleton DGL to Castleton station on Down
+for 4 mins or more. If dwell less than 4 mins.,     Main occupying section beyond Sig.37
+shunt at Castleton can take place 2 mins after
+train passes Rochdale East Jn.
+
+
+Rochdale
+
+Adjustments to Sectional Running Times
+Movement                                        Reason                                                  Value
+Trains terminating in Platform 2 (Bay Platform) Approach control                                        2$
+from Up Rochdale
+$ Does not apply for movements from Rochdale Turnback
+
+
+
+
+                               Electronic copy - uncontrolled when printed

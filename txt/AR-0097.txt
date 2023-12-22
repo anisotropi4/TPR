@@ -1,0 +1,63 @@
+                                                   OFFICIAL
+
+
+NETWORK RAIL                       Timetable Planning Rules                      Version:    4.1
+Anglia              Amended Final Principal and Subsidiary Change Timetable                  12th September
+                                                                                     Date:
+                                              2024                                           2023
+                                                                                    Page:    94 of 183
+
+Manningtree
+
+Adjustments to Sectional Running Times
+Movement                       Timing Load                      Reason                                Allowance
+Down direction non-stop trains Passenger & ECS                  Via slow speed crossover              {1}
+routed towards Harwich         Freight                          Speed differential                    {1½}
+Branch
+Applicable to timing loads     Passenger & ECS                  Via slow speed crossover              {1}
+shown for Up direction trains  Class 6 under 600t               Speed Differential                    {½}
+passing from the Harwich       Class 6 600t/TR35 to 999t        Speed Differential                    {1}
+Line, to be applied            inclusive
+approaching the next timing    Class 6 1000t/TR55 to 1199t      Speed Differential                    {1½}
+point                          inclusive
+                               Class 6 1200t/TR60 to            Speed Differential                    {2}
+                               1399t/TR70 inclusive
+                               Class 6 1400t/TR80 to            Speed Differential                    {2½}
+                               2000t/TR115 inclusive
+                               Class 6 over 2000t/TR115         Speed Differential                    {3}
+
+Connectional Allowance           2
+
+Dwell Time                       1
+
+
+
+Manningtree North Junction
+
+Junction Margins
+First Movement                                  Second Movement                                   Value
+Departing Manningtree to Ipswich                Passing Manningtree North from Manningtree        4
+                                                East Jn
+Passing Manningtree to Ipswich                  Passing Manningtree North from Manningtree        3
+                                                East Jn
+Arriving Manningtree from Ipswich               Passing Manningtree North from Manningtree        Simultaneous
+                                                East Jn
+Passing Manningtree from Ipswich                Passing Manningtree North from Manningtree        1
+                                                East Jn
+Passing Manningtree North from Manningtree      Departing Manningtree to Ipswich                  2
+East Jn
+Passing Manningtree North from Manningtree      Passing Manningtree to Ipswich                    2½
+East Jn
+Freight Passing Manningtree North from          Arriving Manningtree from Ipswich                 5
+Manningtree East Jn
+Passenger/ECS Passing Manningtree North         Arriving Manningtree from Ipswich                 4½
+from Manningtree East Jn
+Freight Passing Manningtree North from          Passing Manningtree from Ipswich                  4
+Manningtree East Jn
+Passenger/ECS Passing Manningtree North         Passing Manningtree from Ipswich                  3½
+from Manningtree East Jn
+
+
+
+
+                                 Electronic copy - uncontrolled when printed.

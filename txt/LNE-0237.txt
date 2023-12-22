@@ -1,0 +1,61 @@
+NETWORK RAIL                            Timetable Planning Rules                       Version: 4.1
+London North Eastern                      Revised Final Rules for                        Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                    Page: 234 of 368
+
+
+Kirk Sandall Junction
+
+Junction Margins
+First Movement                                   Second Movement                                    Margin
+Pass from Branch to SL                           Pass from Doncaster ML                             *
+Pass from Branch                                 Pass to Doncaster                                  4
+Pass to Doncaster                                Pass from Branch                                   3
+Pass from Branch                                 Pass to Branch                                     4
+* Same time as train passes/departs Doncaster or 1 before a freight train passes Bentley Junction
+
+
+LN756 SCUNTHORPE TRENT JUNCTION TO ROXBY
+Scunthorpe Roxby Gullet/Dragonby Sidings
+
+Operating Restriction
+Trains running to/from Roxby Gullet/Dragonby Sidings require to be in possession of a Train Staff issued by North
+Lincoln Junction. A second train cannot proceed along the branch to Roxby Gullet/Dragonby Sidings until the first
+train has completed its journey on the branch and the Train Staff is surrendered by the driver and returned to
+North Lincoln Junction, to be re–issued to the second train. A minimum of 30 minutes for Dragonby services and
+a minimum of 45 minutes for Roxby Gullet services should be allowed for this to take place before the second train
+can proceed on the branch.
+This also applies to trains returning from Roxby Gullet/Dragonby Sidings to North Lincoln Junction.
+
+
+LN758 BRANCLIFFE EAST JUNCTION TO KIRK SANDALL JUNCTION
+Dinnington Junction
+
+Junction Margins
+First Movement                                     Second Movement                                  Margin
+Pass from Single line                              Pass to Single line                              6*
+Pass from Single line                              Depart to Single line                            2
+* May be reduced to 4 minutes if train has at least an additional 2 minutes in the schedule.
+Restrictions
+When services are held at Dinnington Junction, WP607 waiting acceptance onto Single Line towards Maltby
+services in rear cannot pass Brancliffe East Junction towards Maltby if the first train exceeds 420m.
+
+
+Maltby Loop
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Arrive Loop from either direction              Arrive/Pass from other direction                3
+Arrive from Dinnington                         Depart to Dinnington                            4
+Pass from Dinnington                           Depart to Dinnington                            3
+Pass/Arrive from St Catherines Junction        Depart to St Catherines Junction                2
+Restrictions
+Physical Loop Lengths:
+Up Single Line Down (DUSY) - M34 to M35 – 355m
+Passing Loop/Run-Round (DUPL)– M29 to M8 - 418m, M29 to M7 – 524m
+Services held on Passing Loop/Run-Round exceeding 418 metres beyond M8 locks out Arrivals and Departures
+Line in the Dinnington direction.
+Arrival/Departures (DUAD) – M25 to M9- 415m
+Specific lines (DUSY, DUPL and DUAD) to be allocated to match required train lengths as above.
+
+
+                                    Electronic copy - uncontrolled when printed.

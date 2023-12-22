@@ -1,0 +1,34 @@
+NETWORK RAIL                    Timetable Planning Rules                    Version: 4.1
+London North Eastern              Revised Final Rules for                     Date: 12 October 2023
+                             Subsidiary Change Timetable 2024                 Page: 333 of 368
+
+
+LN826 DONCASTER SOUTH YORKSHIRE JUNCTION TO SWINTON
+Timing Section                Type    LH        MU    Cl 6    Remarks
+                                      HST       LL
+                                      EPU
+                                      Cl 4
+                                      22X
+
+Up – Weekdays
+Approach Doncaster            E            1     1        1   *Can be applied flexibly between Swinton
+                              P           1*#    1*           Junction and Doncaster if required
+                                                              #Nil for East Midlands services.
+
+
+
+
+LN830 ALDWARKE JUNCTION TO WOODBURN JUNCTION
+Timing Section                Type    LH        MU    Cl 6    Remarks
+                                      HST       LL
+                                      EPU
+                                      Cl 4
+                                      22X
+
+Up – Weekdays
+Approach Rotherham Central    E       1               2
+
+
+
+
+                             Electronic copy - uncontrolled when printed.

@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+London North Eastern                      Revised Final Rules for                         Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                     Page: 114 of 368
+
+
+STANDARD VALUES – MINIMUM
+
+Attachment of Locomotives/Units
+22x                             7
+DMU                             6
+EMU (gangwayed)                 4
+EMU (Non gangwayed)             3
+EMU (Northern Trains)           7
+Locomotive                      15
+Govia Thameslink Railway Class  6
+387 and 379 units
+LNER 80x                        7
+XC 170                          4
+
+Detachment of Locomotives/Units:
+
+22X                                   7
+DMU                                   5
+EMU (gangwayed)                       3
+EMU (non gangwayed)                   2
+EMU (Northern Trains)                 7
+Locomotive                            10* *12 if locomotive attached at other end of train
+Govia Thameslink Railway Class        5
+387 and 379 units
+LNER 80x                              7
+XC 170                                4
+
+Connectional Allowance                                            5 minutes
+
+Dwell Time – passenger services
+DMU (E)                                                           1
+DMU (Other)                                                       45 seconds – to be shown as alternating 1 and ½
+                                                                  minute stops
+EMU                                                               ½
+LH/22X/180/80X                                                    1½
+Tyne & Wear Metro cars                                            24 seconds – to be shown as ½ stop and SRT
+                                                                  shortened by 6 seconds
+LNER Class 91 and 80x                                             2
+
+Locomotive Change
+At same end                                                       16
+
+Locomotive Run–Round
+Passenger                                                         16
+Freight                                                           20
+
+Platform End Conflicts
+1st train arrive to 2nd train depart                              1
+1st train Depart to 2nd train arrive Opposite directions          5
+EMU/DMU/22x/TPE Class 68
+1st train Depart to 2nd train arrive Opposite directions LH/HST   6
+
+Platform Re–occupation
+Standard                                                          3
+Following Class 91 Mark IV Coaches in same direction              4
+
+                                     Electronic copy - uncontrolled when printed.

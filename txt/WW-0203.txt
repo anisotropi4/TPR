@@ -1,0 +1,64 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                        Timetable Planning Rules 2024                 Version:    4.1
+Western + Wales         Final Principal and Preliminary Proposal for Subsidiary
+                                                            OFFICIAL                Date:     6th October 2023
+                                        Change Timetable 2024                       Page:     200 of 289
+
+
+Dwell Time
+15x                                 1
+
+Topsham
+
+Dwell Time
+15x                                 1
+
+Platform End Conflicts
+Trains can arrive at Topsham at the same time.
+First Movement                                   Second Movement                                Margin
+First train arriving                             Second train departing/passing                1
+
+Exton
+
+Dwell Time
+15x to 16x                          ½*
+* : Request Stop
+
+Lympstone Commando
+
+Dwell Time
+15x to 16x                          ½*
+* : Request Stop
+
+Lympstone Village
+
+Dwell Time
+15x to 16x                          ½*
+* Increased to 1 minute towards Exeter 0700-0900 and from Exeter 1700-1900 Monday to Friday
+
+Exmouth
+
+Turnround allowances
+                                    DMU
+From Paignton/Barnstaple            5
+From Exeter                         4
+
+GW620 NEWTON ABBOT WEST JUNCTION TO GOODRINGTON C.S.
+
+Torre
+
+Dwell Time
+15x                                 1
+
+Torquay
+
+Dwell Time
+LH / 22x                            2
+80x                                 2
+15x                                 1
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

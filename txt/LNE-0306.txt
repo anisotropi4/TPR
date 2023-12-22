@@ -1,0 +1,62 @@
+NETWORK RAIL                            Timetable Planning Rules                       Version: 4.1
+London North Eastern                      Revised Final Rules for                        Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                    Page: 303 of 368
+
+
+
+5.4 Platform Lengths
+
+The table below shows the maximum length of train that may use each of the platforms at the following passenger
+stations. All lengths are in metres. The quoted lengths are the usable lengths from ramp to ramp unless specified.
+The measurements take no account of the need for signal sighting. Trains longer than the quoted lengths will only
+be accepted subject to the authority of the Route Director.
+
+ STATION                                PLATFORM        USABLE       NOTES
+                                                        LENGTH
+
+ Acklington                             Down            114
+ Acklington                             Up              114
+ Adwick                                 Down            104
+ Adwick                                 Up              104
+ Alexandra Palace                       Down            169
+                                        Hertford
+ Alexandra Palace                       Down Slow       170
+ Alexandra Palace                       Up Fast         167
+ Alexandra Palace                       Up Slow         169
+ Allens West                            Down            122
+ Allens West                            Up              97
+ Alnmouth for Alnwick                   Down            233
+ Alnmouth for Alnwick                   Up              233
+ Althorpe                               Down            102
+ Althorpe                               Up              102
+ Ancaster                               Down            87
+ Ancaster                               Up              88
+ Apperley Bridge                        Down            143
+ Apperley Bridge                        Up              120
+ Arlesey                                Down            245
+ Arlesey                                Up              245
+ Arram                                  Down            79
+ Arram                                  Up              81
+ Ashington                              Bay             103
+ Ashwell and Morden                     Down            168
+ Ashwell and Morden                     Up              167
+ Baildon                                Single          102
+ Baldock                                Down            168
+ Baldock                                Up              168
+ Bamford (Derbyshire)                   1               101
+ Bamford (Derbyshire)                   2               103
+ Bardon Mill                            Down            95
+ Bardon Mill                            Up              91
+ Barnetby                               Down Fast       116.5
+ Barnetby                               Down Slow       103.5
+ Barnetby                               Up Fast         115
+ Barnetby                               Up Slow         116.5
+ Barnsley                               Down            163
+ Barnsley                               Up              102
+ Barrow Haven                           Up              61.5
+ Barrow Haven                           Down            46
+ Barton on Humber                       Single          55
+ Batley                                 Down            119
+ Batley                                 Up              126
+ Battersby                              Single          155
+                                    Electronic copy - uncontrolled when printed.

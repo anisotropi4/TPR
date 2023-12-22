@@ -1,0 +1,51 @@
+NETWORK RAIL                         Timetable Planning Rules                    Version: 4.1
+London North Eastern                   Revised Final Rules for                     Date: 12 October 2023
+                                  Subsidiary Change Timetable 2024                 Page: 163 of 368
+
+
+Allington North Junction
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Pass from Sleaford towards Allington West      Pass from Allington East towards Sleaford       3½
+Junction
+Pass from Allington East towards Sleaford      Pass from Sleaford towards Allington West       2½
+                                               Junction
+
+
+LN206 NEWARK FLAT CROSSING (INCLUSIVE) TO WEST HOLMES JUNCTION
+
+Newark Flat Crossing
+
+Junction Margins
+First Movement                                 Second Movement                                 Margin
+Lincoln – Nottingham pass                      Down train pass ECML                            4½
+Lincoln – Nottingham pass                      Down train calling Newark North Gate pass       4
+                                               ECML
+Down train pass Newark Flat Crossing           Lincoln – Nottingham pass                       2
+Down train stopping Newark North Gate          Lincoln – Nottingham pass                       2½
+Lincoln – Nottingham pass                      Up train pass ECML                              4½
+Lincoln – Nottingham pass                      Up train calling Newark North Gate pass ECML    5
+Up train pass ECML                             Lincoln – Nottingham pass                       3
+Up train stopping Newark North Gate pass       Lincoln – Nottingham pass                       2½
+ECML
+Nottingham – Lincoln pass                      Down train pass ECML                            4½
+Nottingham – Lincoln pass                      Down train stopping Newark Nth Gate pass        3½
+                                               ECML
+Down train pass ECML                           Nottingham – Lincoln pass                       2½
+Down train stopping Newark Nth Gate pass       Nottingham – Lincoln pass                       3
+ECML
+Nottingham – Lincoln pass                      Up train pass ECML                              4½
+Nottingham – Lincoln pass                      Up train stopping Newark North Gate pass        5
+                                               ECML
+Up train pass ECML                             Nottingham – Lincoln pass                       3½
+Up train stopping Newark North Gate pass       Nottingham – Lincoln pass                       3
+ECML
+
+Planning Restriction
+No pathing time to be applied between Newark Flat Crossing and Newark Flat Crossing East Junction
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

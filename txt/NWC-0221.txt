@@ -1,0 +1,48 @@
+NETWORK RAIL                          Timetable Planning Rules                           Version:   4
+Region: North            Final Proposal for Subsidiary Change Timetable 2024               Date:    28th July 2023
+West and Central
+                                                                                           Page:    209 of 443
+
+Blake Street
+
+Junction Margins
+First Movement                                      Second Movement                                   Margin
+Down train arrives Platform 1                       Down train arrive/pass Platform 2                 3
+Up train depart or pass                             Down train arrives Platform 1                     3
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                        5
+
+
+Lichfield City
+
+Dwell Time
+Standard                                           1, except:
+CrossCountry services (HST & 22x)                  1½
+
+Junction Margins
+First Movement                                      Second Movement                                   Margin
+Down train arrives Platform 2                       Down train arrives/pass Platform 1                4
+Up train pass/depart                                Down train arrive Platform 2                      3½
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                        5
+
+
+Lichfield Trent Valley High Level
+
+Detachment Allowance                   2 EMU inclusive of turnround time and no shunt involved.
+
+Junction Margins
+First Movement                                  Second Movement                                       Margin
+Up train depart from Platform 3                 Down train pass Platform 3                            3
+Up train pass not stopping at Lichfield City    Up service depart Platform 3                          3*
+* The normal headway applies at the next mandatory timing point – see section 5.2
+
+Minimum Turnround Time – Trains changing direction at end of journey
+Standard                        5
+
+
+
+
+                                Electronic copy - uncontrolled when printed

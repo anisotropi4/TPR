@@ -1,0 +1,56 @@
+NETWORK RAIL                            Timetable Planning Rules                        Version: 4.1
+London North Eastern                      Revised Final Rules for                         Date: 12 October 2023
+                                     Subsidiary Change Timetable 2024                     Page: 326 of 368
+
+
+ LN110 CANONBURY WEST JUNCTION TO FINSBURY PARK JUNCTION
+ Timing Section                       Type    LH       MU        Freight   Remarks
+
+
+
+ Junction
+
+LN120 WOOD GREEN NORTH JUNCTION TO LANGLEY JUNCTION (VIA
+HERTFORD)
+Timing Section                Type     LH      MU      Freight     Remarks
+                                       HST
+                                       80x
+
+Down
+Approach Langley Junction                                          *Does not apply to services terminating at
+                              P        1       1*
+                                                                   Stevenage
+                                               1#      1           #Applies only to services terminating at
+                              E
+                                                                   Stevenage
+Approach Hertford North                        1                    Applies only to services terminating at Hertford
+                              E
+                                                                   North
+Approach Gordon Hill                           1                   Applies only to services terminating at Gordon
+                              E
+                                                                   Hill
+Up
+                                                                   *Allowance for MU only applies to trains
+                              P        1       1*
+                                                                   originating from North of Stevenage
+                                                                   *Applies only to services terminating at
+Approach Alexandra Palace
+                                                                   Alexandra Palace and ECS services to Hornsey
+                              E                1*      1
+                                                                   EMUD (not applicable to reversals from Bowes
+                                                                   Park/Bowes Park RRL)
+
+
+ LN125 HITCHIN CAMBRIDGE JUNCTION TO ROYSTON (INCLUSIVE)
+ Timing Section                       Type    LH       MU        Freight   Remarks
+
+
+
+ Down
+ Approach                             E            1       1       1       Terminating Trains Only
+ Letchworth/Baldock/Royston
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

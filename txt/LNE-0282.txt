@@ -1,0 +1,47 @@
+NETWORK RAIL                           Timetable Planning Rules                        Version: 4.1
+London North Eastern                     Revised Final Rules for                         Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                     Page: 279 of 368
+
+
+Stourton Junction
+
+Adjustments to Sectional Running Times
+Movement Down                                      Reason                                          Value
+Pass to FLT or A/D Line.                           Deceleration                                    1
+
+Movement Up                                        Reason                                          Value
+Pass from A/D Line or Leeds FLT                    Acceleration                                    2 to be
+                                                                                                   applied
+                                                                                                   approaching
+                                                                                                   next timing
+                                                                                                   point
+Trains starting from Leeds FLT                     Brake test                                      3* to be
+                                                                                                   applied
+                                                                                                   approaching
+                                                                                                   the next
+                                                                                                   timing point
+* This should be applied in addition to the acceleration adjustment
+
+Junction Margins
+First Movement                                       Second Movement                               Margin
+Pass from FLT or A/D Line                            Pass Down Midland                             4*
+Pass Down Midland                                    Pass from FLT or A/D Line                     2
+Pass from FLT or A/D Line                            Pass to FLTor A/D Line                        2½*
+Up Passenger Pass from Engine Shed Jn.               Freight from Stourton RMC/Balm Rd. passes     4
+                                                     Hunslet South Jn.
+Up Freight. Pass from Engine Shed Jn.                Freight from Stourton RMC/Balm Rd. passes     5
+                                                     Hunslet South Jn.
+* To be increased by ½ if the first train is over 600m long
+
+
+Hunslet Station Junction
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Down train pass Stourton Junction                  Pass to FLT or A/D Line                         5
+Pass to FLT or A/D Line from Up main               Down train pass Stourton Junction               3½
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

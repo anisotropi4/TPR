@@ -1,0 +1,59 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4
+Region: North             Final Proposal for Subsidiary Change Timetable 2024         Date:    28th July 2023
+West and Central
+                                                                                      Page:    61 of 443
+
+
+NW1001 ARMITAGE JN (INCLUSIVE) TO PRESTON FYLDE JN
+TIMING POINT                        DOWN        UP          CODE     NOTES
+
+Dallam Jn                            FL USL       FL SL              Trains on the "FL" or Up "SL" only
+                                                                     To/from Warrington Royal Mail Terminal
+Dallam Freight Terminal                              SL       F
+Warrington R.M.T.                      USL            –              See Section 5.3 for specific rules
+                                                                     applicable to trains to/from this location
+Winwick Jn                             FL         FL SL              To/from Earlestown – NW1021
+Golborne Jn                           FL SL        FL                To/from Newton–le–Willows – NW1021
+                                                                     To/from Parkside Jn – NW2015
+Haydock Branch Jn                       –          SL                To/from Kelbit Private Sidings – NW1023
+Bamfurlong Jn                         SL GL       FL SL       X      To/from Bamfurlong Sidings Jn – NW1025
+Springs Branch                         GL          GL                Trains to/from Wigan Diesel Depot T.C.,
+                                                                     Wigan Springs Branch Stabling Sidings or
+                                                                     to/from GL only. See Section 5.3 for
+                                                                     specific rules applicable to trains to/from
+                                                                     Depot
+Wigan Diesel Depot T.C.                              –        S
+Wigan Springs Branch Stabling                        –        S      TIPLOC SPRBSS
+Sidings
+Springs Branch Jn                     FL GL     FL SL GL             To/from St. Helens Central – NW2023
+                                       UDS
+Wigan South Jn                       FL DPL       FL GL
+                                       UPL         UDS
+Wigan Station Jn                        –           –                Trains to/from Crow Nest Jn. or Wigan
+                                                                     Wallgate – NW6009) or Platforms 1, 2 or 3
+                                                                     at Wigan North Western station only
+Wigan North Western                    FL       FL DPL –             Platform detail must be shown
+Balshaw Lane Jn                       FL SL        FL
+Euxton Balshaw Lane                    SL          SL         S      Platforms are on Slow Lines only
+Euxton Jn                             FL SL      FL SL               To/from Chorley – NW6001
+Leyland                               FL SL      FL SL        S
+Leyland Sidings                         –                     S
+Farington Jn                         FL SL –      FL SL       X      Timing point for trains to/from Leyland
+Farington Jn                                                         Sidings; trains crossing to Down Fast or
+                                                                     Down Lostock Hall and for trains crossing
+                                                                     from Up Lostock Hall to Up Slow or Up
+                                                                     Fast or Up Fast to Up Slow
+                                                                     Trains to/from Lostock Hall Jn – NW7011
+Farington Curve Jn                      SL           SL              Timing point for Slow Lines only
+                                                                     To/from Rufford – NW7007
+                                                                     To/from Lostock Hall Jn – NW7009
+Skew Bridge Jn                       SL GL         SL         X      Trains crossing to/from Goods Lines only
+Preston Ribble Jn                   DFL UFL     FL SL GL
+                                    DSL USL
+                                    GL
+Preston South Jn                                                     To/from Preston Docks – NW1027
+
+
+
+
+                              Electronic copy - uncontrolled when printed

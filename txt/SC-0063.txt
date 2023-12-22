@@ -1,0 +1,66 @@
+                                                   OFFICIAL
+
+NETWORK RAIL                               Timetable Planning Rules                           Version:    4
+Scotland                      Final Rules for Subsidiary Change Timetable 2024                  Date:     28/07/2023
+                                                                                                Page:     58 of 242
+
+SC001 GRETNA JUNCTION TO GLASGOW CENTRAL (VIA BEATTOCK)
+TIMING POINT                        DOWN       UP             NOTES
+
+Gretna Junction – Carstairs         4          4
+Carstairs – Law Junction            3          3
+
+Law Junction – Uddingston           2½*        3              * for Motherwell values, please refer to section 5.3
+Junction                                                      Junction Margins and Station Planning Rules
+Uddingston Junction – Rutherglen    2½         2½             Following non stop train
+East Junction                       3          3              Following train which stops at Cambuslang and/or
+                                                              DMU timed at 75mph or less.
+Rutherglen East Junction –          2½         2½
+Eglinton Street Junction
+Eglinton Street Junction –          2          2
+Glasgow Central
+
+SC003 CARSTAIRS SOUTH JUNCTION TO HAYMARKET EAST JUNCTION
+TIMING POINT                        DOWN       UP             NOTES
+
+Carstairs South Junction –          4          4
+Carstairs East Junction
+Carstairs East Junction –           AB+2*      AB+2*          * Plan as Absolute Block section due to two aspect
+Auchengray                                                    signalling.
+Auchengray – Cobbinshaw EJ713       AB+2*      AB+2*          * Plan as Absolute Block section due to two aspect
+(Down) and Cobbinshaw EJ712                                   signalling.
+(Up)
+Cobbinshaw EJ713 (Down) and         AB+2*      AB+2*          * Plan as Absolute Block section due to two aspect
+Cobbinshaw EJ712 (Up) –                                       signalling.
+Midcalder Junction
+Midcalder Junction – Slateford      4*         5#$^           * Can be reduced to 3 at Midcalder Junction when
+                                                              the 1st train isn’t booked to call at Kirknewton and
+                                                              the 2nd train is booked to call at Kirknewton.
+
+                                                              # Can be reduced to 3 at Midcalder Junction when
+                                                              the 1st train is routed to Livingston South and the 2nd
+                                                              train is routed to Auchengray.
+
+                                                              $ Can be reduced to 4 at Slateford when the 1st train
+                                                              is a non stop train timed to run at 95mph (maximum
+                                                              permitted linespeed) and the 2nd train is routed from
+                                                              Craiglockhart Junction.
+
+                                                              ^ Must be increased to 7½ when first train stops at
+                                                              Wester Hailes and Curriehill.
+
+
+Slateford – Haymarket               2½         2½*            *See margins
+
+SC007 MIDCALDER JUNCTION TO HOLYTOWN JUNCTION
+TIMING POINT                        DOWN       UP             NOTES
+
+Midcalder Junction – Shotts         3          3              Following non-stop train
+                                    4          4½             Following stopping train
+Shotts-Holytown Junction            3½         3              Following non-stop train
+                                    5½         4½             Following stopping train
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.

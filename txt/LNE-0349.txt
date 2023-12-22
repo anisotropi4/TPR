@@ -1,0 +1,56 @@
+NETWORK RAIL                           Timetable Planning Rules                      Version: 4.1
+London North Eastern                     Revised Final Rules for                       Date: 12 October 2023
+                                    Subsidiary Change Timetable 2024                   Page: 346 of 368
+
+
+LN628 SOUTH HYLTON TO SUNDERLAND SOUTH JUNCTION
+Timing Section                       Type    LH      MU      Freight   Remarks
+                                             HST     LL
+                                             EPU
+                                             22X
+
+Up – Sunday
+Approach South Hylton                E                 1
+
+
+LN646 NORTON-ON-TEES SOUTH TO FERRYHILL SOUTH JUNCTION
+Timing Section                       Type    LH      MU      Freight   Remarks
+                                             HST     LL
+                                             EPU
+                                             22X
+
+Down – Sundays
+Approach Ferryhill South Junction    E         2       2       2
+
+
+LN736 CLEETHORPES TO NUNNERY MAIN LINE JUNCTION VIA RETFORD
+Timing Section                       Type    LH      MU      Freight   Remarks
+                                             HST     LL
+                                             EPU
+                                             22X
+
+Down – Sundays
+Approach Retford                     E         2       2       2
+Approach Worksop                     P                 1
+Approach Nunnery Main Line           E         1       1       1
+Junction                             P                 1
+Up – Sundays
+
+Approach Worksop                     E         2      2        2       Terminating trains only
+                                     P                ½                Terminating trains only
+Approach Retford                     E         2      2        2       Terminating trains only
+                                     P                2                Terminating trains only
+Approach Clarborough Junction        E         2      2        2
+Approach Gainsborough Central        P                1                Terminating trains only
+Approach Marsh Jn/Grimsby Town       E         2      1        2
+                                     P                2                Nil for trains from Barton on Humber
+Approach Cleethorpes                 P                2*               *For arrivals into Cleethorpes for services
+                                                                       from Barton-on-Humber, the value of 1
+                                                                       minute performance should be presentable
+                                                                       as either <1> before or as public timetable
+                                                                       differential in Cleethorpes arrival.
+
+
+
+
+                                    Electronic copy - uncontrolled when printed.

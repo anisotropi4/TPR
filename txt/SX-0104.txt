@@ -1,0 +1,48 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version:   4.3
+Route: Sussex                          Final Rules for Subsidiary                   Date:      18th October 2023
+                                             Timetable 2024 OFFICIAL
+                                                                                    Page:      100 of 163
+
+Brighton Down Sidings
+
+Allowances
+Movement                                                             Value
+Allowance for CET on Siding No 1 South prior to movement to          {24}
+Siding No 1 North
+
+Berthing Facilities
+Siding                                 Cars                          Notes
+Siding No 1                            24 cars                       CET & water at South end of Siding No 1
+Siding No 2                            12 cars                       CET & water
+
+Siding Numbers to be shown as follows:
+Siding No 1 North - 1N, Siding No 1 South - 1S, Siding No 2 – 2
+
+Headways
+Headway between consecutive arrivals on No 1 Siding                  42 if first train washes and has CET
+                                                                     (assumes first movement is to Siding 1
+                                                                     North)
+                                                                     18 if first train washes but has no CET
+                                                                     (assumes first movement is to Siding 1
+                                                                     North).
+Arrival on Siding No 1 followed by arrival on Siding No              14
+2
+Arrival on Siding No 2 followed by arrival on Siding No 1            14
+Departures to Brighton station                                       12
+
+Permissive Working
+Permissive working is authorised as shown below -
+Siding No 1                           Permissive working allowed at the south end only (i.e. the 12 car length of
+                                      siding alongside CET apron), north end 12 car siding is not permissive.
+Siding No 2                           Permissive working allowed
+
+
+Brighton Reception Road
+
+Special Working Requirements
+An ‘OP’ dot stop is required for class 700 trains going to Brighton Down Sidings
+
+
+
+
+                                Electronic copy - uncontrolled when printed

@@ -1,0 +1,62 @@
+NETWORK RAIL                             Timetable Planning Rules                    Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                             25th August 2023
+                                                                                     Date:
+                                          Timetable 2024                             Page:    85 of 168
+
+
+ Beckenham Junction
+ Platform 4 depart to Up Chatham Main              Down Beckenham Spur to Down Chatham             3
+                                                   Main passing service
+
+
+ Shortlands Junction
+
+ Adjustments to Sectional Running Times
+ Movement Up                                       Reason                                          Value
+ All freight trains which will travel from Up      Speed Differential                              1
+ Slow to the Catford Loop
+
+ Junction Margins
+ First Movement                                    Second Movement                                 Value
+ Freight train crosses from Up Chatham Slow        Pass to Down Chatham Slow not stopping at       3
+ to Up Catford Loop                                Shortlands
+
+ Freight Restrictions
+ Freight trains using the Up Ravensbourne Chord or Down Ravensbourne Chord should not have any pathing
+ time as the chord lines are steeply graded
+
+ Length Limits
+ A train exceeding 250m/39SLU in length will foul 844 points in rear at Ravensbourne Chord Junction (CAT) when
+ standing at VS177 on the Down Ravensbourne Chord
+ Therefore, junction margins must be based on train’s departure time at Shortlands Junction
+ A train exceeding 242m/37SLU in length will foul 845 points in rear at Ravensbourne Chord Junction (CAT) when
+ standing at VS173 on the Down Catford Loop
+ Therefore, junction margins must be based on train’s departure time at Shortlands Junction
+
+
+ Shortlands
+
+ Connectional Allowance              4
+
+
+Bromley South
+
+Connectional Allowance               4
+
+Dwell Time
+All Services                         1
+
+Junction Margins
+First Movement                                     Second Movement                                 Margin
+Depart Platform 2 towards Shortlands Junction      Arrive Platform 1 from Bickley Junction         2
+Depart platform 2 towards Shortlands Junction      Pass platform 1 from Bickley Junction           3
+
+
+Bickley
+
+Connectional Allowance               4
+
+Junction Margins
+
+                                   Electronic copy - uncontrolled when printed

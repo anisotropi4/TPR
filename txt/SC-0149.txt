@@ -1,0 +1,66 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                                  Timetable Planning Rules                       Version:    4
+Scotland                         Final Rules for Subsidiary Change Timetable 2024              Date:     28/07/2023
+                                                                                               Page:     144 of 242
+
+Larbert Junction
+Down train passes from Falkirk (Passenger)         Up train passes towards Greenhill Junction(not    3
+                                                   stopping Larbert)
+Down train passes from Falkirk (Freight)           Up train passes towards Greenhill Junction (not   4
+                                                   stopping Larbert)
+Down train passes from Falkirk                     Up train passes towards Greenhill Junction        2
+                                                   (stopping Larbert)
+
+
+
+Larbert
+
+Restriction
+Pathing time must not be used between Larbert and Larbert Junction in either direction as there are no
+intermediate signals.
+
+
+Stirling
+
+Adjustments to Sectional Running Times
+Movement Down                                     Reason                                             Value
+ECS moves from Platform 6 or 9 to Stirling        Speed differential approaching Dunblane            2
+North and Dunblane
+ECS moves from Centre Sidings (Platform 4 or      Inspection of hand points                          2
+5) to Stirling North and Dunblane
+
+Movement Up                                       Reason                                             Value
+Trains arriving Plat 9 from Dunblane              Approach control                                   1
+ECS moves from Stirling North to Platform 6 or    Speed differential                                 2
+9
+ECS moves from Stirling North to Centre           Inspection of hand points                          2
+Sidings (Platform 4 or 5)
+
+Dwell Time
+MU                                    1
+LH Slam Doors                         2
+HST Power Doors                       1½
+
+Junction Margins
+First Movement                                   Second Movement                                     Margin
+Up EMU depart via up main                        Down Arrive Platforms 6-10                          3½
+Up DMU/HST/LH depart via up main                 Down Arrive Platforms 6-10                          4
+Up Depart Platforms 9 or 10 via up loop          Down Arrive Platform 9 or 10                        3½
+Depart Platforms 4-9 towards Dunblane            Up Arrive (not EMU)                                 5
+Depart Platforms 4-9 towards Dunblane            Up EMU Arrive                                       4½
+Shunt move arrive Stirling North from Platform   Up train arrive/pass Platform 3                     3
+4,5,6 or 9
+Restriction
+Passenger Trains cannot be planned from the North into Platforms 4 or 5.
+
+LNER class 80x should not use platform 10 owing to PRM restrictions
+Operating Note
+
+LNER services that exceed 3 hours 30 minutes running between Edinburgh Waverley-Inverness must have 5
+minute dwell at either Stirling, Perth or Pitlochry for driver PNB requirements
+
+
+
+
+                                     Electronic copy - uncontrolled when printed.

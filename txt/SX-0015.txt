@@ -1,0 +1,67 @@
+ NETWORK RAIL                             Timetable Planning Rules                       Version:    4.3
+ Route: Sussex                            Final Rules for Subsidiary                     Date:       18th October 2023
+                                                Timetable 2024 OFFICIAL
+                                                                                          Page:      11 of 163
+
+    9T00-9T73        Bedford and Gatwick Airport/Three Bridges / Brighton via London Bridge and Quarry
+                     Lines - Northbound services terminating at London Bridge (Central) must be allocated
+                     numbers between 74 and 79 SX and 74 to 99 SO and SUN
+   9T80 – 9T99       Bedford and Brighton via London Bridge and Quarry Lines that have a maximum of four
+                     station calls between Bedford and St Pancras (applies SX)
+    9U00-59          Bedford and Horsham via London Bridge and Redhill
+    9U60-99          Bedford and Horsham via Herne Hill, Selhurst and Redhill
+    9V01-79          St Albans and Sutton via Wimbledon, Sutton and St Albans via Mitcham Eastfields
+    9V80-88          Sutton via Mitcham Eastfields to West Hampstead, Kentish Town or Blackfriars
+    9V90-98          Suton via Mitcham Eastfields to Luton or Bedford
+   9W01-9W89         Bedford and Gatwick Airport/Three Bridges / Brighton via Tulse Hill and Streatham
+   9W90-9W99         Horsham or Three Bridges and Peterborough via Tulse Hill and Streatham
+     9Xxx            NOT USED
+    9Y00-75          Welwyn Garden City (southbound only) / Kentish Town / Blackfriars and Sevenoaks via
+                     Catford and Swanley
+  9Y76-98 (even      Sevenoaks to Welwyn Garden City via Swanley and Catford (SX) or London Victoria via
+    numbers)         Swanley and Catford (Sundays)
+      9Zxx           Not to be used in the WTT
+
+THIRD AND FOURTH CHARACTERS
+
+Thameslink services †
+Northbound Services                                  EVEN NUMBERS*
+Southbound Services                                  ODD NUMBERS*
+
+* Some services during the AM & PM peak will be given numbers between 80 and 99 to illustrate differences with the off-
+peak pattern. These may deviate from the numbering convention, by exception, with prior consultation between Network
+Rail and the Operator.
+
+† This includes Thameslink operated services which start and terminate short of the Thameslink Core route.
+
+
+Note:
+The use of number range 80 to 99 should be used to illustrate trains which deviate from their normal pattern
+behaviour, be that calling pattern, unusually long dwells, or detachments / attachments in locations where this is not
+often undertaken.
+
+
+EMPTY COACHING STOCK MOVEMENTS
+
+Outbound from Depot / stabling location:
+5xxx where xxx = the corresponding departing train ID minus 1 (e.g. 5G07 forms 1G08)
+
+In the event of a digit clash, the second train would take the next available digit e.g. if 07 used, 09 is the next
+
+Incoming to Depot / stabling location:
+
+5xnn:
+
+Where nn = the corresponding arriving train ID plus 1 (e.g. 2B87 forms 5T88)
+
+Where x =
+
+VICTORIA (Departing with EVEN numbers)
+
+T = Stewarts Lane T&RSMD
+F = Streatham Hill Depot
+B = Selhurst Depot via Norbury
+S = Selhurst Depot via Crystal Palace
+
+
+                                   Electronic copy - uncontrolled when printed

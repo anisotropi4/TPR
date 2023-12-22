@@ -1,0 +1,54 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                            Timetable Planning Rules                    Version:    4.1
+East Midlands                     Final Subsidiary Change Rules 2024                  Date:     13th September
+                                                                                                2023
+                                                                                       Page:    75 of 123
+
+Loughborough North Junction
+
+Junction Margins
+First Movement                             Second Movement                                        Margin
+Down Fast to Down Slow                     Up Fast to Up Fast passenger pass Loughborough         3
+Down Fast to Down Slow                     Up Fast to Up Fast passenger arrive Loughborough       3½
+Down Fast to Down Slow                     Up Fast to Up Fast freight pass Loughborough           3½
+Up Fast to Up Fast pass Loughborough       Down Fast to Down Slow passenger (not stopping at      2½
+                                           Loughborough)
+Up Fast to Up Fast arrive Loughborough     Down Fast to Down Slow passenger (not stopping at      3
+                                           Loughborough)
+Up Fast to Up Fast pass Loughborough       Down Fast to Down Slow freight (not stopping at        3½
+                                           Loughborough)
+Up Fast to Up Fast arrive Loughborough     Down Fast to Down Slow freight (not stopping at        4
+                                           Loughborough)
+Up Fast to Up Fast pass Loughborough       Down Fast to Down Slow (stopped at Loughborough)       1
+Up Fast to Up Fast arrive Loughborough     Down Fast to Down Slow (stopped at Loughborough)       ½
+Up Slow to Up Fast                         Up & Down Slow to Down Slow pass Loughborough          3½
+Up Slow to Up Fast                         Up & Down Slow to Down Slow depart                     ½
+                                           Loughborough
+Up Slow to Up & Down Slow                  Down Fast to Down Slow freight                         3½
+Up & Down Slow to Down Slow pass           Up Slow to Up Fast or Up & Down Slow                   4
+Loughborough
+Up & Down Slow to Down Slow depart         Up Slow to Up Fast or Up & Down Slow                   4½
+Loughborough
+
+
+Ratcliffe Junction
+
+Junction Margins
+First Movement                                   Second Movement                                  Margin
+Up train arrives at East Midlands Parkway on     Down train departs Ratcliffe Jn to Down Fast     1½
+Up Fast
+Up train arrives at East Midlands Parkway on     Down train passes Ratcliffe Jn to Down Fast      2 with at least
+Up Fast                                                                                           2 minutes
+                                                                                                  pathing time
+                                                                                                  before
+                                                                                                  Ratcliffe Jn
+Up train passes Trent South Jn not stopping at   Down train departs Ratcliffe Jn to Down Fast     3
+East Midlands Parkway
+Down train crosses Ratcliffe Jn Down Slow to     Up train passes Trent South Jn on Up Fast        3
+Down Fast
+
+
+
+
+                                      Electronic copy - uncontrolled when printed.

@@ -1,0 +1,53 @@
+NETWORK RAIL                           Timetable Planning Rules                     Version: 4.1
+Kent & HS1                                                   OFFICIAL
+                                     Final Proposal for Subsidiary                            25th August 2023
+                                                                                    Date:
+                                          Timetable 2024                            Page:     89 of 168
+
+
+ Swanley
+
+ Adjustments to Sectional Running Times
+ Movement Down                                    Reason                                Value
+ Pass Down Chatham Slow to Down                   Approach Control signal VS251 for     {1} and also {½}
+ Maidstone                                        20mph using 895 crossovers            approaching next timing
+                                                                                        point
+ Dwell Time
+ All services                         1
+
+
+
+Swanley
+
+Junction Margins
+First Movement                                    Second Movement                                   Margin
+Non-stop train travelling from the Down           Train from Otford travelling towards the Up       2½
+Chatham Fast to the Down Chatham Main             Chatham Slow or train travelling from Up
+                                                  Chatham Main to Up Chatham Slow
+Non-stop train travelling from the Up Chatham     Train from the Down Chatham Slow or Down          2½
+Main to the Up Chatham Fast                       Chatham Fast travelling towards Otford
+Passenger/ECS passing Swanley on Down             Non-stop service passing from Up Chatham          2½
+Chatham Slow crossing to Down Maidstone           Main to Up Chatham Slow
+Freight train passing Swanley on Down             Non-stop service passing from Up Chatham          3½
+Chatham Slow crossing to Down Maidstone           Main to Up Chatham Slow
+Train depart Platform 1 or 3 to the Down          Up train arrive/pass Platform 1 or 3 from Up      5
+Maidstone                                         Maidstone
+
+Planning Note
+The non-stop headway applies for consecutive departures from Swanley in the Down direction providing the first
+train does not stop at Eynsford and the correct headway is applied at the next common timing point irrespective of
+calling pattern. National TPR section 1.5.5 Application of Planning Headways refers
+
+
+
+
+Sole Street
+
+Adjustment Allowance
+Movement Down                                     Reason                                            Value
+Down train enters Platform 1 and terminates       Single Line Working during engineering works      1
+
+
+
+
+                                    Electronic copy - uncontrolled when printed

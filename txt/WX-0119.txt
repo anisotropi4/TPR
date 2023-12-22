@@ -1,0 +1,62 @@
+NETWORK RAIL                          Timetable Planning Rules                      Version:   4.2
+Route: Wessex                     Final Rules for Subsidiary OFFICIAL
+                                                             Change                   Date:    27th October 2023
+                                           Timetable 2024                             Page:    117 of 178
+
+
+Portsmouth & Southsea
+
+Dwell Times
+All Services                        1
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Between all movements except as below                                                             3
+Down arrival                                    Up departure crossing behind                      1
+Down Main Line arrival on Platform 2            Arrival on Platform 4 from Back Road              4
+Up Departure Platform 1 to Up Main              Arrival at Platform 3 or 4                        4
+Up Departure Platform 3 to Up Main              Down Main arrival on Platform 4                   4
+Up Departure Platform 4                         Down Arrival Platform 3                           4
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                                                 Prohibited
+Platform 2                         (Down direction)        Prohibited
+Platform 3                                                 Attaching/Detaching and Platform Sharing
+Platform 4                                                 Attaching/Detaching and Platform Sharing
+
+Platform Re-occupation
+                                    Margin
+Platforms 3 and 4 (Low Level)       4
+
+
+Portsmouth Harbour
+
+Junction Margins
+First Movement                                  Second Movement                                   Margin
+Up departure                                    Conflicting Down arrival                          3
+Down arrival                                    Conflicting Up departure                          1
+
+Permissive Working
+Attaching/Detaching and Platform Sharing is authorised as shown below -
+Platform 1                                                 Attaching/Detaching and Platform Sharing
+Platform 3                                                 Attaching/Detaching and Platform Sharing
+Platform 4                                                 Attaching/Detaching and Platform Sharing
+Platform 5                                                 Attaching/Detaching and Platform Sharing *
+* Class 444 are not permitted to attach by TOC instruction
+
+Platform Capacity
+                                    Cars                   Notes
+Platform 1                          8                      I x 5 car Class 444 with 1x 3 car Class 158 cannot be
+                                                           accommodated
+Platform 3                          12                     I x 5 car Class 444 with 2x 3 car Class 158 cannot be
+                                                           accommodated
+Platform 4                          12                     I x 5 car Class 444 with 2x 3 car Class 158 cannot be
+                                                           accommodated
+Platform 5                          12                     I x 5 car Class 444 with 2x 3 car Class 158 cannot be
+                                                           accommodated
+
+
+
+
+                                  Electronic copy - uncontrolled when printed.

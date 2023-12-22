@@ -1,0 +1,67 @@
+                                                    OFFICIAL
+
+NETWORK RAIL                         Timetable Planning Rules 2024                  Version:    4.1
+Western + Wales          Final Principal and Preliminary Proposal for Subsidiary
+                                                             OFFICIAL                 Date:     6th October 2023
+                                         Change Timetable 2024                        Page:     135 of 289
+
+
+Bristol West Junction
+
+Junction Margins
+Time needed between all conflicting moves                                           2½ (If first move is a
+                                                                                    passenger
+                                                                                    service/ECS/Light loco)
+                                                                                    2½ (If first move is a freight
+                                                                                    up to 50 SLUs)
+                                                                                    3 (If first train is a freight up
+                                                                                    to 80 SLUs)
+                                                                                    3½ (If first train is a freight
+                                                                                    up to 103 SLUs)
+
+A maximum of 3 trains may be held at Bristol West Junction as follows:-
+Train A on the West Carriage Line at Signal BL6728
+Train B on the West Carriage Washing Siding at Signal BL6730
+Train C on the West Carriage Line at Signal BL6734
+
+A minimum of 25 minutes is required to run round a loco hauled train at Bristol West Junction.
+Only trains which may be walked through should reverse here (Except where two drivers are provided). Trains
+which cannot be walked through are to reverse at Bedminster.
+
+Bedminster
+
+Dwell Time
+Class 150                          ½
+Class 153 to 159                   1
+GWR Short Form HST                 1*
+(HSTGW4) / 80x
+*1½ in the down direction SX between 1545 - 1830
+
+Reversal allowance
+80x                                 10 (due to platform suicide gates)
+
+Parson Street
+
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)
+Movement                                   Reason                  Timing Load        Value
+From Worle Junction to Parson Street Pass From Weston-super-       HST/ 22X / 80x     + {1}
+to Pass                                    Mare with slow speed at D245 to D315       + {1}
+                                           Worle Junction          D350 to D455       + {2}
+From Worle Junction to Parson Street Pass SRTs based on slower     15x/16x/GWR        - {½}
+to Pass via Weston Super Mare avoiding     speed route             Short Form HST
+line                                                               (HSTGW4)
+Crossing to Relief Line at Parson Street   Slower speed junction   All                + {1}
+(Not to apply to trains stopping at Parson
+Street)
+
+Dwell Time
+Class 150                          ½
+Class 153 to 159                   1
+GWR Short Form HST                 1*
+(HSTGW4) / 80x
+*1½ in the down direction SX between 1545 - 1830
+
+
+
+
+                                   Electronic copy - uncontrolled when printed.
