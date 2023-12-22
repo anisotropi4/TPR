@@ -46,4 +46,5 @@ do
     ./tabula.sh ${ROUTE}
 done
 
+echo Processing platform length
 ./get-platform.py

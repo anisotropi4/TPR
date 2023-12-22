@@ -1,0 +1,4239 @@
+route	page	station	platform	usable length [m]	notes
+AR	0157	Acle	1 (Up)	169	(82m in operational use)
+AR	0157	Acle	2 (Down)	118	(86m in operational use)
+AR	0157	Acton Central	1 (Westbound)	117	
+AR	0157	Acton Central	2 (Eastbound)	133	
+AR	0157	Alresford	1 (Up)	176	10-car 720 permitted with ASDO operation
+AR	0157	Alresford	2 (Down)	176	10-car 720 permitted with ASDO operation
+AR	0157	Althorne	Single	161	10-car 720 permitted with ASDO operation
+AR	0157	Attleborough	1 (Down)	114	(90m in operational use)
+AR	0157	Attleborough	2 (Up)	128	
+AR	0157	Audley End	1 (Up)	246.7	
+AR	0157	Audley End	2 (Down)	254.6	
+AR	0157	Barking	1 (Bay)	184.5	
+AR	0157	Barking	4	278	
+AR	0157	Barking	5	257	
+AR	0157	Barking	7 (Down)	244	
+AR	0157	Barking	8 (Up)	250	
+AR	0157	Barking Riverside	1	110	
+AR	0157	Barking Riverside	2	110	
+AR	0157	Basildon	1 (Up)	251	
+AR	0157	Basildon	2 (Down)	251	
+AR	0157	Battlesbridge	Single	166	10-car 720 permitted with ASDO operation
+AR	0157	Beccles	1 (Up)	125	
+AR	0157	Beccles	2 (Down)	125	
+AR	0157	Benfleet	1 (Up)	251	
+AR	0157	Benfleet	2 (Down)	251	
+AR	0157	Berney Arms	Single	18	3/4-car 755 permitted with ASDO operation
+AR	0157	Bethnal Green	1 (Up)	174.6	Suburban Line only
+AR	0157	Bethnal Green	2 (Down)	188.5	Suburban Line only
+AR	0157	Billericay	1 (Up)	248	
+AR	0157	Billericay	2 (Down)	249	
+AR	0157	Bishop’s Stortford	1	251	
+AR	0157	Bishop’s Stortford	2	251	
+AR	0157	Bishop’s Stortford	3	251	
+AR	0157	Blackhorse Road	1 (Up)	84.7	
+AR	0157	Blackhorse Road	2 (Down)	85.1	
+AR	0157	Braintree	Single	247	
+AR	0157	Braintree Freeport	Single	165.9	10-car 720 permitted with ASDO operation
+AR	0157	Brampton	Single	73	4-car 755 permitted with ASDO operation
+AR	0157	Brandon	1 (Down)	91	
+AR	0157	Brandon	2 (Up)	91	
+AR	0157	Brentwood	1 (Up Main)	211	
+AR	0157	Brentwood	2 (Down Main)	211	
+AR	0157	Brentwood	3 (Up Electric)	211	
+AR	0157	Brentwood	4 (Down Electric)	211	
+AR	0158	Brimsdown	1 (Up)	162.5	10-car 720 permitted with ASDO operation
+AR	0158	Brimsdown	2 (Down)	181.5	10-car 720 permitted with ASDO operation
+AR	0158	Brondesbury	1 (Westbound)	107	
+AR	0158	Brondesbury	2 (Eastbound)	109	
+AR	0158	Brondesbury Park	1 (Westbound)	106	
+AR	0158	Brondesbury Park	2 (Eastbound)	126	
+AR	0158	Broxbourne	1	244	
+AR	0158	Broxbourne	2	245	
+AR	0158	Broxbourne	3	245	
+AR	0158	Broxbourne	4	244	
+AR	0158	Bruce Grove	1 (Up)	187.1	
+AR	0158	Bruce Grove	2 (Down)	182.7	
+AR	0158	Brundall	1 (Up)	159	(118m in operational use)
+AR	0158	Brundall	2 (Down)	143	(98m in operational use)
+AR	0158	Brundall Gardens	1 (Up)	58	4-car 755 permitted with ASDO operation
+AR	0158	Brundall Gardens	2 (Down)	58	4-car 755 permitted with ASDO operation
+AR	0158	Buckenham	1 (Up)	60	3/4-car 755 permitted with ASDO operation
+AR	0158	Buckenham	2 (Down)	135	(52m in operational use) 3/4-car 755 permitted with ASDO operation
+AR	0158	Bures	Single	82	TAWS fitted 3-car Class 755 units only
+AR	0158	Burnham-on-Crouch	Single	169	10-car 720 permitted with ASDO operation
+AR	0158	Bury St Edmunds	1 (Up)	102.4	
+AR	0158	Bury St Edmunds	2 (Down)	115.8	
+AR	0158	Bush Hill Park	1 (Up)	188.5	
+AR	0158	Bush Hill Park	2 (Down)	188.9	
+AR	0158	Caledonian Road & Barnsbury	2 (Westbound)	107	
+AR	0158	Caledonian Road & Barnsbury	3 (Eastbound)	124	
+AR	0158	Cambridge	1	255	12-car capacity
+AR	0158	Cambridge	2	207	
+AR	0158	Cambridge	3	166	
+AR	0158	Cambridge	4	260	12-car Class 387 permitted in down direction only
+AR	0158	Cambridge	5	121	Class 720s are not permitted to use Platform 5
+AR	0158	Cambridge	6	145	Maximum 4-car EMU/BMU plus 2-car Class 158/170 DMU, or 6-car Class 158/170
+AR	0158	Cambridge	7	270	
+AR	0158	Cambridge	8	270	
+AR	0158	Cambridge Heath	1 (Up)	183.8	Suburban Line only
+AR	0158	Cambridge Heath	2 (Down)	179.3	Suburban Line only
+AR	0158	Cambridge North	1 (Up)	254	
+AR	0158	Cambridge North	2 (Down)	254	
+AR	0158	Cambridge North	3 (Bay)	254	
+AR	0158	Camden Road	1 (Westbound)	109	
+AR	0158	Camden Road	2 (Eastbound)	121	
+AR	0158	Canonbury	3 (Westbound) NLL	106	
+AR	0158	Canonbury	4 (Eastbound) NLL	124	
+AR	0159	Cantley	1 (Up)	165	(118m in operational use)
+AR	0159	Cantley	2 (Down)	159	(116m in operational use)
+AR	0159	Chadwell Heath	1 (Up Main)	211	
+AR	0159	Chadwell Heath	2 (Down Main)	213	
+AR	0159	Chadwell Heath	3 (Up Electric)	214	
+AR	0159	Chadwell Heath	4 (Down Electric)	213	
+AR	0159	Chafford Hundred	Single	242	
+AR	0159	Chalkwell	1 (Up)	248	
+AR	0159	Chalkwell	2 (Down)	248	
+AR	0159	Chappel & Wakes Colne	Single	107	TAWS fitted 3-car Class 755 units only
+AR	0159	Chelmsford	1 (Up)	247	
+AR	0159	Chelmsford	2 (Down)	248	
+AR	0159	Cheshunt	1 (Up)	245	
+AR	0159	Cheshunt	2 (Down)	257.7	
+AR	0159	Cheshunt	3 (Bay)	168.6	
+AR	0159	Chingford	1	172	
+AR	0159	Chingford	2	197.2	
+AR	0159	Chingford	3	164.9	
+AR	0159	Clacton-on-Sea	1	213	
+AR	0159	Clacton-on-Sea	2	259	
+AR	0159	Clacton-on-Sea	3	197	
+AR	0159	Clacton-on-Sea	4	245	
+AR	0159	Clapton	1 (Up)	182.2	
+AR	0159	Clapton	2 (Down)	189.5	
+AR	0159	Colchester	1	251	
+AR	0159	Colchester	2	260	
+AR	0159	Colchester	3	248	
+AR	0159	Colchester	4	318	(256m in operational use)
+AR	0159	Colchester	5	220	
+AR	0159	Colchester	6	223	
+AR	0159	Colchester Town	Single	260	(250m in operational use)
+AR	0159	Cressing	Single	178	10-car 720 permitted with ASDO operation
+AR	0159	Cromer	1	139	
+AR	0159	Cromer	2	139	
+AR	0159	Crouch Hill	1 (Up)	88.2	
+AR	0159	Crouch Hill	2 (Down)	88.3	
+AR	0159	Dagenham Dock	1 (Up)	247	
+AR	0159	Dagenham Dock	2 (Down)	243	
+AR	0159	Dalston Kingsland	1 (Westbound)	107	
+AR	0159	Dalston Kingsland	2 (Eastbound)	128	
+AR	0159	Darsham	1 (Up)	81	
+AR	0159	Darsham	2 (Down)	98	
+AR	0159	Derby Road	1 (Up)	137	(80m in operational use)
+AR	0159	Derby Road	2 (Down)	137	(74m in operational use)
+AR	0159	Diss	1 (Up)	250	
+AR	0159	Diss	2 (Down)	250	
+AR	0159	Dovercourt	Single	166	
+AR	0159	Downham Market	1 (Up)	183	
+AR	0159	Downham Market	2 (Down)	181	
+AR	0159	Dullingham	1 (Down)	82	
+AR	0159	Dullingham	2 (Up)	86	
+AR	0160	East Tilbury	1 (Up)	247	
+AR	0160	East Tilbury	2 (Down)	245	
+AR	0160	Eccles Road	1 (Down)	77	
+AR	0160	Eccles Road	2 (Up)	77	
+AR	0160	Edmonton Green	1 (Up)	188.1	10-car 720 permitted with ASDO operation
+AR	0160	Edmonton Green	2 (Down)	188.7	10-car 720 permitted with ASDO operation
+AR	0160	Elmswell	1 (Up)	77	
+AR	0160	Elmswell	2 (Down)	54	4-car 755 permitted with ASDO operation
+AR	0160	Elsenham	1 (Up)	165	10-car 720 permitted with ASDO operation
+AR	0160	Elsenham	2 (Down)	167	10-car 720 permitted with ASDO operation
+AR	0160	Ely	1 (Down)	256	10-car 720 NOT permitted into this platform
+AR	0160	Ely	2 (Up)	256	
+AR	0160	Ely	3 (Loop)	256	
+AR	0160	Emerson Park	Single	87.5	
+AR	0160	Enfield Lock	1 (Up)	167	10-car 720 permitted with ASDO operation
+AR	0160	Enfield Lock	2 (Down)	165	10-car 720 permitted with ASDO operation
+AR	0160	Enfield Town	1	182.5	
+AR	0160	Enfield Town	2	182.5	
+AR	0160	Enfield Town	3	176.2	
+AR	0160	Felixstowe	Single	127	(90m in operational use)
+AR	0160	Fenchurch Street	1	250	
+AR	0160	Fenchurch Street	2	250	
+AR	0160	Fenchurch Street	3	250	
+AR	0160	Fenchurch Street	4	250	
+AR	0160	Finchley Rd & Frognal	1 (Westbound)	106	
+AR	0160	Finchley Rd & Frognal	2 (Eastbound)	128	
+AR	0160	Forest Gate	1 (Up Electric)	173	9-car 345 permitted with ASDO operation
+AR	0160	Forest Gate	2 (Down Electric)	178	The Driver MUST gain Signallers authority under S5 of RSSB Rule Book for 9-car reversals at these locations
+AR	0160	Forest Gate	3 (Up Main)	190	The Driver MUST gain Signallers authority under S5 of RSSB Rule Book for 9-car reversals at these locations
+AR	0160	Forest Gate	4 (Down Main)	198	The Driver MUST gain Signallers authority under S5 of RSSB Rule Book for 9-car reversals at these locations
+AR	0160	Foxton	1 (Up)	105	Trains longer than 5 cars can call providing they are equipped with SDO (Selective Door Opening) equipment
+AR	0160	Foxton	2 (Down)	174	
+AR	0160	Frinton-on-Sea	Single	179	
+AR	0160	Gidea Park	1 (Up Main)	211	
+AR	0160	Gidea Park	2 (Down Main)	211	
+AR	0160	Gidea Park	3 (Up Electric)	227	
+AR	0160	Gidea Park	4 (Down Electric)	228	
+AR	0160	Goodmayes	1 (Up Main)	212	
+AR	0160	Goodmayes	2 (Down Main)	212	
+AR	0160	Goodmayes	3 (Up Electric)	212	
+AR	0160	Goodmayes	4 (Down Electric)	212	
+AR	0161	Gospel Oak	1 (Westbound)	106	
+AR	0161	Gospel Oak	2 (Eastbound)	113	
+AR	0161	Gospel Oak	3 Bay	80.2	
+AR	0161	Grays	1 (Up)	247	
+AR	0161	Grays	2 (Down)	253	
+AR	0161	Grays	3 (Third Line)	173	
+AR	0161	Great Bentley	1 (Up)	176	10-car 720 permitted with ASDO operation
+AR	0161	Great Bentley	2 (Down)	176	10-car 720 permitted with ASDO operation
+AR	0161	Great Chesterford	1 (Up)	167	10-car 720 permitted with ASDO operation
+AR	0161	Great Chesterford	2 (Down)	167	10-car 720 permitted with ASDO operation
+AR	0161	Great Yarmouth	2	282	
+AR	0161	Great Yarmouth	3	282	(180m in operational use)
+AR	0161	Great Yarmouth	4	268	(174m in operational use)
+AR	0161	Gunnersbury	1 (Westbound)	118	
+AR	0161	Gunnersbury	2 (Eastbound)	130	
+AR	0161	Gunton	Single	60	4-car 755 permitted with ASDO operation
+AR	0161	Hackney Central	1 (Westbound)	126	
+AR	0161	Hackney Central	2 (Eastbound)	126	
+AR	0161	Hackney Downs	1 (Up)	209	10-car 720 permitted with ASDO operation
+AR	0161	Hackney Downs	2 (Down)	180	8-car 710 permitted with ASDO operation 10-car 720 permitted with ASDO operation
+AR	0161	Hackney Downs	3 (Up)	180.2	10-car 720 permitted with ASDO operation
+AR	0161	Hackney Downs	4 (Down)	186.4	8-car 710 permitted with ASDO operation 10-car 720 permitted with ASDO operation
+AR	0161	Hackney Wick	1 (Westbound)	126	
+AR	0161	Hackney Wick	2 (Eastbound)	126	
+AR	0161	Haddiscoe	1 (Up)	46	3/4-car 755 permitted with ASDO operation
+AR	0161	Haddiscoe	2 (Down)	182	(85m in operational use)
+AR	0161	Halesworth	1 (Up)	152	(66m in operational use) 4-car 755 permitted with ASDO operation
+AR	0161	Halesworth	2 (Down)	96	(66m in operational use) 4-car 755 permitted with ASDO operation
+AR	0161	Hampstead Heath	1 (Westbound)	109	
+AR	0161	Hampstead Heath	2 (Eastbound)	102	
+AR	0161	Harling Road	1 (Down)	90	
+AR	0161	Harling Road	2 (Up)	127	
+AR	0161	Harlow Mill	1 (Up)	168	10-car 720 permitted with ASDO operation
+AR	0161	Harlow Mill	2 (Down)	168	10-car 720 permitted with ASDO operation
+AR	0161	Harlow Town	1	251	
+AR	0161	Harlow Town	2	251	
+AR	0161	Harlow Town	3	251	
+AR	0161	Harlow Town	4	251	
+AR	0161	Harold Wood	1 (Up Main)	209	
+AR	0161	Harold Wood	2 (Down Main)	211	
+AR	0161	Harold Wood	3 (Up Electric)	209	
+AR	0161	Harold Wood	4 (Down Electric)	211	
+AR	0161	Harringay Green Lanes	1 (Up)	90.7	
+AR	0161	Harringay Green Lanes	2 (Down)	90.6	
+AR	0161	Harwich International	1	262	
+AR	0161	Harwich International	2	264	
+AR	0161	Harwich International	3 (Bay)	259	
+AR	0161	Harwich Town	Single	166.2	(146.2m in operational use for Class 720)
+AR	0162	Hatfield Peverel	1 (Up)	250	
+AR	0162	Hatfield Peverel	2 (Down)	250	
+AR	0162	Hertford East	1	249	
+AR	0162	Hertford East	2	249	
+AR	0162	Highams Park	1 (Up)	187.3	
+AR	0162	Highams Park	2 (Down)	186.3	
+AR	0162	Highbury & Islington NLL	7 (Westbound)	111	
+AR	0162	Highbury & Islington NLL	8 (Eastbound)	113	
+AR	0162	Hockley	1 (Up)	250	
+AR	0162	Hockley	2 (Down)	250	
+AR	0162	Homerton	1 (Westbound)	106	
+AR	0162	Homerton	2 (Eastbound)	106	
+AR	0162	Hoveton & Wroxham	1 (Up)	110	
+AR	0162	Hoveton & Wroxham	2 (Down)	114	
+AR	0162	Hythe	1 Up	250	
+AR	0162	Hythe	2 Down	272	
+AR	0162	Ilford	1 (Up Main)	226	
+AR	0162	Ilford	2 (Down Main)	221	
+AR	0162	Ilford	3 (Up Electric)	233	
+AR	0162	Ilford	4 (Down Electric)	227	
+AR	0162	Ingatestone	1 (Up)	248	
+AR	0162	Ingatestone	2 (Down)	250	
+AR	0162	Ipswich	1 (Bay)	135	Bi-mode units only able to use Country End as per Local Instruction.
+AR	0162	Ipswich	2 (Up)	245	
+AR	0162	Ipswich	3 (Down)	255	
+AR	0162	Ipswich	4 (Down Loop)	254	
+AR	0162	Kelvedon	1 (Up)	249	
+AR	0162	Kelvedon	2 (Down)	257	
+AR	0162	Kennett	1 (Down)	69	4-car 755 permitted with ASDO operation
+AR	0162	Kennett	2 (Up)	62	4-car 755 permitted with ASDO operation
+AR	0162	Kensal Rise	1 (Westbound)	106	
+AR	0162	Kensal Rise	2 (Eastbound)	122	
+AR	0162	Kentish Town West	1 (Westbound)	109	
+AR	0162	Kentish Town West	2 (Eastbound)	109	
+AR	0162	Kew Gardens	1 (Eastbound)	112	
+AR	0162	Kew Gardens	2 (Westbound)	158	
+AR	0162	King’s Lynn	1	227	
+AR	0162	King’s Lynn	2	183	
+AR	0162	Kirby Cross	1 (Up)	168	
+AR	0162	Kirby Cross	2 (Down)	168	
+AR	0162	Laindon	1	249	
+AR	0162	Laindon	2	249	
+AR	0162	Laindon	3	249	
+AR	0162	Lakenheath	1 (Down)	149	
+AR	0162	Lakenheath	2 (Up)	119	
+AR	0162	Lea Bridge	1 (Up)	172	10-car 720 permitted with ASDO operation
+AR	0162	Lea Bridge	2 (Down)	176	10-car 720 permitted with ASDO operation
+AR	0163	Leigh-on-Sea	1	247	
+AR	0163	Leigh-on-Sea	2	248	
+AR	0163	Leigh-on-Sea	3	248	
+AR	0163	Leyton Midland Road	1 (Up)	92.7	
+AR	0163	Leyton Midland Road	2 (Down)	84.5	
+AR	0163	Leytonstone High Road	1 (Up)	80.5	
+AR	0163	Leytonstone High Road	2 (Down)	82.9	
+AR	0163	Limehouse	1 (Up)	250	
+AR	0163	Limehouse	2 (Down)	250	
+AR	0163	Lingwood	Single	92	
+AR	0163	Littleport	1 (Up)	86	Trains longer than 4 cars can call providing they are equipped with SDO (Selective Door Opening) equipment
+AR	0163	Littleport	2 (Down)	167	
+AR	0163	Liverpool Street	1	242	
+AR	0163	Liverpool Street	2	252	
+AR	0163	Liverpool Street	3	252	
+AR	0163	Liverpool Street	4	252	
+AR	0163	Liverpool Street	5	252	
+AR	0163	Liverpool Street	6	252	
+AR	0163	Liverpool Street	7	252	
+AR	0163	Liverpool Street	8	252	
+AR	0163	Liverpool Street	9	288	
+AR	0163	Liverpool Street	10	248	
+AR	0163	Liverpool Street	11	261	
+AR	0163	Liverpool Street	12	246	
+AR	0163	Liverpool Street	13	256	
+AR	0163	Liverpool Street	14	246	
+AR	0163	Liverpool Street	15	246	
+AR	0163	Liverpool Street	16	205	
+AR	0163	Liverpool Street	17	205	
+AR	0163	London Fields	1 (Up)	177.5	Suburban Line only
+AR	0163	London Fields	2 (Down)	194.9	Suburban Line only
+AR	0163	Lowestoft	2	214	(119m in operational use)
+AR	0163	Lowestoft	3	229	(119m in operational use)
+AR	0163	Lowestoft	4	229	(119m in operational use)
+AR	0163	Manea	1 (Down)	42	3/4-car 755 permitted with ASDO operation
+AR	0163	Manea	2 (Up)	49	3/4-car 755 permitted with ASDO operation
+AR	0163	Manningtree	1 (Bay)	108	5-car 720 permitted with ASDO operation
+AR	0163	Manningtree	2 (Up)	245	
+AR	0163	Manningtree	3 (Down)	235	10-car 720 permitted with ASDO operation 12-car 745 permitted with ASDO operation
+AR	0163	Manor Park	1 (Up Electric)	168	9-car 345 permitted with ASDO operation
+AR	0163	Manor Park	2 (Down Electric)	185	9-car 345 permitted with ASDO operation
+AR	0163	Manor Park	3 (Up Main)	194	9-car 345 permitted with ASDO operation
+AR	0163	Manor Park	4 (Down Main)	163	The Driver MUST gain Signallers authority under S5 of RSSB Rule Book for 9-car reversals at these locations
+AR	0163	March	1 (Down)	112	
+AR	0163	March	2 (Up)	116	
+AR	0163	Marks Tey	1 (Up)	235	10-car 720 permitted with ASDO operation
+AR	0163	Marks Tey	2 (Down)	247	
+AR	0164	Marks Tey	3 (Sudbury)	50	3-car 755 permitted with ASDO operation & TAWS equipment fitted
+AR	0164	Maryland	1 (Up Electric)	168	9-car 345 permitted with ASDO operation
+AR	0164	Maryland	2 (Down Electric)	169	The Driver MUST gain Signallers authority under S5 of RSSB Rule Book for 9-car reversals at these locations
+AR	0164	Maryland	3 (Up Main)	168	The Driver MUST gain Signallers authority under S5 of RSSB Rule Book for 9-car reversals at these locations
+AR	0164	Maryland	4 (Down Main)	167	The Driver MUST gain Signallers authority under S5 of RSSB Rule Book for 9-car reversals at these locations
+AR	0164	Meldreth	1 (Up)	128	Trains longer than 6 cars can call providing they are equipped with SDO (Selective Door Opening) equipment
+AR	0164	Meldreth	2 (Down)	128	Trains longer than 6 cars can call providing they are equipped with SDO (Selective Door Opening) equipment
+AR	0164	Melton	Single	73	(56m in operational use) 4-car 755 permitted with ASDO operation
+AR	0164	Meridian Water	2 (Lea Valley Reversible)	160	10-car 720 permitted with ASDO operation
+AR	0164	Meridian Water	3 (Up)	172	10-car 720 permitted with ASDO operation
+AR	0164	Meridian Water	4 (Down)	173	10-car 720 permitted with ASDO operation
+AR	0164	Mistley	1 (Up)	91	5-car 720 permitted with ASDO operation
+AR	0164	Mistley	2 (Down)	93	5-car 720 permitted with ASDO operation
+AR	0164	Needham Market	1 (Down)	83	
+AR	0164	Needham Market	2 (Up)	71	
+AR	0164	Newmarket	Single	231	(81m in operational use)
+AR	0164	Newport	1 (Up)	168	10-car 720 permitted with ASDO operation
+AR	0164	Newport	2 (Down)	167	10-car 720 permitted with ASDO operation
+AR	0164	Northumberland Park	2 (Lea Valley Reversible)	193	10-car 720 permitted with ASDO operation
+AR	0164	Northumberland Park	3 (Up)	172	10-car 720 permitted with ASDO operation 12-car 745 permitted with ASDO operation
+AR	0164	Northumberland Park	4 (Down)	173	10-car 720 permitted with ASDO operation 12-car 745 permitted with ASDO operation
+AR	0164	North Fambridge	1 (Up)	165	10-car 720 permitted with ASDO operation
+AR	0164	North Fambridge	2 (Down)	189	10-car 720 permitted with ASDO operation
+AR	0164	North Walsham	1 (Up)	106	
+AR	0164	North Walsham	2 (Down)	101	
+AR	0164	Norwich	1	298	
+AR	0164	Norwich	2	296	
+AR	0164	Norwich	3	250	
+AR	0164	Norwich	4	255	
+AR	0164	Norwich	5	198	
+AR	0164	Norwich	6	132	Bi-mode or DMU traction only
+AR	0164	Ockendon	1 (Down)	248	
+AR	0164	Ockendon	2 (Up)	248	
+AR	0164	Oulton Broad North	1 (Up)	146	(102m in operational use)
+AR	0164	Oulton Broad North	2 (Down)	149	(89m in operational use)
+AR	0164	Oulton Broad South	Single	151	(92m in operational use)
+AR	0165	Pitsea	1	250	
+AR	0165	Pitsea	2	250	
+AR	0165	Pitsea	3	251	
+AR	0165	Pitsea	4	244	
+AR	0165	Ponders End	1 (Up)	167	10-car 720 permitted with ASDO operation
+AR	0165	Ponders End	2 (Down)	166	10-car 720 permitted with ASDO operation
+AR	0165	Prittlewell	1 (Up)	247	
+AR	0165	Prittlewell	2 (Down)	247	
+AR	0165	Purfleet	1 (Up)	266	
+AR	0165	Purfleet	2 (Down)	246	
+AR	0165	Rainham	1 (Up)	247	
+AR	0165	Rainham	2 (Down)	242	
+AR	0165	Rayleigh	1 (Up)	249	
+AR	0165	Rayleigh	2 (Down)	250	
+AR	0165	Rectory Road	1 (Up)	186	
+AR	0165	Rectory Road	2 (Down)	187	
+AR	0165	Reedham	1 (Up)	175	(91m in operational use)
+AR	0165	Reedham	2 (Down)	192	(83m in operational use)
+AR	0165	Richmond	3	120	
+AR	0165	Richmond	4	120	
+AR	0165	Richmond	5	120	
+AR	0165	Richmond	6	129	
+AR	0165	Richmond	7	129	
+AR	0165	Rochford	1 (Up)	249	
+AR	0165	Rochford	2 (Down)	249	
+AR	0165	Romford	1 (Bay)	85.6	
+AR	0165	Romford	2 (Up Main)	211	10-car 720 permitted with ASDO operation
+AR	0165	Romford	3 (Down Main)	211	10-car 720 permitted with ASDO operation
+AR	0165	Romford	4 (Up Electric)	211	10-car 720 permitted with ASDO operation
+AR	0165	Romford	5 (Down Electric)	211	10-car 720 permitted with ASDO operation
+AR	0165	Roughton Road	Single	60	4-car 755 permitted with ASDO operation
+AR	0165	Roydon	1 (Up)	172	10-car 720 permitted with ASDO operation
+AR	0165	Roydon	2 (Down)	170	10-car 720 permitted with ASDO operation
+AR	0165	Rye House	1 (Up)	186	10-car 720 permitted with ASDO operation
+AR	0165	Rye House	2 (Down)	170	10-car 720 permitted with ASDO operation
+AR	0165	St James Street	1 (Up)	188.9	
+AR	0165	St James Street	2 (Down)	189.6	
+AR	0165	St Margarets	1 (Up)	199	10-car 720 permitted with ASDO operation
+AR	0165	St Margarets	2 (Down)	167	10-car 720 permitted with ASDO operation
+AR	0165	Salhouse	1 (Up)	83	(75.3m in operational use)
+AR	0165	Salhouse	2 (Down)	128.8	(81m in operational use)
+AR	0165	Sawbridgeworth	1 (Up)	281	
+AR	0165	Sawbridgeworth	2 (Down)	249	
+AR	0166	Saxmundham	1 (Up)	113	
+AR	0166	Saxmundham	2 (Down)	72	4-car 755 permitted with ASDO operation
+AR	0166	Seven Kings	1 (Up Main)	180	9-car 345 permitted with ASDO operation 10-car 720 permitted with ASDO operation
+AR	0166	Seven Kings	2 (Down Main)	180	9-car 345 permitted with ASDO operation 10-car 720 permitted with ASDO operation
+AR	0166	Seven Kings	3 (Up Electric)	187	9-car 345 permitted with ASDO operation 10-car 720 permitted with ASDO operation
+AR	0166	Seven Kings	4 (Down Electric)	187	9-car 345 permitted with ASDO operation 10-car 720 permitted with ASDO operation
+AR	0166	Seven Sisters	1 (Up)	188.3	10-car 720 permitted with ASDO operation 12-car 745 permitted with ASDO operation
+AR	0166	Seven Sisters	2 (Down)	185.1	10-car 720 permitted with ASDO operation 12-car 745 permitted with ASDO operation
+AR	0166	Shelford	1 (Up)	180	10-car 720 permitted with ASDO operation
+AR	0166	Shelford	2 (Down)	180	10-car 720 permitted with ASDO operation
+AR	0166	Shenfield	1	249	
+AR	0166	Shenfield	2	249	
+AR	0166	Shenfield	3	255	
+AR	0166	Shenfield	4	249	
+AR	0166	Shenfield	5	245	
+AR	0166	Shenfield	6	209	
+AR	0166	Shepreth	1 (Up)	97	Trains longer than 4 cars can call providing they are equipped with SDO (Selective Door Opening) equipment
+AR	0166	Shepreth	2 (Down)	171	
+AR	0166	Sheringham	Single	80	
+AR	0166	Shippea Hill	1 (Down)	147	(85m in operational use)
+AR	0166	Shippea Hill	2 (Up)	132	(89m in operational use)
+AR	0166	Shoeburyness	1	255	
+AR	0166	Shoeburyness	2	264	
+AR	0166	Shoeburyness	3	181	
+AR	0166	Silver Street	2 (Down)	188.9	
+AR	0166	Silver Street	1 (Up)	189.1	
+AR	0166	Soham	Single	99	
+AR	0166	Somerleyton	2 (Down)	148	
+AR	0166	Somerleyton	1 (Up)	127	
+AR	0166	South Acton	1 (Westbound)	116	
+AR	0166	South Acton	2 (Eastbound)	106	
+AR	0166	South Tottenham	1 (Up)	78.7	
+AR	0166	South Tottenham	2 (Down)	72.5	
+AR	0166	Southbury	1 (Up)	187.2	
+AR	0166	Southbury	2 (Down)	187.5	
+AR	0166	Southend Airport	1 (Up)	250	
+AR	0166	Southend Airport	2 (Down)	250	
+AR	0166	Southend Central	1	248	
+AR	0166	Southend Central	2	251	
+AR	0166	Southend Central	3	276	
+AR	0166	Southend Central	4	248	
+AR	0166	Southend East	1 (Up)	246	
+AR	0166	Southend East	2 (Down)	246	
+AR	0167	Southend Victoria	1	247.7	
+AR	0167	Southend Victoria	2	254.8	
+AR	0167	Southend Victoria	3	254.8	
+AR	0167	Southend Victoria	4	249.5	
+AR	0167	Southminster	Single	180	10-car 720 permitted with ASDO operation
+AR	0167	South Woodham Ferrers	Single	264	
+AR	0167	Spooner Row	1 (Down)	42	3/4-car 755 permitted with ASDO operation
+AR	0167	Spooner Row	2 (Up)	48	3/4-car 755 permitted with ASDO operation
+AR	0167	Stamford Hill	1(Up)	175.5	
+AR	0167	Stamford Hill	2 (Down)	188.3	
+AR	0167	Stanford-le-Hope	1 (Up)	257	
+AR	0167	Stanford-le-Hope	2 (Down)	243	
+AR	0167	Stansted Airport	1	332	
+AR	0167	Stansted Airport	2	109	(97m in operational use)
+AR	0167	Stansted Airport	3	291	
+AR	0167	Stansted Mountfitchet	1 (Up)	255	
+AR	0167	Stansted Mountfitchet	2 (Down)	255	
+AR	0167	Stoke Newington	1 (Up)	164.1	8-car 710 permitted with ASDO operation
+AR	0167	Stoke Newington	2 (Down)	161.3	8-car 710 permitted with ASDO operation
+AR	0167	Stowmarket	1 (Up)	250	
+AR	0167	Stowmarket	2 (Down)	250	
+AR	0167	Stratford	1	133	NLL
+AR	0167	Stratford	2	100	NLL
+AR	0167	Stratford	5	253	Up Electric
+AR	0167	Stratford	8	250	Down Electric
+AR	0167	Stratford	9	256	Up Main
+AR	0167	Stratford	10	249	Down Main
+AR	0167	Stratford	10A	256	Avoiding Line
+AR	0167	Stratford	11	307	
+AR	0167	Stratford	12	182	Proposed relocation of S697 Signal to allow ASDO operation TBC
+AR	0167	Sudbury	Single	52	3-car 755 permitted with ASDO operation & TAWS equipment fitted
+AR	0167	Theobalds Grove	1 (Up)	189.7	
+AR	0167	Theobalds Grove	2 (Down)	187.2	
+AR	0167	Thetford	1 (Down)	150	
+AR	0167	Thetford	2 (Up)	111	
+AR	0167	Thorpe Bay	1 (Up)	249	
+AR	0167	Thorpe Bay	2 (Down)	249	
+AR	0167	Thorpe-le-Soken	1	248	
+AR	0167	Thorpe-le-Soken	2	248	
+AR	0167	Thurston	1 (Up)	87	
+AR	0167	Thurston	2 (Down)	86	
+AR	0167	Tilbury Town	1 (Up)	249	
+AR	0167	Tilbury Town	2 (Down)	247	
+AR	0167	Tottenham Hale	2 (Lea Valley Reversible)	180	10-car 720 permitted with ASDO operation
+AR	0167	Tottenham Hale	3 (Up)	254	
+AR	0167	Tottenham Hale	4 (Down)	250	
+AR	0167	Trimley	Single	141	(74m in operational use)
+AR	0167	Turkey Street	1 (Up)	189.4	
+AR	0167	Turkey Street	2 (Down)	189.2	
+AR	0168	Upminster	1 (Up)	247	
+AR	0168	Upminster	1a (Ockendon Bay)	143	8-car multiple unit ECS reversal permitted
+AR	0168	Upminster	2 (Down)	247	
+AR	0168	Upminster	6 (Romford)	91.7	
+AR	0168	Upper Holloway	1 (Up)	99.7	
+AR	0168	Upper Holloway	2 (Down)	91.8	
+AR	0168	Waltham Cross	1 (Up)	170	10-car 720 permitted with ASDO operation
+AR	0168	Waltham Cross	2 (Down)	184	10-car 720 permitted with ASDO operation
+AR	0168	Walthamstow Central	1 (Up)	187.4	
+AR	0168	Walthamstow Central	2 (Down)	182.3	
+AR	0168	Walthamstow Queens Road	1 (Up)	84.7	
+AR	0168	Walthamstow Queens Road	2 (Down)	84.7	
+AR	0168	Walton-on-the-Naze	Single	175	(165m in operational use for Class 720)
+AR	0168	Wanstead Park	1 (Up)	95	
+AR	0168	Wanstead Park	2 (Down)	88.5	
+AR	0168	Ware	Single	276	
+AR	0168	Waterbeach	1 (Up)	167	
+AR	0168	Waterbeach	2 (Down)	167	No ASDO until issue with AHB Xing resolved
+AR	0168	Watlington	1 (Up)	90	Trains longer than 4 cars can call providing they are equipped with SDO (Selective Door Opening) equipment
+AR	0168	Watlington	2 (Down)	106	Trains longer than 5 cars can call providing they are equipped with SDO (Selective Door Opening) equipment
+AR	0168	Weeley	1 (Up)	175	10-car 720 permitted with ASDO operation
+AR	0168	Weeley	2 (Down)	175	10-car 720 permitted with ASDO operation
+AR	0168	West Ham	7 Up	248	LTS route
+AR	0168	West Ham	8 Down	248	LTS route
+AR	0168	West Hampstead	1 (Westbound)	105	
+AR	0168	West Hampstead	2 (Eastbound)	120	
+AR	0168	West Horndon	1 (Up)	248	
+AR	0168	West Horndon	2 (Down)	248	
+AR	0168	West Runton	Single	97	
+AR	0168	Westcliff	1 (Up)	248	
+AR	0168	Westcliff	2 (Down)	248	
+AR	0168	Westerfield	1 (Up)	100	(71m in operational use in Up Direction; 91m in Down Direction)
+AR	0168	Westerfield	2 (Down)	100	(88m in operational use)
+AR	0168	White Hart Lane	1 (Up)	188.6	10-car 720 permitted with ASDO operation 12-car 745 permitted with ASDO operation
+AR	0168	White Hart Lane	2 (Down)	188.6	10-car 720 permitted with ASDO operation 12-car 745 permitted with ASDO operation
+AR	0168	White Notley	Single	249	
+AR	0168	Whittlesea	1 (Down)	45	3/4-car 755 permitted with ASDO operation
+AR	0168	Whittlesea	2 (Up)	62	3/4-car 755 permitted with ASDO operation
+AR	0168	Whittlesford Parkway	1 (Up)	254	
+AR	0168	Whittlesford Parkway	2 (Down)	254	
+AR	0168	Wickford	1 (Down Bay)	122.1	
+AR	0168	Wickford	2 (Down)	248	
+AR	0168	Wickford	3 (Up)	252	
+AR	0168	Wickford	4 (Up Bay)	105	Class 720 NOT permitted into this platform
+AR	0168	Wickham Market	Single	80	
+AR	0169	Willesden Junction High Level	4 (Eastbound)	101	
+AR	0169	Willesden Junction High Level	5 (Westbound)	126	
+AR	0169	Witham	1 (Up Loop)	250	
+AR	0169	Witham	2 (Up)	249	12-car 745 permitted with ASDO operation
+AR	0169	Witham	3 (Down)	252	
+AR	0169	Witham	4 (Down Loop)	250	
+AR	0169	Wivenhoe	1 (Up)	248	
+AR	0169	Wivenhoe	2 (Down)	248	
+AR	0169	Wood Street	1 (Up)	184.2	
+AR	0169	Wood Street	2 (Down)	188.3	
+AR	0169	Woodbridge	1 (Down)	142	(130m in operational use)
+AR	0169	Woodbridge	2 (Up)	129	(53m in operational use)
+AR	0169	Woodgrange Park	1 (Up)	89.5	
+AR	0169	Woodgrange Park	2 (Down)	88	
+AR	0169	Worstead	Single	79	(69m in operational use) 4-car 755 permitted with ASDO operation
+AR	0169	Wrabness	1 (Up)	86	5-car 720 permitted with ASDO operation
+AR	0169	Wrabness	2 (Down)	90	5-car 720 permitted with ASDO operation
+AR	0169	Wymondham	1 (Down)	103.56	
+AR	0169	Wymondham	2 (Up)	92	
+EM	0108	Alfreton	Down	191	
+EM	0108	Alfreton	Up	189	
+EM	0108	Ambergate	Single	105	
+EM	0108	Aslockton	Down	76	
+EM	0108	Aslockton	Up	73	
+EM	0108	Attenborough	Down	99	
+EM	0108	Attenborough	Up	97	
+EM	0108	Barrow on Soar	1	59	
+EM	0108	Barrow on Soar	2	59	
+EM	0108	Bedford	1A	81	
+EM	0108	Bedford	1	261	
+EM	0108	Bedford	2	261	
+EM	0108	Bedford	3	261	
+EM	0108	Bedford	4	240	
+EM	0108	Beeston	1	142	
+EM	0108	Beeston	2	142	
+EM	0108	Belper	Down	116	
+EM	0108	Belper	Up	118	
+EM	0108	Bingham	Down	98	
+EM	0108	Bingham	Up	98	
+EM	0108	Bleasby	Up	81	
+EM	0108	Bleasby	Down	90	
+EM	0108	Blythe Bridge	2 (Down)	91	
+EM	0108	Blythe Bridge	1 (Up)	91	
+EM	0108	Brent Cross West	1	255	
+EM	0108	Brent Cross West	2	255	
+EM	0108	Brent Cross West	3	255	
+EM	0108	Brent Cross West	4	255	
+EM	0108	Bulwell	Single	80	
+EM	0108	Burton Joyce	Down	102	
+EM	0108	Burton Joyce	Up	94	
+EM	0108	Burton on Trent	Down	217	
+EM	0108	Burton on Trent	Up	217	
+EM	0108	Carlton	Down	106	
+EM	0108	Carlton	Up	111	
+EM	0108	Chesterfield	1	212	
+EM	0108	Chesterfield	2	204	
+EM	0108	Chesterfield	3	240	
+EM	0108	Corby	1	246	
+EM	0108	Cricklewood	1	171	
+EM	0108	Cricklewood	2	171	
+EM	0108	Cricklewood	3	171	
+EM	0108	Cricklewood	4	183	
+EM	0109	Cromford	Single	114	
+EM	0109	Derby	1	331	
+EM	0109	Derby	2	334	
+EM	0109	Derby	3	334*	*320 metres between signals for reversing services
+EM	0109	Derby	4	337*	*320 metres between signals for reversing services
+EM	0109	Derby	5	337*	*290 metres between signals for reversing services
+EM	0109	Derby	6	338*	*337 metres between signals for reversing services
+EM	0109	Duffield	Down	128	
+EM	0109	Duffield	Up	128	
+EM	0109	East Midlands Parkway	1	240	
+EM	0109	East Midlands Parkway	2	240	
+EM	0109	East Midlands Parkway	3	120	
+EM	0109	East Midlands Parkway	4	120	
+EM	0109	Elton and Orston	Down	105	
+EM	0109	Elton and Orston	Up	105	
+EM	0109	Elstree	1	245	
+EM	0109	Elstree	2	245	
+EM	0109	Elstree	3	176	
+EM	0109	Elstree	4	177	
+EM	0109	Farringdon	3	269	
+EM	0109	Farringdon	4	269	
+EM	0109	Fiskerton	Down	103	
+EM	0109	Fiskerton	Up	96	
+EM	0109	Flitwick	1	245	
+EM	0109	Flitwick	2	245	
+EM	0109	Flitwick	3	245	
+EM	0109	Flitwick	4	245	
+EM	0109	Harlington	1	245	
+EM	0109	Harlington	2	245	
+EM	0109	Harlington	3	168	
+EM	0109	Harlington	4	178	
+EM	0109	Harpenden	1	245	
+EM	0109	Harpenden	2	245	
+EM	0109	Harpenden	3	245	
+EM	0109	Harpenden	4	245	
+EM	0109	Hendon	1	166	
+EM	0109	Hendon	2	170	
+EM	0109	Hendon	3	172	
+EM	0109	Hendon	4	166	
+EM	0109	Hinckley	Down	104	
+EM	0109	Hinckley	Up	104	
+EM	0109	Hucknall	Single	79	
+EM	0109	Kentish Town	1	192	
+EM	0109	Kentish Town	2	201	
+EM	0110	Kentish Town	3	201	
+EM	0110	Kentish Town	4	174	
+EM	0110	Kettering	1	247	
+EM	0110	Kettering	2	247	
+EM	0110	Kettering	3	247	
+EM	0110	Kettering	4	247	
+EM	0110	Kirby in Ashfield	1	80	
+EM	0110	Kirby in Ashfield	2	80	
+EM	0110	Langley Mill	Down	96	
+EM	0110	Langley Mill	Up	96	
+EM	0110	Leagrave	1	245	
+EM	0110	Leagrave	2	245	
+EM	0110	Leagrave	3	177	
+EM	0110	Leagrave	4	245	
+EM	0110	Leicester	1	270	Northbound
+EM	0110	Leicester	1	272	Southbound
+EM	0110	Leicester	2	281	
+EM	0110	Leicester	3	281	
+EM	0110	Leicester	4	288	
+EM	0110	London St Pancras			See St Pancras
+EM	0110	Long Eaton	Down	110	
+EM	0110	Long Eaton	Up	113	
+EM	0110	Longton	Down	88	
+EM	0110	Longton	Up	85	
+EM	0110	Loughborough	1	242	
+EM	0110	Loughborough	2	242	
+EM	0110	Loughborough	3	148	
+EM	0110	Lowdham	Down	82	
+EM	0110	Lowdham	Up	119	
+EM	0110	Luton	1	255	
+EM	0110	Luton	2	255	
+EM	0110	Luton	3	254	
+EM	0110	Luton	4	255	
+EM	0110	Luton	5	251	
+EM	0110	Luton Airport Parkway	1	245	
+EM	0110	Luton Airport Parkway	2	245	
+EM	0110	Luton Airport Parkway	3	245	
+EM	0110	Luton Airport Parkway	4	245	
+EM	0110	Mansfield Town	1	144	
+EM	0110	Mansfield Town	2	102	
+EM	0110	Mansfield Woodhouse	1	79	
+EM	0110	Mansfield Woodhouse	2	76	
+EM	0110	Mansfield Woodhouse	3	76	
+EM	0110	Market Harborough	Down	250	
+EM	0110	Market Harborough	Up	265	
+EM	0110	Matlock	Single	123	
+EM	0110	Matlock Bath	Single	185	
+EM	0110	Melton Mowbray	Down	84	Barrow crossing misuse mitigation
+EM	0110	Melton Mowbray	Up	86	Barrow crossing misuse mitigation
+EM	0110	Mill Hill Broadway	1	245	
+EM	0110	Mill Hill Broadway	2	245	
+EM	0111	Mill Hill Broadway	3	245	
+EM	0111	Mill Hill Broadway	4	245	
+EM	0111	Narborough	Down	100	
+EM	0111	Narborough	Up	100	
+EM	0111	Netherfield	Down	155	
+EM	0111	Netherfield	Up	155	
+EM	0111	Newark Castle	Down	97	
+EM	0111	Newark Castle	Up	66	
+EM	0111	Newstead	Single	94	
+EM	0111	Nottingham	1	306	313m train can be accommodated westbound (not reversing) 343m can be accommodated eastbound (not reversing)
+EM	0111	Nottingham	2	92	
+EM	0111	Nottingham	3	288	319m train can be accommodated eastbound (not reversing)
+EM	0111	Nottingham	4	108	119 m train can be accommodated westbound (not reversing) 115 m train can be accommodated eastbound (not reversing)
+EM	0111	Nottingham	5	146	
+EM	0111	Nottingham	6	276	327m train can be accommodated westbound (not reversing)
+EM	0111	Nottingham	7	261	
+EM	0111	Oakham	Down	102	
+EM	0111	Oakham	Up	139	
+EM	0111	Peartree	Up	61	
+EM	0111	Peartree	Down	64	
+EM	0111	Radcliffe	Down	143	
+EM	0111	Radcliffe	Up	187	
+EM	0111	Radlett	1	245	
+EM	0111	Radlett	2	245	
+EM	0111	Radlett	3	170	
+EM	0111	Radlett	4	170	
+EM	0111	Rolleston	Down	142	
+EM	0111	Rolleston	Up	140	
+EM	0111	St Pancras International	1	260	East Midlands High Level platform
+EM	0111	St Pancras International	2	260	East Midlands High Level platform
+EM	0111	St Pancras International	3	260	East Midlands High Level platform
+EM	0111	St Pancras International	4	260	East Midlands High Level platform
+EM	0111	St Pancras International	14	274	Thameslink Low Level platform
+EM	0111	St Pancras International	15	274	Thameslink Low Level platform
+EM	0111	Sileby	1	58	
+EM	0111	Sileby	2	58	
+EM	0111	South Wigston	Down	97	
+EM	0111	South Wigston	Up	95	
+EM	0111	Spondon	Down	108	
+EM	0111	Spondon	Up	72	
+EM	0112	St. Albans City	1	245	
+EM	0112	St. Albans City	2	245	
+EM	0112	St. Albans City	3	245	
+EM	0112	St. Albans City	4	245	
+EM	0112	Stamford	Down	92	
+EM	0112	Stamford	Up	92	
+EM	0112	Sutton Parkway	1	80	
+EM	0112	Sutton Parkway	2	80	
+EM	0112	Syston	Single	56	
+EM	0112	Thurgarton	Down	70	
+EM	0112	Thurgarton	Up	70	
+EM	0112	Tutbury	Down	93	
+EM	0112	Tutbury	Up	93	
+EM	0112	Uttoxeter	2 (Down)	69	
+EM	0112	Uttoxeter	1 (Up)	77	
+EM	0112	Wellingborough	1	245	
+EM	0112	Wellingborough	2	245	
+EM	0112	Wellingborough	3	245	
+EM	0112	Wellingborough	4	245	
+EM	0112	West Hampstead	1	245	
+EM	0112	West Hampstead	2	245	
+EM	0112	West Hampstead	3	245	
+EM	0112	West Hampstead	4	245	
+EM	0112	Whatstandwell	Single	69	
+EM	0112	Willington	Down	81	
+EM	0112	Willington	Up	81	
+LNE	0306	Acklington	Down	114	
+LNE	0306	Acklington	Up	114	
+LNE	0306	Adwick	Down	104	
+LNE	0306	Adwick	Up	104	
+LNE	0306	Alexandra Palace	Down Hertford	169	
+LNE	0306	Alexandra Palace	Down Slow	170	
+LNE	0306	Alexandra Palace	Up Fast	167	
+LNE	0306	Alexandra Palace	Up Slow	169	
+LNE	0306	Allens West	Down	122	
+LNE	0306	Allens West	Up	97	
+LNE	0306	Alnmouth for Alnwick	Down	233	
+LNE	0306	Alnmouth for Alnwick	Up	233	
+LNE	0306	Althorpe	Down	102	
+LNE	0306	Althorpe	Up	102	
+LNE	0306	Ancaster	Down	87	
+LNE	0306	Ancaster	Up	88	
+LNE	0306	Apperley Bridge	Down	143	
+LNE	0306	Apperley Bridge	Up	120	
+LNE	0306	Arlesey	Down	245	
+LNE	0306	Arlesey	Up	245	
+LNE	0306	Arram	Down	79	
+LNE	0306	Arram	Up	81	
+LNE	0306	Ashington	Bay	103	
+LNE	0306	Ashwell and Morden	Down	168	
+LNE	0306	Ashwell and Morden	Up	167	
+LNE	0306	Baildon	Single	102	
+LNE	0306	Baldock	Down	168	
+LNE	0306	Baldock	Up	168	
+LNE	0306	Bamford (Derbyshire)	1	101	
+LNE	0306	Bamford (Derbyshire)	2	103	
+LNE	0306	Bardon Mill	Down	95	
+LNE	0306	Bardon Mill	Up	91	
+LNE	0306	Barnetby	Down Fast	116.5	
+LNE	0306	Barnetby	Down Slow	103.5	
+LNE	0306	Barnetby	Up Fast	115	
+LNE	0306	Barnetby	Up Slow	116.5	
+LNE	0306	Barnsley	Down	163	
+LNE	0306	Barnsley	Up	102	
+LNE	0306	Barrow Haven	Up	61.5	
+LNE	0306	Barrow Haven	Down	46	
+LNE	0306	Barton on Humber	Single	55	
+LNE	0306	Batley	Down	119	
+LNE	0306	Batley	Up	126	
+LNE	0306	Battersby	Single	155	
+LNE	0307	Bayford	Down	123	
+LNE	0307	Bayford	Up	122	
+LNE	0307	Bedlington	Down	100	
+LNE	0307	Bedlington	Up	96	
+LNE	0307	Bempton	Single – Down	117	
+LNE	0307	Bempton	Single – Up	93	
+LNE	0307	Ben Rhydding	Down	99	
+LNE	0307	Ben Rhydding	Up	99	
+LNE	0307	Bentley (S Yorkshire)	Down	104	
+LNE	0307	Bentley (S Yorkshire)	Up	104	
+LNE	0307	Berry Brow	Single	65	
+LNE	0307	Berwick upon Tweed	Down	233	
+LNE	0307	Berwick upon Tweed	Up	234	
+LNE	0307	Beverley	Down	104	
+LNE	0307	Beverley	Up	104	
+LNE	0307	Biggleswade	Down Fast	247	
+LNE	0307	Biggleswade	Down Slow	247	
+LNE	0307	Biggleswade	Up Fast	246	
+LNE	0307	Biggleswade	Up Slow	246	
+LNE	0307	Billingham	Down	146	
+LNE	0307	Billingham	Up	146	
+LNE	0307	Bingley	Down	143	
+LNE	0307	Bingley	Up	143	
+LNE	0307	Bishop Auckland	Single	80	
+LNE	0307	Blaydon	Down	97	
+LNE	0307	Blaydon	Up	97	
+LNE	0307	Blyth Bebside	Down	100	
+LNE	0307	Blyth Bebside	Up	100	
+LNE	0307	Bolton upon Dearne	Down	96	
+LNE	0307	Bolton upon Dearne	Up	96	
+LNE	0307	Boston	Down	173	
+LNE	0307	Boston	Up	174	
+LNE	0307	Bottesford	Down	139	
+LNE	0307	Bottesford	Up	121	
+LNE	0307	Bowes Park	Down	138	
+LNE	0307	Bowes Park	Up	138	
+LNE	0307	Bradford Forster Square	1	273	
+LNE	0307	Bradford Forster Square	2	266	
+LNE	0307	Bradford Forster Square	3	101	
+LNE	0307	Bradford Interchange	1	209	
+LNE	0307	Bradford Interchange	2	203	
+LNE	0307	Bradford Interchange	3	126	
+LNE	0307	Bradford Interchange	4	126	
+LNE	0307	Bramley	Down	102	
+LNE	0307	Bramley	Up	102	
+LNE	0307	Brampton (Cumbria)	Down	106	
+LNE	0307	Brampton (Cumbria)	Up	107	
+LNE	0307	Bridlington	4	168 165	
+LNE	0307	Bridlington	5	168	
+LNE	0307	Bridlington	6	138 131	
+LNE	0307	Bridlington	7	214	Out of use to passenger trains
+LNE	0307	Brigg	Down	140	
+LNE	0308	Brigg	Up	154	
+LNE	0308	Brighouse	Down	118	
+LNE	0308	Brighouse	Up	119	
+LNE	0308	British Steel Redcar	Down	60	
+LNE	0308	British Steel Redcar	Up	60	
+LNE	0308	Brockholes	Single	65	
+LNE	0308	Brockley Whins	Down	65	
+LNE	0308	Brockley Whins	Up	65	
+LNE	0308	Brookmans Park	Down Fast	123	
+LNE	0308	Brookmans Park	Down Slow	123	
+LNE	0308	Brookmans Park	Up Fast	123	
+LNE	0308	Brookmans Park	Up Slow	123	
+LNE	0308	Broomfleet	Down	95	
+LNE	0308	Broomfleet	Up	95	
+LNE	0308	Brough	Down	184	
+LNE	0308	Brough	Up	184	
+LNE	0308	Burley in Wharfedale	Down	141	
+LNE	0308	Burley in Wharfedale	Up	118	
+LNE	0308	Burley Park	Down	97	
+LNE	0308	Burley Park	Up	97	
+LNE	0308	Castleford	Down	101	
+LNE	0308	Castleford	Up	97	
+LNE	0308	Castleton Moor	Single	77	
+LNE	0308	Cattal	Down	86	
+LNE	0308	Cattal	Up	86	
+LNE	0308	Chapeltown	Down	85	
+LNE	0308	Chapeltown	Up	85	
+LNE	0308	Chathill	Down	83	
+LNE	0308	Chathill	Up	164	
+LNE	0308	Chester le Street	Down	110	
+LNE	0308	Chester le Street	Up	110	
+LNE	0308	Chesterfield	1	212	
+LNE	0308	Chesterfield	2	204	
+LNE	0308	Chesterfield	3	240	
+LNE	0308	Church Fenton	1	101	
+LNE	0308	Church Fenton	2	132	
+LNE	0308	Church Fenton	3	132	Down direction
+LNE	0308	Church Fenton	3	121	Up direction
+LNE	0308	Church Fenton	4	119	
+LNE	0308	Cleethorpes	1	202	DMU restricted to 170
+LNE	0308	Cleethorpes	2	205	DMU restricted to 174
+LNE	0308	Cleethorpes	3	205	DMU restricted to 174
+LNE	0308	Cleethorpes	4	203	
+LNE	0308	Collingham	Down	54	
+LNE	0308	Collingham	Up	52	
+LNE	0308	Commondale	Single	51	
+LNE	0308	Conisbrough	Down	117	
+LNE	0308	Conisbrough	Up	97	
+LNE	0308	Cononley	Down	116	
+LNE	0308	Cononley	Up	95	
+LNE	0308	Corbridge	Down	97	
+LNE	0308	Corbridge	Up	100	
+LNE	0308	Cottingham	Down	108	
+LNE	0309	Cottingham	Up	108	
+LNE	0309	Cottingley	Down	85	
+LNE	0309	Cottingley	Up	85	
+LNE	0309	Cramlington	Down	101	
+LNE	0309	Cramlington	Up	101	
+LNE	0309	Creswell	Down	79	
+LNE	0309	Creswell	Up	79	
+LNE	0309	Crews Hill	Down	126	
+LNE	0309	Crews Hill	Up	126	
+LNE	0309	Cross Gates	1	151	
+LNE	0309	Cross Gates	2	148	
+LNE	0309	Crossflatts	Down	102	
+LNE	0309	Crossflatts	Up	102	
+LNE	0309	Crowle	Down	90	
+LNE	0309	Crowle	Up	89	
+LNE	0309	Cuffley	Down	126	
+LNE	0309	Cuffley	Up	126	
+LNE	0309	Danby	Single	90	
+LNE	0309	Darlington	1	354	Up direction
+LNE	0309	Darlington	1	347	Down direction to T887 signal
+LNE	0309	Darlington	2	181	
+LNE	0309	Darlington	3	200	
+LNE	0309	Darlington	4	458	Both directions
+LNE	0309	Darlington	4	238	Up direction to T888 signal
+LNE	0309	Darlington	4a	134	Down direction to T895 signal
+LNE	0309	Darlington	4b	251	Down direction clear of 1080B points
+LNE	0309	Darnall	Down	108	
+LNE	0309	Darnall	Up	108	
+LNE	0309	Darton	Down	104	
+LNE	0309	Darton	Up	104	
+LNE	0309	Deighton	Down	74	
+LNE	0309	Deighton	Up	74	
+LNE	0309	Denby Dale	Single	65	
+LNE	0309	Dewsbury	Down	150	
+LNE	0309	Dewsbury	Up	166	
+LNE	0309	Dinsdale	Down	97	
+LNE	0309	Dinsdale	Up	97	
+LNE	0309	Dodworth	Single	95	
+LNE	0309	Doncaster	0	96	
+LNE	0309	Doncaster	1	327	Down direction
+LNE	0309	Doncaster	1	234	Down direction to D1481 Signal
+LNE	0309	Doncaster	1	318	Up direction to D278 Signal
+LNE	0309	Doncaster	2	105	
+LNE	0309	Doncaster	3a	246	Up direction from D292 to D282 Signal
+LNE	0309	Doncaster	3b	165	
+LNE	0309	Doncaster	4	299	Down Direction
+LNE	0309	Doncaster	4	257	Up Direction
+LNE	0309	Doncaster	5	57	
+LNE	0309	Doncaster	6	109	
+LNE	0309	Doncaster Middle Siding	Down	96	
+LNE	0309	Doncaster	7	105	
+LNE	0309	Doncaster	8	325	Down Direction
+LNE	0309	Doncaster	8	285	Up Direction
+LNE	0310	Dore & Totley	Single 1	100 152	
+LNE	0310	Dore & Totley	2	152	
+LNE	0310	Drayton Park	Down	124	
+LNE	0310	Drayton Park	Up	124	
+LNE	0310	Driffield	Down	124	
+LNE	0310	Driffield	Up	103	
+LNE	0310	Dronfield	Down	111	
+LNE	0310	Dronfield	Up	111	
+LNE	0310	Dunston	Down	94	
+LNE	0310	Dunston	Up	93	
+LNE	0310	Durham	Down	295	
+LNE	0310	Durham	Up	264	
+LNE	0310	Eaglescliffe	Down	208	
+LNE	0310	Eaglescliffe	Up	190	
+LNE	0310	East Boldon	Down	65	
+LNE	0310	East Boldon	Up	65	
+LNE	0310	East Garforth	Down	102	
+LNE	0310	East Garforth	Up	102	
+LNE	0310	Eastrington	Down	90	
+LNE	0310	Eastrington	Up	90	
+LNE	0310	Egton	Single	80	
+LNE	0310	Elland	Up	125	
+LNE	0310	Elland	Down	125	
+LNE	0310	Elsecar	Down	130	
+LNE	0310	Elsecar	Up	99	
+LNE	0310	Enfield Chase	Down	126	
+LNE	0310	Enfield Chase	Up	125	
+LNE	0310	Essex Road	Down	128	
+LNE	0310	Essex Road	Up	128	
+LNE	0310	Featherstone	Down	101	
+LNE	0310	Featherstone	Up	101	
+LNE	0310	Fellgate	Down	65	
+LNE	0310	Fellgate	Up	65	
+LNE	0310	Ferriby	Down	110	
+LNE	0310	Ferriby	Up	170	
+LNE	0310	Filey	Down	119	
+LNE	0310	Filey	Up	112	
+LNE	0310	Finsbury Park	1	245	
+LNE	0310	Finsbury Park	2	245	
+LNE	0310	Finsbury Park	3	257	To sighting point of K384 signal.  Full length 263m
+LNE	0310	Finsbury Park	4	249	
+LNE	0310	Finsbury Park	5	246.5	
+LNE	0310	Finsbury Park	6	178	
+LNE	0310	Finsbury Park	7	239.5	
+LNE	0310	Finsbury Park	8	168	
+LNE	0310	Fitzwilliam	Down	93	
+LNE	0310	Fitzwilliam	Up	93	
+LNE	0310	Frizinghall	Down	98	
+LNE	0310	Frizinghall	Up	98	
+LNE	0310	Gainsborough Central	Down	138	
+LNE	0310	Gainsborough Central	Up	138	
+LNE	0310	Gainsborough Lea Road	Down	145	
+LNE	0311	Gainsborough Lea Road	Up	144	
+LNE	0311	Garforth	1	151	
+LNE	0311	Garforth	2	149	
+LNE	0311	Gargrave	Down	92.3	
+LNE	0311	Gargrave	Up	88.8	
+LNE	0311	Gilberdyke	Down	110	
+LNE	0311	Gilberdyke	Up	110	
+LNE	0311	Glaisdale	Down	92	
+LNE	0311	Glaisdale	Up	86	
+LNE	0311	Glasshoughton	Down	99	
+LNE	0311	Glasshoughton	Up	99	
+LNE	0311	Goldthorpe	Down	92	
+LNE	0311	Goldthorpe	Up	92	
+LNE	0311	Goole	Down	115	
+LNE	0311	Goole	Up	104	
+LNE	0311	Gordon Hill	Bay	122	
+LNE	0311	Gordon Hill	Down	122	
+LNE	0311	Gordon Hill	Up	122	
+LNE	0311	Goxhill	Down	83	
+LNE	0311	Goxhill	Up	83	
+LNE	0311	Grange Park	Down	129	
+LNE	0311	Grange Park	Up	129	
+LNE	0311	Grantham	1	290	
+LNE	0311	Grantham	2	289	
+LNE	0311	Grantham	3	64	Platform 4 side.  Additional 31m on Platform 2 side
+LNE	0311	Grantham	4	249	
+LNE	0311	Great Ayton	Single	84	
+LNE	0311	Great Coates	Down	55	
+LNE	0311	Great Coates	Up	80	
+LNE	0311	Grimsby Docks	Single	97	
+LNE	0311	Grimsby Town	1	135	
+LNE	0311	Grimsby Town	2	137	Down direction
+LNE	0311	Grimsby Town	2	136	Up direction
+LNE	0311	Grimsby Town	3	138	
+LNE	0311	Grindleford	1	93	
+LNE	0311	Grindleford	2	95	
+LNE	0311	Grosmont	Single	83	
+LNE	0311	Guiseley	Down	143	
+LNE	0311	Guiseley	Up	143	
+LNE	0311	Gypsy Lane	Single	98	81m only in Down direction
+LNE	0311	Habrough	Down	110	
+LNE	0311	Habrough	Up	115	
+LNE	0311	Hadley Wood	Down Fast	126	
+LNE	0311	Hadley Wood	Down Slow	186	
+LNE	0311	Hadley Wood	Up Fast	126	
+LNE	0311	Hadley Wood	Up Slow	186	
+LNE	0311	Halifax	Down	187	
+LNE	0311	Halifax	Up	186	
+LNE	0311	Haltwhistle	Down	97	
+LNE	0311	Haltwhistle	Up	97	
+LNE	0311	Hammerton	Down	89	
+LNE	0311	Hammerton	Up	86	
+LNE	0312	Harringay	Down	125	
+LNE	0312	Harringay	Up	126	
+LNE	0312	Harrogate	1	221	Trains from Leeds, departing in York direction
+LNE	0312	Harrogate	1	191	To H26 signal.  Trains from Leeds or York, departing in Leeds direction
+LNE	0312	Harrogate	3	243	
+LNE	0312	Hartlepool	1	76	
+LNE	0312	Hartlepool	2	153 in the Down direction 137 in the up direction	
+LNE	0312	Hartlepool	3	157	
+LNE	0312	Hatfield	Down Fast	170	
+LNE	0312	Hatfield	Down Slow	170	
+LNE	0312	Hatfield	Up Slow	170	
+LNE	0312	Hatfield and Stainforth	Down	111	
+LNE	0312	Hatfield and Stainforth	Up	107	
+LNE	0312	Hathersage	1	95	
+LNE	0312	Hathersage	2	100	
+LNE	0312	Havenhouse	Down	48	
+LNE	0312	Havenhouse	Up	34	
+LNE	0312	Haydon Bridge	Down	108	
+LNE	0312	Haydon Bridge	Up	110	
+LNE	0312	Headingley	Down	97	
+LNE	0312	Headingley	Up	97	
+LNE	0312	Healing	Down	56	
+LNE	0312	Healing	Up	56	
+LNE	0312	Hebden Bridge	Down	110	
+LNE	0312	Hebden Bridge	Up	121	
+LNE	0312	Heckington	Down	96	
+LNE	0312	Heckington	Up	108	
+LNE	0312	Heighington	Down	103	
+LNE	0312	Heighington	Up	90	
+LNE	0312	Hensall	Down	50	
+LNE	0312	Hensall	Up	50	
+LNE	0312	Hertford North	1	154	
+LNE	0312	Hertford North	2	153	
+LNE	0312	Hertford North	3	145	
+LNE	0312	Hessle	Down	105	
+LNE	0312	Hessle	Up	105	
+LNE	0312	Heworth	Down	120	
+LNE	0312	Heworth	Up	120	
+LNE	0312	Hexham	Down	102	
+LNE	0312	Hexham	Up	102	
+LNE	0312	Highbury and Islington (Northern City Line)	Down	126	
+LNE	0312	Highbury and Islington (Northern City Line)	Up	128	
+LNE	0312	Hitchin	Down	249	
+LNE	0312	Hitchin	Up	247	
+LNE	0312	Honley	Single	65	
+LNE	0314	Kirton Lindsey	Single	129	
+LNE	0314	Kiveton Bridge	Down	75	
+LNE	0314	Kiveton Bridge	Up	75	
+LNE	0314	Kiveton Park	Down	75	
+LNE	0314	Kiveton Park	Up	74	
+LNE	0314	Knaresborough	Down	82	
+LNE	0314	Knaresborough	Up	83	
+LNE	0314	Knebworth	Down Fast	169	
+LNE	0314	Knebworth	Down Slow	169	
+LNE	0314	Knebworth	Up Fast	169	
+LNE	0314	Knebworth	Up Slow	169	
+LNE	0314	Knottingley	Down	101	
+LNE	0314	Knottingley	Up	101	
+LNE	0314	Langwith Whaley Thorns	Down	79	
+LNE	0314	Langwith Whaley Thorns	Up	79	
+LNE	0314	Lealholm	Single	100	
+LNE	0314	Leeds	0	204	
+LNE	0314	Leeds	1	274	When a train is showing as occupying Platform 1 or 1a, then the non-preferred route for arrival into Platform 2 needs to be used
+LNE	0314	Leeds	2	209	
+LNE	0314	Leeds	3	132	
+LNE	0314	Leeds	4	154	
+LNE	0314	Leeds	5	206	
+LNE	0314	Leeds	6	279	
+LNE	0314	Leeds	7	105	
+LNE	0314	Leeds	8	342	
+LNE	0314	Leeds	8ab	166	
+LNE	0314	Leeds	8cd	166	
+LNE	0314	Leeds	9	265	
+LNE	0314	Leeds	9b	106	
+LNE	0314	Leeds	9cd	148	
+LNE	0314	Leeds	10	99	
+LNE	0314	Leeds	11	368	
+LNE	0314	Leeds	11ab	149	
+LNE	0314	Leeds	11cd	147	
+LNE	0314	Leeds	12	309	
+LNE	0314	Leeds	12ab	91	
+LNE	0314	Leeds	12cd Westbound	146	
+LNE	0314	Leeds	12cd Eastbound	123	
+LNE	0314	Leeds	13	111	
+LNE	0314	Leeds	14	80	
+LNE	0314	Leeds	15	221	
+LNE	0314	Leeds	15a	104	
+LNE	0314	Leeds	15b	106	
+LNE	0314	Leeds	16	218	
+LNE	0314	Leeds	16a	107	
+LNE	0314	Leeds	16b	100	
+LNE	0314	Leeds	17	106	
+LNE	0315	Leeds	Through Road (full length)	327	
+LNE	0315	Leeds	Through Road West	100	
+LNE	0315	Leeds	Through Road East	105	
+LNE	0315	Letchworth	Down	184	
+LNE	0315	Letchworth	Up	184	
+LNE	0315	Lincoln	1	92	
+LNE	0315	Lincoln	2	54	
+LNE	0315	Lincoln	3	144	
+LNE	0315	Lincoln	4	144	
+LNE	0315	Lincoln	5	165	
+LNE	0315	Lockwood	Single	65	
+LNE	0315	London King’s Cross	0	305	Buffer stop to end of platform. Buffer to signal is 329m, which may be used by Caledonian Sleeper services only.
+LNE	0315	London King’s Cross	1	304	Buffer stop to end of platform
+LNE	0315	London King’s Cross	2	285	Buffer stop to end of platform
+LNE	0315	London King’s Cross	3	289	Buffer stop to end of platform
+LNE	0315	London King’s Cross	4	290	Buffer stop to end of platform
+LNE	0315	London King’s Cross	5	270	Buffer stop to end of platform
+LNE	0315	London King’s Cross	6	288	Buffer stop to end of platform
+LNE	0315	London King’s Cross	7	288	Buffer stop to end of platform
+LNE	0315	London King’s Cross	8	289	Buffer stop to end of platform
+LNE	0315	London King’s Cross	9	176	Buffer stop to end of platform
+LNE	0315	London King’s Cross	10	176	Buffer stop to end of platform
+LNE	0315	Longbeck	Down	84	
+LNE	0315	Longbeck	Up	83	
+LNE	0315	Low Moor	1	96	
+LNE	0315	Low Moor	2	96	
+LNE	0315	Malton		150	
+LNE	0315	Manors	Down	84	
+LNE	0315	Manors	Up	82	
+LNE	0315	Market Rasen	Down	71	
+LNE	0315	Market Rasen	Up	74	
+LNE	0315	Marsden	Down	100	
+LNE	0315	Marsden	Up	99	
+LNE	0315	Marsden	Up Passenger Loop	698	
+LNE	0315	Marske	Down	137	
+LNE	0315	Marske	Up	134	
+LNE	0315	Marton	Single	81	
+LNE	0315	Meadowhall	1	105	
+LNE	0315	Meadowhall	2	105	
+LNE	0315	Meadowhall	3	105	
+LNE	0315	Meadowhall	4	105	
+LNE	0315	Menston	Down	98 143	
+LNE	0315	Menston	Up	98	
+LNE	0315	Metheringham	Down	57	
+LNE	0315	Metheringham	Up	57	
+LNE	0316	MetroCentre	Down	100	
+LNE	0316	MetroCentre	Up	100	
+LNE	0316	Mexborough	Down	112	
+LNE	0316	Mexborough	Up	112	
+LNE	0316	Micklefield	Down	101	
+LNE	0316	Micklefield	Up	90	
+LNE	0316	Middlesbrough	Down	265	
+LNE	0316	Middlesbrough	Up	201	
+LNE	0316	Millfield	Down	65	
+LNE	0316	Millfield	Up	65	
+LNE	0316	Mirfield	2	150	
+LNE	0316	Mirfield	3	102	
+LNE	0316	Moorthorpe	Down	110	
+LNE	0316	Moorthorpe	Up	120	
+LNE	0316	Morley	Down	117	
+LNE	0316	Morley	Up	117	
+LNE	0316	Morpeth	Down	232	
+LNE	0316	Morpeth	Up	234	
+LNE	0316	Mytholmroyd	Down	122	
+LNE	0316	Mytholmroyd	Up	122	
+LNE	0316	Nafferton	Down	80	
+LNE	0316	Nafferton	Up	58	
+LNE	0316	New Barnet	Down Fast	177	
+LNE	0316	New Barnet	Down Slow	160	
+LNE	0316	New Barnet	Up Fast	165	
+LNE	0316	New Barnet	Up Slow	165	
+LNE	0316	New Clee	Single	144	
+LNE	0316	New Holland	Single	43	
+LNE	0316	New Pudsey	Down	122	
+LNE	0316	New Pudsey	Up	122	
+LNE	0316	New Southgate	Down Fast	172	
+LNE	0316	New Southgate	Down Slow	172	
+LNE	0316	New Southgate	Up Fast	172	
+LNE	0316	New Southgate	Up Slow	172	
+LNE	0316	Newark Castle	Down	97	
+LNE	0316	Newark Castle	Down	97	
+LNE	0316	Newark Castle	Up	66	
+LNE	0316	Newark Castle	Up	66	
+LNE	0316	Newark North Gate	Down	255	
+LNE	0316	Newark North Gate	Passenger Loop	302	Down direction
+LNE	0316	Newark North Gate	Passenger Loop	238	Up direction
+LNE	0316	Newark North Gate	Up	255	
+LNE	0317	Newcastle	1	161	
+LNE	0317	Newcastle	2	362	
+LNE	0317	Newcastle	3	304	
+LNE	0317	Newcastle	4	268	
+LNE	0317	Newcastle	5	68	
+LNE	0317	Newcastle	6	97	Platforms 5 and 6 can be combined with a total length of 217m
+LNE	0317	Newcastle	7	115	
+LNE	0317	Newcastle	8	41	Platforms 7 and 8 combined with a total length of 209m in Down direction, and 212m in Up direction
+LNE	0317	Newcastle	9	112	
+LNE	0317	Newcastle	10	114	
+LNE	0317	Newcastle	11	130	
+LNE	0317	Newsham	Down	100	
+LNE	0317	Newsham	Up	100	
+LNE	0317	Newton Aycliffe	Down	59	
+LNE	0317	Newton Aycliffe	Up	59	
+LNE	0317	Normanton	Down	81	
+LNE	0317	Normanton	Up	81	
+LNE	0317	North Road	Single	60	
+LNE	0317	Northallerton	Down	261	
+LNE	0317	Northallerton	Up	270	
+LNE	0317	Northumberland Park	Single	100	
+LNE	0317	Nunthorpe	Down	86	
+LNE	0317	Nunthorpe	Up	84	
+LNE	0317	Oakleigh Park	Down Fast	173	
+LNE	0317	Oakleigh Park	Down Slow	173	
+LNE	0317	Oakleigh Park	Up Fast	174	
+LNE	0317	Oakleigh Park	Up Slow	174	
+LNE	0317	Old Street	Down	128	
+LNE	0317	Old Street	Up	128	
+LNE	0317	Outwood	Down	93	
+LNE	0317	Outwood	Up	93	
+LNE	0317	Pallion	Down	65	
+LNE	0317	Pallion	Up	65	
+LNE	0317	Palmers Green	Down	127	
+LNE	0317	Palmers Green	Up	137	
+LNE	0317	Pannal	Down	91	
+LNE	0317	Pannal	Up	91	
+LNE	0317	Park Lane	Down	65	
+LNE	0317	Park Lane	Up	65	
+LNE	0317	Pegswood	Down	89	
+LNE	0317	Pegswood	Up	89	
+LNE	0317	Penistone	Down	102	
+LNE	0317	Penistone	Up	121	
+LNE	0317	Peterborough	1	326	No longer a bay platform
+LNE	0317	Peterborough	2	319	
+LNE	0317	Peterborough	3	265	
+LNE	0317	Peterborough	4	265	
+LNE	0317	Peterborough	5	265	
+LNE	0317	Peterborough	6	188	
+LNE	0317	Peterborough	7	188	
+LNE	0318	Pontefract Baghill	Down	127	
+LNE	0318	Pontefract Baghill	Up	102	
+LNE	0318	Pontefract Monkhill	Down	101	
+LNE	0318	Pontefract Monkhill	Up	96	
+LNE	0318	Pontefract Tanshelf	Down	101	
+LNE	0318	Pontefract Tanshelf	Up	101	
+LNE	0318	Poppleton	Down	84	
+LNE	0318	Poppleton	Up	84	
+LNE	0318	Potters Bar	Down Fast	166	
+LNE	0318	Potters Bar	Down Slow	166	
+LNE	0318	Potters Bar	Up Fast	164	
+LNE	0318	Potters Bar	Up Slow	164	
+LNE	0318	Prudhoe	Down	98	
+LNE	0318	Prudhoe	Up	95	
+LNE	0318	Rauceby	Down	91	
+LNE	0318	Rauceby	Up	91	
+LNE	0318	Ravensthorpe	Down	85	
+LNE	0318	Ravensthorpe	Up	85	
+LNE	0318	Rawcliffe	Single	46	Includes 8m of substandard width
+LNE	0318	Redcar Central	Down	102	
+LNE	0318	Redcar Central	Up	128	
+LNE	0318	Redcar East	Down	84	
+LNE	0318	Redcar East	Up	83	
+LNE	0318	Retford	1	255	
+LNE	0318	Retford	2	253	
+LNE	0318	Retford	3	135	Low Level Platforms
+LNE	0318	Retford	4	135	Low Level Platforms
+LNE	0318	Riding Mill	Down	94	
+LNE	0318	Riding Mill	Up	100	
+LNE	0318	Rotherham Central	1	112	
+LNE	0318	Rotherham Central	2	108	
+LNE	0318	Rotherham Central	3	30	For tram (class 399) use only
+LNE	0318	Rotherham Central	4	30	For tram (class 399) use only
+LNE	0318	Royston	Down	169	
+LNE	0318	Royston	Up	236	
+LNE	0318	Ruskington	Down	57	
+LNE	0318	Ruskington	Up	57	
+LNE	0318	Ruswarp	Single	101	Down direction
+LNE	0318	Ruswarp	Single	80	Up direction
+LNE	0318	Saltaire	Down	143	
+LNE	0318	Saltaire	Up	143	
+LNE	0318	Saltburn	1	156	
+LNE	0318	Saltburn	2	157	
+LNE	0318	Saltmarshe	Down	71	
+LNE	0318	Saltmarshe	Up	71	
+LNE	0318	Sandal and Agbrigg	Down	93	
+LNE	0318	Sandal and Agbrigg	Up	93	
+LNE	0318	Sandy	Down Slow	246	
+LNE	0318	Sandy	Up Slow	246	
+LNE	0318	Saxilby	Down	107	
+LNE	0318	Saxilby	Up	97	
+LNE	0318	Scarborough	1	277	
+LNE	0318	Scarborough	2	183	
+LNE	0319	Scarborough	3	163	
+LNE	0319	Scarborough	4	129	
+LNE	0319	Scarborough	5	122	
+LNE	0319	Scunthorpe	Down	143	
+LNE	0319	Scunthorpe	Up	138	
+LNE	0319	Seaburn	Down	65	
+LNE	0319	Seaburn	Up	65	
+LNE	0319	Seaham	Down	115	
+LNE	0319	Seaham	Up	115	
+LNE	0319	Seamer	Down	120	
+LNE	0319	Seamer	Up	125	
+LNE	0319	Seaton Carew	Down	125	
+LNE	0319	Seaton Carew	Up	125	
+LNE	0319	Selby	Bay Platform	120	
+LNE	0319	Selby	Down	200	
+LNE	0319	Selby	Up	257	
+LNE	0319	Sheffield	1	330	
+LNE	0319	Sheffield	1a	68	Down direction to S112 signal
+LNE	0319	Sheffield	1a	68	Up direction to S101 signal
+LNE	0319	Sheffield	1b	146	Down direction clear of 4060B points
+LNE	0319	Sheffield	1b	143	Up direction to S116 signal
+LNE	0319	Sheffield	TL	293	Between S102 and S123, between S102 and S113 64m
+LNE	0319	Sheffield	DSS	293	
+LNE	0319	Sheffield	2	345	Down direction to S127 signal
+LNE	0319	Sheffield	2	329	Up direction to S104 signal
+LNE	0319	Sheffield	2c	58	54m on east side
+LNE	0319	Sheffield	3	126	Down direction to S128 signal
+LNE	0319	Sheffield	4	112	
+LNE	0319	Sheffield	5	326	Down direction
+LNE	0319	Sheffield	5	237	Up direction to S106 signal
+LNE	0319	Sheffield	USS1	247	
+LNE	0319	Sheffield	USS2	247	
+LNE	0319	Sheffield	6	351	
+LNE	0319	Sheffield	7	107	135m on east side
+LNE	0319	Sheffield	8	368	To S139 signal in down direction
+LNE	0319	Sheffield	8	378	Up direction
+LNE	0319	Shepley	Down	65	
+LNE	0319	Shepley	Up	65	
+LNE	0319	Sherburn in Elmet	Down	77	
+LNE	0319	Sherburn in Elmet	Up	83	
+LNE	0319	Shildon	Down	81	
+LNE	0319	Shildon	Up	105	
+LNE	0319	Shipley	1	143	
+LNE	0319	Shipley	2	106	Down direction
+LNE	0319	Shipley	2	115	Up Direction
+LNE	0319	Shipley	3	240	Down direction
+LNE	0319	Shipley	3	215	Up Direction
+LNE	0319	Shipley	4	198	
+LNE	0319	Shipley	5	98	
+LNE	0319	Shirebrook	Down	79	
+LNE	0319	Shirebrook	Up	79	
+LNE	0319	Shireoaks	Down	97	
+LNE	0320	Shireoaks	Up	97	
+LNE	0320	Silkstone Common	Single	102	
+LNE	0320	Skegness	2	201	
+LNE	0320	Skegness	3	201	
+LNE	0320	Skegness	4	245	
+LNE	0320	Skegness	5	245	
+LNE	0320	Skipton	1	99	
+LNE	0320	Skipton	2	200	Up direction
+LNE	0320	Skipton	2	197	Down direction
+LNE	0320	Skipton	3	183	Down direction
+LNE	0320	Skipton	3	155	Up direction
+LNE	0320	Skipton	4	182	Down direction
+LNE	0320	Skipton	4	154	Up direction
+LNE	0320	Slaithwaite	Down	99	
+LNE	0320	Slaithwaite	Up	99	
+LNE	0320	Sleaford	1	224	
+LNE	0320	Sleaford	2	186	
+LNE	0320	Sleaford	3	186	
+LNE	0320	Sleights	Single	74	
+LNE	0320	Snaith	Single	42	
+LNE	0320	South Bank	Down	75	
+LNE	0320	South Bank	Up	74	
+LNE	0320	South Elmsall	Down	91	
+LNE	0320	South Elmsall	Up	91	
+LNE	0320	South Hylton		130	
+LNE	0320	South Milford	Down	68	
+LNE	0320	South Milford	Up	91	
+LNE	0320	Sowerby Bridge	Down	118	
+LNE	0320	Sowerby Bridge	Up	121	
+LNE	0320	Spalding	Down	145	
+LNE	0320	Spalding	Up	183	
+LNE	0320	St Neots	Down Fast	249	
+LNE	0320	St Neots	Down Slow	249	
+LNE	0320	St Neots	Up Fast	249	
+LNE	0320	St Neots	Up Slow	249	
+LNE	0320	St Peters	Down	65	
+LNE	0320	St Peters	Up	65	
+LNE	0320	Stadium of Light	Down	65	
+LNE	0320	Stadium of Light	Up	65	
+LNE	0320	Stallingborough	Down	85	
+LNE	0320	Stallingborough	Up	86	
+LNE	0320	Starbeck	Down	139	
+LNE	0320	Starbeck	Up	139	
+LNE	0320	Steeton and Silsden	Down	102	
+LNE	0320	Steeton and Silsden	Up	102	
+LNE	0320	Stevenage	Down Fast	247	
+LNE	0320	Stevenage	Down Slow	247	
+LNE	0320	Stevenage	Up Fast	247	
+LNE	0320	Stevenage	Up Slow	247	
+LNE	0320	Stevenage	Platform 5 (turnback)	127	
+LNE	0320	Stocksfield	Down	109	
+LNE	0320	Stocksfield	Up	119	
+LNE	0321	Stocksmoor	Down	66	
+LNE	0321	Stocksmoor	Up	66	
+LNE	0321	Stockton	Down	104	
+LNE	0321	Stockton	Up	104	
+LNE	0321	Streethouse	Down	101	
+LNE	0321	Streethouse	Up	103	
+LNE	0321	Sunderland	1	72	Up direction
+LNE	0321	Sunderland	1	77	Down direction
+LNE	0321	Sunderland	2	61	Up direction
+LNE	0321	Sunderland	2	84	Down direction. Platforms 1 and 2 can be combined with a total length of 179 metres in the Up direction and 206 metres in the Down direction.
+LNE	0321	Sunderland	3	60	Down and Up directions
+LNE	0321	Sunderland	4	72	Down direction
+LNE	0321	Sunderland	4	80	Up direction. Platforms 3 and 4 can be combined with a total length of 174 metres in the Down direction and 177 metres in the Up direction.
+LNE	0321	Swinderby	Down	75	
+LNE	0321	Swinderby	Up	60	
+LNE	0321	Swineshead	Down	94	
+LNE	0321	Swineshead	Up	89	
+LNE	0321	Swinton (S Yorkshire)	1	92	
+LNE	0321	Swinton (S Yorkshire)	2	92	
+LNE	0321	Swinton (S Yorkshire)	3	92	
+LNE	0321	Teesside Airport	Up	76	
+LNE	0321	Thirsk	Down	135	
+LNE	0321	Thirsk	Up	148	
+LNE	0321	Thornaby	Down	143	
+LNE	0321	Thornaby	Up	146	
+LNE	0321	Thorne North	Down	89	
+LNE	0321	Thorne North	Up	90	
+LNE	0321	Thorne South	Down	90	
+LNE	0321	Thorne South	Up	90	
+LNE	0321	Thornton Abbey	Down	55	
+LNE	0321	Thornton Abbey	Up	55	
+LNE	0321	Thorpe Culvert	Down	61	
+LNE	0321	Thorpe Culvert	Up	62	
+LNE	0321	Thurnscoe	Down	92	
+LNE	0321	Thurnscoe	Up	92	
+LNE	0321	Ulceby	Single	44	
+LNE	0321	Ulleskelf	Down	106	
+LNE	0321	Ulleskelf	Up	106	
+LNE	0321	University	Down	65	
+LNE	0321	University	Up	65	
+LNE	0321	Wadsley Bridge	Single	111	Out of use
+LNE	0321	Wainfleet	Down	96	
+LNE	0321	Wainfleet	Up	96	
+LNE	0321	Wakefield Kirkgate	1	92	
+LNE	0321	Wakefield Kirkgate	2	120	
+LNE	0321	Wakefield Kirkgate	3	103	
+LNE	0321	Wakefield Westgate	Down	255	
+LNE	0322	Wakefield Westgate	Up	255	
+LNE	0322	Watton at Stone	Down	126	
+LNE	0322	Watton at Stone	Up	126	
+LNE	0322	Weeton	Down	88	
+LNE	0322	Weeton	Up	86	
+LNE	0322	Welham Green	Down	129	
+LNE	0322	Welham Green	Up	129	
+LNE	0322	Welwyn Garden City	Down Back	185	
+LNE	0322	Welwyn Garden City	Down Slow	185	
+LNE	0322	Welwyn Garden City	Up Back	185	
+LNE	0322	Welwyn Garden City	Up Slow	185	
+LNE	0322	Welwyn North	Down	170	
+LNE	0322	Welwyn North	Up	170	
+LNE	0322	Wetheral	Down	95	
+LNE	0322	Wetheral	Up	74	
+LNE	0322	Whitby	1	177	
+LNE	0322	Whitby	2	173	
+LNE	0322	White Rose	Up	150	
+LNE	0322	White Rose	Down	150	
+LNE	0322	Whitley Bridge	Down	65	
+LNE	0322	Whitley Bridge	Up	59	
+LNE	0322	Whitwell	Down	79	
+LNE	0322	Whitwell	Up	79	
+LNE	0322	Widdrington	Down	90	
+LNE	0322	Widdrington	Up	90	
+LNE	0322	Winchmore Hill	Down	136	
+LNE	0322	Winchmore Hill	Up	135	
+LNE	0322	Wombwell	Down	134	
+LNE	0322	Wombwell	Up	99	
+LNE	0322	Woodhouse	Down	84	
+LNE	0322	Woodhouse	Up	84	
+LNE	0322	Woodlesford	Down	100	
+LNE	0322	Woodlesford	Up	101	
+LNE	0322	Worksop	Down	121	
+LNE	0322	Worksop	Up	113	
+LNE	0322	Wressle	Down	95	
+LNE	0322	Wressle	Up	79	
+LNE	0322	Wylam	Down	92	
+LNE	0322	Wylam	Up	107	
+LNE	0322	Yarm	Down	78	
+LNE	0322	Yarm	Up	78	
+LNE	0322	York	1	184	
+LNE	0322	York	10	315	Down direction
+LNE	0322	York	10	266	Up direction
+LNE	0322	York	11	329	Down direction
+LNE	0322	York	11	329	Up direction
+LNE	0322	York	2	169	
+LNE	0322	York	3	242	Down direction
+LNE	0322	York	3	272	Up direction
+LNE	0322	York	4	157	
+LNE	0322	York	5	391	Down direction
+LNE	0322	York	5	410	Up direction
+LNE	0322	York	6	264	
+LNE	0323	York	7	249	
+LNE	0323	York	8	152	
+LNE	0323	York	9	318	Down direction
+LNE	0323	York	9	375	Up direction
+SC	0209	Aberdeen	3	212	Bay Platform
+SC	0209	Aberdeen	4	209	Bay Platform
+SC	0209	Aberdeen	5	230	Bay Platform
+SC	0209	Aberdeen	6S	247	Up & Down Bi-Directional Platform
+SC	0209	Aberdeen	6N	193	Up & Down Bi-Directional Platform
+SC	0209	Aberdeen	6	512	Total Length of Platform 6N & 6S
+SC	0209	Aberdeen	7S	173	Up & Down Bi-Directional Platform
+SC	0209	Aberdeen	7N	178	Up & Down Bi-Directional Platform
+SC	0209	Aberdeen	7	423	Total Length of Platform 7N & 7S
+SC	0209	Aberdour	1	147	Up Platform
+SC	0209	Aberdour	2	184	Down Platform
+SC	0209	Achanalt		58	Single Platform
+SC	0209	Achnasheen	1	67	Up Platform
+SC	0209	Achnasheen	2	113	Down Platform
+SC	0209	Achnashellach		66	Single Platform
+SC	0209	Addiewell	1	149	Down Platform
+SC	0209	Addiewell	2	151	Up Platform
+SC	0209	Airbles	1	132	Down Platform
+SC	0209	Airbles	2	132	Up Platform
+SC	0209	Airdrie	1	191	Bay Platform
+SC	0209	Airdrie	2	130	Down Platform
+SC	0209	Airdrie	3	150	Up Platform
+SC	0209	Alexandra Parade	1	131	Down Platform
+SC	0209	Alexandra Parade	2	127	Up Platform
+SC	0209	Alexandria		129	Single Platform
+SC	0209	Alloa	1	151	Bay Platform
+SC	0209	Alness		116	Single Platform
+SC	0209	Altnabreac		95	Single Platform
+SC	0209	Anderston	1	128	Up Platform
+SC	0209	Anderston	2	128	Down Platform
+SC	0209	Annan	2	152	Down Platform
+SC	0209	Annan	1	130	Up Platform
+SC	0209	Anniesland	1	142	Up Platform
+SC	0209	Anniesland	2	142	Down Platform
+SC	0209	Anniesland	3	123	Bay Platform
+SC	0209	Arbroath	1	232	Up Platform
+SC	0209	Arbroath	2	230	Down Platform
+SC	0209	Ardgay	1	197	Up Platform
+SC	0209	Ardgay	2	114	Down Platform
+SC	0209	Ardlui	2	152	Down Platform
+SC	0209	Ardlui	1	154	Up Platform
+SC	0209	Ardrossan Harbour	1	170	Bay Platform
+SC	0209	Ardrossan South Beach		190	Single Platform
+SC	0209	Ardrossan Town		170	Single Platform
+SC	0209	Argyle Street	1 & 2	128	Down Platform 1 / Up Platform 2
+SC	0209	Arisaig	1 & 2	77	Down Platform 1 / Up Platform 2
+SC	0210	Armadale	1 & 2	150	Down Platform 1 / Up Platform 2
+SC	0210	Arrochar & Tarbet	1 & 2	153	Up Platform 1 / Down Platform 2
+SC	0210	Ashfield	1 & 2	110	Up Platform 1 / Down Platform 2
+SC	0210	Attadale		40	Single Platform
+SC	0210	Auchinleck	1 & 2	141	Down Platform 1 / Up Platform 2
+SC	0210	Aviemore	1	286	Highland Single Bi-Directional
+SC	0210	Aviemore	2	312	Aviemore Loop Bi-Directional
+SC	0210	Ayr	1	132	Bay Platform
+SC	0210	Ayr	2	133	Bay Platform
+SC	0210	Ayr	3	196	Up & Down Bi-Directional Platform
+SC	0210	Ayr	4	195	Up & Down Bi-Directional Platform
+SC	0210	Baillieston	1 & 2	110	Down Platform 1 / Up Platform 2
+SC	0210	Balloch		132	Bay Platform
+SC	0210	Balmossie	1 & 2	55	Up Platform 1 / Down Platform 2
+SC	0210	Banavie		73	Single Platform
+SC	0210	Barassie	1	133	Up Platform
+SC	0210	Barassie	2	134	Down Platform
+SC	0210	Bargeddie	1 & 2	110	Down Platform 1 / Up Platform 2
+SC	0210	Barnhill	1	129	Down Platform
+SC	0210	Barnhill	2	121	Up Platform
+SC	0210	Barrhead	1	157	Up Platform Prohibited to passenger trains when station unstaffed
+SC	0210	Barrhead	2	171	Down Platform
+SC	0210	Barrhead	3	108	Bay Platform
+SC	0210	Barrhill	2	69	Down Platform
+SC	0210	Barrhill	1	77	Up Platform
+SC	0210	Barry Links	1	242	Up Platform
+SC	0210	Barry Links	2	176	Down Platform
+SC	0210	Bathgate	1 & 2	150	Up Platform 1 / Down Platform 2
+SC	0210	Bearsden	2	154	Down Platform
+SC	0210	Bearsden	1	134	Up Platform
+SC	0210	Beasdale		50	Single Platform
+SC	0210	Beauly		15	Single Platform - Only front door of unit is opened
+SC	0210	Bellgrove	1 & 2	139	Down Platform 1 / Up Platform 2
+SC	0210	Bellshill	1	138	Down Platform
+SC	0210	Bellshill	2	134	Up Platform
+SC	0210	Bishopbriggs	1	165	Up Platform
+SC	0210	Bishopbriggs	2	153	Down Platform
+SC	0210	Bishopton	1	147	Up Platform
+SC	0210	Bishopton	2	147	Down Platform
+SC	0210	Blackridge	1 & 2	150	Down Platform 1 / Up Platform 2
+SC	0210	Blair Atholl	1	144	Up Platform
+SC	0210	Blair Atholl	2	229	Down Platform
+SC	0210	Blairhill	1 & 2	148	Down Platform 1 / Up Platform 2
+SC	0210	Blantyre	1	159	Down Platform
+SC	0210	Blantyre	2	175	Up Platform
+SC	0210	Bogston	1 & 2	138	Up Platform 1 / Down Platform 2
+SC	0210	Bowling	1 & 2	131	Up Platform 1 / Down Platform 2
+SC	0210	Branchton		137	Single Platform
+SC	0210	Breich	1 & 2	128	Down Platform 1 / Up Platform 2
+SC	0210	Bridge Of Allan	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0211	Bridge Of Orchy	1 & 2	104	Up Platform 1 / Down Platform 2
+SC	0211	Bridgeton	1	127	Down Platform
+SC	0211	Bridgeton	2	130	Up Platform
+SC	0211	Brora	1	149	Up Platform
+SC	0211	Brora	2	146	Down Platform
+SC	0211	Broughty Ferry	2	122	Down Platform
+SC	0211	Broughty Ferry	1	134	Up Platform
+SC	0211	Brunstane		143	Single Platform
+SC	0211	Burnside	1	131	Down Platform
+SC	0211	Burnside	2	133	Up Platform
+SC	0211	Burntisland	1	154	Up Platform
+SC	0211	Burntisland	2	151	Down Platform
+SC	0211	Busby	1	133	Down Platform
+SC	0211	Busby	2	143	Up Platform
+SC	0211	Caldercruix	1 & 2	150	Down Platform 1 / Up Platform 2
+SC	0211	Cambuslang	1 & 2	178	Down Platform 1 / Up Platform 2
+SC	0211	Camelon	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0211	Cameron Bridge	1 & 2	200	
+SC	0211	Cardenden	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0211	Cardonald	1 & 2	170	Up Platform 1 / Down Platform 2
+SC	0211	Cardross	1	165	Up Platform
+SC	0211	Cardross	2	155	Down Platform
+SC	0211	Carfin	1	92	Up Platform
+SC	0211	Carfin	2	97	Down Platform
+SC	0211	Carluke	1	146	Down Platform
+SC	0211	Carluke	2	136	Up Platform
+SC	0211	Carmyle	1	125	Down Platform 1
+SC	0211	Carmyle	2	124	Up Platform 2
+SC	0211	Carnoustie	1	142	Up Platform
+SC	0211	Carnoustie	2	148	Down Platform
+SC	0211	Carntyne	1 & 2	128	Down Platform 1 / Up Platform 2
+SC	0211	Carrbridge	1	258	Bi-Directional Mainline Platform
+SC	0211	Carrbridge	2	256	Bi-Directional Loop Platform
+SC	0211	Carstairs	1	270	Down Platform (Bi-Directional)
+SC	0211	Carstairs	2	290	Up Platform (Bi-Directional)
+SC	0211	Cartsdyke	1 & 2	138	Up Platform 1 / Down Platform 2
+SC	0211	Cathcart	1	153	Down Platform
+SC	0211	Cathcart	2	151	Up Platform
+SC	0211	Charing Cross	1 & 2	175	Up Platform 1 / Down Platform 2
+SC	0211	Chatelherault		130	Single Platform
+SC	0211	Clarkston	1 & 2	144	Down Platform 1 / Up Platform 2
+SC	0211	Cleland	1 & 2	125	Down Platform 1 / Up Platform 2
+SC	0211	Clydebank	1 & 2	193	Up Platform 1 / Down Platform 2
+SC	0211	Coatbridge Central	1	134	Down Platform
+SC	0211	Coatbridge Central	2	134	Up Platform
+SC	0211	Coatbridge Sunnyside	1	144	Down Platform
+SC	0211	Coatbridge Sunnyside	2	159	Up Platform
+SC	0211	Coatdyke	1 & 2	129	Down Platform 1 / Up Platform 2
+SC	0211	Connel Ferry		127	Single Platform
+SC	0211	Conon Bridge		15	Single Platform - Only one door of unit is opened
+SC	0211	Corkerhill		118	Single Platform
+SC	0211	Corpach		79	Single Platform
+SC	0212	Corrour		41	Single Platform
+SC	0212	Cowdenbeath	1	156	Up Platform
+SC	0212	Cowdenbeath	2	153	Down Platform
+SC	0212	Craigendoran		170	Single Platform
+SC	0212	Crianlarich	1	149	Up Platform
+SC	0212	Crianlarich	2	151	Down Platform
+SC	0212	Croftfoot	1 & 2	183	Down Platform 1 / Up Platform 2
+SC	0212	Crookston		109	Single Platform
+SC	0212	Crosshill	1	151	Down Platform
+SC	0212	Crosshill	2	154	Up Platform
+SC	0212	Crossmyloof	1	151	Down Platform
+SC	0212	Crossmyloof	2	151	Up Platform
+SC	0212	Croy	1 & 2	195	Up Platform 1 / Down Platform 2
+SC	0212	Culrain		96	Single Platform
+SC	0212	Cumbernauld	1	129	Up Platform
+SC	0212	Cumbernauld	2	132	Down Platform
+SC	0212	Cupar	1 & 2	182	Up Platform 1 / Down Platform 2
+SC	0212	Curriehill	Down/Up	121	Up Platform 1 / Down Platform 2
+SC	0212	Dalmally	1	137	Up Platform
+SC	0212	Dalmally	2	118	Down Platform
+SC	0212	Dalgety Bay	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0212	Dalmarnock	1 & 2	128	Down Platform 1 / Up Platform 2
+SC	0212	Dalmeny	1	192	Up Platform
+SC	0212	Dalmeny	2	175	Down Platform
+SC	0212	Dalmuir	1	153	Down Platform
+SC	0212	Dalmuir	2	145	Up Platform
+SC	0212	Dalmuir	3	140	Down Platform
+SC	0212	Dalmuir	4	128	Up Platform
+SC	0212	Dalmuir	5	128	Bay Platform
+SC	0212	Dalreoch	1 & 2	134	Up Platform 1 / Down Platform 2
+SC	0212	Dalry	1 & 2	132	Up Platform 1 / Down Platform 2
+SC	0212	Dalwhinnie	1	100	Up Platform - Bi-Directional
+SC	0212	Dalwhinnie	2	180	Down Platform
+SC	0212	Dingwall	1	174	Down Platform
+SC	0212	Dingwall	2	218	Up Platform
+SC	0212	Drem	1	123	Up Platform
+SC	0212	Drem	2	135	Down Platform
+SC	0212	Drumchapel	1	120	Up Platform
+SC	0212	Drumchapel	2	169	Down Platform
+SC	0212	Drumfrochar		124	Single Platform
+SC	0212	Drumgelloch	1 & 2	150	Down Platform 1 / Up Platform 2
+SC	0212	Drumry	1 & 2	153	Up Platform 1 / Down Platform 2
+SC	0212	Duirinish		89	Single Platform
+SC	0212	Duke Street	1	156	Down Platform
+SC	0212	Duke Street	2	177	Up Platform
+SC	0212	Dumbarton Central	1 & 2	189	Up Platform 1 / Down Platform 2
+SC	0212	Dumbarton Central	3	183	Up & Down Bi-Directional Loop Platform
+SC	0212	Dumbarton East	1 & 2	164	Up Platform 1 / Down Platform 2
+SC	0212	Dumbreck	1 & 2	108	Up Platform 1 / Down Platform 2
+SC	0212	Dumfries	1	290	Down Platform
+SC	0212	Dumfries	2	251	Up Platform
+SC	0212	Dunbar	1	256	Up & Down Bi-Directional Loop Platform
+SC	0212	Dunbar	2	271	Down Platform
+SC	0213	Dunblane	1	170	Up Platform
+SC	0213	Dunblane	2	174	Down Platform
+SC	0213	Dunblane	3	174	Down Passenger Loop
+SC	0213	Duncraig		37	Single Platform
+SC	0213	Dundee	1	362	Up & Down Bi-Directional Platform
+SC	0213	Dundee	1N	98	Up & Down Bi-Directional Platform
+SC	0213	Dundee	1S	230	Up & Down Bi-Directional Platform
+SC	0213	Dundee	2	198	Bay Platform
+SC	0213	Dundee	3	123	Bay Platform
+SC	0213	Dundee	4	316	Up & Down Bi-Directional Platform
+SC	0213	Dunfermline City	2	234	Down Platform
+SC	0213	Dunfermline City	1	165	Up Platform
+SC	0213	Dunfermline Queen Margaret	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0213	Dunkeld & Birnam	1	255	Up Platform – Bi-Directional
+SC	0213	Dunkeld & Birnam	2	213	Down Platform
+SC	0213	Dunlop	1 & 2	165	Up Platform 1 / Down Platform 2 – Bi- Directional
+SC	0213	Dunrobin Castle		62	Single Platform
+SC	0213	Dyce	1	168	Down Platform – Bi-Directional
+SC	0213	Dyce	2	162	Up Platform – Bi-Directional
+SC	0213	East Kilbride		144	Bay Platform
+SC	0213	Easterhouse	1	123	Down Platform
+SC	0213	Easterhouse	2	127	Up Platform
+SC	0213	East Linton	1	164	Up Platform
+SC	0213	East Linton	2	164	Down Platform
+SC	0213	Edinburgh	1	156	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	2	261	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	3	119	Bay Platform
+SC	0213	Edinburgh	4	206	Bay Platform
+SC	0213	Edinburgh	5	275	Bay Platform
+SC	0213	Edinburgh	6	275	Bay Platform
+SC	0213	Edinburgh	7	222	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	8	293	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	9	289	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	10	221	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	11	239	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	12	190	Bay Platform
+SC	0213	Edinburgh	13	151	Bay Platform
+SC	0213	Edinburgh	14	212	Bay Platform
+SC	0213	Edinburgh	15	201	Bay Platform
+SC	0213	Edinburgh	16	197	Bay Platform
+SC	0213	Edinburgh	17	196	Bay Platform
+SC	0213	Edinburgh	18	109	Bay Platform
+SC	0213	Edinburgh	19	261	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	20	156	Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	1+20	385	Combined Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	2+19	595	Combined Up & Down Bi-Directional Platform
+SC	0213	Edinburgh	7+11	542	Combined Up & Down Bi-Directional Platform
+SC	0213	Edinburgh Gateway	1 & 2	265	Up Platform 1 / Down Platform 2
+SC	0213	Edinburgh Park	1 & 2	148	Up Platform 1 / Down Platform 2
+SC	0213	Elgin	1	160	Bi-Directional Mainline Platform
+SC	0213	Elgin	2	161	Bi-Directional Loop Platform
+SC	0213	Eskbank		160	Single Platform
+SC	0214	Exhibition Centre	1	130	Up Platform
+SC	0214	Exhibition Centre	2	144	Down Platform
+SC	0214	Fairlie		130	Single Platform
+SC	0214	Falkirk Grahamston	1 & 2	152	Up Platform 1 / Down Platform 2
+SC	0214	Falkirk High	1 & 2	195	Up Platform 1 / Down Platform 2
+SC	0214	Falls Of Cruachan		66	Single Platform
+SC	0214	Fauldhouse	1	128	Down Platform
+SC	0214	Fauldhouse	2	137	Up Platform
+SC	0214	Fearn		136	Single Platform
+SC	0214	Forres	1	160	Bi-Directional Mainline Platform
+SC	0214	Forres	2	160	Bi-Directional Loop Platform
+SC	0214	Forsinard	1	76	Up Platform
+SC	0214	Forsinard	2	72	Down Platform
+SC	0214	Fort Matilda	1	181	Up Platform
+SC	0214	Fort Matilda	2	147	Down Platform
+SC	0214	Fort William	1 & 2	212	Bay Platforms
+SC	0214	Galashiels		160	Single Platform
+SC	0214	Garelochhead	1 & 2	150	Up Platform 1 / Down Platform 2
+SC	0214	Garrowhill	1 & 2	128	Down Platform 1 / Up Platform 2
+SC	0214	Garscadden	1 & 2	128	Up Platform 1 / Down Platform 2
+SC	0214	Gartcosh	1 & 2	148	Down Platform 1 / Up Platform 2
+SC	0214	Garve	1 & 2	104	Up Platform 1 / Down Platform 2
+SC	0214	Georgemas		116	Single Platform
+SC	0214	Gilshochill	1 & 2	110	Up Platform 1 / Down Platform 2
+SC	0214	Giffnock	1 & 2	144	Down Platform 1 / Up Platform 2
+SC	0214	Girvan	1	212	Up Platform – Bi-Directional
+SC	0214	Girvan	2	218	Down Platform
+SC	0214	Glasgow Central	1	279	Bay Platform
+SC	0214	Glasgow Central	2	292	Bay Platform
+SC	0214	Glasgow Central	3	166	Bay Platform
+SC	0214	Glasgow Central	4	165	Bay Platform
+SC	0214	Glasgow Central	5	142	Bay Platform
+SC	0214	Glasgow Central	6 & 7	130	Bay Platform
+SC	0214	Glasgow Central	8	124	Bay Platform
+SC	0214	Glasgow Central	9	286	Bay Platform
+SC	0214	Glasgow Central	10	276	Bay Platform
+SC	0214	Glasgow Central	11	353	Bay Platform - Normal length 244, trains longer than this must give prior notice to Station Shift Manager
+SC	0214	Glasgow Central	12	149	Bay Platform
+SC	0214	Glasgow Central	13	149	Bay Platform
+SC	0214	Glasgow Central	14	193	Bay Platform
+SC	0214	Glasgow Central	15	235	Bay Platform
+SC	0214	Glasgow Central Low Level	16 & 17	135	Up Platform 16 / Down Platform 17
+SC	0214	Glasgow Queen Street High Level	1	98	Bay Platform
+SC	0214	Glasgow Queen Street High Level	2	171	Bay Platform
+SC	0214	Glasgow Queen Street High Level	3 & 4	196	Bay Platform
+SC	0214	Glasgow Queen Street High Level	5	171	Bay Platform
+SC	0214	Glasgow Queen Street High Level	6	147	Bay Platform
+SC	0214	Glasgow Queen Street High Level	7	196	Bay Platform
+SC	0214	Glasgow Queen Street Low Level	8 & 9	135	Down Platform 8 / Up Platform 9
+SC	0214	Gleneagles	1	201	Up Platform
+SC	0215	Gleneagles	2	203	Down Platform
+SC	0215	Glenfinnan	1 & 2	75	Down Platform 1 / Up Platform 2
+SC	0215	Glengarnock	1 & 2	131	Up Platform 1 / Down Platform 2
+SC	0215	Glenrothes With Thornton	1	147	Bi-Directional South Curve Platform
+SC	0215	Glenrothes With Thornton	2	147	Bi-Directional North Curve Platform
+SC	0215	Golf Street	1 & 2	66	Up Platform 1 / Down Platform 2
+SC	0215	Golspie		139	Single Platform
+SC	0215	Gorebridge		160	Single Platform
+SC	0215	Gourock	1	244	Bay Platform
+SC	0215	Gourock	2 & 3	182	Bay Platform
+SC	0215	Greenfaulds	1 & 2	120	Up Platform 1 / Down Platform 2
+SC	0215	Greenock Central	1	189	Up Platform
+SC	0215	Greenock Central	2	202	Down Platform
+SC	0215	Greenock West	1	141	Up Platform
+SC	0215	Greenock West	2	147	Down Platform
+SC	0215	Gretna Green	1	112	Up Platform
+SC	0215	Gretna Green	2	112	Down Platform
+SC	0215	Hairmyres		144	Single Platform
+SC	0215	Hamilton Central	1	133	Down Platform
+SC	0215	Hamilton Central	2	193	Up Platform
+SC	0215	Hamilton West	1	159	Down Platform
+SC	0215	Hamilton West	2	162	Up Platform
+SC	0215	Hartwood	1	134	Down Platform
+SC	0215	Hartwood	2	128	Up Platform
+SC	0215	Hawkhead		110	Single Platform
+SC	0215	Haymarket	0	194	Bay Platform
+SC	0215	Haymarket	1	185	Up Platform
+SC	0215	Haymarket	2	233	Down Platform - Down trains: 233m, with restricted access / egress for rear most 10 metres
+SC	0215	Haymarket	3	229	Up Platform
+SC	0215	Haymarket	4	235	Down Platform
+SC	0215	Helensburgh Central	1	188	Bay Platform
+SC	0215	Helensburgh Central	2	203	Bay Platform
+SC	0215	Helensburgh Central	3	177	Bay Platform
+SC	0215	Helensburgh Upper		149	Single Platform
+SC	0215	Helmsdale	1	134	Up Platform
+SC	0215	Helmsdale	2	140	Down Platform
+SC	0215	High Street	1	152	Down Platform
+SC	0215	High Street	2	156	Up Platform
+SC	0215	Hillfoot	1	140	Up Platform
+SC	0215	Hillfoot	2	142	Down Platform
+SC	0215	Hillington East	1 & 2	151	Up Platform 1 / Down Platform 2
+SC	0215	Hillington West	1 & 2	186	Up Platform 1 / Down Platform 2
+SC	0215	Holytown	1	143	Down Platform
+SC	0215	Holytown	2	136	Up Platform
+SC	0215	Howwood	1 & 2	140	Up Platform 1 / Down Platform 2
+SC	0215	Huntly	1	160	Bi-Directional Loop Platform
+SC	0215	Huntly	2	183	Bi-Directional Mainline Platform
+SC	0215	Hyndland	2	128	Down Platform
+SC	0215	Hyndland	1	131	Up Platform
+SC	0215	IBM		124	Single Platform
+SC	0216	Insch	1	130	Down Platform
+SC	0216	Insch	2	128	Up Platform
+SC	0216	Invergordon	1	163	Up Platform
+SC	0216	Invergordon	2	177	Down Platform
+SC	0216	Invergowrie	1	64	Up Platform
+SC	0216	Invergowrie	2	70	Down Platform
+SC	0216	Inverkeithing	1	188	Up Platform
+SC	0216	Inverkeithing	2	190	Down Platform
+SC	0216	Inverkip		130	Single Platform
+SC	0216	Inverness	1	272	Bay Platform
+SC	0216	Inverness	2	305	Bay Platform
+SC	0216	Inverness	3	161	Bay Platform
+SC	0216	Inverness	4	164	Bay Platform
+SC	0216	Inverness	5	104	Bay Platform
+SC	0216	Inverness	6	105	Bay Platform
+SC	0216	Inverness	7	102	Bay Platform - No watering facilities
+SC	0216	Inverness Airport	1	160	
+SC	0216	Inverness Airport	2	160	
+SC	0216	Invershin		94	Single Platform
+SC	0216	Inverurie	1	172	Bi-Directional Mainline Platform
+SC	0216	Inverurie	2	183	Bi-Directional Loop Platform
+SC	0216	Irvine	1 & 2	170	Up Platform 1 / Down Platform 2
+SC	0216	Johnstone	1 & 2	170	Up Platform 1 / Down Platform 2
+SC	0216	Jordanhill	1 & 2	140	Up Platform 1 / Down Platform 2
+SC	0216	Keith		181	Single Platform
+SC	0216	Kelvindale		140	Single Platform
+SC	0216	Kennishead	1	128	Down Platform
+SC	0216	Kennishead	2	124	Up Platform
+SC	0216	Kildonan		58	Single Platform
+SC	0216	Kilmarnock	1	155	Bay Platform
+SC	0216	Kilmarnock	2	127	Bay Platform
+SC	0216	Kilmarnock	3	268	Up & Down Bi-Directional Platform
+SC	0216	Kilmarnock	4	218	Up & Down Bi-Directional Platform
+SC	0216	Kilmaurs		121	Single Platform
+SC	0216	Kilpatrick	1	132	Up Platform
+SC	0216	Kilpatrick	2	146	Down Platform
+SC	0216	Kinbrace		91	Single Platform
+SC	0216	Kilwinning	1	165	Up Platform
+SC	0216	Kilwinning	2	169	Up & Down Bi-Directional Platform
+SC	0216	Kilwinning	3	177	Up & Down Bi-Directional Platform
+SC	0216	Kilwinning	4	177	Down Platform
+SC	0216	King’s Park	1 & 2	183	Down Platform 1 / Up Platform 2
+SC	0216	Kinghorn	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0216	Kingsknowe	1	93	Up Platform
+SC	0216	Kingsknowe	2	94	Down Platform
+SC	0216	Kingussie	1	253	Down Platform – Bi-Directional
+SC	0216	Kingussie	2	269	Up Platform
+SC	0216	Kintore	1 & 2	160	
+SC	0216	Kirkcaldy	1	193	Up Platform
+SC	0216	Kirkcaldy	2	217	Down Platform
+SC	0216	Kirkconnel	1	105	Down Platform
+SC	0216	Kirkconnel	2	99	Up Platform
+SC	0217	Kirkhill	1	137	Down Platform
+SC	0217	Kirkhill	2	139	Up Platform
+SC	0217	Kirknewton	1	99	Up Platform
+SC	0217	Kirknewton	2	169	Down Platform
+SC	0217	Kirkwood	1	102	Down Platform
+SC	0217	Kirkwood	2	110	Up Platform
+SC	0217	Kyle Of Lochalsh	1 & 2	183	Bay Platforms
+SC	0217	Ladybank	2	179	Down Platform – Bi-Directional to/from Newburgh
+SC	0217	Ladybank	1	137	Up Platform
+SC	0217	Lairg	1	114	Down Platform
+SC	0217	Lairg	2	118	Up Platform
+SC	0217	Lanark	1	145	Bay Platform
+SC	0217	Lanark	2	151	Bay Platform
+SC	0217	Langbank	1 & 2	136	Up Platform 1 / Down Platform 2
+SC	0217	Langside	1	151	Down Platform
+SC	0217	Langside	2	149	Up Platform
+SC	0217	Larbert	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0217	Largs	1 & 2	170	Bay Platforms
+SC	0217	Larkhall	1 & 2	155	Bay Platforms
+SC	0217	Laurencekirk	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0217	Lenzie	1	160	Up Platform
+SC	0217	Lenzie	2	170	Down Platform
+SC	0217	Leuchars	1	206	Up Platform
+SC	0217	Leuchars	2	285	Down Platform
+SC	0217	Leven	1 & 2	205	
+SC	0217	Linlithgow	1 & 2	195	Up Platform 1 / Down Platform 2
+SC	0217	Livingston North	1	148	Up Platform
+SC	0217	Livingston North	2	160	Down Platform
+SC	0217	Livingston South	1 & 2	120	Down Platform 1 / Up Platform 2
+SC	0217	Loch Awe		123	Single Platform
+SC	0217	Loch Eil O.B.		28	Single Platform
+SC	0217	Lochailort		76	Single Platform
+SC	0217	Locheilside		75	Single Platform
+SC	0217	Lochgelly	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0217	Lochluichart		74	Single Platform
+SC	0217	Lochwinnoch	1 & 2	127	Up Platform 1 / Down Platform 2
+SC	0217	Lockerbie	1	308	Down Platform
+SC	0217	Lockerbie	2	302	Up Platform
+SC	0217	Longniddry	1 & 2	131	Up Platform 1 / Down Platform 2
+SC	0217	Mallaig	1	127	Bay Platform
+SC	0217	Mallaig	2	109	Bay Platform
+SC	0217	Markinch	1	148	Up Platform
+SC	0217	Markinch	2	173	Down Platform
+SC	0217	Maryhill	1 & 2	110	Up Platform 1 / Down Platform 2
+SC	0217	Maxwell Park	1	154	Up Platform
+SC	0217	Maxwell Park	2	150	Down Platform
+SC	0217	Maybole		141	Single Platform
+SC	0217	Merryton		130	Single Platform
+SC	0217	Milliken Park	1 & 2	130	Up Platform 1 / Down Platform 2
+SC	0217	Milngavie	1 & 2	205	Bay Platforms
+SC	0217	Monifieth	1	117	Up Platform
+SC	0218	Monifieth	2	116	Down Platform
+SC	0218	Montrose	1	253	Up Platform – Bi-Directional
+SC	0218	Montrose	2	215	Down Platform
+SC	0218	Morar		75	Single Platform
+SC	0218	Mosspark		118	Single Platform
+SC	0218	Motherwell	1	275	Up Platform
+SC	0218	Motherwell	2	274	Down Platform
+SC	0218	Motherwell	3	251	Down Platform – Bi-Directional
+SC	0218	Motherwell	4	162	Up Platform – Bi-Directional
+SC	0218	Mount Florida	1 & 2	145	Down Platform 1 / Up Platform 2
+SC	0218	Mount Vernon	1 & 2	110	Down Platform 1 / Up Platform 2
+SC	0218	Muir Of Ord	1 & 2	209	Up Platform 1 / Down Platform 2
+SC	0218	Muirend	1 & 2	180	Down Platform 1 / Up Platform 2
+SC	0218	Musselburgh	1 & 2	120	Up Platform 1 / Down Platform 2
+SC	0218	Nairn	1	354	Bi-Directional Mainline Platform
+SC	0218	Nairn	2	239	Up Platform 2 (Loop)
+SC	0218	Neilston	1	144	Down Platform
+SC	0218	Neilston	2	136	Up Platform
+SC	0218	Newcraighall		143	Single Platform
+SC	0218	New Cumnock	1 & 2	111	Down Platform 1 / Up Platform 2
+SC	0218	Newton	1 & 2	137	Down Platform 1 / Up Platform 2 – Bi- Directional
+SC	0218	Newton On Ayr	1 & 2	131	Up Platform 1 / Down Platform 2
+SC	0218	Newtongrange		160	Single Platform
+SC	0218	Newtonmore		212	Single Platform
+SC	0218	Nitshill	1	138	Down Platform
+SC	0218	Nitshill	2	139	Up Platform
+SC	0218	North Berwick		148	Single Bay Platform
+SC	0218	North Queensferry	1 & 2	147	Up Platform 1 / Down Platform 2
+SC	0218	Oban	3	187	
+SC	0218	Oban	4	237	
+SC	0218	Paisley Canal		105	Single Bay Platform
+SC	0218	Paisley Gilmour Street	1	250	Up & Down Bi-Directional Platform
+SC	0218	Paisley Gilmour Street	2	231	Up & Down Bi-Directional Platform
+SC	0218	Paisley Gilmour Street	3 and 4	251	Up & Down Bi-Directional Platform
+SC	0218	Paisley St. James	1 & 2	175	Up Platform 1 / Down Platform 2
+SC	0218	Partick	1	129	Up Platform
+SC	0218	Partick	2	133	Down Platform
+SC	0218	Patterton	1	148	Down Platform
+SC	0218	Patterton	2	180	Up Platform
+SC	0218	Perth	1	219	Up Platform
+SC	0218	Perth	2	181	Down Platform
+SC	0218	Perth	3	116	Bay Platform * Usable length between signal P98 and buffers is 230m
+SC	0218	Perth	4	473	Up & Down Bi-Directional Platform
+SC	0218	Perth	5	222	Bay Platform
+SC	0218	Perth	6	170	Bay Platform
+SC	0218	Perth	7	433	Up & Down Bi-Directional Platform
+SC	0219	Pitlochry	1	245	Up platform (total length)
+SC	0219	Pitlochry		180	Up platform (Down direction standage within signal)
+SC	0219	Pitlochry		175	Up platform (Up direction standage within signal)
+SC	0219	Pitlochry	2	245	Down platform (total length)
+SC	0219	Pitlochry		175	Down Platform (Down direction standage within signal)
+SC	0219	Pitlochry		175	Down platform (Up direction standage within signal)
+SC	0219	Plockton		132	Single Platform
+SC	0219	Pollokshaws East	1	140	Up Platform
+SC	0219	Pollokshaws East	2	138	Down Platform
+SC	0219	Pollokshaws West	1	151	Down Platform
+SC	0219	Pollokshaws West	2	151	Up Platform
+SC	0219	Pollokshields East	1	121	Down Platform
+SC	0219	Pollokshields East	2	146	Up Platform
+SC	0219	Pollokshields West	1 & 2	152	Up Platform 1 / Down Platform 2
+SC	0219	Polmont	1 & 2	195	Up Platform 1 / Down Platform 2
+SC	0219	Port Glasgow	1	199	Up Platform
+SC	0219	Port Glasgow	2	226	Down Platform
+SC	0219	Portlethen	1 & 2	118	Up Platform 1 / Down Platform 2
+SC	0219	Possilpark	1 & 2	110	Up Platform 1 / Down Platform 2
+SC	0219	Prestonpans	1	134	Up Platform
+SC	0219	Prestonpans	2	185	Down Platform
+SC	0219	Prestwick Town	1	178	Up Platform
+SC	0219	Prestwick Town	2	175	Down Platform
+SC	0219	Prestwick International	1 & 2	165	Up Platform 1 / Down Platform 2
+SC	0219	Priesthill & Darnley	1 & 2	109	Down Platform 1 / Up Platform 2
+SC	0219	Queens Park	1	134	Down Platform
+SC	0219	Queens Park	2	136	Up Platform
+SC	0219	Rannoch	1 & 2	115	Down Platform 1 / Up Platform 2
+SC	0219	Renton		138	Single Platform
+SC	0219	Reston	1 & 2	270	Up Platform 1 / Down Platform 2
+SC	0219	Robroyston	1 & 2	150	Down Platform 1 / Up Platform 2
+SC	0219	Rogart	1	135	Up Platform
+SC	0219	Rogart	2	101	Down Platform
+SC	0219	Rosyth	1 & 2	182	Up Platform 1 / Down Platform 2
+SC	0219	Roy Bridge		112	Single Platform
+SC	0219	Rutherglen	1	134	Down Platform
+SC	0219	Rutherglen	2	128	Up Platform
+SC	0219	Saltcoats	1 & 2	170	Up Platform 1 / Down Platform 2
+SC	0219	Sanquhar	1 & 2	111	Down Platform 1 / Up Platform 2
+SC	0219	Scotscalder		77	Single Platform
+SC	0219	Scotstounhill	1 & 2	148	Up Platform 1 / Down Platform 2
+SC	0219	Shawlands	1 & 2	155	Up Platform 1 / Down Platform 2
+SC	0219	Shawfair	1 & 2	160	Down Platform 1 / Up Platform 2
+SC	0219	Shettleston	1 & 2	161	Down Platform 1 / Up Platform 2
+SC	0219	Shieldmuir	1 & 2	132	Down Platform 1 (Bi-Directional) / Up Platform 2
+SC	0219	Shotts	1	148	Down Platform
+SC	0219	Shotts	2	152	Up Platform
+SC	0219	Singer	1 & 2	182	Up Platform 1 / Down Platform 2
+SC	0219	Slateford	1	153	Up Platform
+SC	0220	Slateford	2	183.0	Down Platform
+SC	0220	South Gyle	1 & 2	147.0	Up Platform 1 / Down Platform 2
+SC	0220	Spean Bridge	1	178.0	Down Platform
+SC	0220	Spean Bridge	2	117.0	Up Platform
+SC	0220	Springburn	1	139.0	Up Platform (Bi-Directional)
+SC	0220	Springburn	2	155.0	Down Platform (Bi-Directional)
+SC	0220	Springburn	3	135.0	Bay Platform
+SC	0220	Springburn	4	186.0	Bay Platform
+SC	0220	Springfield	1	109.0	Up Platform
+SC	0220	Springfield	2	114.0	Down Platform
+SC	0220	Stepps	1 & 2	120.0	Down Platform 1 / Up Platform 2
+SC	0220	Stevenson	1	170.0	Up Platform
+SC	0220	Stevenson	2	132.0	Down Platform
+SC	0220	Stewarton	1	165.0	Up Platform – Bi-Directional
+SC	0220	Stewarton	2	165.0	Down Platform – Bi-Directional
+SC	0220	Stirling	2	301.0	Down Platform
+SC	0220	Stirling	3	255.0	Up Platform
+SC	0220	Stirling	4 and 5	165.0	Bay Platform
+SC	0220	Stirling	6	254.0	Up & Down Bi-Directional Platform
+SC	0220	Stirling	7 and 8	105.0	Bay Platforms
+SC	0220	Stirling	9	234.0	Up Platform
+SC	0220	Stirling	10	235.0	Bay Platform
+SC	0220	Stonehaven	1	173.0	Up Platform
+SC	0220	Stonehaven	2	185.0	Down Platform
+SC	0220	Stranraer	1	146.0	Bay Platform
+SC	0220	Stranraer	2	135.0	Bay Platform
+SC	0220	Strathcarron	1	74.0	Up Platform
+SC	0220	Strathcarron	2	61.0	Down Platform
+SC	0220	Stromeferry		169.0	Single Platform
+SC	0220	Stow	1 & 2	160.0	Down Platform 1 / Up Platform 2
+SC	0220	Summerston	1 & 2	110.0	Up Platform 1 / Down Platform 2
+SC	0220	Tain	1	149.0	Up Platform
+SC	0220	Tain	2	156.0	Down Platform
+SC	0220	Taynuilt	1 & 2	126.0	Up Platform 1 / Down Platform 2
+SC	0220	Thornliebank	1 & 2	160.0	Down Platform 1 / Up Platform 2
+SC	0220	Thorntonhall		144.0	Single Platform
+SC	0220	Thurso		186.0	Single Bay Platform
+SC	0220	Troon	1	170.0	Up Platform
+SC	0220	Troon	2	167.0	Down Platform
+SC	0220	Tulloch	1 & 2	108.0	Up Platform 1 / Down Platform 2
+SC	0220	Tweedbank	1 & 2	228.0	Bay Platforms
+SC	0220	Tyndrum Lower		87.0	Single Platform
+SC	0220	Uddingston	1	133.0	Down Platform
+SC	0220	Uddingston	2	134.0	Up Platform
+SC	0220	Uphall	1 & 2	160.0	Up Platform 1 / Down Platform 2
+SC	0220	Upper Tyndrum	1 & 2	123.0	Up Platform 1 / Down Platform 2
+SC	0220	Wallyford	1 & 2	150.0	Up Platform 1 / Down Platform 2
+SC	0220	Wemyss Bay	1	215.0	Bay Platform
+SC	0220	Wemyss Bay	2	228.0	Bay Platform
+SC	0220	West Calder	1	131.0	Down Platform
+SC	0220	West Calder	2	129.0	Up Platform
+SC	0220	West Kilbride		132.0	Single Platform
+SC	0220	Wester Hailes	1 & 2	120.0	Up Platform 1 / Down Platform 2
+SC	0220	Westerton	1	129.0	Up Platform
+SC	0221	Westerton	2	125.0	Down Platform
+SC	0221	Whifflet	1 & 2	130.0	Down Platform 1 / Up Platform 2
+SC	0221	Whinhill		131.0	Single Platform
+SC	0221	Whitecraigs	1	162.0	Down Platform
+SC	0221	Whitecraigs	2	142.0	Up Platform
+SC	0221	Wick		210.0	Bay Platform
+SC	0221	Williamwood	1	151.0	Down Platform
+SC	0221	Williamwood	2	152.0	Up Platform
+SC	0221	Wishaw	1 & 2	144.0	Down Platform 1 / Up Platform 2
+SC	0221	Woodhall	1	186.0	Up Platform
+SC	0221	Woodhall	2	185.0	Down Platform
+SC	0221	Yoker	1 & 2	155.0	Up Platform 1 / Down Platform 2
+SX	0151	Aldrington	1 - Up Brighton	85	
+SX	0151	Aldrington	2 - Down Brighton	85	
+SX	0151	Amberley	1 – Up	99	
+SX	0151	Amberley	2 – Down	114	
+SX	0151	Anerley	1 - Up Slow	193	
+SX	0151	Anerley	2 - Down Slow	167	
+SX	0151	Angmering	1 - Up Brighton	135	
+SX	0151	Angmering	2 - Down Brighton	136	
+SX	0151	Appledore	1 - Up Hastings	87	
+SX	0151	Appledore	2 - Down Hastings	80	
+SX	0151	Arundel	1 - Up Horsham	253	
+SX	0151	Arundel	2 - Down Horsham	244	
+SX	0151	Ashford International	1 - Up Passenger Loop	265	Down direction
+SX	0151	Ashford International	1 - Up Passenger Loop	265	Up direction
+SX	0151	Ashford International	2 - Up Slow	265	Down direction
+SX	0151	Ashford International	2 - Up Slow	265	Up direction
+SX	0151	Ashford International	3 – Up International	412 #	Down direction International services only
+SX	0151	Ashford International	3 - Up International	412 #	Up direction International services only
+SX	0151	Ashford International	4 – Down International	412 #	Down direction International services only
+SX	0151	Ashford International	4 - Down International	412 #	Up direction International services only
+SX	0151	Ashford International	5 - Down Slow	260	Down direction
+SX	0151	Ashford International	5 - Down Slow	260	Up direction
+SX	0151	Ashford International	6 - Down Passenger Loop	260	Down direction
+SX	0151	Ashford International	6 - Down Passenger Loop	260	Up direction
+SX	0151	Ashurst	1 – Up	237	
+SX	0151	Ashurst	2 – Down	237	
+SX	0151	Balcombe	1 - Up Main	250	
+SX	0151	Balcombe	2 - Down Main	166	
+SX	0151	Balham	1 - Down Slow	201	
+SX	0151	Balham	2 - Up Slow	203	
+SX	0151	Balham	3 - Down Fast	163	
+SX	0151	Balham	4 - Up Fast	163	
+SX	0151	Banstead	Epsom Downs Single	163	Down direction
+SX	0151	Banstead	Epsom Downs Single	163	Up direction
+SX	0151	Barnham	1 - Down Passenger Loop	242	Down direction
+SX	0151	Barnham	1 - Down Passenger Loop	242	Up direction
+SX	0151	Barnham	2 - Down Main	243	
+SX	0151	Barnham	3 - Up Main	244	
+SX	0152	Battersea Park	2 - Up Atlantic	110	
+SX	0152	Battersea Park	3 - Down Slow	201	
+SX	0152	Battersea Park	4 - Up Slow	180	
+SX	0152	Battersea Park	5 - Down Fast	165.3	
+SX	0152	Battersea Pier Staff Halt	Brighton Reversible	3	Down direction
+SX	0152	Battersea Pier Staff Halt	Brighton Reversible	3	Up direction
+SX	0152	Belmont	Epsom Downs Single	159	Down direction
+SX	0152	Belmont	Epsom Downs Single	159	Up direction
+SX	0152	Berwick	1 - Up Main	156	
+SX	0152	Berwick	2 - Down Main	157	
+SX	0152	Betchworth	1 - Up Reading	95.3	
+SX	0152	Betchworth	2 - Down Reading	140	
+SX	0152	Bexhill	1 - Up Bexhill	254	
+SX	0152	Bexhill	2 - Down Bexhill	286	
+SX	0152	Billingshurst	1 – Up	167	
+SX	0152	Billingshurst	2 – Down	185	
+SX	0152	Birkbeck	Crystal Palace Single	158	Down direction
+SX	0152	Birkbeck	Crystal Palace Single	158	Up direction
+SX	0152	Bishopstone	Seaford Single	120	Down direction
+SX	0152	Bishopstone	Seaford Single	120	Up direction
+SX	0152	Bognor Regis	1	251	
+SX	0152	Bognor Regis	2	253	
+SX	0152	Bognor Regis	3	254	
+SX	0152	Bognor Regis	4	130	
+SX	0152	Bosham	1 – Up	156	
+SX	0152	Bosham	2 – Down	179	
+SX	0152	Boxhill and Westhumble	1 - Up Portsmouth	158	
+SX	0152	Boxhill and Westhumble	2 - Down Portsmouth	158	
+SX	0152	Brighton	1	234	
+SX	0152	Brighton	2	278	
+SX	0152	Brighton	3	250	From Preston Park direction complete
+SX	0152	Brighton	3N	165	From Preston Park direction
+SX	0152	Brighton	3S	85	From Hove direction
+SX	0152	Brighton	4	250	
+SX	0152	Brighton	5	248	
+SX	0152	Brighton	6	250	
+SX	0152	Brighton	7	250	
+SX	0152	Brighton	8	240	
+SX	0152	Brockley	1 - Up Slow	175	
+SX	0152	Brockley	2 - Down Slow	175	
+SX	0152	Burgess Hill	1 - Up Main	262	Down direction
+SX	0152	Burgess Hill	1 - Up Main	262	Up direction
+SX	0152	Burgess Hill	2 - Down Main	262	Down direction
+SX	0152	Burgess Hill	2 - Down Main	262	Up direction
+SX	0152	Buxted	Uckfield Single	238	Down direction
+SX	0152	Buxted	Uckfield Single	238	Up direction
+SX	0152	Canada Water	3 – Down	79	
+SX	0152	Canada Water	4 – Up	79	
+SX	0152	Canonbury	Eastbound Platform 2 ELL	123	
+SX	0152	Canonbury	Westbound Platform 1 ELL	123	
+SX	0152	Carshalton	1 - Up Portsmouth	201	
+SX	0152	Carshalton	2 - Down Portsmouth	201	
+SX	0153	Carshalton Beeches	1 – Up	167	
+SX	0153	Carshalton Beeches	2 – Down	167	
+SX	0153	Caterham	1 – Up	181	
+SX	0153	Caterham	2 – Down	181	
+SX	0153	Cheam	1 - Up Portsmouth	201	
+SX	0153	Cheam	2 - Down Portsmouth	202	
+SX	0153	Chichester	1 – Up	240	
+SX	0153	Chichester	2 – Down	244	
+SX	0153	Chipstead	1 - Up Tattenham	117	
+SX	0153	Chipstead	2 - Down Tattenham	122	
+SX	0153	Christ’s Hospital	1 – Up	152	
+SX	0153	Christ’s Hospital	2 – Down	152	
+SX	0153	Clapham Junction	12 - Up Fast	245	
+SX	0153	Clapham Junction	13 - Down Fast	253	
+SX	0153	Clapham Junction	14 - Up Slow	215	
+SX	0153	Clapham Junction	15 - Down Slow	174	
+SX	0153	Clapham Junction	16 - Down West London	171	8 cars
+SX	0153	Clapham Junction	17 - Up West London	172	8 cars
+SX	0153	Collington	1 - Up Bexhill	81	
+SX	0153	Collington	2 - Down Bexhill	80	
+SX	0153	Cooden Beach	1 - Up Bexhill	128	
+SX	0153	Cooden Beach	2 - Down Bexhill	128	
+SX	0153	Cooksbridge	1 - Up Lewes	180	
+SX	0153	Cooksbridge	2 - Down Lewes	132	
+SX	0153	Coulsdon South	1 - Up Redhill	246	
+SX	0153	Coulsdon South	2 - Down Redhill	246	
+SX	0153	Coulsdon Town	1 - Up Tattenham	161	
+SX	0153	Coulsdon Town	2 - Down Tattenham	161	
+SX	0153	Cowden	Uckfield Single	238	Down direction
+SX	0153	Cowden	Uckfield Single	238	Up direction
+SX	0153	Crawley	1 - Up Horsham	249	
+SX	0153	Crawley	2 - Down Horsham	249	
+SX	0153	Crowborough	1 – Up	237	
+SX	0153	Crowborough	2 – Down	237	
+SX	0153	Crystal Palace	1 - Up Crystal Palace	202	
+SX	0153	Crystal Palace	2 - Down Crystal Palace	206	
+SX	0153	Crystal Palace	3 – Down Bay	163	
+SX	0153	Crystal Palace	4 – Down Sydenham Spur	219	
+SX	0153	Crystal Palace	5 -  Up Bay	178	
+SX	0153	Crystal Palace	6 – Up  Sydenham Spur	199	
+SX	0153	Dalston Junction	1	132	
+SX	0153	Dalston Junction	2	106	
+SX	0153	Dalston Junction	3	106	
+SX	0153	Dalston Junction	4	111	
+SX	0153	Doleham	- Single	40	Down direction
+SX	0153	Doleham	- Single	40	Up direction
+SX	0153	Dorking	1 - Up Portsmouth	242	
+SX	0153	Dorking	2 - Down Portsmouth	245	Down direction
+SX	0153	Dorking	2 - Down Portsmouth	245	Up direction
+SX	0153	Dorking	3 - Down Passenger Loop	244	Down direction
+SX	0153	Dorking	3 - Down Passenger Loop	244	Up direction
+SX	0154	Dorking Deepdene	1 - Up Reading	94	
+SX	0154	Dorking Deepdene	2 - Down Reading	95	
+SX	0154	Dorking West	1 - Up Reading	111	
+SX	0154	Dorking West	2 - Down Reading	102	
+SX	0154	Dormans	1 - Up East Grinstead	169	
+SX	0154	Dormans	2 - Down East Grinstead	167	
+SX	0154	Durrington-on-Sea	1 - Up Brighton	123	
+SX	0154	Durrington-on-Sea	2 - Down Brighton	123	
+SX	0154	Earlswood	1 - Up Slow	212	
+SX	0154	Earlswood	2 - Down Slow	213	
+SX	0154	East Croydon	1 - Up Fast	244	
+SX	0154	East Croydon	2 - Fast Reversible	244	Down direction
+SX	0154	East Croydon	2 - Fast Reversible	244	Up direction
+SX	0154	East Croydon	3 - Down Fast	244	Down direction
+SX	0154	East Croydon	3 - Down Fast	244	Up direction
+SX	0154	East Croydon	4 - Up Slow	251	Down direction
+SX	0154	East Croydon	4 - Up Slow	251	Up direction
+SX	0154	East Croydon	5 - Slow Reversible	256	Down direction
+SX	0154	East Croydon	5 - Slow Reversible	256	Up direction
+SX	0154	East Croydon	6 - Down Slow	247	
+SX	0154	East Dulwich	2 - Down Portsmouth	165	
+SX	0154	East Grinstead	1 - Up East Grinstead	245	
+SX	0154	East Grinstead	2 - Down East Grinstead	245	
+SX	0154	East Worthing	1 - Up Brighton	85	
+SX	0154	East Worthing	2 - Down Brighton	86	
+SX	0154	Eastbourne	1	243	
+SX	0154	Eastbourne	2	243	
+SX	0154	Eastbourne	3	254	
+SX	0154	Edenbridge	1 - Up Godstone	116	
+SX	0154	Edenbridge	2 - Down Godstone	118	
+SX	0154	Edenbridge Town	1 - Up	237	
+SX	0154	Edenbridge Town	2 - Down	237	
+SX	0154	Emsworth	1 - Up	152	
+SX	0154	Emsworth	2 - Down	152	
+SX	0154	Epsom	1 – Down Portsmouth	208	Down Direction
+SX	0154	Epsom	1 – Down Portsmouth	208	Up Direction
+SX	0154	Epsom	2 – Down Epsom	206	Down Direction
+SX	0154	Epsom	2 – Down Epsom	206	Up Direction
+SX	0154	Epsom	3 Up	206	
+SX	0154	Epsom	4 Up Epsom	208	
+SX	0154	Epsom Downs	Epsom Downs Single	205	Down direction
+SX	0154	Epsom Downs	Epsom Downs Single	205	Up direction
+SX	0154	Eridge	Uckfield Single	235	Down direction
+SX	0154	Eridge	Uckfield Single	235	Up direction
+SX	0154	Ewell East	1 - Up Portsmouth	159	
+SX	0154	Ewell East	2 - Down Portsmouth	160	
+SX	0154	Falmer	1 - Up East Branch	157	
+SX	0154	Falmer	2 - Down East Branch	156	
+SX	0154	Faygate	1 - Up Branch	103	
+SX	0154	Faygate	2 - Down Branch	100	
+SX	0154	Fishbourne	1 - Up	151	
+SX	0154	Fishbourne	2 - Down	123	
+SX	0155	Fishersgate	1 - Up Brighton	84	
+SX	0155	Fishersgate	2 - Down Brighton	84	
+SX	0155	Ford	1 - Up Brighton	162	
+SX	0155	Ford	2 - Down Brighton	162	
+SX	0155	Forest Hill	1 - Up Slow	179	
+SX	0155	Forest Hill	2 - Down Slow	185	
+SX	0155	Gatwick Airport	1 – Up Platform Loop	246	Down direction
+SX	0155	Gatwick Airport	1 - Up Platform Loop	246	Up direction
+SX	0155	Gatwick Airport	2 - Up Slow	246	Down direction
+SX	0155	Gatwick Airport	2 - Up Slow	246	Up direction
+SX	0155	Gatwick Airport	3 - Down Slow	246	Down direction
+SX	0155	Gatwick Airport	3 - Down Slow	246	Up direction
+SX	0155	Gatwick Airport	4 - Up Fast	246	
+SX	0155	Gatwick Airport	5 - Down Fast	246	Down direction
+SX	0155	Gatwick Airport	5 - Down Fast	246	Up direction
+SX	0155	Gatwick Airport	6 – Down Platform Loop 2 Reversible	246	Down direction
+SX	0155	Gatwick Airport	6 – Down Platform Loop 2 Reversible	246	Up direction
+SX	0155	Gatwick Airport	7 - Down Platform Loop 1	247	Down direction
+SX	0155	Gipsy Hill	1 - Up Crystal Palace	201	
+SX	0155	Gipsy Hill	2 - Down Crystal Palace	201	
+SX	0155	Glynde	1 - Up Main	133	
+SX	0155	Glynde	2 - Down Main	138	
+SX	0155	Godstone	1 - Up Tonbridge	89	
+SX	0155	Godstone	2 - Down Tonbridge	118	
+SX	0155	Goring-by-Sea	1 - Up Brighton	122	
+SX	0155	Goring-by-Sea	2 - Down Brighton	144	
+SX	0155	Hackbridge	1 - Up Portsmouth	155	
+SX	0155	Hackbridge	2 - Down Portsmouth	158	
+SX	0155	Haggerston	2 – Down	88	
+SX	0155	Ham Street	1 - Up Hastings	91	
+SX	0155	Ham Street	2 - Down Hastings	85	
+SX	0155	Hampden Park	1 - Up Main	207	
+SX	0155	Hampden Park	2 - Down Main	207	
+SX	0155	Hassocks	1 - Up Main	274	Down direction
+SX	0155	Hassocks	1 - Up Main	274	Up direction
+SX	0155	Hassocks	2 - Down Main	274	Down direction
+SX	0155	Hassocks	2 - Down Main	274	Up direction
+SX	0155	Hastings	1 - Down Ore Bay	167	
+SX	0155	Hastings	2 - Up Hastings	246	Down direction
+SX	0155	Hastings	2 - Up Hastings	246	Up direction
+SX	0155	Hastings	3 - Down Hastings	248	Down direction
+SX	0155	Hastings	3 - Down Hastings	248	Up direction
+SX	0155	Hastings	4 - Down Passenger Loop	247	
+SX	0155	Haydons Road	1 - Up St Helier	164	
+SX	0155	Haydons Road	2 - Down St Helier	159	
+SX	0156	Haywards Heath	1 - Down Passenger Loop	241	Down direction
+SX	0156	Haywards Heath	1 - Down Passenger Loop	241	Up direction
+SX	0156	Haywards Heath	2 - Down Main	241	
+SX	0156	Haywards Heath	3 - Up Main	241	Down direction
+SX	0156	Haywards Heath	3 - Up Main	241	Up direction
+SX	0156	Haywards Heath	4 - Up Passenger Loop	241	Down direction
+SX	0156	Haywards Heath	4 - Up Passenger Loop	241	Up direction
+SX	0156	Hever	1 - Up	237	
+SX	0156	Hever	2 - Down	237	
+SX	0156	Highbury and Islington ELL	2	126	
+SX	0156	Highbury and Islington ELL	1	131	
+SX	0156	Holmwood	1 - Up	123	
+SX	0156	Holmwood	2 - Down	123	
+SX	0156	Honor Oak Park	1 - Up Slow	154	
+SX	0156	Honor Oak Park	2 - Down Slow	158	
+SX	0156	Horley	1 - Up Slow	247	
+SX	0156	Horley	2 - Down Slow	247	
+SX	0156	Horley	3 - Up Fast	247	
+SX	0156	Horley	4 - Down Fast	247	
+SX	0156	Horsham	1 - Up Passenger Loop	245	
+SX	0156	Horsham	2 - Up Main	245	
+SX	0156	Horsham	3 - Down Main	251	
+SX	0156	Horsham	4 - Down Passenger Loop	251	Down direction
+SX	0156	Horsham	4 - Down Passenger Loop	251	Up direction
+SX	0156	Hove	1 - Up Passenger Loop	241	Down direction
+SX	0156	Hove	1 - Up Passenger Loop	241	Up direction
+SX	0156	Hove	2 - Up Brighton	241	Down direction
+SX	0156	Hove	2 - Up Brighton	241	Up direction
+SX	0156	Hove	3 - Down Brighton	241	
+SX	0156	Hoxton	1 – Up	88	
+SX	0156	Hoxton	2 – Down	88	
+SX	0156	Hurst Green	1 - Up East Grinstead	246	
+SX	0156	Hurst Green	2 - Down East Grinstead	246	
+SX	0156	Ifield	1 - Up Horsham	116	
+SX	0156	Ifield	2 - Down Horsham	116	
+SX	0156	Imperial Wharf	2- Down West London	172.4	8 cars
+SX	0156	Imperial Wharf	1 – Up West London	177.2	8 cars
+SX	0156	Kenley	1 - Up	124	
+SX	0156	Kenley	2 - Down	121	
+SX	0156	Kensington (Olympia)	2 - Down West London Loop	323.5	Down direction
+SX	0156	Kensington (Olympia)	2 - Down West London Loop	323.5	Up direction
+SX	0156	Kensington (Olympia)	3 - Up West London	190	Down direction
+SX	0156	Kingswood	1 - Up Tattenham	122	
+SX	0156	Kingswood	2 - Down Tattenham	122	
+SX	0156	Lancing	1 - Up Brighton	112	
+SX	0156	Lancing	2 - Down Brighton	180	
+SX	0156	Leatherhead	1 - Up	206	
+SX	0156	Leatherhead	2  -Down	206	
+SX	0156	Leigh	1 - Up Godstone	122	
+SX	0157	Leigh	2 - Down Godstone	122	
+SX	0157	Lewes	1 - Down Lewes	244	
+SX	0157	Lewes	2 - Up Lewes	252	
+SX	0157	Lewes	3 - Down Branch	128	
+SX	0157	Lewes	4 - Up Branch	141	
+SX	0157	Lewes	5 - Up Passenger Loop	125	Down direction
+SX	0157	Lewes	5 - Up Passenger Loop	140	Up direction
+SX	0157	Lingfield	1 - Up East Grinstead	177	
+SX	0157	Lingfield	2 - Down East Grinstead	169	
+SX	0157	Littlehampton	1 - Up Littlehampton	254	
+SX	0157	Littlehampton	2 - Down Littlehampton	254	
+SX	0157	Littlehampton	3	164	
+SX	0157	Littlehampton	4	164	
+SX	0157	Littlehaven	1 - Up Branch	165	8 cars
+SX	0157	Littlehaven	2 - Down Branch	243	12 cars
+SX	0157	London Bridge	10	252	12 cars
+SX	0157	London Bridge	11	257	12 cars
+SX	0157	London Bridge	12	252	12 cars
+SX	0157	London Bridge	13	252	12 cars
+SX	0157	London Bridge	14	252	12 cars
+SX	0157	London Bridge	15	239	10 cars
+SX	0157	London Road Brighton	1 - Up East Branch	138	
+SX	0157	London Road Brighton	2 - Down East Branch	143	
+SX	0157	London Victoria	9	269	
+SX	0157	London Victoria	10	248	
+SX	0157	London Victoria	11	248	
+SX	0157	London Victoria	12	248	
+SX	0157	London Victoria	13	246	
+SX	0157	London Victoria	14	247	
+SX	0157	London Victoria	15	259	
+SX	0157	London Victoria	16	251	
+SX	0157	London Victoria	17	247	
+SX	0157	London Victoria	18	254	to Signal TVC 497
+SX	0157	London Victoria	18	318	to Signal TVC 499
+SX	0157	London Victoria	19	253	to Signal TVC 495
+SX	0157	London Victoria	19	318	to Signal TVC 493
+SX	0157	Merstham	1 - Up Redhill	246	
+SX	0157	Merstham	2 - Down Redhill	246	
+SX	0157	Mitcham Eastfields	1- Up	200	
+SX	0157	Mitcham Eastfields	2- Down	202	
+SX	0157	Mitcham Junction	1 - Up Portsmouth	164	
+SX	0157	Mitcham Junction	2 - Down Portsmouth	152	
+SX	0157	Morden South	1   Up St Helier	161	
+SX	0157	Morden South	2 - Down St Helier	158	
+SX	0157	Moulsecoomb	1 - Up East Branch	85	
+SX	0157	Moulsecoomb	2 - Down East Branch	86	
+SX	0157	New Cross Gate	1 – Down	142	
+SX	0157	New Cross Gate	2 - Down Slow	167	
+SX	0157	New Cross Gate	3 - Down Fast	161	
+SX	0157	New Cross Gate	4 - Up Fast	187	
+SX	0157	New Cross Gate	5 - Up Slow	167	
+SX	0157	Newhaven Harbour	1 - Down Seaford	126	
+SX	0158	Newhaven Harbour	2 - Up Seaford	172	
+SX	0158	Newhaven Marine	Single	245	
+SX	0158	Newhaven Town	1 - Up Seaford	103	
+SX	0158	Newhaven Town	2 - Down Seaford	103	
+SX	0158	Norbury	1 - Down Slow	201	
+SX	0158	Norbury	2 - Up Slow	201	
+SX	0158	Norbury	3 - Down Fast	201	
+SX	0158	Norbury	4 - Up Fast	183	
+SX	0158	Normans Bay	1 - Up Bexhill	80	
+SX	0158	Normans Bay	2 - Down Bexhill	80	
+SX	0158	North Dulwich	1 - Up Portsmouth	162	
+SX	0158	North Dulwich	2 - Down Portsmouth	168	
+SX	0158	Norwood Junction	1 - Up Slow (Station side)	219	
+SX	0158	Norwood Junction	2 - Up Slow (Island Side)	184	
+SX	0158	Norwood Junction	3 - Up Fast	205	
+SX	0158	Norwood Junction	4 - Down Fast	209	
+SX	0158	Norwood Junction	5 - Down Wallington	209	
+SX	0158	Norwood Junction	6 - Down Passenger Loop	192	
+SX	0158	Nutbourne	1 - Up	123	
+SX	0158	Nutbourne	2 - Down	123	
+SX	0158	Nutfield	1 - Up Tonbridge	122	
+SX	0158	Nutfield	2 - Down Tonbridge	135	
+SX	0158	Ockley	1 - Up	151	
+SX	0158	Ockley	2 - Down	153	
+SX	0158	Ore	1 - Down Ore	107	
+SX	0158	Ore	2 - Up Ore	107	
+SX	0158	Oxted	1 - Up East Grinstead	245	12 Cars
+SX	0158	Oxted	2 - Down East Grinstead	245	12 Cars
+SX	0158	Oxted	3 - Down Bay	80	4 Cars
+SX	0158	Peckham Rye	1 - Down South London	161	
+SX	0158	Peckham Rye	2 - Up South London	161	
+SX	0158	Penge West	1 - Up Slow	163	
+SX	0158	Penge West	2 - Down Slow	165	
+SX	0158	Penshurst	1 - Up Godstone	92	
+SX	0158	Penshurst	2 - Down Godstone	92	
+SX	0158	Pevensey and Westham	1 - Up Bexhill	116	
+SX	0158	Pevensey and Westham	2 - Down Bexhill	128	
+SX	0158	Pevensey Bay	1 - Up Bexhill	78	
+SX	0158	Pevensey Bay	2 - Down Bexhill	78	
+SX	0158	Plumpton	1 - Up Lewes	167	
+SX	0158	Plumpton	2 - Down Lewes	166	
+SX	0158	Polegate	1 - Up Main	276	
+SX	0158	Polegate	2 - Down Main	276	
+SX	0158	Portslade	1 - Up Brighton	249	
+SX	0158	Portslade	2 - Down Brighton	152	
+SX	0158	Preston Park	1 - Up Loop	246	Up direction
+SX	0158	Preston Park	2 - Up Main	246	Down direction
+SX	0158	Preston Park	2 - Up Main	246	Up direction
+SX	0158	Preston Park	3 - Down Main	246	
+SX	0158	Pulborough	1 - Up	205	
+SX	0158	Pulborough	2 - Down	181	
+SX	0158	Purley	1 - Up Fast	248	
+SX	0159	Purley	2 - Down Fast	247	
+SX	0159	Purley	3 - Up Slow	247	
+SX	0159	Purley	4 - Down Slow	246	Down direction
+SX	0159	Purley	4 - Down Slow	246	Up direction
+SX	0159	Purley	5 - Up Caterham	224	Down direction
+SX	0159	Purley	5 - Up Caterham	224	Up direction
+SX	0159	Purley	6 - Down Caterham	208	
+SX	0159	Purley Oaks	1 - Up Fast	168	
+SX	0159	Purley Oaks	2 - Down Fast	168	
+SX	0159	Purley Oaks	3 - Up Slow	168	
+SX	0159	Purley Oaks	4 - Down Slow	168	
+SX	0159	Queens Road Peckham	1 - Up South London	167	
+SX	0159	Queens Road Peckham	2 - Down South London	167	
+SX	0159	Redhill	0 – Up Loop No0	282	Down direction (See Section 5.4.1 for full loop capacity)
+SX	0159	Redhill	0 – Up Loop No0	282	Up direction (See Section 5.4.1 for full loop capacity)
+SX	0159	Redhill	1	174	
+SX	0159	Redhill	2(A&B) - Up Passenger Loop No2	246	Down direction
+SX	0159	Redhill	2(A&B) - Up Passenger Loop No2	246	Up direction
+SX	0159	Redhill	3(A&B) - Down Passenger Loop	246	Trains can reverse in the platform
+SX	0159	Reedham	1 - Up Tattenham	165	
+SX	0159	Reedham	2 - Down Tattenham	165	
+SX	0159	Reigate	1 - Up Reading	171	
+SX	0159	Reigate	2 - Down Reading	85	
+SX	0159	Riddlesdown	1 - Up East Grinstead	182	
+SX	0159	Riddlesdown	2 - Down East Grinstead	182	
+SX	0159	Rotherhithe	1 – Up	73	
+SX	0159	Rotherhithe	1 – Down	73	
+SX	0159	Rye	1 - Up	98	
+SX	0159	Rye	2 - Down	75	
+SX	0159	Salfords	1 - Up Slow	158	
+SX	0159	Salfords	2 - Down Slow	158	
+SX	0159	Sanderstead	1 - Up East Grinstead	245	12 Cars
+SX	0159	Sanderstead	2 - Down East Grinstead	245	12 Cars
+SX	0159	Seaford	Seaford Single	95	
+SX	0159	Selhurst	1 - Down Slow	203	
+SX	0159	Selhurst	2 - Up Slow	203	
+SX	0159	Selhurst	3 - Down Fast	159	
+SX	0159	Selhurst	4 - Up Fast	191	
+SX	0159	Shadwell	1 – Up	80	
+SX	0159	Shadwell	2 – Down	80	
+SX	0159	Shepherds Bush	1 – Up West London	163	
+SX	0159	Shepherds Bush	2 – Down West London	207	
+SX	0159	Shoreditch High Street	1 – Up	91	
+SX	0159	Shoreditch High Street	2 – Down	91	
+SX	0159	Shoreham-by-Sea	1 - Up Brighton	249	
+SX	0160	Shoreham-by-Sea	2 - Down Brighton	249	
+SX	0160	South Bermondsey	1 - Up South London	159	
+SX	0160	South Bermondsey	2 - Down South London	159	
+SX	0160	South Croydon	1 - Up Fast	156	
+SX	0160	South Croydon	2 - Down Fast	170	
+SX	0160	South Croydon	3 - Up Slow	170	
+SX	0160	South Croydon	4 - Slow Reversible	165	Down direction
+SX	0160	South Croydon	4 - Slow Reversible	165	Up direction
+SX	0160	South Croydon	5 - Down Slow	165	
+SX	0160	South Merton	1 - Up St Helier	164	
+SX	0160	South Merton	2 - Down St Helier	162	
+SX	0160	Southbourne	1 - Up	123	
+SX	0160	Southbourne	2 - Down	106	
+SX	0160	Southease	1 - Up Seaford	123	
+SX	0160	Southease	2 - Down Seaford	123	
+SX	0160	Southwick	1 - Up Brighton	167	
+SX	0160	Southwick	2 - Down Brighton	167	
+SX	0160	St Helier	1 - Up St Helier	163	
+SX	0160	St Helier	2 - Down St Helier	162	
+SX	0160	St Leonards Warrior Square	1 - Up Hastings	165	
+SX	0160	St Leonards Warrior Square	2 - Down Hastings	166	
+SX	0160	Streatham	1 - Down Portsmouth	187	
+SX	0160	Streatham	2 - Up Portsmouth	189	
+SX	0160	Streatham Common	1 - Down Slow	213	
+SX	0160	Streatham Common	2 - Up Slow	213	
+SX	0160	Streatham Common	3 - Down Fast	165	
+SX	0160	Streatham Common	4 - Up Fast	163	
+SX	0160	Streatham Hill	1 - Up Crystal Palace	183	
+SX	0160	Streatham Hill	2 - Down Crystal Palace	205	
+SX	0160	Surrey Quays	1 – Up	88	
+SX	0160	Surrey Quays	2 – Down	88	
+SX	0160	Sutton	1 - Up Portsmouth	249	
+SX	0160	Sutton	2 - Down Portsmouth	251	
+SX	0160	Sutton	3 - Up Epsom Downs	203	
+SX	0160	Sutton	4 - Down Epsom Downs	205	
+SX	0160	Sutton Common	1 - Up St Helier	158	
+SX	0160	Sutton Common	2 - Down St Helier	160	
+SX	0160	Sydenham	1 - Up Slow	162	
+SX	0160	Sydenham	2 - Down Slow	162	
+SX	0160	Tadworth	1 - Up Tattenham	137	
+SX	0160	Tadworth	2 - Down Tattenham	137	
+SX	0160	Tattenham Corner	1	206	
+SX	0160	Tattenham Corner	2	206	
+SX	0160	Tattenham Corner	3	206	
+SX	0160	Thornton Heath	1 - Down Slow	202	
+SX	0160	Thornton Heath	2 - Up Slow	201	
+SX	0160	Thornton Heath	3 - Down Fast	202	
+SX	0160	Thornton Heath	4 - Up Fast	184	
+SX	0160	Three Bridges	1 - Up Passenger Loop	246	Down direction
+SX	0160	Three Bridges	1 - Up Passenger Loop	246	Up direction
+SX	0160	Three Bridges	2 - Up Slow	246	Down direction
+SX	0160	Three Bridges	2 - Up Slow	246	Up direction
+SX	0160	Three Bridges	3 - Down Slow	246	Down direction
+SX	0161	Three Bridges	3 - Down Slow	246	Up direction
+SX	0161	Three Bridges	4 - Up Fast	246	
+SX	0161	Three Bridges	5 - Down Fast	246	
+SX	0161	Three Oaks	- Single	31	Down direction
+SX	0161	Three Oaks	- Single	31	Up direction
+SX	0161	Tooting	1 - Up St Helier	164	
+SX	0161	Tooting	2 - Down St Helier	157	
+SX	0161	Tulse Hill	1 - Up Passenger Loop	163	
+SX	0161	Tulse Hill	2 - Down Passenger Loop	164	
+SX	0161	Tulse Hill	3 - Up Portsmouth	164	
+SX	0161	Tulse Hill	4 - Down Portsmouth	161	
+SX	0161	Uckfield	Uckfield Single	251	
+SX	0161	Upper Warlingham	1 - Up East Grinstead	242	12 Cars
+SX	0161	Upper Warlingham	2 - Down East Grinstead	242	12 Cars
+SX	0161	Waddon	1 - Up Wallington	201	
+SX	0161	Waddon	2 - Down Wallington	201	
+SX	0161	Wallington	1 - Up Wallington	202	
+SX	0161	Wallington	2 - Down Wallington	201	
+SX	0161	Wandsworth Common	1 - Down Slow	201	
+SX	0161	Wandsworth Common	2 - Up Slow	201	
+SX	0161	Wandsworth Common	3 - Down Fast	181	
+SX	0161	Wandsworth Common	4 - Up Fast	155	
+SX	0161	Wapping	1 – Up	80	
+SX	0161	Wapping	2 – Down	80	
+SX	0161	Warblington	1 - Up	122	
+SX	0161	Warblington	2 - Down	122	
+SX	0161	Warnham	1 - Up	125	
+SX	0161	Warnham	2 - Down	125	
+SX	0161	West Brompton	3 – Up West London	170.3	Up direction
+SX	0161	West Brompton	3 – Up West London	170.3	Down direction
+SX	0161	West Brompton	4 – Down West London	152.8	Down direction
+SX	0161	West Brompton	4 – Down West London	152.8	Up direction
+SX	0161	West Croydon	1 - Up Bay	194	
+SX	0161	West Croydon	3 - Up Wallington	190	
+SX	0161	West Croydon	4 - Down Wallington	215	
+SX	0161	West Norwood	1 - Up Crystal Palace	145	
+SX	0161	West Norwood	2 - Down Crystal Palace	161	
+SX	0161	West Sutton	1 - Up St Helier	157	
+SX	0161	West Sutton	2 - Down St Helier	156	
+SX	0161	West Worthing	1 - Up Brighton	158	
+SX	0161	West Worthing	2 - Down Brighton	158	
+SX	0161	Whitechapel	5 – Up	81	
+SX	0161	Whitechapel	6 – Down	81	
+SX	0161	Whyteleafe	1 - Up	141	
+SX	0161	Whyteleafe	2 - Down	143	
+SX	0161	Whyteleafe South	1 - Up	120	
+SX	0161	Whyteleafe South	2 - Down	105	
+SX	0161	Wimbledon	9 - Up St Helier	160	Down direction
+SX	0161	Wimbledon	9 - Up St Helier	160	Up direction
+SX	0161	Wimbledon	10 - Up Bay	85	
+SX	0161	Wimbledon Chase	1 - Up St Helier	159	
+SX	0161	Wimbledon Chase	2 - Down St Helier	158	
+SX	0162	Winchelsea	- Single	80	Down direction
+SX	0162	Winchelsea	- Single	80	Up direction
+SX	0162	Wivelsfield	1 - Up Main	246	Down direction
+SX	0162	Wivelsfield	1 - Up Main	246	Up direction
+SX	0162	Wivelsfield	2 - Down Main	246	Down direction
+SX	0162	Wivelsfield	2 - Down Main	246	Up direction
+SX	0162	Woldingham	1 - Up East Grinstead	182	
+SX	0162	Woldingham	2 - Down East Grinstead	182	
+SX	0162	Woodmansterne	1 - Up Tattenham	123	
+SX	0162	Woodmansterne	2 - Down Tattenham	123	
+SX	0162	Worthing	1 - Up Passenger Loop	249	
+SX	0162	Worthing	2 - Up Brighton	249	
+SX	0162	Worthing	3 - Down Brighton	248	
+WW	0254	Aber	Down	124	
+WW	0254	Aber	Up	124	
+WW	0254	Abercynon	Down	84	
+WW	0254	Abercynon	Up	84	
+WW	0254	Aberdare	Single	101	
+WW	0254	Aberdovey	Single	123	
+WW	0254	Abererch	Single	31	
+WW	0254	Abergavenny	1 Up	246	
+WW	0254	Abergavenny	2 Down	106	
+WW	0254	Aberystwyth	3	245	
+WW	0254	Acton Main Line ML	2 Up	153	
+WW	0254	Acton Main Line RL	3 Down	153	
+WW	0254	Acton Main Line RL	3 Down	99	Top of ramp to nearest mirror
+WW	0254	Acton Main Line RL	3 Down	148	Top of ramp to furthest mirror
+WW	0254	Acton Main Line RL	4 Up	148	
+WW	0254	Aldermaston	1 Up	71	Ramp west end to ‘S’ Car Marker
+WW	0254	Aldermaston	1 Up	115	
+WW	0254	Aldermaston	2 Down	80	
+WW	0254	Ammanford	Single	109	
+WW	0254	Appleford	1	76	
+WW	0254	Appleford	2	76	
+WW	0254	Ascott-Under-Wychwood	Down	71	
+WW	0254	Ascott-Under-Wychwood	Up	71	
+WW	0254	Ashchurch for Tewkesbury	1	97	
+WW	0254	Ashchurch for Tewkesbury	2	97	
+WW	0254	Ashley Down	Down Filton Relief	126	
+WW	0254	Ashley Down	Up Filton Relief	126	
+WW	0254	Avoncliff	1	30	
+WW	0254	Avoncliff	2	30	
+WW	0254	Avonmouth	1	83	On the Severn Beach branch several platform lengths have been shortened by barriers. The detail shown here the usable length inside the barrier
+WW	0254	Avonmouth	2	64	On the Severn Beach branch several platform lengths have been shortened by barriers. The detail shown here the usable length inside the barrier
+WW	0254	Baglan	1	97	
+WW	0254	Baglan	2	97	
+WW	0254	Barmouth	2 Down	212	Bi-directional
+WW	0254	Barmouth	1 Up	212	Also for departures in down direction
+WW	0254	Bargoed	1	124	
+WW	0254	Bargoed	2	124	
+WW	0255	Barnstaple	Single	220	Top of Ramp to stop blocks
+WW	0255	Barry	1	222	
+WW	0255	Barry	2	138	
+WW	0255	Barry	3	138	
+WW	0255	Barry Docks	Down	148	
+WW	0255	Barry Docks	Up	148	
+WW	0255	Barry Island	1 Single	102	
+WW	0255	Bath Spa	1	197	
+WW	0255	Bath Spa	2	282	
+WW	0255	Bedminster ML	1	104	
+WW	0255	Bedminster ML	2	93	
+WW	0255	Bedminster RL	Down	71	Not in passenger use
+WW	0255	Bedminster RL	3	93	
+WW	0255	Bedwyn	1	121	
+WW	0255	Bedwyn	2	123	
+WW	0255	Bere Alston	Single	99	
+WW	0255	Bere Ferrers	Single	114	
+WW	0255	Birchgrove	Single	65	
+WW	0255	Bodmin Parkway	1	198	
+WW	0255	Bodmin Parkway	2	180	
+WW	0255	Bodmin Parkway	Bay	87	Operated by the Bodmin & Wenford Steam Railway.
+WW	0255	Borth	Single	122	
+WW	0255	Bourne End	Down	67	Top of ramp to drivers yellow stop line
+WW	0255	Bourne End	Down	67	Points for Marlow Branch to drivers yellow stop line
+WW	0255	Bourne End	Down	47	Mirror to drivers yellow stop line
+WW	0255	Bourne End	Up	125	Top of ramp to drivers yellow stop line
+WW	0255	Bradford-on-Avon	1	120	
+WW	0255	Bradford-on-Avon	2	120	
+WW	0255	Bridgend	1 (Down)	255	
+WW	0255	Bridgend	1A (VoG Bay)	88	
+WW	0255	Bridgend	2 (Up)	255	
+WW	0255	Bridgend	3 (Maesteg Bay)	60	
+WW	0255	Bridgwater	1	198	
+WW	0255	Bridgwater	2	198	
+WW	0255	Bristol Parkway	1 (Down)	280	
+WW	0255	Bristol Parkway	2 (Down)	280	
+WW	0255	Bristol Parkway	3 (Up)	280	
+WW	0255	Bristol Parkway	4 (Up)	280	
+WW	0256	Bristol TM  Platforms 3 to 12 inclusive are islands combining two platforms on each face, with the odd numbers London end and even numbers at the Penzance end Mid Platform Signals indicate the limits of each platform.  Permissive Working Permissive working (PP) is allowed on through platform lines 3/-/12 for the purpose of attaching, detaching and platform sharing.  Classes of train 1, 2, 3 ECS, 5, 9 and 0 are allowed, together with any class of train formed only of MPV vehicles when operating as a railhead treatment or inspection train.  When a train (the second train) arrives which is due to attach to the rear of another train in a far platform, there must be enough room for the whole of the second train in the near platform.   The platform lengths shown below in the third column, are the measured lengths of the platforms, and DO NOT account for the positions of car stop markers, or stand back distances (assume 10m)			
+WW	0256	Bristol TM	1 (Up Bay)	96	Buffer stop to top of ramp
+WW	0256	Bristol TM (non-passenger)	2 (West Bay)	161	Stop to end of platform ramp
+WW	0256	Bristol TM	3 (Single)	299	Signal to mid-platform signal
+WW	0256	Bristol TM	4 (Single)	115	Top of ramp (Penzance end) to mid-platform signal
+WW	0256	Bristol TM	Up Through	362	Between opposing signals 342m or 53 SLU useable length
+WW	0256	Bristol TM	5 (Single)	139	Top of ramp (London end) to mid-platform signal
+WW	0256	Bristol TM	6 (Single)	168	Top of ramp to mid-platform signal
+WW	0256	Bristol TM	7 (Single)	155	Top of ramp (London end) to mid-platform signal
+WW	0256	Bristol TM	8 (Single)	148	Top of ramp (Penzance end) to mid-platform signal
+WW	0256	Bristol TM	9 (Single)	231	Signal to mid-platform signal
+WW	0256	Bristol TM	10 (Single)	164	Top of ramp (Penzance end) to mid-platform signal
+WW	0256	Bristol TM	11 (Single)	212	Top of ramp (London end) to mid-platform signal
+WW	0256	Bristol TM	12 (Single)	162	Top of ramp (Penzance end) to mid-platform signal
+WW	0256	Bristol TM	Down Through	576	Between opposing signals 556m or 86 SLU useable length
+WW	0256	Bristol TM	13 (Single)	281	Signal to top of ramp (London end)
+WW	0256	Bristol TM	15 (Single)	277	
+WW	0256	Brithdir	Single	124	
+WW	0256	Briton Ferry	1	109	
+WW	0256	Briton Ferry	2	109	
+WW	0256	Broome	Single	73	
+WW	0256	Bruton	1	130	
+WW	0256	Bruton	2	144	
+WW	0256	Bucknell	Single	73	
+WW	0256	Bugle	Single	70	
+WW	0256	Builth Road	Single	103	
+WW	0256	Burnham RL only	1 (Down)	184	
+WW	0256	Burnham RL only	2 (Up)	184	
+WW	0256	Burnham RL only	2 (Up)	156	Top of ramp to nearest mirror
+WW	0256	Bynea	1	91	
+WW	0256	Bynea	2	106	
+WW	0256	Cadoxton	Down	125	
+WW	0256	Cadoxton	Up	123	
+WW	0256	Caerphilly	1 (Bay)	150	
+WW	0256	Caerphilly	2 (Down)	230	
+WW	0257	Caerphilly	3 (Up)	230	
+WW	0257	Caersws	Single	109	
+WW	0257	Caldicot	1	84	
+WW	0257	Caldicot	2	106	
+WW	0257	Calstock	Single	49	
+WW	0257	Cam and Dursley	1	104	
+WW	0257	Cam and Dursley	2	104	
+WW	0257	Camborne	1	184	
+WW	0257	Camborne	2	194	190 Metres to signal R14
+WW	0257	Carbis Bay	Single	138	
+WW	0257	Cardiff Bay	Single	87	Usable area to stop block.
+WW	0257	Cardiff Central	0	99	
+WW	0257	Cardiff Central	1	299	Top of ramp to top of ramp
+WW	0257	Cardiff Central	1 Down	286	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	1 Up	277	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	2	298	Top of ramp to top of ramp
+WW	0257	Cardiff Central	2 Down	285	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	2 Up	285	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	3	303	Top of ramp to top of ramp
+WW	0257	Cardiff Central	3 Down	299	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	3 Up	299	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	4	303	Top of ramp to top of ramp
+WW	0257	Cardiff Central	4 Down	297	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	4 Up	297	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	6	225	Top of ramp to top of ramp
+WW	0257	Cardiff Central	6 Down	221	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	6 Up	221	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	7	226	To top of ramp (Cardiff West Jn end).
+WW	0257	Cardiff Central	7 Down	223	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	7 Up	223	
+WW	0257	Cardiff Central	8	156	Top of ramp to top of ramp
+WW	0257	Cardiff Central	8 Down	155	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Central	8 Up	155	Usable platform length accessible to train crew and passengers
+WW	0257	Cardiff Queen St	1 (Bay)	55	
+WW	0257	Cardiff Queen St	2 (Down)	124	Signal at Queen Street North Jn end fixed at RED.
+WW	0257	Cardiff Queen St	3 (Down)	184	
+WW	0257	Cardiff Queen St	4 (Up)	160	
+WW	0257	Cardiff Queen St	5 (Up)	166	
+WW	0257	Carmarthen	1	210	
+WW	0257	Carmarthen	2	213	
+WW	0257	Castle Bar Park	1	50	
+WW	0258	Castle Bar Park	2	50	
+WW	0258	Castle Cary	1 (Up)	198	
+WW	0258	Castle Cary	2 (Down)	197	
+WW	0258	Castle Cary	3 Bay	70	
+WW	0258	Cathays	Down	124	
+WW	0258	Cathays	Up	124	
+WW	0258	Causeland	Single	30	
+WW	0258	Chapleton	Single	100	In use with 140m top of ramp to top of ramp
+WW	0258	Charlbury	Down	186	
+WW	0258	Charlbury	Up	186	
+WW	0258	Cheltenham Spa	1	250	
+WW	0258	Cheltenham Spa	2	242	
+WW	0258	Chepstow	1	102	
+WW	0258	Chepstow	2	102	
+WW	0258	Chippenham	1	239	
+WW	0258	Chippenham	2	239	
+WW	0258	Chirk	Down	157	
+WW	0258	Chirk	Up	157	
+WW	0258	Cholsey ML	1 (Down)	142	
+WW	0258	Cholsey ML	2 (Up)	154	
+WW	0258	Cholsey RL	3 (Down)	141	
+WW	0258	Cholsey RL	4 (Up)	153	
+WW	0258	Church Stretton	1	168	
+WW	0258	Church Stretton	2	168	
+WW	0258	Cilmeri	Single	79	
+WW	0258	Clarbeston Road	1	122	
+WW	0258	Clarbeston Road	2	80	
+WW	0258	Clifton Down	1	106	Usable length inside the barrier
+WW	0258	Clifton Down	2	108	Usable length inside the barrier
+WW	0258	Clunderwen	1	95	
+WW	0258	Clunderwen	2	134	
+WW	0258	Cogan	Down	125	
+WW	0258	Cogan	Up	109	
+WW	0258	Combe	Single	46	
+WW	0258	Cookham	Single	108	Platform end to STOP board 126m top of ramp to top of ramp
+WW	0258	Coombe	Single	30	
+WW	0258	Copplestone	Single	87	
+WW	0258	Coryton	Single	65	
+WW	0258	Craven Arms	1	198	
+WW	0258	Craven Arms	2	134	
+WW	0258	Crediton	1	155	
+WW	0258	Crediton	2	135	
+WW	0258	Criccieth	Single	128	
+WW	0258	Crosskeys	1	97	
+WW	0258	Crosskeys	2	97	
+WW	0258	Culham	Down	107	
+WW	0258	Culham	Up	77	
+WW	0258	Cwmbach	Single	94	
+WW	0258	Cwmbran	1	129	
+WW	0258	Cwmbran	2	129	
+WW	0258	Cynghordy	Single	97	
+WW	0258	Danescourt	Down	38	
+WW	0259	Danescourt	Up	38	
+WW	0259	Dawlish	1	286	
+WW	0259	Dawlish	2	182	
+WW	0259	Dawlish Warren	1	129	
+WW	0259	Dawlish Warren	2	129	
+WW	0259	Devonport	1	100	
+WW	0259	Devonport	2	180	
+WW	0259	Didcot Parkway	1 (Down Main)	319	
+WW	0259	Didcot Parkway	2 (Up Main)	326	
+WW	0259	Didcot Parkway	3 (Down Relief)	221	Inside Signal SB921
+WW	0259	Didcot Parkway	4 (Up Relief Bi - Di)	220	Inside Signal SB923 at rear
+WW	0259	Didcot Parkway	5 (Up Loop Bi - Di)	240	Inside Signal SB925 at rear
+WW	0259	Digby & Sowton	(Single)	109	
+WW	0259	Dilton Marsh	1	27	
+WW	0259	Dilton Marsh	2	27	
+WW	0259	Dinas Powys	Down	120	
+WW	0259	Dinas Powys	Up	120	
+WW	0259	Dinas Rhondda	Single	137	
+WW	0259	Dingle Road	Single	124	
+WW	0259	Dockyard	1	96	
+WW	0259	Dockyard	2	79	
+WW	0259	Dolau	Single	77	
+WW	0259	Dovey Junction	1 Barmouth Single	99	
+WW	0259	Dovey Junction	2 Aberystwyth line	321	Overall length of platform face on Up Dovey Loop - connection from Down Dovey Loop - Aberystwyth U&D line; usable by an Aberystwyth train in either direction
+WW	0259	Dovey Junction	2 (Machynlleth end), Up Dovey Loop	91	Bi-directional, planned use for up trains
+WW	0259	Dovey Junction	2 (Aberystwyth end), Aberystwyth single line	112	Bi-directional, planned use for down trains
+WW	0259	Drayton Green	1	53	
+WW	0259	Drayton Green	2	50	
+WW	0259	Dyffryn Ardudwy	Single	113	
+WW	0259	Ealing Broadway	1 (Down Main)	168	
+WW	0259	Ealing Broadway	2 (Up Main)	184	
+WW	0259	Ealing Broadway	2 (Up Main)	114	Top of ramp to mirror
+WW	0259	Ealing Broadway	3 (Down Relief)	182	
+WW	0259	Ealing Broadway RL	4 (Up Relief)	200	
+WW	0259	Eastbrook	Down	90	
+WW	0259	Eastbrook	Up	90	
+WW	0259	Ebbw Vale Town	Single	150	
+WW	0260	Ebbw Vale Parkway	Single	100	
+WW	0260	Eggesford	1	63	
+WW	0260	Eggesford	2	56	
+WW	0260	Energlyn and Churchill Park	1	126	
+WW	0260	Energlyn and Churchill Park	2	126	
+WW	0260	Evesham	Down	186	
+WW	0260	Evesham	Up	186	
+WW	0260	Exeter Central	1 (Bay)	184	
+WW	0260	Exeter Central	2 (Down)	287	
+WW	0260	Exeter Central	3 (Up)	276	
+WW	0260	Exeter St. Davids	1 (Down Relief Bi-Di)	283	
+WW	0260	Exeter St. Davids	2 North Bay (Single)	143	
+WW	0260	Exeter St. Davids	3 (Up Relief Bi-Di)	276	
+WW	0260	Exeter St. Davids	4 (Down Main Bi-Di)	277	
+WW	0260	Exeter St. Davids	5 (Up Main Bi-Di)	322	
+WW	0260	Exeter St. Davids	6 (Up Loop)	323	
+WW	0260	Exeter St. Thomas	1 (Down)	107	
+WW	0260	Exeter St. Thomas	2 (Up)	115	
+WW	0260	Exmouth	Single	119	Top of Ramp to stop blocks
+WW	0260	Exton	Single	128	
+WW	0260	Fairbourne	Single	92	
+WW	0260	Fairwater	Down	48	
+WW	0260	Fairwater	Up	46	
+WW	0260	Falmouth Docks	Single	65	
+WW	0260	Falmouth Town	Single	57	
+WW	0260	Fernhill	Single	94	
+WW	0260	Ferryside	1	93	
+WW	0260	Ferryside	2	134	
+WW	0260	Ffairfach	Single	34	
+WW	0260	Filton Abbey Wood	1	117	
+WW	0260	Filton Abbey Wood	2	126	
+WW	0260	Filton Abbey Wood	3	117	
+WW	0260	Filton Abbey Wood	4	117	
+WW	0260	Finstock	Single	40	
+WW	0260	Fishguard & Goodwick	Single	80	
+WW	0260	Fishguard Harbour	(Single)	299	Top of Ramp to Buffer stops
+WW	0260	Freshford	1	121	
+WW	0260	Freshford	2	121	
+WW	0260	Frome	Single	109	
+WW	0260	Furze Platt	Single	138	Platform end to stop board
+WW	0260	Garth	Single	80	
+WW	0260	Garth (Mid-Glamorgan)	Single	84	
+WW	0260	Gilfach Fargoed	Down	16	
+WW	0260	Gilfach Fargoed	Up	16	
+WW	0260	Gloucester	1 & 2 (Combined Down)	494	Between Signals G135/58
+WW	0260	Gloucester	1 (North End)	246	Between Signals G54/135
+WW	0261	Gloucester	2 (South End)	248	Between Signals G58/133
+WW	0261	Gloucester	3 (South Bay)	105	Inside Signal G354
+WW	0261	Gloucester	4 (Up)	324	Inside Signal G358 (South end)
+WW	0261	Gloucester Horse box stop block to Signal G458	(Down)	72	
+WW	0261	Gobowen	Down	126	
+WW	0261	Gobowen	Up	166	
+WW	0261	Goring and Streatley	1 (Down Main Line)	69	Useable length
+WW	0261	Goring and Streatley	2 (Up Main Line)	140	Useable length
+WW	0261	Goring and Streatley	3 (Down Relief Line)	150	
+WW	0261	Goring and Streatley	4 (Up Relief Line)	150	
+WW	0261	Gowerton	Down	175	
+WW	0261	Gowerton	Up	143	
+WW	0261	Grangetown	Down	124	
+WW	0261	Grangetown	Up	124	
+WW	0261	Greenford (LUL)	Single	83	Bay platform : from stop board
+WW	0261	Gunnislake	Single	103	Top of ramp to stop Block Mk3/HSTs PROHIBITED
+WW	0261	Hanborough	Single	185	
+WW	0261	Hanwell	1 (Up Relief Line)	143	
+WW	0261	Hanwell	2 (Down Relief Line)	143	
+WW	0261	Harlech	2 Down (Down direction)	142*	Clear of points (Tywyn end) to Block Marker 1216. (*208m to top of ramp (Porthmadog end)). Length includes fenced-off section at Porthmadog end
+WW	0261	Harlech	2 Down (Up direction)	193	Length includes fenced-off section at Porthmadog end
+WW	0261	Harlech	1 Up (Up direction)	188	Length includes fenced-off section at Porthmadog end
+WW	0261	Harlech	1 Up (Down direction)	142*	Clear of points (Tywyn end) to Block Marker 1218. (*188m to top of ramp (Porthmadog end)) Length includes fenced-off section at Porthmadog end
+WW	0261	Haverfordwest	1	266	
+WW	0261	Haverfordwest	2	266	
+WW	0261	Hayes & Harlington	1 (Down Main Line)	230	
+WW	0261	Hayes & Harlington	2 (Up Main Line)	153	
+WW	0261	Hayes & Harlington	3 (Down Relief Line)	146	
+WW	0261	Hayes & Harlington	4 (Up Relief Line)	150	
+WW	0261	Hayes & Harlington	4 (Up Relief Line)	139	Top of ramp to mirror
+WW	0261	Hayes & Harlington	5 (Bay)	171	
+WW	0261	Hayle	1	132	
+WW	0261	Hayle	2	135	
+WW	0262	Heath High Level	Down	124	
+WW	0262	Heath High Level	Up	124	
+WW	0262	Heath Low Level	Single	106	
+WW	0262	Heathrow Terminal 2,3	1 (Down)	195	Not Network Rail property, but controlled by Thames Valley Signalling Centre
+WW	0262	Heathrow Terminal 2,3	2 (Up)	195	Not Network Rail property, but controlled by Thames Valley Signalling Centre
+WW	0262	Heathrow Terminal 4	1 & 2	195	Not Network Rail property, but controlled by Thames Valley Signalling Centre
+WW	0262	Heathrow Terminal 5	3 & 4	217	Not Network Rail property, but controlled by Thames Valley Signalling Centre
+WW	0262	Hengoed	Down	124	
+WW	0262	Hengoed	Up	124	
+WW	0262	Henley-on-Thames	Single	177	Long vehicles (except Turbos) PROHIBITED on the Henley Branch
+WW	0262	Hereford	1 (Down Loop)	205	
+WW	0262	Hereford	2 (Down Main)	204	
+WW	0262	Hereford	3 (Up Main)	221	
+WW	0262	Hereford	4 (Up Bay)	70	
+WW	0262	Heyford	1	70	
+WW	0262	Heyford	2	70	
+WW	0262	Highbridge & Burnham	1	198	
+WW	0262	Highbridge & Burnham	2	153	
+WW	0262	Honeybourne	Down	186	
+WW	0262	Honeybourne	Up	186	
+WW	0262	Hopton Heath	Single	83	Of which only 42 metres have been white lined for passenger use. Overlength trains not permitted
+WW	0262	Hungerford	1	153	
+WW	0262	Hungerford	2	150	
+WW	0262	Iver	1 (Down Main Line)	180	
+WW	0262	Iver	2 (Up Main Line)	180	
+WW	0262	Iver	3 (Down Relief Line)	180	
+WW	0262	Iver	4 (Up Relief Line)	180	
+WW	0262	Iver	4 (Up Relief Line)	156	Top of ramp to mirror
+WW	0262	Ivybridge	1	104	
+WW	0262	Ivybridge	2	104	
+WW	0262	Johnston (Dyfed)	Single	110	
+WW	0262	Kemble	1	135	
+WW	0262	Kemble	2	180	Top of ramp to top of ramp
+WW	0262	Keyham	1	129	
+WW	0262	Keyham	2	123	
+WW	0262	Keynsham	1	209	
+WW	0262	Keynsham	2	209	
+WW	0262	Kidwelly	1	122	
+WW	0262	Kidwelly	2	125	
+WW	0262	Kilgetty	Single	128	
+WW	0262	Kingham	Down	154	
+WW	0263	Kingham	Up	161	
+WW	0263	Kings Nympton	Single	90	
+WW	0263	Kintbury	1	105	
+WW	0263	Kintbury	2	106	
+WW	0263	Knighton	1	63	
+WW	0263	Knighton	2	87	
+WW	0263	Knucklas	Single	80	
+WW	0263	Lamphey	Single	106	
+WW	0263	Langley	1 (Down Main Line)	168	
+WW	0263	Langley	2 (Up Main Line)	168	
+WW	0263	Langley	3 (Down Relief Line)	168	
+WW	0263	Langley	4 (Up Relief Line)	169	
+WW	0263	Lapford	Single	81	
+WW	0263	Lawrence Hill	1	116	
+WW	0263	Lawrence Hill	2	114	
+WW	0263	Lelant	Single	92	
+WW	0263	Lelant Saltings	Single	140	
+WW	0263	Leominster	1	99	
+WW	0263	Leominster	2	101	
+WW	0263	Leominster	2	97	Top of Ramp to Sprinter Stop marker
+WW	0263	Liskeard	1	208	
+WW	0263	Liskeard	1	150	Top of ramp to Signal LD33
+WW	0263	Liskeard	2	177	
+WW	0263	Liskeard	2	161	Top of ramp to Signal LD3
+WW	0263	Liskeard	3 (Bay)	120	Top of ramp to stop blocks.  Stop blocks to section board.
+WW	0263	Lisvane & Thornhill	Down	124	
+WW	0263	Lisvane & Thornhill	Up	124	
+WW	0263	Llanaber	Single	32	
+WW	0263	Llanbister Road	Single	80	
+WW	0263	Llanbradach	Down	124	
+WW	0263	Llanbradach	Up	124	
+WW	0263	Llandaf	Down	143	
+WW	0263	Llandaf	Up	131	
+WW	0263	Llandanwg	Single	23	
+WW	0263	Llandecwyn	Single	22	
+WW	0263	Llandeilo	1	118	
+WW	0263	Llandeilo	2	72	Usable length
+WW	0263	Llandovery	1	67	
+WW	0263	Llandovery	2	53	
+WW	0263	Llandrindod	1	98	
+WW	0263	Llandrindod	2	95	
+WW	0263	Llandybie	Single	39	
+WW	0263	Llanelli	1	170	
+WW	0263	Llanelli	2	184	
+WW	0263	Llangadog	Single	85	
+WW	0263	Llangammarch	Single	108	
+WW	0263	Llangennech	1	53	
+WW	0263	Llangennech	2	53	
+WW	0263	Llangynllo	Single	63	
+WW	0264	Llanharan	1	98	
+WW	0264	Llanharan	2	98	
+WW	0264	Llanhilleth	1	150	
+WW	0264	Llanhilleth	2	150	
+WW	0264	Llanishen	Down	124	
+WW	0264	Llanishen	Up	122	
+WW	0264	Llansamlet	1	108	
+WW	0264	Llansamlet	2	108	
+WW	0264	Llantwit Major	1	100	
+WW	0264	Llantwit Major	1	100	
+WW	0264	Llanwrda	Single	91	
+WW	0264	Llanwrtyd	1	98	
+WW	0264	Llanwrtyd	2	166	
+WW	0264	Llwyngwril	Single	53	
+WW	0264	Llwynypia	Single	124	
+WW	0264	London Paddington	1 (Single)	316	Length from the buffer stop to top of ramp
+WW	0264	London Paddington	1 (Single)	307.6.	Length from the stop line to top of ramp
+WW	0264	London Paddington	10 (Single)	266	Length from the buffer stop to sign
+WW	0264	London Paddington	10 (Single)	255.5	Length from the stop line to sign
+WW	0264	London Paddington	11 (Single)	302	Length from the buffer stop to signal
+WW	0264	London Paddington	11 (Single)	291.5	Length from the stop line to signal
+WW	0264	London Paddington	12 (Single)	294	Length from the buffer stop to signal
+WW	0264	London Paddington	12 (Single)	171.8	Length from the stop line to signal
+WW	0264	London Paddington	14 (Single)	147	Length from the buffer stop to signal
+WW	0264	London Paddington	14 (Single)	144.2	Length from the stop line to signal
+WW	0264	London Paddington	2 (Single)	278	Length from the buffer stop to top of ramp
+WW	0264	London Paddington	2 (Single)	277.6	Length from the stop line to top of ramp
+WW	0264	London Paddington	3 (Single)	278	Length from the buffer stop to top of ramp
+WW	0264	London Paddington	3 (Single)	280.6	Length from the yellow stop line to top of ramp
+WW	0264	London Paddington	3 (Single)	273.4	Length from the red stop line to top of ramp
+WW	0264	London Paddington	4 (Single)	272	Length from the buffer stop to signal
+WW	0264	London Paddington	4 (Single)	249.6.	Length from the stop line to signal
+WW	0264	London Paddington	5 (Single)	272	Length from the buffer stop to signal
+WW	0264	London Paddington	5 (Single)	252.6	Length from the stop line to signal
+WW	0264	London Paddington	6 (Single)	262	Length from the buffer stop to top of ramp
+WW	0264	London Paddington	6 (Single)	253	Length from the yellow stop line to top of ramp
+WW	0264	London Paddington	6 (Single)	256	Length from the white stop line to top of ramp
+WW	0264	London Paddington	7 (Single)	264	Length from the buffer stop to top of ramp
+WW	0264	London Paddington	7 (Single)	251.3	Length from the yellow stop line to top of ramp
+WW	0264	London Paddington	7 (Single)	256.1	Length from the white stop line to top of ramp
+WW	0264	London Paddington	8 (Single)	275	Length from the buffer stop to top of ramp
+WW	0264	London Paddington	8 (Single)	261.1	Length from the yellow stop line to top of ramp
+WW	0264	London Paddington	8 (Single)	237.5	Length from the red stop line to top of ramp
+WW	0264	London Paddington	8 (Single)	263.5	Length from the white stop line to top of ramp
+WW	0264	London Paddington	9 (Single)	256	Length from the buffer stop to sign
+WW	0264	London Paddington	9 (Single)	245.6	Length from the stop line to sign
+WW	0264	Looe	Single	42	Top of ramp to stop blocks
+WW	0264	Lostwithiel	1	103	
+WW	0264	Lostwithiel	2	130	
+WW	0264	Lostwithiel	2	124	Top of ramp to 9 car stop
+WW	0264	Ludlow	1	132	
+WW	0264	Ludlow	2	104	
+WW	0265	Luxulyan	Single	120	72 metres of platform (Newquay end) uneven surface but platform edges intact
+WW	0265	Lydney	1	97	
+WW	0265	Lydney	1	85	Top of ramp to signal NI84
+WW	0265	Lydney	2	97	
+WW	0265	Lympstone Commando	Single	64	
+WW	0265	Lympstone Village	Single	90	
+WW	0265	Machynlleth	2 Down (Down direction)	142	Top of ramp to top of ramp
+WW	0265	Machynlleth	2 Down (Up direction)	133*	Top of ramp to Block Marker 1099. (*142m to top of ramp (Newtown end))
+WW	0265	Machynlleth	1 Up	179	Bi-directional
+WW	0265	Maesteg	Single	87	
+WW	0265	Maesteg (Ewenny Road)	Single	84	
+WW	0265	Maidenhead	1 (Down Main Line)	177	
+WW	0265	Maidenhead	2 (Up Main Line)	199	
+WW	0265	Maidenhead	2 (Up Main Line)	112	Top of ramp to nearest mirror
+WW	0265	Maidenhead	2 (Up Main Line)	149	Top of ramp to furthest mirror
+WW	0265	Maidenhead	3 (Down Relief Line)	198	
+WW	0265	Maidenhead	3 (Down Relief Line)	149	Top of ramp to mirror
+WW	0265	Maidenhead	4 (Up Relief Line)	205	
+WW	0265	Maidenhead	4 (Up Relief Line)	67	Top of ramp (Reading end) to nearest camera
+WW	0265	Maidenhead	4 (Up Relief Line)	114	Top of ramp (Reading end) to furthest camera
+WW	0265	Maidenhead	4 (Up Relief Line)	197	Top of ramp (London end) to signal (for bi- directional working).
+WW	0265	Maidenhead	5 (Bay)	205	Bi-directional
+WW	0265	Manorbier	Single	107	
+WW	0265	Marlow	Single	54	Top of ramp to drivers yellow stop line
+WW	0265	Marsh Barton	Down	124	
+WW	0265	Marsh Barton	Up	124	
+WW	0265	Melksham	Single	74	
+WW	0265	Menheniot	1	124	
+WW	0265	Menheniot	2	151	Of which 53.6 metres have no flag stones. Platform edges intact
+WW	0265	Merthyr Tydfil	Single	111	
+WW	0265	Merthyr Vale	1	94	
+WW	0265	Merthyr Vale	2	94	
+WW	0265	Midgham	1 (down)	87	Ramp (Reading end) to ‘S’ Car Marker
+WW	0265	Midgham	1 (down)	117	
+WW	0265	Midgham	2 (up)	85	Top of ramp (Westbury end) to mirror
+WW	0265	Midgham	2 (up)	96	Top of ramp (Westbury end) to Signal TRC105
+WW	0265	Milford Haven	Single	94	Top of ramp to buffer stops
+WW	0265	Minffordd	Single	118	
+WW	0266	Montpelier	Single	132	Usable length inside the barrier
+WW	0266	Morchard Road	Single	90	
+WW	0266	Moreton-In-Marsh	Down	198	
+WW	0266	Moreton-in-Marsh	Up	183	
+WW	0266	Morfa Mawddach	Single	91	
+WW	0266	Mountain Ash	Down	97	
+WW	0266	Mountain Ash	Up	97	
+WW	0266	Nailsea & Backwell	1	122	
+WW	0266	Nailsea & Backwell	2	121	
+WW	0266	Nantwich	Down	118	
+WW	0266	Nantwich	Up	105	
+WW	0266	Narberth	Single	90	
+WW	0266	Neath	1	232	
+WW	0266	Neath	2	182	
+WW	0266	Newbridge	1	150	
+WW	0266	Newbridge	2	150	
+WW	0266	Newbury	1 (Down)	291	
+WW	0266	Newbury	2 (Up)	327	
+WW	0266	Newbury	3 (Up) Bay	131	Top of ramp to stop blocks
+WW	0266	Newbury	3 (Up) Bay	129	Top of ramp to yellow painted Stop marker
+WW	0266	Newbury Racecourse	1 (Down)	180	Top of ramp to top of ramp
+WW	0266	Newbury Racecourse	1 (Down)	89	Resurfaced and lit area only
+WW	0266	Newbury Racecourse	2 (Up)	183	Top of ramp to top of ramp
+WW	0266	Newbury Racecourse	2 (Up)	74	Resurfaced and lit area only
+WW	0266	Newbury Racecourse	3 (Down Loop)	206	Unlit platform
+WW	0266	Newcourt	Single	124	
+WW	0266	Newport	1 (Down)	278	Usable length
+WW	0266	Newport	1 (Down)	360	Top of ramp to signal NT1369
+WW	0266	Newport	2 (Bi Di)	287	
+WW	0266	Newport	3 (Bi Di)	311	Top of ramp to top of ramp. Additional 31 metres available for Power Car/Loco ONLY for DOWN direction trains
+WW	0266	Newport	4	250	
+WW	0266	Newquay	1	242	
+WW	0266	Newton Abbot	1 (Bi Di)	327	
+WW	0266	Newton Abbot	2 (Down)	326	
+WW	0266	Newton Abbot	3 (Up)	327	
+WW	0266	Newton St Cyres	Single	120	
+WW	0266	Newtown	Down	138	Bi-directional
+WW	0266	Newtown	Up	140	Bi-directional
+WW	0266	Ninian Park	Down	150	
+WW	0266	Ninian Park	Up	150	
+WW	0266	Oldfield Park	1	129	
+WW	0266	Oldfield Park	2	129	
+WW	0266	Oxford	1 (Bay)	157	
+WW	0266	Oxford	2 (Bay)	161	
+WW	0266	Oxford	3 (Up)	274	
+WW	0266	Oxford	4 (Down)	275	
+WW	0266	Paignton	1	251	
+WW	0266	Paignton	2	209	
+WW	0266	Pangbourne	1 (Down Relief Line)	149	
+WW	0267	Pangbourne (RL only)	2 (Up Relief Line)	149	
+WW	0267	Pantyffynnon	Single	76	
+WW	0267	Par	1 (Down)	190	
+WW	0267	Par	2(Up)	190	
+WW	0267	Par	3 (Branch)	164	
+WW	0267	Par	3 (Branch)	138	Top of ramp to signal
+WW	0267	Parson Street	1	94	
+WW	0267	Parson Street	2	92	Top of ramp to signal
+WW	0267	Patchway	1	121	
+WW	0267	Patchway	2	121	
+WW	0267	Pembrey & Burry Port	1	145	
+WW	0267	Pembrey & Burry Port	2	127	
+WW	0267	Pembroke	Single	128	
+WW	0267	Pembroke Dock	Single	131	
+WW	0267	Penally	Single	151	
+WW	0267	Penarth	Single	117	
+WW	0267	Pencoed	1	102	
+WW	0267	Pencoed	2	112	
+WW	0267	Pengam	Down	124	
+WW	0267	Pengam	Up	124	
+WW	0267	Penhelig	Single	62	
+WW	0267	Penmere	Single	92	
+WW	0267	Penrhiwceiber	Single	94	
+WW	0267	Penrhyndeudraeth	Single	66	
+WW	0267	Penryn	Down	71	
+WW	0267	Penryn	Up	71	
+WW	0267	Pensarn	Single	148	
+WW	0267	Pentre-Bach	Single	142	
+WW	0267	Penychain	Single	108	
+WW	0267	Pen-y-Bont	Single	81	
+WW	0267	Penzance	1	265	Top of ramp to buffer stops
+WW	0267	Penzance	2	265	Top of ramp to buffer stops
+WW	0267	Penzance	3	238	Top of ramp to buffer stops
+WW	0267	Penzance	4	225	Buffer stops to signal
+WW	0267	Perranwell	Single	191	
+WW	0267	Pewsey	1	177	
+WW	0267	Pewsey	2	170	
+WW	0267	Pilning	1	120	
+WW	0267	Pilning	2	121	OOU – not passenger accessible
+WW	0267	Pinhoe	1	150	
+WW	0267	Pinhoe	2	150	
+WW	0267	Plymouth	3 (Down Bay)	78	
+WW	0267	Plymouth	4 (Down side)	298	
+WW	0267	Plymouth	5 (Single)	300	
+WW	0267	Plymouth	6 (Single)	260	
+WW	0267	Plymouth	7 (Single)	298	
+WW	0267	Plymouth	8 (Single)	300	
+WW	0267	Plymouth	Dock Line 2 (East End)	171	Top of ramp to buffer stops. ECS only
+WW	0267	Plymouth	Dock Line 3 (East End)	171	Top of ramp to buffer stops. ECS only
+WW	0268	Polsloe Bridge	Single	184	
+WW	0268	Pontarddulais	Single	138	
+WW	0268	Pontlottyn	Single	127	
+WW	0268	Pontyclun	1	102	
+WW	0268	Pontyclun	2	102	
+WW	0268	Pontypool & New Inn	1	163	
+WW	0268	Pontypool & New Inn	2	163	
+WW	0268	Pontypridd	1	138	Bay platform
+WW	0268	Pontypridd	2	124	Bi-directional
+WW	0268	Pontypridd	3	124	
+WW	0268	Port Talbot Parkway	1	277	
+WW	0268	Port Talbot Parkway	2	280	
+WW	0268	Porth	(Down)	124	
+WW	0268	Porth	(Up)	132	Top of ramp (Pontypridd end) to signal. The platform is unusable beyond signal VR304
+WW	0268	Porthmadog	2 Down	142	Bi-directional. Pwllheli end of platform fenced off
+WW	0268	Porthmadog	1 Up	143	Also for departures in down direction
+WW	0268	Portsmouth Arms	Single	74	
+WW	0268	Portway Park and Ride	Single	126	
+WW	0268	Prees	Down	83	
+WW	0268	Prees	Up	66	
+WW	0268	Pwllheli	Single	131*	Car Stop board (buffer stops end) to departure Block Marker 1257. (*162m to top of ramp; departure requires use of  Written Order)
+WW	0268	Pye Corner	Single	145	
+WW	0268	Pyle	1	108	
+WW	0268	Pyle	2	108	
+WW	0268	Quaker’s Yard	Single	126	
+WW	0268	Quintrel Downs	Single	90	Down Direction Only
+WW	0268	Quintrel Downs	Single	74	Up direction only.  Top of ramp to stop board
+WW	0268	Radley	Down	158	
+WW	0268	Radley	Up	158	
+WW	0268	Radyr	1 (Down)	124	
+WW	0268	Radyr	2 (Up)	108	Bi directional
+WW	0268	Radyr	3 (Up)	124	
+WW	0268	Reading	1	124	Top of ramp to stop blocks Maximum 5 vehicles
+WW	0268	Reading	2	120	Top of ramp to stop blocks Maximum 5 vehicles
+WW	0268	Reading	3	120	Top of ramp to stop blocks. 6 Turbo vehicles can be accommodated within signal, providing the west end set is not in use.
+WW	0268	Reading	7	280	Between car stops
+WW	0268	Reading	7a (east)	127	Between car stop and rear clear
+WW	0268	Reading	7b (west)	143	Between car stop and rear clear
+WW	0268	Reading	8	277	Between car stops
+WW	0268	Reading	8a (east)	148	Between car stop and rear clear
+WW	0268	Reading	8b (west)	119	Between car stop and rear clear
+WW	0268	Reading	9	255	Between car stops
+WW	0268	Reading	9a (east)	120	Between car stop and rear clear
+WW	0268	Reading	9b (west)	125	Between car stop and rear clear
+WW	0268	Reading	10	240	Between car stops
+WW	0268	Reading	10a (east)	73	Between car stop and rear clear
+WW	0268	Reading	10b (west)	157	Between car stop and rear clear
+WW	0269	Reading	11	272	Between car stops
+WW	0269	Reading	11a (east)	127	Between car stop and rear clear
+WW	0269	Reading	11b (west)	135	Between car stop and rear clear
+WW	0269	Reading	12	272	Between car stops
+WW	0269	Reading	12a (east)	132	Between car stop and rear clear
+WW	0269	Reading	12b (west)	130	Between car stop and rear clear
+WW	0269	Reading	13	272	Between car stops
+WW	0269	Reading	13a (east)	132	Between car stop and rear clear
+WW	0269	Reading	13b (west)	130	Between car stop and rear clear
+WW	0269	Reading	14	272	Between car stops
+WW	0269	Reading	14a (east)	132	Between car stop and rear clear
+WW	0269	Reading	14b (west)	130	Between car stop and rear clear
+WW	0269	Reading	15	272	Between car stops
+WW	0269	Reading	15a (east)	132	Between car stop and rear clear
+WW	0269	Reading	15b (west)	130	Between car stop and rear clear
+WW	0269	Reading West	1 (Down)	276	
+WW	0269	Reading West	2 (Up)	157	
+WW	0269	Reading West	2 (Up)	93	Top of ramp (Westbury end) to mirror
+WW	0269	Redland	Single	120	Usable lengths inside the barrier
+WW	0269	Redruth	1	169	
+WW	0269	Redruth	2	173	
+WW	0269	Rhiwbina	Single	107	
+WW	0269	Rhoose	1	100	
+WW	0269	Rhoose	2	100	
+WW	0269	Rhymney	Single	127	Top of ramp to stop board
+WW	0269	Risca	1	97	
+WW	0269	Risca	2	97	
+WW	0269	Roche	Single	89	
+WW	0269	Rogerstone	Single	97	
+WW	0269	Ruabon	Down	198	
+WW	0269	Ruabon	Up	158	
+WW	0269	Saltash	1	124	
+WW	0269	Saltash	2	83	Top of ramp to signal
+WW	0269	Sandplace	Single	30	
+WW	0269	Sarn	Single	84	
+WW	0269	Saundersfoot	Single	105	
+WW	0269	Sea Mills	Single	118	Usable lengths inside the barrier
+WW	0269	Severn Beach	Single	121	Usable lengths inside the barrier.  Marked up for 2 car use.
+WW	0269	Severn Tunnel Jn	1 (Down Main Line)	145	
+WW	0269	Severn Tunnel Jn	2 (Up Main Line)	171	
+WW	0269	Severn Tunnel Jn	3 (Down Tunnel)	171	
+WW	0269	Severn Tunnel Jn	4 (Up Tunnel)	171	
+WW	0269	Shiplake	Single	182	
+WW	0269	Shiplake	Single	173	Top of ramp to stop board (Henley end)
+WW	0269	Shiplake	Single	105	Top of ramp (Henley end) to nearest mirror
+WW	0269	Shiplake	Single	149	Top of ramp (Henley end) to furthest mirror
+WW	0269	Shipton	Down	80	
+WW	0269	Shipton	Up	56	
+WW	0269	Shirehampton	Single	128	Usable lengths inside the barrier
+WW	0270	Shrewsbury	3	263	
+WW	0270	Shrewsbury	4	285	Up
+WW	0270	Shrewsbury	4	308	Down
+WW	0270	Shrewsbury	5	130	
+WW	0270	Shrewsbury	6	130	
+WW	0270	Shrewsbury	7	309	
+WW	0270	Skewen	1	107	
+WW	0270	Skewen	2	107	
+WW	0270	Slough	1 (Bay)	122	
+WW	0270	Slough	2 (Down Main Line)	208	
+WW	0270	Slough	3 (Up Main Line)	192	
+WW	0270	Slough	4 (Down Relief Line)	161	
+WW	0270	Slough	5 (Up Relief Line)	161	
+WW	0270	South Greenford	1	49	
+WW	0270	South Greenford	2	51	
+WW	0270	Southall	1 (Down Main Line)	152	
+WW	0270	Southall	2 (Up Main Line)	139	
+WW	0270	Southall	3 (Down Relief Line)	152	
+WW	0270	Southall	4 (Up Relief Line)	155	
+WW	0270	Southall	4 (Up Relief Line)	78	Length to nearest camera
+WW	0270	Southall	4 (Up Relief Line)	149	Length to furthest camera
+WW	0270	St Andrews Rd	Single	155	Usable lengths inside the barrier
+WW	0270	St Columb Road	Single	93	
+WW	0270	St Germans	1	128	
+WW	0270	St Germans	2	133	
+WW	0270	St Ives	Single	123	Top of ramp to Red lights
+WW	0270	St James Park	1	86	
+WW	0270	St James Park	2	86	
+WW	0270	St Keyne	Single	30	
+WW	0270	St. Austell	1 (Down)	178	
+WW	0270	St. Austell	2 (Up)	180	Top of ramp to signal PR104
+WW	0270	St. Austell	2 (Up)	181	Trains can use top of ramp to top of ramp length ONLY if signal PR104 is showing a proceed aspect.
+WW	0270	St. Budeaux (Victoria Rd)	Single	110	
+WW	0270	St. Budeaux Ferry Road	1	124	
+WW	0270	St. Budeaux Ferry Road	2	126	
+WW	0270	St. Erth	1 (Down)	177	
+WW	0270	St. Erth	2 (Up)	176	
+WW	0270	St. Erth	3 (Bay)	108	
+WW	0270	Stapleton Road	1	216	
+WW	0270	Stapleton Road	2	211	
+WW	0270	Starcross	1	168	
+WW	0270	Starcross	2	184	
+WW	0270	Stonehouse	1	61	
+WW	0271	Stonehouse	2	61	
+WW	0271	Stroud	1	185	
+WW	0271	Stroud	2	185	
+WW	0271	Sugar Loaf	Single	21	
+WW	0271	Swansea	1 (Single)	268	Top of ramp to buffer stops
+WW	0271	Swansea	2 (Single)	272	Top of ramp to buffer stops
+WW	0271	Swansea	3 (Single)	273	Top of ramp to buffer stops
+WW	0271	Swansea	4 (Single)	263	Top of ramp to buffer stops
+WW	0271	Swindon	1 (Single)	261	(Up reversible)
+WW	0271	Swindon	2 (Single)	80	(Gloucester Bay) A train formed 4 x 20m vehicles CANNOT be accommodated behind signal
+WW	0271	Swindon	3 (Single)	282	(Down reversible)
+WW	0271	Swindon	4 (Single)	284	Approx (Down reversible)
+WW	0271	Tackley	Down	80	
+WW	0271	Tackley	Up	80	
+WW	0271	Taffs Well	Down	142	
+WW	0271	Taffs Well	Up	142	
+WW	0271	Talsarnau	Single	80	
+WW	0271	Talybont	Single	32	
+WW	0271	Taplow	1 (Down Main Line)	184	
+WW	0271	Taplow	2 (Up Main Line)	140	
+WW	0271	Taplow	3 (Down Main Line)	184	
+WW	0271	Taplow	4 (Up Relief Line)	184	
+WW	0271	Taplow	4 (Up Relief Line)	177	Top of ramp to camera
+WW	0271	Taunton	2 (Up/Down Relief)	278	
+WW	0271	Taunton	3 (Down Main)	262	
+WW	0271	Taunton	4 (Up Main)	262	
+WW	0271	Taunton	5 (Up Relief)	242	
+WW	0271	Taunton	6 (Bay)	79	
+WW	0271	Teignmouth	1	323	
+WW	0271	Teignmouth	2	177	
+WW	0271	Tenby	1	150	
+WW	0271	Tenby	2	150	
+WW	0271	Thatcham	1 (down)	170	
+WW	0271	Thatcham	1 (down)	147	Top of ramp (Reading end) to CCTV camera
+WW	0271	Thatcham	2 (up)	155	
+WW	0271	Theale	1 (Up)	152	
+WW	0271	Theale	1 (Up)	148	Top of ramp to furthest mirror
+WW	0271	Theale	1 (Up)	76	Top of ramp to nearest mirror
+WW	0271	Theale	2 (Down)	152	
+WW	0271	Tilehurst ML	1 (Down Main Line)	153	
+WW	0271	Tilehurst ML	2 (Up Main Line)	152	
+WW	0271	Tilehurst RL	3 (Down Relief Line)	153	
+WW	0272	Tilehurst RL	4 (Up Relief Line)	153	
+WW	0272	Tir-Phil	Down	124	
+WW	0272	Tir-Phil	Up	124	
+WW	0272	Tiverton Parkway	1	248	
+WW	0272	Tiverton Parkway	2	248	
+WW	0272	Ton Pentre	Single	147	
+WW	0272	Tondu	Single	84	
+WW	0272	Tonfanau	Single	92	
+WW	0272	Tonypandy	Single	147	
+WW	0272	Topsham	1	138	
+WW	0272	Topsham	2	123	
+WW	0272	Torquay	1	237	
+WW	0272	Torquay	2	232	
+WW	0272	Torre	1	128	
+WW	0272	Torre	2	144	
+WW	0272	Totnes	1	193	
+WW	0272	Totnes	2	200	
+WW	0272	Trefforest	Down	143	
+WW	0272	Trefforest	Up	143	
+WW	0272	Trefforest Estate	Down	183	
+WW	0272	Trefforest Estate	Up	183	
+WW	0272	Trehafod	Down	137	
+WW	0272	Trehafod	Up	137	
+WW	0272	Treherbert	Single	135	
+WW	0272	Treorchy	Single	124	
+WW	0272	Troed-y-Rhiw	Single	139	
+WW	0272	Trowbridge	1	121	
+WW	0272	Trowbridge	2	154	Usable length
+WW	0272	Truro	1 (Bay)	80	To the stop blocks 85.7
+WW	0272	Truro	2 (Down)	199	
+WW	0272	Truro	3 (Up)	211	
+WW	0272	Twyford	5 (Bay)	110	Top of ramp to stop blocks
+WW	0272	Twyford ML	1 (Down Main Line)	172	
+WW	0272	Twyford ML	2 (Up Main Line)	182	
+WW	0272	Twyford RL	3 (Down Relief Line)	244	
+WW	0272	Twyford RL	4 (Up Relief Line)	250	
+WW	0272	Twyford RL	4 (Up Relief Line)	180	Signal TR214 to Top of ramp (London end)
+WW	0272	Ty Glas	Single	49	
+WW	0272	Tygwyn	Single	22	
+WW	0272	Tywyn	2 Down	123	Bi-directional
+WW	0272	Tywyn	2 Down (down direction)	116*	Top of ramp to Block Marker 1164. (*123m to top of ramp (Barmouth end))
+WW	0272	Tywyn	1 Up	123	Bi-directional
+WW	0272	Tywyn	1 Up (down direction)	116*	Top of ramp to Block Marker 1166. (*123m to top of ramp (Barmouth end))
+WW	0272	Umberleigh	Single	139	
+WW	0272	Wargrave	Single	152	
+WW	0273	Wargrave	Single	77	Top of ramp to nearest mirror
+WW	0273	Warminster	1	128	
+WW	0273	Warminster	2	121	
+WW	0273	Waun-Gron Park	Down	46	
+WW	0273	Waun-Gron Park	Up	45	
+WW	0273	Welshpool	Down	165	
+WW	0273	Welshpool	Up	165	
+WW	0273	Wem	Down	78	
+WW	0273	Wem	Up	87	
+WW	0273	West Drayton	1 (Down Main Line)	205	
+WW	0273	West Drayton	2 (Up Main Line)	210	
+WW	0273	West Drayton	3 (Down Relief Line)	210	
+WW	0273	West Drayton	4 (Up Relief Line)	158	
+WW	0273	West Drayton	5 (Loop)	212	
+WW	0273	West Ealing	3 (Down Relief Line)	145	Top of ramp to nearest mirror
+WW	0273	West Ealing	4 (Up Relief Line)	212	Top of ramp to footbridge
+WW	0273	West Ealing	5 (Bay Platform)	132	
+WW	0273	Westbury	1	224	(reversible) 224 ramp top to ramp top
+WW	0273	Westbury	2	315	(reversible)
+WW	0273	Westbury	3	295	(reversible)
+WW	0273	Weston Milton	Single	184	
+WW	0273	Weston-super-Mare	1 (Down)	210	
+WW	0273	Weston-super-Mare	2 (Up)	312	
+WW	0273	Whitchurch (Salop)	Down	144	
+WW	0273	Whitchurch (Salop)	Up	86	
+WW	0273	Whitchurch (S. Glam.)	Single	98	
+WW	0273	Whitland	1	178	
+WW	0273	Whitland	2	177	
+WW	0273	Whitland	3  (Bay)	134	Pembroke Dock trains only
+WW	0273	Wildmill	Single	84	
+WW	0273	Windsor & Eton Central	Single	117	
+WW	0273	Worle	1	100	
+WW	0273	Worle	2	100	
+WW	0273	Wrenbury	Down	101	
+WW	0273	Wrenbury	Up	101	
+WW	0273	Yate	1	105	
+WW	0273	Yate	2	103	
+WW	0273	Yatton	1	162	
+WW	0273	Yatton	2	121	
+WW	0273	Yeoford	Single	136	
+WW	0273	Ynyswen	Single	124	
+WW	0273	Yorton	Down	51	
+WW	0273	Yorton	Up	61	
+WW	0273	Ystrad Mynach	Down	124	
+WW	0273	Ystrad Mynach	Up	124	
+WW	0273	Ystrad Rhondda	Down	124	
+WW	0273	Ystrad Rhondda	Up	124	
+WW	0274	Abergele & Pensarn	Down	197	
+WW	0274	Abergele & Pensarn	Up	147	
+WW	0274	Bangor (Gwynedd)	Down	275	
+WW	0274	Bangor (Gwynedd)	Up	232	
+WW	0274	Betws-y-Coed	Single	99	
+WW	0274	Bidston	1	120	Up line
+WW	0274	Bidston	2	120	Down line
+WW	0274	Blaenau Ffestiniog	Single	200	
+WW	0274	Bodorgan	Down	96	
+WW	0274	Bodorgan	Up	96	
+WW	0274	Buckley	Down	52	
+WW	0274	Buckley	Up	53	
+WW	0274	Caergwrle	Down	77	
+WW	0274	Caergwrle	Up	76	
+WW	0274	Cefn–y–Bedd	Down	60	Additional 25m OOU
+WW	0274	Cefn–y–Bedd	Up	61	Additional 25m OOU
+WW	0274	Colwyn Bay	Down	245	
+WW	0274	Colwyn Bay	Up	246	
+WW	0274	Conwy	Down	51	
+WW	0274	Conwy	Up	51	
+WW	0274	Deganwy	Down	196	
+WW	0274	Deganwy	Up	180	
+WW	0274	Dolgarrog	Single	41	
+WW	0274	Dolwyddelan	Single	92	
+WW	0274	Fflint	Down	210	
+WW	0274	Fflint	Up	179	
+WW	0274	Glan Conwy	Single	106	
+WW	0274	Gwersyllt	Down	84	
+WW	0274	Gwersyllt	Up	83	
+WW	0274	Hawarden	Down	98	
+WW	0274	Hawarden	Up	120	
+WW	0274	Hawarden Bridge	Down	92	
+WW	0274	Hawarden Bridge	Up	91	
+WW	0274	Heswall	Down	56	
+WW	0274	Heswall	Up	56	
+WW	0274	Holyhead	1	336	Bay. Additional 10.6m beyond
+WW	0274	Holyhead	2	307	Bay
+WW	0274	Holyhead	3	216	
+WW	0274	Hope (Flintshire)	Down	74	
+WW	0274	Hope (Flintshire)	Up	80	
+WW	0274	Llandudno	1	214	Bay. Additional 28m OOU
+WW	0274	Llandudno	2	217	Bay. Additional 30m OOU
+WW	0274	Llandudno	3	218	Bay. Additional 30m OOU
+WW	0274	Llandudno Junction	1	300	Bi–dir
+WW	0274	Llandudno Junction	2	102	Bay to Llandudno
+WW	0274	Llandudno Junction	3	300	Bi–dir
+WW	0274	Llandudno Junction	4	221	Down line
+WW	0274	Llanfairfechan	Down	142	
+WW	0274	Llanfairfechan	Up	115	Additional 38.5m OOU
+WW	0274	Llanfairpwll	Down	36	
+WW	0274	Llanfairpwll	Up	36	
+WW	0275	Llanrwst	Single	60	
+WW	0275	Llanrwst North	Down	126	
+WW	0275	Llanrwst North	Up	132	
+WW	0275	Neston	Up	85	Additional 25m OOU
+WW	0275	North Llanrwst see Llanrwst North			
+WW	0275	Penmaenmawr	Down	166	
+WW	0275	Penmaenmawr	Up	170	
+WW	0275	Penyffordd	Down	69	
+WW	0275	Penyffordd	Up	71	
+WW	0275	Pont–y–Pant	Single	98	
+WW	0275	Prestatyn	Down	245	
+WW	0275	Prestatyn	Up	245	
+WW	0275	Rhosneigr	Down	91	
+WW	0275	Rhosneigr	Up	92	
+WW	0275	Rhyl	Down	306	
+WW	0275	Rhyl	Up	347	Additional 8m beyond signal
+WW	0275	Roman Bridge	Single	82	
+WW	0275	Shotton (High Level)	Down	101	
+WW	0275	Shotton (High Level)	Up	101	
+WW	0275	Shotton (Low Level)	Down	106	
+WW	0275	Shotton (Low Level)	Up	107	
+WW	0275	Tal–y–Cafn	Single	107	
+WW	0275	Ty Croes	Down	84	
+WW	0275	Ty Croes	Up	85	
+WW	0275	Valley	Down	37	
+WW	0275	Valley	Up	45	
+WW	0275	Wrexham Central	Single	52	Bay.
+WW	0275	Wrexham General	1	198	Up Main line.
+WW	0275	Wrexham General	2	197	Down Main line
+WW	0275	Wrexham General	3	152	Up/Down Loop
+WW	0275	Wrexham General	4	60	Single Wrexham Exchange Junction/Wrexham Central
+WX	0166	Addlestone	1 - Down	166	
+WX	0166	Addlestone	2 - Up	176	
+WX	0166	Aldershot	1 - Up	247	
+WX	0166	Aldershot	2 - Down	252	Trains can reverse in the Platform
+WX	0166	Aldershot	3 - Down Passenger Loop	252	Trains can reverse in the Platform
+WX	0166	Alton	1 - Up	167	
+WX	0166	Alton	2 - Down	170	
+WX	0166	Andover	1 - Up	219	
+WX	0166	Andover	2 - Down	223	
+WX	0166	Ascot	1* - Up	220	* - Station entrance side. Down direction
+WX	0166	Ascot	1* - Up	252	* - Station entrance side. Up direction
+WX	0166	Ascot	2 - Down	211	Down direction
+WX	0166	Ascot	2 - Down	224	Up direction
+WX	0166	Ascot	3 - Down Passenger Loop	212	Down direction
+WX	0166	Ascot	3 - Down Passenger Loop	214	Up direction
+WX	0166	Ash	1 - Up	173	
+WX	0166	Ash	2 - Down	101	
+WX	0166	Ash Vale	1 - Up	169	
+WX	0166	Ash Vale	2 - Down	170	
+WX	0166	Ashford (Middlesex)	1 – Up	206	
+WX	0166	Ashford (Middlesex)	2 - Down	206	
+WX	0166	Ashtead	1 - Up Portsmouth	209	
+WX	0166	Ashtead	2 - Down Portsmouth	206	
+WX	0166	Ashurst New Forest	1 - Up	155	
+WX	0166	Ashurst New Forest	2 - Down	156	
+WX	0166	Axminster	1 - Up	148	
+WX	0166	Axminster	2 - Down	142	
+WX	0166	Bagshot	1 - Up	90	
+WX	0166	Bagshot	2 - Down	89	
+WX	0166	Barnes	1 - Up Slow	207	Trains can reverse in the Platform
+WX	0166	Barnes	2 - Up Fast	214	Trains can reverse in the Platform
+WX	0166	Barnes	3 - Down Fast	206	
+WX	0166	Barnes	4 - Down Slow	212	
+WX	0166	Barnes Bridge	1 - Up	204	
+WX	0166	Barnes Bridge	2 - Down	203	
+WX	0166	Basingstoke	1 - Down Slow	296	Trains can reverse in the Platform
+WX	0166	Basingstoke	2 - Down Fast	245	
+WX	0166	Basingstoke	3 - Up Fast	245	
+WX	0166	Basingstoke	4 - Up Slow	245	
+WX	0166	Basingstoke	5 - East Bay	117	
+WX	0166	Beaulieu Road	1 - Up	101	
+WX	0166	Beaulieu Road	2 - Down	101	
+WX	0166	Bedhampton	1 - Up	124	
+WX	0166	Bedhampton	2 - Down	124	
+WX	0166	Bentley	1 - Up	123	Down direction
+WX	0166	Bentley	1 - Up	123	Up direction
+WX	0166	Bentley	2 - Down Passenger Loop	122	
+WX	0166	Berrylands	1 - Up Slow	209	
+WX	0166	Berrylands	2 - Down Slow	207	
+WX	0166	Bitterne	1 - Up	136	
+WX	0166	Bitterne	2 - Down	148	
+WX	0167	Blackwater	1 - Up	85.0	
+WX	0167	Blackwater	2 - Down	85.0	
+WX	0167	Bookham	1 - Up	200.0	
+WX	0167	Bookham	2 - Down	201.0	
+WX	0167	Botley	1 - Up	132.0	
+WX	0167	Botley	2 - Down	132.0	
+WX	0167	Bournemouth	1 - Up Bay	84.0	
+WX	0167	Bournemouth	2 - Up	247.0	Down direction
+WX	0167	Bournemouth	2 - Up	247.0	Up direction
+WX	0167	Bournemouth	3 - Down	263.0	Down direction
+WX	0167	Bournemouth	3 - Down	263.0	Up direction
+WX	0167	Bournemouth	4 - Down Extension	206.0	
+WX	0167	Bournemouth	3 & 4 - Down	522.0	
+WX	0167	Bracknell	1 - Up	222.0	
+WX	0167	Bracknell	2 - Down	209.0	
+WX	0167	Bramley	1 - Up	90.0	
+WX	0167	Bramley	2 - Down	84.0	
+WX	0167	Branksome	1 - Up	114.0	
+WX	0167	Branksome	2 - Down	114.0	
+WX	0167	Brentford	1 - Up	205.0	
+WX	0167	Brentford	2 - Down	205.0	
+WX	0167	Brockenhurst	1 - Up Passenger Loop	262.0	Down direction
+WX	0167	Brockenhurst	1 - Up Passenger Loop	240.0	Up direction
+WX	0167	Brockenhurst	2 - Up	260.0	
+WX	0167	Brockenhurst	3 - Down	243.0	
+WX	0167	Brockenhurst	4 - Down Passenger Loop	243.0	Down direction
+WX	0167	Brockenhurst	4 - Down Passenger Loop	195.0	Up direction (to Signal BH8)
+WX	0167	Brookwood	1 - Up Slow	248.0	
+WX	0167	Brookwood	2 - Down Slow	248.0	
+WX	0167	Bursledon	1 - Up	167.0	
+WX	0167	Bursledon	2 - Down	167.0	
+WX	0167	Byfleet and New Haw	1 - Up Slow	247.0	
+WX	0167	Byfleet and New Haw	2 - Down Slow	247.0	
+WX	0167	Camberley	1 - Up	132.0	
+WX	0167	Camberley	2 - Down	136.0	
+WX	0167	Chandlers Ford	1 – Down & Up	100.0	
+WX	0167	Chertsey	1 - Down	211.0	
+WX	0167	Chertsey	2 - Up	209.0	
+WX	0167	Chessington North	1 - Up	207.0	
+WX	0167	Chessington North	2 - Down	205.0	
+WX	0167	Chessington South	Single	204.0	
+WX	0167	Chetnole	Single	45.0	Down direction
+WX	0167	Chetnole	Single	45.0	Up direction
+WX	0167	Chilworth	1 - Up Reading	85.0	
+WX	0167	Chilworth	2 - Down Reading	92.0	
+WX	0167	Chiswick	1 - Up	205.0	
+WX	0167	Chiswick	2 - Down	205.0	
+WX	0167	Christchurch	1 - Up	185.0	
+WX	0167	Christchurch	2 - Down	185.0	
+WX	0167	Clandon	1 - Up	204.0	
+WX	0167	Clandon	2 - Down	206.0	
+WX	0167	Clapham Junction	1 - Up Bay	92.0	
+WX	0167	Clapham Junction	2 - Up Bay	102.0	
+WX	0167	Clapham Junction	3 - Up Windsor Slow	214.0	
+WX	0167	Clapham Junction	4 - Up Windsor Fast	215.0	
+WX	0167	Clapham Junction	5 - Down Windsor Fast	213.0	
+WX	0168	Clapham Junction	6 - Down Windsor Slow	214.0	
+WX	0168	Clapham Junction	7 - Up Passenger Loop	206.0	
+WX	0168	Clapham Junction	8 - Up Main Fast	183.0	Must only be used for stopping passenger trains in an emergency.
+WX	0168	Clapham Junction	9 - Down Main Fast	220.0	
+WX	0168	Clapham Junction	10 - Up Main Slow	210.0	
+WX	0168	Clapham Junction	11 - Down Main Slow	204.0	
+WX	0168	Claygate	1 - Up	204.0	
+WX	0168	Claygate	2 - Down	207.0	
+WX	0168	Cobham and Stoke D’Abernon	1 - Up	201.0	
+WX	0168	Cobham and Stoke D’Abernon	2 - Down	206.0	
+WX	0168	Cosham	1 - Up	169.0	
+WX	0168	Cosham	2 - Down	169.0	
+WX	0168	Cranbrook	Single –Up	152.0	
+WX	0168	Cranbrook	Single -Down	152.0	
+WX	0168	Crewkerne	Single	148.0	Down direction
+WX	0168	Crewkerne	Single	148.0	Up direction
+WX	0168	Crowthorne	1 - Up	87.0	
+WX	0168	Crowthorne	2 - Down	90.0	
+WX	0168	Datchet	1 - Up	171.0	
+WX	0168	Datchet	2 - Down	143.0	
+WX	0168	Dean	1 - Up	152.0	
+WX	0168	Dean	2 - Down	152.0	
+WX	0168	Dorchester South	1 - Up	171.0	Down direction
+WX	0168	Dorchester South	1 - Up	171.0	Up direction.
+WX	0168	Dorchester South	2 - Down	120.0	Down direction
+WX	0168	Dorchester South	2 - Down	120.0	Up direction
+WX	0168	Dorchester West	1 - Up	170.0	
+WX	0168	Dorchester West	2 - Down	170.0	
+WX	0168	Durnsford Rd Staff Halt	- Up Fast	8.0	
+WX	0168	Earley	1 - Down	168.0	
+WX	0168	Earley	2 - Up	169.0	
+WX	0168	Earlsfield	1 - Down Fast	205.0	
+WX	0168	Earlsfield	2 - Up Slow	205.0	
+WX	0168	Earlsfield	3 - Down Slow	205.0	
+WX	0168	Eastleigh	1 - Up	253.0	
+WX	0168	Eastleigh	2 - Up	253.0	
+WX	0168	Eastleigh	2 - Down	253.0	
+WX	0168	Eastleigh	3 - Down Passenger Loop	253.0	Down direction
+WX	0168	Eastleigh	3 - Down Passenger Loop	190.0	Up direction
+WX	0168	Effingham Junction	1 - Up	204.0	
+WX	0168	Effingham Junction	2 - Down	205.0	
+WX	0168	Egham	1 - Up	207.0	
+WX	0168	Egham	2 - Down	209.0	
+WX	0168	Epsom	1 - Down Portsmouth	208.0	Down direction
+WX	0168	Epsom	1 - Down Portsmouth	208.0	Up direction
+WX	0168	Epsom	2 - Down Epsom	206.0	Down direction
+WX	0168	Epsom	2 - Down Epsom	206.0	Up direction
+WX	0168	Epsom	3 - Up Portsmouth	206.0	
+WX	0168	Epsom	4 - Up Epsom	208.0	
+WX	0168	Esher	1 - Up Slow	247.0	
+WX	0168	Esher	2 - Down Slow	247.0	
+WX	0168	Ewell West	1 - Up	205.0	
+WX	0169	Ewell West	2 - Down	205.0	
+WX	0169	Fareham	1 - Up	189.0	
+WX	0169	Fareham	2 - Up Bay	186.0	
+WX	0169	Fareham	3 - Down	169.0	
+WX	0169	Farnborough	1 - Up Slow	245.0	
+WX	0169	Farnborough	2 - Down Slow	245.0	
+WX	0169	Farnborough North	1 - Up	91.0	
+WX	0169	Farnborough North	2 - Down	81.0	
+WX	0169	Farncombe	1 - Up	246.0	
+WX	0169	Farncombe	2 - Down	183.0	
+WX	0169	Farnham	1 - Up	268.0	
+WX	0169	Farnham	2 - Down	249.0	
+WX	0169	Feltham	1 - Up	224.0	
+WX	0169	Feltham	2 - Down	205.0	
+WX	0169	Feniton	Single	98.0	Down direction
+WX	0169	Feniton	Single	98.0	Up direction
+WX	0169	Fleet	1 - Up Slow	252.0	
+WX	0169	Fleet	2 - Down Slow	252.0	
+WX	0169	Fratton	1 - Up	187.0	
+WX	0169	Fratton	2 - Down	187.0	
+WX	0169	Fratton	3 - Down Relief	187.0	
+WX	0169	Frimley	1 - Up	86.0	
+WX	0169	Frimley	2 - Down	85.0	
+WX	0169	Fulwell	1 - Up	204.0	
+WX	0169	Fulwell	2 - Down	206.0	
+WX	0169	Gillingham (Dorset)	1 - Up	149.0	Down direction
+WX	0169	Gillingham (Dorset)	1 - Up	140.0	Up direction
+WX	0169	Gillingham (Dorset)	2 - Down Passenger Loop	149.0	Down direction
+WX	0169	Gillingham (Dorset)	2 - Down Passenger Loop	140.0	Up direction
+WX	0169	Godalming	1 - Up	249.0	
+WX	0169	Godalming	2 - Down	249.0	
+WX	0169	Gomshall	1 - Up Reading	91.0	
+WX	0169	Gomshall	2 - Down Reading	91.0	
+WX	0169	Grateley	1 - Up	222.0	
+WX	0169	Grateley	2 - Down	222.0	
+WX	0169	Guildford	1 - Up Bay	211.0	
+WX	0169	Guildford	2 - Down Cobham	315.0	Down direction, 232m if via 3114 points.
+WX	0169	Guildford	2 - Down Cobham	232.0	Up direction
+WX	0169	Guildford	3 - Up Cobham	244.0	Down direction
+WX	0169	Guildford	3 - Up Cobham	248.0	Up direction
+WX	0169	Guildford	4 - Down Portsmouth	254.0	Down direction
+WX	0169	Guildford	4 - Down Portsmouth	248.0	Up direction
+WX	0169	Guildford	5 - Up Portsmouth	253.0	Down direction
+WX	0169	Guildford	5 - Up Portsmouth	242.0	Up direction
+WX	0169	Guildford	6 - Up Ash	248.0	Down direction
+WX	0169	Guildford	6 - Up Ash	262.0	Up direction
+WX	0169	Guildford	7 - Up Ash	248.0	Down direction
+WX	0169	Guildford	7 - Up Ash	258.0	Up direction
+WX	0169	Guildford	8 - Down Ash	189.0	Down direction
+WX	0169	Guildford	8 - Down Ash	208.0	Up direction
+WX	0169	Hamble	1 - Up	92.0	
+WX	0169	Hamble	2 - Down	92.0	
+WX	0169	Hampton	1 - Up	204.0	
+WX	0169	Hampton	2 - Down	206.0	
+WX	0170	Hampton Court	1 - Up	208.0	
+WX	0170	Hampton Court	2 - Down	208.0	
+WX	0170	Hampton Wick	1  - Up	205.0	
+WX	0170	Hampton Wick	2 - Down	206.0	
+WX	0170	Hamworthy	1 - Up	124.0	
+WX	0170	Hamworthy	2 - Down	124.0	
+WX	0170	Haslemere	1 - Down	249.0	
+WX	0170	Haslemere	2 - Up	249.0	Down direction
+WX	0170	Haslemere	2 - Up	249.0	Up direction
+WX	0170	Haslemere	3 - Up Passenger Loop	249.0	
+WX	0170	Havant	1 - Up	251.0	
+WX	0170	Havant	2 - Down Passenger Loop	251.0	Trains can reverse in the Platform
+WX	0170	Hedge End	1 - Up	166.0	
+WX	0170	Hedge End	2 - Down	166.0	
+WX	0170	Hersham	1 - Up Slow	246.0	
+WX	0170	Hersham	2 - Down Slow	245.0	
+WX	0170	Hilsea	1 - Up	163.0	
+WX	0170	Hilsea	2 - Down	163.0	
+WX	0170	Hinchley Wood	1 - Up	204.0	
+WX	0170	Hinchley Wood	2 - Down	205.0	
+WX	0170	Hinton Admiral	1 - Up	138.0	
+WX	0170	Hinton Admiral	2 - Down	138.0	
+WX	0170	Holton Heath	1 - Up	124.0	
+WX	0170	Holton Heath	2 - Down	124.0	
+WX	0170	Honiton	1 - Single	143.0	Down direction
+WX	0170	Honiton	1 - Single	148.0	Up direction
+WX	0170	Honiton	2 - Crossing Loop in Single Line	138.0	Up direction
+WX	0170	Hook	1 - Up Slow	198.0	
+WX	0170	Hook	2 - Down Slow	198.0	
+WX	0170	Horsley	1 - Up	204.0	
+WX	0170	Horsley	2 - Down	205.0	
+WX	0170	Hounslow	1 - Up	166.0	
+WX	0170	Hounslow	2 - Down	168.0	
+WX	0170	Isleworth	1 - Up	156.0	
+WX	0170	Isleworth	2 - Down	166.0	
+WX	0170	Kempton Park	1 - Up	204.0	
+WX	0170	Kempton Park	2 - Down	288.0	
+WX	0170	Kew Bridge	1 - Up	205.0	
+WX	0170	Kew Bridge	2 - Down	205.0	
+WX	0170	Kingston	1 - Down Bay	163.0	
+WX	0170	Kingston	2 - Down	208.0	
+WX	0170	Kingston	3 - Up	208.0	
+WX	0170	Leatherhead	1 – Up	206.0	
+WX	0170	Leatherhead	2 - Down	206.0	
+WX	0170	Liphook	1 - Up	168.0	
+WX	0170	Liphook	2 - Down	168.0	
+WX	0170	Liss	1 - Up	161.0	
+WX	0170	Liss	2 - Down	161.0	
+WX	0170	London Road Guildford	1 - Up	206.0	
+WX	0170	London Road Guildford	2 - Down	205.0	
+WX	0170	London Waterloo	1	208.0	
+WX	0170	London Waterloo	2	208.0	
+WX	0170	London Waterloo	3	208.0	
+WX	0171	London Waterloo	4	208.0	
+WX	0171	London Waterloo	5	208.0	
+WX	0171	London Waterloo	6	208.0	
+WX	0171	London Waterloo	7	245.0	(see note in Section 5.3)
+WX	0171	London Waterloo	8	246.0	
+WX	0171	London Waterloo	9	250.0	
+WX	0171	London Waterloo	10	252.0	
+WX	0171	London Waterloo	11	246.0	
+WX	0171	London Waterloo	12	247.0	
+WX	0171	London Waterloo	13	247.0	
+WX	0171	London Waterloo	14	247.0	
+WX	0171	London Waterloo	15	256.0	
+WX	0171	London Waterloo	16	256.0	
+WX	0171	London Waterloo	17	268.0	
+WX	0171	London Waterloo	18	249.0	
+WX	0171	London Waterloo	19	253.0	
+WX	0171	London Waterloo	20	246.0	
+WX	0171	London Waterloo	21	246.0	
+WX	0171	London Waterloo	22	246.0	
+WX	0171	London Waterloo	23	246.0	
+WX	0171	London Waterloo	24	246.0	
+WX	0171	Longcross	1 - Up	159.0	
+WX	0171	Longcross	2 - Down	160.0	
+WX	0171	Lymington Pier	Single	163.0	
+WX	0171	Lymington Town	Single	78.0	Up direction
+WX	0171	Lymington Town	Single	78.0	Down direction
+WX	0171	Maiden Newton	1 - Up	114.0	
+WX	0171	Maiden Newton	2 - Down	114.0	
+WX	0171	Malden Manor	1 - Up	208.0	
+WX	0171	Malden Manor	2 - Down	205.0	
+WX	0171	Martins Heron	1 - Up	205.0	
+WX	0171	Martins Heron	2 - Down	209.0	
+WX	0171	Micheldever	1 - Up	137.0	Down direction
+WX	0171	Micheldever	1 - Up	125.0	Up direction
+WX	0171	Micheldever	2 - Down	125.0	Down direction
+WX	0171	Micheldever	2 - Down	93.0	Up direction
+WX	0171	Milford	1 - Up	162.0	
+WX	0171	Milford	2 - Down	155.0	
+WX	0171	Millbrook	1 - Up Slow	182.0	
+WX	0171	Millbrook	2 - Down Slow	182.0	
+WX	0171	Moreton	1 - Up	121.0	
+WX	0171	Moreton	2 - Down	121.0	
+WX	0171	Mortimer	1 - Down	84.0	
+WX	0171	Mortimer	2 - Up	84.0	
+WX	0171	Mortlake	1 - Up	205.0	
+WX	0171	Mortlake	2 - Down	205.0	
+WX	0171	Motspur Park	1 - Up	204.0	
+WX	0171	Motspur Park	2 - Down	202.0	
+WX	0171	Mottisfont & Dunbridge	1 - Up	58.0	
+WX	0171	Mottisfont & Dunbridge	2 - Down	74.0	
+WX	0171	Netley	1 - Up	155.0	
+WX	0171	Netley	2 - Down	170.0	
+WX	0171	New Malden	1 - Up Slow	208.0	
+WX	0171	New Malden	2 - Up Fast	228.0	(by special arrangement)
+WX	0171	New Malden	3 - Down Fast	228.0	(by special arrangement)
+WX	0172	New Malden	4 - Down Slow	206.0	
+WX	0172	New Milton	1 - Up	137.0	
+WX	0172	New Milton	2 - Down	137.0	
+WX	0172	Norbiton	1 - Up	206.0	
+WX	0172	Norbiton	2 - Down	206.0	
+WX	0172	North Camp	1	153.0	
+WX	0172	North Camp	2	131.0	
+WX	0172	North Sheen	1 - Up	205.0	
+WX	0172	North Sheen	2 - Down	205.0	
+WX	0172	Overton	1 - Up	223.0	
+WX	0172	Overton	2 - Down	223.0	
+WX	0172	Oxshott	1 - Up	202.0	
+WX	0172	Oxshott	2 - Down	203.0	
+WX	0172	Parkstone	1 - Up	130.0	
+WX	0172	Parkstone	2 - Down	130.0	
+WX	0172	Petersfield	1 - Up	241.0	
+WX	0172	Petersfield	2 - Down	245.0	
+WX	0172	Pinhoe	1 - Up	154.0	
+WX	0172	Pinhoe	2 - Down	150.0	
+WX	0172	Pokesdown	1 - Up	167.0	
+WX	0172	Pokesdown	2 - Down	231.0	
+WX	0172	Poole	1 - Up	247.0	Down direction
+WX	0172	Poole	1 - Up	247.0	Up direction
+WX	0172	Poole	2 - Down	247.0	
+WX	0172	Portchester	1 - Up	123.0	
+WX	0172	Portchester	2 - Down	125.0	
+WX	0172	Portsmouth and Southsea	1 - Up (High level)	247.0	
+WX	0172	Portsmouth and Southsea	2 - Down (High level)	247.0	
+WX	0172	Portsmouth and Southsea	3 - Bay (Low level)	205.0	
+WX	0172	Portsmouth and Southsea	4 - Bay (Low level)	253.0	
+WX	0172	Portsmouth Harbour	1	163.0	
+WX	0172	Portsmouth Harbour	3	244.0	
+WX	0172	Portsmouth Harbour	4	244.0	
+WX	0172	Portsmouth Harbour	5	244.0	
+WX	0172	Putney	1 - Up Slow	207.0	
+WX	0172	Putney	2 - Up Fast	205.0	
+WX	0172	Putney	3 - Down Fast	204.0	
+WX	0172	Putney	4 - Down Slow	206.0	
+WX	0172	Queenstown Road (Battersea)	2 - Up Windsor	208.0	Down direction
+WX	0172	Queenstown Road (Battersea)	2 - Up Windsor	205.0	Up direction
+WX	0172	Queenstown Road (Battersea)	3 - Down Windsor	204.0	
+WX	0172	Raynes Park	1 - Up Branch	206.0	
+WX	0172	Raynes Park	2 - Up Slow	206.0	
+WX	0172	Raynes Park	3 - Down Slow	208.0	
+WX	0172	Raynes Park	4 - Down Branch	206.0	
+WX	0172	Reading	6 - Up	268.0	
+WX	0172	Reading	5 - Down	268.0	
+WX	0172	Reading	4 – Down	268.0	
+WX	0172	Reading Green Park	1- Up	150.0	Proposed Opening Date TBA
+WX	0172	Reading Green Park	2- Down	150.0	Proposed Opening Date TBA
+WX	0173	Redbridge	1 - Up	148.0	
+WX	0173	Redbridge	2 - Down	148.0	
+WX	0173	Richmond	1 - Down	203.0	
+WX	0173	Richmond	2 - Up	203.0	
+WX	0173	Romsey	1 - Up	157.0	
+WX	0173	Romsey	2 - Down	154.0	
+WX	0173	Rowlands Castle	1 - Up	133.0	
+WX	0173	Rowlands Castle	2 - Down	133.0	
+WX	0173	Salisbury	1 - Reception Road	223.0	Only to be used by special instruction.
+WX	0173	Salisbury	2 - Up	228.0	
+WX	0173	Salisbury	3 - Down Passenger Loop	228.0	Down direction
+WX	0173	Salisbury	3 - Down Passenger Loop	228.0	Up direction
+WX	0173	Salisbury	4 - Down	289.0	Down direction
+WX	0173	Salisbury	4 - Down	289.0	Up direction
+WX	0173	Salisbury	5 - West Bay	143.0	(special instruction)
+WX	0173	Salisbury	6 - East Bay	162.0	
+WX	0173	Sandhurst	1 - Up	84.0	
+WX	0173	Sandhurst	2 - Down	84.0	
+WX	0173	Shalford	1 - Up Reading	104.0	
+WX	0173	Shalford	2 - Down Reading	97.0	Down direction
+WX	0173	Shalford	2 - Down Reading	97.0	Up direction
+WX	0173	Shawford	1 - Up	105.0	
+WX	0173	Shawford	2 - Down Fast	105.0	Down direction
+WX	0173	Shawford	2 - Down Fast	105.0	Up direction
+WX	0173	Shawford	3 - Down Slow	86.0	Down direction
+WX	0173	Shawford	3 - Down Slow	105.0	Up direction
+WX	0173	Shepperton	Single	210.0	
+WX	0173	Sherborne	1 - Up	143.0	Down direction
+WX	0173	Sherborne	1 - Up	143.0	
+WX	0173	Sherborne	2 - Down	159.0	
+WX	0173	Sholing	1 - Up	160.0	
+WX	0173	Sholing	2 - Down	160.0	
+WX	0173	Southampton Airport Parkway	1 - Up	248.0	
+WX	0173	Southampton Airport Parkway	2 - Down	248.0	
+WX	0173	Southampton Central	1 - Up Fast	277.0	Down direction
+WX	0173	Southampton Central	1 - Up Fast	277.0	Up direction
+WX	0173	Southampton Central	2 - Up Slow	277.0	Down direction
+WX	0173	Southampton Central	2 - Up Slow	277.0	Up direction
+WX	0173	Southampton Central	3 - Down Slow	277.0	Down direction
+WX	0173	Southampton Central	3 - Down Slow	277.0	Up direction
+WX	0173	Southampton Central	4 - Down Fast	277.0	Down direction
+WX	0173	Southampton Central	4 - Down Fast	277.0	Up direction
+WX	0173	Southampton Central	5 - Down Bay	136.0	(special instruction)
+WX	0173	St Denys	1 - Up	139.0	
+WX	0173	St Denys	2 - Down	139.0	
+WX	0173	St Denys	3 - Down Netley	140.0	
+WX	0173	St Denys	4 - Up Netley	140.0	
+WX	0173	St Margarets	1- Up Passenger Loop	204.0	
+WX	0173	St Margarets	2 - Up	205.0	
+WX	0173	St Margarets	3 - Down	205.0	
+WX	0173	Staines	1 - Up	206.0	
+WX	0173	Staines	2 - Down	206.0	
+WX	0173	Stoneleigh	1 - Up	205.0	
+WX	0173	Stoneleigh	2 - Down	208.0	
+WX	0174	Strawberry Hill	1 - Down	204.0	
+WX	0174	Strawberry Hill	2 - Up	178.0	Down direction
+WX	0174	Strawberry Hill	2 - Up	217.0	Up direction
+WX	0174	Sunbury	1 - Up	204.0	
+WX	0174	Sunbury	2 - Down	205.0	
+WX	0174	Sunningdale	1 - Up	205.0	
+WX	0174	Sunningdale	2 - Down	207.0	
+WX	0174	Sunnymeads	1 - Up	160.0	
+WX	0174	Sunnymeads	2 - Down	159.0	
+WX	0174	Surbiton	1 - Up Slow	243.0	
+WX	0174	Surbiton	2 - Up Fast	243.0	
+WX	0174	Surbiton	3 - Down Slow	243.0	
+WX	0174	Surbiton	4 - Down Hampton Court	243.0	
+WX	0174	Swanwick	1 - Up	159.0	
+WX	0174	Swanwick	2 - Down	159.0	
+WX	0174	Sway	1 - Up	137.0	
+WX	0174	Sway	2 - Down	137.0	
+WX	0174	Swaythling	1 - Up	92.0	
+WX	0174	Swaythling	2 - Down	92.0	
+WX	0174	Syon Lane	1 - Up	166.0	
+WX	0174	Syon Lane	2 - Down	162.0	
+WX	0174	Teddington	1 - Down	207.0	
+WX	0174	Teddington	2 - Up	203.0	
+WX	0174	Templecombe	Single	147.0	Down direction.
+WX	0174	Templecombe	Single	147.0	Up direction
+WX	0174	Thames Ditton	1 - Up	203.0	
+WX	0174	Thames Ditton	2 - Down	205.0	Down direction
+WX	0174	Thames Ditton	2 - Down	207.0	Up direction
+WX	0174	Thornford	Single	45.0	Down direction
+WX	0174	Thornford	Single	45.0	Up direction
+WX	0174	Tisbury	Single	90.0	Down direction
+WX	0174	Tisbury	Single	90.0	Up direction
+WX	0174	Tolworth	1 - Up	205.0	
+WX	0174	Tolworth	2 - Down	207.0	
+WX	0174	Totton	1 - Up	128.0	
+WX	0174	Totton	2 - Down	128.0	
+WX	0174	Twickenham	2 - Up Bay	169.0	
+WX	0174	Twickenham	3 - Up Passenger Loop	207.0	Trains can reverse in the Platform
+WX	0174	Twickenham	4 - Up	207.0	Trains can reverse in the Platform
+WX	0174	Twickenham	5 - Down	206.0	
+WX	0174	Upper Halliford	1 - Up	206.0	
+WX	0174	Upper Halliford	2 - Down	203.0	
+WX	0174	Upwey	1 - Up	127.0	
+WX	0174	Upwey	2 - Down	127.0	
+WX	0174	Vauxhall	1 - Windsor Reversible	209.0	Down direction
+WX	0174	Vauxhall	1 - Windsor Reversible	209.0	Up direction
+WX	0174	Vauxhall	2 - Up Windsor	209.0	
+WX	0174	Vauxhall	3 - Down Windsor Fast	209.0	
+WX	0174	Vauxhall	4 - Down Windsor Slow	209.0	
+WX	0174	Vauxhall	5 - Up Main Fast	191.0	
+WX	0174	Vauxhall	6 - Down Main Fast	191.0	
+WX	0174	Vauxhall	7 - Up Main Slow	206.0	
+WX	0174	Vauxhall	8 - Down Main Slow	204.0	
+WX	0174	Virginia Water	1 - Up	205.0	
+WX	0175	Virginia Water	2 - Down	238.0	
+WX	0175	Virginia Water	3 - Up Chertsey	131.0	Up direction
+WX	0175	Virginia Water	3 - Up Chertsey	164.0	Down direction
+WX	0175	Virginia Water	4 - Down Chertsey	205.0	
+WX	0175	Walton on Thames	1 - Up Slow	245.0	
+WX	0175	Walton on Thames	2 - Down Slow	245.0	
+WX	0175	Wanborough	1 - Up	90.0	
+WX	0175	Wanborough	2 - Down	90.0	
+WX	0175	Wandsworth Town	1 - Down Slow	205.0	
+WX	0175	Wandsworth Town	2 - Down Fast	206.0	
+WX	0175	Wandsworth Town	3 - Up Fast	206.0	
+WX	0175	Wandsworth Town	4 - Up Slow	212.0	
+WX	0175	Wareham	1 - Up	174.0	
+WX	0175	Wareham	2 - Down	174.0	
+WX	0175	West Byfleet	1 - Up Slow	245.0	
+WX	0175	West Byfleet	2 - Down Fast	245.0	
+WX	0175	West Byfleet	3 - Down Slow	245.0	
+WX	0175	Weybridge	1 - Up Bay Platform	205.0	
+WX	0175	Weybridge	2 - Up Slow	233.0	
+WX	0175	Weybridge	3 - Down Slow	250.0	
+WX	0175	Weymouth	1	120.0	
+WX	0175	Weymouth	2	272.0	
+WX	0175	Weymouth	3	272.0	
+WX	0175	Whimple	Single	78.0	Down direction
+WX	0175	Whimple	Single	78.0	Up direction
+WX	0175	Whitchurch	1 - Up	219.0	
+WX	0175	Whitchurch	2 - Down	219.0	
+WX	0175	Whitton	1 - Up	206.0	
+WX	0175	Whitton	2 - Down	206.0	
+WX	0175	Wimbledon	5 - Up Slow	230.0	Down direction
+WX	0175	Wimbledon	5 - Up Slow	230.0	Up direction
+WX	0175	Wimbledon	6 - Up Fast	230.0	Down direction
+WX	0175	Wimbledon	6 - Up Fast	230.0	Up direction
+WX	0175	Wimbledon	7 - Down Fast	230.0	
+WX	0175	Wimbledon	8 - Down Slow	225.0	
+WX	0175	Winchester	1 - Up	247.0	
+WX	0175	Winchester	2 - Down	247.0	
+WX	0175	Winchfield	1 - Up Slow	161.0	
+WX	0175	Winchfield	2 - Down Slow	198.0	
+WX	0175	Windsor and Eton Riverside	1 - Up	217.0	
+WX	0175	Windsor and Eton Riverside	2 - Down	218.0	
+WX	0175	Winnersh	1 - Up	168.0	
+WX	0175	Winnersh	2 - Down	166.0	
+WX	0175	Winnersh Triangle	1 - Up	166.0	
+WX	0175	Winnersh Triangle	2 - Down	166.0	
+WX	0175	Witley	1 - Up	165.0	
+WX	0175	Witley	2 - Down	165.0	
+WX	0175	Woking	1 - Up Slow	253.0	Down direction
+WX	0175	Woking	1 - Up Slow	253.0	Up direction
+WX	0175	Woking	2 - Up Fast	254.0	Down direction
+WX	0175	Woking	2 - Up Fast	251.0	Up direction
+WX	0175	Woking	3 - Up Bay	255.0	
+WX	0175	Woking	4 - Down Fast	252.0	Down direction
+WX	0175	Woking	4 - Down Fast	256.0	Up direction
+WX	0176	Woking	5 - Down Slow	289.0	Down direction
+WX	0176	Woking	5 - Down Slow	275.0	Up direction
+WX	0176	Woking	6 - Down Bay	127.0	
+WX	0176	Wokingham	1 - Up	209.0	
+WX	0176	Wokingham	2 - Down	273.0	
+WX	0176	Wool	1 - Up	123.0	
+WX	0176	Wool	2 - Down	118.0	
+WX	0176	Woolston	1 - Up	150.0	
+WX	0176	Woolston	2 - Down	150.0	
+WX	0176	Worcester Park	1 - Up	208.0	
+WX	0176	Worcester Park	2 - Down	206.0	
+WX	0176	Worplesdon	1 - Up	246.0	
+WX	0176	Worplesdon	2 - Down	246.0	
+WX	0176	Wraysbury	1 - Up	172.0	
+WX	0176	Wraysbury	2 - Down	166.0	
+WX	0176	Yeovil Junction	1 - Up Passenger Loop	185.0	Down direction
+WX	0176	Yeovil Junction	1 - Up Passenger Loop	153.0	Up direction
+WX	0176	Yeovil Junction	2 - Down	160.0	Down direction.
+WX	0176	Yeovil Junction	2 - Down	152.0	Up direction
+WX	0176	Yeovil Pen Mill	1 - Crossing Loop in Single Line	175.0	Down direction
+WX	0176	Yeovil Pen Mill	1 - Crossing Loop in Single Line	189.0	Up direction
+WX	0176	Yeovil Pen Mill	2 - Crossing Loop in Single Line	163.0	Down direction
+WX	0176	Yeovil Pen Mill	2 - Crossing Loop in Single Line	163.0	Up direction
+WX	0176	Yeovil Pen Mill	3 - Single	162.0	Down direction only
+WX	0176	Yetminster	Single	93.0	Down direction
+WX	0176	Yetminster	Single	93.0	Up direction
