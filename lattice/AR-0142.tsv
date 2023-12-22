@@ -1,0 +1,39 @@
+Southend Central		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+For trains to/from Platforms 1 & 4	Via slow speed crossover	{1⁄2}
+""		
+Dwell Time	Applies to Class 357 timing loads only	1
+""		
+Splitting and Coupling of trains permitted	Platforms 1 and 4 only	
+Shoeburyness Depot London End Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Crossing movement pass Shoeburyness DepotLondon End Junction"	Depart from Shoeburyness station to Up Main	1
+Shoeburyness		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Departure from platform 1 towards Thorpe Bay	Arrival into any platform	4
+"Departure from platforms 2 or 3 towardsThorpe Bay"	Conflicting arrival	3
+""		
+Length Limits		
+Platform 1 Reversing Moves		40 SLUs
+Platform 2 Reversing Moves		42 SLUs
+Platform 3 Reversing Moves		29 SLUs
+""		
+Splitting and Coupling of trains permitted	All platforms	
+"EA1390 BARKING TILBURY LINE JUNCTION EAST TO PITSEA JUNCTION (VIATILBURY)"		
+""		
+All Junctions		
+""		
+Junction Margins		
+Movement		Margin
+Fouling moves		"3 unlessotherwisespecified"
+Ripple Road Junction		
+""		
+Junction Margin		
+First Movement	Second Movement	Margin
+Up train pass/depart Barking Platform 8	"Up freight depart Ripple Road Junction /Ripple Lane Signal UR846"	"See entry onEA1380 atBarking"

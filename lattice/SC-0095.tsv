@@ -1,0 +1,24 @@
+Larkfield Junction and Polmadie West End		
+Pass Up Clydesdale to Up Slow / Up Fast	Pass Down Fast	3
+Pass Up Slow to Up Clydesdale	Pass Down Fast	3
+Pass Down Slow to Down Clydesdale	Pass Down Fast	3
+"Pass from Polmadie Up / Down Clydesdale toDown Slow"	Pass Down Fast	31⁄2
+Pass from Down Muirhouse	Pass to Terminus Junction from Shawfield	31⁄2
+Pass from Down Muirhouse	"Depart Polmadie Up / Down Clydesdale toTerminus Junction"	1
+Pass to Terminus Junction	Pass from Down Muirhouse	3
+Pass to Terminus Junction	Pass from Terminus Junction (when conflicting)	"31⁄2 MU4 LH"
+Pass to Up Muirhouse	Pass from Terminus Junction (when conflicting)	"31⁄2 MU4 LH"
+""		
+"RestrictionsOnly one train can stand or be on line between Muirhouse South Junction and Larkfield Junction at any one time.An Up train going into Polmadie CMD must have 1⁄2 minute OP stop on DS before going forward to depot."		
+Eglinton Street Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves		2
+Bridge Street Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves (except stated below)		2
+"Train routed via Line 4 towards MuirhouseJunction/Eglinton Street Junction"	"Train routed towards Glasgow Central on Line4 from Muirhouse Junction/Eglinton StreetJunction"	3
+"Train routed on the Down Ayr towards ShieldsJunction"	"Train passes Bridge Street Junction towardsGlasgow Central from the Smithy Lye (ThroughSiding)"	3

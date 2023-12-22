@@ -1,0 +1,51 @@
+STATION	PLATFORM	"USABLELENGTH"	NOTES
+""		In metres	
+Reading	11	272	Between car stops
+Reading	11a (east)	127	Between car stop and rear clear
+Reading	11b (west)	135	Between car stop and rear clear
+Reading	12	272	Between car stops
+Reading	12a (east)	132	Between car stop and rear clear
+Reading	12b (west)	130	Between car stop and rear clear
+Reading	13	272	Between car stops
+Reading	13a (east)	132	Between car stop and rear clear
+Reading	13b (west)	130	Between car stop and rear clear
+Reading	14	272	Between car stops
+Reading	14a (east)	132	Between car stop and rear clear
+Reading	14b (west)	130	Between car stop and rear clear
+Reading	15	272	Between car stops
+Reading	15a (east)	132	Between car stop and rear clear
+Reading	15b (west)	130	Between car stop and rear clear
+Reading West	1 (Down)	276	
+Reading West	2 (Up)	157	
+Reading West	2 (Up)	93	Top of ramp (Westbury end) to mirror
+Redland	Single	120	Usable lengths inside the barrier
+Redruth	1	169	
+Redruth	2	173	
+Rhiwbina	Single	107	
+Rhoose	1	100	
+Rhoose	2	100	
+Rhymney	Single	127	Top of ramp to stop board
+Risca	1	97	
+Risca	2	97	
+Roche	Single	89	
+Rogerstone	Single	97	
+Ruabon	Down	198	
+Ruabon	Up	158	
+Saltash	1	124	
+Saltash	2	83	Top of ramp to signal
+Sandplace	Single	30	
+Sarn	Single	84	
+Saundersfoot	Single	105	
+Sea Mills	Single	118	Usable lengths inside the barrier
+Severn Beach	Single	121	"Usable lengths inside the barrier.  Marked up for 2car use."
+Severn Tunnel Jn	"1 (DownMain Line)"	145	
+Severn Tunnel Jn	"2 (Up MainLine)"	171	
+Severn Tunnel Jn	"3 (DownTunnel)"	171	
+Severn Tunnel Jn	"4 (UpTunnel)"	171	
+Shiplake	Single	182	
+Shiplake	Single	173	Top of ramp to stop board (Henley end)
+Shiplake	Single	105	Top of ramp (Henley end) to nearest mirror
+Shiplake	Single	149	Top of ramp (Henley end) to furthest mirror
+Shipton	Down	80	
+Shipton	Up	56	
+Shirehampton	Single	128	Usable lengths inside the barrier

@@ -1,0 +1,16 @@
+SO250D FALCON JUNCTION TO LATCHMERE JUNCTION (NO 1)			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+Clapham Junction	Factory Junction	"07.00 – 10.0016.00 – 19.00"	"To and from Platforms 16 and 17 andBrighton Slow Lines"
+SO500 LONDON VICTORIA TO BRIGHTON			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+""			
+Clapham Junction	Falcon Junction	"07.00 – 10.0016.00 – 19.00"	"To and From Platforms 16 and 17 andBrighton Slow Lines"
+""			
+ROUTE SECTIONS			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+""			
+"London Victoria / ThreeBridges"	"It is intended torestrict usage to90% of capacity"	"06.00 – 21.00EWD"	"In peak periods no more than 20 trains perhour will be permitted on the fast Lines"
+"London Victoria andBalcombe Tunnel Junction"	"The capacity isrestricted to twotrack railway"	"SUNDAYS:No more thanthe currentlevel of service"	"Two Track railway timetables on Sundaysare detailed in the Engineering AccessStatement and also in section 6.3 Two-Track Timetable Railway of the TimetablePlanning Rules."
+SO645 BATTERSEA PARK TO PECKHAM RYE (ATLANTIC LINES)			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+Factory Junction	Factory Junction	"07.00 – 09.4516.00 – 19.00"	"From Longhedge Junction toAtlantic/Chatham Lines"

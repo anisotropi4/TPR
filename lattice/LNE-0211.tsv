@@ -1,0 +1,32 @@
+""									
+Kildale	
+""	
+Dwell Time	
+All	1⁄2.
+Commondale	
+""	
+Dwell Time	
+All	1⁄2
+Castleton Moor	
+""	
+Dwell Time	
+All	1⁄2
+Danby	
+""	
+Dwell Time	
+All	"1⁄2** 1 for 07XX Middlesbrough to Whitby/16XX Whitby to Middlesbrough"
+""	
+Glaisdale	
+""	
+Dwell Time	
+All	3 when trains do not cross
+""	5 when train cross
+"Note: Arrive/depart margin depends on sequence on which each driver relinquishes token, as follows:•Xx:00. 1st train arrive, relinquishes token•Xx:01: 2nd train arrive, relinquishes token; collects token•Xx:05: 1st train collects token and departs•Xx:06: 2nd train departsAlthough trains can arrive simultaneously, a minimum of 1 minute difference must be shewn as signaler cannotcommunicate with two or more drivers at once"	
+Egton	
+""	
+Dwell Time	
+All	"1⁄2** 1 for 07XX Middlesbrough to Whitby/16XX Whitby to Middlesbrough"
+Grosmont	
+""	
+Dwell Time	
+All	1

@@ -1,0 +1,40 @@
+""	Barton & Broughton		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive Down Passenger Loop	Down train pass to Garstang & Catterall	4
+""	Down train pass to Garstang & Catterall	Depart Down Passenger Loop	2
+Oubeck		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Up Goods Loop	Up train depart or passes Lancaster	Simultaneous
+Up train pass Lancaster	Depart Up Goods Loop	4
+Up train departs Lancaster	Depart Up Goods Loop	51⁄2
+Arrive Down Goods Loop	Down train pass Lancaster	61⁄2
+Arrive Down Goods Loop	Down train arrive Lancaster	71⁄2
+Down train arrives or passes  Lancaster	Depart Down Goods Loop	Simultaneous
+""	Lancaster South Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Depart or pass Lancaster to Up Main	Depart Lancaster South Jn to Up Main	3
+""			
+""	Planning Restrictions		
+""	"The maximum length train that can be held at signal PN223 at Lancaster South Jn to avoid fouling the Up Main toplatform 4 at Lancaster is 775m."		
+""	"The maximum length train that can be held at signal PN223 at Lancaster South Jn to be clear of platform 5 is467m"		
+""	The overlap from signal PN223 continues to the Up Main – see Junction Margins for Lancaster for further detail.		
+""	Lancaster		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Down Main to platforms 4 and 5	Approach control and slow speed turnout	11⁄2
+""			
+""	Movement Up	Reason	Value
+""	"Up Main to platforms 1, 2, 3 and 5 fromCarnforth North Jn"	Approach control and slow speed turnout	1
+""	"Up Main to platforms 1, 2, 3 and 5 from BareLane"	"Slow speed crossover at Morecambe South Jnand approach control at Lancaster"	11⁄2
+""	Up Main to platform 4 from Bare Lane	Slow speed crossover at Morecambe South Jn	1
+""	Pass Lancaster on Up Main from Bare Lane	Slow speed crossover at Morecambe South Jn	1⁄2
+""			
+""	Connectional Allowance	6	
+""			

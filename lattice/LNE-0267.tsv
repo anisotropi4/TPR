@@ -1,0 +1,32 @@
+Greetland Junction
+""
+"Note:•Trains from Huddersfield, going to Halifax, must include all allowances for acceleration and ApproachControl, as shown under Bradley Wood and Greetland Junctions"
+Brighouse	
+""	
+Dwell Time	
+180	11⁄2 - May be reduced to 1 with prior agreement from the operator
+Bradley Wood Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Westbound	Reason	Value
+Trains from Bradley Jn	Acceleration from 20mph turnout	"1⁄2 To beapplied afterBradley WoodJunction"
+Movement Eastbound	Reason	Value
+Trains going to Bradley Junction	Approach Control	"1⁄2. To beappliedapproachingBradley WoodJunction"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Bradley Junction	Up Freight pass from Heaton Lodge Junction	4
+Pass to Bradley Junction	"Up Passenger/Light Engine pass from HeatonLodge Junction"	31⁄2
+Pass to Bradley Junction	Depart Up L&Y towards Brighouse	2
+"Pass from Bradley Junction/Heaton LodgeJunction"	Pass to Bradley Junction	2
+Heaton Lodge Junction (for Up Trains only) NB Copy at LN860		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Up Fast	Depart Up Slow, towards same route	2
+Pass Up Fast	Depart Up Slow, towards different route	11⁄2
+Pass Up Fast or Up Slow	"Pass from Up Fast or Up Slow towards eitherroute"	21⁄2
+Passenger/Light Engine depart Up Slow	Pass Up Fast going to either route	31⁄2
+Freight depart Up Slow	Pass Up Fast going to either route	4
+""		
+"Note:•Normally trains from Dewsbury on Up Slow Line timed to be passed by a train on the Up Main, should betimed to stop at Heaton Lodge Jn"		

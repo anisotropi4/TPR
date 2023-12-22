@@ -1,0 +1,32 @@
+Rose Street		
+""		
+Dwell Time		
+RETB Duties (Up)	1	
+RETB Duties (Down)	3	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass Clachnaharry	"Depart Inverness to Inverness NorthLoops (for shunting purposes only)"	1*
+*May be simultaneous for moves that remain within I427 or I429 signals		
+""		
+"RestrictionStandage on the Rose Street curve (between signals I410 and I413) is 244m."		
+Rose Street Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/arrive Rose Street or TMD from North	Depart Inverness to North	1
+Arrive Inverness	Pass/Depart Rose Street	1
+Inverness North Loops		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass/Arrive Rose Street or Arrive Invernessfrom North"	Depart loops to North	1*
+Arrive loops from East/South	Pass Clachnaharry from North	3*
+"* It is advisable to avoid using the bi-directional Loops (Up North/Down North), for planning purposes, from eitherthe Millburn Junction or Inverness station directions, owing to restrictive speeds and overlaps, resulting in little orno time advantage being gained."		
+"RestrictionStandage of the Up North (between signals I424 and I429) and Down North (between signals I422 and I427) is188m"		
+Clunes TEP
+""
+"All trains must stop for token exchange purposes, unless a Long Section Token has been issued at theprevious Token Exchange Point."
+Muir of Ord
+""
+All trains must stop for token exchange purposes

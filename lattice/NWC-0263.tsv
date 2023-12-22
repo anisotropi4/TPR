@@ -1,0 +1,30 @@
+Bicester Depot Reception Lines			
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"For services stopping or terminating in theReception Lines/Depot"	"Entering Reception Line on Ground PositionLight Signal"	1⁄2
+""	Bicester Village		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Down train arrives or passes from ClaydonWest Jn"	Up train routed towards Bicester Gavray Jn	1
+""			
+""	Dwell Time		
+""	Class 196	1	
+""	Bicester Gavray Junction		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass to Princes Risborough	Passenger Pass from Claydon West Junction	2
+""	Pass to Princes Risborough	Freight Pass from Claydon West Junction	21⁄2
+""	Winslow	
+""		
+""	Dwell Time	
+""	Class 196	1
+""	Bletchley High Level	
+""		
+""	Dwell Time	
+""	Class 196	1
+""	Denbigh Hall South Jn
+""	
+""	See entry under route MD101 Euston to Armitage Jn (exclusive)

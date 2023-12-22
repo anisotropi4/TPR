@@ -1,0 +1,49 @@
+"SMART and ODAdata"	SMART and ODA
+data	
+Data Source	Data Source		Who owns			here is the		Pros	Pros	Cons	Cons
+""		the data?	eed from?								
+Live observations	N/A	Station	"oProvides a rounded viewof the dispatch processoProvides insight intowhy a data source isreturning a particularresultoCan check accuracy ofberth offsets"	"oLow sample sizesoManual processintroduces variance"							
+"SMART and ODAdata"	SMART and ODA	"NR CapacityPlanning"	NR Capacity	Signal berths	ignal berths	"oHigh sample sizesoCovers a widegeographical areaoAnalysis can be filteredto a very granular leveloEarly arrivals can beremoved or default toplanned WTT arrivaltimeo90% of locations arecovered by signal berthdata"	High sample sizes		oReliant on the use of		
+data	Planning	Covers a wide	berth offsets								
+""							geographical area	oTrain length sometimes			
+""							Analysis can be filtered	not known			
+""							to a very granular level	oCharacteristics on the			
+""							Early arrivals can be	day not recorded			
+""							removed or default to	oExternal factors such			
+""							planned WTT arrival	as engineering blocks			
+""							time	need cross-referencing			
+""							90% of locations are	oFor ODA data there is			
+""							covered by signal berth	a lag of 6-12 weeks			
+""							data	before data is			
+""									uploaded into the tool		
+QUARTZ data	"AmeyConsultingown theprogramme.NR supply thetiming dataandNR/Operatorstation staffcan makeinterventions"	Signal berths	"oStation staff cancomment on individualtimes.oProvides insight into anoverall journey – candemonstrate a rippleeffectoShows perceived trends– worst performingtrains, worst performinghours, worst delay byday, etc . . ."	"oUses berth offsets toprovide a dwell valueoClasses dwelladherence as within20-secondsoData gets archivedafter a set period"							
+GPS & OTMR data	GPS & OTMR data	Operators	Operators	GPS on train	PS on train		High sample sizes		"oRelies on GPSaccuracyoAccessibility – canrequire download fromindividual units"	oRelies on GPS	
+Does not rely on berth	accuracy										
+offset averages	oAccessibility – can										
+Analysis can be filtered	require download from										
+to a very granular level	individual units										
+Early arrivals can be											
+removed											
+"NR CapacityPlanning"	NR Capacity
+Planning	
+Signal berths	ignal berths
+"oHigh sample sizesoCovers a widegeographical areaoAnalysis can be filteredto a very granular leveloEarly arrivals can beremoved or default toplanned WTT arrivaltimeo90% of locations arecovered by signal berthdata"	High sample sizes
+Covers a wide	
+geographical area	
+Analysis can be filtered	
+to a very granular level	
+Early arrivals can be	
+removed or default to	
+planned WTT arrival	
+time	
+90% of locations are	
+covered by signal berth	
+data	
+GPS & OTMR data	GPS & OTMR data
+Operators	Operators
+GPS on train	PS on train
+"oRelies on GPSaccuracyoAccessibility – canrequire download fromindividual units"	oRelies on GPS
+accuracy	
+oAccessibility – can	
+require download from	
+individual units	

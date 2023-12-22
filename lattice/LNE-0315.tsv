@@ -1,0 +1,47 @@
+STATION	PLATFORM	"USABLELENGTH"	NOTES
+""			
+Leeds	"ThroughRoad (fulllength)"	327	
+Leeds	"ThroughRoad West"	100	
+Leeds	"ThroughRoad East"	105	
+Letchworth	Down	184	
+Letchworth	Up	184	
+Lincoln	1	92	
+Lincoln	2	54	
+Lincoln	3	144	
+Lincoln	4	144	
+Lincoln	5	165	
+Lockwood	Single	65	
+London King’s Cross	0	305	"Buffer stop to end of platform. Buffer to signalis 329m, which may be used by CaledonianSleeper services only."
+London King’s Cross	1	304	Buffer stop to end of platform
+London King’s Cross	2	285	Buffer stop to end of platform
+London King’s Cross	3	289	Buffer stop to end of platform
+London King’s Cross	4	290	Buffer stop to end of platform
+London King’s Cross	5	270	Buffer stop to end of platform
+London King’s Cross	6	288	Buffer stop to end of platform
+London King’s Cross	7	288	Buffer stop to end of platform
+London King’s Cross	8	289	Buffer stop to end of platform
+London King’s Cross	9	176	Buffer stop to end of platform
+London King’s Cross	10	176	Buffer stop to end of platform
+Longbeck	Down	84	
+Longbeck	Up	83	
+Low Moor	1	96	
+Low Moor	2	96	
+Malton		150	
+Manors	Down	84	
+Manors	Up	82	
+Market Rasen	Down	71	
+Market Rasen	Up	74	
+Marsden	Down	100	
+Marsden	Up	99	
+Marsden	"UpPassengerLoop"	698	
+Marske	Down	137	
+Marske	Up	134	
+Marton	Single	81	
+Meadowhall	1	105	
+Meadowhall	2	105	
+Meadowhall	3	105	
+Meadowhall	4	105	
+Menston	Down	98 143	
+Menston	Up	98	
+Metheringham	Down	57	
+Metheringham	Up	57	

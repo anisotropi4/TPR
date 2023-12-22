@@ -1,0 +1,44 @@
+Station	Platform	"EffectiveLength m"	Notes
+East Tilbury	1 (Up)	247	
+East Tilbury	2 (Down)	245	
+Eccles Road	1 (Down)	77	
+Eccles Road	2 (Up)	77	
+Edmonton Green	1 (Up)	188.1	10-car 720 permitted with ASDO operation
+Edmonton Green	2 (Down)	188.7	10-car 720 permitted with ASDO operation
+Elmswell	1 (Up)	77	
+Elmswell	2 (Down)	54	4-car 755 permitted with ASDO operation
+Elsenham	1 (Up)	165	10-car 720 permitted with ASDO operation
+Elsenham	2 (Down)	167	10-car 720 permitted with ASDO operation
+Ely	1 (Down)	256	10-car 720 NOT permitted into this platform
+Ely	2 (Up)	256	
+Ely	3 (Loop)	256	
+Emerson Park	Single	87.5	
+Enfield Lock	1 (Up)	167	10-car 720 permitted with ASDO operation
+Enfield Lock	2 (Down)	165	10-car 720 permitted with ASDO operation
+Enfield Town	1	182.5	
+Enfield Town	2	182.5	
+Enfield Town	3	176.2	
+""			
+Felixstowe	Single	127	(90m in operational use)
+Fenchurch Street	1	250	
+Fenchurch Street	2	250	
+Fenchurch Street	3	250	
+Fenchurch Street	4	250	
+Finchley Rd & Frognal	1 (Westbound)	106	
+Finchley Rd & Frognal	2 (Eastbound)	128	
+Forest Gate	1 (Up Electric)	173	9-car 345 permitted with ASDO operation
+Forest Gate	2 (Down Electric)	178	"The Driver MUST gain Signallers authorityunder S5 of RSSB Rule Book for 9-carreversals at these locations"
+Forest Gate	3 (Up Main)	190	"The Driver MUST gain Signallers authorityunder S5 of RSSB Rule Book for 9-carreversals at these locations"
+Forest Gate	4 (Down Main)	198	"The Driver MUST gain Signallers authorityunder S5 of RSSB Rule Book for 9-carreversals at these locations"
+Foxton	1 (Up)	105	"Trains longer than 5 cars can call providingthey are equipped with SDO (Selective DoorOpening) equipment"
+Foxton	2 (Down)	174	
+Frinton-on-Sea	Single	179	
+""			
+Gidea Park	1 (Up Main)	211	
+Gidea Park	2 (Down Main)	211	
+Gidea Park	3 (Up Electric)	227	
+Gidea Park	4 (Down Electric)	228	
+Goodmayes	1 (Up Main)	212	
+Goodmayes	2 (Down Main)	212	
+Goodmayes	3 (Up Electric)	212	
+Goodmayes	4 (Down Electric)	212	

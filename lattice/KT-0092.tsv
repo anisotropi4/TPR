@@ -1,0 +1,29 @@
+Swanley			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason	Value	
+"Pass Down Chatham Slow to DownMaidstone"	"Approach Control signal VS251 for20mph using 895 crossovers"	"{1} and also {1⁄2}approaching next timingpoint"	
+Freight from Down Slow towards Otford	Speed Differential	11⁄2	
+"Freight from Down Fast towards FawkhamJunction"	Speed Differential	"1 Class 4 800T or less11⁄2 Class 4 over 800T1⁄2 Class 6 1200T or less1 Class 6 over 1200T"	
+""			
+"Applies to the following Timing Loads for trains crossing from Down Chatham Fast Line to Down Chatham MainLine:"			
+Class 6 up to 1200t / TR70 inclusive	Speed Differential	"{1⁄2} approaching nexttiming point"	
+Class 6 1400t / TR85 and above	Speed Differential	"{1} approaching nexttiming point"	
+Class 4 up to 800t / TR40 inclusive	Speed Differential	"{1} approaching nexttiming point"	
+Class 4 1000t and above	Speed Differential	"{11⁄2} approaching nexttiming point"	
+"Down Passenger / ECS not stopping atSwanley"	Speed Differential	"{1} approaching nexttiming point"	
+Freight up to 1200T inclusive at 60mph	Speed Differential	1⁄2	
+"Freight between 1201-2400T inclusive at60mph"	Speed Differential	1	
+"Freight up to 800T inclusive of Containers at75mph"	Speed Differential	1	
+"Freight between 801 - 1600T inclusive ofContainers at 75mph"	Speed Differential	1 1⁄2	
+""			
+Movement Up	Reason	Value	
+Freight from Otford to Up Slow Line	Speed Differential	11⁄2*	
+Freight from Otford to Up Fast Line	Speed Differential	"1* Class 41⁄2* Class 6 1200T or less1* Class 6 over 1200T"	
+"Freight from Fawkham Junction to Up FastLine"	Speed Differential	11⁄2*	
+Pass Up Maidstone to Up Chatham Slow	Speed differential	"{1⁄2} and also {1}approaching next timingpoint"	
+Up Chatham Main to Up Chatham Fast	"Approach Control signal VS254 for30mph using 889-893 crossoversSpeed differential"	"{1} if not stopping atSwanley{1⁄2} if stopping at Swanley{1⁄2} approaching nexttiming point if notstopping at Swanley"	
+*applied approaching next timing point			
+""			
+Connectional Allowance	4		
+""			

@@ -1,0 +1,27 @@
+SC011 LAW JUNCTION TO UDDINGSTON JUNCTION (VIA HOLYTOWN)		
+""		
+Wishaw		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train to Shieldmuir, not stopping Wishaw	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/Arrive from Shieldmuir	Depart to Shieldmuir or Holytown	1⁄2
+Depart/pass to Holytown	Pass/arrive from Shieldmuir	31⁄2*
+*May be reduced by 1⁄2 if equivalent (pathing time) inserted between Shieldmuir and Wishaw		
+Holytown / Holytown Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/arrive from Shotts	Pass to Wishaw	3
+Pass/arrive from Shotts	Depart to Wishaw	1
+Depart/pass to Wishaw	Pass/arrive from Shotts (not stopping Carfin)	3
+Depart/pass to Wishaw	Down depart Carfin	1
+""		
+"RestrictionsPathing time must not be used between Holytown Junction and Holytown, due to there being no intermediatesignals."		
+""	due to there being no intermediate	
+signals.		
+"RestrictionsPathing time must not be used between Holytown Junction and Holytown, due to there being no intermediatesignals."
+due to there being no intermediate

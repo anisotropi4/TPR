@@ -1,0 +1,27 @@
+""	LN736 CLEETHORPES TO NUNNERY MAIN LINE JUNCTION VIA RETFORD			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Cleethorpes to Brocklesby	"Down4All stationscan depart 3minutesbehind non–stop."	"Up4Non–stopcan arrive3 minutesbehind allstations"	
+""	Brocklesby to Barnetby	"5 DM8 DG"	"45 FollowingFreightover 800tonnes"	
+""	Barnetby to Wrawby Junction	"4 FollowingPassenger5 FollowingFreight"	"45 FollowingFreightover 800tonnes"	
+""	Wrawby Junction to Brigg	6*	6*	* Single line TCB
+""	Brigg to Kirton Lime Sidings	AB+2	AB+2	
+""	"Kirton Lime Sidings toGainsborough Central"	9**	8**	** Single line TCB Passing loop at Northorpe
+""	"Gainsborough Trent Junction toRetford"	5	5	
+""	Retford to Worksop	6	5	
+""	"Worksop to Brancliffe EastJunction"	4	4	
+""	"Brancliffe East Junction to KivetonPark"	AB+2*	AB+2*	*TCB To be planned as AB
+""	"Kiveton Park to WoodhouseJunction"	AB+2	AB+2	
+""	"Woodhouse Junction to WoodburnJunction"	AB+2	AB+2	
+""	"Woodburn Junction to NunneryMain Line"	4	4	
+""	LN740 GRIMSBY MARSH WEST JUNCTION TO HUMBER ROAD JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Marsh West Junction to GreatCoates No. 1"	AB+2	AB+2	
+""	"Great Coates No. 1 to PyewipeRoad SB"	AB+2*	*Single Line AB	
+""	"Pyewipe Road SB to ImminghamEast Junction"	AB+2*	*One train in section, ETB	
+""	"Immingham East Jn to HumberRoad Jn"	AB+2*	AB+2*	*TCB planned as AB
+""	LN741 HABROUGH JUNCTION TO ULCEBY SOUTH JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Habrough Junction to Ulceby	4	4	

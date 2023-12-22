@@ -1,0 +1,36 @@
+Kensal Green Junction
+""
+""
+Restrictions
+"Trains from Willesden Junction High Level may not have timing allowances (apart from adjustment allowance asspecified below) applied at Kensal Green Junction as there are no signals between Willesden Junction High Leveland Kensal Green Junction. Also trains from Willesden Junction High Level cannot be planned to stop betweenWillesden Junction High Level and Kensal Green Junction. Only trains from Harlesden Junction (MD155) or fromWillesden Junction Low Level (MD150) may be planned to stop in the Eastbound (Up) direction."
+"For ARS regulating purposes, in the Eastbound (Up) Direction ARR and DEP times with activities A and * to beused in place of pathing time for trains which have been timed passing Harlesden Junction (Route MD155)"
+Willesden Junction High Level		
+""		
+Dwell Time	"11⁄2 peak1 off peak1 minute for arrivals which are going forward as ECS1 minute for departures which have arrived as ECS"	
+""		
+Junction Margins		
+Movement		Margin
+Fouling move		21⁄2
+""		
+Minimum Turnround Time	Eastbound departure from Westbound platform	5
+""		
+Platform Reoccupation	"3 following freight2 following passenger"	
+Acton Wells Junction		
+""		
+Junction Margins		
+Movement		Margin
+Fouling move following passenger		21⁄2
+Fouling move following freight		3
+""		
+Freight Train Restriction – Down Freight Trains towards Acton Main Line or Acton TC		
+"Freight Trains in the Down Direction from the Down Poplars to the Down Goods Line which are booked to changetraincrew at Acton Main Line stop adjacent to SN182 signal on the Down Goods.It is not possible to route a second down train from Acton Wells Junction towards the Down Goods or Down Reliefor Acton TC until the first train has drawn forward from signal SN182 to signal SN197 signal at Acton West"		
+Acton Central		
+""		
+Dwell Time	Dwell time to include traction type changeover	1
+South Acton		
+""		
+Junction Margins		
+Movement		Margin
+Fouling move		21⁄2
+""		
+Minimum Turnround Time		5

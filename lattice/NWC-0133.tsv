@@ -1,0 +1,29 @@
+""	MD160 WILLESDEN HIGH LEVEL JN TO MITRE BRIDGE JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Willesden High Level Jn to MitreBridge Jn"	3	3	
+""	MD166 NORTH POLE JN TO WEMBLEY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Mitre Bridge Jn to Willesden WestLondon Jn"	TCB	TCB	Planned as AB
+""	"Willesden West London Jn toWillesden No.7"	5	5	
+""	"Willesden No.7 to WembleyCentral"	5	5	
+""	MD167 MITRE BRIDGE JN TO ACTON WELLS JN (SOUTH WEST LINES)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Mitre Bridge Jn to Willesden WestLondon Jn"	TCB	TCB	Planned as AB+2
+""	"Willesden West London Jn toWillesden South West Sidings"	TCB	TCB	Planned as AB+2
+""	"Mitre Bridge Jn to Willesden SouthWest Sidings (via Willesden SouthWest Goods Lines)"	TCB	TCB	Planned as AB+2
+""	"Willesden South West Sidings toActon Wells Jn"	TCB	TCB	Planned as AB+2
+""	MD170 ACTON CANAL WHARF TO WILLESDEN JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Acton Canal Wharf to WillesdenJn"	TCB	TCB	Planned as AB+2
+""	MD175 BRACKMILLS TO NORTHAMPTON SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Brackmills to Northampton SouthJn"	10	10	
+""	MD180 RUGBY TRENT VALLEY JN TO NEW BILTON			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Rugby Trent Valley Jn to NewBilton"	*	* Single line - One train in Section (OTS)	

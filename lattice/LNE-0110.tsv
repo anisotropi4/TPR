@@ -1,0 +1,33 @@
+LN875 CASTLEFORD WEST JUNCTION TO PONTEFRACT WEST JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	"5Passenger6 Freight"	"5Passenger6 Freight"	
+LN880 YORK TO SCARBOROUGH			
+TIMING POINT	DOWN	UP	NOTES
+""			
+York to Strensall	6	6	
+Strensall to Barton Hill	AB+2	AB+2	
+Barton Hill to Kirkham Abbey	AB+2	AB+2	
+Kirkham Abbey to Malton	AB+2	AB+2	
+Malton to Weaverthorpe	AB+2	AB+2	
+Weaverthorpe to Seamer	AB+2	AB+2	
+Seamer to Scarborough	31⁄2	31⁄2	
+"LN882 WAKEFIELD KIRKGATE WEST JUNCTION TO GOOLE POTTERS GRANGEJUNCTION"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	4	4	
+Exceptions:			
+"Wakefield Kirkgate toOakenshaw Junction"	3	3	
+"Pontefract East Goods Junction toKnottingley West Junction"	3	3	
+"Knottingley East Junction toDrax Branch Junction"	"5 Pass6 Freight"	"5 Pass6 Freight"	
+"Drax Branch Junction toGoole Potters Grange Junction"	AB+2*	*Single Line TCB planned as AB	
+LN886 MONK BRETTON LOOP TO CROFTON EAST JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	"Only one train on thisline at one time."	"*Single Line, OTNS.  Monk Bretton loop can only beused for a locomotive run round."	
+"LN888 HATFIELD AND STAINFORTH (STAINFORTH JUNCTION) TOFERRYBRIDGE NORTH JUNCTION"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	4	4	
+Exceptions:			
+"Haywood Junction to KnottingleySouth Junction"	"4 Pass6 Freight"	"4 Pass6 Freight"	

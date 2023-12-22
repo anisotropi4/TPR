@@ -1,0 +1,38 @@
+Pirbright Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Down train towards Ash Vale	Speed Differential	{1⁄2}
+Farnborough London End
+""
+Adjustment to Sectional Running Times
+The standard {1⁄2} for changing lines is already included in the SRT’s
+Farnborough	
+""	
+Dwell Times	
+All Services	1
+"All Trains that stop additionally forthe Farnborough Air Show"	"To allow extra stops at this station during the Farnborough Air Show dwelltimes at surrounding stations may be reduced with agreement from theBusiness Manager. This is only permissible on dates of the Air Show"
+Farnborough Country End
+""
+Adjustment to Sectional Running Times
+The standard {1⁄2} for changing lines is already included in the SRT’s
+Fleet	
+""	
+Dwell Times	
+All Services	1
+Winchfield	
+""	
+Dwell Times	
+Class 450 Down services Only	1
+Basingstoke				
+""				
+Adjustment to Sectional Running Times				
+Movement	Reason	Value		
+"Down Class 159/22x crossing from Platforms 1,3 or 4 to Down Fast"	Speed Differential	{1⁄2}*		
+"Down Class 159/22x crossing from Platform 2 toDown Slow"	Speed Differential	{1⁄2}*		
+* Applies approaching next timing point.				
+"FL & SL for down freight trains passing from Southcote Junction. Allowances should be applied at thenext timing point after Basingstoke."				
+Train Class	Trailing Load	Reason	Value	
+Class 6	0 – 1000t	Up to TR55	Speed Differential	{1}
+""	1001 – 2400t	TR70 – TR130	Speed Differential	{11⁄2}
+Class 4	0 – 600t	TR30	Speed Differential	{1}

@@ -1,0 +1,35 @@
+Planning Restriction
+"Pathing time should not be used between Whatley Quarry and Frome North Jn due to adverse gradients.Pathing time should not be used between Frome and Frome North Jn as there are no intermediate signals."
+""
+Planning Note
+Freight trains to/from Whatley Quarry do not require adjustment time as the SRT is based on the slower route.
+""	Frome	
+""		
+""	Dwell Time	
+""	15x	1
+""		
+""	Turnround allowances	
+""		DMU
+""	From Weymouth/Bristol/Salisbury	10
+GW580 EAST SOMERSET JUNCTION TO CRANMORE		
+""		
+East Somerset Junction W324 Signal		
+""		
+Planning Note		
+Movements between East Somerset Jn & W324 Signal are outside the AB headway section		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up pass East Somerset Jn from Merehead QuarryJn"	Down Depart	2
+""		
+Overlap Restrictions		
+First Movement	Second Movement	Margin
+Down arrive	"UppassEastSomersetJnfromMereheadQuarry Jn"	5
+Merehead Quarry		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Train depart Whites Crossing to Merehead QuarryJn"	Depart to Whites Crossing	2
+""		
+Planning Notes		
+"-There are no conflicts between arriving and departing trains due to multiple arrival and departure lines-Arriving trains at Merehead Quarry should be routed directly from Merehead Quarry Jn.-Departing trains from Merehead Quarry should be routed to Whites Crossing, reverse move, then run to MereheadQuarry Jn."		

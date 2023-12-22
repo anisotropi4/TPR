@@ -1,0 +1,41 @@
+""	Dovey Jn and Dovey Jn Down Loop		
+""			
+""	Platform end conflicts		
+""	First Movement	Second Movement	Margin
+""	DMU from Aberystwyth into Down Loop	DMU from Machynlleth into platform 2b	4
+""	DMU from Aberystwyth into Down Loop	Loco Hauled from Machynlleth into platform 2b	5
+""	Loco Hauled from Aberystwyth into Down Loop	DMU from Machynlleth into platform 2b	4
+""	Loco Hauled from Aberystwyth into Down Loop	Loco Hauled from Machynlleth into platform 2b	51⁄2
+""	"DMU from Aberystwyth arrived clear in platform2a"	"DMU to Aberystwyth into platform 2b fromDown loop"	1⁄2
+""	"DMU from Aberystwyth arrived clear in platform2a"	"Loco hauled to Aberystwyth into platform 2bfrom Down loop"	1⁄2
+""	"Loco hauled from Aberystwyth arrived clear inplatform 2a"	DMU to Aberystwyth into platform 2b from loop	1⁄2
+""	"Loco hauled from Aberystwyth arrived clear inplatform 2a"	"Loco hauled to Aberystwyth into platform 2bfrom loop"	1⁄2
+""			
+""	DMU to Cambrian Coast into platform 1	DMU from Aberystwyth into platform 2a	Parallel
+""	DMU to Cambrian Coast into platform 1	Loco hauled from Aberystwyth into platform 2a	2
+""	Loco Hauled to Cambrian Coast into platform 1	DMU from Aberystwyth into platform 2a	Parallel
+""	Loco Hauled to Cambrian Coast into platform 1	Loco hauled from Aberystwyth into platform 2a	21⁄2
+""			
+""	"All movements from the Cambrian coast (Twywn) direction can arrive in platform 1 at the same time asmovements to/from platforms 2a or 2b and Down Loop"		
+""			
+""	Single line re-occupation		
+""	"Re-occupation of the single line toMachynlleth after a Coast bound(Twywn) or Aberystwyth boundtrain"	1⁄2	
+""	Borth	
+""		
+""	Dwell Time	1
+""	Bow Street	
+""		
+""	Dwell Time	1
+Aberystwyth	
+""	
+Turnround Allowance	
+Power	5
+""	GW734 DOVEY JUNCTION TO PWLLHELI		
+""			
+""	Tywyn		
+""			
+""	Dwell Time		
+""	Power	1	
+""			
+""	Platform end conflicts		
+""	First Movement	Second Movement	Margin

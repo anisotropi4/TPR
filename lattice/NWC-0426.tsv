@@ -1,0 +1,32 @@
+""	MD340 ASTON NORTH JN TO ALREWAS (EXCLUSIVE)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Daytime					
+""	Approaching Lichfield City	E	1*			"* Does not apply to services formed with323/730 units"
+""						
+""	Up – SX Daytime					
+""	Approaching Aston	E	1*			"* Does not apply to services formed with323/730 units"
+""	MD345 BESCOT JN TO RUGELEY NORTH JN (EXCLUSIVE)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Daytime					
+""	Approaching Walsall	E	1*			"* Does not apply to services formed byEMUs."
+""	"Approaching Rugeley PowerStation Jn"	E	1*			* Does not apply to all station services
+""						
+""	Up – SX Daytime					
+""	Approaching Ryecroft Jn	E	1*			* Does not apply to all station services
+""	"MD355 LICHFIELD TRENT VALLEY JN TO LICHFIELD TRENT VALLEY (CHORDLINE)"					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Daytime					
+""	"Approaching Lichfield Trent ValleyJn"	E	2			
+""	MD401 HEYFORD TO BORDESLEY JN					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Daytime					
+""	Approaching Leamington Spa	E	1			
+""	Approaching Tyseley	E	1			"Does not apply to West Midlands Trainsthat stop at all stations between Dorridgeand Acocks Green; for journeyscommencing from Whitlocks End; or a trainthat has Run Round on the Tyseley Upand Down Through Sidings"
+""						
+""	Up – SX Daytime					
+""	Approaching Leamington Spa	E	1*			"* Does not apply to services from MD415Hatton Station to Stratford–upon–Avonroute"
+""	Approaching Heyford	E	1*			"* Does not apply to services that start atBanbury."

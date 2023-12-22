@@ -1,0 +1,38 @@
+Camden Road	
+""	
+Dwell Time	1
+""	
+Platform Reoccupation	2
+Camden Road Central Junction		
+""		
+Junction Margins		
+""		Margin
+"Up Train travelling towards Camden Road onthe North London Line"	"Down Train travelling towards CopenhagenJunction on the North London Incline Line"	3
+"Down Train travelling towards CopenhagenJunction on the North London Incline Line"	"Up Train travelling towards Camden Road onthe North London Line"	3
+"For ARS regulating purposes, in the Westbound (Down) Direction ARR and DEP times with activities A and * to beused in place of pathing time for trains which have been timed passing York Road North Junction"		
+York Way North Junction		
+""		
+This Junction is on the North London Incline Line		
+Junction Margins		
+Movement		Margin
+Fouling move		21⁄2
+"Where trains are required to stand at Copenhagen Junction and are likely to be in excess of 630 metres in lengththen these should be held at York Way North Junction"		
+Camden Road East Junction
+""
+"For ARS regulating purposes, in the Westbound direction ARR and DEP times with activities A and * to be usedand not pathing time for trains routed on the Up NL line"
+Westbourne Road Junction		
+""		
+Junction Margins		
+Movement		Margin
+Fouling move		3
+"For ARS regulating purposes, in the Eastbound (Stratford) direction ARR and DEP times with activities A and * tobe used and not pathing time for trains routed on the Down RL Line"		
+Highbury Transfer Track ELL Down Direction Only
+""
+For ARS regulating purposes in the Down Direction ARR and DEP times with activity OP to be used
+Highbury Transfer Track ELL Up Direction Only
+""
+For ARS regulating purposes in the Up Direction ARR and DEP times with activity OP to be used
+Highbury & Islington		
+""		
+Dwell Time		"111⁄2 AM/PM peak"
+""		

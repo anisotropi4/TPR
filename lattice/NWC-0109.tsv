@@ -1,0 +1,40 @@
+""	NW7023 PHILIPS PARK WEST JN TO BREWERY JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Philips Park West Jn	–	–		"To/from Miles Platting Jn – NW7021To/from Phillips Park South Jn – NW7025"
+""	Brewery Jn	– DPL	–		To/from Thorpes Bridge Jn – NW7001
+""	NW7025 PHILIPS PARK WEST JN TO ASHBURYS WEST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Philips Park West Jn	–	–		To/from Miles Platting Jn – NW7021
+""	Philips Park South Jn	–	–		To/from Baguley Fold Jn – NW7027
+""	Ashburys West Jn				To/from Ashburys – NW5015
+""	NW7027 BAGULEY FOLD JN TO PHILLIPS PARK SOUTH JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Baguley Fold Jn	–	–		To/from Ashton Moss North Jn – NW7021
+""	Phillips Park South Jn	–	–		To/from Ashburys West Jn – NW7025
+""	NW8001 HUNTS CROSS WEST JN TO SOUTHPORT				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Hunts Cross West Jn	–	– UDE*		"To/from Hunts Cross – NW6003* – DC Electric services must use UDE(Single)"
+""	Liverpool South Parkway	–	–		Platform detail must be shown
+""	Cressington	–	–	S	Platform detail must be shown
+""	Aigburth	–	–	S	Platform detail must be shown
+""	St. Michaels	–	–	S	Platform detail must be shown
+""	Brunswick	–	–	S	Platform detail must be shown
+""	Start/End of Underground Section				57 chains from Liverpool Central
+""	Liverpool Central Reversing Siding	–		S	
+""	Liverpool Central South Jn				"To/from Liverpool Central ReversingSiding"
+""	Liverpool Central (Low Level)	–	–		Platform detail must be shown
+""	Liverpool Central North Jn				
+""	Paradise Jn	–	–	X	"Access to/from Down line only (bi–directional from/to Liverpool Central)To/from Stock Interchange Holding Line –NW8003"
+""	Moorfields (Low Level)	–	–		Platform detail must be shown
+""	"Leeds Street Portal – Start/end ofUnderground Section"				28ch from Moorfields
+""	Sandhills Reversing Siding	–		S	Access to/from Sandhills station only
+""	Sandhills	–	–		Platform detail must be shown
+""	Sandhills Jn				To/from Kirkdale – NW8005
+""	Bank Hall	–	–	S	Platform detail must be shown
+""	Bootle Jn	–	–	X	"To/from Bootle Branch Jn – NW2027To/from Aintree – NW8007"
+""	Bootle Oriel Road	–	–	S	Platform detail must be shown
+""	Bootle New Strand	–	–	S	Platform detail must be shown

@@ -1,0 +1,31 @@
+""	Brigg’s Ground Frame			
+""				
+""	"For departures towards Brigg’s Sidings (DowlowQuarry)/ Hindlow Quarry"	"For arrivals from Brigg’s Sidings (Dowlow Quarry) /Hindlow Quarry"		
+""	Buxton Up Relief Sidings dep	XX.XX	"Brigg’s Sidings (DowlowQuarry) / Hindlow Quarrydep"	XX.00
+""	Buxton SB arr	XX.XX *	Brigg’s Ground Frame arr	XX.05 £
+""	Buxton SB dep	XX.XX *	Brigg’s Ground Frame dep	XX.09 £
+""	Brigg’s Ground Frame arr	XX.00 $	Buxton SB arr	XX.XX *
+""	Brigg’s Ground Frame dep	XX.02 $	Buxton SB dep	XX.XX *
+""	"Brigg’s Sidings (Dowlow Quarry) /Hindlow Quarry arr"	XX.06	Buxton Up Relief Sidings arr	XX.XX
+""				
+""	* - a stop must be shown of one minute duration for a token exchange with the signaller.			
+""	"$ - a stop must be shown of two minute duration for a shunter to meet the driver, walk and operate Briggs GroundFrame to arrive a train. For services to Hindlow Quarry only, if the locomotive is required to run round upon arrivalat Briggs GF, the minimum dwell is increased to 25 minutes. No other train may depart from either Dowlow Quarryor Buxton SB until the run round is complete, and the train has arrived at Hindlow Quarry."			
+""	"£ - a stop must be shown of four minute duration for a shunter to operate Briggs Ground Frame and hand thetoken to the driver to depart a train."			
+""	NW9021 BUXTON TO HAZEL GROVE EAST JN		
+""			
+""	Buxton SB		
+""			
+""	Dwell Time		
+""	"Trains to/from Great Rocks Jn SBor to/from Brigg’s Ground Frameor Hillhead Ground Frame"	1 (TW stop to collect/surrender token)	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train from Buxton Up Relief Sidings departtowards Brigg’s Ground Frame"	Pass from Chapel-en-le-Frith to Buxton	4
+""	"Train from Brigg’s Ground Frame depart toBuxton Up Relief Sidings"	Pass from Chapel-en-le-Frith to Buxton	4
+""	Pass from Chapel-en-le-Frith to Buxton	"Arrive from Brigg’s Ground Frame towardsBuxton Up Relief Sidings"	3
+""	Pass from Chapel-en-le-Frith to Buxton	"Train Brigg’s Ground Frame depart fromBuxton Up Relief Sidings"	1
+""	"Pass/Depart Great Rocks Jn to or fromTunstead Sidings"	Depart Buxton SB towards Great Rocks Jn	2
+""			
+""	Planning Note		
+""	"A train can depart Buxton and can pass or have dwell time at Buxton SB on the Down Main at the same time asmovements are made to/from Buxton URS. Movements to / from single lines can be planned as parallel moves toa simultaneous movement on the Down Main."		
+""			

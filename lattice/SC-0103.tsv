@@ -1,0 +1,37 @@
+""									
+SC024 LARKHALL TO HAUGHHEAD JUNCTION		
+""		
+Allanton Loop		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Arrive Loop	Up depart Chatelherault towards Larkhall	1
+Down Arrive Loop	Up Pass towards Larkhall	2
+Down Pass Loop	Up Depart Pass Loop	1
+Up Arrive Loop	Down Pass from Larkhall	2
+Up Pass Loop	Down Depart Loop	1
+SC025 RUTHERGLEN TO FINNIESTON JUNCTIONS		
+""		
+Rutherglen Station / North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from West Curve to Down Argyle	Down arrive Rutherglen Station	31⁄2
+Pass from West Curve to Down Argyle	"Depart Rutherglen Central Junction to DownArgyle"	1
+Pass Up Argyle to West Curve	Down arrive Rutherglen Station	31⁄2
+Pass Up Argyle to West Curve	"Depart Rutherglen Central Junction to DownArgyle"	1
+Depart/pass Rutherglen to Down Argyle	Pass to West Curve	2
+""		
+"RestrictionsMaximum standage in West Curve is 184m. However EMUs of more than 6 vehicles must not have any stand timeor allowances between Rutherglen West and Rutherglen North due to presence of neutral section.Pathing time must not be used between Rutherglen and Rutherglen East Junction"		
+""		
+"General NoteWhere trains require pathing allowances to achieve the required headway or the required re-occupation, it ispreferable to increase dwell times rather than using pathing allowances."		
+Argyle Street		
+""		
+Platform Re-occupation	2 Up direction	
+""		
+Junction Margin		
+First Movement	Second Movement	Value
+"Down depart Glasgow CentralLow Level"	Down Depart Argyle Street	1
+""		
+"RestrictionDiesel trains are not permitted to be timed to stop at this Station under any circumstances owing to FireRegulations."		
+""		
+"General NoteWhere trains require pathing allowances to achieve the required headway or the required re-occupation, it ispreferable to increase dwell times rather than using pathing allowances."		

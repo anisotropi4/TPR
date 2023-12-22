@@ -1,0 +1,46 @@
+LN3525 KNIGHTON JUNCTION TO LEICESTER JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Bardon Hill	–	–		
+Bardon Hill Quarry	–	–	F	
+Coalville	–	–		
+Mantle Lane	–	–		Single line to Lounge Jn
+Lounge Jn	–	–		
+Moira West Jn	–	–		
+Birmingham Curve Jn	–	–		To/from Branston Jn – LN3535
+Leicester Jn		–		To/from Burton on Trent – LN3501
+LN3535 BIRMINGHAM CURVE JUNCTION TO BRANSTON JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Birmingham Curve Jn	–			To/from Coalville – LN3525
+Branston Jn		–		To/from Wichnor Jn – LN3501
+LN3601 KETTERING NORTH JUNCTION TO MANTON JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Kettering North Jn	–			To/from Kettering – LN3201
+Corby North Jn				
+Corby Corus Steel			S	
+Corby Automotive Hub	–	–	S	
+Corby	–	–		
+Corby North Run–Round Loop	–		S	Run–rounds from the Kettering direction
+Corby Signal KM3974		–		Mandatory in the Up direction only
+Manton Jn	–	–		To/from Oakham – LN3615
+LN3615 HELPSTON JUNCTION TO SYSTON SOUTH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Helpston Jn	–	–		"To/from Peterborough – LN101.  Refer toLNE Timetable Planning Rules"
+Uffington	–	–		
+Stamford	–	–	S	
+Wards Sdgs GF		–	S	"To/from Wards Sdg.  Show as ‘OP’ stopfor trains to/from Wards Sdg"
+Wards Sdgs			S	
+Ketton SB	–	–		
+Luffenham	–	–		
+Manton Jn	–	–		To/from Corby – LN3601
+Oakham	ML GL	–		
+Langham Jn	–	ML GL		
+Ashwell LC	–	–		
+Whissendine	–	–		
+Signal MN54		–		Mandatory timing point in the up direction
+Melton Mowbray DGL	–			
+Melton Mowbray UGL	–	–		
+Melton Mowbray	– UM*	ML GL		"* UM only applies to movements towardsMelton Jn for LN3620"

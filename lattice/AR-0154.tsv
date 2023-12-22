@@ -1,0 +1,37 @@
+EA1540 CHIPPENHAM JUNCTION TO ELY DOCK JUNCTION	
+""	
+Snailwell	
+""	
+Terminal Length	
+Reception	60 SLUs
+Soham		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/Depart Soham to Chippenham Junction	"Pass Soham/Arrive Soham from ChippenhamJunction (not timed at Soham Junction SignalCA491)"	21⁄2
+"Passenger Pass/Depart Soham to ChippenhamJunction"	"Depart Soham Junction Signal CA491 to ElyDock Junction"	1
+Freight Pass Soham to Chippenham Junction	"Depart Soham Junction Signal CA491 to ElyDock Junction"	11⁄2
+EA1560 ELY NORTH JUNCTION TO KINGS DYKE (INCLUSIVE)		
+""		
+Ely West Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass Ely West Junction onto the Ely WestCurve"	Pass Ely North Junction towards Peterborough	3
+"Passenger pass Ely North Junction towardsPeterborough"	"Pass Ely West Junction onto the Ely WestCurve"	2
+"Freight pass Ely North Junction towardsPeterborough"	"Pass Ely West Junction onto the Ely WestCurve"	3
+Manea	
+""	
+Dwell Time	1 GA
+March		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains via Platform 2 pass towardsWhitemoor"	"Approach control and via slowspeed crossover"	All timing loads{1⁄2}
+""		
+Movement Up	Reason	Value*
+"Class 4 freight pass from Whitemoortowards Ely"	Acceleration	"up to 600t{11⁄2}800t to 1600t{21⁄2}1800t and over{3}"
+"Class 6 freight pass from Whitemoortowards Ely"	Acceleration	"up to 600t{11⁄2}800t and over{2}"
+*Allowance to be applied approaching next timing point		
+""		
+Advertised Time Changes		

@@ -1,0 +1,43 @@
+""									
+SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH)		
+""		
+Edinburgh		
+""		
+"Operating RestrictionsWhen trains divide and depart in opposite directions, following their uncoupling, 2 minutes must elapse prior todeparture of the second train.Platform 7.  Restricted to 8 car 22X if reversing or detaching two sets where 22Xs will then depart in oppositedirections.  Please note that 9 car 22X can only be accommodated if a departure is in the same direction of travel aswhen arriving. Also 9 car 22X can only be accommodated if detaching and both 22Xs will continue to depart in thesame direction of travel as when arriving.Caledonian Sleeper services 1B26, 1C11, 5C11 & 5B26 when arriving from Haymarket direction must NOT be plannedto use this platform owing to SPAD risk when shunting is taking place.Platform 9. Freight trains are prohibited from working through the station via platform 9 line due to track alignment andpotential structure damage resulting from vibration."		
+""		
+Platform End Conflicts		
+First Movement	Second Movement	Margin
+Arrive from East via North Line	Depart East via North Line	1⁄2
+Arrive Platform 1 from East	Arrive Platform 2 via Platform 20	4
+Arrive Platform 1 from East	Arrive Platform 20 from West	4
+Arrive Platform 1 from East	Depart Platform 2 via Platform 20	2
+Arrive/Depart Platform 1 via Platform 19	Arrive Platform 2 from East	4
+Depart Platform 1 to East	Arrive Platform 2 from West	3
+Arrive Platform 2 from East	Arrive Platform 1 via Platform 19	4
+Arrive Platform 2 from East	Depart Platform 1 via Platform 19	2
+Arrive Platform 2 from East	Depart Platform 19 via Platform 1	2
+Arrive Platform 2 from East	Arrive Platform 19 from West	3
+Arrive Platform 2 from West	Depart Platform 1 to East	11⁄2
+Arrive Platform 2 from West	Arrive Platform 1 from East	51⁄2
+Arrive/depart Platform 2 via Platform 20	Arrive Platform 1 from East	4
+Arrive Platform 7 from East	Arrive Platform 11 from West	4
+Arrive Platform 7 from East	Depart Platform 11 via South Loop	2
+Arrive Platform 8 from East or West	Arrive Platform 8 from opposite direction	3
+Arrive Platform 9 from East or West	Arrive Platform 9 from opposite direction	3
+Arrive Platform 8 or 9 from East	Depart Platform 8 or 9 to East	1⁄2
+Arrive Platform 10 from West	Arrive platform 11 via South Loop	4
+Arrive Platform 10 from West	Depart platform 11 via South Loop	2
+Arrive Platform 10 via Platform 7	Arrive Platform 11 from West	3
+Depart Platform 10 via Platform 7	Arrive Platform 11 from West	4
+Arrive Platform 11 from West	Arrive/depart Platform 10 via Platform 7	4
+Arrive Platform 11 from West	Arrive Platform 7 from East	4
+Depart Platform 11 via South Loop	Arrive Platform 7 from East	5
+Arrive/depart Platform 11 via South Loop	Arrive Platform 10 from West	4
+Arrive Platform 19 from East	Depart Platform 20 to West	2
+Arrive Platform 19 from West	Arrive Platform 2 from East	4
+Arrive Platform 19 from East	Arrive Platform 20 from West	3
+Arrive Platform 20 from West	Arrive Platform 19 from East	3
+Depart Platform 20 to West	Arrive Platform 19 from East	3
+Arrive Platform 20 from West	Arrive Platform 1 from East	4
+""		
+Train Watering Points	All platforms except Platforms 3 and 4	

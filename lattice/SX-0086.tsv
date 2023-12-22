@@ -1,0 +1,41 @@
+Streatham Common		
+""		
+Movement	Reason	Value
+All non-Stop movements towards Streatham	"Approach control on signal TVC662 and15mph speed limit on Streatham Spurs"	"{1⁄2} * NonFreight{1} Freight+"
+"* A non-freight train is deemed as any Class 0, 1, 2, 3, 5, seasonal Class 8 or 9+ A freight train refers to any Class 4, 6, 7 or non-seasonal Class 8"		
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Depart/Pass Platform 2 towards the UpStreatham Spur"	"Arrive/Pass Platform 1 from  the DownBrighton Slow"	3
+""		
+Planning Note		
+""	Notes	
+Fast line platforms	"Trains formed of a 12 car Class 700 EMU must not be plannedto use these platforms, due to operational restrictions"	
+Selhurst			
+""			
+Adjustment to Sectional Running Times			
+Movement	Reason	Value	
+"All non-stop movements that have crossedfrom Up Slow to Up Fast at Selhurst"	Speed Differential	{1⁄2} *	
+* To be applied at the next timing point after Selhurst			
+""			
+Connectional Allowances			
+All Services	4		
+""			
+Junction Margins			
+First Movement	Second Movement		Margin
+"Passing train crossing from Down VictoriaFast to Down Victoria Slow"	"Arrive/pass Platform 2 on Up Victoria Slow fromEast Croydon or West Croydon"		21⁄2
+"Depart any Platform towards Down SelhurstSpur"	Arrive/pass any Platform from Up Victoria Slow		3
+Pass Platform 3 to Down Victoria Fast	"Passing train crossing from Up Victoria Slow toUp Victoria Fast from East Croydon or WestCroydon"		21⁄2
+Depart/Pass Selhurst on Down Slow	Depart/Pass Selhurst to the Depot		2
+"Train crossing from Up Victoria Slow towardsUp Victoria Fast"	Train following on Up Victoria Fast		3
+""			
+Length Restriction			
+"The standage at signal T74 on the Up Victoria Slow to avoid fouling Cottage Junction is 200 metres/31 SLUs/10cars (or 8 cars if the train is formed of Class 171 stock)."			
+"The standage at signal T72 on the Up Selhurst Spur to avoid fouling Gloucester Road Junction is 160 metres/25SLUs/8 cars (or 6 cars if the train is formed of Class 171 stock)."			
+""			
+Planning Note			
+""	Notes		
+Fast line platforms	"Trains formed of a 12 car Class 700 EMU must not be plannedto use these platforms, due to operational restrictions"		

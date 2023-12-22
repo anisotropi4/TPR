@@ -1,0 +1,23 @@
+Wichnor Junction		
+""	Tamworth	
+Pass from Burton towards Alrewas	"Pass from Central Rivers Depot towardsAlrewas (via Down Tamworth/SignalDY82)"	Refer to headway
+Pass from Burton towards Alrewas	"Pass from Central Rivers Depot towardsAlrewas (via Up Tamworth/Signal DY52)"	"AB+1 between Barton Southand AlrewasPass Barton South Junction1 minute after first train haspassed Alrewas"
+Pass from Burton towards Alrewas	Pass from Tamworth towards Burton	"3* where 1st train ispassenger31⁄2* where 1st train is freight*add 1 where 2nd train isfreight"
+Pass from Burton towards Alrewas	"Pass from Tamworth towards CentralRivers Depot"	3
+"Pass from Central Rivers Depottowards Tamworth"	Pass from Burton towards Alrewas	3
+"Pass from Central Rivers Depottowards Tamworth"	Pass from Tamworth towards Burton	"2 where 2nd train ispassenger21⁄2 where 2nd train is freight"
+"Pass from Central Rivers Depottowards Tamworth"	"Pass from Tamworth towards CentralRivers Depot"	"2 apart at Barton SouthJunction"
+"Pass from Central Rivers Depottowards Alrewas (via DownTamworth/Signal DY82)"	Pass from Burton towards Tamworth	"21⁄2 where 2nd train ispassenger31⁄2 where 2nd train is freight"
+"Pass from Central Rivers Depottowards Alrewas (via DownTamworth/Signal DY82)"	Pass from Tamworth towards Burton	3
+"Pass from Central Rivers Depottowards Alrewas (via DownTamworth/Signal DY82)"	"Pass from Tamworth towards CentralRivers Depot"	3
+"Pass from Central Rivers Depottowards Alrewas (via Up Tamworth)"	Pass from Burton towards Tamworth	Parallel
+"Pass from Central Rivers Depottowards Alrewas (via Up Tamworth)"	Pass from Tamworth towards Burton	"3* where 1st train ispassenger31⁄2* where 1st train is freight*add 1 where 2nd train isfreight"
+"Pass from Central Rivers Depottowards Alrewas (via Up Tamworth)"	"Pass from Tamworth towards CentralRivers Depot"	3
+""		
+Junction Margins (where the first movement is an Up direction movement on LN3501)		
+First Movement	Second Movement	Value
+Pass from Tamworth towards Burton	Pass from Alrewas towards Burton	"21⁄2 following passenger3 following freight"
+Pass from Tamworth towards Burton	"Pass from Alrewas towards CentralRivers Depot"	"2 following passenger21⁄2 following freight"
+Pass from Tamworth towards Burton	Pass from Burton towards Alrewas	2
+"Pass from Tamworth towards CentralRivers Depot"	Pass from Alrewas towards Burton	3
+"Pass from Tamworth towards CentralRivers Depot"	"Pass from Alrewas towards CentralRivers Depot"	21⁄2

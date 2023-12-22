@@ -1,0 +1,31 @@
+EA1060 WICKFORD JUNCTION TO SOUTHMINSTER				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		SLU	METRES	
+""				
+"North Fambridge CrossingLoop"	Down	40	256	
+"North Fambridge CrossingLoop"	Up	40	256	
+EA1110 THORPE-LE-SOKEN JUNCTION TO WALTON-ON-THE-NAZE				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		SLU	METRES	
+""				
+Kirby Cross Crossing Loop	Down	28	179	
+Kirby Cross Crossing Loop	Up	30	192	
+EA1160 BETHNAL GREEN EAST JUNCTION TO BISHOP’S STORTFORD				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		SLU	METRES	
+""				
+"Broxbourne Down PassengerLoop"	Down	65	416	"Length extends to 92 SLUs for DownPassenger Loop plus Broxbourne Platform 4"
+Broxbourne Up Goods Loop	Up	65	416	Not electrified
+"Broxbourne Up PassengerLoop"	Up	35	224	
+"Harlow Town DownPassenger Loop"	Down	65	416	Includes Harlow Town Platform 4
+"Harlow Town Up PassengerLoop"	Up	65	416	Includes Harlow Town Platform 1
+Harlow Mill Down Goods Loop	Down	88	564	Not electrified
+"Bishop’s Stortford UpPassenger Loop"	Up	32	207	"If reached from Platforms 1 or 2, or accessto Carriage Sidings requiredLength extends to 81 SLUs / 523m forUp Passenger Loop plus Bishop’sStortford Platform 3, will preventaccess/egress to/from Carriage SidingsAdditionally if accessed via Platform 3length is 47 SLUs / 303m clear ofplatform, but will prevent access/egressto/from Carriage Sidings"
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		SLU	METRES	
+""				
+"Stansted Mountfitchet DownGoods Loop"	Down	67	429	
+"Great Chesterford Up GoodsLoop"	Up	80	512	
+"Whittlesford Parkway DownGoods Loop"	Down	80	512	
+"Coldham Lane Down GoodsLoop"	Down	89	570	

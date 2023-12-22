@@ -1,0 +1,40 @@
+Harpenden Junction		
+""		
+Adjustments to Sectional Running Times		
+All Movements	Reason	Value
+Up/Down Fast to Up/Down Slow or vice versa	Junction differential	1 for EMR
+""		
+Movement Down	Reason	Value
+Down Fast – Down Slow	"Flashing yellows on signal WH85Stopping at Harpenden"	1⁄2 before
+""	"Flashing yellows on signal WH85Not stopping at Harpenden"	"1⁄2 beforeand 1 after"
+Down Slow – Down Fast	"Approach Control signal WH285Stopping at Harpenden"	1 before
+""	"Approach Control signal WH285Not stopping at Harpenden"	"1 beforeand 1 after"
+""		
+Movement Up	Reason	Value
+Up Fast – Up Slow	"Approach Control signal WH84Stopping at Harpenden"	"1⁄2 beforeHarpenden"
+""	"Approach Control signal WH84Not stopping at Harpenden"	"1 before1 after"
+Up Slow to Up Fast	"Approach Control signal WH284Stopping at Harpenden"	"1⁄2 beforeHarpenden"
+""	"Approach Control signal WH284Not stopping at Harpenden"	"1 before1 after"
+"Up trains calling at Harpenden must have the approach control allowance applied before Harpenden station as thestation starters (WH84/284) protect the junction"		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves except as below	3	
+Down Fast to Down Slow pass	Up Fast to Up Fast passenger pass	21⁄2
+Up Fast to Up Fast pass	Down Fast to Down Slow passenger pass	21⁄2
+Up Fast to Up Fast pass	"Up Slow to Up Fast having stopped atHarpenden"	21⁄2
+"Passenger train which is stopping inHarpenden platform 2 passes Harpenden Jn"	"Train which has departed from Harpendenplatform 1 crossing to UF passes Harpenden Jn"	21⁄2
+""		
+Planning Note		
+"No timing allowances should be applied between Harpenden Junction and Harpenden as there are nointermediate signals"		
+Harpenden		
+""		
+Dwell Time		
+All	"1⁄2* *1 minute between 0700 and 0900 for Up Fast & Semi–Fasttrain; and between 1645 and 2000 for Down Fast & Semi–Fasttrains on Mondays to Fridays."	
+Junction Margins		
+First Movement	Second Movement	Value
+Passenger arrive platform 2 from DS or DF	Depart platform 1 crossing to UF at Harpenden Jn	1
+Depart platform 1 to Up Fast / Up Slow	Diverging departure from platform 1	31⁄2
+""		
+Planning Note		
+No timing allowances should be applied between Harpenden and Harpenden Junction as there are no		

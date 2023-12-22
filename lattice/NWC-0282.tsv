@@ -1,0 +1,21 @@
+""	Golborne Jn		
+""			
+""	"All freight trains joining Down Main from DownLowton with trailing load of 1200t or greater"	Acceleration from Slow Speed Junction	"3 afterGolborne Jn"
+""	Movement Up	Reason	Value
+""	"All trains to Winwick Jn joining Up Main fromUp Slow"	Acceleration from Slower Speed Junction	"1 afterGolborne Jn."
+""	"All trains timed as Class 15x joining Up Lowtonfrom Up Main"	Approach Control	1⁄2
+""	"All trains (except Class15x) joining Up Lowtonfrom Up Main"	Approach Control	11⁄2
+""	Springs Branch		
+""			
+""	"Trains for either Springs Branch Stabling Sidings or Wigan Diesel Depot T.C. will arrive/depart via the twoheadshunts at Springs Branch. The following rules describe the margins between successive arrivals ordepartures to/from the Stabling Sidings or Diesel Depot and should be read in conjunction with the timinginformation shown below for these locations."		
+""			
+""	Margins between successive arrivals		
+""	First Movement	Second Movement	Margin
+""	"Arrive Springs Branch for either Springs BranchStabling sidings or Wigan Diesel Depot"	"Following movement arrives Springs Branch foreither Springs Branch Stabling sidings orWigan Diesel Depot"	5*
+""	"* A margin of 10 minutes is required after the second of a pair of trains have arrived before the next arrival can beaccepted at Springs BranchA train can depart Springs Branch towards either Springs Branch Stabling Sidings or Wigan Diesel Depot aminimum of 2 minutes after a second arrival."		
+""			
+""	Margins between successive departures		
+""	First Movement	Second Movement	Margin
+""	"Depart from Springs Branch having arrivedfrom either Springs Branch Stabling sidings orWigan Diesel Depot"	"Following movement departs Springs Branchhaving arrived from either Springs BranchStabling sidings or Wigan Diesel Depot"	5*
+""			
+""	"* A margin of 10 minutes is required after the second of a pair of trains have departed before the next departurecan be timed at Springs Branch"		

@@ -1,0 +1,23 @@
+Harrowden Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Cross from Down Fast or Down Slow	Approach control	1
+"Down Fast from Wellingborough Down GoodsLoop"	"Acceleration – to be applied afterHarrowden Junction"	"Freight1⁄2 800t-1,000t1 1,200t-1,400t11⁄2 1,600t-2,000t2 2,200t21⁄2 2,400t-2,600t3 2,800t31⁄2 3,000t4 3,200t"
+"Down Slow towards Kettering South Junctionhaving reversed at:Wellingborough;Wellingborough Signal BK6067; orWellingborough Signal BK6065"	"Acceleration – to be applied afterHarrowden Junction"	"Freight1⁄2 800t-1,000t1 1,200t-1,400t11⁄2 1,600t-2,000t2 2,200t21⁄2 2,400t-2,600t3 2,800t31⁄2 3,000t4 3,200t"
+""		
+Movement Up	Reason	Value
+Cross from Up Fast or Up Slow	Approach control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Fast to Up Slow	"Down Slow to Down Slow notstopping at Wellingborough"	31⁄2
+Up Fast to Up Slow	"Down Slow to Down Slow havingstopped at Wellingborough"	4
+Up Fast to Up Fast	"Down Slow to Down Fast notstopping at Wellingborough"	3
+Up Fast to Up Fast	"Down Slow to Down Fast havingstopped at Wellingborough"	31⁄2
+Up Fast to Up Slow	Up Fast to Up Fast passenger	2
+Up Fast to Up Slow	Up Fast to Up Fast freight	3
+Down Fast to Down Fast	Down Slow to Down Fast	2
+Down Slow to Down Slow	Up Fast to Up Slow	4
+Down Slow to Down Fast	Up Fast to Up Fast passenger	2
+Down Slow to Down Fast	Up Fast to Up Fast freight	3

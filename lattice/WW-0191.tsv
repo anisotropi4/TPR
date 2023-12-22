@@ -1,0 +1,30 @@
+Up train arrive platform 3	"Up train from Up Reception orWestbury DMU Sidings (except toUp Trowbridge Siding)"	3	
+"Down train to Up Reception or WestburyDMU Sidings (except from Up TrowbridgeSiding)"	Up train arrive platform 3	3	
+"Up train from Up Reception or WestburyDMU Sidings (except to Up TrowbridgeSiding)"	Up train arrive platform 3	3	
+Up train arrive platform 2	"Down train arrive platform 1 fromHawkeridge Jn"	3	
+"Down train arrive platform 1 fromHawkeridge Jn"	Up train arrive platform 2	3	
+""			
+Dwell Time			
+80x	2		
+DMU & HSTGW4	11⁄2		
+""			
+Platform Re-occupation	4		
+""			
+Planning Note			
+"Stops in Down trains (except in run rounds) on DR should be shown at Westbury Down TC Entry/Exit and not atWestbury station. This is due to signal location."			
+""			
+Class 80x Reversing moves			
+"The following length restrictions apply for Class 80X units reversing at Westbury:Platform 1 – 5 and 9 cars onlyPlatform 2 & 3 – Any formation up to 10 cars permitted"			
+""			
+Turnround allowances			
+""	DMU	Class 80X (5 car)	"Class 80X (9/10Car)"
+"FromWeymouth/Bristol/Southampton/Swindon"	10		
+From Salisbury (GWR only)	5		
+From Portsmouth	15		
+From Paddington		15	20
+""			
+Shunting Margins – W707, W722, Down Trowbridge Siding, Westbury DMU Sidings			
+First Movement	"SecondMovement"	Margin	Notes
+"Down train to Fairwood Jcn departs orpasses Westbury platform 1, 2 or 3"	"Shunt move toW707 signaldeparts Westbury"	"21⁄2 - followingpassenger5 – followingfreight"	"Apply passenger marginwhen following light engine orECS"
+"Down train to Fairwood Jcn departsWestbury Down Yard or Westbury DR line"	"Shunt move toW707 signaldeparts Westbury"	"Shunt move toW707 signaldepartsWestbury"	
+"A shunt move at W707 signal prevents any move at the west end of Westbury platform 2, any movebetween Westbury Down Yard or Down Reception Line and Fairwood Jcn, and any move between the Upor Down Salisbury and Westbury platform 2, 3 and Up Reception Line."			

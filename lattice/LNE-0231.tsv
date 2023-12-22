@@ -1,0 +1,9 @@
+"Pass DM fromDownKillingholme"	P	3	3	3	3	3	5	H	10*	H	H	H	H	H
+"Pass DM fromNCB"	P	3	3	3	3	3	5	H	n/a	H	H	H	H	H
+"Pass DM fromReceptionSidings (viaArrival/Dep.Line)"	P	P	3	3	3	3	5	H	10*	H	H	H	H	H
+"Pass DM fromReceptionRoad 7 (viaArrival/Dep.Line)"	P	P	3	3	3	3	5	H	10*	H	n/a	H	H	H
+"Pass DM fromReceptionRoad 1 (viaArrival/Dep.Line)"	P	P	3	3	3	3	5	H	10*	H	H	n/a	H	H
+"Pass DM fromESL"	P	P	3	3	3	3	5	H	10*	H	H	H	H	H
+"Pass DM fromDownGrimsby"	P	P	3	3	3	3	5	H	10*	H	H	H	H	H
+""	"PassUpMainto UpKillingholme"	"PassUpMaintoNCBArrivals"	"PassUM toReceptionSidings(viaArrival/Dep. Line)"	"PassUM toReception Road7 (viaArrival/Dep. Line)"	"PassUM toReception Road1 (viaArrival/Dep. Line)"	"PassUM toESL"	"PassUM toUpGrimsby"	"PassDMfromDownKillingholme"	"PassDMfromNCB"	"PassDM fromReceptionSidings(viaArrival/Dep. Line)"	"PassDM fromReception Road7 (viaArrival/Dep. Line)"	"PassDM fromReception Road1 (viaArrival/Dep. Line)"	"PassDMfromESL"	"PassDMfromDownGrimsby"
+"P = Parallel move; H = a following move on headway (6 minutes for LN740/742); —* = a following move in the same direction with differential value detailed;n/a = Move not applicable, one train working in terminal. †= the conflict occurs within Reception Sidings yard. The stated margin describes the pass time at HumberRoad Jn for a 2nd move departure from the yard immediately following a 1st move arrival."														

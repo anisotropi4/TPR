@@ -1,0 +1,55 @@
+STATION	PLATFORM AND LINE	"USABLELENGTH"	NOTES
+Dorking Deepdene	1 - Up Reading	94	
+Dorking Deepdene	2 - Down Reading	95	
+Dorking West	1 - Up Reading	111	
+Dorking West	2 - Down Reading	102	
+Dormans	1 - Up East Grinstead	169	
+Dormans	2 - Down East Grinstead	167	
+Durrington-on-Sea	1 - Up Brighton	123	
+Durrington-on-Sea	2 - Down Brighton	123	
+""			
+Earlswood	1 - Up Slow	212	
+Earlswood	2 - Down Slow	213	
+East Croydon	1 - Up Fast	244	
+East Croydon	2 - Fast Reversible	244	Down direction
+East Croydon	2 - Fast Reversible	244	Up direction
+East Croydon	3 - Down Fast	244	Down direction
+East Croydon	3 - Down Fast	244	Up direction
+East Croydon	4 - Up Slow	251	Down direction
+East Croydon	4 - Up Slow	251	Up direction
+East Croydon	5 - Slow Reversible	256	Down direction
+East Croydon	5 - Slow Reversible	256	Up direction
+East Croydon	6 - Down Slow	247	
+East Dulwich	2 - Down Portsmouth	165	
+East Grinstead	1 - Up East Grinstead	245	
+East Grinstead	2 - Down East Grinstead	245	
+East Worthing	1 - Up Brighton	85	
+East Worthing	2 - Down Brighton	86	
+Eastbourne	1	243	
+Eastbourne	2	243	
+Eastbourne	3	254	
+Edenbridge	1 - Up Godstone	116	
+Edenbridge	2 - Down Godstone	118	
+Edenbridge Town	1 - Up	237	
+Edenbridge Town	2 - Down	237	
+Emsworth	1 - Up	152	
+Emsworth	2 - Down	152	
+Epsom	1 – Down Portsmouth	208	Down Direction
+Epsom	1 – Down Portsmouth	208	Up Direction
+Epsom	2 – Down Epsom	206	Down Direction
+Epsom	2 – Down Epsom	206	Up Direction
+Epsom	3 Up	206	
+Epsom	4 Up Epsom	208	
+Epsom Downs	Epsom Downs Single	205	Down direction
+Epsom Downs	Epsom Downs Single	205	Up direction
+Eridge	Uckfield Single	235	Down direction
+Eridge	Uckfield Single	235	Up direction
+Ewell East	1 - Up Portsmouth	159	
+Ewell East	2 - Down Portsmouth	160	
+""			
+Falmer	1 - Up East Branch	157	
+Falmer	2 - Down East Branch	156	
+Faygate	1 - Up Branch	103	
+Faygate	2 - Down Branch	100	
+Fishbourne	1 - Up	151	
+Fishbourne	2 - Down	123	

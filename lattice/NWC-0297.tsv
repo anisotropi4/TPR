@@ -1,0 +1,38 @@
+""	Crown Street Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Trains departing from platforms 1 to 5 atLiverpool Lime Street that are routed to theFast Line"	Speed Differential	1⁄2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Between all conflicting movements		3
+""	Liverpool Lime Street		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Trains arriving at a platform already occupiedby another train"	Approach control	1⁄2
+""			
+""	Connectional Allowance	10	
+""			
+""	Permissive Working		
+""	Permissive working for platform sharing, attaching and detaching is permitted in all platforms.		
+""			
+""	Planning Note		
+""	"All departures form Platform 1 must be planned via the Up Chat Moss Slow (USL)Departures from Platforms 2 to 5 must be planned via the Up Chat Moss Slow (USL) or Down Chat Moss Slow(DSL)."		
+""			
+""	Planning Restriction		
+""	"No pathing time to be added between Crown Street Jn and Liverpool Lime Street in the Down direction for trainsthat are planned to cross Down Fast to Up Slow to platform 1 as there is insufficient standage at signal LL5063 toavoid fouling the Up Fast."		
+""			
+""	Platform End Margins (where a conflicting move occurs within the station throat)		
+""	First Movement	Second Movement	Margin
+""	Arrival	Departure	1, except:
+""	Train arrives platform 2 from Down Slow	Train departs platform 1 to Up Slow	Simultaneous
+""	Departure	Arrival	4, except:
+""	Train departs platform 1 to Up Slow or Up Fast	"Train arrives platform 1 from Down Slow orDown Fast"	6
+""	NW2005 SPEKE JN TO GARSTON JN
+""	
+""	Speke Compound Siding
+""	
+""	Planning Note
+""	"Arriving Trains:Trains shall arrive on the Up & Down Garston Goods at Speke West Jn behind Signal WE7830.Trains to Speke Car Terminal over 730m/2395ft/114SLU shall require a 75 minute OP stop at Speke West Jn tosplit the train into portions before arriving at Speke Compound Siding. This can be reduced to 45 minutes if the"

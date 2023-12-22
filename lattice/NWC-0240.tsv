@@ -1,0 +1,33 @@
+""	Birmingham Moor Street		
+""			
+""	Platform End Margins		
+""	First Movement	Second Movement	Margin
+""	"Departure from Platform 1 towards Small HeathSouth Jn on the Up Snow Hill"	"Arrival from Small Heath South Jn into Platform1"	4
+""	"Departure from Platform 1 towards Small HeathSouth Jn on the Up and Down Small HeathGoods"	"Arrival from Small Heath South Jn into Platform1"	5
+""	"Departure from Platform 1 towards Small HeathSouth Jn on the Up and Down Small HeathGoods"	"Arrival from Small Heath South Jn on the DownSnow Hill into Platform 2"	4
+""	Departure from Platform 3 or 4	"Arrival into Platform 2 from Small Heath SouthJn"	3 1⁄2
+""	Departure from Platform 3 or 4	"Arrival into Platform 1 from Small Heath SouthJn"	4
+""	"Arrival into Platform 1 or 2 from Small HeathSouth Jn"	Departure from Plat 3 or 4	1
+""	"Train Departs Platform 3 or 4 to the Up SnowHill"	"Train Departs Birmingham Snow Hill toPlatform 2 at Birmingham Moor Street"	1
+""			
+""	Planning Note		
+""	"Margins for trains to/from Snow Hill need to be applied in conjunction with rules at Birmingham Snow Hill.  A traincannot depart Birmingham Moor Street if there is not a platform available at Birmingham Snow Hill or vice versaThere are no signals between Birmingham Moor Street and Birmingham Snow Hill therefore no pathing time to beused between these locations"		
+""	Birmingham Snow Hill			
+""				
+""	Adjustment to Sectional Running Times			
+""	Movement Down		Reason	Value
+""	"WMT services departing towards JewelleryQuarter"		"Running brake test – to be applied following acrew change"	1⁄2
+""				
+""	Dwell Time			
+""	DMU	1		
+""	LH	2		
+""	West Midlands Trains	1 (11⁄2 if crew change booked)		
+""				
+""	Platform End Margins			
+""	First Movement	Second Movement	Margin	
+""	"Departure from Platform 1 towards BirminghamMoor Street"	"Arrival from Birmingham Moor Street intoPlatform 1, Platform 2 or Platform 3"	5	
+""	"Departure from Platform 2 towards BirminghamMoor Street"	"Arrival from Birmingham Moor Street intoPlatform 2 or Platform 3"	5	
+""	"Departure from Platform 2 towards JewelleryQuarter"	Arrival into Platform 2 from Jewellery Quarter	5	
+""	"Departure from Platform 3 towards JewelleryQuarter"	"Arrival into Platforms 2 or 3 from JewelleryQuarter"	5	
+""	"Arrival into Platform 3 from Birmingham MoorStreet"	"Departure from Platform 1 or Platform 2towards Birmingham Moor Street"	2	
+""	"Departure from Platform 1 towards JewelleryQuarter"	Arrive Platform 1 from Turnback Sidings	4	

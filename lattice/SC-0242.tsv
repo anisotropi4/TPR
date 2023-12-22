@@ -1,0 +1,40 @@
+SC193 PERTH TO INVERNESS					
+Timing Section	Type	"LHHST22X80X"	MU	FRT	Remarks
+""					
+Down – Weekdays					
+Approaching Dalwhinnie	E	1	1	1	
+Approaching Aviemore	E	1	1	1	
+Approaching Cradlehall	E	1	1	2	
+Approaching Millburn Junction	P		2		SR trains timed as 170 only
+""					
+Up – Weekdays					
+Approaching Aviemore	E	1	1	1	
+Approaching Blair Atholl	E	1	1	1	
+Approaching Dunkeld & Birnam	P		2		SR trains timed as 170 only
+Approaching Perth	E	1	1	2	
+SC195 ABERDEEN TO INVERNESS					
+Timing Section	Type	"LHHST22X"	MU	FRT	Remarks
+""					
+Down – Weekdays					
+Approaching Inverurie	E		1		Terminating trains only
+Approaching Keith Loop	E	1	1	4	Trains terminating at Keith only
+Approaching Elgin	E	1	1	2	
+Approaching Millburn Junction	E	1	1	2	
+Up – Weekdays					
+Approaching Elgin	E	1	1	4	Terminating trains only
+Approaching Keith	E	1	1	2	
+Approaching Berryden Junction	E	1*	1*	2	"* Trains originating at Inverurie require [1]approaching Berryden Junction.Trains originatng at Dyce do not requireengineering allowance approachingBerryden Junction."
+SC203  INVERNESS TO WICK					
+Timing Section	Type	"LHHST22X"	MU#	FRT	Remarks
+""					
+"#ScotRail DMU services have 5% allowance built in for Up and Down directions"					
+Far North Services have allowances built in to cover speed restrictions except:					
+Down – Weekdays					
+Approaching Invergordon	E	1	1	1	Trains terminating at Invergordon
+Approaching Tain	E	1	1	1	Trains terminating at Tain or Ardgay
+Approaching Lairg	E	2	2	2	
+Approaching Georgemas Junction	E	2	2	2	
+Up – Weekdays					
+Approaching Forsinard or Lairg	E		2		Trains from Wick only
+""	E	2		2	
+Approaching Dingwall	E	2	2	2	Trains from north of Lairg

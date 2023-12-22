@@ -1,0 +1,48 @@
+""	GW834 HIRWAUN TO ABERCYNON				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Tower Colliery	–			
+""	Aberdare Platform 1	–	–		
+""	Aberdare Platform 2		–		For Up trains only
+""	Cwmbach	–	–	S	
+""	Abercwmboi	–	–		Passing Loop only
+""	Fernhill	–	–	S	
+""	Mountain Ash	–	–		Platform detail must be shown
+""	Penrhiwceiber	–	–	S	
+""	Abercynon A187 Signal	–	–	S	"Turn-back moves from direction ofPontypridd"
+""	Abercynon				"Platform detail must be shown.To/from Pontypridd – GW830"
+""	GW835 TREHERBERT TO PONTYPRIDD JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Treherbert North GF	–	–	S	
+""	Treherbert Sidings	–	–	S	
+""	Treherbert	–			Platform detail must be shown
+""	Ynyswen	–	–		Platform detail must be shown
+""	Treorchy	–	–	S	
+""	Ton Pentre	–	–		
+""	Ystrad Rhondda	–	–		Platform detail must be shown
+""	Llwynpia	–	–	S	
+""	Tonypandy	–	–	S	
+""	Dinas Rhondda	–	–		Platform detail must be shown
+""	Porth	–	–		
+""	Trehafod	–	–	S	
+""	Pontypridd Signal V751		–		"For Shunts to/from Pontypridd Station(North)"
+""	Pontypridd Junction				To/from Pontypridd – GW830
+""	GW839 QUEEN STREET SOUTH JUNCTION TO CARDIFF BAY				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Queen Street South Junction				To/from Cardiff Queen Street – GW830
+""	Cardiff Bay		–		
+""	"GW840 RADYR JUNCTION TO CARDIFF RADYR BRANCH JUNCTION VIA CITYLINES"				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Radyr Junction				To/from Radyr – GW830
+""	Danescourt	–	–	S	
+""	Fairwater	–	–	S	
+""	Waun–Gron Park	–	–	S	
+""	CVL West Boundary	–	–		
+""	Leckwith Loop Junction South				To/from Leckwith Loop North Jn – GW850
+""	Ninian Park	–	–		Platform detail must be shown
+""	Treforest Curve Signal CF2768		–	S	
+""	Penarth Curve North Junction	–	–		To/from Penarth Curve South Jn – GW860
+""	Cardiff Radyr Branch Junction	–	– DT		To/from Cardiff Central – GW830

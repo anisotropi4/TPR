@@ -1,0 +1,10 @@
+Weekdays (Monday to Saturday)		
+Movement	Differential	Reason
+""		
+"All SX trains arriving at Waterloo between 0700and 1000"	"Advertised to arrive 2 minuteslater than the WTT time"	
+"All SX trains departing from Waterloo between1600 and 1900"	"Advertised to arrive 2 minuteslater than the WTT time at theultimate destination UNLESS bydoing so onward connections aresevered. Such instances must beagreed by the service specifier’sperformance manager."	
+"Other trains may be advertised to depart earlieror later at the discretion of the service specifier"		"In order to maintainstandard departure patterns"
+LOCATION/LIMITS	LINES	DAYS	TIMES
+"Waterloo to Queenstown RoadPlatforms 1-10 to 615B, 614B, 613B,612B Points"	"Down Main SlowDown Main FastUp Main SlowUp Main Fast"	TWThF & Su	0015 to 0505
+"Waterloo to Clapham JunctionPlatforms 12-19 to 653A, 651, 649A,647A Points"	"All Windsor Lines & Up MainRelief"	SO	0035 to 0500
+"Queenstown Road to Wimbledon614A, 613A Points to 734Points/Diamond"	"Down  Main FastUp Main Fast"	TWThFS & Su	0005 to 0500

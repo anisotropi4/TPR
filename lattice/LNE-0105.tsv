@@ -1,0 +1,30 @@
+""	LN836 DONCASTER MARSHGATE JUNCTION TO NEVILLE HILL EAST JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	4	4	
+""	Exceptions:			
+""	"South Kirkby Junction to HarePark Junction"	4*^	4^	"*3 from Branch following train from Doncaster atSouth Kirkby Jn. 2 if from a stand^3 A class 2 stopping service following a Class 1non stop"
+""	"Wakefield Westgate to HolbeckJunction"	4	4	"Down31⁄2 on approach to Holbeck Jn if 1st train has anexcess of pathing, engineering or performanceallowances.Up31⁄2 Loco hauled or stopping DMU following electricservice"
+""	Armley Junction to Leeds	21⁄2	21⁄2	A and B Lines Only
+""	Armley Junction to Whitehall Jn	3	3	C and D Lines Only
+""	Holbeck Junction to Leeds	2	2	
+""	Whitehall Junction to Leeds	2	2	E and F Lines Only
+""	Leeds to Neville Hill East Junction	3	3	
+""	"LN838 LEEDS ARMLEY JUNCTION TO YORK SKELTON JUNCTION VIAHARROGATE"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	AB+2	AB+2	
+""	Exceptions:			
+""	Poppleton to Hammerton	AB+2*	*Single Line, ET	
+""	Cattal to Knaresborough	AB+2*	*Single Line, ET	
+""	Harrogate to Horsforth	"61⁄2*8*"	"61⁄2*8*"	"Following Non-Stop serviceFollowing Stopping service*Please refer to Harrogate station under junctionmargins for exceptions to the headways listed"
+""	Horsforth to Armley Junction	5	41⁄2	
+""	Armley Junction to Leeds	21⁄2	21⁄2	"A and B Lines Only. See also LN836 for otherheadways west of Leeds."
+""	LN842 THORPE MARSH JUNCTION TO ADWICK JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	4	4	
+""	LN848 HARE PARK JUNCTION TO CROFTON WEST JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	4	4	

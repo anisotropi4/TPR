@@ -1,0 +1,38 @@
+Silkstream Junction		
+""		4 2,400t/TR130
+""		
+Movement Up	Reason	Value
+Up Slow to Up Hendon Line	Deceleration	"11⁄2 approaching SilkstreamJunction"
+""		
+Planning Note		
+"No timing allowances should be placed between Silkstream Junction or Hendon on the Up Slow Line as there areno intermediate signals. Such allowances should be placed approaching Silkstream Junction, Cricklewood or WestHampstead as appropriate."		
+Radlett Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down Fast – Down Slow	Flashing yellows on signal WH61	"1⁄2 before and1⁄2 after"
+""		
+Down Slow – Down Fast	"Approach Control on signal WH261Not stopping at Elstree or Radlett"	"1⁄2 before and1 after"
+""	"Approach Control on signal WH261Stopping at Radlett"	"1⁄2 before and1⁄2 after"
+""		
+Movement Up	Reason	Value
+Up Fast – Up Slow	"Approach Control on signal WH54Not stopping at Elstree or Radlett"	"1 before and1⁄2 after"
+""	"Approach Control on signal WH54Stopping at Radlett"	"1⁄2 beforeRadlett and 1⁄2after"
+Up Slow – Up Fast	"Flashing yellows on signal WH254Not stopping at Elstree or Radlett"	"1⁄2 before and1 after"
+""	"Flashing yellows on signal WH254Stopping at Radlett"	"1⁄2 beforeRadlett and 1⁄2after"
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves		"3 before orafter"
+""		
+Converging Headway		
+First Movement	Second Movement	Value
+Down Slow – Down Fast	Down Fast – Down Fast	4
+Up Slow – Up Fast	Up Fast to Up Fast	4
+""		
+Planning Note		
+"No timing allowances should be applied between Radlett Junction and Radlett in the Down direction as there areno intermediate signals"		
+Radlett Redland Roadstone		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart/Pass St Albans on Up Slow	Depart Radlett Sidings towards St Albans	3

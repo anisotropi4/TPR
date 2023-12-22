@@ -1,0 +1,43 @@
+Branksome	
+""	Length Limit
+Up Platform (clear of BC172/1025)	12 cars / 10 444
+Bournemouth T&R.S.M.D	
+""	
+Acceptance of Trains	
+Minimum Margin	4
+""	
+Dispatch of Trains	
+DOO trains	10
+Non DOO trains	5
+Poole		
+""		
+Berthing Facilities		
+""	Cars	Notes
+Shunting Neck	12	No overnight berthing permitted
+Reception Road	12	No overnight berthing permitted
+No. 2 Siding	7	Non- Electrified.  No overnight berthing permitted
+No. 1 Siding	6	No overnight berthing permitted
+""		
+Connectional Allowances		
+All Services	5	
+""		
+Dwell Times		
+All Services	11⁄2	
+""		
+Adjustment to Sectional Running Times		
+Movements	Reason	Margin
+"Up train arriving into Platform 2 fromHamworthy Direction*"	Speed Differential	{1⁄2}
+* These allowances should appear in the section from Hamworthy		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		3
+Up train arriving at Platform 1	Down train crossing from Platform 2 to sidings	1
+Up train arriving into Platform 2	"Down train starting from Platform 1 travellingtowards Wareham/Weymouth"	1
+"Down train starting from Platform 1 travellingtowards Wareham/Weymouth"	"Up train arriving into Platform 1 fromWareham/Weymouth"	6
+"Down train crossing from Platform 1 or 2 tosidings"	Up train arriving at Platform 1	4 1⁄2
+"Up train departing Platform 1 towardsBranksome"	"Down train arriving in platform 1 fromBranksome"	41⁄2
+""		
+Limit Of Shunt		
+""	Length Limit	
+Down Platform	12 cars/10 class 444	

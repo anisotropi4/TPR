@@ -1,0 +1,30 @@
+Sunderland		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart to South Hylton/Sidings	Down pass / arrive from Hartlepool	4 ^
+Up depart Platform 3 or 4 to Hartlepool	Down pass / arrive from Hartlepool	41⁄2 ^
+Depart to South Hylton	Depart Sidings	2
+Metro depart Platform 3 or 4 to South Hylton	Metro arrive Platform 3 or 4 from South Hylton	21⁄2
+Down arrive from Hartlepool	Depart to South Hylton/Sidings	1 #
+"Down Heavy Rail depart Platform 1 towardsNewcastle"	Up Metro arrive from St Peter’s	21⁄2
+Down Heavy Rail depart towards Newcastle	Up Heavy Rail arrive (where conflicting)	31⁄2
+Up Metro arrive (platform 2)	Up Heavy Rail (up to 72m) arrive platform 1	21⁄2
+Metro depart to South Hylton/Siding No2	Up passenger depart / pass	2
+Metro depart to South Hylton/Siding No2	Up freight pass	5
+Down Heavy Rail (up to 72m) arrive Platform 4	Metro arrive Platform 3 from Park Lane	21⁄2
+"Down Heavy Rail (73-178m) depart fromPlatform 4"	Metro arrive from Park Lane	31⁄2
+"Down Heavy Rail (up to 72m) depart fromPlatform 4"	Down Metro depart from platform 3	2
+Up freight pass	Up Metro Arrive	31⁄2
+Down depart	Down freight Pass	4
+"^ May be reduced by 1 if down train has at least (1) minute of pathing time approaching Sunderland# May be reduced to 1⁄2 if down train is up to 72m"		
+""		
+Minimum Turnround		
+Note: All shunts to be timed for ARS purposes		
+Same platform	5 (8 for 80x)	
+"Trains from York or south thereof, arriving andreturning as Class 1 or 9"	8	
+Via sidings	8	
+GC passenger to ECS or vice versa	"4 (same direction)5 (if reversing)"	
+""		
+Restrictions		
+"•A down train longer than 178m arriving into Platforms 3/4 will foul the route to and from South Hylton. Thistrain cannot turn round in the platform and return south and must depart towards Newcastle at least 11⁄2minutes before the next Metro departs towards South Hylton.•A down train longer than 195m can only arrive into Platforms 1/2 by prior agreement between the Trainoperator and the Local Operations Manager. The rear of the train will ‘lock’ the crossovers at the south end ofthe station, preventing moves to/from other platforms.•Metro trains can only use No. 2 Siding; No. 1 Siding is not electrified"		

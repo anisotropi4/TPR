@@ -1,0 +1,45 @@
+STATION	PLATFORM	"USABLELENGTH"	NOTES
+""		In metres	
+Shrewsbury	3	263	
+Shrewsbury	4	285	Up
+Shrewsbury	4	308	Down
+Shrewsbury	5	130	
+Shrewsbury	6	130	
+Shrewsbury	7	309	
+Skewen	1	107	
+Skewen	2	107	
+Slough	1 (Bay)	122	
+Slough	"2 (DownMain Line)"	208	
+Slough	"3 (Up MainLine)"	192	
+Slough	"4 (DownRelief Line)"	161	
+Slough	"5 (Up ReliefLine)"	161	
+South Greenford	1	49	
+South Greenford	2	51	
+Southall	"1 (DownMain Line)"	152	
+Southall	"2 (Up MainLine)"	139	
+Southall	"3 (DownRelief Line)"	152	
+Southall	"4 (Up ReliefLine)"	155	
+Southall	"4 (Up ReliefLine)"	78	Length to nearest camera
+Southall	"4 (Up ReliefLine)"	149	Length to furthest camera
+St Andrews Rd	Single	155	Usable lengths inside the barrier
+St Columb Road	Single	93	
+St Germans	1	128	
+St Germans	2	133	
+St Ives	Single	123	Top of ramp to Red lights
+St James Park	1	86	
+St James Park	2	86	
+St Keyne	Single	30	
+St. Austell	1 (Down)	178	
+St. Austell	2 (Up)	180	Top of ramp to signal PR104
+St. Austell	2 (Up)	181	"Trains can use top of ramp to top of ramp lengthONLY if signal PR104 is showing a proceed aspect."
+St. Budeaux (Victoria Rd)	Single	110	
+St. Budeaux Ferry Road	1	124	
+St. Budeaux Ferry Road	2	126	
+St. Erth	1 (Down)	177	
+St. Erth	2 (Up)	176	
+St. Erth	3 (Bay)	108	
+Stapleton Road	1	216	
+Stapleton Road	2	211	
+Starcross	1	168	
+Starcross	2	184	
+Stonehouse	1	61	

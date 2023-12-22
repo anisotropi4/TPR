@@ -1,0 +1,27 @@
+Reading		
+"A down train from Platform 12 towards ReadingWest Jn on Down Relief"	"An Up train from Down Feeder Relief towardsPlatform 15"	41⁄2 minutes
+"A down train from Platform 13 towards ReadingWest Jn"	"An up train from Reading West Jn arriving atPlatforms 12/13"	4 minutes
+"A down train from Platform 14 towards ReadingWest Jn"	"An up train from Reading West Jn arriving atPlatforms 12 -14"	4 minutes
+"A down train from Platform 15 towards ReadingWest Jn"	"An up train from Reading West Jn arriving atPlatforms 12 -15"	4 minutes
+"A down train from Platforms 13-15 to ReadingTraincare Depot"	"An up train from Reading West Jn to Platforms13-15"	4 minutes
+"An up train from Platforms 12-15 towardsKennet Bridge Jn"	"A down train from Kennet Bridge Jn to Platform15"	"Standard JnMargin matrixto apply atKennetBridge Jn"
+"An up train from Platforms 15 towards KennetBridge Jn"	"A down train from Reading Southern Jn toPlatforms 13-15"	4 minutes
+"An up train from Platforms 14 towards KennetBridge Jn via Up Relief Line"	"A down train from Kennet Bridge Jn toPlatforms 14/15 or Reading Southern Jn toPlatforms 13-15"	4 minutes
+"An up train from Platforms 13 towards KennetBridge Jn via Up Relief Line"	"A down train from Kennet Bridge Jn or ReadingSouthern Jn to Platforms 13-15"	4 minutes
+"An up train from Platforms 12 towards KennetBridge Jn"	"A down train from Kennet Bridge Jn to Platform12"	"Standard JnMargin matrixto apply atKennetBridge Jn"
+"An up train from Platforms 13-15 towardsReading Southern Jn"	"A down train from Kennet Bridge Jn to Platform15"	4 minutes
+"An up train from Platforms 13/14 towardsReading Southern Jn"	"A down train from Kennet Bridge Jn to Platform14"	4 minutes
+"A down train from Kennet Bridge Jn toPlatforms 13/14 via Down Relief"	"An up train from Platform 12 to Kennet BridgeJn"	1 minute
+"A down train from Kennet Bridge Jn or ReadingSouthern Jn to Platform 15"	"An up train from Platform 13/14 to KennetBridge Jn via Up Relief"	1 minute
+Reading High Level Jn			
+""			
+Adjustment to Sectional Running Time (to be shown approaching location)			
+Movement	Reason	Timing Load	Value
+"Crossing from Up Main to Down Main orFestival Line"	Slower speed junction	"80x / 387 / 319 /769 / 22x /  16x /Class 4 freight"	{1⁄2}
+""			
+Adjustment to Sectional Running Time (to be shown after this location)			
+Movement	Reason	Timing Load	Value
+"Reading to Reading High Level Junction(ML or FVL) – having stopped at Reading"	"Not at line speed passingReading High LevelJunction"	"Class 4 and 61000t and 1200T"	{1⁄2}
+""		"Class 4 and 61400T and1600T"	{1}
+""		"Class 6 1800Tand 2000T"	{11⁄2}
+""		"Class 6 2200Tand 2400T"	{2}

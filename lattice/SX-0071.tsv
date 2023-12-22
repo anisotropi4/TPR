@@ -1,0 +1,7 @@
+SO250 FACTORY JUNCTION TO MITRE BRIDGE JUNCTION			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+Factory Junction	Factory Junction	"07.00 – 09.4516.00 – 19.00"	"From Longhedge Junction toAtlantic/Chatham Lines"
+North Pole Junction	"North Pole Junctionto LatchmereJunction (No 3)"	ALL DAY	"No more than 13 paths per hour in eachdirectionStopping services are likely to absorb morethan one path"
+SO250A GROSVENOR BRIDGE JUNCTION TO FACTORY JUNCTION			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+Factory Junction	Factory Junction	"07.00 – 09.4516.00 – 19.00"	"From Longhedge Junction toAtlantic/Chatham Lines"

@@ -1,0 +1,39 @@
+Redcar Ore Terminal		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Redcar Terminals	Down Pass Shell Junction	3
+Pass from Redcar Terminals	Down Pass Shell Junction	3
+Pass from Redcar Terminals	Up Pass Redcar Central	1*
+Down Pass Shell Junction	Pass to Redcar Terminals	41⁄2
+Down Pass Shell Junction	Pass from Redcar Terminals	6
+* If first train is over 600m to be increased by 1⁄2		
+Redcar Central		
+""		
+Dwell Time		
+Standard	1	
+TPE (Through service)	11⁄2	
+TPE (Passenger forming ECS)	2	
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Trains departing Platform 2 crossingto the Up line"	Acceleration	2 to be applied after Redcar Central
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart platform 2 towards Middlesbrough	Arrive/Pass Platform 2from Middlesbrough	41⁄2
+Depart Platform 2 to Down Loop	Arrive/Pass Platform 2 from Middlesbrough	41⁄2
+Pass Platform 2 in Down direction	Arrive Platform 2 from Loop	21⁄2
+Depart Platform 2 in Down direction	Arrive Platform 2 from Loop	3
+""		
+Minimum Turnround	"5 – Northern ServicesThere must not be two consecutive 5 minute turnrounds, and the total of anytwo consecutive turnrounds must equal 15 minutes.  These values may bereduced if sufficient pathing time is included in the schedule approachingRedcar"	
+Maximum Dwell	"20 Any turnround longer than 20 should have a shunt movement so thatthrough services can still operate"	
+""		
+"Planning NoteIt is desirable (though not essential) for terminating trains in excess of 3 coaches to shunt via the Down Loop forSelective Door Opening (SDO) purposes."		
+Saltburn West Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Saltburn	Pass to Saltburn/ Crag Hall	3
+Pass to Crag Hall	Pass from Saltburn	4
+Pass from Crag Hall	Pass to Crag Hall	"11⁄2 minutesafter the firsttrain haspassedLongbeck"

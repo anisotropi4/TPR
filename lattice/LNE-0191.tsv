@@ -1,0 +1,17 @@
+"LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THECOAST"		
+Northallerton East Junction		
+Adjustment to sectional running times		
+Movement Up	Reason	Value
+"Trains booked to stop at Y478. Tobe applied approaching"	Slow approach	1⁄2 passenger and light engines only
+""		
+Movement Down	Reason	Value
+Trains from Northallerton station	Acceleration	"1⁄2 Except the freight listed below1 - TR100 timing loads11⁄2 TR115 and above timing loads1 - Class 60 1400-1600t11⁄2 - Class 60 1800t and above1 -Class 66 2000-2400t11⁄2 Class 66 2600t and aboveTo be applied after NorthallertonEast Juncion"
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Boroughbridge Road LC	Depart Northallerton Down Loop to Eaglescliffe	11⁄2
+Pass to Boroughbridge Road LC	Pass from Northallerton Down Loop	31⁄2
+Passenger pass from Northallerton	Depart to Boroughbridge Road LC	11⁄2
+Passenger pass from Northallerton	Pass to Boroughbridge Road LC	3
+Freight pass from Northallerton	Depart to Boroughbridge Road LC	2
+Freight pass from Northallerton	Pass to Boroughbridge Road LC	31⁄2
+""		

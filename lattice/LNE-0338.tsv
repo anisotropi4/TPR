@@ -1,0 +1,26 @@
+LN852 HOLBECK JUNCTION TO BRADFORD INTERCHANGE					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Up – Weekdays					
+Approach Holbeck Junction	E		1		
+P		1			
+LN854 HALL ROYD JUNCTION TO COLTON JUNCTION					
+Timing Section	Type	"LH22X"	MU	Freight	Remarks
+""					
+Down – Weekdays					
+Approach Bradley Wood Junction	E		1		Trains to Huddersfield only
+"Approach Healey Mills/HorburyJunction"	E	2	1	2*	*1 minute for Class 0 services
+Approach Horbury Junction	P		1		Trains from Huddersfield
+Approach Castleford	E			1	From Normanton direction only.
+Approach Milford	E	2	2	2	
+Approach Colton Junction	P	1	1		
+Up – Weekdays					
+Approach Brighouse	E		1		Terminating trains only
+Approach Castleford	E	1	1	1	
+LN858 MILNER ROYD JUNCTION TO BRADFORD MILL LANE JUNCTION					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	Cl 6	Remarks
+""					
+Down – Weekdays					
+Approach Mill Lane Junction	E	2	1*		"*Does not apply to services starting atHebden Bridge"
+Up – Weekdays					
+Approach Halifax	P		1		"Terminating trains and trains toHuddersfield only"

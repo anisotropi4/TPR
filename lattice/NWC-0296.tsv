@@ -1,0 +1,36 @@
+""	Liverpool South Parkway		
+""			
+""	"All non-stop trains towards Garston Jn crossingto the Up Slow via platform 4"	Approach control and slow speed junction	11⁄2
+""			
+""	Connectional Allowance	7	
+""			
+""	Dwell Time	"1 Class 35011⁄2 Class 80x for pick up or set down only"	
+""	Former Edge Hill SB		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Passenger train passes from Down Chat Mossto Down Fast"	"Passenger train passes from Liverpool LimeStreet on Up Main"	5
+""	"Passenger train passes from Lime Street on UpMain"	"Passenger train passes from Down Chat Mossto Down Fast"	3
+""	Passenger train passes on Up/Down	Freight passes from Wapping Sidings	3
+""	Passenger train passes on Up/Down	Freight passes to Wapping Sidings	3
+""	Freight passes from Wapping Sidings	Passenger train passes on Up/Down	5*
+""	Freight passes to Wapping Sidings	Passenger train passes on Up/Down	5*
+""	Freight passes from Wapping Sidings	Freight passes to Wapping Sidings	5
+""	"* Where the second movement is a Down passenger train with a minimum of 1 minute pathing time approachingFormer Edge Hill SB., the Junction Margin may be reduced to 4 minutes."		
+""	Edge Hill		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass on Up Fast	Pass on Down Slow from Edge Hill Depot	4
+""	Arrive Edge Hill on Down Fast	Pass on Down Slow from Edge Hill Depot	4
+""	Depart/pass Edge Hill on Down Slow	Pass on Down Slow from Edge Hill Depot	5
+""	Depart/pass Edge Hill on Down Fast	Pass on Down Fast from Edge Hill Depot	5
+""	Edge Hill Wapping Sidings		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	First train arrives in sidings	Second train arrives in sidings	15 *
+""	First train departs from sidings	Second train departs from sidings	20 *
+""	* To allow sufficient time for locomotive to perform run-round movement.		
+""			
+""	Run-round Allowance (DOO)	30 minutes for DB Cargo trains	

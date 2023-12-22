@@ -1,0 +1,32 @@
+Gatwick Airport
+""
+"The non-stop headway applies for consecutive trains departing from or passing Gatwick Airport providing the secondtrain uses a different platform and the correct headway is applied at the next timing point irrespective of callingpattern. National TPR section 1.5.5 Application of Planning Headways refers."
+"The non-stop headway applies for consecutive trains arriving at or passing Gatwick Airport providing the secondtrain uses a different platform and the correct headway has been applied at the previous timing point irrespective ofcalling pattern. National TPR section 1.5.5 Application of Planning Headways refers."
+Gatwick Airport C.H.S.		
+""		
+Berthing Facilities		
+Location	Cars	Notes
+No1 Siding	12	
+No2 Siding	12	
+No3 Siding	12	
+Tinsley Green Junction		
+""		
+Adjustment to Sectional Running Times		
+First Movement	Reason	Value
+Pass Gatwick on Down Slow to Down Fast	Approach Control on Signal T257	{1⁄2}
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+Down Slow to Down Fast	Train passing Three Bridges on the Up Fast	2
+Down Slow to Down Fast	Depart Three Bridges on the Up Fast	1
+Up Fast to Up Slow	Pass Gatwick Airport on Down Slow	2
+Up Fast to Up Slow	Depart Gatwick Airport on Down Slow	1
+Pass/Arrive Gatwick Airport on Up Fast	Down Slow to Down Fast	2
+Pass/Arrive Three Bridges on Down Slow	Up Fast to Up Slow	2
+Crawley New Yard			
+""			
+Junction Margins			
+First Move	Second Move	Margin	
+Arrive	Depart	30	
+Depart	Depart	30	
+Arrive	Arrive	30	

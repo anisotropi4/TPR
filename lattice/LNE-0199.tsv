@@ -1,0 +1,34 @@
+Pelaw Metro Junction			
+""			
+Junction Margins			
+First Movement	Second Movement		Margin
+"Down Metro Pass Pelaw Metro Jn fromSunderland"	"Down passenger/light engine Pass PelawJunction from Sunderland"		3
+"Down Metro pass Pelaw Metro Jn fromSunderland"	"Down freight pass Pelaw Junction fromSunderland"		31⁄2
+Up Metro Pass Metro Jn to Sunderland	"Up Passenger/light engine pass PelawJunction to Sunderland"		21⁄2
+Up Metro Pass Metro Jn to Sunderland	Up Freight pass Pelaw Junction to Sunderland		2
+Down Pass Pelaw Junction from Sunderland	"Down Metro Pass Pelaw Metro Jn fromSunderland"		2
+"Pass Passenger/light engine pass PelawJunction to Sunderland"	Up Metro Pass Pelaw Metro Jn to Sunderland		21⁄2
+Up Freight pass Pelaw Junction to Sunderland	Up Metro pass Pelaw Metro Jn to Sunderland		4
+Pelaw Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Trains into Pelaw Goods Loops	Approach Control	1⁄2
+Trains from Jarrow to Park Lane	Acceleration	"1 to beappliedapproachingnext timingpoint"
+Movement Up	Reason	Value
+Trains from Pelaw Goods Loops	Accelaration	"2 (1 MU)to be appliedapproachingnext timingpoint"
+Trains to Jarrow or Wardley.	Approach Control	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down depart Heworth	"Down pass Pelaw Junction from Jarrow orWardley"	3
+Down depart Heworth	Down depart loop	21⁄2
+"Passenger/light loco Down pass PelawJunction to Heworth (not stopping)"	"Down depart loop/pass Pelaw Junction fromJarrow or Wardley"	31⁄2
+Down pass	Up train depart Down Goods Loop	11⁄2
+Down train arrive Up Goods Loop	"Up pass towards Boldon (not stoppingHeworth)"	2
+Down train arrive Up Goods Loop	Up pass towards Jarrow/Wardley	1
+Down train arrive Up Goods Loop	Up depart Heworth	1⁄2
+Freight pass from Jarrow	Up depart Heworth	21⁄2
+Light loco pass Pelaw Junction from Jarrow	Up depart Heworth	11⁄2
+Freight pass Pelaw Junction from Jarrow	"Pass Pelaw Junction to Boldon (not stoppingHeworth)"	3
+Light loco pass Pelaw Junction from Jarrow	"Pass Pelaw Junction to Boldon (not stoppingHeworth)"	2

@@ -1,0 +1,32 @@
+Hilton Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down trains from Ladybank between HiltonJunction and Perth"	Acceleration	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up pass to Dunblane	Down pass from Ladybank	3
+Down pass from Ladybank	Up pass to Dunblane	3
+Down pass from Ladybank	Up pass to Ladybank	3
+""		
+"RestrictionLocomotive hauled trains (including Light Engines but excluding HSTs) must not be timed to pass any other trainover UB88 (Earn Viaduct).  Whenever this restriction is to be applied...If the first train to pass Hilton Jn is a down train, the up train must pass a minimum of 11⁄2 minutes afterwards.If the first train to pass at Hilton Jn is an up train, the down train must pass a minimum of 8 minutes afterwards.Train arrive from Ladybank / train pass to Dunblane should not be planned."		
+Perth		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains arriving Platform 2 or 3 via DownDundee Loop"	Slower speed route	"1⁄2(approachingPerth)"
+Trains departing Platform 3 to Stanley Junction	Longer departure route at low speed	1
+""		
+Dwell Time		
+MU/HST Power Doors	11⁄2	
+LH	3	
+"ScotRail trains to/from Invernessvia Aviemore"	2	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Down Dundee Loop from South	Depart/pass Up	11⁄2
+Depart/pass Up	Arrive Down Dundee Loop from South	5
+Depart Platfrom 6 or 7 towards Hilton Jn	Arrive from Hilton Jn (when conflicting)	31⁄2
+Depart Platform 4 towards Stanley	Arrive Platform 3 or 4 from Stanley	61⁄2
+"Operating Note:LNER services that exceed 3 hours 30 minutes running between Edinburgh Waverley-Inverness must have 5minute dwell at either Stirling, Perth or Pitlochry for Driver PNB requirements"		

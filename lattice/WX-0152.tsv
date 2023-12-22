@@ -1,0 +1,36 @@
+Virginia Water			
+"Up freight passes/departs Platform 3 towardsStaines"	Up train passes Platform 1 from Sunningdale	4	
+"Up freight passes from Chertsey towardsStaines"	"Down train arrives/passes Platform 2 fromStaines"	4	
+Up train departing Platforms 2/4 towards Staines	Down train arrives/passes from Staines	5	
+Down train departs Platform 3 towards Chertsey	"Up train arrives/passes Platform 3 fromChertsey"	41⁄2	
+"Train which has shunted via Signal BEF2706arrives/passes Platform 3"	"Down train passes Platform 4 towardsChertsey"	2	
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Signal	Margin
+"Up train arrives at Platform 1 fromSunningdale"	"Up train passes Platform 3 towardsEgham"	BEF2214	3*
+"Up train arrives at Platform 1 fromSunningdale"	"Up train departs Platform 2/3/4towards Egham"	BEF2214	1*
+"Up train arrives at Platform 1 fromSunningdale"	"Down train arrives/passes Platform2/3/4 from Signal BEF2217"	BEF2214	3*
+"Up train passes/departs Platform 2/3/4towards Egham"	"Up train arrives at Platform 1 fromSunningdale"	BEF2214	4*
+"Down train arrives/passes Platform2/3/4 from Signal BEF2217"	"Up train arrives at Platform 1 fromSunningdale"	BEF2214	3*
+"Train arrives at Platform 4 from SignalBEF2706"	"Down train arrives/passes Platform 2from Egham"	BEF2702	3
+"Train arrives at Platform 4 from SignalBEF2706"	"Up train departs Platform 2 towardsEgham"	BEF2702	1
+"Down train arrives/passes Platform 2from Egham"	"Train arrives at Platform 4 from SignalBEF2706"	BEF2702	3
+"Up train departs Platform 2 towardsEgham"	"Train arrives at Platform 4 from SignalBEF2706"	BEF2702	3
+"* Movements can be made in parallel if the arrival into Platform 1 has {11⁄2} approaching Virginia Water to allowfor the approach control when using the reduced overlap."			
+Ascot		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+Up passenger train passing from Frimley	Speed Differential	{1⁄2}*
+"Up freight up to 1200t/TR70 passing fromFrimley"	Speed Differential	{1⁄2}*
+Up freight over 1201t/TR85 passing from Frimley	Speed Differential	{1}*
+* Allowance to be applied approaching the next timing point after Ascot		
+""		
+Connectional Allowances		
+All Services	3	
+""		
+Dwell Times		
+All Services	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin

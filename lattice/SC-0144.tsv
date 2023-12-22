@@ -1,0 +1,40 @@
+Glasgow Queen Street		
+""		
+Connectional Allowance	"1030 To/from Glasgow Central"	
+""		
+Platform End Conflicts		
+First Movement	Second Movement	Margin
+Depart all platforms	Arrive all platforms where confliction occurs	3
+Arrive all platforms	"Depart all platforms where confliction occurs atplatform end"	1*
+Arrive all platforms	"Depart all platforms where confliction occurs atpoints 747 or 748 in tunnel"	Simultaneous
+"* If incoming service has 1⁄2 minute or more pathing time immediately approaching Queen Street, simultaneousarrive/depart is permissible"		
+SC109 POLMONT TO CARMUIRS WEST JUNCTION		
+""		
+Grangemouth Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement Down	Reason	Value
+Down freight from Fouldubs Jn up to 600t	Acceleration	1⁄2*
+Down freight from Fouldubs Jn 800-1000t	Acceleration	1*
+Down Electric hauled freight from Fouldubs Jn	Acceleration	1*
+Down freight from Fouldubs Jn 1200-1400t	Acceleration	11⁄2*
+Down freight from Fouldubs Jn 1600t-1800t	Acceleration	2*
+Down freight from Fouldubs Jn 2000t and over	Acceleration	21⁄2*
+*Applied approaching next timing point		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Freight trains from Grangemouth to CarmuirsEast"	Trains from Carmuirs East to Polmont	4
+Down train departs Falkirk Grahamston	ECS departs from Goods Lines	2
+""		
+"NoteWhen planning reversals at Grangemouth Junction care must be taken to ensure the correct signal is used toavoid blocking traffic to or from Fouldubs Junction."		
+Falkirk Grahamston	
+""	
+Connectional Allowance	3
+""	
+Dwell Time	
+150 / 158 / 170	1
+LH Slam Doors	2
+HST Power Doors	11⁄2
+""	
+"RestrictionPathing time must not be used between Falkirk Grahamston and Grangemouth Junction in either direction, owingto signaling constraints."	

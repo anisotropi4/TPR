@@ -1,0 +1,40 @@
+""	MD306 BIRMINGHAM NEW STREET TO ASHCHURCH (EXCLUSIVE)					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	Blackwell North Jn					
+""	Blackwell Down Goods Loop	–		S	Recessed trains only	
+""	Blackwell South Jn					
+""	Bromsgrove North Jn					
+""	Bromsgrove	– DBL	–		Platform detail must be shown	
+""	Bromsgrove Tamper Siding		–	S		
+""	Bromsgrove South Jn					
+""	Up Bromsgrove Neck		–	S		
+""	Stoke Works Jn	–	–		To/from Droitwich Spa – MD900	
+""	Spetchley North Jn					
+""	Up Spetchley Goods Loop		–	S		
+""	Spetchley South Jn					
+""	Worcestershire Parkway	–	–	S	Platform detail must be shown	
+""	Abbotswood North Jn					
+""	Abbotswood Jn	–	–		To/from Norton Jn – MD900	
+""	Eckington North Jn					
+""	Up Eckington Goods Loop		–	S		
+""	Eckington South Jn					
+""	NW&C/Western Route Boundary				78 miles 40 chains	
+""	Ashchurch	–	–		"To/from Cheltenham Spa – Refer toGW401 - Western & Wales TimetablePlanning RulesTiming point can be omitted from a ‘150TIPLOC’ schedule"	
+""	MD310 BARNT GREEN TO REDDITCH				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Barnt Green	–			"Platform detail must be shownTo/from Longbridge – MD306"
+""	Barnt Green Single Line Jn				"Single line between Barnt Green SingleLine Jn and Alvechurch Station Jn"
+""	Alvechurch Station Jn				
+""	Alvechurch	–	–		Platform detail must be shown
+""	Weights Lane Jn	–	–		"Single line between Weights Lane Jn andRedditch"
+""	Redditch		–		
+""	MD315 STECHFORD SOUTH JN TO ASTON SOUTH JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Stechford South Jn				To Birmingham International – MD301
+""	Stechford	–	–		
+""	Stechford North Jn				From Birmingham International – MD301
+""	Aston Signal SB4619	–		S	TIPLOC ASTO65
+""	Aston	–	–		"To/from Perry Barr North Jn – MD320Platform detail must be shown"

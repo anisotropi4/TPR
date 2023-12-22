@@ -1,0 +1,47 @@
+""	GW105 UFFINGTON TO FORDGATE VIA BOX				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Loop)				
+""	Swindon Transfer	–		S	"Down direction only from HighworthJunction"
+""	Swindon Rover Group Sidings	–	–	S	
+""	Swindon Cocklebury	–	–		"Timing point to / from Holding Sidings,Rover Group and Cocklebury EMU Sidings"
+""	Cocklebury EMU Sidings		–	S	
+""	Swindon Holding Sidings		–	S	
+""	Swindon Stores	–	–	S	
+""	Swindon	"– UM*UK#"	"–RCLDM*"		"Platform detail must be shown.*If running reversibly# If running via Up Kemble (downdirection) to Rodbourne JnTo/from Rodbourne Jn – GW480"
+""	Swindon Signal SW1212		–	S	"Trains timed to stand on the Up Mainbetween Rushey Platt and Swindon"
+""	Wootton Bassett Junction	–	–		To/from Hullavington – GW600
+""	Wootton Bassett Foster Yeoman	–	–	S	
+""	Wootton Bassett Ground Frame	–	–		Access to Wootton Bassett Foster Yeoman
+""	Chippenham	–	–		Platform detail must be shown.
+""	Thingley East Jn	– UM*	– DM*		*reversible working
+""	Thingley Junction	–	DM		"Timing point for all Down services (exceptwhen running reversibly to Bathampton Jnon the Up Main) as well as up services exthe Melksham branch.To/from Bradford Jn (via Melksham) –GW523"
+""	Bathampton Junction	UM	DM		" required for reversible line working only.To/from Bradford Jn – GW510"
+""	Bath Spa	–	–		Platform detail must be shown.
+""	Bath Goods Signal B175	–		X	"For use when train is using Down mainfrom Bristol direction."
+""	Bath Goods Loop	–		S	
+""	Bath RTS	–		S	
+""	Oldfield Park	–	–	S	Platform detail must be shown.
+""	Keynsham	–	–	S	Platform detail must be shown.
+""	Bristol East Depot	–		S	
+""	Bristol East Depot DGL	–	–	S	
+""	North Somerset Junction	DM UM	– DM		"To/from Dr. Days Jn – GW530To/from Bristol West Jn – GW528 (GreatWestern Railway lease)"
+""	Bristol Kingsland Road	–		S	
+""	Bristol East Junction	"DM DFUM* UF*UR DR"	"DM* UMUR UF"		"*If running bi–directionallyTo/from Dr. Days Jn – GW450The line code from Bristol East Jn to BristolTM refers to the line when passing theEast Gantry except for moves from DownFilton Main to P11/12 which should showDF if routed via 7117pts (preferred) or UMif routed via 7110pts reversed and 7119ptsreversed (non-preferred.)"
+""					The line code from Bristol East Jn to Bristo
+""					TM refers to the line when passing the
+""					East Gantry except for moves from Dow
+""					Filton Main to P11/12 which should show
+""					DF if routed via 7117pts (preferred) or UM
+""					if routed via 7110pts reversed and 7119pts
+""					reversed (non-preferred.)
+""	Bristol High Level Siding	–	–	S	
+""	Bristol Temple Meads	DM DT	UM UF		Platform detail must be shown.
+"*If running bi–directionallyTo/from Dr. Days Jn – GW450The line code from Bristol East Jn to BristolTM refers to the line when passing theEast Gantry except for moves from DownFilton Main to P11/12 which should showDF if routed via 7117pts (preferred) or UMif routed via 7110pts reversed and 7119ptsreversed (non-preferred.)"
+The line code from Bristol East Jn to Bristo
+TM refers to the line when passing the
+East Gantry except for moves from Dow
+Filton Main to P11/12 which should show
+DF if routed via 7117pts (preferred) or UM
+if routed via 7110pts reversed and 7119pts
+reversed (non-preferred.)

@@ -1,0 +1,28 @@
+""	NW1007 NANTWICH (EXCLUSIVE) TO CREWE SOUTH JN				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	"Nantwich to Gresty Lane GrestyGreen West Jn"	AB+2	AB+2		
+""	"Gresty Lane Gresty Green WestJn to Crewe South Jn"	4	4		
+""	NW1009 BASFORD HALL JN TO SANDBACH SOUTH JN (INDEPENDENT LINES)				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	"Basford Hall Jn to Crewe SignalBH34/36"	"4AB+2"		"A 4 minute headway applies for permissivemovementsSee section 5.3 for additional information"	
+""	"Crewe Signal BH34/36 to CreweSorting Sidings North SB"	"4AB+2"			
+""	"Crewe Sorting Sidings North SB toCrewe Signal SG5/SG9"	4 AB+2		"A 4 minute headway applies for Permissivemovements"	
+""	"Crewe Signal SG5/SG9 to SalopGoods Jn SB"	"4AB+2"			
+""	"Salop Goods Jn SB to CreweSignal NH10/12"		"4AB+2"	"A 4 minute headway applies for Permissivemovements"	
+""	"Crewe Signal NH10/12 to CreweSorting Sidings North SB"		"4AB+2"		
+""	"Crewe Sorting Sidings North SB toBasford Hall Up Through SidingStop Board"		"4AB+2"	See section 5.3 for additional information	
+""	"Basford Hall Up Through SidingsStop Board to Crewe SortingSidings South"		"4AB+2"		
+""	"Crewe Sorting Sidings South toBasford Hall Jn"		"4AB+2"		
+""	"Crewe Sorting Sidings North SB toCrewe Signal NH43/44"		"4AB+2"		
+""	"Crewe Signal NH43/44 to BasfordHall Jn"		"4AB+2"		
+""	Salop Goods Jn SB to Sandbach	3	3		
+""	NW1011 GRESTY LANE TO SALOP GOODS JN				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	"Gresty Lane to Salop Goods JnSB"	AB+2 4	AB+2 4	"4 minute headway applies for permissivemovements"	
+""	NW1013 CREWE SORTING SIDINGS NORTH TO GRESTY LANE				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	Crewe SSN to Gresty Lane	AB+2 4	AB+2 4	4 minute headway applies	

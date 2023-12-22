@@ -1,0 +1,39 @@
+Harlow Town		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive platform 1/4	Pass platform 2/3	2
+Pass platform 2/3	Depart platform 1/4	2
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"For trains travelling from Bishop’s Stortford only- If the first train is routed into Harlow MillFreight Yard the second train requires extratime approaching Harlow Mill"	"Slow movement of first train over Junction intoYard"	{2}
+Harlow Mill Freight Yard		
+""		
+"Down Trains arriving at Harlow Mill need to reverse in the Down platform in order to gain access to Harlow MillFreight Yard"		
+""		
+Terminal Length		
+Freight Length Restriction	Freight Length Limit	62 SLU
+""		
+Restriction		
+"Harlow Mill Reception is part of Harlow Mill Freight Yard and cannot be used for pathing stops (A stops) in trains.Trains may only enter Harlow Mill Reception when accepted by groundstaff to serve one of the terminals."		
+Bishop’s Stortford C.S.		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Bishop’s Stortford to Up Main	"Conflicting departure from Bishop’s StortfordCS towards Bishop’s Stortford"	1
+Depart Bishop’s Stortford to Up Main	"Conflicting departure from Bishop’s StortfordCS towards Bishop’s Stortford"	11⁄2
+Bishop’s Stortford		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Up trains from Stansted Mountfitchet directionrouted via platform 1 or 3"	Via slow speed crossover	{11⁄2}
+Up train depart Platform 1 or 3	Via slow speed crossover	"{1⁄2}approachingnext timingpoint"
+"Down train arrive Platform 2 or 3(not required from Bishop’s Stortford CS)"	Via slow speed crossover	{1⁄2}
+""		
+Dwell Time		1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train depart from platform 2 or 3	Up train arrive	4
+""		

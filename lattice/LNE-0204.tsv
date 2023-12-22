@@ -1,0 +1,39 @@
+Middlesbrough		
+""		
+Connectional Allowance	5	
+""		
+Dwell Time		
+non-TPE	1	
+TPE	2	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart to Newport East	Depart West Dock to Middlesbrough	21⁄2
+Arrive platform 2	Arrive platform 2 from opposite direction	31⁄2
+Depart platform 2 to Newport East Junction	Arrive from Newport East Junction	4
+Depart Platform 2 to Cargo Fleet Road	Depart Platform 1 to Whitehouse Jn	21⁄2
+Depart to Cargo Fleet Road	Arrive from Up Fast	5
+Arrive from Cargo Fleet Road	Depart to Cargo Fleet Road	Same Time
+Arrive from Whitehouse Jun ction	Depart to Cargo Fleet Road	1⁄2
+Arrive Down Platform from Cargo Fleet Road	Arrive from Up Fast	31⁄2
+Depart Platform 1 to Carriage Sidings	"Arrive Platform 1 from Whitehouse Jn/CargoFleet Road"	5
+Track Circuit Constraint Margins		
+First Movement	Second Movement	Margin
+"Arrive Platform 1 from Whitehouse Jn/CargoFleet Road"	"Depart to Newport East Jn/MiddlesbroughWest Dock"	1#
+Depart Platform 2 to Newport East	"Arrive Platform 1 from Whitehouse Jn/CargoFleet Road"	41⁄2#
+"# Can be simultaneous if Arrival into platform 1 is given 1 adjustment approaching Middlesbrough"		
+""		
+Maximum Turnround		
+"15 minutes. Any turnround longer than 15 should have a shunt movement so that through services can stilloperate."		
+Minimum Turnround		
+From Saltburn/Whitby/Bishop Auckland	5*	
+From Newcastle/Metrocentre	71⁄2$	
+From Hexham or York	10	
+From Carlisle	15	
+From Points Beyond York	25 (including Shunting move)	
+"LNER ECS from Shell Junction forming a Class 1 or anLNER Class 1 forming ECS to Shell Junction"	5	
+"$ These times may be reduced by the amount of pathing time south of Sunderland or additional dwell time atSunderland or Hartlepool to a minimum of 5 mins*There must not be two consecutive 5 minute turnrounds, and the total of any two consecutive turnrounds mustequal 15 minutes.  These values may be reduced if sufficient pathing time is included in the schedule approachingMiddlesbrough"		
+""		
+"Restrictions185 shunts to West Dock limited to 1x3 car set"		
+""		
+Train Watering Points	Station and down sidings	

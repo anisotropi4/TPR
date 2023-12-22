@@ -1,0 +1,10 @@
+Humber Road Junction	196 Routes Detailed in the Matrix													
+2nd Move →	"PassUpMainto UpKillingholme"	"PassUpMaintoNCBArrivals"	"PassUM toReceptionSidings(viaArrival/Dep. Line)"	"PassUM toReception Road7 (viaArrival/Dep. Line)"	"PassUM toReception Road1 (viaArrival/Dep. Line)"	"PassUM toESL"	"PassUM toUpGrimsby"	"PassDMfromDownKillingholme"	"PassDMfromNCB"	"PassDM fromReceptionSidings(viaArrival/Dep. Line)"	"PassDM fromReception Road7 (viaArrival/Dep. Line)"	"PassDM fromReception Road1 (viaArrival/Dep. Line)"	"PassDMfromESL"	"PassDMfromDownGrimsby"
+1st Move ↓														
+"Pass UM toUpKillingholme"	H	H	H	H	H	H	H	P	P	P	P	P	P	P
+"Pass UM toNCB Arrivals"	71⁄2*	n/a	H	H	H	H	71⁄2*	71⁄2	n/a	P	P	P	P	P
+"Pass UM toReceptionSidings (viaArrival/Dep.Line)"	8*	H	101⁄2*	101⁄2*	101⁄2*	101⁄2*	121⁄2*	8	101⁄2	21†	251⁄2†	251⁄2†	20†	111⁄2
+"Pass UM toReceptionRoad 7 (viaArrival/Dep.Line)"	8*	H	101⁄2*	n/a	101⁄2*	101⁄2*	121⁄2*	8	101⁄2	21†	n/a	251⁄2†	20†	111⁄2
+"Pass UM toReceptionRoad 1 (viaArrival/Dep.Line)"	8*	H	101⁄2*	101⁄2*	n/a	101⁄2*	121⁄2*	8	101⁄2	21†	251⁄2†	n/a	20†	111⁄2
+"Pass UM toESL"	8*	H	91⁄2*	91⁄2*	91⁄2*	91⁄2*	111⁄2*	8	101⁄2	161⁄2†	21†	21†	n/a	101⁄2
+"Pass UM toUp Grimsby"	H	H	H	H	H	H	H	5	71⁄2	5	91⁄2	91⁄2	5	4

@@ -1,0 +1,32 @@
+"SC059 GLASGOW BRIDGE STREET JUNCTION TO STRANRAER (VIA PAISLEYGILMOUR STREET)"					
+Timing Section	Type	"LHHST22X"	MU#	FRT	Remarks
+""					
+Down – Weekdays					
+"Approaching Falkland Yard(terminating trains)"	E			2	
+Approaching Ayr	E		1		DMU only
+Approaching Girvan	E	1	1		Terminating trains only
+Approaching Stranraer	E	1	1	2	
+Up – Weekdays					
+Approaching Dalrymple Junction	E	1	1	2	
+Approaching Shields Junction	E		1		DMU from South of Ayr only
+"# See note regarding EMUs at the beginning of Section 5.5"					
+SC067 WEMYSS BAY JUNCTION AND WEMYSS BAY					
+Timing Section	Type	"LHHST22X"	MU	FRT	Remarks
+""					
+Down – Weekdays					
+Approaching Wemyss Bay	E	1			
+""	P		1		SR services only
+SC073 KILWINNING TO LARGS					
+Timing Section	Type	"LHHST22X"	MU	FRT	Remarks
+""					
+Down – Weekdays					
+Approaching Hunterston Junction	E			3	
+Approaching Fairlie	P		1		SR services only
+SC087 NEWTON JUNCTION TO MAUCHLINE (GOODS LINE)					
+Timing Section	Type	"LHHST22X"	MU	FRT	Remarks
+""					
+Down – Weekdays					
+Approaching Mauchline	E			4	
+Up – Weekdays					
+Approaching  Annbank	E			4	Trains from Mauchline
+E			2	Trains from Killoch	

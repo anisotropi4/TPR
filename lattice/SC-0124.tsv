@@ -1,0 +1,44 @@
+SC065 PAISLEY GILMOUR STREET TO GOUROCK		
+""		
+Wemyss Bay Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up train from Wemyss Bay	"Down train towards Wemyss Bay (not stoppingPort Glasgow)"	1
+Up train from Wemyss Bay	"Down pass towards Gourock (not stopping PortGlasgow)"	21⁄2
+Up train from Wemyss Bay	Down depart Port Glasgow to Wemyss Bay	Same time
+Up train from Wemyss Bay	Down depart Port Glasgow to Gourock	1
+Down pass to Gourock	Pass from Wemyss Bay	3
+Down pass to Gourock	Down depart GPL73 to Wemyss Bay	1
+Down pass to Gourock	Down depart GPL73 to Gourock	2
+Down pass to Wemyss Bay	Down depart GPL73 to Gourock	1
+Arrive GPL75 on Down Branch	Up depart Whinhill	2
+Arrive GPL75 on Down Branch	"Up pass Wemyss Bay Junction (not stoppingWhinhill)"	51⁄2
+Up train from Wemyss Bay	Depart GPL75 to Wemyss Bay	1*
+Up train arrive GPL74	"Down train depart Port Glasgow going toGourock"	4
+Up train arrive GPL74	"Down train depart Port Glasgow going toWemyss Bay"	Same time
+Up train arrive GPL74	Down pass going to Gourock	4
+Up train arrive GPL74	Down pass going to Wemyss Bay	2
+Pass to Gourock	Up train arrive GPL74	3
+*Subject to a minimum dwell of 3 minutes.		
+Gourock		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Platform 1 or 2	Arrive Platform 1 or 2	4
+Depart Platform 3	Arrive any Platform	4
+Arrive	Depart (when conflicting)	1
+SC067 WEMYSS BAY JUNCTION TO WEMYSS BAY		
+""		
+Dunrod Loop		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train passing Up train	Approach Control	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Down Loop	Pass Up	31⁄2
+Pass Up	Depart Down Loop	1
+Up arrive	Pass Down	3
+Pass Down	Up depart	1

@@ -1,0 +1,33 @@
+""	Acton Grange Jn		
+""			
+""	Movement Up	Reason	Value
+""	Pass Up Helsby to Up Main	"Approach control and decelerationAcceleration away from junction"	"12Approachingnext timingpoint"
+""	Warrington Bank Quay		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Non-stop trains via Up Slow or Up Goods to UpMain direct to Acton Grange Jn"	"Movement over and acceleration from 15mphcrossover"	"1approachingnext timingpoint"
+""	All trains crossing Up Fast to Platform 1	Approach control and slow speed crossover	1
+""			
+""	Dwell Time		
+""	EMU/DMU	1	
+""	LH/HST	2	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Down Freight train pass from Arpley	Pass Up Fast or Down Fast	5
+""			
+""	Platform Reoccupation Time	31⁄2	
+""			
+""	Splitting and Coupling of Units: Permitted in all platforms		
+""	Warrington R.M.T.					
+""						
+""	For northbound departures/arrivals:					
+""						
+""		ARR	DEP		ARR	DEP
+""	Warrington R.M.T.		XX.00	Winwick Jn		XX/00$
+""			"""USL"""			"""SL"""
+""	Winwick Jn		XX/05*	Warrington R.M.T.	XX.05	
+""	"If via Golborne Jn/SpringsBranch Jn."		"""FL""$"			
+""	If via Earlestown		"""-"""			
+""	"* for Class 325 and trains up to E315 only. Trains E385 and over to be XX/06.$ for W.C.M.L. trains only, add 1⁄2 between Winwick Jn and Golborne Jn/Springs Branch Jn as appropriate."					

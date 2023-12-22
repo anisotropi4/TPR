@@ -1,0 +1,18 @@
+""	Kingsbury Branch Jn
+""	
+""	Planning Rules
+""	
+""	"Incoming trains from Tamworth direction to show 2 minute OP stop to pick up radio and prepare to propel towardsKingsbury Reception SidingsDeparting trains from Kingsbury Reception Sidings towards Tamworth to show 1 minute OP stop to prepare tochange direction."
+""	Kingsbury Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Pass from Tamworth towards Whitacre Jn	"Junction speed differential and flashing yellowsignals"	"1⁄2 except:1 22x11⁄2 HST%"
+""			
+""	% Reduce to 1⁄2 if stopping at Tamworth		
+""			
+""	Movement Up	Reason	Value*
+""	"Pass to Tamworth having stopped at WaterOrton (via Up Derby)"	Not at line speed by Kingsbury Jn	1⁄2 170
+""	"Pass to Tamworth having crossed from UpDerby Slow or Park Lane Jn at Water OrtonWest Jn (via Up Derby)"	Not at line speed by Kingsbury Jn	"1⁄2 75mphfreight 800tand above1⁄2 60 mphfreight2000t/TR115and above"
+""	"Pass from Whitacre Jn to Tamworth (stoppingat Wilnecote)"	Junction speed differential and acceleration	11⁄2 170
+""	"Pass from Whitacre Jn to Tamworth (stoppingat Tamworth)"	Junction speed differential and acceleration	"1 17011⁄2 22x2 HST"

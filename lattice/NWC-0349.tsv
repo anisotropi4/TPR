@@ -1,0 +1,38 @@
+""	Salford Central		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive/Pass from Down Salford Fast Line	Depart to Up Salford Slow Line	1
+""	Train arrive/pass from Down Ordsall Chord	Depart towards Ordsall Lane Jn	1
+""			
+""	Other Restrictions		
+""	"No allowances to be inserted between Salford Central and Deal Street Jn as there is no signal section betweenthese locations."		
+""	Hope Street Peakstone Sidings			
+""				
+""	For eastbound departures:		"For westboundarrivals:"	
+""	Hope Street Peakstone Sidings	XX.00	Deal Street Jn	XX/00
+""	Salford Central	/	Salford Central	/
+""	Deal Street Jn	/	"Hope Street PeakstoneSidings"	XX.XX
+""	NW6007 Deal Street Jn to Ordsall Lane Jn
+""	
+""	Salford Central
+""	
+""	See entry under route NW6005 Manchester Victoria East Jn to Windsor Bridge South Jn
+""	Ordsall Lane Jn
+""	
+""	See entry under route NW6001 Manchester Piccadilly East Jn to Euxton Jn
+""	NW6009 WINDSOR BRIDGE NORTH JN TO SOUTHPORT		
+""			
+""	Crow Nest Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Between all movements (limited to 2 x 2 minutemoves in succession, after the 2nd movementa 3” margin is required)"		2
+""	Wigan Wallgate		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Down trains routed from the Up Main to theDown Southport"	Approach Control	"2 after WiganWallgate"
+""			
+""	Dwell Time		
+""	DMU/EMU	2	

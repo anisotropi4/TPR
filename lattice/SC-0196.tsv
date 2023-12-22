@@ -1,0 +1,30 @@
+Moy		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Arrive Loop	Up Pass	4
+Up Arrive Loop	Down Pass	5
+Up/Down pass on Mainline	Depart Loop in opposite direction	1
+""		
+"Operating InstructionsTrains planned to stop must use the Loop.Trains may ‘overtake’ another train running in the same direction, the train being overtaken standing in the Loop,the overtaking train passing through on the Main line."		
+Culloden		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Pass	Up Pass	3
+Millburn Yard		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrival at Yard	Departure Inverness/Rose Street routed via UH	1
+Millburn Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass towards Aberdeen	Pass from Culloden	3
+Pass Millburn Junction	Depart Inverness	1
+Pass Millburn Junction	Pass Rose Street	2
+Pass from Rose Street	Towards Rose Street, pass from Culloden	3
+Pass from Rose Street Inverness	Pass from Aberdeen	4
+""		
+"Planning NoteTrains must not be planned to stop in the Wash Road. The interlocking requires that I708 signal is showingproceed before a route can be set through the Wash Road.Pathing time must not be applied in the Up direction between Inverness or Rose Street and Millburn Junction dueto there being no intermediate signals"		

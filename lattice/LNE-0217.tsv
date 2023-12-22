@@ -1,0 +1,32 @@
+Swalwell Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart to Up (after reversal)	Pass Metrocentre on Down	3
+Depart to Up (after reversal)	Depart Metrocentre on Down	11⁄2
+Pass/arrive Metrocentre on Up	Depart from Down (after reversal)	1
+Hexham		
+""		
+Dwell Time		
+DMU	1	
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Depart to Newcastle from Down platform	Differential junction speed	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up Depart to Up Main (including signal H55)from Down platform"	Down Arrive	41⁄2
+Depart to Middle Road from platform	Down Arrive	4
+"Up Depart to Up Main (including signal H55)from Down platform"	Down pass	4
+Depart to Middle Road from platform	Down pass	3
+Down Pass / Depart	Depart Middle Road to Platform	21⁄2
+Up pass / depart Up platform	Shunt from Down platform to H55 on Up main	3
+""		
+Minimum Turnround	5 Same platform arriving and departing in passenger service	
+""	"3 Down arrive, depart as class 53 Class 5 at signal H553 Down empty arrive Up platform, depart in passenger service"	
+""		
+Shunts	Shunts at Hexham to be timed.	
+Haltwhistle
+""
+"Restrictions:•A train using the crossover west of Haltwhistle will prevent a Down train arriving or standing in the Downplatform due to signalling overlapNote:Signalling in the Up direction will allow a train to proceed past Haltwhistle to signal HW102, whilst waiting for aprevious train to clear the section. A further train can pass Low Row 2 minutes after the train passes Haltwhistle"

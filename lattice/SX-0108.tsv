@@ -1,0 +1,31 @@
+SO510 LONDON BRIDGE TO EPSOM DOWNS
+""
+London Bridge
+""
+"ECS movements To/From Streatham Hill should be routed via Crystal Palace unless prior agreement is reachedwith Network Rail"
+"At London termini 3 minutes to be allowed if possible between arrivals on adjacent platforms to allow customer toclear in the morning and evening peak."
+South Bermondsey Junction
+See entry under route – SO680
+Brunswick Court Junction
+""
+Planning Note
+"Pathing or performance allowances must not be placed between London Bridge and Brunswick Court Junction ineither direction as there are no intermediate signals"
+""
+Planning Restriction
+"Crossing moves at Brunswick Court Junction hold the overlaps of the down direction signals protecting the junctionthereby preventing conflicting departures from London Bridge."
+New Cross Gate Up Sussex Loop
+""
+Planning Note
+"No pathing time to be shown for a train departing/passing the Up Sussex Loop in the Up direction between theLoop and Bricklayers Arms Junction as there is no protecting signal between these locations. Any pathing timerequired to follow a preceding service should be shown as a dwell in the Loop."
+New Cross Gate		
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Dwell Times		
+All services except Class 378 towards Surrey Quays	1	
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"All movements crossing from Down Sussex Slow tothe Down Sussex Fast at New Cross Gate, that arenot booked to call at New Cross Gate"	Approach control on Signal TL4027	{1}
+"All non-stop movements crossing from Up SussexSlow to East London Line or Up Sussex Loop"	Approach Control on signal TL4018	{1⁄2}

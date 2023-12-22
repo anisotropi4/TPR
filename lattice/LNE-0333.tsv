@@ -1,0 +1,30 @@
+"LN682 KING EDWARD BRIDGE SOUTH JUNCTION TO PETTERIL BRIDGEJUNCTION"					
+Timing Section	Type	"LHHST80XEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Weekdays					
+Approach Hexham	E	1	1	1	
+Approach Petteril Bridge Junction	E	1	1	1	
+Up – Weekdays					
+Approach Hexham	E	1	1	1	
+Approach Norwood Jn	P		1		Not for trains starting at Metro Centre
+E	1	1	1		
+LN736 CLEETHORPES TO NUNNERY MAIN LINE JUNCTION VIA RETFORD					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Weekdays					
+Approach Gainsborough Central	E		5		"[5] is required to operate track circuitswhilst passenger operation is Saturdaysonly"
+Approach Retford	E	2	2	2	
+Approach Worksop	P		1		
+"Approach Nunnery Main LineJunction"	E	1	1	1	
+""	P		1*		"*Can be removed from Northern services ifthe arrival at Sheffield is advertised 1minute later to the public"
+Up – Weekdays					
+""					
+"ApproachWorksop"	E	2	1	2	Terminating trains only
+""	P		1⁄2		Terminating trains only
+Approach Retford	E	2	"1*5^"	2	"*Terminating trains only^ [5] is required to operate track circuitswhilst passenger operation is Saturdaysonly"
+""	P		1		Terminating trains only
+Approach Clarborough Junction	E	2	1	2	
+Approach Gainsborough Central	P		1		Terminating trains only
+"Approach Marsh Junction/GrimsbyTown"	E	2	1	2	
+""	P		2		Terminating Grimsby Town only
+Approach Cleethorpes	P		4*		"2 minutes may be shown as advertiseddifferential*For arrivals into Cleethorpes for servicesfrom Barton-on-Humber, the value of 1minute performance should be presentableas either <1> before or as public timetabledifferential in Cleethorpes arrival."

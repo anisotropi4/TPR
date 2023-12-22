@@ -1,0 +1,36 @@
+Brora
+""
+All trains must stop for token exchange purposes
+Helmsdale
+""
+"All trains must stop for token exchange purposes, unless a Long Section Token has been issued at theprevious Token Exchange Point."
+Forsinard		
+""		
+All trains must stop for token exchange purposes		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Trains that have originated atGeorgemas Junction C.E/Up Loop"	Operation of Ground Frame	10
+Halkirk
+""
+"All down trains must stop for token exchange purposes, unless a Long Section Token has been issued atthe previous Token Exchange Point."
+Georgemas Junction		
+""		
+All trains must stop for token exchange purposes		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Train arriving Up Loop/FreightTerminal"	Operation of Ground Frame	10
+""		
+Movement Up	Reason	Value
+Train arriving Up Loop from Wick	Operation of Ground Frame	10
+""		
+Connectional Allowance	1	
+""		
+Dwell Time		
+Reversing move	3	
+Down MU dividing	5	
+Up MU combining	6	
+Bower
+""
+"All up trains must stop for token exchange purposes, unless a Long Section Token has been issued at theprevious Token Exchange Point."

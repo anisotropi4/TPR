@@ -1,0 +1,39 @@
+Rutherglen West Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from West Curve	Up Passenger train pass Shawfield on Up Slow	3
+Pass from West Curve	Up Freight train pass Shawfield on Up Slow	31⁄2
+Up train pass Shawfield on Up Slow	Pass from West Curve	4
+Up train pass Shawfield on Up Slow	Depart from West Curve	2
+Pass Shawfield Down Slow	Pass/depart from West Curve	11⁄2
+""		
+"RestrictionMaximum standage in West Curve is 184m.   However EMUs of more than 6 vehicles must not have any standtime or allowances between Rutherglen West and Rutherglen North due to presence of neutral section."		
+Shawfield, Polmadie Clydesdale and Polmadie (East End)		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down trains from Down fast to Polmadie Up /Down Clydesdale"	Approach Control signal	1
+"Down trains from Down Slow to Polmadie Up /Down Clydesdale / Polmadie Depot"	Approach Control signal	1
+""		
+Movement Up	Reason	Value
+Up train from Up fast going to Up Slow	Approach Control	1⁄2
+""	Acceleration allowance	1⁄2
+"Train passing from Polmadie Up / DownClydesdale to Up Fast / Up Slow"	Acceleration allowance	"1 MU2 LH"
+"Train departing Polmadie Up / DownClydesdale to Up Fast / Up Slow"	Acceleration allowance	"1 MU3 LH"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Down Fast / Down Slow	Pass from Polmadie Up Clydesdale to Up Slow	31⁄2
+Pass Down Fast / Down Slow / Up Fast	Up depart Polmadie Up / Down Clydesdale	1
+Pass Down Fast / Up Fast	"Pass Down Slow to Polmadie Up / DownClydesdale"	3
+Pass from Polmadie Up / Down Clydesdale	Pass Down Fast	4
+"Pass Down Slow to Polmadie Up / DownClydesdale"	Pass Down Fast	4
+Pass Down to Polmadie Up / Down Clydesdale	Pass Up from Polmadie Up / Down Clydesdale	41⁄2
+Pass Down to Polmadie Up / Down Clydesdale	"Up depart from Polmadie Up / DownClydesdale"	1
+"Pass from Polmadie Up / Down Clydesdale toUp Slow"	Pass Up Fast	31⁄2
+"Depart from Polmadie Up / Down Clydesdale toUp Slow"	Pass Up Fast	41⁄2
+"Pass Down Slow to Polmadie Up / DownClydesdale"	Pass Up Fast	31⁄2
+"Pass from Polmadie Up / Down Clydesdale toUp Slow"	Pass Down Slow	41⁄2
+Pass Up Slow to Rutherglen West Curve	"Depart Polmadie Up / Down Clydesdale to UpSlow going to Rutherglen Central"	11⁄2
+Pass Up Slow to Rutherglen Central	"Depart Polmadie Up / Down Clydesdale to UpSlow going to Rutherglen West Curve"	1

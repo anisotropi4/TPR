@@ -1,0 +1,20 @@
+King Edward Bridge East Junction
+"+ Can be reduced to 4 minutes provided at least {1} applied between Norwood Junction and King Edward BridgeSouth Junction# In order to avoid coming to a stand at King Edward Bridge East Junction, (pathing time) can be added betweenPark Lane Junction and Greensfield Junction (or an ‘A’ stop added at Greensfield Junction), provided the trainlength does not exceed 630m"
+"Restrictions:•Maximum length of train which can stand at King Edward Bridge East Junction on South East Curve is95m•Maximum length of train which can stand at King Edward Bridge North Junction on South East Curve is135m•Maximum length of train which can stand at King Edward Bridge East Junction on Gateshead Curve is190m•Maximum length of train which can stand at King Edward Bridge South Junction on Gateshead Curve is195m•Maximum length of train which can stand at Greensfield Junction on Greensfield West line is 200m (ifcoming from High Level Bridge Junction) or 225m (if coming from Park Lane Junction)•A down train from Park Lane Junction/Greensfield Junction, coming to a stand at King Edward Bridge EastJunction, ‘claims’ the overlap across the junction. Margins above reflect the resultant timeoutNo allowances to be applied between King Edward Bridge South Junction and King Edward Bridge EastJunction, or between King Edward Bridge North Junction and King Edward Bridge East Junction in eitherdirection; an ‘A’ stop should be inserted when required"
+LN678 DARLINGTON NORTH JUNCTION TO EASTGATE		
+Heighington		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive from Darlington	Depart to Darlington	2
+Shildon		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive from Bishop Auckland	Arrive from Darlington	3
+Bishop Auckland/Bishop Auckland West	
+""	
+Minimum Turnround	"5.  DMU.  Turnrounds at origin and destination must cumulatively be no lessthan 15 minutes. These values may be reduced if sufficient pathing time isincluded in the schedule."
+"LN682 KING EDWARD BRIDGE SOUTH JUNCTION TO PETTERIL BRIDGEJUNCTION"
+King Edward Bridge South Junction
+Refer LN600

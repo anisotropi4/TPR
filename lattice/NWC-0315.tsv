@@ -1,0 +1,36 @@
+""	Gretna Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	All conflicting moves		4
+""	NW4005 PRESTON FYLDE JN TO BLACKPOOL NORTH
+""	
+""	Preston Fylde Jn
+""	See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+""	Kirkham & Wesham		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Non-stop train routed via platform 1	Flashing Yellows/Speed Differential	1⁄2
+""			
+""	Dwell Time		
+""	LH/HST	1	
+""	DMU/EMU	1, except:	
+""	All trains to/from Blackpool South	1⁄2	
+""	Class 390/80x	11⁄2	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Up train from Blackpool South passes orarrives platform 3"	Down train departs platform 2	1
+""	"Up train from Blackpool South passes orarrives platform 3"	Down train passes platform 2	3
+""	Down train departs or passes platform 2	"Up train from Blackpool South  passes orarrives platform 3"	4
+""	Poulton-Le-Fylde	
+""		
+""	Dwell Time	
+""	Class 158	1
+""	Class 390/80x	11⁄2
+""	Devonshire Road Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	All conflicting movements		21⁄2

@@ -1,0 +1,28 @@
+""	NW5015 HADFIELD TO ARDWICK JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Hadfield to Dinting SB	*	* Single line - One Train in Section (OTS)	
+""	Dinting SB to Hyde Jn	AB+2	AB+2	
+""	Hyde Jn to Guide Bridge	4	4	
+""	Guide Bridge to Ashburys	3	3	
+""	Ashburys to Ardwick Jn	2	2	
+""	NW5017 DINTING SOUTH JN TO DINTING EAST JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Dinting South Jn to Dinting EastJn"	*	"Single line - One Train in Section (OTS) withinDinting Station limits"	
+""	NW5019 GLOSSOP TO DINTING WEST JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Glossop to Dinting South Jn	*	* Single line - One Train in Section (OTS)	
+""	"Dinting South Jn to Dinting WestJn"	*	"* Single line - One Train in Section (OTS) withinDinting Station limits"	
+""	NW5021 GUIDE BRIDGE WEST JN TO STALYBRIDGE			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Guide Bridge West Jn toStalybridge"	4	4	
+""	NW6001 MANCHESTER PICCADILLY EAST JN TO EUXTON JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Manchester Piccadilly to WaterStreet Jn (inclusive)"	"2*3$"	"2*3$"	"* Following a passenger service (includes Class 1,2 and Class 3 or 5 ECS) and light engines.  Wherethere are 2 successive movements following apassenger service at the minimum headway, thenext train whether passenger or freight must followat a headway of 3$ following Freight"
+""	"Water Street Jn (exclusive) toLostock Jn"	3	3	
+""	Lostock Jn to Chorley	4	4	
+""	Chorley to Euxton Jn	4	4	

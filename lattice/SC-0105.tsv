@@ -1,0 +1,37 @@
+SC029 LARKFIELD JUNCTION TO SHIELDS JUNCTION		
+""		
+Terminus Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement Down	Reason	Value
+"Down train from Muirhouse going to ShieldsJunction"	Acceleration	1⁄2
+""		
+Movement Up	Reason	Value
+"Up trains from Shields Junction via the ‘BurmaRoad’ approaching Larkfield Junction"	"Acceleration from low speed line(Train length below 300m)"	1
+""	"Acceleration from low speed line(Train length between 300m and 350m)"	11⁄2
+""	"Acceleration from low speed line(Train length between 350m and 400m)"	2
+""	"Acceleration from low speed line(Train length greater than 400m)"	21⁄2
+"Up train from Shields Junction going toMuirhouse"	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up pass to Muirhouse	Down pass to Shields	3
+Pass to Shields	Up pass to Muirhouse	2
+""		
+"RestrictionsOnly one train can stand or be on line between Muirhouse Central Junction and Terminus Junction at any onetime."		
+"SC031 GRETNA JUNCTION TO GLASGOW BRIDGE STREET JUNCTION (VIAKILMARNOCK)"
+""
+Gretna Jn
+""
+Please refer to Line of Route NW4001 (LNW Timetable Planning Rules)
+Dumfries		
+""		
+Dwell Time		
+MU	11⁄2	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Train Pass	Depart P1 for Dumfries South Junction	2
+Up Train Depart	Depart P1 for Dumfries South Junction	2
+Down Train Depart/Pass to Holywood	Depart Dumfries South Junction for Platform 1	2
+Down Train Depart/Pass to Holywood	Depart Dumfries Yard	2

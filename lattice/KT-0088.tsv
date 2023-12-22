@@ -1,0 +1,38 @@
+Herne Hill		
+""		
+"Up train from platform 4 or turnback siding toUp Holborn"	"Down train on Down Holborn (non-stop orstopping)"	4
+Up train from platform 4 to Up Holborn	"Down train from Down Chatham arrives /passes platform 4"	4
+Up train from platform 4 to Up Chatham	"Down train from Down Chathamarrives/passes platform 3 or 4"	4
+Up train on Up Holborn (non-stop or stopping)	Up train from turnback siding to Up Holborn	3
+Up train from turnback siding to Up Holborn	"Up train on Up Holborn (non-stop orstopping)"	31⁄2
+Up train from Platform 4 to Up Holborn	"Up train on Up Holborn (non-stop orstopping)"	3
+"Up train departing from Platform 1 or 2 to UpHolborn"	"Down train on Down Chatham Main runningnon-stop"	21⁄2
+""		
+Planning Restrictions		
+"Down direction loco hauled services towards Tulse Hill cannot be planned to leave Herne Hill until the precedingtrain has cleared the platform at Tulse Hill. This is due to adverse gradients and curvature."		
+Herne Hill Turnback Siding
+""
+Length of Turnback Siding
+270 metres or 42 SLU (12 cars EMU Stock)
+""
+Kent House	
+""	
+Connectional Allowance	4
+Beckenham Junction		
+""		
+Berthing Facilities		
+Location	Cars	Notes
+Down Bay (Platform 4)	8	
+Up Bay (Platform 1)	8	Not to be used without prior arrangement
+""		
+Connectional Allowance	4	
+""		
+Permissive working for attaching/detaching and platform sharing is authorised as shown below:		
+Platform 1	Up Bay	"Attaching/Detaching and PlatformSharing"
+Platform 2	Up Main	"Attaching/Detaching and PlatformSharing"
+Platform 3	Down Main	"Attaching/Detaching and PlatformSharing"
+Platform 4	Down Bay	"Attaching/Detaching and PlatformSharing"
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+Platform 4 depart to Up Chatham Main	Down Chatham Main passing service	3

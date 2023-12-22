@@ -1,0 +1,36 @@
+""	Daventry North Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train departing Daventry Freight Terminalpasses Daventry North Jn towards HillmortonJn"	Train from Hillmorton Jn towards Long Buckby	4
+""	"Up departure from DIRFT passing DaventrySouth Jn"	"Any train passing Daventry North Jn in the Updirection"	6
+""	"Train passing Daventry North Jn towards LongBuckby"	"Train departing Daventry Freight Terminaltowards Hillmorton Jn"	2
+""	"Train entering Daventry Freight Terminal atDaventry South Jn"	"Passing Daventry North Jn towards LongBuckby"	4
+""	"Passenger pass Daventry North Jn in Updirection"	"Pass Daventry South Jn from Daventry FreightTerminal"	3
+""	Rugby
+""	See entry under route MD101 Euston to Armitage Jn (exclusive)
+""	MD120 CAMDEN JN TO WATFORD JUNCTION DC LINES		
+""			
+""	Queen’s Park		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down trains departing from Kilburn High RoadPlatform 1"	Slow Speed Crossover	1⁄2
+""	Queen’s Park Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Down LUL train from Queen’s Park Platform 3or LUL North Car Shed"	"Down DC line trains from Queen’s ParkPlatform 4"	3 1⁄2 $
+""	"Down DC line trains from Queen's ParkPlatform 4"	"Down LUL train from Queen’s Park Platform 3or LUL North Car Shed"	2 1⁄2 $
+""	$ The normal headway applies at the next timing point – see section 5.2		
+""	Willesden Junction Low Level		
+""			
+""	Dwell Time	1 Morning Up and evening Down peak (does not apply to LUL services)	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Down train from Kensal Green Jn	Up train pass towards Kensal Green	2
+""	Up train depart/pass towards Kensal Green	Down train from Kensal Green Jn	3
+""			
+""	Platform Reoccupation	"21⁄2 Same direction/Through Lines4 Platform 2 (Bay Platform)"	
+""			

@@ -1,0 +1,40 @@
+EA1070 WITHAM JUNCTION TO BRAINTREE				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Witham Junction				To/from Colchester/Chelmsford - EA1011
+White Notley	-	-	S	"ECS trains must show an OP stop in the Updirection"
+Cressing	-	-	S	"ECS trains must show an OP stop in the Downdirection"
+Braintree Freeport	-	-	S	
+Braintree	-	-		
+EA1080 MARKS TEY TO SUDBURY				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Marks Tey Junction				To/from Colchester/Chelmsford - EA1011
+Marks Tey	-	-		Platform detail must be shown
+Chappel & Wakes Colne	-	-	S	
+Bures	-	-	S	
+Sudbury	-	-		
+EA1090 COLCHESTER JUNCTION TO CLACTON-ON-SEA				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Colchester Junction				To/from Colchester - EA1011
+Colchester Signal CO1072		-	S	"Tiploc – CLCH072. For trains required to shuntvia Up and Down Clacton with an RM in theLocation Activity field"
+East Gate Junction	-	"CRCR3DA"		"To/from Colchester Town – EA1100Line code CR3 for trains routed towardsPlatform 3 via Up Main (avoiding Platform 4) atColchester"
+Hythe Junction				To/from Colchester Town – EA1100
+Hythe	-	-		
+Wivenhoe	-	-	S	
+Alresford	-	-	S	
+Great Bentley	-	-	S	
+Weeley	-	-	S	
+"Thorpe-le-Soken DownElectric Siding"	-	-	S	Tiploc – THPLESS
+Thorpe-le-Soken	-	-		Platform detail must be shown
+Thorpe-le-Soken Junction				To/from Walton-on-the-Naze - EA1110
+"Thorpe-le-Soken SignalCO1148"		-	S	"Tiploc – THPL148. For trains required to shuntvia Down Clacton with an RM in the LocationActivity field"
+Clacton Signal CO1180	-		S	Timing point for reverse moves
+Clacton Signal CO1183	-		S	Timing point for reverse moves
+Clacton Wash Road	-		S	"Timing point for shunt moves between Clacton(Station) and Clacton CS"
+Clacton Wheel Lathe	-		S	Tiploc – CLACWHL
+Clacton-on-Sea	-	-		Platform detail must be shown
+Clacton Down Sidings		-	S	"Only trains to/from SidingsSidings detail must be shown"
+Clacton Run Round Road		-	S	
+Clacton CS		-	S	Only trains to/from CS

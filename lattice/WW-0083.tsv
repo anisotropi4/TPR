@@ -1,0 +1,32 @@
+GW108 FORDGATE TO PENZANCE			
+"Burngullow to Grampound RoadSignal CL5883"	AB+1		
+"Grampound Road Signal CL5883to Buckshead Tunnel SignalCL5893"	AB+1		
+"Buckshead Tunnel Signal CL5893to Truro"	AB+1*		*Based on preceding train arrive/pass Truro
+Truro to Penwithers Junction	AB+1		
+"Penwithers Jn to ChacewaterSignal R31"	AB+2		
+"Chacewater Signal R31 toRedruth Signal R27"	AB+2		
+Redruth Signal R27 to Camborne	AB+2*		*Based on preceding train arrive/pass Camborne
+Camborne to Hayle Signal R19	AB+2		
+Hayle Signal R19 to St Erth	AB+2*		*Based on preceding train depart/pass St Erth
+St. Erth to Penzance	AB+2		
+""			
+Penzance to Long Rock		AB+2	"At Long Rock it is possible for an up train to clearthe single line standing at signal PZ64."
+Long Rock to St. Erth		AB+2	"Absolute Block to apply based on departure fromSt. Erth."
+"St Erth to Gwinear Road SignalR6"		AB+2	
+"Gwinear Road Signal R6 toCamborne"		AB+2	"Absolute Block to apply based on departure fromCamborne"
+Camborne to Redruth Signal R10		AB+2	
+"Redruth Signal R10 toChacewater Signal R14"		AB+2	
+"Chacewater Sig R14 toPenwithers Jn"		AB+1	
+Penwithers Jn to Truro		AB+2*	*Based on preceding train depart/pass Truro
+Truro to Probus Signal CL5884		AB+1	
+"Probus Signal CL5884 toBurngullow Junction"		AB+1⁄2	
+Burngullow Jn to St Austell		AB+1*	*Based on preceding train depart/pass St Austell
+St Austell to Par		AB+1*	*Based on preceding train arrive/pass Par
+Par to Lostwithiel		4*	*5 minutes following freight
+Lostwithiel to Bodmin Parkway		AB+0	"*Based on preceding train depart/pass BodminParkway"
+Bodmin Parkway to Largin Jn		AB+1	
+Largin Jn to Liskeard		AB+2*	*Based on preceding train depart/pass Liskeard
+"Liskeard to Menheniot SignalUM259"		AB+2	
+"Menheniot Signal UM259 to St.Germans"		AB+2	
+St. Germans to Saltash		AB+2	
+Saltash to St. Budeaux Junction		AB+2	Single line

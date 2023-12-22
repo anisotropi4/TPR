@@ -1,0 +1,34 @@
+Thirsk		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Fast to Down Slow	Pass Down Fast	21⁄2
+Pass Down Fast	Depart Down Slow to Down Fast	2
+Pass Up Fast	Depart Up Slow to Up Fast	11⁄2
+Pass Up Fast	Pass Up Slow to Up Fast	3
+Longlands Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Passenger Pass Down Slow to Down Maintowards Darlington (not stopping atNorthallerton)"	Acceleration	"1⁄2 to beapplied afterNorthallerton"
+"Depart Longlands Junction to Down Maintowards Darlington (not stopping atNorthallerton)"	Acceleration	"1⁄2 PassengerFreightUp to 1200t –no adjustmentrequired1400-1600t –1⁄21800t+ - 1To be appliedafterNorthallerton"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Down Main (Northallerton)	Pass from Down Slow	2
+Pass Down Main (Northallerton)	Depart from Down Slow	1
+Northallerton		
+""		
+Dwell Time		
+Standard	11⁄2	
+180	11⁄2 - May be reduced to 1 with prior agreement from the operator	
+DMU including 185	1	
+LNER all services	2 – May be reduced to 11⁄2 with prior agreement from the operator	
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Pass to Eaglescliffe from Down Fast	Deceleration	11⁄2
+Pass to Eaglescliffe from Down Slow	Deceleration	1
+Movement Up	Reason	Value
+Passenger Pass Up Main to Up Slow	Deceleration	1⁄2
+Pass from Eaglescliffe to Up Fast	Acceleration	"11⁄2 To beappliedapproachingnext timingpoint"

@@ -1,0 +1,40 @@
+SC003 CARSTAIRS SOUTH JUNCTION TO HAYMARKET EAST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Midcalder Junction	–	–		To/from Livingston South – SC007
+Midcalder Junction EJ982		–	S	Reversal location only
+Kirknewton	–	–	S	
+Curriehill	–	–	S	
+Wester Hailes	–	–	S	
+Kingsknowe	–	–	S	
+Slateford	–	–		
+Slateford Junction				To/from Craiglockhart Junction – SC165
+Haymarket EH520 Signal	–		S	
+Haymarket East Junction				To/from Haymarket – SC107
+SC005 CARSTAIRS TO CARSTAIRS EAST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Carstairs	–	–		"To/from Lanark Junction – SC001Platform detail must be shown.Only trains booked through Carstairsplatforms must be timed here"
+Carstairs Signal GMC419	–		S	
+Carstairs East Junction	–	–		To/from Auchengray – SC003
+SC007 MIDCALDER JUNCTION TO HOLYTOWN JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Midcalder Junction	–	–		To/from Slateford Junction – SC003
+Livingston South	–	"USHDSH"		"Timing point for Down direction stoppingtrains and all Up direction trains"
+West Calder	–	–	S	Platform detail must be shown
+West Calder signal EJW730		–	S	Reversal location only
+Addiewell	–	–	S	
+Breich	–	–	S	
+Fauldhouse	–	–	S	
+Benhar Junction	–	–		
+Shotts	–	–		Platform detail must be shown
+Hartwood	–	–	S	
+Cleland	–	–	S	
+Carfin	–	–	S	
+Holytown Junction	–	–		To/from Mossend East Junction SC011
+SC009 LANARK TO LANARK JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Lanark	–	–		Platform detail must be shown
+Lanark Junction	–	–		To/From Law Junction – SC001

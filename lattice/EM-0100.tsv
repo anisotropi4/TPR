@@ -1,0 +1,25 @@
+Barton-under-Needwood South Junction
+""
+Planning Note
+Trains from Central Rivers Depot towards Alrewas can be routed via either the Down or Up Tamworth
+""
+Planning Restriction
+"No timing allowances should be applied between Barton South Junction and Wichnor Junction on the UpTamworth Line as there are no intermediate signals"
+Wichnor Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Pass from Down Tamworth towardsAlrewas"	"Approach control – to be appliedapproaching Wichnor JunctionNot applicable to ECS moves off CentralRivers Depot that are timed at BartonSouth Junction"	"11⁄2 170/22x/HST2 Other"
+"Pass Down Tamworth towardsTamworth having departed Barton-under-Needwood CMD"	"Acceleration – to be appliedapproaching next timing point afterWichnor Junction"	11⁄2
+""		
+Movement Up	Reason	Value
+"Pass from Alrewas to Up Tamworthtowards Burton"	"Acceleration – to be appliedapproaching next timing point afterWichnor JunctionNot applicable to ECS moves ontoCentral Rivers Depot"	"Passenger11⁄2 170/22x/HSTFreightClass 41 400t11⁄2 600t/TR402 800t – 1400t11⁄2 1600t – 1800tClass 61⁄2 <600t/TR401 800t – 1200t/TR55-7011⁄2 1400t – 1800t/TR85-1002 2000t – 2600t/TR115-145"
+"Pass Up Tamworth from Tamworth androuted towards Barton-under-Needwood CMD"	"Approach control – to be appliedapproaching Wichnor Junction"	11⁄2
+""		
+Junction Margins (where the first movement is a Down direction movement on LN3501)		
+First Movement	Second Movement	Margin
+Pass from Burton towards Tamworth	"Pass from Central Rivers Depot towardsTamworth"	"21⁄2 following passenger31⁄2 following freight"
+Pass from Burton towards Tamworth	"Pass from Central Rivers Depot towardsAlrewas (via Down Tamworth/SignalDY82)"	2
+Pass from Burton towards Tamworth	"Pass from Central Rivers Depot towardsAlrewas (via Up Tamworth)"	Parallel
+Pass from Burton towards Alrewas	Pass from Burton towards Tamworth	"21⁄2 where 2nd train ispassenger31⁄2 where 2nd train is freight"
+Pass from Burton towards Alrewas	Pass from Central Rivers Depot towards	2

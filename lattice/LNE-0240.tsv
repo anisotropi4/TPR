@@ -1,0 +1,35 @@
+LN804 TAPTON JUNCTION GASCOIGNE WOOD JUNCTION VIA SHEFFIELD	
+Dronfield	
+""	
+Dwell Time	
+DMU	1⁄2
+22X	11⁄2
+Dore South Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass Dore Station Junction towards TaptonJunction, not stopping at Dronfield"	Pass from Dore West Junction	3
+"Pass Dore Station Junction towards TaptonJunction, not stopping at Dronfield"	Depart having come from Dore West Junction	3
+Up depart Dronfield	Pass from Dore West Junction	Same time
+Up depart Dronfield	Depart having come from Dore West Junction	Same time
+"Pass Dore Station Junction to Sheffield, fromTapton Junction"	Depart having come from Dore West Junction	1
+"Pass Dore Station Junction to Sheffield, fromTapton Junction"	Pass from Dore West Junction	11⁄2
+Pass to Dore West Junction	Pass Dore Station Junction towards Sheffield	5
+Pass from Dore West Junction	Pass Dore Station Junction towards Sheffield	51⁄2
+Pass from Dore West Junction	Pass to Dore West Junction	4
+""		
+"Planning NoteFor regulating purposes, ARR and DEP times with activities A and * to be used and not any allowances for trainsfrom Dore West Junction."		
+Dore Station Junction			
+""			
+Adjustments to Sectional Running Times			
+Westbound Movement	Reason		Value
+Up passenger pass to Dore West Jn	"Flashing Yellow Aspects and DifferentialJunction Speed"		1⁄2
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Passenger pass to Dore West Junction	Pass from Tapton Jn	3 *	
+Freight pass to Dore West Junction	Pass from Tapton Jn	31⁄2 *	
+Pass from Tapton Jn	Pass to Dore West Junction	3 *	
+Pass from Tapton Jn	Pass from Dore & Totley having stopped there	3	
+* Margin can be reduced by 1 if second train has minimum (1) approaching Dore Station Jn			
+"RestrictionsTrains from the Hope Valley requiring pathing stops are to have the stop shown at Dore & Totley and not DoreStation Junction as Signal DE5124 protecting the junction is at Dore & Totley station.No allowances to be applied in either direction between the station and Dore Station Junction."			

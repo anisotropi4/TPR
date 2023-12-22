@@ -1,0 +1,38 @@
+LN684 LOW FELL JN. TO NORWOOD JN.		
+RMT		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Arrive Low Fell RMT from Low FellJunction/Norwood Junction"	Pass Low Fell Junction to Low Fell RMT	6
+"Arrive Low Fell RMT from Low FellJunction/Norwood Junction"	Pass Low Fell Junction to Norwood Junction	2
+Arrive/pass from Low Fell RMT	Depart / pass to Low Fell RMT	4
+"LN694 BENTON NORTH JUNCTION TO MORPETH NORTH JUNCTION VIABEDLINGTON"		
+Benton East Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Passenger pass to Benton North Junction	"Depart Benton East Junction toNorthumberland Park"	1
+Freight pass to Benton North Junction	"Depart Benton East Junction toNorthumberland Park"	11⁄2
+Northumberland Park	
+""	
+Dwell Time	
+DMU	45 Seconds shown as 1/1⁄2 alternating
+Holywell Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Passenger pass to Seghill	Passenger pass to Benton East	2
+Passenger pass to Seghill	Freight pass to Benton East	3
+Freight pass to Seghill	Freight pass to Benton East	31⁄2
+Freight pass to Seghill	Passenger pass to Benton East	21⁄2
+Passenger pass to Seghill	Depart to Benton East	1
+Freight pass to Seghill	Passenger depart to Northumberland Park	11⁄2
+Seghill Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Passenger pass to Holywell Junction	Passenger pass to Seaton Delaval	2
+Passenger pass to Holywell Junction	Freight pass to Seaton Delaval	21⁄2
+Freight pass to Holywell Junction	Freight pass to Seaton Delaval	3
+Freight pass to Holywell Junction	Passenger pass to Seaton Delaval	21⁄2
+Freight pass to Holywell Junction	Passenger depart to Seaton Delaval	11⁄2

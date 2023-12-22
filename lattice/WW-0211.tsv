@@ -1,0 +1,17 @@
+Gloucester		
+""		
+An arrival into platform 1 from Horton Road Jn	"An arrival into platform 2 from Horton Road Jnvia UML"	2 mins
+An arrival into Platform 1 from Horton Road Jn	"A departure from Platform 2 to Horton Road Jnvia the Up Main"	2 mins
+An arrival into Platform 1 from Horton Road Jn	A departure from Platform 3	Simultaneous
+An arrival into Platform 2 from Horton Road Jn	A departure from Platform 3	2 minutes
+An arrival into Platform 2 from Horton Road Jn	An arrival into Platform 3	3 minutes
+A departure from platform 2 towards Awre	A departure from platform 1 towards Awre	31⁄2 minutes
+A departure from Platform 3	"An arrival into Platform 2 via the UML fromHorton Road Jn (preferred route in thisscenario)"	Simultaneous
+A departure from Platform 3	"An arrival into Platform 2 via Platform 1 (notpreferred due to signalling time-out)"	"Second trainpassesHorton Rd jn2 minutesafter first traindepartsGloucesterPlatform 3."
+An arrival into Platform 2 from Horton Road Jn	An arrival into Platform 1 from Horton Road Jn	"Second trainpassesHorton Rd Jn1 minute afterthe first trainarrivesplatform 2,refer also totheadjustmentallowancestable"
+An arrival into Platform 1 from Horton Road Jn	"An Up arrival into Platform 2 from GloucesterWest / Awre"	3 minutes
+"An Up arrival into Platform 2 from GloucesterWest / Awre"	An arrival into Platform 1 from Horton Road Jn	4 minutes
+"An arrival into Platform 2 from Barnwood Jn viathe UML"	"A departure from Platform 1 towardsGloucester Yard Jn"	No conflict
+"An arrival into Platform 2 from Gloucester YardJn via the UML"	"A departure from Platform 1 towards HortonRoad Jn"	"Apply a 2minutejunctionmargin atHorton Rd Jn"
+"An arrival into Platform 2 from Horton Road Jnvia the UML"	"A departure from Platform 4 or the Up ReliefLine towards Horton Road Jn"	1 minute
+An arrival into Platform 3	A departure from Platform 2 towards Awre	2 minutes

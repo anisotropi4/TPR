@@ -1,0 +1,23 @@
+Activity Codes - Notes
+1. Any passenger train that stops at a location automatically generates a T Activity unless it is suppressed.
+"2. If an Activity is required that removes the ‘passenger stop’ Activity (T, D, U and R), then the ‘passengerstop’ Activity must always appear in the first Activity field (e.g. T -D would be correct, -D T would not).  This isbecause the National Rail Timetable (NRT) extract program only considers the first Activity field.  If it doesnot find a ‘passenger stop’ Activity in the first field the time will not be extracted to appear in the NRT."
+3. Up to 6 Activities may be shown for each event.
+4. No two Activities may be duplicated at the same event.
+"5. At any one event, the following groups are mutually exclusivea) D, U, T, N, S, TW, OP.b) -D, -U, -T.c) TB, TF.d) KC, KE."
+"6. N, R, G, D and U are only valid with Train Categories XC, XD, XI, XX, XZ, OO, OW, OL, BS, BR and blank(i.e. 'advertised' services). R, D and U are additionally valid with Train Categories XU and OU (unadvertisedservices)."
+7. K, KC, KE, KF, KS are only valid with Train Categories starting X or O.
+8. If TF is present then none of K, KC, KE, KF, KS can be present.
+"9. Activity T indicates that a train stops to pick up and set down.  This normally refers to passengers.  Activity-T indicates that the train stops to attach and detach vehicles.  At any location where a 'stop' time is shown,ITPS or a similar system will assume a default Activity is required unless otherwise specified.  These defaultActivities are as follows: T for trains with a Train Category starting in X or O, OP for trains with a TrainCategory starting in Z or E, and -T for all other trains (but see below).  The default Activity will be generatedwhen the upload file is created."
+"10. If Activities U, D, N, R, OP, S, TW, -U or -D are specified then this overrides the defaults and only thespecified Activities will be included in the upload file (it is not necessary to use the * suppression code ifthese codes are present)."
+"11. If a traffic Activity is NOT required at a 'stop' location with Activities other than U, D, N, R, OP, S, TW, -Uor -D  (e.g. at 'C' or 'L' stops) then the * must be input to the ITPS or similar system train specification at thatlocation to suppress -T or T.  If the * is not added to indicate a non-traffic stop then T, -T or OP will be addedto the upload file"
+"12. If an Activity -T (only) is required on a train with a Category starting in X or O it is necessary to add a * tothe spec (to suppress ‘T’) and positively show -T in the Activity column."
+Train Service Codes		
+East London Line Train Service Codes		
+""		
+Section	Service Code	
+Highbury and Islington to Dalston Junction	22215003	
+Dalston Junction to New Cross	22218000	
+Dalston Junction to New Cross Gate	22218000	
+Dalston Junction to Queens Road Peckham	22218000	
+New Cross Gate to Crystal Palace/West Croydon	22215003	
+Queens Road Peckham to Clapham Junction	22214000	

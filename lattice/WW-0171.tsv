@@ -1,0 +1,35 @@
+"From the Down Main to Down Loop and UpMain to Up Loop"	Slow speed at loop entry (25 mph)	All traffic	+{1}
+Standish Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement Down	Reason	Timing Load	Value
+"Trains from the direction of GloucesterHorton Road Junction"	"SRT differential after Slow speedturnout at Gloucester YardJunction"	HST / D245-D455	{1}
+""		"170/22X/15X/16x/GWR Short FormHST (HSTGW4)"	{1⁄2}
+Trains towards the direction of Stroud	"SRT differential – Approachcontrol and slow speed turnout atStandish Junction"	"22x / HST /D245-D455"	{1}
+""		"15X/16x/ GWRShort Form HST(HSTGW4)"	{1⁄2}
+""			
+Junction Margins (Northbound trains)			
+First Movement	Second Movement	Margin	Notes
+"A train From Cam & Dursleydirection towards GloucesterYard Jn passes Standish Jnon the Up Charfield"	"A train from Stonehousedirection passesStandish Jn to the UpCharfield"	21⁄2	"Headway must be compliant at nextmandatory TIPLOC"
+Cam & Dursley	
+""	
+Dwell Time	
+15x, 16x	1⁄2  ( 1 minute peak hours)
+Yate	
+Dwell Time	
+15x	1⁄2  ( 1 minute peak hours)
+GW440 YATE SOUTH JUNCTION TO WESTERLEIGH			
+""			
+Yate Signal BL6568			
+""			
+"A dwell must be shown at this signal in the up direction for a minimum of 5 minutes to set up the locomotive’sGSMR."			
+""			
+Adjustment to Sectional Running Time			
+Movement	Reason	Timing Load	Value
+Yate Signal BL6568 to Yate	"Not passing Yate at linespeedhaving stopped at Yate SignalBL6568."	Freight	"{1} to be shownafter Yate"
+GW450  STOKE GIFFORD JUNCTION TO BRISTOL EAST JUNCTION		
+""		
+Filton Abbey Wood		
+""		
+Junction margins		
+First Movement	Second Movement	Margin

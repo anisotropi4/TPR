@@ -1,0 +1,31 @@
+Glenrothes with Thornton		
+""		
+Connectional Allowance	2	
+""		
+Platform End Margins		
+First Movement	Second Movement	Margin
+"Depart/Pass platform 1 towards Kirkcaldy(having arrived from Cardenden)"	Arrive/Pass platform 2 from Thornton North Junction	4
+"Depart platform 1 towards Kirkcaldy(having arrived from Cardenden)"	Arrive/Pass platform 2 from Cardenden	3
+Depart/Pass platform 1 towards Cardenden	Arrive/Pass platform 2 from Thornton North Junction	5
+Depart/Pass platform 2 towards Cardenden	Arrive/Pass platform 1 from Kirkcaldy	4
+"Train longer than 2 cars depart towardsThornton North Jn"	Arrive/Pass platform 1 from Cardenden	11⁄2
+""		
+Restriction		
+"Routes through Thornton West Jn are locked when a platform is occupied.Reversals in platforms are not possible due to the signall layout.  Reversals must be planned to shunt via eitherET556, ET558 or ET867 signals."		
+SC177 THORNTON NORTH JUNCTION TO LEVEN		
+""		
+Earlseat Junction		
+""		
+Junction margins		
+First Movement	Second Movement	Margin
+Pass from single line	Pass to single line	31⁄2
+Leven		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Permissive arrival	Approach control and reduced approach speed	11⁄2
+""		
+Platform End Margins		
+First Movement	Second Movement	Margin
+Depart platform 1	Arrive platform 1	41⁄2
+Depart platform 2	Arrive platform 1 or 2	51⁄2

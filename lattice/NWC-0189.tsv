@@ -1,0 +1,28 @@
+""	Rugby		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Non-stop Down train passes Rugby on DownFast"	"Down train departs from platforms 1 or 2towards Rugby Trent Valley Jn via a conflictingroute"	2
+""	"Non-stop Up train passes platform 4 towardsHillmorton Jn"	"Up train departs from platform 5 towardsHillmorton Jn"	2
+""	"Non-stop Up train passes platform 6 towardsHillmorton Jn"	"Up train departs from Up Goods Loop or Up &Down Through towards Hillmorton Jn"	2
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	Standard	8 (5 for WMT services)	
+""	Rugby Trent Valley Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All Avanti West Coast trains from a stand atRugby routed towards Coventry"	Not passing Trent Valley Jn at line speed	1⁄2 *
+""	"All Avanti West Coast trains from a stand atRugby crossing to the Down Fast"	Not passing Trent Valley Jn at line speed	1⁄2 *
+""	* Applies approaching next timing point after Rugby Trent Valley Jn		
+""	Brinklow		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Value
+""	"Pass on Down Trent Valley Fast towardsNuneaton"	"Pass/Depart Down Trent Valley Slow towardsNuneaton"	2*
+""	*The normal headway applies at the next mandatory timing point – see section 5.2		
+""	Attleborough South Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	Down Trent Valley to Down Trent Valley Slow	Differential Junction speed	"1⁄2 Timing Loadstimed over 75mphto 110mph1 Timing Loadstimed over110mph"	

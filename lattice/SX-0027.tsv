@@ -1,0 +1,21 @@
+SO500 LONDON VICTORIA TO BRIGHTON				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Three Bridges Signal T1182	SL			"Shunt signal available for ECS movementsUse TIPLOC THBD737"
+Three Bridges Signal T1185	SL	SL		"Shunt signal available for ECS movementsUse TIPLOC THBDPL5"
+Three Bridges Up Siding North	-	SL		"Signal T1191 availableUse TIPLOC THBDUSN"
+Three Bridges	FL  SL	FL  SL		"Platform detail must be shown.Shunt signal T1183 availableUse TIPLOC THBDPL3To/from Crawley - SO520"
+Three Bridges Back Road	-	SL		"Signals T1192 & T1195 availableUse TIPLOC THBDBRD"
+Three Bridges Up Horsham Siding	-	-		"Signal T1196 availableUse TIPLOC THBDHSD"
+"ThreeBridgesUpThameslinkDepot Entry/Exit"	-	SL		"TIPLOC THBDUTEFor ECS movements to/from the DepotRefers to signals TD130/TD132 fordepartures from London end andTD131/TD133 for arrivals at London endControlled by a depot signaller"
+"Three Bridges Up ThameslinkDepot"	-	-		"TIPLOC THBDUTDThree Bridges Thameslink Depotmaintenance building, carriage wash,stabling roads with CET and wheel lathe"
+"Three Bridges Down ThameslinkSidings Entry/Exit"	-	FL		"TIPLOC THBDDTEFor ECS movements to/from the DepotRefers to signals TD100 for departuresfrom London end and TD129 for arrivals atLondon endControlled by a depot signaller"
+"Three Bridges Down ThameslinkSidings"	-	-		"TIPLOC THBDNCSTamper Siding, Reception road, carriagewash, stabling roads with CET andunderframe clearing shedControlled by a depot signaller"
+"Three Bridges Down SidingsSignal TD127"	FL	-		"TIPLOC THBD127Exit signal to the Down Fast from thecountry end"
+Three Bridges Signal T1206	FL	-		"Shunt signal for ECS movementsUse TIPLOC THBD206"
+Three Bridges Signal T1204	SL	-		"Shunt signal for ECS movementsUse TIPLOC THBD204"
+Three Bridges Signal T1214	-	-		"Shunt signal for ECS movements on theDown Fast accessing Down SidingsReception Road at country end"
+"Three Bridges Up ThameslinkDepot Signal TD165"	SL			"TIPLOC THBD165Exit signal to Down Slow from country end"
+Three Bridges Signal T1218	SL	SL		"Shunt signal for ECS movementsUse TIPLOC THBD218"
+Three Bridges Signal T288		-		"TIPLOC THBD288Main aspect signal for access to the UpThameslink Depot from country end"
+Balcombe Tunnel Junction	"DMLUML"	FL  SL		

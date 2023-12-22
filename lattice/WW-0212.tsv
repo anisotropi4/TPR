@@ -1,0 +1,19 @@
+Gloucester			
+""			
+An arrival into Platform 4	"A departure from Platform 2 via the UML toHorton Road Jn"	1 minute	
+An arrival into any through platform	"An opposite direction arrival into the sameplatform for attachment purposes"	4 minutes	
+"A departure from Platform 2 to Horton Road Jnvia UML"	An arrival into Platform 1 from Horton Road Jn	3*	
+*If the first and second moves conflict at Horton Road Jn then a junction margin will apply at that location			
+""			
+Shunting Margins – G454, G448, G446, G444 & Gloucester CHS			
+First Movement	Second Movement	Margin	Notes
+"Train towards Barnwood Jcn orGloucester Yard Jcn passes HortonRoad Jcn"	"Conflicting shunt move departsGloucester or Gloucester CHS"	"1 – followingpassenger2 – following freight"	"Apply passengermargin whenfollowing lightengine or ECS"
+"Shunt move arrives Gloucester orGloucester CHS"	"Conflicting Down train toGloucester or Gloucester CHSpasses Horton Road Jcn"	11⁄2	
+"Shunt move arrives Gloucester orGloucester CHS"	"Conflicting Up train towardsHorton Road Jcn passesGloucester"	21⁄2	
+"Down train from Horton Road Jcnor shunt move arrives Gloucester orGloucester CHS"	"Conflicting shunt move departsGloucester or Gloucester CHS"	1	
+"Down train towards Awre passesGloucester"	"Conflicting shunt move to G448,G446 or G444 signal departsGloucester"	"1 – followingpassenger2 – following freight"	"Apply passengermargin whenfollowing lightengine or ECS"
+"Up train to Horton Road Jcndeparts Gloucester platform 4"	"Shunt move to Gloucesterplatform 4 departs G454 signal"	2	
+"Shunt move from G454 signalarrives Gloucester platform 4"	Train departs Gloucester CHS	1	
+"Down train from Horton Road Jcnarrive Gloucester platform 1"	"Shunt move to G448, G446 orG444 signal departs Gloucesterplatform 2"	2	"A train standingat G448 or G446signal preventsany movementover the UMLto/from HortonRoad Jcn, or anypassengermovementtowardsBarnwood Jcn."
+"Down train from Horton Road Jcnarrive Gloucester platform 2 viaUML"	"Shunt move to G446 or G444signal departs Gloucester platform1"	Simultaneous	
+"Down train from Horton Road Jcnarrives Gloucester platform 1, 2 or 4"	"Conflicting shunt move toGloucester platform 1, 2 or 4departs G446, G448 or G454signal"	11⁄2	"If shunting intoan occupiedplatform, apply{1⁄2} only due toshort distancetravelled"

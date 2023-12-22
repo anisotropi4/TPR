@@ -1,0 +1,34 @@
+""	NW6011 BOLTON EAST JN TO BLACKBURN BOLTON JN
+""	
+""	Bolton
+""	See entry under route NW6001 Manchester Piccadilly East Jn to Euxton Jn
+""	Darwen		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Up train arrives at Darwen	Down train departs Darwen	Simultaneous
+""	Up train departs from Darwen	Down train arrives at Darwen	-1
+""	NW6013 LOSTOCK JN TO CROW NEST JN
+""	
+""	Lostock Jn
+""	
+""	See entry under route NW6001 Manchester Piccadilly East Jn to Euxton Jn
+""	Crow Nest Jn
+""	
+""	See entry under route NW6009 Windsor Bridge North Jn to Southport
+""	NW6015 WIGAN WALLGATE TO HEADBOLT LANE	
+""		
+""	Rainford	
+""		
+""	Dwell Time	
+""	Standard	1 (applies for passenger trains towards Headbolt Lane only)
+""		
+""	Token Working Requirements	
+""	"The line between Rainford and Headbolt Lane is single. A token is required for all trains travelling on the singleline and this is exchanged at Rainford Jn Signal Box. The passenger SRTs include an allowance for the tokenexchange. Freight trains to or from Knowsley Freight Terminal are required to show a stop of 2 minutes in eitherdirection at Rainford for token working, shown as a TW activity code (note the actual token exchange takes placeat the Signal Box)."	
+""	Dale Lane Ground Frame
+""	
+""	Arrivals
+""	A 10 minute OP stop to be shown at Dale Lane Ground Frame for all trains arriving at Knowsley Freight Terminal.
+""	
+""	Departures
+""	"A train from Knowsley Freight Terminal cannot arrive at Dale Lane Ground Frame until 2 minutes after a precedingservice from Headbolt Lane has departed/passed Rainford (clear of the overlap of RJ3 signal). A 15 minute OPstop to be shown at Dale Lane Ground Frame for operation of the Ground Frame and token activities."

@@ -1,0 +1,33 @@
+Ferrybridge North Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Pass from Pontefract East Jn	Acceleration	"1Approachingnext timingpoint"
+Movement Up	Reason	Value
+Pass to Pontefract East Jn	Deceleration	"2 Freight1 Passenger"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves		4
+Milford Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason	Value	
+"Train Ferrybridge to Church FentonApproaching Milford Junction"	Approach control	1	
+"Train from Castleford to Gascoigne WoodApproaching Milford Junction"	Approach control	2	
+""			
+Movement Up	Reason	Value	
+"Trains from Church Fenton to FerrybridgeApproaching Milford Junction"	Approach control	1	
+"Trains from Gascoigne Wood to CastlefordApproaching Castleford"	Acceleration	"1 Passenger2 Freight"	
+"Trains from Milford West Sdgs or toCastleford/Ferrybridge North JunctionAfter Milford Junction"	Acceleration	3 Freight	
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+All conflicting moves		4	
+"Planning RestrictionAny propelling movement into Milford West Sidings must stop to pick up a radio requiring 2 minute OP stop, priorto propelling at Milford Junction."			
+Service from Hambleton West		Service from Church Fenton	
+Gascoigne Wood Junction arr	xx0P00	Milford Loop arr	xxOP00
+Gascoigne Wood Junction dep	xxOP02	Milford Loop dep	xxOP02
+Milford Junction arr	xxPRRM08	Milford Junction arr	xxPRRM06
+Milford Junction dep	xxPRRM10	Milford Junction dep	xxPRRM08
+Milford West Siding arr	xxPR17	Milford West Siding arr	xxPR15

@@ -1,0 +1,35 @@
+""	"GW528 BRISTOL, NORTH SOMERSET JUNCTION TO BRISTOL WEST JUNCTIONVIA ST. PHILIP’S MARSH"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"North Somerset Junction to BristolWest Junction"	10 *	10	
+""	"North Somerset Junction to StPhilips Marsh HSTD"	AB+0*	10#	"* TCB but timed AB# For Depot departures"
+""	"St Philips Marsh HSTD to BristolWest Jn"	AB+2*	20#	"* TCB but timed as AB# Minimum time between arrivals. Refer to GWRDepot Capability Rules."
+""	GW530 NORTH SOMERSET JN TO DR. DAY’S JN (“RHUBARB LOOP”)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	North Somerset Jn to Dr. Days Jn	AB+2*	AB+2*	* TCB but timed as AB
+""	GW540 FILTON JUNCTION TO PATCHWAY JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Filton Jn to Patchway Jn	4	4	
+""	"GW5401 FILTON WEST JUNCTION TO PATCHWAY JUNCTION (PATCHWAYCHORD)"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Filton West Jn to Patchway Jn	AB+2	AB+2	Single Line. TCB timed as AB
+""	GW548 PARSON STREET JUNCTION TO PORTBURY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Ashton Junction to Portbury DockStop Board"	AB+2*		* TCB but timed as AB
+""	"Portbury Dock Stop Board toSignal BL2192"		AB+2*	* TCB but timed as AB
+""	Signal BL2192 to Parson Street		AB+2*	* TCB but timed as AB
+""	Beyond Portbury Dock Stop Board			
+""	GW560 HEYWOOD ROAD JUNCTION TO FAIRWOOD JUNCTION VIA WESTBURY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Heywood Road Junction toWestbury"	AB+1	AB+1	TCB timed as AB
+""	Westbury to Fairwood Junction	31⁄2*	31⁄2*	"*DOWN AND UP5 minutes following freight"
+""	GW570  CLINK ROAD JUNCTION TO BLATCHBRIDGE JUNCTION VIA FROME			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Clink Road Jn to Frome North Jn	AB+2	AB+2	TCB timed as AB
+""	Frome North Jn to Blatchbridge Jn	AB+2	AB+2	"Single LineTCB timed as AB"

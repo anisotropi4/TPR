@@ -1,0 +1,43 @@
+SW190 NEW MALDEN TO SHEPPERTON
+""
+New Malden
+""
+See entry under route – SW105
+Norbiton	
+""	
+Dwell Times	
+"Class 455 and Class 701 EMUUp direction services departing between 0630 and 0900 Monday to Friday"	1
+Kingston		
+""		
+Dwell Times		
+All Services	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		3
+Bay Platform arrival	Down Teddington service	11⁄2
+""		
+Simultaneous Moves Not Permitted		
+Train arrives/departs Bay Platform 1	Down train arrives Platform 2	
+Teddington	
+""	
+Connectional Allowances	
+All Services	5
+Shacklegate Junction		
+""		
+Access to Strawberry Hill CSD		
+"Trains to Strawberry Hill CSD must travel to Strawberry Hill Station and reverse or shunt via 2449 signal on the UpKingston to gain access to the CSD"		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Down trains towards Fulwell from Teddington	Speed Differential	{1⁄2}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements		2
+Fulwell		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass/arrive from Strawberry Hill	Up depart towards Teddington	1*
+Down pass/arrive from Strawberry Hill	Up pass towards Teddington	2*

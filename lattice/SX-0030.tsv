@@ -1,0 +1,27 @@
+SO500C PRESTON PARK TO HOVE				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Preston Park Up Sidings	-	-		"Signal T1241 available for Preston ParkUp SidingsUse TIPLOC PRSPSDGHand points set by the driver between thetwo roads"
+Hove Signal T674	-	-		"Shunt Signal T674 availableUse TIPLOC HOVE674"
+Preston Park	-	-		"Platform detail must be shownTo/from Hassocks - SO500"
+Hove	-	-		"Platform detail must be shownTo/from Brighton - SO630To/from Aldrington – SO630"
+SO510 LONDON BRIDGE TO EPSOM DOWNS				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+London Bridge (Central)	9 10 11			Platform detail must be shown
+Brunswick Court Junction	9 10 11	9 10 11	X	"TIPLOC LNDNBCJTiming point for trains crossing from theKent lines only"
+Abbey Street Junction	9 10 11	9 10 11		TIPLOC LNDNASJ
+Spa Road Junction	"SRV LRVSL"	9 10 11		
+South Bermondsey Junction	BRV	ULS LRV		"Timing point for services using: BRV (inthe down direction) or;ULS or LRV (in the up direction)To/from South Bermondsey - SO680"
+Bricklayers Arms Junction	FL SL	"BRVUBMSRV"		
+Up Sussex Loop	-	-		TIPLOC NEWXUCS
+"New Cross Gate Shunt SignalTL5127"		-		Use TIPLOC NEWX127
+"New Cross Gate Shunt SignalTL5129"	FL SL	FL SL		Use TIPLOC NEWX129
+New Cross Gate	FL  SL	"FL SLUXL"		"TIPLOC NEWXGEL applies to Platform 1(London Overground services)"
+New Cross Gate Signal TL5138	FL SL			Use TIPLOC NEWX138
+New Cross Gate Signal TL5140	SL			Use TIPLOC NEWX584
+Brockley	SL	SL	S	
+Honor Oak Park	SL	SL	S	
+Forest Hill	SL	SL	S  X	"Timing point for trains from Down Fast toDown Slow line only"
+Sydenham	FL  SL	FL  SL		To/from Crystal Palace - SO510A
+Penge West	SL	SL	S	

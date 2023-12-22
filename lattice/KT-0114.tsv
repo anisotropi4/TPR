@@ -1,0 +1,32 @@
+""	Paddock Wood		
+""	"Pass Paddock Wood on Down Main towardsMarden"	Depart pl.2 on Up main towards Tonbridge	1
+""	Cranmore Down Loop			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down			
+""	Timing Load	Reason	Value	
+""	Trains stopping at Cranmore Down Loop:			
+""	Freight up to 800T/TR40 inclusive at 60mph	Speed Differential	1⁄2	
+""	"Freight between 801 - 1000T/TR55 inclusiveat 60mph"	Speed Differential	1	
+""	"Freight between 1001 - 1400T/TR70 inclusiveat 60mph"	Speed Differential	11⁄2	
+""	"Freight between 1401 - 1600T/TR85 inclusiveat 60mph"	Speed Differential	2	
+""	"Freight between 1601 - 2400T/TR100+inclusive at 60mph"	Speed Differential	21⁄2	
+""	"Freight between 400 - 600T/TR30 inclusive ofContainers at 75mph"	Speed Differential	1⁄2	
+""	"Freight between 601 - 800T/TR40 inclusive ofContainers at 75mph"	Speed Differential	1	
+""	"Freight between 801 - 1600T/TR50+ inclusiveof Containers at 75mph"	Speed Differential	11⁄2	
+""	Planning Note			
+""	"These allowances should be applied approaching the next timing point after Headcorn as trains will not haveaccelerated up to line speed by this time."			
+""	Ashford International			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down			
+""	Timing Load	Reason	Value	
+""	"Down Eurostar Class 373/374 train towardsAshford International"	Speed differential after Ashford West Junction	1⁄2	
+""	"All movements from Up Slow towardsSaltwood Junction"	"Approach control on signal AD6957 and slowcrossovers"	"1⁄2*approachingnext timingpoint"	
+""	Depart/Pass Platform 1 2 towards Canterbury	Acceleration	"1⁄2*approachingnext timingpoint"	
+""	*Applied approaching next timing point. Does not apply to trains routed to Down Fast			
+""				
+""	Movement Up			
+""	Timing Load	Reason	Value	
+""	"Up Eurostar Class 373/374 train towardsAshford International"	Speed differential after Ashford East Junction	1⁄2	
+""	Train passing on Up Fast towards Charing	"Approach Control and deceleration for signalAD668"	1	

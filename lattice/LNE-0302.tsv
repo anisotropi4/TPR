@@ -1,0 +1,30 @@
+Shipley		
+"Due to the positioning of Stop Boards, the following apply to LNER trains running to/from Bradford Forster Square.•All LNER passenger trains to/from Bradford Forster Square must use platform 3 when calling.•Passenger trains towards Leeds formed of Class 91 + nine Mark IV  stop beyond signal L3966 whencalling therefore no conflicting train movements should be planned through Shipley East Junction andDockfield Jn. Platform 3W cannot be used as a workaround for this, Platform 3x must be used for Class91+ nine Mark IV. Additional detail and the junction margin can be found on the Dockfield Junction entry.•Trains towards Leeds formed of 9 or 10 car Class 80X will block Shipley South Jn while calling. Seejunction margins"		
+""		
+Overlap Restrictions		
+Movement	Conflict	Margin
+Arrive Platform 5 from Bradford	"Arrive Platform 2 from Leeds (andvice versa)"	3*
+Arrive Platform 3 from Bradford	"Arrive Platform 2 from Leeds (andvice versa)"	3*
+"*These moves can be made simultaneous by using the short overlap, planned using platforms 2W, 3W and 5W,and with appropriate adjustment as above."		
+Saltaire	
+""	
+Dwell Time	
+""	"1 Only trains arriving at Leeds or Bradford FS between 0730 and 0900 EWD,or departing Leeds or Bradford FS between 1600 and 1800 EWD"
+Bingley	
+""	
+Dwell Time	
+DMU	"1 Only trains arriving at Leeds or Bradford FS between 0730 and 0900 EWD,or departing Leeds or Bradford FS between 1600 and 1800 EWD"
+EMU	1
+Crossflatts	
+""	
+""	"1 Only trains arriving at Leeds or Bradford FS between 0730 and 0900 EWD,or departing Leeds or Bradford FS between 1600 and 1800 EWD"
+Keighley		
+""		
+Dwell Time		
+DMU/EMU	1	
+""		
+Minimum Turnround	10 including shunt	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train terminate Keighley	Following train arrive Keighley	7

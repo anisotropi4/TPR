@@ -1,0 +1,41 @@
+Battersea Park		
+All Services	4	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass from Down Brighton Slow to DownBrighton Fast"	"Pass or arrive Battersea Park on Up BrightonSlow towards Victoria"	2
+Cross from Up Fast to Up Slow	Pass Battersea Pier Jn on Down Fast	1
+Pass Battersea Pier Jn on Down Fast	Cross from Up Fast to Up Slow	3
+Cross from Brighton Reversible to Down Fast	Pass Battersea Pier Junction on Up Fast	3
+Pass Battersea Pier Junction on Up Fast	Cross from Brighton Reversible to Down Fast	1
+Pouparts Junction		
+""		
+Junction Margins – standard 2 minutes except		
+First Movement	Second Movement	Margin
+"Pass or depart Pouparts Junction to anyBrighton line from the Down Battersea (DBA)Line"	"Pass Pouparts Junction towards the UpBattersea (UBA) Line"	3
+"Pass or depart Pouparts Junction from the UpBrighton Slow (UBS) Line to any Up Line"	"Pass or depart Pouparts Junction to the UpBrighton Slow (UBS) Line in the Down(reversible) direction"	3
+"Pass or depart Pouparts Junction from any UpLine to the Up Battersea (UBA) Line"	"Pass or depart Pouparts Junction on the UpBrighton Fast (UBF) Line"	21⁄2
+""		
+Length Restrictions		
+"A train exceeding 552m/86SLU in length on the Down Battersea will foul TVS63 or TVS65 when standing atTVC575 signal.Therefore, junction margins must be based on trains’ departure time at Pouparts Junction"		
+Clapham Junction			
+""			
+Adjustment to Sectional Running Times			
+First Movement	Second Movement	Reason	Value
+"Pass/arrive from Up Brighton Slow intoplatform 16 or pass/depart fromplatform 17 to Down Brighton Slow"	"Pass/arrive into platform 15 fromDown Brighton Slow or DownBrighton Fast"	"Reduced overlap onSignal TVC605"	{1⁄2}
+""			
+Connectional Allowances			
+Southern services	5		
+""			
+Dwell Times			
+All Services (except as below)	1		
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+"Arrive or pass platform 15 from Up BrightonSlow (UBS) Line in Down (reversible) direction"	"Depart platform 14 to the Up Brighton Slow (UBS)Line in the Up direction"	1	
+Depart from Platform 15 to Down Slow	Arrive into Platform 16 from Up Slow	21⁄2	
+""			
+"Passenger trains formed of more than 9-cars or 171 meters should not be planned to stop at Platform 16 as this isan 8 car platform and therefore would foul Falcon Junction preventing departures from Platform 15 to the DownBrighton Slow"			
+""			
+Platform Re-Occupation (Platform 17 ONLY)			
+""			

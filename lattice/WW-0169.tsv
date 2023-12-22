@@ -1,0 +1,39 @@
+150 to 170		1
+Cheltenham High Street Goods Loop			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	"TimingLoad"	Value
+From the Up Main to Up Loop	Slow speed at loop entry (15 mph)	All traffic	+{2}
+Cheltenham Spa (including Alston Carriage Sidings)			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location			
+Movement	Reason	Timing Load	Value
+"From Cheltenham Spa to Alston C.S.Pass to Stop"	"Not at linespeed when passingCheltenham"	"HST/22X150/158/16X/80XD245 to D455"	+ {1⁄2}
+"Services traveling on DM, crossingand terminating in Platform 2."	Slow speed crossover	"Class 170 and 22xHST"	"+ {2}+{21⁄2}"
+""			
+Adjustments to Sectional Running Times (allowance to be shown after this location)			
+Movement	Reason	Timing Load	Value
+"From Alston C.S. to Cheltenham SpaStart to Pass"	"Not at linespeed when passingCheltenham"	"HST/22X/150/158/16X/80XD245 to D455"	+ {1⁄2}
+""			
+Dwell Time			
+LH/80x	"2 except 4 minutes applies to terminating 80x 9/10 Car & 3minutes 80x 5 car"		
+Classes 22X	2		
+Classes 15x to 170	2 Up trains only, 1 applies to Down trains		
+XC 170	11⁄2 Up trains only, 1 applies to Down trains		
+""			
+Platform Re-occupation	4 (Down direction)*%		
+""	3 (Up direction when first train is departing towards Ashchurch		
+""	"31⁄2 (Up direction when first train is formed of 5 or less vehiclesand is going to Alstone CS / High Steet UGL / High streetcrossover"		
+""	"4 (Up direction when first train is formed of 6 or more vehiclesand is going to Alstone CS / High Street UGL / High StreetCrossover"		
+"* Can be reduced to 3 minutes if the second train is coming from Alstone C.S.% Can be reduced to 31⁄2 if the second train from Ashchurch has a minimum of 1 minute of Pathing Timeapproaching Cheltenham Spa (does NOT apply if the first train is going into Lansdown DGL)."			
+""			
+Turnround allowances			
+""	DMU	Class 80X (5 car)	Class 80X (9/10 Car)
+From Paddington		25^	25^
+From Swindon Cardiff and Bristol	12 a)		
+From Swindon		20^	25^
+^   Via Alstone Carriage Sidings			
+a)  Times are shown are via Alston Carriage Sidings			
+Lansdown Goods Loop
+""
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)

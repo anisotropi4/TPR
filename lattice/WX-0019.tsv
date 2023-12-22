@@ -1,0 +1,32 @@
+SW105 CLAPHAM JUNCTION TO WEYMOUTH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Wimbledon (Wessex Side)	"FL  SLUFLUSL"	FL  SL		"Platform detail must be shown.To/from Wimbledon Park (LUL) - SW225"
+Wimbledon West Junction	"FL  SL-UHLDHL"	"FL  SLUHLDHL"	X	"Timing point for trains to/from SussexSide.To/from Wimbledon (Sussexside)/Wimbledon Chase - SO700"
+Raynes Park	SL	FL  SL	S  X	"Timing point for all trains on Slow Linesand trains crossing from Up Slow to UpFast Lines.To/from Motspur Park - SW180"
+New Malden	FL  SL	FL  SL		To/from Norbiton - SW190
+Berrylands	SL	SL	S	
+Berrylands Junction		FL  SL		"Timing point for all trains on Up Fast andUp Slow."
+Surbiton	FL  SL	FL  SL		"Platform detail must be shown.To Thames Ditton - SW195"
+Surbiton Signal WK1104		-	S	Shunt moves only
+Surbiton Signal WK1106		-	S	Shunt moves only
+Hampton Court Junction	FL  SL	FL  SL		"From Thames Ditton - SW195.To/from Hinchley Wood – SW200"
+Esher	SL	SL	S	
+Hersham	SL	SL	S	
+Walton on Thames	SL	SL	S	
+Weybridge	FL  SL	FL  SL	S  X	"Timing point for all trains on Slow Lines,Down Trains crossing from Fast Line toSlow Line and vv, Up Trains crossing fromSlow Line to Fast Line.Platform detail must be shown.To/from Addlestone Junction - SW255"
+Byfleet and New Haw	FL  SL	-     SL	S  X	"Timing point for all trains on Slow Lines,Up trains crossing Fast to Slow Lines, andDown trains crossing from Slow Line toFast Line.To/from Addlestone Junction – SW255A"
+West Byfleet	FL  SL	SL	S	
+Woking Signal WK1201	-		S	
+Woking Signal WK1203	-		S	
+Woking East End Sidings	-		S	
+Woking	"FL  SLUFLUSL"	FL  SL		Platform detail must be shown
+Woking Up Yard Entry/Exit	-	-	X	"Timing point for services to/from WokingUp Yard Sidings"
+Woking Down Yard	SL  -		F	
+Woking Signal WK608		-	S	
+Woking Signal WK1208		-	S	
+Woking Signal WK1220		-	S	
+Woking Up Yard Reception	-	SL	F	
+Woking Up Yard Sidings		-	S	
+Woking Junction	FL  SL	"FL  SLDFLDSL"		To/from Guildford - SW110
+Woking Signal WK1212		-	S	

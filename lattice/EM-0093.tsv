@@ -1,0 +1,34 @@
+Ambergate	
+""	
+Dwell Time	
+Down	1 includes an allowance for the token collection
+Up	2 includes an allowance for the token return
+Matlock	
+""	
+Minimum Turnround	"5.  Local services to/from Derby and Nottingham are subject to a round tripallowance of 15 minutes. However, this may be reduced to 12 minutesprovided it is not applied to successive round trips"
+LN3252 MANSFIELD JUNCTION TO TROWELL SOUTH JUNCTION		
+Radford Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"After Mansfield Jn, applies to HST orLocomotive hauled stock from Nottingham"	Differential Junction Speed	1⁄2
+LN3255 RADFORD JUNCTION TO KIRKBY LANE END JUNCTION	
+Lindleys Lane (Kirkby South Jn)	
+""	
+Reoccupation of Single Line	4
+Newstead	
+""	
+Dwell Time	
+Maximum dwell time	2
+Bulwell South Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"After Bulwell South Jn applicable to trainshaving stopped at Bulwell"	Acceleration from a stop	1⁄2
+LN3273 IRONVILLE JUNCTION TO SHIREBROOK JUNCTION	
+Mansfield Woodhouse	
+""	
+Dwell Time	
+DMU	1
+""	
+Minimum Turnround	"5 Subject to a total round-trip allowance of 15 minutes. May be reduced to 12minutes provided it is not applied to successive round trips."

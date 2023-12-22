@@ -1,0 +1,34 @@
+Dock Junction North		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+All down trains to Up & Down Relief	20 mph crossover	1⁄2 before
+Movement Down	Reason	Value
+All up trains from Up & Down Relief	20 mph crossover	1⁄2 after
+"Pathing / Engineering / Performance time in southbound trains terminating at St Pancras Low Level Internationalmust be placed approaching Dock Junction North"		
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+UDR to Up Moorgate	Down Moorgate to Down Moorgate or UDR	2
+Down Moorgate to Down Moorgate	UDR to Up Moorgate	2
+LN3232 WIGSTON NORTH JUNCTION TO HINCKLEY (INCLUSIVE)	
+South Wigston	
+""	
+Dwell Time	
+170	1
+Narborough	
+""	
+Dwell Time	
+170	1
+""	
+"Level CrossingTrains stopped at Narborough in the Down (Leicester to Nuneaton) direction only, to be advertised earlier by theamount of recovery/pathing allowance shown between Wigston North Junction and Narborough."	
+Hinckley	
+""	
+Dwell Time	
+DMU	1
+LN3234 SYSTON EAST JUNCTION to SYSTON NORTH JUNCTION
+"Up trainsIt is not permissible to include pathing time in Up trains between Syston North and Syston East Junctions.  When itis necessary to use pathing time in the schedules of trains approaching Syston East Junction this must be shownapproaching Syston North Junction."
+LN3246 AMBERGATE JUNCTION TO MATLOCK	
+Ambergate Junction	
+""	
+Re-occupation of Single Line	31⁄2

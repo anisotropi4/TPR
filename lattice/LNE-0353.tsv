@@ -1,0 +1,33 @@
+LN868 WINCOBANK JUNCTION TO HORBURY JUNCTION VIA BARNSLEY					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Sundays					
+Approach Barnsley	E	1		1	
+Up – Sundays					
+Approach Barnsley	P		1		Trains starting from Leeds only
+Approach Wincobank Junction	E	1		1	
+LN872 ALTOFTS JUNCTION TO LEEDS WEST JUNCTION					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Sundays					
+Approach Engine Shed Junction	E	2	2*	2	"Approaching Stourton for trains thatterminate or call* 1 minute for trains from Knottingleydirection"
+P		2			
+"LN882 WAKEFIELD KIRKGATE WEST JUNCTION TO GOOLE POTTERS GRANGEJUNCTION"					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Sundays					
+Approach Pontefract	E		1*		"* Trains terminating from Wakefielddirection"
+""	P		1*		"* Trains terminating from Wakefielddirection"
+Approach Knottingley	E	1	1	1	
+""	P		1		
+Approach Goole	P		2		
+Up – Sundays					
+Approach Knottingley	P		1		
+Approach Wakefield Kirkgate	E		1		
+P		1			
+LN912 THORNE JUNCTION TO GILBERDYKE JUNCTION					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	Cl 6	Remarks
+""					
+Down – Sundays					
+Approaching Gilberdyke	P	1	1		
+Approach Goole	P		1		Terminating trains only

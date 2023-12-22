@@ -1,0 +1,44 @@
+""	STANDARD VALUES – MINIMUM							
+""	Class 171	3	4	4	5			
+""	Class 373/374 EMU							55
+""	"Class 375/377/387EMU"		5	6	7	7	9	
+""	Class 376 EMU			6		7		
+""	Class 395 EMU			5			9	
+""	Class 465 EMU		5	6	7		9	
+""	Class 466 EMU	4	5	6	7	7	9	
+""	Class 700 EMU				8		10	
+""	Class 707 EMU							
+""	"SO110 LONDON VICTORIA TO RAMSGATE(VIA HERNE HILL AND CHATHAM)"		
+""			
+""	London Victoria (Eastern)		
+""	For London Victoria (Central) Refer to Sussex Timetable Planning Rules, Section 5.3, SO500		
+""	"For train planning purposes the station is divided into two parts. Platforms 1-8 are known as LondonVictoria (Eastern). Platforms 9-19 are known as London Victoria (Central)."		
+""			
+""	Berthing Facilities		
+""	Location	Cars	Notes
+""	Platform 1	13	
+""	Platform 2	16	
+""	Platform 3	8	
+""	Platform 4	8	
+""	Platform 5	12	(10 cars Class 465/466 vehicles only)
+""	Platform 6	12	(10 cars Class 465/466 vehicles only)
+""	Platform 7	13	
+""	Platform 8	9	10 car 375/377/700 only
+""	"Trains formed of a 12 car Class 700 EMU must not be planned to use Platforms 1-8 for passenger provision, dueto operational restrictions"		
+""			
+""	Connectional Allowance	15*	
+""	* - Connectional allowance of 10 minutes applies to Southeastern		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Depart any platform	Conflicting arrival	3
+""	"Departure Platforms 6-8 to Down ChathamFast"	Conflicting arrival from Up Chatham Fast	4
+""	"Departure Platform 1 to Down ChathamSlow"	Conflicting arrival from Up Chatham Fast	4
+""			
+""	Planning Note		
+""	"Anything planned into Platform 2 over 250m/39 SLU/12 cars will foul VS3 signal and 704 points. An extra minuteadded into schedules for Platform re-occupation for movements in opposing directions"		
+""			
+""	Permissive working for attaching/detaching and platform sharing is authorised as shown below:		
+""	Platform 1	Attaching/Detaching and Platform Sharing Permitted	
+""	Platform 2	Attaching/Detaching and Platform Sharing Permitted	
+""	Platform 3	Attaching/Detaching and Platform Sharing Permitted*	

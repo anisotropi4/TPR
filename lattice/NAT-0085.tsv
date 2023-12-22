@@ -1,0 +1,33 @@
+Name
+Name
+Name	Frequency	Start Date	Weeks Run In	Route	TID	Day	Dep	From	To	Arr.	Model Train	TOC
+Name	Frequency	Start Date	Weeks Run In	Route	TID	Day	Dep	From	To	Arr.	Model Train	TOC
+PLP334	4 - weekly	19/12/2023	"38, 42, 46, 50, 03,06, 10, 14, 18, 22,26, 30, & 34"	"Eastleigh -Littlehampton -LymingtonPier -Eastleigh"	1Q52CA	TO	10.47	"EASTLEIGH EASTYARD"	"EASTLEIGH EASTYARD"	00.01	LD75	RG
+PLP136	4 - weekly	22/12/2023	"38, 42, 46, 50, 02,06, 10, 14, 18, 22,26, 30 & 34"	"Derby RTC -Loughborough -Nottingham -St Pancras -Radlett - StPancras -Derby -Derby RTC"	1Q52ES	FO	22.30	"DERBYR.T.C.(NETWORKRAIL)"	"ST PANCRASINTERNATIONAL"	01.37	HSMT	RG
+""		23/12/2023	"39, 43, 47, 51, 03,07, 11, 15, 19, 23,27, 31 & 35"	1Q53ES	SO	02.20	"ST PANCRASINTERNATIONAL"	"ST PANCRASINTERNATIONAL"	03.35	LD75	RG	
+""		23/12/2023	"39, 43, 47, 51, 03,07, 11, 15, 19, 23,27, 31 & 35"	1Q54ES	SO	03.45	"ST PANCRASINTERNATIONAL"	"DERBYR.T.C.(NETWORKRAIL)"	05.45	LD75	RG	
+PLP335	4 - weekly	20/12/2023	"38, 42, 46, 50, 03,06, 10, 14, 18, 22,26, 30, & 34"	"Eastleigh -Wimbledon -Eastleigh"	1Q53CA	WO	12.00	"EASTLEIGH EASTYARD"	"SOUTHAMPTONUP YARD (FL)"	17.18	LD75	RG
+Frequency
+Frequency
+Start Date
+Start Date
+Weeks Run In
+Weeks Run In
+Route
+Route
+TID
+TID
+Day
+Day
+Dep
+Dep
+From
+From
+To
+To
+Arr.
+Arr.
+Model Train
+Model Train
+TOC
+TOC

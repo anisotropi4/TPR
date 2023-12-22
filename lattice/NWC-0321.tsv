@@ -1,0 +1,41 @@
+""	Workington			
+""				
+""				
+""	Dwell Time			
+""	LH/HST	2		
+""	DMU	2 if changing train crew		
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Arrive Workington Docks	Depart/pass Workington on Down Main	10	
+""				
+""	For northbound departures/arrivals			
+""	Workington *	XX.00	As required to	
+""		“-“	Workington	XX/00
+""	Workington Main No. 2 SB arr.	XXRM02		“-“
+""	dep.	XXRM06	"Workington Main No. 2SB arr."	XXRM01
+""		“-“	dep.	X  X   R  M   0  5
+""	Workington	XX/07	Workington *	XX.07
+""	then forward as required			
+""				
+""	For southbound departures/arrivals			
+""	For all trains		"When Maryport SB isopen"	
+""	Workington * dep.	XX.00	As required to:	
+""		“-“	Parton North Jn	XX/00
+""	Parton North Jn	XX/08		“-“
+""	then forward as required		"Workington Main No. 2SB arr."	XXRM07 $
+""			dep.	X  X   R  M   1  6   $
+""			Workington * arr.	XX.19
+""			"When Maryport SB isclosed"	
+""			Parton North Jn	XX/00
+""				“-“
+""			Workington ? arr.	XXRM07
+""			dep.	XXRM11
+""				“-“
+""			"Workington Main No. 2SB arr."	XXRM13 $
+""			dep.	XXRM22 $
+""				“-“
+""			Workington * arr.	XX.24
+""	"2- The actual location must be specified in the platform column by using one of the following codes:CS – Carriage SidingSD1 – No. 1 Middle SidingSD2 – No. 2 Middle Siding2- No. 1 Platform2- No. 2 Platform$ - allowance of 9 minutes includes 2 reversals.? - Show ‘REC’ in platform column."			
+""				
+""	Train Watering Points	Fixed watering point available.		

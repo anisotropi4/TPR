@@ -1,0 +1,23 @@
+Taynuilt
+""
+All trains must stop for token exchange purposes.
+""
+For Up trains, see general restictions above.
+For Down trains, see general restictions above.
+"If a train in the process of shunting between Platform 3 and Platform 4, then the section from Connel Ferry toOban is occupied and a Long Section Token from Taynuilt to Oban cannot be issued a token exchange stop musttake place at Connel Ferry"
+Connel Ferry
+""
+"All trains must stop for token exchange purposes, unless a Long Section Token has been issued at the previousToken Exchange Point.If a train is in the process of shunting between Platform 3 and Platform 4, then the section from Connel Ferry toOban is occupied and a token for this section cannot be issued."
+Oban		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train arriving Platform 4	Operation of Ground Frame	4
+"Loco hauled train exceeding 7 coaches arrivingPlatform 4"	Operation of Ground Frame	10
+""		
+Movement Up	Reason	Value
+Up train departing Platform 4	Operation of Ground Frame	4
+"Loco hauled train exceeding 7 coachesdeparting Platform 4"	Operation of Ground Frame	10
+""		
+"RestrictionIf a train is in the process of shunting to Platform 4, then the section from Connel Ferry to Oban is occupied and atoken for this section cannot be issued at Connel Ferry or Taynuilt. Any such shunt move can commence 5minutes after an Up train has departed, or 7 minutes following a steam train or a large loco-hauled specialdeparting via the ground frame."		
+If there are no trains between Oban and Taynuilt, please see general restrictions above.		

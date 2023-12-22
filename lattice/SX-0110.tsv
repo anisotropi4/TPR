@@ -1,0 +1,37 @@
+Norwood Junction				
+""				
+""				
+Permissive Working				
+Attaching/Detaching and Platform Sharing is authorised as shown below -				
+Platform 1	Up London Bridge Slow	Detaching Only		
+Platform 2	Up London Bridge Slow	Detaching Only		
+Platform 3	Up London Bridge Fast	Detaching Only		
+Platform 4	Down London Bridge Fast	Detaching Only		
+Platform 5	Down London Bridge Slow	Detaching Only		
+Platform 6	Down Platform Loop	Prohibited		
+""				
+Overlap Restrictions				
+First Movement(s)	Second Movement	Reason	"Margin2"	
+"Down train departing Platform 5 to Down LondonBridge Slow"	Down train arriving Platform 6	"Overlap onsignal T21"		
+"Down train departing or passing Platform 6 toDown Wallington Line whilst a Down train departsor passes Platform 4"	Down train arriving Platform 5	"Overlap onSignal T19"	2	
+""				
+Planning Note				
+"Empty stock workings from London Bridge or London Victoria should, whenever possible, be timed to run viaPeckham Rye (if from London Bridge), Streatham Common and Selhurst to minimise conflicting movements atNorwood Junction.Trains timed to run from London Bridge or London Victoria to Selhurst Depot via Norwood Junction should include“dot” stop at Norwood Junction to minimise the margins required to avoid conflicting movements with trains runningin the opposite direction."				
+"The non-stop headway applies for consecutive departures from Norwood Junction providing the second train uses adifferent platform and the correct headway is applied at the next timing point irrespective of calling pattern. NationalTPR section 1.5.5 Application of Planning Headways refers."				
+"The non-stop headway applies for consecutive arrivals at Norwood Junction providing the second train uses adifferent platform and the correct headway has been applied at the previous timing point irrespective of callingpattern. National TPR section 1.5.5 Application of Planning Headways refers."				
+Selhurst T&R.S.M.D
+""
+See entry under route – SO500
+Norwood Fork Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason		Value
+Train crossing Up Slow to Up Fast	40mph crossover		"{1⁄2} approachingNorwood Junction"
+""			
+Junction Margins			
+First Movement	Second Movement		Margin
+"Pass on Up Fast from WindmillBridge Jn"	Cross to Up Fast Up Brighton Slow		2
+Cross to Up Fast Up Brighton Slow	Pass on Up Fast from Windmill Bridge Jn		21⁄2
+""			
+Planning Restrictions			
+"A train exceeding in 164m/26SLU in length will foul Cottage Junction when standing at T82 on the Up LondonBridge SlowTherefore, junction margins must be based on train’s departure time at Norwood Fork Junction"			

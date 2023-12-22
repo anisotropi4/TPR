@@ -1,0 +1,36 @@
+Dwell Time	
+Class 165/6	1⁄2
+Dolphin Junction			
+""			
+Adjustment to Sectional Running Time (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"Heathrow Airport Junction to Dolphin Junctionrunning ML Pass to Pass"	"Margin applied during twotrack timetable operation forGreat Western Railway only"	HST	+{1⁄2}
+""			
+Junction Margins			
+First movement	Second Movement	Margin	
+Pass Slough on Down Relief	Cross Dolphin Jn from Up Relief to Up Main	11⁄2	
+Arrive Slough on Down Relief	Cross Dolphin Jn from Up Relief to Up Main	1	
+Cross Dolphin Jn from Up Relief to Up Main	Passenger/ECS pass Slough on Down Relief	31⁄2	
+Cross Dolphin Jn from Up Relief to Up Main	Passenger/ECS arrive Slough on Down Relief	4	
+Cross Dolphin Jn from Up Relief to Up Main	Freight pass Slough on Down Relief	4	
+Passenger/ECS pass Slough on Up Main	"Cross Dolphin Jn from Down Main to DownRelief"	3	
+Passenger/ECS depart Slough on Up Main	"Cross Dolphin Jn from Down Main to DownRelief"	31⁄2	
+Cross Dolphin Jn from Down Main to Down Relief	Passenger/ECS pass Slough on Up Main	2	
+Cross Dolphin Jn from Down Main to Down Relief	Passenger/ECS depart Slough on Up Main	11⁄2	
+Slough			
+""			
+Adjustment to Sectional Running Time			
+Movement	Reason	Timing Load	Value
+Crossing from DRL to DML at Dolphin Jn	"Not passing Slough atlinespeed"	HST / 80x	"{1} to be shownafter Slough"
+"Slough to Maidenhead pass to pass and aftercrossing DRL to DML at Dolphin Jn"	"Train will not havereachedlinespeed by Maidenhead"	HST	"{1⁄2} to be shownafter Maidenhead"
+From down direction into Platforms 5	"Slow turnout andapproach control"	16x / 387 / 80x	{1}
+Train from Slough Up Goods Loop	"Not at linespeed passingSlough"	"Freight Up to2600T"	{1}*
+Train from Slough Up Goods Loop	"Not at linespeed passingSlough"	"Freight above2600T"	{11⁄2}*
+*Applied approaching next timing point			
+""			
+Dwell Time			
+LH / 80x	11⁄2		
+Class 220 & 221	1		
+Class 165/6	1		
+Class 345	1		
+""			

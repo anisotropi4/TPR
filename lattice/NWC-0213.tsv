@@ -1,0 +1,37 @@
+""	Cofton Jn			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement		Margin
+""	"Pass or depart Barnt Green towardsBromsgrove"	Depart from Cofton Down Goods		1
+""	Pass or arrive Barnt Green towards Redditch	Depart from Cofton Down Goods		2
+""				
+""	Planning Restriction			
+""	"Two trains can be planned to stand at Cofton Jn on the Down Goods provided the second train is less than 458min length"			
+""	Barnt Green			
+""				
+""	Adjustments to Sectional Running Times *			
+""	Movement Down		Reason	Value
+""	"All trains routed to Down Redditch (toAlvechurch)"		Approach control and junction differential	1
+""				
+""	Movement Up		Reason	Value
+""	"Non-stop trains from Up Redditch towardsLongbridge"		Junction differential	"1 Applies atnext timingpoint afterBarnt Green"
+""	"Depart from Barnt Green platform 3 to Up Slowor Up Fast"		Junction differential	"1⁄2 Applies atnext timingpoint afterBarnt Green"
+""	* Adjustments apply only to trains formed of Class 730 EMU			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Down Main passing towards Bromsgrove	"Depart Barnt Green to the Up Main fromRedditch branch"	2	
+""	"Non-stop train passes Barnt Green platform 1on Up Gloucester Fast"	"Train departs Barnt Green platform 3(Redditch branch) to the Up Gloucester Fast"	2	
+""	"Depart Barnt Green to the Up Main fromRedditch branch"	Down Main passing towards Bromsgrove	3	
+""				
+""	Dwell Time			
+""	DMU	1		
+""				
+""	Minimum Turnround Time – Trains changing direction at end of journey			
+""	Standard	5		
+""	Bromsgrove			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Timing Load	Value
+""	"Non-stop train to the Down Bromsgrove Loopvia Platform 4"	Flashing Yellows	"All TimingLoads"	1⁄2
+""	"Non-stop train to the Down Bromsgrove Loopvia Platform 3"	Slow speed junction	"All TimingLoads"	1⁄2

@@ -1,0 +1,34 @@
+""	Darlington										
+""											
+""	Adjustments to Sectional Running Times										
+""	Movement Down	Reason	Value								
+""	Train from York to Platform 4B via Bypass Line	Slower approach speed	2								
+""	Train passing through Platform 4	Deceleration	1*								
+""	Acceleration	"1* approachingnext timing point"									
+""	*May be reduced to 1⁄2 for trains timed at 75mph or below										
+""	Trains from Down Main to Platform 1 – 3	Approach control	1								
+""	"Trains from Up Saltburn terminating inPlatforms 2 & 3"	TPWS	1⁄2								
+""	"Non–stop trains from Eaglescliffe to the DownMain"	Acceleration	"2 approachingnext timing point"								
+""	Movement Up	Reason	Value								
+""	Train to Platform 4B	Approach control	1								
+""											
+""	Dwell Time										
+""	185	11⁄2									
+""	22x	11⁄2									
+""	DMU/EMU	2									
+""	LH/80x	2									
+""											
+""	Junction Margins										
+""	South end movements										
+""	"2nd move→1st move↓"	"Depart toYork"	"Pass toYork"	"ArrivefromE’cliffe"	"PassfromYork"	"Departto E’cliffe"	"ArrivePlatform4A fromE’cliffe"	"Arr Plat4 fromYork viaBypass"	"ArrivePlat 1-3fromYork"	"ArrivePlatform1 fromN’castle"	
+""	"Arr/passfromE’cliffe"	1	4		4	1			4*	P	
+""	"Pass toYork"	2		4		2	4				
+""	"Dep toYork"			5*	5	3	5*		5*		
+""	"Dep toE’cliffe"	3	5	5*	5		5*		5*		
+""	"PassfromYork"	1		4*		1	4*			4 1⁄2	
+""	"Arr Plat4 fromYork"						4*				
+""	"Arr Plat4A fromE’cliffe"							4		P	
+North End movements											
+"2nd move→1st move ↓"	"Pass fromYork"	"ArrivePlatform 4from York"	"Depart toNewcastle"	"Depart toBishopAuckland"	"Pass toYork"	"ArrivePlatform 1fromNewcastle"	"ArrivePlatform 4fromNewcastle"	"Arrive fromBishopAuckland"			
+"Pass fromYork"			3			4 1⁄2	4				
+Depart to				3			5*	4*			

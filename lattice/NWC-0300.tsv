@@ -1,0 +1,31 @@
+""	Parkside Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Up train from Newton-le-Willows	Down train towards Golborne Jn	21⁄2
+""	Down train towards Golborne Jn	Up train from Newton-le-Willows	3
+""	Up train to Astley from Newton-le-Willows	Up train from Golborne Jn	2
+""			
+""	Planning restrictions		
+""	"No pathing time is to be inserted in the Up Direction between Newton-le-Willows and Parkside Jn as there is nosignal between these locations."		
+""	Newton-le-Willows
+""	
+""	See entry under route NW1021 Winwick Jn to Golborne Jn (via Earlestown)
+""	Earlestown
+""	
+""	See entry under route NW1021 Winwick Jn to Golborne Jn (via Earlestown)
+""	Huyton		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down Chat Moss to Down Chat Moss Slow notstopping at Huyton"	Slower speed junction	"1⁄2 Passengerand lightengines1 Freight"
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train from the Up Chat Moss Fast towardsRainhill"	"Train from St Helens Central to the Down ChatMoss Slow"	21⁄2
+""	"Train from the Up Chat Moss Slow towardsRainhill"	"Train from St Helens Central to the Down ChatMoss Slow"	3
+""	"Train from St Helens Central to the Down ChatMoss Slow arrives at or passes Huyton"	"Train from Up Chat Moss Fast or Up ChatMoss Slow departs towards Rainhill"	1
+""	"Train passes Platform 3 on the Up Chat MossFast to the Up Chat Moss"	"Train departs Platform 4 on the Up Chat MossSlow to the Up Chat Moss"	2
+""			
+""	Planning restrictions		
+""	"No pathing time is to be added between Huyton and Roby on either the Down Chat Moss Fast or Down Chat MossSlow unless the route into Roby is clear as there are no intermediate signals between these locations.No pathing time is to be added between Roby and Huyton on either the Up Chat Moss Fast or Up Chat Moss Slowunless the route into Huyton is clear as there are no intermediate signals between these locations"		

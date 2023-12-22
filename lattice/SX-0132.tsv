@@ -1,0 +1,31 @@
+Hastings			
+""			
+Arrive Platform 1 from Ore	"Arrive Platform 2 from St LeonardsWarrior Square or Bo Peep Junction"	"Overlap onEDL46points"	2
+"Arrive Platform 2 from St Leonards WarriorSquare or Bo Peep Junction"	Depart Platform 1	"Overlap onEDL46points"	2
+"Arrive Platform 2 from St Leonards WarriorSquare or Bo Peep Junction"	Arrive Platform 1 from Ore	"Overlap onEDL46points"	2
+"Arrive Platform 2 from St Leonards WarriorSquare or Bo Peep Junction"	Depart Park Sidings into Platform 1	"Overlap onEDL46points"	3
+"Arrive Platform 3 from St Leonards WarriorSquare or Bo Peep Junction"	Depart Platform 4 Eastbound	"Overlap onEDL42points"	2
+Depart Platform 4 to Ore	"Arrive Platform 3 from St LeonardsWarrior Square or Bo Peep Junction"	"Overlap onEDL42points"	2
+Arrive Platform 4 from EDL70/Park Sidings	"Arrive Platform 3 from St LeonardsWarrior Square or Bo Peep Junction"	"Overlap onEDL42points"	2
+Depart Platform 4 to Park Sidings	"Arrive Platform 3 from St LeonardsWarrior Square or Bo Peep Junction"	"Overlap onEDL42points"	3
+""			
+""	Planning Note		
+""	"Please note a change of line designation here when planning trains to/from the Ore directionTrains cannot be left unattended or berthed in Platform 2 or 3"		
+""	Rye	
+""		
+""	Dwell Time	
+""	All services	Minimum 1⁄2 minute
+""		
+""	Turnround allowances	Class 171 (2 / 3 / 4 Car)
+""	"Trains arriving at Rye from Ashford International reversing at SignalRY27 to return to Ashford International"	10
+Appledore				
+""				
+Dwell Time				
+All services	Minimum 1⁄2 minute			
+""				
+""	Overlap Restrictions			
+""	First Movement	Second Movement	Reason	Margin
+""	Up Train arrives Platform 1	"Down Train arriving onDown Hastings intoPlatform 2"	Overlap on 1282 points	1 1⁄2
+""	"Down train arrives platform 2 fromAshford"	"Up train arrives platform1 from Rye"	Overlap on 1282 points	1 1⁄2
+""				
+""	Station Working Requirements			

@@ -1,0 +1,36 @@
+EA1100 EASTGATE JUNCTION & HYTHE JUNCTION TO COLCHESTER TOWN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+East Gate Junction	-	-		To/from Colchester - EA1090
+Hythe Junction				To/from Clacton - EA1090
+Colne Jn				
+Colchester Town	-	-		
+EA1110 THORPE-LE-SOKEN JUNCTION TO WALTON-ON-THE-NAZE				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Thorpe-le-Soken Junction				To/from Thorpe-le-Soken - EA1090
+Kirby Cross	-	-		"Platform 2 only to be specified for Up trainswhen required to use the bi-directional route"
+Frinton-on-Sea	-	-	S	
+Walton-on-the-Naze	-	-		
+EA1120 MANNINGTREE TO HARWICH TOWN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Manningtree	"-UH"	-		"Platform detail must be shownLine code UH to be used for Down Trainsusing the Up Harwich Line"
+Manningtree South Junction				To/from Colchester - EA1011
+Manningtree Signal CO196		-	S	"Tiploc – CLCH196. For trains required to shuntbetween Platforms 1 and 2 at Manningtreewith an RM in the Location Activity field"
+Manningtree Signal CO751		-	S	"Tiploc – CLCH751. For trains required to shuntbetween Platforms 2 and 3 at Manningtreewith an RM in the Location Activity field"
+Manningtree North Junction	-	-	X	To/from Ipswich - EA1011
+Manningtree East Junction	-	-	X	"Timing point for Down Trains fromManningtree using the Up Harwich Line ortrains to/from Manningtree North Junction."
+Mistley Down Loop	-	-	S	
+Mistley	-	-	S F	Mandatory for all freight trains
+Wrabness	-	-	S	
+Parkeston Signal P211	-	-	S	Timing point for trains required to shunt
+Parkeston Goods Junction	-	-		
+Parkeston Signal P12	-	-	S	Timing point for trains required to shunt
+Parkeston Signal P21	-	-	S	Timing point for trains required to shunt
+"Parkeston Carless CurveHeadshunt"	-	-	F	"Timing point for trains required to shuntTiploc - PRKSCRV"
+Parkeston Tip Sidings	-	-	F	
+"Parkeston Carless RefineryHeadshunt"	-	-	F	"Timing point for trains required to shuntTiploc - PRKSCLH"
+"Parkeston Carless RefinerySidings"	-	-	F	
+Parkeston Yard	-	-	F	
+Parkeston C S	-	-	S	

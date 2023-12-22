@@ -1,0 +1,42 @@
+""	
+Dwell Time	
+150 to 175	1
+LH	11⁄2
+Moreton – on – Lugg
+"-All trains to/from Moreton on Lugg terminal must stop at Moreton on Lugg-Trains from the Craven Arms direction are able to propel into the Stone Terminal at Moreton-on-Lugg if groundstaff are provided by the operator.  If not, the train is required to run round at Hereford.-Trains departing Moreton-on-Lugg Stone terminal northbound propel onto the down main at Moreton on Lugg."
+Moreton-on-Lugg Terminal
+Planning Note
+Only 1 train can be accommodated at a time
+Shelwick Junction					
+""					
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)					
+Movement	Reason		Timing Load	Value	
+From Hereford to Ledbury Pass to Stop	"Slow speed at ShelwickJunction"		150 to 158	{1}	
+Hereford					
+""					
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)					
+Movement	Reason	Timing Load		Value	
+From Ledbury to Hereford Pass to Stop	"Slow speed at ShelwickJunction"	150 to 158		{1}	
+""					
+Connectional Allowance	7				
+""					
+Dwell Time					
+All	2				
+""					
+Platform Working (SPAD mitigation)					
+First Movement	Second Movement	Margin			
+Arrive Platform 1	Depart Platform 2	3 minutes			
+Arrive Platform 2	Depart Platform 1	3 minutes			
+""					
+Turnround allowances					
+""	LH	"All WMTservices"	DMU	Class 80X (5 car)	Class 80X (9/10 Car)
+From Paddington	40		15	25	30
+From Oxford/Worcester		5	10	15	20
+From Birmingham/Cardiff/Crewe		5	15		
+""					
+"Platforms 1 & 2 – a 9 or 10-car 800/802 occupies the track circuit in rear of the platform, locking 36pts.Thereforea second southbound train cannot arrive into P1 or P2 at Hereford whilst a 9 or 10-car stands in either platform."					
+Abergavenny			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+Trains terminating at Abergavenny	"Approach control andsignalling constraints"	Passenger	{21⁄2}

@@ -1,0 +1,32 @@
+""	SO250D FALCON JUNCTION TO LATCHMERE JUNCTION (NO 1)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	For Route SO250D Please see Sussex Timetable Planning Rules				
+""	SO260 BRIXTON JUNCTION TO SHORTLANDS JUNCTION (CATFORD LOOP)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Brixton Junction				"To/from Shepherds Lane Junction - SO110Use TIPLOC BRIXTON to/from CatfordLoop"
+""	Canterbury Road Junction	-	-		To/from Loughborough Junction - SO280C
+""	Cambria Junction Signal VS679	-	-		"Shunt availableUse TIPLOC CBRI679"
+""	Cambria Junction	-	-		To/from Loughborough Junction - SO280B
+""	Cambria Junction Signal VS678	-	-		"Shunt availableUse TIPLOC CBRI678"
+""	Denmark Hill	-	-		Platform detail must be shown.
+""	Crofton Road Junction	-	-  AL		"To/from Denmark Hill (Atlantic Lines) –Refer to Sussex Timetable Planning Rules- SO645"
+""	Peckham Rye	-	-	S	
+""	Nunhead	-	-		Platform detail must be shown
+""	Nunhead Junction	-	-		To/from Lewisham Vale Junction - SO330
+""	Crofton Park	-	-	S	
+""	Catford	-	-	S	
+""	Bellingham	-	-		Platform detail must be shown
+""	"Bellingham Down CarriageSidings"	-	-	S	"Timing point for trains into and out of theSidings"
+""	Bellingham Shunt Signal VS688	-	-		Use TIPLOC BELN688
+""	Beckenham Hill	-	-	S	
+""	Ravensbourne	-	-	S	
+""	Shortlands Junction	FL  SL	-		To/from Shortlands - SO110
+""	SO280 FARRINGDON TO HERNE HILL				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Farringdon	"NBSB"	"NBSB"		"Platform detail must be shownTo/from St Pancras International –LN3213Refer to East Midlands TimetablePlanning Rules"
+""	Smithfield Sidings	-	-	S	"Timing point for trains into and out of theSidings"
+""	City Thameslink	"NBSB"	"NBSB"		Platform detail must be shown
+""	London Blackfriars	"DSSDSHUSHDSL"	"NBSB"		Platform detail must be shown

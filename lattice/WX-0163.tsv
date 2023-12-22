@@ -1,0 +1,39 @@
+North Camp	
+""	
+Dwell Times	
+Class 16x	45 seconds* to be shown as alternate 1⁄2 and 1 minute dwells
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)	
+Farnborough North	
+""	
+Dwell Times	
+Class 16x	45 seconds* to be shown as alternate 1⁄2 and 1 minute dwells
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)	
+Blackwater		
+""		
+Adjustments to Sectional Running Times		
+Movements	Reason	Value
+"Depart Blackwater Platform 1 having arrivedwith the section beyond BEF2978 occupied"	Restrictive Aspects	{1⁄2}*
+"Depart Blackwater Platform 2 having arrivedwith the section beyond BEF2979 occupied"	Restrictive Aspects	{1⁄2}*
+* Applies approaching next timing point.		
+""		
+Dwell Times		
+Class 16x	45 seconds* to be shown as alternate 1⁄2 and 1 minute dwells	
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)		
+Blackwater Signal BEF2980		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up train departs Blackwater Signal BEF2980towards Up Blackwater"	Down train passes Blackwater	3
+"Up train departs Blackwater Signal BEF2980towards Up Blackwater"	Down train arrives at Blackwater	31⁄2*
+Up train passes Blackwater Signal BEF2978	"Up train departs Blackwater Signal BEF2980towards Up Blackwater"	11⁄2
+* A Down train cannot arrive at Blackwater Platform 2 whilst a shunt movement is standing behind BEF2980.		
+Sandhurst		
+""		
+Adjustments to Sectional Running Times		
+Movements	Reason	Value
+"Depart Sandhurst Platform 1 having arrived withthe section beyond BEF2982 occupied"	Restrictive Aspects	{1⁄2}*
+* Applies approaching next timing point.		
+""		
+Dwell Times		
+Class 16x	45 seconds* to be shown as alternate 1⁄2 and 1 minute dwells	
+* Increase to 1 minute for services departing between 0700-0900 or 1600-1830 (both SX only)		

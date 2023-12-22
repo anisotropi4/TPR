@@ -1,0 +1,31 @@
+SO510 LONDON BRIDGE TO EPSOM DOWNS				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Anerley	SL	SL	S	
+Norwood Junction Shunt Signal		FL SL		Use TIPLOC NORWD03
+Norwood Junction	FL  SL  -	FL  SL		"Platform detail must be shown.To/from Windmill Bridge Junction -SO510BTo/from Bromley Junction - SO650A"
+"Norwood Junction Shunt SignalT1016"	SL	FL SL		Use TIPLOC NORWD16
+"Norwood Junction Shunt SignalT1008"	SL			Use TIPLOC NORWD08
+"Norwood Junction Shunt SignalT1010"	SL FL			Use TIPLOC NORWD10
+"Norwood Junction PerturbationSidings Shunt Signal T1017"	FL  SL  -	FL  SL		Use TIPLOC NORWD17
+"Norwood Junction PerturbationSidings Shunt Signal T1018"	FL  SL  -	FL  SL		Use TIPLOC NORWD18
+Norwood Perturbation Sidings	FL  SL  -	FL  SL		"Stabling not allowed – turnback movesonlyUse TIPLOC NORWDDYEntry via 1520 points only"
+Norwood Fork Junction	SL	FL  SL	X	Timing point for all Up direction services
+"Selhurst Depot Fork Arrival ShuntSignal T1019"	FL SL			Use TIPLOC SDEPFA
+"Selhurst Depot Departure RoadShunt Signal S4"	FL SL			Use TIPLOC SLHRTS4
+"Selhurst Depot Departure RoadShunt Signal S15"	FL SL			Use TIPLOC SLHRS15
+"Selhurst Depot Arrival Road ShuntSignal S2"	FL SL			Use TIPLOC SLHRTS2
+"Selhurst Depot Arrival Road ShuntSignal S13"	FL SL			Use TIPLOC SLHRS13
+Selhurst T&R.S.M.D.				ECS moves only
+Gloucester Road Junction	-	-		To/from Selhurst Junction - SO500A
+West Croydon	-	-		Platform detail must be shown
+West Croydon Turnback Siding	-	-		"Shunt Signal T1048 available on the DownWallington – Use TIPLOC WCRO048"
+Oakfield Siding	-	-		"Shunt signal available at sidingUse TIPLOC WCROYOS"
+West Croydon Signal T1041		-		"Shunt signal T1041 available on UpWallington – Use TIPLOC WCRO041"
+Waddon	-	-	S	
+Wallington	-	-		
+Carshalton Beeches	-	-	S	
+Sutton	SINGLE	-		"Platform detail must be shownTo/from Carshalton/Cheam - SO680To/from West Sutton - SO700"
+Belmont	SINGLE	SINGLE	S	
+Banstead	SINGLE	SINGLE	S	
+Epsom Downs		SINGLE		

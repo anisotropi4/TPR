@@ -1,0 +1,30 @@
+Stapleton Road			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"From North Somerset Junction to StapletonRoad Pass to Stop"	Slow speed junction	"HST22x"	+ {1}
+""			
+Dwell Time			
+"15x / 16x / GWR Short Form HST (HSTGW4) /80x"	1		
+LH	11⁄2		
+Lawrence Hill					
+""					
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)					
+Movement		Reason	Timing Load		Value
+"From North Somerset Junction to Lawrence HillPass to Stop"		Slow speed junction	"HST/22xD245 to D455"		{1}
+""					
+Dwell Time					
+150		1⁄2			
+153 to 170 / GWR Short Form HST (HSTGW4)		1			
+""					
+Overlap Restrictions					
+First Movement	Second Movement	Margin			
+"Pass Dr Days Jn on Up Filton Main or DownFilton Main"	"Down arrival at Lawrence Hill routed to Up FiltonMain, Down Filton Main or DBL or UBL at Dr Days Jn"	2*			
+"Cross from Up Filton Main or UBL to Up FiltonRelief at Dr Days Jn"	Down arrival at Lawrence Hill	2			
+"*Can be reduced to 0 if second train has minimum of 2 minutes dwell at Lawrence Hill. This is to allow overlap tobe reset."					
+Dr.Days Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"All trains on the Down Filton Relief atNarroways Hill Jn crossing to theDown Filton Main at Dr Days Jn"	"Slow speed junction andapproach control"	"DMU / GWR Short FormHST (HSTGW4)"	{1⁄2}
+"Any trains not stopping at LawrenceHill routed towards North SomersetJn via ‘Rhubarb Curve’"	"Slow speed junction andapproach control"	"HST/22x/DMU/80x/GWRShort Form HST(HSTGW4)D245 to D455 / Freight"	"{1}{1}"

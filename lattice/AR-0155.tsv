@@ -1,0 +1,30 @@
+March		
+""		
+"CrossCountry trains departing March in the Down direction to be advertised to depart 1 minute earlier than WTT ifthey depart on a whole minute. (This is to help mitigate late running in the event the train encounters cautionarysignals on the approach to Norwood Road Level Crossing.)"		
+""		
+Dwell Time	"1 GA1 XC Class 170"	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Freight arrives March Up loop	Freight passes March in the Up direction	4
+""		
+Planning Note		
+"Freight trains, less than 76 SLUs, stopping in the down direction for crew relief, must be planned to stop in theDown Goods Loop if available. Stopping in the down platform at March results in the level crossing being blockedfor an extended period of time."		
+""		
+Terminal Lengths		
+Up Reception	39 SLUs	
+March West Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value*
+Class 4 trains pass from Whitemoor	Acceleration	"Up to 1200t/TR70{2}1400t{3}1600t - 1800t{31⁄2}"
+"Class 6 and 7 trains (non HAW)pass from Whitemoor"	Acceleration	"400t/600t{1}800t and TR40{11⁄2}1000t/1200t and{2}TR55/TR701400t and TR85{3}1600t – 2000t and{31⁄2}TR100/1152200t – 2400t and{4}TR130"
+"Class 6 and 7 trains (HAW) passfrom Whitemoor"	Acceleration	"Up to 2000t/TR115{1}2200t{11⁄2}2400t and TR130{2}"
+*Allowance to be applied approaching next timing point		
+""		
+Movement Up	Reason	Value
+Freight pass to Whitemoor	Deceleration, approach control	"All timing loads{11⁄2}approaching March West Jn"
+""		
+Whittlesea	
+""	
+Dwell Time	1 GA

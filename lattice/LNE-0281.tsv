@@ -1,0 +1,26 @@
+Horbury Junction
+Refer to 854
+LN870 TURNERS LANE JUNCTION TO CALDER BRIDGE JUNCTION
+Turners Lane Junction
+""
+Restriction
+Trains standing at K1246 signal that are longer than 457m/71SLU will foul Calder Bridge Jn
+LN872 ALTOFTS JUNCTION TO LEEDS WEST JUNCTION		
+Methley Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Pass from Whitwood Jn (not stopping atWoodlesford)"	Acceleration	"1 Freight1⁄2 PassengerTo be appliedapproachingnext timingpoint"
+""		
+Movement Up	Reason	Value
+"Pass to Whitwood Jn (not stopping atWoodlesford)"	Differential junction speed	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Whitwood Jn	Pass to Altofts Jn– non-stop Passenger	3
+Pass from Whitwood Jn	Pass to Altofts Jn stopping at Woodlesford	31⁄2
+Pass to Altofts Jn	Pass from Whitwood Jn	3
+Pass to Whitwood Jn	Pass to Altofts Jn	31⁄2
+Pass to Altofts Jn	Pass to Whitwood Jn	4
+"Pass from Altofts Jn (not stopping atWoodlesford)"	"Pass from Whitwood Jn (stopping atWoodlesford)"	31⁄2
+Pass from Altofts Jn	"Depart Methley Jn from Whitwood Jn (notstopping at Woodlesford)"	2

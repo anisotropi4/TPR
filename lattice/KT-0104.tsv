@@ -1,0 +1,40 @@
+""	Parks Bridge Junction		
+""	Conflicts at Parks Bridge Junction		
+""			
+""	Down cross towards Ladywell Jn	Up pass from Hither Green on UKF	2
+""	Up pass from Hither Green on UKF	Down cross towards Ladywell Jn	2
+""			
+""	Conflicts at Courthill Loop South Junction		
+""			
+""	Down cross from DKS to DKF	Up pass on UKS towards New Cross	21⁄2
+""	Up pass on UKS towards New Cross	Down cross from DKS to DKF	11⁄2
+""	Up cross from UKF to UKS	Down pass on DKF towards Hither Green	11⁄2
+""	Down pass on DKF towards Hither Green	Up cross from UKF to UKS	21⁄2
+""	Up cross from UKS towards Lewisham	Down pass on DKS	11⁄2*
+""	Down pass on DKS	Up cross from UKS towards Lewisham	21⁄2
+""	*additional 1 minute required when freight is the first move		
+""	Hither Green		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Freight passing towards Lee	Approach control	1⁄2
+""	Freight pass to Down Goods	"Speed differential approaching Hither GreenApproach control"	1
+""			
+""	Movement Up	Reason	Value
+""	Pass Up Slow to Up Fast	Approach control	1
+""			
+""	Freight pass from Lee	Speed Differential	
+""	Up to 800t/TR55	1⁄2*	
+""	1000t/TR70 or above	1*	
+""	*approaching next timing point		
+""			
+""	Connectional Allowance	4	
+""			
+""	Dwell Time		
+""	"All services (Up morning peakonly)"	1	
+""			
+""	Length Restrictions		
+""	"A train exceeding 205m/32SLU in length will foul 911 points when standing at TL300 on the Up Hither GreenDeparture RoadTherefore, junction margins must be based on train’s departure time at Hither Green"		
+""			
+""	Planning Note		
+""	"Trains may only be planned to call at Platform 1 during times of engineering work or other circumstances agreedin advance with the TOC. This is due to station staff needing to be present to unlock the anti-tresspass gates"		

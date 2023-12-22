@@ -1,0 +1,36 @@
+""	Eltham	
+""		
+""	Dwell Time	
+""	All services	1 (Peak services only)
+""	Falconwood
+""	
+""	Berthing Facilities
+""	"Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operationalrestrictions"
+""	Welling
+""	
+""	Berthing Facilities
+""	"Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operationalrestrictions"
+""	Barnehurst	
+""		
+""	Connectional Allowance	4
+""	SO300A SLADE GREEN JUNCTION TO PERRY STREET FORK JUNCTION
+""	
+""	Erith Loop
+""	All trains travelling via the Erith Loop should be shown as a dot stop to enable ARS to regulate trains correctly
+""	SO310 HITHER GREEN TO MAIDSTONE WEST (VIA SIDCUP)
+""	
+""	Hither Green
+""	For full entry refer to route SO130
+""	
+""	Length Restrictions
+""	"A train exceeding 500m/78SLU in length on the Down Kent Slow will foul Down Lee Spur towards Lee whenstanding at TL294 (Platform 5 starter)Therefore, junction margins must be based on the trains’ departure time from Hither Green station"
+""	The standage at Signal TL343 to be clear of fouling Platform 6 at Hither Green is 468 metres/73 SLUs
+""	Sidcup		
+""			
+""	Berthing Facilities		
+""	Location	Cars	Notes
+""	"Sidcup BerthingSiding"	12	
+""			
+""	Dwell Time		
+""	All services	1	
+""			

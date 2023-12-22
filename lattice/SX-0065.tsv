@@ -1,0 +1,29 @@
+SO510B NORWOOD JUNCTION TO WINDMILL BRIDGE JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Norwood Junction – WindmillBridge Junction"	"2 – Non-Stopping3 – Stopping"	"2 – Non-Stopping3 – Stopping"	
+SO511A HIGHBURY AND ISLINGTON TO NEW CROSS GATE			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Highbury and Islington to DalstonJunction"	3	3	
+Dalston Junction to Canal Junction	3	3	
+Canal Junction to New Cross Gate	3	3	
+SO511B CANAL JUNCTION TO NEW CROSS			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Canal Junction to Rolt StreetJunction"	3	3	
+Rolt Street Junction to New Cross	SINGLE LINE	One Train Working Only	
+SO520 THREE BRIDGES TO HAVANT (VIA HORSHAM)			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Three Bridges – Littlehaven(exclusive)"	"3 – Non-Stopping5* – Stopping"	"31⁄2 – Non-Stopping5* – Stopping"	*4 for consecutive stopping trains
+Littlehaven (inclusive) - Horsham	3	"31⁄2 – Non-Stopping5* – Stopping"	*4 for consecutive stopping trains
+Horsham – Billingshurst	3	3	
+Billingshurst – Arundel Junction	"3 - Non-Stopping31⁄2 - Stopping"	"3 – Non-Stopping31⁄2 - Stopping"	
+Arundel Junction – Chichester	"3 – Non-Stopping4 – Stopping"	"3 – Non-Stopping4 – Stopping"	
+Chichester - Emsworth	"31⁄2 – Non-Stopping5 – Stopping"	"31⁄2 – Non-Stopping5 – Stopping"	
+Emsworth – Havant	"2 – Non-Stopping21⁄2 - Stopping"	"2 – Non-Stopping21⁄2 - Stopping"	
+SO520A FORD JUNCTION TO LITTLEHAMPTON JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Ford Junction – LittlehamptonJunction"	4	4	

@@ -1,0 +1,29 @@
+"SC165 NIDDRIE SOUTH JUNCTION TO HAYMARKET WEST JUNCTION(EDINBURGH SUBURBAN)"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Newcraighall – Haymarket WestJunction"	5	5	Two aspect signaling
+SC167 CRAIGLOCKHART JUNCTION TO SLATEFORD JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Craiglockhart Junction – Slateford	AB+2	AB+3	TCB
+SC169 GORGIE JN TO HAYMARKET CENTRAL JN			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Gorgie Jn – Haymarket Central Jn	AB+2	Single Line.	
+"SC171 HAYMARKET WEST JUNCTION TO DUNDEE CENTRAL JUNCTION(VIA KIRKCALDY)"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Haymarket West Junction –Inverkeithing"	3	3	
+Inverkeithing – Cupar	5	5	
+Cupar – Leuchars	"Seemargins"	AB+2	
+Leuchars – Tay Bridge South	AB+2	AB+2	
+"Tay Bridge South – DundeeCentral Junction"	TCB	TCB	"Signalled as Single line over the High GirdersSection (see Margins for Tay Bridge South andDundee Central)"
+"SC173 INVERKEITHING CENTRAL JUNCTION TO THORNTON NORTH JUNCTION(VIA COWDENBEATH)"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Inverkeithing Central Junction –Thornton North Junction"	4	4	
+SC177 THORNTON NORTH JUNCTION TO LEVEN			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Thornton North Junction –Earlseat Junction"	AB+31⁄2*	AB+2	"Single line*May be reduced to minimum AB+2 with pathingapplied at Earlseat Jn equal to reduction."
+Earlseat Junction – Leven	AB–1⁄2	AB+1	"Down trains may be held at ETL577 signal, beyondEarlseat Junction, awaiting entry to section to Leven."

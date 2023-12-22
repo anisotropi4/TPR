@@ -1,0 +1,41 @@
+Cardiff Central	
+""	
+""	^ Plus 10 minutes if a shunt move is required
+¥ May be 20 minutes if a cross platform shunt is not required.	
+$ May be reduced to 15 minutes if a cross platform shunt is not required.	
+"# May be reduced to 10 minutes if a cross platform shunt is not required."	
+Cardiff West
+Unit coupling and Reversals at Cardiff West
+Units that require to be coupled at Cardiff West must only do so in the Brickyard sidings.
+"A train consisting of more than one unit that is not gangwayed throughout and requires the driver to change endsis only able to do this at the following locations:Brickyard sidingsLine A (Signal CF2342)Line E (Signal CF7048)This does not apply when two drivers are provided (by TOC agreement only)"
+Leckwith Loop North Junction				
+""				
+Adjustments to Sectional Running Times (shown after this location)				
+Movement	Reason	Timing Load	Value	
+"Passing Leckwith Loop North Junctioncoming from Line E"	Slower Speed from Line E	All Passenger	{1⁄2}	
+"Passing Leckwith Loop North Junctioncoming from Line E"	Slower Speed from Line E	All Freight	{1}	
+Passing Leckwith Loop North Jn to Line B	Slow Line Speed	All	{1⁄2}	
+""				
+Adjustments to Sectional Running Times (shown approaching this location)				
+Movement		Reason	Timing Load	Value
+Up Main to Leckwith Loop		Approach Control	All	{11⁄2}
+""				
+Junction Margin				
+First Movement	Second Movement	Value		
+"Passenger train from Up Main to LeckwithLoop"	Train passing on the Down Main	21⁄2		
+Freight train from Up Main to Leckwith Loop	Train passing on the Down Main	3		
+Passenger train passing on the Down Main	Train passing Up Main to Leckwith Loop	2		
+Freight train passing on the Down Main	Train passing Up Main to Leckwith Loop	21⁄2		
+""	Miskin Up and Down Goods Loops			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	From Up and Down main	"Slow speed at loop entry(15 mph)"	All traffic	+{2}
+Pontyclun	
+""	
+Dwell Time	
+150 to 153	1⁄2
+156 to 159 / LH	1
+Llanharan
+""
+Dwell Time

@@ -1,0 +1,29 @@
+SO500 LONDON VICTORIA TO BRIGHTON				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Stoats Nest Junction	QL SL	FL  SL		
+Reedham Sidings	SL	SL		Use TIPLOC REEDSGS
+Stoats Nest Junction Signal T1109	SL	SL		"Shunt signal availableUse TIPLOC SNST109"
+Stoats Nest Junction Signal T1110	SL	SL		"Shunt signal availableUse TIPLOC SNST110"
+Coulsdon South	SL	SL	S	
+Merstham	SL	SL	S	
+Redhill Signal T1305	SL	SL		"Shunt signal availableUse TIPLOC REDH305"
+Redhill Signal T1308		SL		"Shunt signal availableUse TIPLOC REDH308"
+Redhill	SL	SL		"Platform detail (which includes UML, andDML) must be shownTo/from Reigate - SO560To/from Nutfield - SO550"
+Redhill Signal T1320	SL	SL		"Shunt signal availableUse TIPLOC REDH320"
+Earlswood Signal T1123	SL	FL SL		"Shunt signal availableUse TIPLOC EARL123"
+Earlswood Signal T1127	SL	FL SL		"Shunt signal availableUse TIPLOC EARL127"
+Earlswood	FL  SL	QL SL		Platform detail must be shown
+Earlswood Signal T1136	SL	FL SL		"Shunt signal availableUse TIPLOC EARL136"
+Salfords	SL	SL		"Timing point for all trains on slow lines onlyPlatform detail must be shown"
+Salfords Signal T1150	SL			"Shunt signal availableUse TIPLOC SALFD50"
+Salfords Aggregate Sidings			F	"Access controlled by FOC shunterPoints 1697 available for moves in/out ofSalfords Aggregate Sidings"
+Horley	FL  SL	FL  SL	S	Platform detail must be shown
+Gatwick Airport Signal T1161	FL			"For ECS moves to shunt betweenplatforms at the London end of the stationTIPLOC: GTWK116"
+Gatwick Airport Signal T1165	SL			"For ECS moves to shunt betweenplatforms at the London end of the stationTIPLOC: GTWK165"
+Gatwick Airport Up Siding North		SL		"For ECS moves to into the sidings at theLondon end of the stationTIPLOC: GTWKUSN"
+Gatwick Airport	FL  SL	FL  SL		Platform detail must be shown
+Gatwick Airport C.H.S	-			"Shunt signal T1174 availableSiding detail must be shown (S1, S2 or S3)"
+Gatwick Airport Signal T1168	FL			"Shunt signal available for ECS movementsUse TIPLOC GTWK168"
+Tinsley Green Junction	FL	SL	X	
+Crawley New Yard			S	"Points 1737 available for moves in/out ofCrawley New YardAccess controlled by FOC shunterTIPLOC CRAWGBR (GBRF)TIPLOC CRAWFYO (DBC)TIPLOC CRAWFHH (Freightliner)"

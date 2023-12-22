@@ -1,0 +1,31 @@
+Cliffe Brett Marine
+""
+Operational Restriction
+"One train in section between Cliffe Ground Frame and Cliffe Reception Sidings.Upon arrival of a train at Cliffe Brett Marine Reception Roads, the locomotive (unless top and tailed) is required torunround its train, therefore a second train cannot arrive within 30 minutes of the previous train’s arrival time. Thisis to allow the first train to clear the Reception Roads into the terminalTrains arriving at Cliffe Brett Marine Reception Roads must arrive 10 minutes before any timed departure."
+""	Crayford Spur ‘B’ Junction
+""	See entry under route SO310
+SO310C STROOD TO ROCHESTER BRIDGE JUNCTION
+""
+Rochester Bridge Junction
+See entry under route SO110
+""	SO320 HOO JUNCTION TO GRAIN SIDINGS
+""	
+""	Hoo Junction
+""	See entry under route – SO310
+""	Hoo Junction Signal NK509		
+""			
+""	Operational Requirement	Value	
+""	Token stop (trains to/from Grain) or operation of ground frame (trains to/from Cliffe Brett Marine)	3	
+""			
+""	First Movement	Second Movement	Value
+""	Depart towards Cliffe Brett Marine	Depart towards Hoo Jn (from Grain)	5*
+""	Depart towards Grain	Arrive from Cliffe Brett Marine	5$
+""	* includes 3 minute token stop		
+""	$ includes 3 minutes stop for operation of ground frame		
+""	Grain Level Crossing		
+""			
+""	Operational Requirement	Value	
+""	Token stop	1	
+""			
+""	First Movement	Second Movement	Value
+""	Depart to Shared Area	Arrive from Shared Area	10

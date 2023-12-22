@@ -1,0 +1,55 @@
+""	STATION	PLATFORM	LENGTH	NOTES
+""				
+""	Tamworth High Level	Down	245	
+""	Tamworth High Level	Up	245	
+""	Tamworth Low Level	Down	292	
+""	Tamworth Low Level	Up	321	
+""	Telford Central	Down	271	
+""	Telford Central	Up	271	
+""	Thatto Heath	Down	75	
+""	Thatto Heath	Up	81	
+""	The Hawthorns	Down	150	
+""	The Hawthorns	Up	150	
+""	The Lakes	Down	40	
+""	The Lakes	Up	40	
+""	Tile Hill	Down	177	
+""	Tile Hill	Up	177	
+""	Tipton	Down	101	
+""	Tipton	Up	106	
+""	Todmorden	1	121	
+""	Todmorden	2	121	
+""	Town Green	1	128	Up line
+""	Town Green	2	135	Down line
+""	Trafford Park	Down	137	
+""	Trafford Park	Up	137	
+""	Tring	1	275	Down Fast
+""	Tring	2	253	Up Fast
+""	Tring	3	243	Down Slow
+""	Tring	4	240	Up and Down Relief Down Direction
+""	Tring	4	339	Up and Down Relief Up Direction
+""	Tring	5	250	Up Slow
+""	Tyseley	1	152	Up Fast
+""	Tyseley	2	152	Down Fast
+""	Tyseley	3	153	Up Slow
+""	Tyseley	4	153	Down Slow
+""				
+""	Ulverston	1	103	
+""	Ulverston	3	101	
+""	University	Down	185	
+""	University	Up	173	
+""	Upholland	Down	49	Additional 87m OOU
+""	Upholland	Up	46	Additional 88m OOU
+""	Upton	Down	78	
+""	Upton	Up	78	
+""	Urmston	Down	147	
+""	Urmston	Up	147	
+""				
+""	Walkden	Down	75	Additional 77.9m OOU
+""	Walkden	Up	77	Additional 76.8m OOU
+""	Wallasey Grove Road	1	127	Up line
+""	Wallasey Grove Road	2	127	Down line
+""	Wallasey Village	1	130	Up line
+""	Wallasey Village	2	128	Down line
+""	Walsall	1	111	
+""	Walsall	2	177	
+""	Walsall	3	177	

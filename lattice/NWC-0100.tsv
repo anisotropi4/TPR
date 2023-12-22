@@ -1,0 +1,37 @@
+""	NW5015 HADFIELD TO ARDWICK JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Ashburys West Jn				"To/from Philips Park South Jn – NW7025To/from Ardwick T.M.D."
+""	Ardwick T.M.D.	–	–	S	
+""	Ardwick	–	EL GL	S	"GL applies to trains running via the Arrival& Departure Line to the Down Goods atAshburys"
+""	Ardwick Jn	FL SL EL	–		"To/from Ardwick T.M.D.To/from Manchester Piccadilly – NW5001"
+""	NW5017 DINTING SOUTH JN TO DINTING EAST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Dinting South Jn				"Single line from Dinting South Jn to/fromDinting East JnTo/from Glossop – NW5019"
+""	Dinting East Jn				To/from Hadfield – NW5015
+""	NW5019 GLOSSOP TO DINTING WEST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Glossop	–			"Single line from Glossop to/from DintingWest Jn"
+""	Dinting South Jn				To/from Dinting East Jn – NW5017
+""	Dinting	–	–		
+""	Dinting West Jn				To/from Hyde Jn – NW5015
+""	NW5021 STALYBRIDGE TO GUIDE BRIDGE WEST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Guide Bridge West Jn				To/from Guide Bridge – NW5015
+""	Stalybridge Jn				To/from Ashton Moss North Jn – NW7021
+""	Stalybridge	–	–		"Platform detail must be shownTo/from Greenfield – NW7021"
+""	NW6001 MANCHESTER PICCADILLY EAST JN TO EUXTON JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Manchester Piccadilly East Jn	–			To/from Ardwick Jn – NW5001
+""	"Manchester Piccadilly(Platforms 13 and 14)"	–	FL SL EL		Platform detail must be shown
+""	Manchester Piccadilly West Jn				
+""	Oxford Road East Jn				
+""	Manchester Oxford Road	–	–		Platform detail must be shown
+""	Oxford Road West Jn				
+""	Deansgate	–	–		Platform detail must be shown
+""	Castlefield Jn				To/from Trafford Park East Jn – NW6003
+""	Water Street Jn	–	–		To/from Salford Central – NW6004

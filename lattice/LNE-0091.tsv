@@ -1,0 +1,16 @@
+LN600 SHAFTHOLME JUNCTION TO RESTON GSP			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Shaftholme Junction to York	"3 FollowingPassenger4 FollowingFreight"	"3 FollowingPassenger4 FollowingFreight"	
+"York to Skelton Junction(exclusive)"	3	3	
+"Skelton Junction (inclusive) toNorthallerton"	"3 Fast LineFollowingnon stop4  Fast lineFollowingFreight/Stopping5 - SlowLine"	"3 Fast LineFollowingnon stop4  Fast lineFollowingFreight/Stopping5 - SlowLine"	
+"Northallerton to King EdwardBridge South Junction (exclusive)"	"3 FollowingNon Stop4 FollowingFreight/Stopping"	"3 FollowingNon Stop4 FollowingFreight/Stopping"	
+"King Edward Bridge SouthJunction  (inclusive) to HeatonSouth Junction (inclusive)"	3	3	
+"Heaton South Junction (exclusive)to Benton North Junction"	"3 FollowingNon Stop*4 FollowingFreight"	"3 FollowingNon Stop*4 FollowingFreight"	"* Increased to 4 for trains timed at speedsbelow 100mph"
+"Benton North Junction (exclusive)to Reston Signal EG402/403"	5*	5*	"*May be reduced to 4 for successive trainstimed at 100mph or above"
+"LN620 KING EDWARD BRIDGE EAST JUNCTION TO KING EDWARD BRIDGENORTH JUNCTION"			
+TIMING POINT	DOWN	UP	NOTES
+"King Edward Bridge East Junctionto King Edward Bridge NorthJunction"	AB+2*	* Single Line TCB plan as AB	
+"LN626 NORTHALLERTON HIGH JUNCTION TO NORTHALLERTON EASTJUNCTION"			
+TIMING POINT	DOWN	UP	NOTES
+Standard Headway	AB+2*	AB+2*	*TCB plan as AB

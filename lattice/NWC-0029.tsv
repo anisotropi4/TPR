@@ -1,0 +1,39 @@
+"SecondCharacter"	"ThirdandFourthNumber"	Route and/or Destination
+""	odd	Class 2 trains Colne to Blackpool South
+""	5x	Blackpool South to Preston
+""	6x	Preston (and beyond) to Blackpool South
+""	"even 00-40"	Manchester to New Mills Central via Bredbury
+""	"odd 01-39"	New Mills Central to Manchester via Bredbury
+""	"even7x/8x"	Class 2 trains Manchester Piccadilly to Sheffield via New Mills Central
+""	"odd7x/8x"	Class 2 trains Sheffield to Manchester Piccadilly via New Mills Central
+""		Merseyrail trains to Southport
+""		"Any Chiltern Railways operated Class 5 shunting within the station limits atMarylebone"
+T	odd	Class 2 trains Euston to Tring
+""	even	Class 2 trains Tring to Euston
+""		"Marylebone to Oxford including services that terminate at Bicester Village orOxford Parkway"
+U		GWR Class 2 trains to Bristol Temple Meads
+""	odd	Class 1 trains Euston to Crewe via Trent Valley timed at 110mph
+""	even	Class 1 trains Crewe to Euston via Trent Valley timed at 110mph
+""	8x	Class 1 trains Windermere to Manchester Airport
+""	9x	Class 1 trains Barrow-in-Furness to Manchester Airport
+""	99	Trent Valley service that runs via Hixon
+""		Marylebone to Banbury
+""		Birmingham Snow Hill to Banbury
+""	odd	Class 2 CrossCity trains to Four Oaks
+""	odd	Class 2 trains Manchester Victoria to Leeds via Brighouse
+""	even	Class 2 trains Leeds to Manchester Victoria via Brighouse
+""		Merseyrail trains to Hunts Cross
+""		ECS to Four Oaks
+V		To the Western Region
+""	00-20	Birmingham New Street to Gloucester/Cardiff via Chepstow
+""	20-30	Birmingham New Street to Worcester stations /Malvern/Hereford/Gloucester
+""	40-75	Birmingham New Street to Bristol/Plymouth/West Country
+""	80-95	Birmingham New Street to Reading via Leamington Spa
+""		ECS to Worcester LMD
+""		Marylebone to Aylesbury Vale Parkway via Amersham
+W		Peak services to London
+""	Class 1 trains London Paddington to Worcester/Great Malvern/Hereford	
+odd	"Class 1 trains Euston to Northampton/Birmingham New Street services timedat 110mph"	
+"odd (31-55)"	"Euston to Liverpool Lime Street via FL to Milton Keynes Central, BirminghamNew Street, Wolverhampton and Madeley"	
+even	"Class 1 trains Birmingham New Street/Northampton to Euston timed at110mph"	
+"odd (71-79)"	Euston to Birmingham New Street, FL from Ledburn Jn, Northampton	

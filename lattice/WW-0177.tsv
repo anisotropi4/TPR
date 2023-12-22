@@ -1,0 +1,36 @@
+""	Clifton Down		
+""			
+""	Dwell Time		
+""	15x	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arriving from Avonmouth	Departure to Avonmouth	1
+""	Arriving from Bristol	Departure to Bristol	Simultaneous
+""	Redland	
+""		
+""	Dwell Time	
+""	15x & 16x	1⁄2
+""	Montpelier	
+""		
+""	Dwell Time	
+""	15x & 16x	1⁄2
+""	GW480  SWINDON TO STANDISH JUNCTION			
+""				
+""	Kemble			
+""				
+""	Dwell Time			
+""	15x	1		
+""	* Extended to 2 minutes on the Down 1630-2030 hrs and before 09.00 on the Up, Monday to Friday			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	"TimingLoad"	Value
+""	Down trains to the Up Platform	"Approach control and slow speedcrossover"	All Traffic	{11⁄2}
+""	Stroud	
+""		
+""	Dwell Time	
+""	15x	1
+""	Stonehouse	
+""		
+""	Dwell Time	
+""	15x	1

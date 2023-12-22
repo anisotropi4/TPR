@@ -1,0 +1,31 @@
+Sheffield		
+Arrive Platform 2 from South	Depart Down Station Siding (and vice versa)	
+Arrive Platform 2 from North	"Arrive Down Station Siding/Platform 1 from the South (andvice versa)"	
+Arrive Platform 6 from North	Arrive/depart Platform 7 (and vice versa)	
+Arrive Platform 8 from North	Arrive/depart Platform 7 (and vice versa)	
+Junction Margins		
+First Movement	Second Movement	Margin
+""		
+Platform End Conflicts		
+First Movement	Second Movement	Margin
+Train Arrive	Conflicting movement depart	1
+Depart Platform 1 or 1a to the North	Arrive Platform 1a from the South	"3 (norestriction ifdeparture isfrom 1b)"
+Depart Platform 1 to the North	Arrive platform 1 or 1b from the South	"32 if departureis from 1b"
+Depart Platform 1a to the South	Arrive Platform 1 from the North	"3 (norestriction ifdeparture isfrom 1b)"
+Depart Platform 1 to the South	Arrive Platform 1 from the North	"32 if departureis from 1b"
+Depart Platform 1, 2, 3, 4 or 5 to the North	Arrive Platform 1 or 2 from the North	4
+Depart Platform 2 or 5 to the North	Arrive same Platform from the South	4
+Depart Platform 3, 4, or 5 to the North	Arrive Platform 3, 4, or 5 from the North	3*
+Arrive Platform 1 from the South	Arrive Platform 2 from the North	4
+Arrive Platform 2 from the North	Arrive Platform 1 from the South	4
+Arrive Platform 2 from the North	Depart Platform 1 to the South	2
+Arrive Platform 6 or 8 from the North	Arrive Platform 7 from the South	3
+Arrive Platform 7 from the South	Arrive Platform 6 or 8 from the North	3
+Arrive Platform 8 from the South	Arrive Platform 6 from the North	4
+Depart Platform 1 or 2 to the South	"Arrive Platform 1, 2, 2c or 5 from theSouth"	41⁄2
+Depart to the South	Arrive Platform 7 or 8 from the South	5
+Depart Platforms 2, 5, 6 or 8 to the South	Arrive same Platform from the North	4
+Depart Platform 2c or 5 to the South	Arrive Platform 2c or 5 from the South	41⁄2
+Depart Platform 7 to the South	Arrive Platform 6 from the North	3
+* 4 via ‘A’ line when confliction occurs		
+"Restrictions•North end Bay Platform couplings are preferred to take place in Platform 3•Passenger services cannot arrive on Platform 6 from the South•Passenger services cannot depart Platforms 6 or 8 to the North•Trains following into the same platform – not called on – 4 from South, 3 from North•ECS services can depart Platform 6 to the north via S133 however can’t be dispatched by Platform stafftherefore agreement must be sought with the relevant TOC beforehand•ECS services arriving into Platform 6 to be routed via DPL from SHEF77•Services arriving into Platform 7 and 8 to be routed via DPL from SHEF77•Trains should not be planned to pass through the Down or Up Station Sidings"		

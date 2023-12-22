@@ -1,0 +1,32 @@
+""	NW6003 CASTLEFIELD JN TO ALLERTON JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Castlefield Jn to Trafford ParkEast Jn"	3	3	
+""	"Trafford Park East Jn toGlazebrook East Jn"	4	4	
+""	Glazebrook East Jn to Birchwood	AB+2	AB+2	TCB but planned as AB
+""	"Birchwood to Warrington Central(inclusive)"	AB+2	AB+2	TCB but planned as AB
+""	"Warrington Central (exclusive) toHough Green"	"4 Non-stop *61⁄2stopping"	"4 Non-stop *6stopping"	"* The non-stop headway also applies for trainsstopping at Warrington Central and Widnes only.The stopping headway should be applied to a trainfollowing a preceding train which stops at eitherWarrington West or Sankey"
+""	"Hough Green to Hunts Cross(inclusive)"	AB+2	AB+2	TCB but planned as AB
+""	"Hunts Cross (exclusive) to AllertonJn"	3	3	
+""	NW6004 WATER STREET JN TO SALFORD CENTRAL (ORDSALL CHORD LINES)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Water Street Jn to Salford Central	3	3	
+""	NW6005 MANCHESTER VICTORIA EAST JN TO WINDSOR BRIDGE SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Manchester Victoria to WindsorBridge South Jn"	3	3	
+""	NW6007 DEAL STREET JN TO ORDSALL LANE JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Deal Street Jn to Ordsall Lane Jn	3	3	
+""	NW6009 WINDSOR BRIDGE NORTH JN TO SOUTHPORT			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Windsor Bridge North Jn toWalkden"	4	4	
+""	Walkden to Crow Nest Jn	5 8#	5 8#	"# If following a train that stops at Daisy Hill and HagFold"
+""	Crow Nest Jn to Wigan Station Jn	3	3	"For non–stop trains only but no more than 2 x 3minute moves in succession"
+""	"Wigan Station Jn to WiganWallgate"	4	4	
+""	Wigan Wallgate to Parbold	AB+2	AB+2	
+""	Parbold to Burscough Bridge	AB+2	AB+2	
+""	Burscough Bridge to Meols Cop	AB+2	AB+2	

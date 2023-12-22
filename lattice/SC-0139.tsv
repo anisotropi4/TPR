@@ -1,0 +1,33 @@
+Haymarket Depot		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Depot from East or West	Depart Depot to East or West	8
+Arrive Depot from East or West	Arrive Depot from East or West	8
+Depart Depot to East or West	Arrive Depot from East or West	8
+Depart Depot to East or West	Depart Depot to East or West	8
+""		
+"RestrictionMaximum DMU raft of 6 cars can arrive or depart"		
+Haymarket Central Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train pass from DN to DS Line	"Up train pass Haymarket West from NewbridgeJunction"	21⁄2
+Up train cross US to UN	Down depart Haymarket Platform 2	11⁄2
+""		
+"NoteTrains crossing US onto UN at Haymarket Central Junction should have {1} approaching Haymarket WestJunction due to trains running on restrictive aspects"		
+Haymarket West Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Traction	Value
+"Trains from Gorgie Junction to NewbridgeJunction (Acceleration)"	Passenger and trailing up to 600t (TR40)	1⁄2*
+""	Trailing >=800t (Above TR45)	1*
+"Trains from Gorgie Junction to DalmenyJunction (Acceleration)"	Passenger and trailing up to 600t (TR40)	1*
+""	Trailing >=800t (Above TR45)	11⁄2*
+Trains routed from Down South to Down Fife	"Approach ControlAcceleration"	"1⁄21⁄2*"
+*To be applied approaching next timing point		
+""		
+Movement Up	Reason	Value
+"Up trains crossing US to UN at HaymarketCentral Junction"	Approach Control	1
+"Up train crossing to US or travelling towardsGorgie Junction"	Approach Control	1
+""		

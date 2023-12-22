@@ -1,0 +1,26 @@
+EA1120 MANNINGTREE TO HARWICH TOWN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Harwich International	"-DTS"	"-DH"		"Platform details must be shownLine code DH to be shown for Up trains on theDown Harwich Line towards Parkeston GoodsJunctionLine code DTS to be used for trains throughPlatform 1 towards the Down through Siding"
+"Parkeston Down ThroughSiding"	-	"-DTS"		"All trains on the Down Through Siding to betimed hereLine code to be shown for trains towardsHarwich International Platform 1"
+Parkeston C. T.	-	-	F	
+Dovercourt	-	-	S	
+Harwich Town	-	-		
+EA1130 GRIFFIN WHARF BRANCH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Halifax Junction	-	-		To/from Colchester - EA1011
+Griffin Wharf	-	-	F	
+EA1140 IPSWICH DOCKS BRANCH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Ipswich Goods Junction				To/from Ipswich and Norwich - EA1012
+"Ipswich Lower Yard FreightTerminal"	-	-	F	This route is currently out of use
+"EA1150 CHANNELSEA SOUTH JUNCTION TO STRATFORD CENTRAL JUNCTIONWEST – CHANNELSEA CURVE"				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Channelsea Junction	-  NLL	-  AL		"NLL to be used for trains routed to StratfordPlatforms 1 & 2 – See Route EA1320AL to be used for trains routed via ChannelseaUp Loop to Signal NL1286 at Lea Junction"
+Channelsea South Junction				"To/from Channelsea North Junction – EA1320To/from Stratford Platforms 1 & 2 – EA1320"
+"Carpenters Road NorthJunction"				"To/from Carpenters Road South Junction viaCarpenters Road Curve – EA1020"
+"Stratford Central JunctionWest"				"To/from Forest Gate Junction – EA1010To/from Temple Mills East Junction – EA1280"
+Stratford	*	-  AL		"Platform detail must be shown* For Down Line codes see entry on RouteEA1010Up Line code AL to be used for trains routedvia Signal NL1292 on Channelsea Up Loop(preferred route towards Lea Junction ifavailable)"

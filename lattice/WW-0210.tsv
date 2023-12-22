@@ -1,0 +1,37 @@
+Gloucester				
+""				
+Junction margins				
+First Movement	Second Movement	argin		
+"epart Platform 2 via UML towards Hortonoad Jn"	"Arrive platform 2 from Horton RoadJn via platform 1"	31⁄2		
+"epart platform 2 via platform 1 towardsorton Road Jn"	"Arrive platform 2 from Horton RoadJn via UML"	3		
+"epart platform 2 towards Gloucester Westn"	"Arrive platform 2 from GloucesterWest Jn"			
+epart platform 3	Arrive platform 3			
+""				
+Connectional Allowance	7			
+""				
+Dwell Time				
+All	2			
+XC 170	2*			
+"*By exception, dwell time may be reduced to 11⁄2 minutes after discussion and agreement between CrossCountryand Network Rail."				
+""				
+Minimum allowance for reversals or run rounds en-route				
+LH	13 #			
+"DMU (Does not apply to XCtraction)"	3			
+"# Staff are not provided for locomotive run-rounds at Gloucester"				
+""				
+"Platform Re-occupations(Horton Road Jn end)"	"Platform 1 (opposite) – Apply junction margin at Horton Road JnPlatform 2 (same direction, down) – 3Platform 2 (opposite, via UML both ways) – Apply junction margin at HortonRoad JnPlatform 4 (same direction, Down) – 4Platform 4 (opposite) – Apply junction margin at Horton Road Jn"			
+"Platform re-occupations(Gloucester West end)"	"Platform 2 (same direction, Up) – 4Platform 4 (same direction, Up) – 4Platform 4 (opposite direction) – Apply junction margin at Over Jn."			
+""				
+Turnround allowances				
+""	22X	"DMU/GWR Short FormHST (HSTGW4)"	"Class 80X(5 car)"	"Class 80X(9/10 Car)"
+From Paddington			15	20
+From Swindon / Bristol	20*	10	10	15
+From Worcester / Birmingham	20*	10		
+From Cardiff		10		
+From West of Cardiff		20		
+From North of Birmingham	20*	20*		
+From Penzance / Plymouth / Paignton	20*	20*		
+* May be reduced to 10 minutes on agreement				
+""				
+Platform End Conflict Margin				
+First Movement	Second Movement	Margin		

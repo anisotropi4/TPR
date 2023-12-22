@@ -1,0 +1,30 @@
+SC003 CARSTAIRS SOUTH JUNCTION TO HAYMARKET EAST JUNCTION		
+Carstairs East Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Midcalder Jn to Carstairs	"Pass from Carstairs North Jn (not stopping atCarstairs)"	51⁄2
+"Pass from Midcalder Jn to Carstairs/CarstairsNorth Jn"	Pass from Carstairs South Jn	31⁄2
+""		
+"RestrictionStandage at GMC418 (SC005) signal is 276m without fouling Carstairs East JunctionThe standage between GMC418 and GMC427 signals (SC005) is 179m"		
+Midcalder Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+Trains to Shotts Line	"Deceleration of trains capable of 90mph orabove, not stopping at Kirknewton andLivingston South"	"1⁄2 beforeMidcalderJunction"
+Trains from Shotts Line	"Acceleration of trains capable of 90mph orabove, not stopping at Kirknewton andLivingston South"	"1⁄2 afterMidcalderJunction"
+"Trains departing from Midcalder Junction(USH) towards Slateford"	"Acceleration between Midcalder Junction andSlateford"	"2 MU2 LH"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Shotts	Pass from Shotts using Down Shotts Line	4
+Pass to Slateford using Down Shotts Line	Pass to Shotts	3
+Pass to Shotts	Pass from Carstairs	3
+Kirknewton	
+""	
+Dwell Time	
+MU	1 Up direction only, in order to operate Level Crossing
+Kingsknowe	
+""	
+Dwell Time	
+MU	1 Up direction only, in order to operate Level Crossing

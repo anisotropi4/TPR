@@ -1,0 +1,28 @@
+""	Northampton		
+""			
+""	"Down train departs towards Long Buckby viaDown Northampton Fast"	"Conflicting down train departs to Up and DownSlow, Down Goods Loop or Kings HeathTraincare Depot"	3
+""	"Freight train passes Northampton in the Downdirection"	"Any train passes or departing Northampton toLong Buckby"	5
+""	Up train departs from platforms 2 or 3	Down train arrives platforms 2 or 3	5
+""	"Freight train passes or departs Northampton inthe Up direction"	"Any train passes or departing Northampton inthe Up direction"	5
+""	Up train arrives into platform 2	Up train departs platform 3	1
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	EMU	8	
+""			
+""	Platform Reoccupation (opposing direction)		
+""	First Movement	Second Movement	Margin
+""	Up train departs or passes platform 1 or UML	Down train arrives platform 1	4
+""	Train departs platform 1 in the Up direction	"Train passes or departs Northampton North Jnfrom Kings Heath Traincare Depot intoplatform 1"	2
+""	"Train departs platforms 2 or 3 in the Updirection"	"Train passes or departs Northampton North Jnfrom Kings Heath Traincare Depot to platforms2 or 3"	2
+""			
+""	Planning Restriction		
+""	"The maximum standage at signal RY1022 (UML) to avoid fouling the route from Long Buckby direction intoplatform 1 is 286 meters/44 SLUs. The maximum standage at RY1022 (UML) to avoid fouling Northampton NorthJn is 512 meters/80 SLUs however this will foul the route from the Up Northampton Fast to platform 1 via 1409points.  Any train longer than this to be timed to stand at Northampton North Jn at either RY1036 (Up NorthamptonFast) or RY1038 (Up & Down Slow).The UML is inaccessible directly from Kings Heath Traincare Depot, the Down Goods Loop, or the Up Reception."		
+""			
+""	Trains entering or leaving passenger service and continuing in same direction (inclusive of Dwell Time)		
+""	"London Northwestern trainsentering service"	2	
+""	"London Northwestern trainsleaving service"	3 (4-car EMU), 6 (8 car EMU), 9 (12 car EMU)	
+""	Northampton Riverside Sidings	
+""		
+""	Berthing Capacity	Carriages
+""	Siding A	16 maximum (4 x 4 car units)
+""	Siding B	16 maximum (4 x 4 car units)

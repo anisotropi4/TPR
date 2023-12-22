@@ -1,0 +1,29 @@
+Penyffordd Cement Sidings			
+Penyffordd pass	XX.XX	"Penyffordd CementSdgs dep"	XX.00
+"Penyffordd Cement Sdgs GroundFrame arr."	XXPR04	"Penyffordd CementSdgs Ground Frame arr."	XXOP05
+"Penyffordd Cement Sdgs GroundFrame dep"	XXPR34	"Penyffordd Cement SdgsGround Frame dep."	XXOP35
+Penyffordd Cement Sdgs arr	XX.39	Dee Marsh Junction	/
+""		"Dee Marsh ReceptionSdgs arr"	RR
+""		"Dee Marsh ReceptionSdgs dep"	RR
+""		Penyffordd pass	/
+""			
+Arrivals and departures from and to Wrexham for light locomotives			
+Penyffordd pass	XX.XX	"Penyffordd CementSdgs dep"	XX.00
+"Penyffordd Cement Sdgs GroundFrame arr."	XXRM04	"Penyffordd CementSdgs Ground Frame arr."	XXRM05
+"Penyffordd Cement Sdgs GroundFrame dep"	XXRM08	"Penyffordd CementSdgs Ground Framedep"	XXRM09
+Penyffordd Cement Sdgs arr	XX.13	Penyffordd pass	XX/11
+""			
+Departure to Dee Marsh Reception Sidings for light locomotives			
+""		"Penyffordd CementSdgs dep"	XX.00
+""		"Penyffordd CementSdgs Ground Frame arr."	XXOP05
+""		"Penyffordd CementSdgs Ground Framedep"	XXOP09
+""		"Dee Marsh ReceptionSdgs arr"	
+Shotton High Level	
+""	
+Dwell Time	
+Slam	1⁄2
+Power	1⁄2
+Dee Marsh Junction
+""
+Other Restrictions
+"Loco hauled trains of all types must not be timed to pass each other between Penyffordd * and Dee Marsh Jn.owing to weight restriction at Hawarden Bridge.* Applies between Wrexham General and Dee Marsh Jn. when Penyffordd SB is switched out."

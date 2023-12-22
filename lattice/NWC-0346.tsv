@@ -1,0 +1,25 @@
+""	NW6003 CASTLEFIELD JN TO ALLERTON JN		
+""			
+""	Trafford Park East Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Depart Reversing Siding to Up CLC	Pass Down CLC	4 *
+""	Pass Down CLC	Depart Reversing Siding to Up CLC	1
+""	"Down Freight over 53 SLU pass to TraffordPark FLT"	"Train Pass Up CLC not stopped at eitherHumphrey Park or Trafford Park"	9 $ #
+""	"Down Freight over 53 SLU pass to TraffordPark FLT"	"Train Pass Up CLC stopped at both/eitherHumphrey Park or Trafford Park"	8 $ #
+""	"Down Freight pass to Trafford ParkEuroterminal"	"Train Pass Up CLC not stopped at eitherHumphrey Park or Trafford Park"	7 ##
+""	"Down Freight pass to Trafford ParkEuroterminal"	"Train Pass Up CLC stopped at both/eitherHumphrey Park or Trafford Park"	6 ##
+""	"Down Freight over 53 SLU pass to TraffordPark Euroterminal or FLT"	Depart Reversing Siding to Up CLC	3
+""	Pass up CLC	"Down Freight pass to Trafford ParkEuroterminal or FLT"	2
+""	Down passenger to Football Ground Halt	"Train Pass Up CLC not stopped at eitherHumphrey Park or Trafford Park"	31⁄2
+""	Down passenger to Football Ground Halt	"Train Pass Up CLC stopped at both/eitherHumphrey Park or Trafford Park"	3
+""	"*Margins can be reduced by 1 minute if the second train has a minimum of 1 minute pathing allowanceapproaching Trafford Park East Jn.$ If train is under 53 SLU to Trafford Park FLT the margins can be reduced by 2.# If train is over 100SLU/640M increase margin by 1## If train is over 100SLU/640M increase margin by 1⁄2"		
+""	Manchester United Football Ground Halt
+""	
+""	Planning Note
+""	"If a train up to 21SLU/135M is occupying the Football Ground Halt, a train to/from the Euroterminal can be routedvia Trafford Park West Jn to avoid conflict.  A train up to 109SLU/698m can depart only from FLT via Trafford ParkWest Jn to avoid conflict. The junction margins for Trafford Park East Jn should be applied to these moves.If an Up train in excess of 109SLU/698m is occupying the Football Ground Halt, a train to the Euroterminal can berouted via Trafford Park West Jn to avoid conflict. The junction margins for Trafford Park East Jn should beapplied to these moves."
+Trafford Park FLT Gate
+""
+Planning Restriction
+"AC electric locomotive hauled services to the Freightliner Terminal require a 10 minute OP stop for the AClocomotive to be detached and a diesel locomotive attached to haul the train into the terminal. During the OP stoptrains over 53 SLU in length will stand foul of Trafford Park East Jn."

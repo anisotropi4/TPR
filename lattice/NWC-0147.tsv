@@ -1,0 +1,32 @@
+""	NW1027 PRESTON SOUTH JN TO STRAND ROAD			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Preston South Jn to Strand Road	*	* Single line	
+""	NW2001 WEAVER JN TO LIVERPOOL LIME STREET			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Weaver Jn to Liverpool LimeStreet"	3	3	
+""	NW2003 RUNCORN TO I.C.I. SALT WORKS (RUNCORN DOCK BRANCH)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Runcorn SB to Network Rail/IneosChlor boundary"	*	"* Single line, timed as TCBSingle lead at Runcorn SB.  For Method of Workingsee Sectional Appendix Local Instructions"	
+""	NW2005 SPEKE JN TO GARSTON JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Speke Jn to Speke West Jn	AB+2	AB+2	Single Line
+""	"Speke West Jn to GarstonFreightliner Terminal"	*	*	"* See section 5.3 for margins beyond Speke WestJn"
+""	NW2007 ALLERTON EAST JN TO GARSTON JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Liverpool South Parkway toGarston Jn"	AB+2	AB+2	Single line between Allerton East Jn and Garston Jn
+""	NW2009 ARPLEY JN TO DITTON EAST JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Latchford Sidings to Arpley Jn	AB+2	AB+2	
+""	Arpley Jn to Monk’s Siding	AB+2	AB+2	
+""	"Monk’s Siding to Fiddlers FerryPower Station SB"	AB+2	AB+2	
+""	"Fiddlers Ferry Power Station SB toDitton East Jn"	AB+2	AB+2	
+""	NW2011 WALTON OLD JN TO ARPLEY JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Walton Old Jn to Arpley Jn	4	4	

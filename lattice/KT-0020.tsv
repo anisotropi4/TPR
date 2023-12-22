@@ -1,0 +1,42 @@
+Abbreviation	Description
+M	Monday
+T	Tuesday
+W	Wednesday
+Th	Thursday
+F	Friday
+S	Saturday
+Su	Sunday
+EWD	Every Week Day (Monday to Saturday)
+""	
+Suffixes	
+O	Adding this indicates that the train will run only on that day or those days shown
+X	Adding this indicates that the train will not run on that day or those days shown
+""	
+General	
+BHX	Denotes that this train does not run on a bank holiday
+Abbreviation	Description
+DMU	Any diesel multiple unit
+EMU	Any electric multiple unit
+ECS	Empty Coaching Stock includes empty diesel and electric multiple units
+373	Eurostar
+374	Eurostar
+Abbreviation	Description
+AL	Atlantic Lines
+ADN	Line A (from Platforms 1-4) to Down Cannon Street
+CL	Chatham Loop
+CDN	Line C (from Platforms 4-7) to Down Cannon Street
+CRV	Line C (from Platforms 4-7) to Cannon Street Reversible
+DC	Down Chatham
+DCS	Down Cannon Street
+DCX	Down Charing Cross
+DDG	Down Ripple Lane Chord
+DEC	Down CTRL East Chord
+DFV	Down Fast Tonbridge Loop
+DKF	Down Kent Fast
+DKS	Down Kent Slow
+DL	Down Line
+DM	Down Main
+DML	Down Main Line
+DMR	Line D (from Platforms 4-7) to Metropolitan Reversible
+DNC	Down International CTRL
+DNK	Down North Kent

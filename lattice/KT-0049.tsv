@@ -1,0 +1,11 @@
+SO320 HOO JUNCTION TO GRAIN SIDINGS					
+TIMING POINT	DOWN	UP	CODE	NOTES	
+""					
+Hoo Junction	-	-		To/from Gravesend – SO310	
+Signal NK509	-	-		Use TIPLOC CLFFD12	
+Cliffe Brett Marine		-	F S	"Access controlled by FOC shunter andgroundframe operator"	
+Grain Level Crossing	-	-			
+Grain Shared Area	-	-	F S	"For ITPS purposes, the timing point to beshown as Grain (former station now aShared Area)"	
+Grain BP			F S	TIPLOC GRAINBP	
+Grain Thamesport FLT			F S	TIPLOC GRAINTR	
+Grain Foster Yeoman			F S	"TIPLOC GRAINFG (GBRF)TIPLOC GRAINFY (DBC)TIPLOC GRAINFL (FHH)"	

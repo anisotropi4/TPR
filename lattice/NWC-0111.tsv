@@ -1,0 +1,30 @@
+""	NW8005 SANDHILLS JN TO ORMSKIRK				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Aintree	–	–	S	Platform detail must be shown
+""	Old Roan	–	–	S	Platform detail must be shown
+""	Maghull	–	–	S	Platform detail must be shown
+""	Maghull North	–	–	S	Platform detail must be shown
+""	Town Green	–	–	S	Platform detail must be shown
+""	Aughton Park	–	–	S	Platform detail must be shown
+""	Ormskirk		–		"Must be timed into/out of Platform 1.No physical connection to line to FaringtonCurve Jn"
+""	NW8007 BOOTLE JN TO AINTREE EMERGENCY G. F.				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Bootle Jn	–			"Single line from Bootle Jn to/from AintreeEmergency Ground FrameTo/from Bootle Branch Jn – NW2027To/from Sandhills – NW8001"
+""	Bootle Down & Up Goods	DUG	–		
+""	Marsh Lane Jn	DUG	DUG		
+""	Aintree West Level Crossing				Stop Board in both directions
+""	Aintree Sefton Jn		DUG		
+""	Aintree Emergency Ground Frame				To/from Aintree – NW8005
+""	Note: Not currently used for timing purposes				
+""	NW8009 WALTON JN TO HEADBOLT LANE				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Walton Jn	–	–		To/from Kirkdale – NW8005
+""	Rice Lane	–	–	S	Platform detail must be shown
+""	Fazakerley	–	–		Platform detail must be shown
+""	Fazakerley Jn				"Single line from 30 miles 72 chains to/fromKirkby East JnFor timing purposes this location shown asFazakerley"
+""	Kirkby (Merseyside)	–	–		
+""	Kirkby East Jn				"For timing purposes this location shown asKirkby"
+""	Headbolt Lane		–		Platform detail must be shown

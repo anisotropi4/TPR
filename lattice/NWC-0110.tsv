@@ -1,0 +1,36 @@
+""	NW8001 HUNTS CROSS WEST JN TO SOUTHPORT				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Seaforth & Litherland	–	–	S	Platform detail must be shown
+""	Waterloo	–	–		Platform detail must be shown
+""	Blundellsands & Crosby	–	–	S	Platform detail must be shown
+""	Hall Road	–	–		Platform detail must be shown
+""	Hightown	–	–	S	Platform detail must be shown
+""	Formby	–	–		Platform detail must be shown
+""	Freshfield	–	–	S	Platform detail must be shown
+""	Ainsdale	–	–	S	Platform detail must be shown
+""	Hillside	–	–	S	Platform detail must be shown
+""	Birkdale	–	–		Platform detail must be shown
+""	Southport Sig. 112	–		S	
+""	Southport C.H.S.	–	–	S	
+""	Southport Wallside Sdg		–	S	
+""	Southport		–		"Platform detail must be shown. DC Electricservices must use Platforms 1, 2 and 3"
+""	"NW8003 PARADISE JN TO JAMES STREET (STOCK INTERCHANGE/HOLDINGLINE)"				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Paradise Jn	–	–	X	"Single line from Paradise Jn to/from DerbySquare JnTo/from Liverpool Central LL – NW8001"
+""	Derby Square Jn				To/from Stabling Siding
+""	James Street	–	–		"Single line from James Street to/fromMann Island JnMust be timed through Platform 2 ifrunning to/from Paradise Jn"
+""	Mann Island Jn				"From Liverpool Central (Deep Level) –NW8011To Canning Street Jn – NW8011"
+""	NW8005 SANDHILLS JN TO ORMSKIRK				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Sandhills Jn				To/from Sandhills – NW8001
+""	Kirkdale South Jn				To/from Kirkdale Maintenance Depot
+""	Kirkdale C.S.	–	–	S	
+""	Kirkdale	–	–		Platform detail must be shown
+""	Kirkdale North Jn				To/from Kirkdale Maintenance Depot
+""	Walton Jn	–	–		To/from Fazakerley – NW8009
+""	Walton (Merseyside)	–	–	S	Platform detail must be shown
+""	Orrell Park	–	–	S	Platform detail must be shown
+""	Aintree Emergency Ground Frame				To/from Bootle Jn – NW8007

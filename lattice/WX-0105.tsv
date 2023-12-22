@@ -1,0 +1,34 @@
+""	Millbrook		
+""			Length Limit
+""	Up Main (clear of Shunt Signal E946)	146m	4 cars/5 444
+""			
+""	Planning Restriction		
+""	Pathing time must not be used between Millbrook and Church Lane Junction		
+""	Millbrook Signal E941
+""	
+""	Run Round Allowance
+""	Minimum run round time is 30 minutes.
+""	Millbrook FLT
+""	Freight Restriction
+""	Maximum train length that can be accommodated is 84 SLU including locomotive
+""	Church Lane Junction		
+""			
+""	Adjustment to Sectional Running Times		
+""	Movements	Reason	Value
+""	"Up trains from Redbridge (via Main Line) toMillbrook FLT"	Slow speed yard entry and approach control	{1}
+""	"Down trains from Down Slow to RedbridgeGoods"	Speed differential and approach control	{1}
+""	"Down trains from Down Fast to RedbridgeGoods"	Speed differential and approach control	{1⁄2}
+""	Down trains from Millbrook FLT to Redbridge	Speed differential	{4}*
+""	"Up trains from Redbridge Goods to Up Fast/UpSlow"	Speed differential	{11⁄2}*^
+""	"Up trains direct from Maritime FLT to UpFast/Up Slow"	Speed differential	{3}*#
+""	"Up trains direct from Maritime FLT to DownFast"	Speed differential	{11⁄2}*$
+""	"* Applies approaching next timing point^ Increase to {2} for freight longer than 97 SLU / 620m.# Increase to {41⁄2} for freight longer than 97 SLU / 620m.$ Increase to {3} for freight longer than 97 SLU / 620m."		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Down train passes towards Redbridge	"Up train departs from Maritime East JunctionSignal E756/E758"	1
+""	Up train passes towards Southampton	"Up train departs from Maritime East JunctionSignal E756/E758"	2*$
+""	"Up freight from Redbridge Goods to UpFast/Up Slow"	Down train towards Redbridge	41⁄2 £^
+""	"Up freight direct from Maritime FLT to UpFast/Up Slow"	Down train towards Redbridge	51⁄2 £#
+""	"Up freight direct from Maritime FLT to UpFast/Up Slow"	"Down train towards Redbridge which hasstopped at Millbrook"	41⁄2#
+""	"Up freight from Redbridge Goods to UpFast/Up Slow"	"Up train passes Church Lane Junction fromRedbridge"	51⁄2*^

@@ -1,0 +1,27 @@
+""	Stoke on Trent	
+""		
+""	Platform Reoccupation	
+""	"Through Lines: –Bays"	"21⁄2 Same5 Opposite applies to southbound departures and arrivals from the south3"
+""		
+""	Run-round Allowance	
+""	"Trains from the ‘South’ of Stoke on Trent:Trains up to 24 SLUs/154 metres in length can run–round in the Up & Down Through Siding.  Minimum timerequired 20 minutesTrains longer than 24 SLUs/154 metres can run–round on the Up Goods with the locomotive having to run–roundvia Kidsgrove.  In planning these run–rounds it will be necessary to take account of other traffic on the routebetween Stoke and Kidsgrove and return in determining the length of time required for the run–roundTrains from the ‘North’ of Stoke on Trent:Trains up to 73 SLUs/467 metres in length can run–round on the Up Goods.  The train stands on the Up Goodsinside SOT439 signal.  The locomotive runs round via the station (reverse) then to the Down Goods behind SOT540 GPL signal at Cliffe Vale Jn (reverse) then to the train on the Up Goods.  Minimum time required 25 minutes."	
+""	Kidsgrove			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Timing Load	Value
+""	Pass from Down Main to Down Crewe Branch	Differential Junction Speed	All	1
+""				
+""	Movement Up	Reason	Timing Load	Value*
+""	Pass from Up Crewe Branch to Up Main	Differential Junction Speed	"DMU/EMU/22x"	1
+""	390/Freight	2		
+""	* applies at next timing point after Kidsgrove			
+""				
+""	Dwell Time			
+""	DMU/EMU	1		
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Between all conflicting movements, except:		3	
+""	Pass on Down Main towards Macclesfield	Depart Platform 3 towards Stoke-on-Trent	1	
+""	Pass/Depart Platform 1 towards Stoke-on-Trent	Depart Platform 3 towards Stoke-on-Trent	11⁄2*	
+""	*Headway applies at next timing point			

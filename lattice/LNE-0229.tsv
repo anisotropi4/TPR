@@ -1,0 +1,13 @@
+LN740 GRIMSBY MARSH WEST JUNCTION TO HUMBER ROAD JUNCTION	
+""	
+Great Coates No1 Signal Box	
+""	
+Operating Stop	"All trains to/from Grimsby Union Dock Branch must have a 2 minute ‘OP’stop to collect /return the staff used for OT(S) working"
+Pyewipe Road Signal Box	
+""	
+Operating Stop	"All trains to/from Immingham East Junction must have a 2 minute ‘OP’ stopfor token exchange purposes"
+Humber Road Junction			
+""			
+Adjustment to Sectional Running times			
+Movement Up		Reason	Value
+"Up services to the N.C.B CoalTerminal or Reception Sidings(including RR1,RR7 and ESL )"	Approach Control	1	

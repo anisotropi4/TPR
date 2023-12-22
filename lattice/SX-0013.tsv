@@ -1,0 +1,29 @@
+TID	Class 2 services (WTT)
+2Bxx	"Victoria and Sutton / Epsom Downs via Balham and SelhurstEast/South Croydon and London Victoria via Selhurst and Balham (stopping) UPDIRECTION"
+2Cxx	Brighton and Seaford
+2Dxx	"Eastbourne / Hastings and Ashford InternationalLondon Waterloo and Guildford via Epsom (Class 1 not available)Redhill and Gatwick Airport (Up services ODD, Down services as EVEN)"
+2Exx	"Brighton and Bognor via Littlehampton (includes terminations at Littlehampton fromBrighton)Clapham Junction and Shepherds Bush (ARL services only)Oxted and UckfieldLittlehampton and Bognor Shuttles"
+2Fxx	London Victoria and London Bridge via Crystal Palace
+2Gxx	"Brighton and Hastings / Ore (stopping services)London Bridge and Caterham via Sydenham (stopping)London Bridge and Sutton via Sydenham"
+2Hxx	London Bridge and Beckenham Junction
+2Ixx	"London Victoria and Sutton / Epsom / Dorking / Horsham via Mitcham Junction (stopping)Stops at additional stations other than just Clapham Junction between London Victoriaand Streatham North Junction and is booked to use the Slow Line"
+2Jxx	London Bridge and Caterham via Tulse Hill and Selhurst
+2Kxx	"London Bridge and West Croydon or Sutton via SydenhamBognor to BarnhamBrighton to Hove (must be allocated numbers between 90 and 99)"
+2Lxx	"Brighton and LewesClapham Junction to Stratford via Willesden Junction"
+2Mxx	East Croydon and Watford Junction / Hemel Hempstead
+2N00-79	"Brighton and Southampton via Littlehampton (includes terminations at Littlehampton fromBarnham)Bognor and Littlehampton Shuttles"
+2N80-99	"London Victoria and East Croydon / South Croydon via Norbury(Up services ODD, Down services EVEN)"
+"2Oxx (evennumbers)"	Reading to Redhill (stopping)
+"2Oxx (oddnumbers)"	Hemel Hempstead / Watford Junction to Clapham Junction / East Croydon
+2Pxx	Purley and Caterham/Tattenham Corner (portion working with London Bridge services)
+2Qxx	Network Rail Test Trains
+2Rxx	Redhill and Reigate
+2Sxx	"Brighton and Portsmouth / Havant (includes terminations at Littlehampton from Barnham)London Victoria and West Croydon via Crystal Palace"
+2Txx	Brighton and West Worthing
+2Uxx	Brighton and Eastbourne
+2Vxx	Redhill to Reading (stopping)
+2Wxx	London Bridge and Blackfriars via Mitcham Junction, Sutton and Wimbledon
+2Xxx	NOT USED
+2Yxx	"Brighton and Chichester via LittlehamptonStratford to Clapham Junction via Willesden Junction"
+2Zxx	"Special Traffic TrainsMust NOT be used for WTT servicesSTP additional trains not conforming to any route code"
+""	

@@ -1,0 +1,32 @@
+""	Pass to Thingley Jn / Melksham	Approach control	All	{1}
+""	Pass from Thingley Jn / Melksham	Acceleration	All	"{1⁄2}approachingnext timingpoint"
+""	Bradford-on-Avon	
+""		
+""	Dwell Time	
+""	DMU	1
+""	Avoncliff	
+""		
+""	Dwell Time	
+""	DMU	1⁄2
+""	Freshford	
+""		
+""	Dwell Time	
+""	DMU	1⁄2
+""	Bathampton Junction
+""	Refer to GW105 for junction margins and allowances
+""	
+""	Pathing time
+""	"It IS not permitted to show pathing time approaching Bathampton Junction from the GW510 direction, due to ARSconstraints. It is necessary to show such allowances as an A stop at BL1995 signal TIPLOC."
+""	GW523 THINGLEY JUNCTION TO BRADFORD JUNCTION	
+""		
+""	Melksham	
+""		
+""	Dwell Time	
+""	150	1⁄2
+""	153 to 159	1
+""	GW540 FILTON JUNCTION TO PATCHWAY JUNCTION
+""	
+""	Patchway
+""	For Filton Abbey Wood rules refer to GW450 and for Patchway refer to GW600
+""	"GW5401 FILTON WEST JUNCTION TO PATCHWAY JUNCTION (PATCHWAYCHORD)"
+""	"Trains from Filton West Jn must not have pathing time or stops added approaching Patchway, this should beadded approaching Filton West Jn instead.  Signal BL1834 (approaching Filton West Jn) cannot be cleared untilBL2046 (protecting Patchway Junction) is cleared, this is due to the risk of trains rolling back over ‘Filton TipAOCL’."

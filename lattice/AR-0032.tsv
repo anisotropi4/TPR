@@ -1,0 +1,33 @@
+EA1160 BETHNAL GREEN EAST JUNCTION TO BISHOP’S STORTFORD				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+"Bethnal Green WestJunction"				To/from Liverpool Street – EA1010
+Bethnal Green	"FL  SMSF SMFESF"	ML  EL  S		
+Bethnal Green East Junction				To/from Liverpool Street – EA1010
+"Bethnal Green NorthJunction"				
+Cambridge Heath	S	S	S	
+London Fields	S	S	S	
+Reading Lane Junction	-	S	X	"Timing point for trains to/from DalstonKingsland.To/from Navarino Rd Junction – EA1180"
+Hackney Downs	-	FL  S		Platform details to be shown
+"Hackney Downs NorthJunction"				To/from Enfield Town – EA1170
+Clapton	-	-	S	
+Clapton Junction	-	-		To/from Chingford – EA1200
+Coppermill Junction	-	-		"To/from Temple Mills – EA1280Timing point required for All trains on the Downor Up Cambridge lines"
+Tottenham South Junction	-	-		"To/from Sth Tottenham East Junction –EA1290Timing point required for All trains on the Downor Up Cambridge lines"
+Tottenham Hale	- LVR	- LVR	S	
+Northumberland Park	- LVR	- LVR	S	
+Meridian Water	-	- LVR	S	
+Ponders End	-	-	S	
+Brimsdown	-	-		
+Enfield Lock	-	-	S	
+Waltham Cross	-	-	S	
+Cheshunt Junction				To/from Bury Street Junction – EA1190
+Cheshunt	-	"DS*  UC*-"		"Platform detail must be shown* A train starting from Cheshunt platform 2 androuted via the Up Southbury to Bury StreetJunction will have a line code of either DS(""Down Southbury"") which is the preferredroute, or UC (""Up Cambridge""). See alsoSection 5.3"
+Broxbourne L5315	-		S	For trains required to reverse
+Broxbourne	DPL  -	-		"Platform detail must be shown.  Line code DPLto be shown for Down trains departing Platform4 via Down Passenger Loop"
+Broxbourne DPL	-	DPL	S	"For trains required to wait in Down PassengerLoop"
+Broxbourne Reception	-	-	F	Shown as Up Goods Loop
+Broxbourne Junction	-	"UPL UML-"		"Line code UML or UPL must be shown for Uptrains routed towards Platform 1.To/from Hertford East – EA1210"
+Broxbourne C.E.G.B.	-	-	F	
+Broxbourne L5331 (L.O.S)	-	-	F	"For trains required to shunt from BroxbourneC.E.G.B."
+Roydon	-	-	S	

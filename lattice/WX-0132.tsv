@@ -1,0 +1,43 @@
+Eastleigh South Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Re-occupation of Single Line		2*
+* 1 minute from standing start at Signal E81		
+Hedge End	
+""	
+Dwell Times	
+Up Services Only	1
+Botley		
+""		
+Dwell Times		
+Down Services Only	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up train arrive/pass	Down train pass	3
+Up train arrive/pass	Down train or shunt movement depart	1
+Down train pass/depart	Train depart aggregate siding	2
+"Train depart Platform 2 towards aggregatesiding"	Down train arrive Platform 2	5*
+Up train depart Platform 2	Down train arrive Platform 2	4
+Up train depart Platform 2	Up train arrive Platform 1	4
+* Can be reduced to 3 if first movement is light locomotive.		
+""		
+Simultaneous Moves Not Permitted		
+Up train arrive Platform 1	Up train depart Platform 2 towards Eastleigh	
+Up train arrive Platform 1	Train shunting via Signal E295	
+""		
+Planning Note		
+"Freight Trains from the Aggregate Siding towards Hedge End must have a 20 minute run round allowance shownin platform 2."		
+Fareham North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Re-occupation of Single Line		3*
+Freight train to Fareham	Up train from Fareham	31⁄2
+Freight train into sidings	Up train from Fareham	4$
+* 1 minute from standing start at Signal E822		
+$ 3 minutes from standing start at Signal E822		
+""		
+Length Restrictions		
+"A train standing at Signal E822 on the Up Portsmouth which exceeds 411m / 64 SLU in length (exclusive ofstandback allowance) will foul 594 points/595 diamond at Fareham (East) Junction. Therefore, junction margins atFareham must be based on the train’s departure time at Fareham North Junction if over length."		

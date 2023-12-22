@@ -1,0 +1,25 @@
+Syston South Junction		
+""		
+"There are no signals between Syston North and Syston South Junctions.  Therefore, do not time trains to stand atSyston South Junction.  Also, do not include pathing time between Syston North and South Junctions."		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Towards Melton Mowbray (Leicester to SystonSouth Junction)"	Approach control	"13 Freight fromSL"
+"Leicester to Syston South JunctionDown Fast to Down Slow (to Sileby)"	Junction differential	"1 Passenger11⁄2 Freight"
+""		
+Movement Up	Reason	Value
+"Syston South Jn to Leicester (from MeltonMowbray direction only)"	"SRT differential – to be applied approachingnext timing point"	1
+"Syston South Junction to LeicesterUp Slow to Up Fast (from Sileby)"	"Junction differential – to be appliedapproaching next timing point"	"1 Passenger11⁄2 Freight"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Fast to Syston East Junction/Down Slow	Up Fast to Up Fast	4
+Down Fast to Syston East Junction/Down Slow	Up Slow to Up Fast/Up & Down Slow	5
+Down Fast to Syston East Junction/Down Slow	Up & Down Slow line to Down Slow	3
+"Down Fast/Up & Down Slow to Syston EastJunction"	Syston East Jn to Up Fast or Up &Down Slow	"See SystonEast"
+Up & Down Slow to Down Slow	Conflicting move	4
+Up & Down Slow to Syston East Junction	Up Slow to Up & Down Slow/Up Fast	5
+Up Fast to Up Fast	Down Fast to Syston East Junction/Down Slow	3
+Up Slow to Up Fast/Up & Down Slow	Down Fast to Syston East Junction/Down Slow	4
+Syston East Junction to Up Fast	"Up & Down Slow/Down Fast to Syston EastJunction/Down Slow"	5
+Syston East Junction to Up & Down Slow	Down Fast to Syston East Junction/Down Slow	5

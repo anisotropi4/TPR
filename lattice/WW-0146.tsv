@@ -1,0 +1,34 @@
+""	Exeter St Davids			
+""				
+""	"Arrive Platform 1 from Dawlish Warren orExeter Central"	"Arrive Platform 2 or 3 from CowleyBridge Jn or Exeter New Yard orRiverside Yard"	3	
+""	"Arrive Platform 2 or 3 from Cowley BridgeJn or Exeter New Yard or Riverside Yard"	"Arrive Platform 1 from DawlishWarren or Exeter Central"	3	
+""	"Arrive Platform 1 from Dawlish Warren orExeter Central"	"Depart Platform 2 or 3 to CowleyBridge Jn, Exeter New Yard or E664signal or Riverside Yard"	2	
+""	"Depart Platform 2 or 3 to Cowley BridgeJn, Exeter New Yard or E664 signal orRiverside Yard"	"Arrive Platform 1 from DawlishWarren or Exeter Central"	3	
+""	"Depart Platform 5 or 6 to Cowley BridgeJn or E664 signal"	"Arrive Platform 5 or 6 from DawlishWarren"	3	
+""	"Arrive Platform 5 or 6 from DawlishWarren"	"Depart Platform 5 or 6 toCowleyBridge Jn or E664 signal"	2	
+""	"Arrive Platform 5 or 6 or Exeter TMD fromDawlish Warren"	"Arrive Platform 5 or 6 from CowleyBridge Jn"	3	
+""	"Arrive Platform 5 or 6 from Cowley BridgeJn"	"Arrive Platform 5 or 6 or Exeter TMDfrom Dawlish Warren"	3	
+""				
+""	"Planning Note: Shunt moves from E35, E335, E664, E677 & E679 signals, and permissive moves into occupiedplatforms, do not require signalling overlaps at Exeter St Davids, however these moves are still subject to theabove restrictions if occurring simultaneously with another movement that does require an overlap that conflicts."			
+""				
+""	Connectional Allowance	6		
+""				
+""	Dwell Time			
+""	80x	2 %		
+""	DMU & HSTGW4	2		
+""	22x	2 &		
+""	The Up Sleeper is to have a minimum dwell of 5 minutes.			
+""	"% On Saturdays in Periods EFG, Class 1 services arriving between 0900-1500 require 3 minutes& On Saturdays in Periods EFG, Class 1 services arriving between 0900-1500 require 21⁄2 minutes"			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Arrive Platform 1, 3, 4 or 6 from DawlishWarren"	Arrive Platform 5 from Dawlish Warren	3	
+""	"Arrive Platform 1, 2, 3, 5 or 6 from CowleyBridge Jn"	Arrive Platform 4 from Cowley Bridge Jn	3	
+""	"Depart/pass to Dawlish Warren (does not callExeter St Thomas)"	Depart to Exeter St Thomas (stop)	3	
+""	"Depart/pass to Tiverton (does not havepathing time at Cowley Bridge Jn)"	Depart to Crediton	3	
+""	Arrival/ pass	Conflicting departure	2	
+""				
+""	Exeter St Davids Shunting Margins – Exeter New Yard, E664 & Riverside Yard			
+""	First Movement	Second Movement	Margin	Notes
+""	"Arrive Platform 1, 2 or 3,or Hyde Park Siding fromCowley Bridge Jn"	Depart to New Yard	1	
+""	"Arrive Platform 1 fromExeter Central or Dawlish"	"Shunt move to/from New Yardcommences"	2	"Signal E437 has anextended overlap."

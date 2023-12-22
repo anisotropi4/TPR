@@ -1,0 +1,35 @@
+""	"NW4001 PRESTON RIBBLE JN TO COVE L. C.Please refer to line of route NW1001 for Preston Ribble Jn to Preston Fylde JnPlease refer to Line of Route SC001 (Scotland Timetable Planning Rules for Gretna Jn to Cove L.C."				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Oxenholme Up Goods Loop	Up	74	478	"From signal CE42 to block jointexclusive of stand back allowance"
+""	"Grayrigg Down PassengerLoop"	Down	67	430	
+""	Grayrigg Up Passenger Loop	Up	68	440	
+""	"Tebay Down & Up GoodsLoop"		88	565	
+""	Shap Summit Up Goods Loop	Up	70	450	
+""	Shap Summit Down Siding	Down	35	224	
+""	Harrisons Down Goods Loop	Down	63	405	
+""	Eden Valley Up Goods Loop	Up	151	971	"Signal to block joint exclusive of standback allowance"
+""	Penrith Down Slow	Down	155	996	From signal CE208 to CE188
+""	Plumpton Up Goods Loop	Up	73	473	
+""	Upperby Down Goods Loop	Down	72	466	
+""	"Upperby Down ThroughGoods"	Down	72	466	
+""	Upperby Up Through Goods	Up	92	589	
+""	Carlisle A Siding		40	283	
+""	Carlisle B Up & Down Goods	Down	27	198	
+""	Carlisle B Up & Down Goods	Up	45	292	"From signal CE296 to clear of trap points750A in rear. This will block access inthe Up direction to C Up & Down Goods"
+""	Carlisle C Up & Down Goods	Down	27	200	
+""	Carlisle C Up & Down Goods	Up	45	292	"From signal CE297 to clear of trap points750A in rear. This will block access inthe Up direction to B Up & Down Goods"
+""	Carlisle No.1 Carriage Siding		34	241	
+""	Carlisle No.2 Carriage Siding		34	241	
+""	"Carlisle High Wapping SidingNo.1"		23	152	
+""	"Carlisle High Wapping SidingNo.2"		19	126	
+""	"Carlisle High Wapping SidingNo.3"		16	107	
+""	Kingmoor Up Passenger Loop	Up	133	879	Standage at signal CE453
+""	Kingmoor Up Through Siding	Up	108	695	Standage at signal CE455
+""	Kingmoor Up Through Siding	Up	137	881	Standage at signal CE453
+""	"Quintinshill Up PassengerLoop"	Up	90	579	
+""	"Quintinshill Down PassengerLoop"	Down	88	566	
+""	NW4033 CARNFORTH NORTH JN TO CARLISLE SOUTH JN (VIA BARROW)				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	St. Bees	"Up & DownMain"	34	218	"Up platform clear of crossing TC to SB6is 140m"

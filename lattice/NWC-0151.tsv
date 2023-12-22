@@ -1,0 +1,32 @@
+""	NW3027 TIMPERLEY TO ALTRINCHAM (METROLINK LINES)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Timperley to Signal DJ501	–		Under Metrolink Control
+""	Signal DJ501 to Deansgate Jn			
+""	Deansgate Jn to Navigation Road	–		Single Line
+""	Navigation Road to Altrincham			
+""	NW3029 SANDBACH NORTH JN TO NORTHWICH WEST JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Sandbach North Jn to NorthwichWest Jn"	Single Line	"Single line applies except between:Sandbach North Jn and a point 51 chains north ofSandbach North Jn; and Middlewich loop.Single lead at Northwich West Jn"	
+""	NW3031 NORTHWICH SOUTH JN TO NORTHWICH STATION JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Northwich South Jn to NorthwichStation Jn"	Single Line	TCB	
+""	NW3033 HARTFORD EAST JN TO HARTFORD NORTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Hartford East Jn to Hartford NorthJn"	Single Line	"TCBSingle lead at Hartford East Jn"	
+""	NW3035 HARTFORD WEST JN TO OAKLEIGH SIDINGS (WINNINGTON BRANCH)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Hartford West Jn to Hartford NorthJn"	Single Line	"TCBSingle lead at Hartford West Jn"	
+""	NW3037 HARTFORD C.L.C. JN TO HARTFORD JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Hartford C.L.C. Jn to Hartford Jn	4	4	Single lead at both ends of line
+""	"NW4001 PRESTON RIBBLE JN TO COVE L. C.Please refer to line of route NW1001 for Preston Ribble Jn to Preston Fylde Jn"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Preston Fylde Jn to Gretna Jn	"4 $5 GL *"	"45 GL *"	"No more than 12 trains per hour* Where Goods Line exists"
+""	"$ Please see section 5.3 Junction Margins and Station Planning Rules for exceptions at LancasterPlease refer to Line of Route SC001 (Scotland Timetable Planning Rules) for Gretna Jn to Cove L.C."			

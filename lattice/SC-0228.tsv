@@ -1,0 +1,15 @@
+"LH/HST,22x& 80X"	"Refers to non-freight locomotive hauled trains, High Speed Trains (two Class 43 locomotives withcoaching stock) and Classes 220/221/222 & 80X"
+MU	"Refers to all forms of multiple unit, whether diesel or electric as well as to light locomotives.  #However, Scotrail EMU traction includes 5% allowance for Engineering purposes and thereforethe “E” allowances shown do not apply to these services."
+FRT	Refers to locomotive hauled freight trains
+SC001 GRETNA JUNCTION TO GLASGOW CENTRAL (VIA BEATTOCK)					
+Timing Section	Type	"LHHST22X80X"	MU#	FRT	Remarks
+""					
+Down – Weekdays					
+"Approaching Carstairs SouthJunction"	E	2	2	2	
+"Approaching Rutherglen EastJunction"	E	1	1	1	
+"Between Lanark Junction and BridgeStreet Junction"	P	1	1		"For express passenger trains that originatesouth of Carstairs/Edinburgh"
+"# See note regarding EMUs at the beginning of Section 5.5"					
+Up – Weekdays					
+"Approaching Carstairs NorthJunction"	E	1	1	1	Only for trains routed to Gretna Junction
+Approaching Signal MC862	E	2	2	2	
+"# See note regarding EMUs at the beginning of Section 5.5"					

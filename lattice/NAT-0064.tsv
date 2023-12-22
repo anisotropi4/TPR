@@ -1,0 +1,40 @@
+Type	Days	TID	Start Time	Origin	Destination
+RHTT	SO	3J04	01:55	Reservoir Sidings	Amersham
+RHTT	Su	3J04	20:07	Reservoir Sidings	Aylesbury (SDGS 1-7)
+RHTT	FSX	3J04	20:12	Reservoir Sidings	Aylesbury (SDGS 1-7)
+RHTT	Su	3J04	08:15	Reservoir Sidings	Reservoir Sidings
+RHTT	SO	3J04	09:50	London Marylebone	Reservoir Sidings
+RHTT	SO	3J04	09:32	London Marylebone	Aylesbury (SDGS 1-7)
+RHTT	SX	3J04	09:47	Aylesbury (SDGS 1-7)	Reservoir Sidings
+RHTT	SO	3J04	11:42	Aylesbury (SDGS 1-7)	Reservoir Sidings
+RHTT	SO	3J05	04:10	Amersham	London Marylebone
+RHTT	SO	3S02	09:10	"Kings Norton OT PlantDept"	"Kings Norton OT PlantDept"
+RHTT	SU	3S02	09:40	"Kings Norton OT PlantDept"	"Kings Norton OT PlantDept"
+RHTT	SX	3S02	"08:4908:00"	"Kings Norton OT PlantDept"	"Kings Norton OT PlantDept"
+RHTT	SX	3S03	04:19	"Kings Norton OT PlantDept"	"Kings Norton OT PlantDept"
+RHTT	SO	3S03	04:25	"Kings Norton OT PlantDept"	"Kings Norton OT PlantDept"
+RHTT	SX	3S06	04:20	Wigan L.I.P	Wigan L.I.P
+RHTT	SO	3S06	04:20	Wigan L.I.P	Wigan L.I.P
+RHTT	Su	3S06	09:10	Wigan L.I.P	Wigan L.I.P
+RHTT	Su	3S06	09:10	Wigan L.I.P	Chester
+RHTT	SX	3S07	03:25	Wigan L.I.P	Wigan L.I.P
+RHTT	SO	3S07	02:39	Wigan L.I.P	Wigan L.I.P
+RHTT	SU	3S07	10:35	Wigan L.I.P	Wigan L.I.P
+RHTT	SU	3S07	20:05	Southport	Wigan L.I.P
+RHTT	SU	3S07	10:35	Wigan L.I.P	Southport
+RHTT	FO	3S08	23:25	Wigan L.I.P	Wigan L.I.P
+RHTT	FSX	3S08	21:09	Wigan L.I.P	Wigan L.I.P
+RHTT	SX	3S08	04:33	Wigan L.I.P	Wigan L.I.P
+RHTT	SU	3S08	11:12	Wigan L.I.P	Wigan L.I.P
+RHTT	SO	3S09	"05:0104:28"	"Edge Hill DownWappingWigan LIP"	Chester
+RHTT	MSX	3S09	"05:0104:28"	"Edge Hill DownWappingWigan LIP"	Chester
+RHTT	MSX	3S09	10:43	Chester	Wigan L.I.P
+RHTT	SO	3S09	10:43	Chester	Wigan L.I.P
+RHTT	FO	3S09	17:29	Wigan L.I.P	Edge Hill Gullet Sdgs
+RHTT	TThO	3S09	17:29	Wigan L.I.P	Edge Hill Gullet Sdgs
+RHTT	MWO	3S09	17:29	Wigan L.I.P	Edge Hill Gullet Sdgs
+RHTT	SU	3S09	13:27	Wigan L.I.P	Wigan L.I.P
+RHTT	SO	3S20	08:30	Wigan L.I.P	"Crewe C.S. (L&NWRSITE)"
+RHTT	SO	3S21	10:30	Wigan L.I.P	"Crewe C.S. (L&NWRSITE)"
+RHTT	SO SU	3S22	12:40	"Crewe C.S. (L&NWRSITE)"	Wigan L.I.P
+RHTT	SU	3S50	16:36	Wigan L.I.P	Crewe

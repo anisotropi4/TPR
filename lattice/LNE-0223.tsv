@@ -1,0 +1,37 @@
+Great Coates	
+""	
+Dwell Time	
+"Cleethorpes – Barton on Humberservices"	1⁄2
+Healing	
+""	
+Dwell Time	
+"Cleethorpes – Barton on Humberservices"	1⁄2
+Stallingborough	
+""	
+Dwell Time	
+"Cleethorpes – Barton on Humberservices"	1⁄2
+Habrough		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive from Ulceby	Depart to Ulceby	At same time
+Arrive/pass from Brocklesby	Depart to Ulceby	At same time
+Depart to Ulceby	Arrive/pass from Brocklesby	4
+Brocklesby		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Cleethorpes	Pass from Ulceby	3
+Pass from Ulceby	Pass to Cleethorpes	4
+Pass from Ulceby to DGL	Pass from Cleethorpes	4
+Pass from Cleethorpes	Pass from Ulceby to Goods Line	3
+Wrawby Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Train to Up Slow Line from Scunthorpe/Brigg/Lincoln.  Approaching Wrawby Jn."	Approach Control	2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Newark/Retford	Pass to Doncaster/Retford	3
+Pass to Doncaster/Retford	Pass from Newark/Retford	4

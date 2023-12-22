@@ -1,0 +1,37 @@
+Castleford		
+""		
+Reversal	3	
+Minimum Turnround	6 from Leeds	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Castleford to Altofts Junction	Arrive Castleford from Pontefract Monkhill	51⁄2
+Depart  platform 1 to Pontefract Monkhill	Arrive from Altofts  Jn	21⁄2
+Pass Up Main	Arrive from Pontefract Monkhill	3
+Depart platform 1 to Pontefract Monkhill	Pass Up Main,	4
+Arrive Down platform from Pontefract Monkhill	Pass Up Main	4
+Depart to Altofts Junction	Arrive from Signal CD5209	11⁄2
+Pass Castleford to Altofts Junction	Arrive from Pontefract Monkhill	5
+"Pass/Depart Platform 2 to WheldonRoad/Milford Jn"	Arrive from Milford	61⁄2
+""		
+"Planning Restriction:Trains routed via Platform 2 to Wheldon Road/Milford must have 1⁄2 op stop for signalling purposes."		
+heldon Arrival/Departure Line			
+""			
+unction Margins			
+irst Movement	Second Movement		argin
+rrive Wheldon Road Siding	Arrive/Pass Castleford Platform 1		1⁄2
+epart/Pass Castleford to Milford	Depart Wheldon Road Siding		
+epart Weldon Road	Pass/Depart Castleford Platform 1		
+Milford Junction
+Please Refer to 804
+Sherburn Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Non-stop crossing from LSL at Church Fenton	Acceleration	1
+"Stopping train from LSL at Church FentonAfter Church Fenton"	Acceleration	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Milford Junction	Pass from Gascoigne Wood	"Same time as southbound service passes MilfordJunction"
+"Pass from GascoigneWood"	Pass to Milford Junction,	"Same time as southbound service passes ChurchFenton or 1 minute behind southbound servicedeparting Sherburn in Elmet"

@@ -1,0 +1,11 @@
+Classification	Description
+1	"Express passenger train; orNominated postal or parcels train; orBreakdown or overhead line equipment train going to clear the line or returning fromthere (1Z99); orTraction unit going to assist a failed train (1Z99)Snow plough going to clear the line (1Z99)"
+2	"Ordinary passenger train; orBreakdown or overhead line equipment train not going to clear the line (2Z99)Officers’ special train (2Z01)"
+3	"Freight train which can run at more than 75 mph; orA parcels train; orEmpty coaching stock train if specially authorised"
+4	Freight train which can run up to 75 mph
+5	Empty coaching stock train
+6	Freight train which can run up to 60 mph
+7	Freight train which can run up to 45 mph
+8	Freight train which can run at, or is timed to run at, 35 mph or less
+9	"Anglo-Scottish Avanti West Coast train services via the West MidlandsAnglo-Scottish Transpennine Express train services to/from Liverpool viaHuddersfield and York"
+0	Light locomotive or locomotives

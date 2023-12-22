@@ -1,0 +1,14 @@
+"Reportingnumber"	Description
+""	
+""	"Holyhead to Cardiff Central/MaestegShrewsbury to Cardiff Central"
+"1Wxx[1W01-1W09]"	"Paddington to Moreton/Worcester/Malvern via CharlburyPaddington to Hereford via CharlburyCardiff Central to HolyheadMilford Haven/Carmarthen/Swansea/Cardiff Central to Shrewsbury/Crewe/Manchester"
+1Yxx	"Heathrow Airport to PaddingtonOxford to Marylebone"
+1Zxx	"Special traffic additional trainsMust NOT be used for WTT services"
+""	
+Class 2	
+"2Axx[Odd numbered][Even numbered]"	"Windsor to SloughFrome to WestburyPenzance/Plymouth/Paignton to Newton AbbotPenzance/St Erth to St IvesSt Ives to St Erth/PenzanceBarry Island/Bridgend/Cardiff Central to Aberdare"
+"2Bxx[Odd numbered][Even numbered]"	"Exeter to BarnstapleCheltenham/Gloucester to SwindonMarlow to MaidenheadMaidenhead to MarlowCardiff Queen Street to Cardiff Bay"
+2Cxx	"Waterloo to ReadingReading to WaterlooBristol to Westbury/FromeCardiff to BristolBristol to Taunton/Exeter/Plymouth/PenzanceExeter/Plymouth to Liskeard/Par/Truro/PenzanceCardiff Central/Penarth/Radyr to Coryton"
+"2Dxx[Odd numbered][Even numbered][Even numbered][Odd numbered][Even numbered]"	"Bristol TM to Bristol PWReading to DidcotShrewsbury to ChesterLlandudno to Llandudno JunctionLlandudno Junction to LlandudnoLlandudno to Blaenau FfestiniogBlaenau Ffestiniog to LlandudnoPenarth to Bargoed"
+2Exx	"Heathrow Terminals 2 & 3 to Heathrow Terminal 5Didcot/Oxford to Moreton/Evesham/Worcester/MalvernMalvern/Worcester/Evesham/Moreton to Oxford/DidcotMalvern/Worcester to EveshamBristol to Gloucester/Worcester/MalvernPenzance/Plymouth/Paignton to Exeter St DavidsBarnstaple/Okehampton to Exeter St DavidsExmouth to Exeter St DavidsAxminster to Exeter St DavidsMerthyr Tydfil to BridgendFishguard Harbour/Pembroke Dock to Carmarthen/SwanseaSwansea/Carmarthen to Pembroke Dock/Fishguard Harbour"
+2Fxx	Heathrow Terminal 5 to Heathrow Terminals 2 & 3

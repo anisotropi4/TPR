@@ -1,0 +1,33 @@
+Name	Frequency	Start Date	Weeks Run In	Route	TID	Day	Dep	From	To	Arr.	Model Train	TOC
+Name	Frequency	Start Date	Weeks Run In	Route	TID	Day	Dep	From	To	Arr.	Model Train	TOC
+"PLP115A"	8 - weekly	03/01/2024	"40, 48, 04, 12, 20 &28 & 36"	"SlatfordDepot -Craiglockhart Jn -Slateford Jn- Carstairs -Crewe"	1Q26LS	WO	06.38	SLATEFORD DEPOT	"CREWE C.S.(L&NWR SITE)"	11.31	HST7-125	RG
+PLP114	8 - weekly	02/01/2024	"40, 48, 04, 12, 20 &28 & 36"	"Derby RTC -Colwich -WCML -Glasgow -Edinburgh -Aberdeen -SlatfordDepot"	1Q26RR	TO	06.13	"DERBYR.T.C.(NETWORKRAIL)"	EDINBURGH	13.16	HST7-125	RG
+PLP154	8 - weekly	30/01/2024	"44, 52, 08, 16, 24 &32"	"Derby RTC -Colwich -WCML -Glasgow -Edinburgh -Aberdeen -SlatfordDepot"	1Q26RT	TO	06.13	"DERBYR.T.C.(NETWORKRAIL)"	EDINBURGH	13.16	HSMT	RG
+"PLP114&PLP154"	4 - weekly	02/01/2024	"40, 44, 48, 52, 04,08, 12, 16, 20, 24,28, 32 & 36"	"Derby RTC -Colwich -WCML -Glasgow -Edinburgh -Aberdeen -SlatfordDepot"	1Q26RS	TO	13.45	EDINBURGH	"SLATEFORDDEPOT"	23.44	HSMT	RG
+"PLP155B"	8 - weekly	31/01/2024	"44, 52, 08, 16, 24 &32"	"CreweLNWR -Euston Aand X -Rugby -Crewe -Derby RTC"	1Q27GB	WO	11.57	"CREWE C.S. (L&NWRSITE)"	"DERBYR.T.C.(NETWORKRAIL)"	19.20	HSMT	RG
+Name
+Name
+Frequency
+Frequency
+Start Date
+Start Date
+Weeks Run In
+Weeks Run In
+Route
+Route
+TID
+TID
+Day
+Day
+Dep
+Dep
+From
+From
+To
+To
+Arr.
+Arr.
+Model Train
+Model Train
+TOC
+TOC

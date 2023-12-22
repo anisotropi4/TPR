@@ -1,0 +1,38 @@
+""	GW600 WOOTTON BASSETT JUNCTION TO PILNING			
+""				
+""	Wootton Bassett Junction			
+""				
+""	Adjustment to Sectional Running Times (show approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""				
+""				
+""	"Crossing into Wootton Bassett Up GoodsLoop from the up main"	"Slow turnout speed intothe loop (20mph)"	"All traffic (ExceptClass 66)"	+{2}
+""	Hullavington Up and Down Goods Loops			
+""				
+""	Adjustment to Sectional Running Times (show approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	Crossing into the goods loops	"Slow turnout into loops(20mph)"	"All traffic (ExceptClass 66)"	+{2}
+""	Chipping Sodbury Up and Down Goods Loops			
+""				
+""	Adjustment to Sectional Running Times (show approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	Crossing into the goods loops	"Slow crossing move intoloops (20 mph)"	"All traffic (ExceptClass 66)"	+{2}
+""	Westerleigh Junction			
+""				
+""	Adjustment to Sectional Running Time (to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	From Bristol Parkway platform 1 or platform 2	"Slow turn out at BristolParkway"	HST/22x/80x/387	+{1⁄2}
+""	"From Bristol Parkway platform 4 or UpPassenger Loop Start to Pass"	"Slow turn out at BristolParkway"	HST/22X/80x/387	+{1⁄2}
+""	From Bristol Parkway to Yate	"Slow speed atWesterleigh Junction"	HST/22X80x	+{1⁄2}
+""				
+""	Planning Note			
+""	150, 158 and HSTGW4 SRTs are based on running to/from Yate therefore no adjustment is required.			
+""				
+""	Junction Margins (Westbound trains)			
+""	First Movement	Second Movement	Margin	Notes
+""	"A train from Swindon passesWesterleigh Junction on thedown Badminton towardsBristol Parkway"	"A train from Yate directionpasses Westerleigh jn tothe Down Badmintontowards Bristol Parkway."	21⁄2	
+""	Bristol Parkway				
+""					
+""	Adjustment to Sectional Running Time (to be shown approaching this location)				
+""	Movement	Reason		Timing Load	Value
+""	"From Yate to Bristol Parkway Pass to Passand Pass to Stop"	"Slow speed atWesterleigh Junction"		"22x/80xHST"	"+{1}+{1⁄2}"

@@ -1,0 +1,28 @@
+""	SO130 LONDON CHARING CROSS TO DOVER PRIORY (VIA TONBRIDGE)					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	School Junction				"For BPlan/ITPS purposes, timing pointshown as Parks Bridge Junction"	
+""	Parks Bridge Junction	"DKF LWDKS"	"UKFUKS"		To/from Ladywell Junction - SO130E	
+""	Courthill Loop South Junction				"For BPlan/ITPS purposes, timing pointshown as Parks Bridge Junction.To/from Courthill Loop North Junction -SO130F"	
+""	Hither Green	FL  SL	FL  SL		"Platform detail must be shown.To/from Lee Loop Junction - SO310"	
+""	Hither Green Signal TL1299		FL SL		"Shunt signal available for ECS movementsUse TIPLOC HTHR299"	
+""	Hither Green Down Goods Arrival	-	SL	F S	"Via TL301 signalUse TIPLOC HTHRDGAAccess controlled by FOC shunter"	
+""	Hither Green Down Reception	-	-	F S	"Use TIPLOC HTHRGRSUsed from Bramdean Sidings (41-45)"	
+""	Hither Green Up Goods Departure	-	-	F S	"Via TL300 signalUse TIPLOC HTHRUGDAccess controlled by FOC shunter"	
+""	Hither Green Loco Sidings	SL	-	F S	Access controlled by FOC shunter	
+""	Lee Spur Junction	"- CWMSL"	-		"Timing Point for trains to/from Lee LoopJunctionTo/from Lee Loop Junction - SO310A"	
+""	Lee Spur Junction Signal TL1302	-	-		Use TIPLOC HTHR302	
+""	Hither Green Shunt Signal TL1311		FL		Use TIPLOC HTHR311	
+""	Grove Park Up Sidings	-	-		"Timing Point for trains to and from UpSidingsControlled by a depot signaller"	
+""	"Grove Park Down Sidings(Bramdean)"	CWM -	-		"Timing Point for trains to and from DownSidingsControlled by a depot signaller"	
+""	"Lee Spur Junction Shunt SignalTL1314"		SL -		Use TIPLOC GRVP314	
+""	Grove Park Shunt Signal TL1315	FL SL	FL SL		Use TIPLOC GRVP315	
+""	Grove Park Shunt Signal TL1319		SL		Use TIPLOC GRVP319	
+""	Grove Park Washer Road	FL  SL	FL  SL		Use TIPLOC GRVPKWR	
+""	Grove Park Shunt Signal TL1330	FL SL	FL SL		Use TIPLOC GRVP330	
+""	Grove Park Shed	FL  SL	FL  SL	S	"Via Signal TL1324Use TIPLOC GRVPSHD"	
+""	Grove Park C.S.D	-	CWM -	S	"Via Signal TL1326Use TIPLOC GRVPCSD"	
+""	Grove Park	FL  SL	FL  SL		"To/from Bromley North - SO350Platform detail must be shown."	
+""	Elmstead Woods	FL  SL	FL  SL	S		
+""	Chislehurst	"FL  SLCL RVL"	FL  SL		"Line Codes CL and RVL are to/from StMary CrayPlatform detail must be shown"	
+""	Chislehurst Junction				To/from St Mary Cray Junction - SO130G	

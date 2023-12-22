@@ -1,0 +1,51 @@
+Whifflet / Whifflet South Junction				
+""				
+Adjustments to Sectional Running Times				
+Movement Down	Reason	Value		
+Down train to Whifflet Basin	Approach Control	1		
+Down train to Langloan Junction	Approach Control	"1 except EMU1⁄2 EMU"		
+""				
+Junction Margins				
+First Movement	Second Movement	Margin		
+Pass to Down Sunnyside			Depart Coatbridge Central	1⁄2
+""				
+Up pass/depart	Depart South Junction to Down Sunnyside			1
+""				
+Up pass/depart	Pass to Down Sunnyside	2		
+Pass/arrive from Langloan Junction	Down arrive/pass going to Coatbridge Central	2		
+Down arrive Down Goods	Up depart Up Goods	1		
+Up arrive Up Goods	Down depart Down Goods	1		
+Up arrive/pass	Depart Up/Down Goods to Down Line	1		
+Down train arrive Up or Down Goods	Up train pass from Sunnyside	5		
+Up train arrive Up or Down Goods	Down train pass to Sunnyside	2		
+""				
+Minimum Turnround	3 Whifflet South Junction			
+""	3 Whifflet Loop (Down Goods or Up Goods)			
+""				
+"RestrictionsPathing time should not be used between Whifflet – Whifflet South JunctionThere is no signal on Down line between Whifflet Station and Whifflet North JunctionDown trains towards Coatbridge cannot arrive in platform while train is passing Up from Langloan JunctionUp trains in excess of 90 SLUs must not have pathing time between Coatbridge Central and Whifflet due to foulingthe junction in rear."				
+athing time should not be used between Whifflet – Whifflet South Junction				
+here is no signal on Down line between Whifflet Station and Whifflet North Junction				
+own trains towards Coatbridge cannot arrive in platform while train is passing Up from Langloan Junction				
+p trains in excess of 90 SLUs must not have pathing time between Coatbridge Central and Whifflet due to fouling				
+he junction in rear.				
+Coatbridge Central		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Up trains from Up fast towards LangloanJunction approaching Coatbridge Central(not stopping Coatbridge)"	Approach control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+Pass/arrive Down	Pass from Up fast to Langloan Junction	2
+Pass/arrive Down	Pass from Up Slow to Langloan Junction	4
+Depart/pass to Langloan Junction	Arrive/pass from Langloan Junction	5
+Depart/pass to Langloan Junction	Down depart Whifflet	1⁄2
+Depart/pass to Langloan Junction	"Down pass from Mossend (not stoppingWhifflet)"	4
+Up pass from Freightliner Terminal / DGL	Down arrive	2
+Up pass from Freightliner Terminal / DGL	Down pass	3
+"Down arrive Freightliner Terminal / Headshunt /DGL"	Down arrive/pass	1
+Pass from Up Slow towards Langloan Junction	Up arrive/pass Coatbridge Central	4
+Up depart Coatbridge Central	Up pass from Up Slow	4
+Down depart Coatbridge Central	Pass to Langloan Junction	5
+""		
+"RestrictionDue to signaling constraints an Up train cannot stand in Platform 2 at Coatbridge Central if it is being passed by a"		

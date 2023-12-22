@@ -1,0 +1,30 @@
+""	Bootle Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Up train pass/depart Bootle Oriel Road	"Down train ex Bootle Branch pass/departBootle Jn"	4
+""	"Down train ex Bootle Branch pass/departBootle Jn"	Up train pass/depart Bootle Oriel Road	21⁄2
+""	Bootle New Strand	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform 2 and departure platform 1 for services from/to LiverpoolCentral only"	8
+""	Seaforth & Litherland	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform 1 and departure platform 2 for services from/to Southportonly"	8
+""	Hall Road	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform 1 and departure platform 2 for services from/to Southportonly"	7
+""	Formby	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform 2 and departure platform 1 for services from/to LiverpoolCentral only"	7
+""	Freshfield	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform 2 and departure platform 1 via 2093 points (north ofFormby) for services from/to Southport only"	8
+""	Ainsdale	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform 2 and departure platform 1 for services from/to LiverpoolCentral only"	9

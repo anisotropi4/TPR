@@ -1,0 +1,38 @@
+SC061 SHIELDS JUNCTION TO PAISLEY CANAL				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Shields Junction	"DCKUCK"	–		"To/from Terminus Junction – SC029To/from High St Junction – SC131To/from Bridge Street Junction – SC059"
+Shields Jn No1 Line	–	–	S	
+Shields TMDE	–	–	S	
+Dumbreck	"DCKUCK"	UCK	S	
+Corkerhill Depot Junction	–	UCK	X	Trains to/from Paisley Canal only
+Corkerhill CSMD	–	"DCKUCK"	S	
+Corkerhill	–	–	S	
+Mosspark	–	–	S	
+Crookston Loop	–	–	S	
+Crookston	–	–	S	
+Hawkhead	–	–	S	
+Paisley Canal		–		
+SC063 CARDONALD JUNCTION TO DEANSIDE (GOODS LINE)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Cardonald Junction	DA	UA UG	X	
+Cardonald North Junction	–	–	F	
+Deanside Loop	–	–	F	
+Deanside C.P.A.	–	–	F	To/from  Shields Junction – SC059
+SC065 PAISLEY GILMOUR STREET TO GOUROCK				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Paisley Gilmour Street	–	"DA UADG UG"		To/from Shields Junction – See SC059
+Paisley St James	–	–	S	
+Bishopton	–	–	P	
+Langbank	–	–	S	
+Woodhall	–	–	S	
+Port Glasgow	–	–	P	
+Wemyss Bay Junction	–	–		To/from Wemyss Bay – See SC067
+Bogston	–	–	S	
+Cartsdyke	–	–	S	
+Greenock Central	–	–		
+Greenock West	–	–		
+Fort Matilda	–	–	S	
+Gourock		–		Platform detail must be shown

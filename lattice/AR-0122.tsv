@@ -1,0 +1,37 @@
+Ely	
+""	
+""	
+Splitting and Coupling of trains permitted	In all platforms
+Ely Papworth Sidings		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Allowance
+"Trains propelling into Ely Papworth Sidingsfrom Ely North Junction"	Reduced speed of propelling movement	{3}
+""		
+Ely North Junction		
+""		
+Adjustments to Sectional Running Times		
+"Trains travelling towards King’s Lynn,Middleton Towers or Norwich via Ely WestCurve"	"To allow for slow speed crossover off curveapproaching Ely North Junction, adjustmenttime to be shown approaching the next timingpoint on EA1162 or EA1580 as appropriate"	{2}
+""		
+Junction Margins		
+Movement	Second movement	Margin
+All fouling moves		3
+Exceptions to the above		
+Pass Ely North Junction	"Depart Ely West Curve onto DownNorwich/King’s Lynn"	2
+Pass Ely North Junction	"Pass Ely West Curve onto DownNorwich/King’s Lynn"	4
+Conflicting Passenger Pass	Depart/Pass to Ely Papworth Sidings	1
+Conflicting Freight Pass	Depart/Pass to Ely Papworth Sidings	2
+EA1162 ELY NORTH JUNCTION TO KING’S LYNN		
+""		
+Littleport Signal L24		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/arrive Littleport from King’s Lynn	Depart towards King’s Lynn	Simultaneous
+Littleport		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/arrive from King’s Lynn	"Depart towards King’s Lynn (Not stopping atLittleport Signal L22)"	1
+Pass/arrive from King’s Lynn	"Pass towards King’s Lynn (Not stopping atLittleport Signal L22)"	2
+Arrive / pass Downham Market from Littleport	"Depart / pass Littleport towards DownhamMarket"	Same time (0)

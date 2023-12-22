@@ -1,0 +1,37 @@
+East Boldon Up Loop		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive	"Up Metro depart/up passenger pass BrockleyWhins/Up freight from Pelaw pass Boldon WestJunction"	1⁄2
+Arrive	"Up freight from Tyne pass Boldon EastJunction"	Same time*
+Up Metro depart East Boldon	Depart	21⁄2
+"Up passenger pass Brockley Whins (notstopping Boldon or Seaburn)"	Depart	4
+"Up freight from Pelaw pass Boldon WestJunction/from Tyne pass Boldon East Junctiongoing to Sunderland"	Depart	10
+Depart	Reoccupy Loop	51⁄2
+Note: *No Allowances to be applied between Boldon North Junction and Boldon East Junction		
+Boldon East Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/depart to Boldon North	Up Metro depart Brockley Whins	21⁄2
+Pass/depart to Boldon North	Up passenger/light loco pass Brockley Whins	31⁄2
+Pass/depart to Boldon North	"Up freight pass Boldon West Junction toSunderland"	31⁄2
+Pass/depart to Boldon North	Down Metro arrive Brockley Whins	4
+Pass/depart to Boldon North	Down passenger pass Brockley Whins	31⁄2
+Pass/depart to Boldon North	"Down freight from Sunderland pass BoldonWest Junction"	6
+Up Metro depart Brockley Whins	Pass to Boldon North	21⁄2
+Up passenger/light loco pass Brockley Whins	Pass to Boldon North	2
+"Up freight pass Boldon West Junction toSunderland"	Pass to Boldon North	31⁄2
+Up Metro depart Brockley Whins	Depart to Boldon North	2
+Up passenger/light loco pass Brockley Whins	Depart to Boldon North	11⁄2
+"Up freight pass Boldon West Junction toSunderland"	Depart to Boldon North	3
+"Freight from Tyne passes Boldon West towardsPelaw (see Restrictions)"	Pass to Boldon North	3
+"Freight from Tyne passes Boldon West towardsPelaw (see Restrictions)"	Depart to Boldon North	21⁄2
+Up freight pass from Tyne Dock	"Up Metro arrive Brockley Whins (seeRestrictions)"	6
+Up freight pass from Tyne Dock	"Up passenger pass Brockley Whins (seeRestrictions)"	51⁄2
+Up freight pass from Tyne Dock	"Up freight pass Boldon West going toSunderland (see Restrictions)"	6
+Pass from Boldon North	Pass to Boldon North	3
+Pass from Boldon North	Depart to Boldon North	2
+Up Metro depart Brockley Whins	Depart/pass Boldon North towards Boldon East	3
+Up passenger/light loco pass Brockley Whins	Depart/pass Boldon North towards Boldon East	2
+"Up freight pass Boldon West Junction toSunderland"	Depart/pass Boldon North towards Boldon East	41⁄2

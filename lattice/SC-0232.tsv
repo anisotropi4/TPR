@@ -1,0 +1,31 @@
+SC093 MOTHERWELL TO GREENHILL LOWER JUNCTION					
+Timing Section	Type	"LHHST22X"	MU#	FRT	Remarks
+""					
+Down – Weekdays					
+"Approaching Mossend NorthJunction (from Mossend South orEast)"	E			1	
+Approaching Cumbernauld	E		1		Terminating trains only
+"Approaching Greenhill LowerJunction"	E	2	2	2	
+Up – Weekdays					
+Approaching Mossend North Exit	E			2	"Trains terminating or calling at MossendYards only"
+"Approaching Mossend NorthJunction"	E			2	"Does not apply for trains coming fromMossend Yards, Euroterminal orCoatbridge Freightliner Terminal"
+Approaching Motherwell	E		2		"SR Cumbernauld to Motherwell servicesonly."
+"# See note regarding EMUs at the beginning of Section 5.5"					
+SC099 WHIFFLET NORTH JUNCTION TO RUTHERGLEN EAST JUNCTION					
+Timing Section	Type	"LHHST22X"	MU	FRT	Remarks
+""					
+Down – Weekdays					
+"Approaching Rutherglen EastJunction"	E			3	
+""					
+Up – Weekdays					
+Approaching Coatbridge Central	E			3	
+Langloan – Whifflet	E		2		Terminating trains at Whifflet only
+"# See note regarding EMUs at the beginning of Section 5.5"					
+SC103 GARNQUEEN NORTH JUNCTION TO COWLAIRS WEST JUNCTION					
+Timing Section	Type	"LHHST22X"	MU	FRT	Remarks
+""					
+Down – Weekdays					
+"Approaching Cowlairs WestJunction"	E			3	
+"Springburn – Cowlairs SouthJunction"	E		1		
+Up – Weekdays					
+Approaching Gartcosh Junction	E			3	"Trains routed via Gartsherrie SouthJunction only"
+"# See note regarding EMUs at the beginning of Section 5.5"					

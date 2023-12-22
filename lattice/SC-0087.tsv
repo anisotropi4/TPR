@@ -1,0 +1,40 @@
+Law Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains timed as 385 that have come fromLanark which do not call at Carluke"	Slow speed over Lanark Junction	1⁄2
+Trains departing from Law Junction Down Loop	Acceleration	"2Approachingnext timingpoint"
+""		
+Movement Up	Reason	Value
+"Pass from Wishaw timed at over 75mph, notstopping at Carluke"	Acceleration	"1Approachingnext timingpoint"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train to Wishaw lines	Up train from Motherwell	31⁄2
+Up train pass from Motherwell	Up train pass from Wishaw	2
+Up Freight arrives UPL	Up non-stop passes on Up Main	51⁄2
+Up Freight arrives UPL	Up Class 2 passes from Wishaw/Shieldmuir	6
+Up train passes on Up Main	Up train arrives UPL	4
+Down Passenger pass to Motherwell	Depart Down Loop to Motherwell	3
+Down Goods pass to Motherwell	Depart Down Loop to Motherwell	4
+Down pass to Motherwell	Depart Down Loop to Wishaw	1
+Down pass to Wishaw	Depart Down Loop to Motherwell	1
+Down pass to Wishaw	Depart Down Loop to Wishaw	4*
+Arrive Down Passenger Loop	Pass Down	4
+Depart Down pass Loop to Wishaw	Up pass from Motherwell	41⁄2
+Up pass from Motherwell	Depart Down pass Loop to Wishaw	1
+Up pass from Motherwell	Depart Up Passenger Loop	2
+*Can be reduced to 3 minutes if (1) pathing inserted between Law Junction and Wishaw		
+""		
+Planning Note		
+"Trains booked a pathing stop on the Down Main must have a minimum dwell time of 1 minute to allow for theoverlap to timeout and route reset"		
+Shieldmuir RMT		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass Shieldmuir	Depart M477 to RMT	1
+Depart M477 to RMT	Down pass Shieldmuir	4
+Depart M477 to RMT	Up pass Shieldmuir	4
+Up Depart RMT	Down pass Shieldmuir	4
+""		
+"RestrictionsIf terminal is occupied, second train must:a. If arriving direct from the North end, include a 1⁄2minute OP stop at Shieldmuir Station; orb. If arriving from the North requiring reversal into the RMT, run up from Shieldmuir Station to Signal M477 on theUp Main and reverse into the RMT, requiring 5 minutes for RM stop."		

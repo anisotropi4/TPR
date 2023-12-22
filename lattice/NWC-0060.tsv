@@ -1,0 +1,40 @@
+""	MD435 SMALL HEATH SOUTH JN TO STOURBRIDGE NORTH JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Small Heath South Jn	SH UDG	SL FL –		
+""	Up and Down Small Heath Goods				To/from Caledonia Yard
+""	Small Heath	–	– SH	S	
+""	Small Heath North Jn	–			"Timing point for Down trains on Up andDown Small Heath Goods"
+""	Caledonia Yard	–	UDG	F S	Track codes must be shown
+""	Small Heath Aggregate Siding	–		F	Accessed via Caledonia Yard
+""	Bordesley Aggregate Siding		–	F	Accessed via Caledonia Yard
+""	Bordesley	–	– SH	S	
+""	"Birmingham Moor Street signalWM190"		-	S	Shunting moves only
+""	Birmingham Moor Street Siding 1		–	S	TIPLOC BHAMMSS
+""	Birmingham Moor Street Siding 2		–	S	TIPLOC BHAMMS2
+""	Birmingham Moor Street	–	"–  SHUDG"		Platform detail must be shown
+""	Birmingham Snow Hill	–	–		Platform detail must be shown
+""	Snow Hill Turnback Sidings	–		S	Access only via Platform 1
+""	SY459 Signal	–		S	"Reversal point for platform 2 to platform 1shunt"
+""	Jewellery Quarter	–	–		
+""	Handsworth Coopers Metals	–	–	F	
+""	"Queens Head Sidings Arrival &Departure"	–	–	F	TIPLOC HNDSCS
+""	Queens Head Signal SJ606		–	S	"For propelling moves to Queens HeadSidings Arrival & DepartureTIPLOC BHAMQHS"
+""	Queens Head Sidings	–	–	F	
+""	The Hawthorns	–	–	S	
+""	"Smethwick Galton Bridge HighLevel"	–	–		Platform detail must be shown
+""	Smethwick Jn	–	–		To/from Galton Jn – MD301
+""	Rood End Up Goods Loop		–	F	
+""	Langley Green	–	–	S	
+""	Down Rowley Regis Goods Loop	–		S	
+""	Up Rowley Regis Goods Loop		–	S	TIPLOC ROWLUR
+""	Rowley Regis	–	–		
+""	Old Hill	–	–	S	
+""	Cradley Heath	–	–	S	
+""	Lye	–	–	S	
+""	Stourbridge North Jn				"To/from Stourbridge Junction – MD430To/from Kingswinford Jn – MD450"
+""	MD440 GALTON JN TO SMETHWICK JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Galton Jn	–	–		"To/from Soho South Jn – MD301To/from Dudley Port – MD301"
+""	Smethwick Jn	–	–		"To/from Rowley Regis – MD435To/from Smethwick Galton Bridge HighLevel – MD435"

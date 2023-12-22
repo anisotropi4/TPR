@@ -1,0 +1,26 @@
+LN768 MANSFIELD WOODHOUSE TO SHIREOAKS EAST JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Mansfield Woodhouse toShirebrook Jn"	AB+2	AB+2	
+"Shirebrook Jn to Shireoaks EastJn"	AB+2	AB+2	
+LN784 HIGH MARNHAM TO SHIREBROOK EAST JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	AB+2	AB+2	
+Exceptions:			
+"High Marnham to BoughtonJunction"	AB+2*	*Single Line, OTS	
+LN786 BEVERCOTES COLLIERY BRANCH			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Bevercotes Colliery to BoughtonJunction"	AB+2*	*Single Line - Out of use	
+LN804 TAPTON JUNCTION TO GASCOIGNE WOOD JUNCTION VIA SHEFFIELD			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Tapton Junction toSheffield (exclusive)"	4	4	"See Section 5.3 - converging margin at DoreStation Jn for trains having stopped at Dore& Totley"
+"Sheffield (inclusive) toNunnery Main Line Junction"	3	3	"Down2 Consecutive departures from Sheffielddiverging at Nunnery Main Line JnUp21⁄2 when preceding/following train fromWoodburn Junction"
+"Nunnery Main Line Junction toWincobank Junction"	3	3	
+"Wincobank Junction toHolmes Junction"	3	3	"Up21⁄2 from Rotherham Central when followingnon–stop"
+Holmes Junction to Swinton	3	3	
+"Swinton toFerrybridge North Junction"	4	4	
+"Ferrybridge North Junction toMilford Junction"	"4 passenger6 freight"	"4 passenger6 freight"	
+"Milford Junction toGascoigne Wood"	AB+2*	AB+2*	*TCB plan as AB

@@ -1,0 +1,9 @@
+"Pass on DNK’holme fromMineral Quay"	P	P	P	3	3	3	3	81⁄2*	61⁄2*	61⁄2*		H	H	H	H
+"Pass on DNK’holme fromHenderson Quay"	P	P	P	3	3	3	3	61⁄2*	n/a	91⁄2*		H	H	H	H
+"Pass on DNK’holme fromWestern JettyDep. Line (fromSimon StorageWest)"	P	P	P	3	3	3	3	61⁄2*	91⁄2*	n/a		H	H	H	H
+"Pass on DNK’holme from HITNo.1 or No.2Arrival/Departure"	P	P	P	3	3	3	3	61⁄2*	61⁄2*	61⁄2*		n/a	H	H	H
+"Pass on DNK’holme from IBTCoal Pad 2"	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	H	H	H		H	n/a	H	H
+"Pass on DNK’holme from IBTCoal Pad 1"	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	H	H	H		H	H	n/a	H
+"Pass on DNK’holme from IBTOre Line"	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	H	H	H		H	H	H	n/a
+""	"Passon UpK’holme toIBTOreLine"	"Passon UpK’holme to IBTCoalPad 1"	"PassonUpK’holme toIBTCoalPad2"	"Pass onUpK’holmeto HITNo. 1 orNo.2Arrival/Departure"	"Pass onUpK’holmetoWesternJettyArrivalLine (forSimonStorageWest) †"	"Pass onUpK’holmetoHenderson Quay"	"Pass onUpK’holmeto MineralQuay"	"Passon DNK’holme fromMineralQuay"	"Passon DNK’holme fromHendersonQuay"	"Pass onDNK’holmefromWesternJettyDepartureLine (fromSimonStorageWest)"	"Pass onDNK’holmefrom HITNo.1 orNo.2Arrival/DepartureLine"	"Passon DNK’holme fromIBTCoalPad 2"	"Pass onDNKi’holmefrom IBTCoal Pad1"	"Pass on DNKi’holme fromIBT Ore Line"	
+"P = Parallel move; H = a following move on headway (6 minutes for LN740/742); —* = a following move in the same direction with differential value detailed; n/a = Move not applicable, one train working in terminal;†= With the exception of LD moves, all trains destined for Simon Storage West are required to perform a run round on the Western Jetty Arrivals line and propel into the terminal. This requires the use of the DownKillingholme Line."															

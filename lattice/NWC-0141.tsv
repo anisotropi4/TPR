@@ -1,0 +1,24 @@
+""	MD701 MARYLEBONE TO AYNHO JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Marylebone to Princes Risborough(inclusive)"	3	3*	"* Headway at West Ruislip is increased to 4 minuteswhen following a train that has stopped at WestRuislip"
+""	"Princes Risborough (exclusive) toBicester North (inclusive)"	4 $	4	"$ Headway is increased to 5 minutes if first trainstops at Haddenham & Thame Parkway"
+""	"Bicester North (exclusive) toAynho Jn (exclusive)"	5	5	
+""	MD710 NEASDEN SOUTH JN TO HARROW ON THE HILL			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Neasden South Jn to Harrow–on–the–Hill"	4	4	
+""	"Harrow–on–the–Hill to MantlesWood"	*	*	* LUL Controlled by Metropolitan Line
+""	MD712 AMERSHAM TO AYLESBURY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Mantles Wood to Aylesbury	9	9	
+""	MD715 NEASDEN SOUTH JN TO NEASDEN JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Neasden South Jn to Neasden Jn	AB+2	AB+2	
+""	MD720 PRINCES RISBOROUGH TO AYLESBURY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Princes Risborough to LittleKimble"	*	* Single line - Time as AB+2 for successive trains	
+""	Little Kimble to Aylesbury	*	* Single line - Time as AB+2 for successive trains	

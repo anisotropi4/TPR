@@ -1,0 +1,19 @@
+SO630 BRIGHTON TO LITTLEHAMPTON				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Angmering Ground Frame	-			"For ECS moves to shunt betweenplatformsTIPLOC: ANGMGF"
+Arundel Junction	-	-		"To/from Arundel - SO520To/from Ford Junction – SO520"
+Littlehampton Junction	-	-		To/from Ford Junction - SO520A
+Littlehampton		-		Platform detail must be shown
+Littlehampton Washer Road	-	-		Use TIPLOC LTLHWSR
+Littlehampton Signal LH11	-	-		Use TIPLOC LTLH11
+Littlehampton Shed	-	-		"TIPLOC LTLHSHD to be used for trainstabling on Shed Road 1 to 3Access controlled by TOC shunterSiding detail must be shown (S1, S2 or S3)"
+Littlehampton Up Sidings 3 & 4	-	-		"TIPLOC LTLHOSH to be used for trainsstabling on the Up sidings 3 & 4 alongsideLittlehampton Shed and for access to UpSidings 1 & 2Access controlled by TOC shunterSiding detail must be shown (S3 or S4)"
+Littlehampton Up Sidings 1 & 2	-	-		"TIPLOC LTLHUPS to be used for trainstabling on Up Sidings 1 & 2Access controlled by TOC shunterSiding detail must be shown (S1 or S2)"
+SO640 BARNHAM TO BOGNOR REGIS				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Barnham	-	-		"Platform detail must be shown.To/from Ford - SO520"
+Bognor Signal BR14		-		"Use TIPLOC BOGNS14Timing Point for all Up direction services"
+Bognor Regis Sidings	-	-		"Access controlled by TOC shunterUse TIPLOC BOGNSIDSiding detail must be shown (S1, S2 or S3)"
+Bognor Regis		-		Platform detail must be shown

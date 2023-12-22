@@ -1,0 +1,41 @@
+West Ealing		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Down pass to Drayton Green or West Ealing Loop andSidings"	Approach control	{1}
+"Down arrive (routed to Drayton Green or West EalingLoop and Sidings)"	Approach control	{1⁄2}
+"Up pass from Drayton Green or West Ealing Loop andsidings"	Acceleration	"{1} Approachingnext timing point"
+Arriving at West Ealing Platform 5	Slow 20 mph turnout	{1⁄2}
+""		
+Connectional Allowance	3	
+""		
+Platform Re-occupation		
+Platform 5	4	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/arrive platform 4 from Drayton Green	Pass/depart to Drayton Green	2*
+Arrive platform 5	Pass/depart to Drayton Green	1
+*Increase to 3 if first movement is freight		
+Hanwell		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Pass Hanwell from Hanwell BridgeLoop towards Drayton Green"	Slow Crossover	{1}
+"Pass Hanwell from Hanwell BridgeLoop towards to West Ealing Loop"	Slow Crossover	{1}
+""		
+Junction margin		
+First Movement	Second Movement	Margin
+"Down Arrive/Pass from Drayton Green or WestEaling Loop"	"Up Pass/Arrive West Ealing on Up Relief(not stopping or crossing at Hanwell)"	3
+"Down Arrive/Pass from Drayton Green or WestEaling Loop"	Up Arrive/Pass on Up Relief	21⁄2
+Up Pass/Depart on Up Relief	"Down Arrive/Pass from Drayton Green orWest Ealing Loop"	21⁄2
+"Up pass/Arrive West Ealing on Up Relief (notstopping or crossing at Hanwell"	"Down Arrive/Pass from Drayton Green orWest Ealing Loop"	11⁄2*
+Down Pass to Hanwell Bridge Goods Loop	"Up Pass/Arrive West Ealing on Up Relief(not stopping or crossing at Hanwell)"	41⁄2
+Down Pass to Hanwell Bridge Goods Loop	Up Pass/Arrive on Up Relief	4
+Up Pass/Arrive on Up Relief	Down Pass to Hanwell Bridge Goods Loop	2^
+"Up Pass/Arrive West Ealing on Up Relief (notstopping or crossing at Hanwell)"	Down Pass to Hanwell Bridge Goods Loop	1^
+"*If the first train is 280m or less and has pathing time approaching West Ealing, the junction margin can bereduced by the value of the pathing time."		
+^ Can be reduced by 1 minute if second train has minimum 1 minute pathing time approaching Hanwell		
+Southall East Jn
+""
+Signalling Limitations

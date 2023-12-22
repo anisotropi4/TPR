@@ -1,0 +1,20 @@
+""		Measured Value (secs)	Current Dwell (secs)	Cumulative Value (secs)	Proposed Dwell (secs)
+""	Station Dwell A	61	60	1	60
+Station Dwell B	38	30	9	30	
+Station Dwell C	28	30	7	30	
+Station Dwell D	31	30	8	30	
+Station Dwell E	32	30	10	30	
+Station Dwell F	36	30	16	60	
+226	210		240		
+""		Dwell	Current SRTs					
+""		Measured Value (secs)	Current Dwell (secs)	Cumulative Value  (secs)	Proposed Dwell (secs)	Technical SRT (mins)	Planned SRT (mins)	Cumulative Value (secs)
+""	SRT 1					02:34	02:30	00:04
+""	Station Dwell A	34	30	4	30			
+""	SRT 2					03:12	03:00	00:16
+""	SRT 3					05:06	05:30	-00:08
+""								
+""	Station Dwell B	34	30	8	30			
+""	SRT 4					03:55	04:00	-00:13
+""	SRT 5					03:14	03:30	-00:29
+""	Station Dwell C	38	30	16	30			
+Time across section:	106	90		90	18:0118:30			

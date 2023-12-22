@@ -1,0 +1,20 @@
+Stratford		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"For freight from Woodgrange Park via UEL andMaryland East Crossovers into P10"	"Acceleration allowance after crossing from slowspeed branch line, approach control at L330,and slow speed crossover at Maryland East"	{2}
+"For freight from Woodgrange Park via UMLfrom Forest Gate Junction Crossovers into P10"	"Acceleration allowance after crossing from slowspeed branch line"	{11⁄2}
+"For freight from Woodgrange Park via UEL andMaryland East Crossovers into P10a"	"Acceleration allowance after crossing from slowspeed branch line and slow speed crossoversat Maryland into P10a"	{3}
+"For freight from Woodgrange Park via UMLfrom Forest Gate Junction Crossovers intoP10a"	"Acceleration allowance after crossing from slowspeed branch line and slow speed crossoversat Maryland into P10a"	{21⁄2}
+"For freight from Ilford UML crossing over atMaryland East Crossovers into P10a"	Slow speed crossovers at Maryland into P10a	{2}
+"For freight from Ilford UML crossing to DML atForest Gate Junction Crossovers runningthrough P10a"	Slow speed crossover at Maryland into P10a	{11⁄2}
+"For freight from Ilford UEL via Maryland EastCrossovers into P10"	Slow speed crossover at Maryland East	{1}
+"For freight from Ilford UEL crossing at ForestGate Junction and running UML into P10"	Acceleration allowance	{1⁄2}
+"For freight from Ilford running UEL to MarylandEast Crossovers and then into P10a"	Slow speed crossovers at Maryland into P10a	{2}
+"For freight from Ilford UEL crossing at ForestGate Junction to UML and through P10a"	"Allowance after crossing at Forest Gate Junctionfrom slower speed line and slow speedcrossovers at Maryland into P10"	{21⁄2}
+"For freight from Ilford UEL crossing at ForestGate Junction to DML and through P10a"	Slow speed crossovers at Maryland into P10a	{2}
+"Passenger/ECS trains departing from Platform10a in the down direction to Forest Gate Jn"	Via slow speed route/crossover	"{1⁄2} To beappliedapproachingForest GateJunction*"
+* Excluding ARL trains as the SRT already contains the adjustment		
+""		
+Dwell Time	1	
+""		

@@ -1,0 +1,34 @@
+West Drayton		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Train arriving or passing throughPlatform 5 from London."	Slow Speed crossover	{1}
+"Up trains from Colnbrook Branchpassing West Drayton"	Slow speed off branch	{1} Approaching next timing point
+""		
+Planning Restriction		
+"Trains longer than 71SLU planned to dwell in West Drayton Loop/Platform 5 in the down direction will foul the Relieflines. Therefore if a train longer than 71 SLU is planned, junction margins must be based on the trains departuretime from West Drayton, not its arrival time."		
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+Up train depart West Drayton on Relief Lines	"Down train from Relief Lines to West DraytonLoop or Colnbrook Branch"	2
+"Up non stop train pass/depart Slough on ReliefLines"	"Down train from Relief Lines to West DraytonLoop or Colnbrook Branch"	51⁄2 *
+"Down train from Relief Lines to West DraytonLoop or Colnbrook Branch"	"Up stopping train depart West Drayton on Relieflines"	"2 if first trainis freight1 if first trainis passenger"
+"Down train from Relief Lines to West DraytonLoop or Colnbrook Branch"	"Up non stop train pass/depart Slough on ReliefLines"	"Same Time$"
+Down train from Relief Lines to Colnbrook Branch	"Up train via Up Iver Loop and West DraytonLoop pass/arrive"	41⁄2
+Down train from Relief Lines to Colnbrook Branch	"Up train via Up Relief and West Drayton Looppass/arrive"	51⁄2
+"Up train from West Drayton Loop or ColnbrookBranch"	"Down train from Relief Lines to West DraytonLoop or Colnbrook Branch"	41⁄2
+*Applies to EMU/DMU/HST/80x. Increase by 2 minutes if Up train is Freight/LH		
+$ Applies to EMU/DMU/HST/80x. Freight/LH services can pass Slough 2 minutes before the first movement.		
+Iver	
+""	
+Dwell Time	
+Class 165/6	1⁄2
+Langley Reception Sidings		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up train departing Slough (if passingLangley station on RL)"	"Down freight arriving inReception Sidings"	5
+"Up train departing Langley station onRL"	"Down freight arriving inReception Sidings"	41⁄2
+"Down freight arriving in ReceptionSidings"	Up train departing Slough	Simultaneous
+"Down freight arriving in ReceptionSidings"	"Up train departing Langleystation on RL"	1⁄2
+Langley
+""

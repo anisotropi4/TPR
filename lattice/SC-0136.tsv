@@ -1,0 +1,33 @@
+SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH)		
+""		
+Edinburgh		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Trains arriving in platforms 3-6 on top ofanother train"	Approach control	1
+"Trains arriving into South Loop Siding fromAbbeyhill Junction"	Approach control	1
+""		
+Connectional Allowance	10	
+""		
+Dwell Time – Through trains		
+MU	11⁄2	
+Mk IV & 80X	4	
+22X	3 (Increased to 4 if catering supplies are required to be replenished)	
+"Maximum standage time ThroughPlatforms"	60* ^	
+"Maximum standage time BayPlatforms"	75 ^#	
+Trains Stabling Overnight	Must not be diagrammed to arrive before 22:30^	
+"*With the exception of Sleeper services where capacity permits; to allow passengers to board significantly earlier thanscheduled passenger services^ With the agreement of Network Rail, dwells & trains stabling overnight may exceed the maximum standage timesstated where platform capacity permits and running additional ECS moves is considered to potentially have an adverseeffect on overall network performance Network Rail reserve the right to apply the maximum standage times after it hasbeen demonstrated to the relevant TOC through apporopriate discussion that leaving the train in the platform will havean adverse impact on capacity & performance.# Does Not Apply to South Loop Siding or 16 Mid Road"		
+""		
+"Minimum Turnround - values can be reduced where prior agreement has been reached between Network Rail andTrain Operators"		
+Loco change	12	
+Loco runround	16	
+"ECS forming Passenger serviceLNER"	25	
+"Passenger service forming ECSLNER"	20	
+"Passenger service formingPassenger service LNER"	34 (25 from Newcastle)	
+"ECS off/forming Avanti WestCoast Trains"	20	
+"Passenger service formingPassenger service Avanti WestCoast Trains"	"30 However, values can be amended to 20 where specific agreement existsbetween Network Rail and Avanti West Coast."	
+TPE	20	
+CrossCountry	"20 (10 if origin is in Scotland).   However, values can be amended to 10 (5 iforigin is in Scotland) where specific agreement exists between NR and XC"	
+"Passenger service formingPassenger service – Lumo"	40 (20 if origin is Newcastle)	
+"Passenger service forming/formedby ECS – Lumo"	20	
+""		

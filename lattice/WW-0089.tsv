@@ -1,0 +1,25 @@
+GW5001 BEECHGROVE GF TO WESTBURY SOUTH JUNCTION				
+TIMING POINT	DOWN	UP		NOTES
+""				
+"Warminster Signal W301 toWarminster"		AB+21⁄2*		"*Based on first train passing/departing WarminsterTCB timed as AB"
+"Warminster to WestburySignal W305"		AB+1*		"*Based on first train passing/departing WestburySignal W305TCB timed as AB"
+"Westbury Signal W305 toWestbury"		*		"*Refer to Westbury and Westbury Down TCEntry/Exit Junction Margins"
+Westbury to Warminster	AB+0			TCB timed as AB
+"Warminster to WarminsterSignal W308"	AB+2*			"*Based on first train passing/departing WarminsterSignal W308TCB timed as AB"
+GW510 WESTBURY NORTH JUNCTION TO BATHAMPTON JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Westbury to Hawkeridge Jn	AB+2	AB+2	TCB timed as AB
+Hawkeridge Jn to Bradford Jn	4	4	
+"Bradford Junction to BathamptonJunction"	6		
+Bathampton Jn to Signal BL1990		AB+1*	*TCB planned as AB
+"Signal BL1990 to Bradford-on-Avon"		AB+2*	"*Based on previous train pass / depart Bradford-on-Avon. TCB planned as AB"
+Bradford-on-Avon to Bradford Jn		AB+2*	*TCB planned as AB
+GW520 WESTBURY EAST LOOP JN TO HAWKERIDGE JN			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Westbury East Loop Jn toHawkeridge Jn"	AB+2*	AB+2*	* TCB but timed as AB
+GW523 THINGLEY JUNCTION TO BRADFORD JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Thingley Jn to Bradford Jn	AB+2	AB+2	Single Line. TCB timed as AB

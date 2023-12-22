@@ -1,0 +1,42 @@
+Twickenham Junction		
+""		
+Adjustment to Sectional Running Times		
+Movements	Reason	Value
+"All freight timing loads routed via uppassenger loop"		{11⁄2}
+Whitton Junction		
+""		
+Adjustments to Sectional Running Times		
+Movements	Reason	Value
+"Train from Hounslow Junction towardsWhitton/Twickenham"	Speed Differential	{1⁄2}*
+* Applies approaching next timing point.		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		2
+"Train from Feltham Junction towardsTwickenham"	"Train from Hounslow Junction towardsTwickenham"	21⁄2#*
+"Train from Hounslow Junction towardsTwickenham"	"Train from Feltham Junction towardsTwickenham"	3
+"# 3 minutes if the first movement is a freight service.* 2 minutes if the second movement has pathing time/dwell approaching Whitton Junction."		
+Feltham Junction				
+""				
+Adjustments to Sectional Running Times				
+Movements	Reason	Value		
+"Down trains from Hounslow Junction towardsFeltham"	Speed Differential	{1⁄2}*		
+Up trains towards Hounslow Junction	Speed Differential	{1⁄2}		
+"* Applies approaching next timing point. Does not apply to trains towards Feltham Depot Arrival Road LondonEnd because it is built into the SRT’s."				
+""				
+"Adjustments to Sectional Running Times for down freight trains passing from Hounslow. Allowancesshould be applied at the next timing point after Feltham Junction."				
+Train Class	Trailing Load	Reason	Value	
+Class 4	Up to 800t	TR30 – TR40	Speed Differential	{1}
+""	801 – 1600t	TR50 – TR90	Speed Differential	{11⁄2}
+Class 6	Up to 1000t	Up to TR55	Speed Differential	{1}
+""	1001 – 2400t	TR70 – TR130	Speed Differential	{11⁄2}
+Class 7	Up to 800t	Up to TR40	Speed Differential	{1⁄2}
+801 – 1600t	TR55 – TR85	Speed Differential	{1}	
+1601 – 2400t	TR100 – TR130	Speed Differential	{11⁄2}	
+""				
+Junction Margins				
+First Movement	Second Movement	Margin		
+Between all movements except as below		2*		
+Down freight from Hounslow Junction	Up train towards Whitton Junction	3*		
+Down freight from Hounslow Junction	Down train from Whitton Junction	31⁄2*		
+"* Margin can be reduced by 1⁄2 minute when the second train has at least 1 minute pathing time approachingFeltham Junction."				

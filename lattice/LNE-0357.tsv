@@ -1,0 +1,18 @@
+LN784 HIGH MARNHAM TO SHIREBROOK EAST JUNCTION					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	"Cl 6, 7& 8"	Remarks
+""					
+"Additional Engineering AllowanceDown and Up – Sunday night/Monday morning"					
+"Boughton Junction – ShirebrookJunctions"	E	2	2	2	"2200 Sun – 0600 Mon. Single LineWorking. All trains to be timed over sameline"
+LN854 HALL ROYD JUNCTION TO COLTON JUNCTION					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	"Cl 6, 7& 8"	Remarks
+""					
+"Additional Engineering AllowanceDown and Up Sunday night/Monday morning"					
+"Heaton Lodge Jn – Thornhill LNWJn"					"0015 Mon – 0530 Mon Up trains to betimed on Slow line"
+Church Fenton – Colton Jn	E	3	3	3	"2300 Sun – 0600 Mon.  To be coordinatedwith Colton Jn – York. One allowance onlybetween Church Fenton and York"
+LN922 WHITEHALL WEST JUNCTION TO HELLIFIELD SOUTH JUNCTION					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	"Cl 6, 7& 8"	Remarks
+""					
+"Additional Engineering AllowanceDown and Up – Sunday night/Monday morning"					
+Shipley East Junction – Skipton	E	20	20	20	0001 Mon – 0515 Mon (A)
+Skipton – Hellifield	E	20	20	20	2145 Sun – 0530 Mon (A)
+"(A) Only one allowance per train between Kirkstall Junction and Hellifield, to be co–ordinated with NW&Callowances.  Refer to Section 5.5.6 of the NW&C Timetable Planning Rules"					

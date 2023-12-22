@@ -1,0 +1,33 @@
+Glasgow Central		
+""		
+Connectional Allowance	"1530 to/from Glasgow Queen Street"	
+""		
+Maximum Turnround	120	
+""		
+Station Working		
+First Movement	Second Movement	Margin
+Train Depart Via Line A	Train Arrive Via Line A	5
+Train Depart Via Line B	Train Arrive Via Line B	4
+Train Depart Via Line C	Train Arrive Via Line C	4
+Train Depart Via Line D	Train Arrive Via Line D	4
+Depart top of platform	Depart rear or middle of platform	2
+Arrive train	Depart train (when conflicting)	1
+""		
+Platform Re-occupation		
+Platforms 1 to 13	4	
+Platforms 14 and 15	3	
+""		
+Train Watering Points	Platforms 1, 2, 9, 10 and 11	
+""		
+"Minimum Turnaround - values can be reduced where prior agreement has been reached between Network Railand Train Operators"		
+Loco change	12	
+TPE	20	
+CrossCountry	"20 (10 if origin is in Scotland). However, values can be amended to 10 (5 iforigin is in Scotland) where specific agreement exists between NR and XC"	
+"Passenger Service formingPassenger Service Avanti WestCoast"	"30 However, values can be amended to 20 where specific agreement exitsbetween Network Rail and Avanti West Coast."	
+"ECS off/forming Avanti WestCoast"	20	
+"Passenger Service formingPassenger Service LNER"	40 (30 if service starts within Scotland Region or at Newcastle)	
+"ECS forming Passenger serviceLNER"	25	
+"Passenger service forming ECSLNER"	20	
+""		
+""		
+"Planning RestrictionPlatform 2Class 156 units only.  When a four coach train, formed of class 156 units, is standing at the buffer stop end of theplatform, it is not possible for further class 156 unit(s) to attach.   This restriction does not apply to any otherplatform or type of train."		

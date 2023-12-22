@@ -1,0 +1,40 @@
+""	London Blackfriars	
+""		
+""	Connectional Allowance	6
+""		
+""	Dwell Time	
+""	All Services	1
+""		
+""	Passenger to ECS in the same direction	
+""	8 car Class 700	3
+""	12 car Class 700	4
+""		
+""	Platform Reoccupation	
+""	Same direction	11⁄2
+""	"Opposite direction / conflictingmove"	3
+""		
+""	Planning Note	
+""	"A train which arrives in the northbound direction into Platform 1, prevents a second train departing City Thameslinkin the southbound direction until the first train has completed its reverse move at Blackfriars and departed.This is due to the Overlap on Signal TVS1061"	
+""		
+""	Junction Margins	
+""		
+First Movement	Second Movement	Margin
+Northbound arrives in Platform 1	"Southbound train departs City ThameslinkPlatform 2 to London Blackfriars Platform 2 via6035/6036 crossover"	1
+Elephant and Castle		
+""		
+Dwell Time		
+All peak services	1	
+All Thameslink services	1	
+""		
+Platform Reoccupation Margins		
+First Movement	Second Movement	Margin
+Down train leaves Platform 2	"Up train arrives via signal VS396 (30 mphcrossover)"	3
+Loughborough Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Up Non-Stop train crossing to Up Fast	"Approach control on signal VS414 and20mph crossover"	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements (except as below)	2	

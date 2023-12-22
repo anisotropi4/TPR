@@ -1,0 +1,47 @@
+""	GW900 PILNING TO FISHGUARD HARBOUR				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Swansea PT7573	– UM		S	Reversals on Up Main at Landore Jn
+""	Swansea PT7571	– UM		S	Reversals on Down Main at Landore Jn
+""	Landore TMD		–	S	
+""	Swansea Loop West Junction	–	–		"To/from Swansea Loop East Jn – GW906Mandatory unless reversing at PT7592"
+""	Swansea PT7592		–	S	"Reversals on Down Main at Swansea LoopWest Jn"
+""	Cockett West		–		Timing point in the Up direction only
+""	Gowerton	–	–	S*	"Timing point in the Down direction only* applies in the Up direction"
+""	Duffryn West		–		Timing point in the Up direction only
+""	Llandeilo Junction	–	–		To/from Morlais Jn – GW915
+""	Llandeilo West Junction	–	–	S	
+""	Llanelli Dock Jn East	–	–	X	
+""	Llanelli Signal PT3701		–	S	For shunt moves only
+""	Llanelli	–	–		Platform detail to be shown
+""	Pembrey & Burry Port	–	–		
+""	Signal PT3251	–		S	For shunt moves to/from Kidwelly
+""	Kidwelly	–	–		Platform detail to be shown
+""	Bertwyn LC	–	–		
+""	Ferryside	–	–		
+""	Carmarthen Junction	–	–		To/from Carmarthen – GW930
+""	Carmarthen Bridge Junction	–	–		To/from Carmarthen – GW940
+""	Sarnau	–	–		
+""	St Clears LC	–	–		
+""	Whitland	–	–		"Platform detail must be shownTo/from Tenby – GW950"
+""	Clunderwen	–	–		
+""	Clarbeston Road	–	–		
+""	Clarbeston Road Junction				To/from Haverfordwest – GW960
+""	Fishguard & Goodwick	–	–	S	
+""	Fishguard Harbour		–		
+GW9001 LANDORE JUNCTION TO SWANSEA				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Landore East Junction	–	–	X	To/from Neath – GW900
+Swansea PT7573 (UM)	– UM		S	Reversals on Up Main at Landore Jn
+Swansea PT7571 (DM)	– UM		S	Reversals on Down Main at Landore Jn
+Landore West Junction				
+Swansea Loop East Junction	– UM*	– DM		"To/from Swansea Loop West Jn – GW906* Only to be used if train has come fromLandore Jn, not from Swansea Loop West"
+Swansea PT3163 (CL)	–		S	Reversals on Carriage Line
+Swansea Maliphant IEP Depot	MR WR	MR WR		
+Swansea		– DM		Platform detail must be shown.
+GW906 SWANSEA LOOP EAST JUNCTION TO SWANSEA LOOP WEST JN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Swansea Loop East Jn	–	–		To/from Swansea – GW9001
+Swansea Loop West Jn	–	–		To Gowerton/from Cockett West – GW900

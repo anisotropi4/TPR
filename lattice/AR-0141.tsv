@@ -1,0 +1,40 @@
+Upminster		
+""		
+Junction Margins	Second Movement	Margin
+Fouling Move		3
+Except:		
+First Movement		Margin
+Up direction arrival	Conflicting down departure to Ockendon	1⁄2
+""		
+Platform Reoccupation		"2 (throughlines only)"
+Laindon		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+For trains to/from middle platform	Via slow speed crossover	{1⁄2}
+""		
+Dwell Time		1 peak only
+""		
+Length Limit		
+Platform 2		38 SLUs
+Basildon		
+""		
+Dwell Time		1 peak only
+Pitsea		
+""		
+Junction Margins		
+Movement		Margin
+"Fouling move where the first movement is anon-stopping train"		2
+Benfleet		
+""		
+Dwell Time		1 peak only
+Leigh-on-Sea		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+For trains to/from middle platform	Via slow speed crossover	{1⁄2}
+""		
+Dwell Time		1 peak only
+""		
+Length Limits		
+Platform 2		38 SLUs

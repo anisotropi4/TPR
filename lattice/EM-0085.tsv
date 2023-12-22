@@ -1,0 +1,23 @@
+Tapton Junction		
+""		"Class 6 trains400t 11⁄2600t – 800t/TR40 21,000t/TR55 21⁄21,200t – 1,400t/TR70-85 31,600t – 2,000t/TR100-115 42,200t 41⁄22,400t/TR130 5"
+Movement Up	Reason	Value
+"Passenger crossing Up Main to Up Barrow Hill$ Approaching Tapton Jn$$ Approaching Chesterfield$$$ Approaching Clay Cross North Jn (non-stop only)"	Deceleration	1⁄2$
+""	Differential Junction Speed	1⁄2$$
+""	Acceleration	1⁄2$$$
+"Freight crossing Up Main to Up Barrow Hill$ Approaching Tapton Jn$$ Approaching Chesterfield% Approaching Chesterfield South Jn$$$ Approaching Clay Cross North Jn"	Deceleration	1⁄2$
+""	Differential Junction Speed	1$$
+""	Acceleration	1%
+""	Acceleration	1$$$
+"Passenger crossing Up Barrow Hill to Up Main$ Approaching Tapton Jn$$ Approaching Chesterfield% Approaching Chesterfield South Jn"	Approach Control	11⁄2$
+""	Differential Junction Speed	1⁄2$$
+""	Acceleration	1⁄2%
+"Freight crossing Up Barrow Hill to Up Main$ Approaching Tapton Jn$$ Approaching Chesterfield% Approaching Chesterfield South Jn$$$ Approaching Clay Cross North Jn"	Approach Control	11⁄2$
+""	Differential Junction Speed	1$$
+""	Acceleration	1%
+""	Acceleration	1$$$
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Chesterfield from Dore	"Pass to Dore (crossingBHL/ML)"	5
+Pass to Dore (crossing BHL/ML)	Pass to Chesterfield from Dore	5
+Conflicting moves through single ladder		5

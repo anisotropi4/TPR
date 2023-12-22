@@ -1,0 +1,16 @@
+"EA1420 THAMES HAVEN JUNCTION TO LONDON GATEWAY PORT / THAMESHAVEN SIDINGS"			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+"Thames Haven Junction toLondon Gateway Port LG11Signal"			"Under Upminster IECC control from junctiontowards Port. LG11 Signal under LG PortShunters Control.Maximum of three trains permitted"
+"London Gateway Port LG11Signal to Thames Haven TC(Marcroft/Petroplus) Sidings"			"Single line. One train in Section. Under control ofLondon Gateway Port and Thames Haven(Marcroft) sidings shunters"
+"London Gateway Port LG11Signal to London GatewayArrival Line Stop Board"			"Single line entry. One train in Section. Undercontrol of London Gateway Port shunters"
+"London Gateway DepartureLine to Signal UR888"			"Single line exit towards UR888 signal. One trainin Section. Under control of London GatewayPort shunters release to Upminster IECC"
+"Thames Haven TC(Marcroft/Petroplus) Sidings toSignal UR888"			"Single line. One train in Section. Under control ofLondon Gateway Port and Thames Haven(Marcroft) sidings shunters release to UpminsterIECC."
+"UR888 signal towards UR882signal/Thames Haven Junction"			"Under Upminster IECC control. Maximum twotrains permitted"
+EA1430 EAST SUFFOLK JUNCTION TO OULTON BROAD NORTH			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+"East Suffolk Junction toWesterfield"	4	4	
+"Westerfield (exclusive) toWoodbridge"	AB+1	AB+1	TCB plan as AB.
+"Woodbridge (exclusive) toSaxmundham (exclusive)"	AB+1	Single line. TCB plan as AB.	
+Saxmundham to Halesworth	AB+1	AB+1	TCB plan as AB.
+"Halesworth (exclusive) toBeccles (exclusive)"	AB+1	Single line. TCB plan as AB.	
+"Beccles (exclusive) toOulton Broad North Junction"	AB+1	Single line. TCB plan as AB.	

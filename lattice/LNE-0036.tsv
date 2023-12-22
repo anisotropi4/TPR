@@ -1,0 +1,30 @@
+"LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THECOAST"				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Longlands Junction	–	–  SL		To/from Thirsk – LN600
+Boroughbridge Road LC	–	–		
+Northallerton East Jn.	–	–		To/from Northallerton High Jn – LN626
+Yarm	–	–		
+Eaglescliffe	–	–		To/from Dinsdale – LN631
+Stockton Cut Junction	–	–		To/from Bowesfield Jn – LN632
+Hartburn Junction	–	–		To/from Bowesfield Jn – LN644
+Stockton Sig B907	–		S	Reversing point on Up line
+Stockton TJ Thompson	–	–	S	
+Stockton	–	–	P	
+Norton South Junction	–	–		To/from Norton West Jn – LN646
+Norton East Junction	–	–	X	To/from Norton West Jn – LN648
+Billingham Junction	–	–		To/from Belasis Lane – LN652
+Billingham	–	–	S	
+Greatham SB	–	–		
+Hartlepool South Works		–	S	
+Seaton Snook Junction	–	–	X	To/from Seaton on Tees Branch – LN656
+Seaton Carew	–	–	S X	
+"Cliff House Up Loop SignalGM7110"		–	S	
+Cliff House DGL	–		S	TIPLOC CLFHJN
+Hartlepool	–	– UGL		Platform detail must be shown
+Hartlepool Docks		–	S	
+Horden Sig 7137	–			Mandatory in the down direction only
+Horden Sig 7148		–		Mandatory in the up direction only
+Horden	-	-	S	
+Seaham Harbour	–		S	
+Seaham Engineering Siding		–	S	

@@ -1,0 +1,40 @@
+St Leonards Warrior Square	
+""	
+Connectional Allowances	
+All Services	4
+Hastings			
+""			
+Berthing Facilities			
+""	Cars	Notes	
+Park Siding No 1	12	"Class 465/466 units not permitted to Hastings.Carriage Washer available at St Leonards"	
+Park Siding No 2	12	"Class 465/466 units not permitted to Hastings.Carriage Washer available at St Leonards"	
+Platform 1	8	Class 465/466 units not permitted to Hastings.	
+Platform 4	12	Class 465/466 units not permitted to Hastings.	
+""			
+Connectional Allowances			
+All Services	4		
+""			
+Dwell Times			
+All Services	1		
+""			
+ECS Restrictions			
+"Trains formed of 4-cars or less EMU stock should not normally be planned to travel from Hastings Platforms 1 toPark Sidings due to steep gradient and gapping risk"			
+""			
+Junction Margins			
+""	Margin		
+Between all conflicting moves where the second train is arriving / passing	3		
+""			
+Permissive Working			
+Attaching/Detaching and Platform Sharing is authorised as shown below -			
+Platform 1	Attaching/Detaching and Platform Sharing		
+Platform 2	Attaching/Detaching and Platform Sharing		
+Platform 3	Attaching/Detaching and Platform Sharing		
+Platform 4	Attaching/Detaching and Platform Sharing		
+A passenger train can not approach a platform when there is another train in that platform			
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Reason	Margin
+"Depart/Pass Platform 1 or 2 to SignalEDL70 or Ore"	"Westbound train departing/passingOre"	"Overlap onSignalEDL77"	3
+"Depart/Pass Platform 1 or 2 to ParkSidings"	"Westbound train departing/passingOre"	"Overlap onSignalEDL77"	4
+Depart Platform 1 to Ore	"Arrive Platform 2 from St LeonardsWarrior Square or Bo Peep Junction"	"Overlap onEDL46points"	3
+Depart Platform 1 to Park Sidings	"Arrive Platform 2 from St LeonardsWarrior Square or Bo Peep Junction"	"Overlap onEDL46points"	4

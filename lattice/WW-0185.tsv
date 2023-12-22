@@ -1,0 +1,25 @@
+Fairwood Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+Pass from Westbury	Acceleration	"80x/22x/HST/LH PassengerLH PassengerFreight 600t orlessFreight 800t to1800tFreight 2000tor above"	"{1}*{1} #{1⁄2}*{1}*{11⁄2}*"
+Pass to Westbury	Flashing yellow aspects	"80x/22x/HST/LH PassengerFreight class4/6Freight class 7"	"{1⁄2}{1}{1⁄2}"
+*To be applied approaching Clink Road Jn			
+"# To be applied approaching Blatchbridge Jn. Does not apply to trains via Frome."			
+""			
+Planning Note			
+"15x/16x SRTs at Fairwood Junction are based on running to/from Westbury therefore adjustment allowances arenot required."			
+""			
+Converging Margins			
+First Movement	Second Movement	Margin	
+"Passenger pass from Westbury towardsFrome North Jn"	"Pass from Heywood Road Jn (viaWestbury Avoiding Line)"	4	
+Clink Road Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+From Westbury to Frome	Approach control	"80x/LH PassengerFreight"	"{1⁄2}{1}"
+"From Heywood Road Jn to Frome(not via Westbury)"	Approach control	"80x/LHPassenger/Freight"	{1}
+"Pass from Frome to Heywood Road Jn(not via Westbury)"	Acceleration	"80x/LH PassengerFreight 2200t orlessFreight 2400t orabove"	"{1⁄2}*{1⁄2}*{1}*"
+*To be applied approaching next timing point			
+""			
+Planning Note			

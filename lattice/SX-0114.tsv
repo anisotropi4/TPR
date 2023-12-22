@@ -1,0 +1,40 @@
+Shoreditch High Street	
+""	
+Dwell Times	
+"All SX services calling at Canada Water between0700 and 1000 and between 1640 and 1940)"	1⁄2
+Whitechapel		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Trains using crossover in either direction	Slow Crossover	{1⁄2}
+""		
+Dwell Time		
+All services	1	
+Shadwell		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Depart signal EL3001 on the UEL towardsPlatform 2"	"Arrive into Platform 1 from the direction ofCanada Water"	2
+"Arrive into Platform 1 from the direction ofCanada Water"	"Depart signal EL3001 on the UEL towardsPlatform 2"	1
+Canada Water		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Trains using crossover in either direction	Slow Crossover	{1⁄2}
+""		
+Dwell Time		
+All services	1	
+Surrey Quays	
+""	
+Dwell Time	
+All services	1
+Canal Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train from New Cross	Train towards New Cross Gate	1
+Train from New Cross	Train towards New Cross Gate Reversible Line	11⁄2
+Train from New Cross	Train towards New Cross Depot or Washer Road	11⁄2
+New Cross Gate North Junction
+""
+Junction Margins

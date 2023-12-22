@@ -1,0 +1,36 @@
+East Putney		
+""		
+Looping and Passing Trains		
+"If it is required to pass two trains at East Putney the maximum permitted length (clear of both the LUL DistrictLines and the single line) is as follows."		
+Up line stood at W352	211m	
+Down line stood at W353	121m	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements		2
+Wimbledon
+""
+See entry under route – SW105
+SW230 BARNES TO FELTHAM JUNCTION (VIA HOUNSLOW)
+""
+Barnes
+""
+See entry under route – SW210
+New Kew Junction				
+""				
+Junction Margins				
+First Movement	Second Movement	Margin		
+"Train crosses towards Kew East Junction fromChiswick"	Up train passes Kew Bridge towards Chiswick	3#		
+"Train crosses towards Kew East Junction fromChiswick"	Up train departs Kew Bridge towards Chiswick	11⁄2*		
+"Up train passes/departs Kew Bridge towardsChiswick"	"Train crosses towards Kew East Junction fromChiswick"	2		
+"Train passes from Kew East Junction towardsChiswick"	"Up train passes/departs Kew Bridge towardsChiswick"	31⁄2		
+"Up train passes/departs Kew Bridge towardsChiswick"	"Train passes from Kew East Junction towardsChiswick"	4		
+"Up train passes/departs Kew Bridge towardsChiswick"	"Train departs from Down Kew Spur towardsChiswick"	3		
+"Train crosses towards Kew East Junction fromChiswick"	"Down train arrives/passes Kew Bridge fromChiswick"	31⁄2^		
+"# 31⁄2 minutes if the second movement is a freight service.* 2 minutes if the first movement is longer than 62 SLU/400m.^ 4 minutes if the first movement is longer than 62 SLU/400m."				
+""				
+Overlap Restrictions				
+First Movement	Second Movement	Signal		Margin
+"Train crosses towards Kew EastJunction from Chiswick"	"Up train arrives at Kew Bridge Platform1 from Brentford"	BEF2340		4*
+"Up train arrives at Kew BridgePlatform 1 from Brentford"	"Train crosses towards Kew EastJunction from Chiswick"	BEF2340		3*
+"* Movements can be made in parallel if the arrival at Kew Bridge Platform 1 has {1⁄2} approaching Kew Bridge toallow for the approach control when using the reduced overlap on BEF2340."				

@@ -1,0 +1,27 @@
+Maryhill		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Westerton	Pass from Anniesland	21⁄2
+Pass from Anniesland	Pass to Westerton	2
+Pass from Anniesland	"Pass to Anniesland (train not stopping atSummerston or Maryhill)"	2
+Pass from Anniesland	Down stopping train depart Summerston	1
+SC117 GRANGEMOUTH JUNCTION TO GRANGEMOUTH NR BOUNDARY		
+""		
+Fouldubs Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement Up	Reason	Value
+Trains from Grangemouth Run Round	Acceleration	2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Grangemouth Oil Refinery	Depart Grangemouth Oil Refinery	2
+Depart from Grangemouth Run Round	Arrive from Grangemouth Jn	81⁄2
+Depart to Grangemouth Run Round	Pass to Grangemouth Oil Refinery	9
+Pass from Grangemouth Run Round	Pass to Grangemouth Oil Refinery	4
+Arrive Grangemouth TDG	Pass from Grangemouth Jn into Run Round	"SLU specific0-29: 1030-59: 2060-89: 3090+: 40"
+""		
+"RestrictionAll trains arriving into Grangemouth Run Round must have a stop of 2 minutes at Fouldubs Junction for Shuntinginstruction.Where a train is over 93 SLU or both No 2 and 3 loop are occupied a 30 minute dwell is required due to longer runround move."		
+Grangemouth R.R
+"RestrictionAll trains towards Grangemouth Docks FPA must stop here to confirm route through handpoints.When a train is working to Grange Docks FPA 1 loop remains occupied until corresponding Departure."

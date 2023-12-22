@@ -1,0 +1,34 @@
+LN3204 TRENT SOUTH JUNCTION TO NOTTINGHAM EAST JUNCTION		
+Trent East Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Pass from Sheet Stores Jn towardsBeeston"	Differential junction speed	"1* after Trent East except:11⁄2* Class 4 freight"
+"Down Fast from Loughborough routedtowards Toton Centre"	Differential junction speed	1 before Trent East
+"Down Slow from Loughborough routedtowards Toton Centre"	Differential junction speed	1⁄2 before Trent East
+"Down Slow from Loughborough routedtowards Beeston"	Differential junction speed	"1⁄2 before Trent East and 1⁄2afterwards"
+""		
+Movement Up	Reason	Value
+"Pass from Toton Centre towardsLoughborough via Up Fast"	Differential junction speed	"1⁄2 approaching Trent South and1/2 * or 1** afterwards*Class 6 freight**Passenger or Class 4 freight"
+"Pass from Beeston towardsLoughborough via Up Slow"	Differential junction speed	1⁄2 approaching Trent South
+"Pass from Toton Centre towardsLoughborough via Up Slow"	Differential junction speed	"1⁄2* or 1** approaching TrentSouth*Class 6 freight**Passenger or Class 4 freight"
+"Pass from Beeston towards SheetStores Junction"	Differential junction speed	"1⁄2* approaching Trent East*1 if stopping at Sheet Stores Jn"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass from Trent South Jn towardsNottingham"	"Pass from Nottingham towardsSheet Stores Jn"	"3 if first train is passenger*4 if first train is freight*"
+"Pass from Nottingham towards SheetStores Jn"	"Pass from Trent South Jn towardsNottingham"	"3 if both are passenger trains4 if either or both are freight"
+"Pass from Sheet Stores Jn towardsNottingham"	"Pass from Toton towards SheetStores Jn"	3
+"Pass from Toton towards Sheet StoresJn"	"Pass from Sheet Stores Jn towardsNottingham"	"31⁄2(41⁄2 if both are freight)"
+"*Can be reduced by 1 minute if the second train has a minimum of 1 minute of allowances approaching Trent EastJunction"		
+""		
+Diverging Headway		
+First Movement	Second Movement	Margin
+"Passenger pass from Nottinghamtowards Sheet Stores Junction"	"Pass from Nottingham towardsLoughborough"	3
+Down Trent Passenger Loop		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down passenger pass from Trent South Jn	Depart Loop	"11⁄2 after first trainpasses Trent East"
+Down freight pass from Trent South Jn	Depart Loop	"2 after first trainpasses Trent East"
+Down pass from Sheet Stores Jn	Depart Loop	3 after first train

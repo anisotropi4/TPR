@@ -1,0 +1,18 @@
+Aldwarke Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason	Value	
+"Trains from Masborough Junction.Approaching Swinton"	Differential junction speed	-11⁄2 142/150	
+"Trains from Rotherham CentralApproaching Swinton"	Differential junction speed	"1 185/22x*/HST*11⁄2 158*Can be reduced to 1⁄2 iftrain is routed towardsMexborough at Swinton"	
+"Trains to the Roundwood Chord ApproachingAldwarke Junction"	Approach control	11⁄2	
+""			
+Movement Up	Reason	Value	
+"Trains from Roundwood Chord to MasboroughJnApproaching Holmes Junction"	Acceleration	1	
+Junction Margins			
+"2nd Move →1st  Move ↓"	"Pass from RotherhamCentral"	Pass UML from Swinton	"Pass to ThryberghJunction"
+Pass UML from Swinton	21⁄2		3
+"Pass from RotherhamCentral"	No conflict	4	3
+Pass to Thrybergh Jn	3	4	
+"Pass DML fromMasborough Jn"	21⁄2	No conflict	
+Pass from Thrybergh Jn	4	4*	4
+"*Different routesTrains from Rotherham Central to Roundwood Chord can run via UML and not conflict with train on DML"			

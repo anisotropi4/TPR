@@ -1,0 +1,75 @@
+RHTT
+RHTT
+RHTT
+RHTT
+RHTT
+RHTT
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+Type	Days	TID	Start Time	Origin	Destination
+RHTT	SX	3S76	09:10	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SO	3S76	"09:2009:47"	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SU	3S76	07:12	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SX	3S78	08:29	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SO	3S78	08:32	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SU	3S78	08:42	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SX	3W74	05:36	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT	SO	3W74	06:05	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT	SU	3W74	06:11	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT	SX	3W75	15:08	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT	SO	3W75	15:22	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT	SU	3W75	14:45	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT	SX	3W90	02:58	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT					
+RHTT	SO	3W90	04:25	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT					
+RHTT	SU	3W90	07:13	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+RHTT					
+De-Icer	SX	3Y74	09:40	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SO	3Y74	09:37	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SU	3Y74	09:12	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SX	3Y75	22:32	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SO	3Y75	23:32	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SU	3Y75	23:26	"Tonbridge West YardGBRF"	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SX	3Y90	11:59	"Tonbridge West YardGBRF"	Purley Down Siding
+De-Icer					
+De-Icer	SU	3Y90	16:07	"Tonbridge West YardGBRF"	London Bridge
+De-Icer					
+De-Icer	FO	3Y90	22:19	Purley Down Siding	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	FSX	3Y90	22:19	Purley Down Siding	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SO	3Y90	14:35	"Tonbridge West YardGBRF"	Purley Down Siding
+De-Icer					
+De-Icer	SU	3Y90	23:13	London Bridge	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer	SO	3Y90	20:35	Purley Down Siding	"Tonbridge West YardGBRF"
+De-Icer					
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer
+De-Icer

@@ -1,0 +1,30 @@
+Durham Up Loop		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Passenger arrive inside	Next up train passes Durham	4
+Up Freight arrive inside	Next up train passes Durham	5
+Pass Durham on Up Main	Depart Loop	2
+Depart Durham on Up Main	Depart Loop	3
+Durham Down Loop		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Down Loop	Next train arrives Durham	4
+Pass Durham	Depart Down Loop	3
+Depart Durham	Depart Down Loop	4
+Chester–le–Street	
+""	
+Dwell Time	
+Class 14x/150/156	1⁄2
+Class 158/185	1
+XC 22x	11⁄2
+Birtley Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement Down	Reason	Value
+Pass to Yard/Slow Line	Deceleration	11⁄2
+Movement Up	Reason	Value
+Pass Birtley Junction from Yard/Slow Line	Acceleration	"After BirtleyJunction:1 PassengerFreight400t – 1600t – 11⁄2800t -1800t - 21⁄22000t – 2800t – 33000t – 3200t – 31⁄2"
+""		
+Junction Margins		

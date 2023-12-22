@@ -1,0 +1,37 @@
+Name	Freq.	Start Date	"WeeksRunning"	Route	TID	Day	Dep	From	To	Arr	"ModelTrain"	TOC
+""			eeks	Model								
+Name	Freq.	Start Date	Route	TID	Day	Dep	From	To	Arr	TOC		
+""			unning	Train								
+UTU051	"8 -weekly"	19/12/2023	"38, 46,02, 10,18,26 & 34"	"Woking -Wimbledon -Basingstoke -Reading -Basingstoke -Woking -Eastleigh"	3Q01CA	TO	23.38	"WOKING UP YARDRECP."	EASTLEIGH EAST YARD	06.52	"UTU-T"	RG
+"UTU034N"	"8 -weekly"	19/01/2023	"42, 49,05, 13,21 &29"	"Hither Green -Kings Cross -FL - Grantham -Derby RTC"	3Q01ES	FO	23.07	"HITHER GREENP.A.D."	NEW BARNET	01.07	"UTU-T"	RG
+""		20/012024	"43, 50,06, 14,22 &30"	3Q02ES	SO	01.14	NEW BARNET	LONDON KINGS CROSS	01.36	"UTU-T"	RG	
+""		20/01/2024	"43, 50,06, 14,22 &30"	3Q03ES	SO	02.07	"LONDON KINGSCROSS"	"DERBY R.T.C.(NETWORKRAIL)"	07.51	"UTU-T"	RG	
+UTU007	"8 -weekly"	25/01/2024	"43, 51,07, 15,23 &31"	"Tyseley -Bordesley -Banbury -Leamington Spa- Coventry -Leamington Spa- Bordesley -Derby"	3Q02SB	ThO	23.42	TYSELEY L.M.D.	"DERBY R.T.C.(NETWORKRAIL)"	08.17	"UTU-R"	RG
+Name
+Name
+Freq.
+Freq.
+Start Date
+Start Date
+"WeeksRunning"
+eeks
+unning
+Route
+Route
+TID
+TID
+Day
+Day
+Dep
+Dep
+From
+From
+To
+To
+Arr
+Arr
+"ModelTrain"
+Model
+Train
+TOC
+TOC

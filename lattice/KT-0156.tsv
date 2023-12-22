@@ -1,0 +1,42 @@
+""	STATION	PLATFORM	"USABLELENGTH"	NOTES
+""				
+""	Dunton Green	2 - Down Main	279	
+""				
+""	East Farleigh	1 - Up Maidstone	85	
+""	East Farleigh	2 - Down Maidstone	92	
+""	East Malling	1 - Up Maidstone	166	
+""	East Malling	2 - Down Maidstone	162	
+""	"Ebbsfleet InternationalLow Level"	1 Up International#	409	"Down directionInternational services only"
+""	"Ebbsfleet InternationalLow Level"	1 Up International#	409	"Up directionInternational services only"
+""	"Ebbsfleet InternationalLow Level"	2 Up Domestic$	290	"Down directionDomestic services only"
+""	"Ebbsfleet InternationalLow Level"	2 Up Domestic$	290	"Up directionDomestic services only"
+""	"Ebbsfleet InternationalLow Level"	3 Down Domestic$	291	"Down directionDomestic services only"
+""	"Ebbsfleet InternationalLow Level"	3 Down Domestic$	291	"Up directionDomestic services only"
+""	"Ebbsfleet InternationalLow Level"	4 Down International#	414	"Down directionInternational services only"
+""	"Ebbsfleet InternationalLow Level"	4 Down International#	414	"Up directionInternational services only"
+""	"Ebbsfleet InternationalHigh Level"	5 Up Domestic$	290	"Down directionDomestic services only"
+""	"Ebbsfleet InternationalHigh Level"	5 Up Domestic$	290	"Up directionDomestic services only"
+""	"Ebbsfleet InternationalHigh Level"	6 Down Domestic$	290	"Down directionDomestic services only"
+""	"Ebbsfleet InternationalHigh Level"	6 Down Domestic$	290	"Up directionDomestic services only"
+""	Eden Park	1 - Up Mid Kent	284	
+""	Eden Park	2 - Down Mid Kent	282	
+""	Elephant and Castle	1 - Up Slow	149	
+""	Elephant and Castle	2 - Down Slow	156	
+""	Elephant and Castle	3 - Up Fast	157	
+""	Elephant and Castle	4 - Down Fast	161	
+""	Elmers End	1 – Croydon Tramlink Only		Not for Network Rail use
+""	Elmers End	2 - Up Mid Kent	249	
+""	Elmers End	3 - Down Mid Kent	244	
+""	Elmstead Woods	1 - Up Fast	264	
+""	Elmstead Woods	2 - Down Fast	247	
+""	Elmstead Woods	3 - Up Slow	247	
+""	Elmstead Woods	4 - Down Slow	248	
+""	Eltham	1 - Up Bexleyheath	245	
+""	Eltham	2 - Down Bexleyheath	242	
+""	Erith	1 - Up North Kent	241	
+""	Erith	2 - Down North Kent	241	
+""	Etchingham	1 - Up Hastings	167	
+""	Etchingham	2 - Down Hastings	186	
+""	Eynsford	1 - Up Maidstone	158	
+""	Eynsford	2 - Down Maidstone	162	
+""				

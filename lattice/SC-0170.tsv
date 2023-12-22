@@ -1,0 +1,31 @@
+Glenfinnan	
+""	
+All trains must stop for token exchange purposes.	
+Dwell Time	
+Where passing an overlength train	3
+""	
+For Up trains, see general restictions above.	
+For Down trains, see general restictions above.	
+"If a train is in the process of shunting between Mallaig platform 1 and platform 2, then the section from Arisaig toMallaig is occupied and a Long Section Token from Glenfinnan to Mallaig cannot be issued a token exchange stopmust take place at Arisaig."	
+Arisaig
+""
+"All trains must stop for token exchange purposes, unless a Long Section Token has been issued at the previousToken Exchange Point.If a train is in the process of shunting between Mallaig platform 1 and platform 2, then the section from Arisaig toMallaig is occupied and a token for this section cannot be issued."
+Morar	
+""	
+All Up trains must stop to operate Level Crossing Plunger	
+""	
+Dwell Time	
+All Up trains (LC plunger)	1
+Mallaig		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train arriving Platform 1	Operation of Ground Frame	4
+"Loco hauled train exceeding 7 coaches arrivingPlatform 1"	Operation of Ground Frame	10
+""		
+Movement Up	Reason	Value
+Up train departing Platform 1	Operation of Ground Frame	4
+"Loco hauled train exceeding 7 coachesdeparting Platform 1"	Operation of Ground Frame	10
+""		
+"RestrictionIf a train is in the process of shunting between platforms, then the section from Arisaig to Mallaig is occupied and atoken for this section cannot be issued at Arisaig or Glenfinnan. Any such shunt move can commence 5 minutesafter an Up train has departed, or 7minutes following a steam train or a large loco-hauled special departing via theground frame."		
+If there are no trains between Arisaig and Glenfinnan, please see general restrictions above.		

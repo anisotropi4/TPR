@@ -1,0 +1,21 @@
+""	SO320 HOO JUNCTION TO GRAIN SIDINGS			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Hoo Junction to Signal NK509	AB+2**	AB+2*	"Single line. One train in section**Train can pass/depart Hoo Junction 2 minutesafter the first train has departed NK509 signal*Train can depart NK509 signal 2 minutes after thefirst train has departed/pass Hoo Junction"
+""	"Signal NK509– Grain LevelCrossing"	AB+5**	AB+2*	"Key token working. Planned as AB**Train can depart NK509 signal 5 minutes after thefirst train has departed Grain Level Crossing(includes 3 minute token stop)*Train can depart Grain Level Crossing 2 minutesafter the first train has departed NK509 signal"
+""	SO330 NUNHEAD TO HAYES			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Nunhead – Lewisham ValeJunction"	21⁄2	21⁄2	"A 2 minute margin applies where afollowing train takes a differentroute at Lewisham Vale Junctionin the Up Direction, or a differentplatform at Lewisham in the DownDirectionThis includes when divergingtowards Tanners Hill Junction"
+""	"Lewisham Vale Junction -Lewisham"	2	2	"Except for consecutive movesboth travellingtowards Nunhead, then a 21⁄2minute margin applies"
+""	Lewisham – Ladywell	"21⁄2 Non-Stopping3 Stopping"	"21⁄2 Non-Stopping3 Stopping"	
+""	Ladywell – Elmers End	"3 Non-Stopping4 Stopping"	"3 Non-Stopping4 Stopping"	
+""	Elmers End – Hayes	"5 Non-Stopping6 Stopping"	"5 Non-Stopping6 Stopping"	
+""	SO330A NEW BECKENHAM TO BECKENHAM JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"New Beckenham – BeckenhamJunction"	"3 Non-Stopping4 Stopping"	"3 Non-Stopping4 Stopping"	
+""	SO350 GROVE PARK TO BROMLEY NORTH			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Grove Park – Bromley North	3	3	

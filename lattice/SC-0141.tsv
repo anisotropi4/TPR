@@ -1,0 +1,38 @@
+Polmont		
+""		
+Connectional Allowance	3	
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Passing trains travelling towardsGrangemouth Junction"	Approach Control	1
+"Passing train timed as class 385towards Grangemouth Junction"	Approach Control	1⁄2
+""		
+Movement Up	Reason	Value
+"Passing trains from GrangemouthJunction"	"Slower Speed over PolmontJunction"	1⁄2 approaching next timing point
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train pass towards Carmuirs East	Up Passenger train not stopping Falkirk High	4
+Train pass towards Carmuirs East	Up Passenger train from stop at Falkirk High	31⁄2
+Passenger train from Falkirk High	Train towards Carmuirs East	21⁄2
+Up train departs Polmont Station	"Up train departs either Up North/Up SouthLoop"	2
+"Up train (non-stopping Polmont) passes fromFalkirk High"	"Train (stopping Polmont) pass from UpGrahamston"	3
+Greenhill Upper Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down/Up	Reason	Value
+"Up train timed at 90mph+ routed towardsGreenhill Lower Junction"	"Deceleration to be applied approachingGreenhill Upper Junction"	1⁄2^
+"Down train timed at 90mph+ routed towardsCroy"	Acceleration to be applied approaching Croy	1⁄2^
+""		
+^ Value Does not apply to trains timed as HSTSR5 & 385		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Passenger towards Falkirk High	Down depart from Branch towards Croy	1
+Up Passenger towards Falkirk High	Down passenger from Carmuirs West Jn	2
+Down passenger from Carmuirs West Jn	Up Pass towards Falkirk High	21⁄2
+""		
+"RestrictionA maximum of 11⁄2 minutes pathing time to be shown approaching Greenhill Upper Junction for Up trains passingto Greenhill Lower Junction, any further pathing time needs to be shown between Greenhill Upper and LowerJunctions"		
+Croy	
+""	
+Connectional Allowance	3

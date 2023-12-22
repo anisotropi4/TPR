@@ -1,0 +1,29 @@
+""	LN632 STOCKTON CUT JUNCTION TO SALTBURN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Stockton Cut Junction to Thornaby	4	4	
+""	"Thornaby to Newport EastJunction – Main Line"	"4 Passenger5 Freight"	"4 Passenger4 1⁄2 Freight"	
+""	"Thornaby to Newport EastJunction (exclusive) – Goods Line"	4*	"5*^ GL141⁄2* GL2"	"* Based on yellow signals due to relativelow line speed^ Increased by 1⁄2 for Freight longer than600m"
+""	"Newport East Junction (inclusive)to Whitehouse Junction – FastLine"	4	4	
+""	"Newport East Junction (inclusive)to Whitehouse Junction – SlowLine"	5*$	5*^	"* Based on yellow signals due to relativelow line speed$ Increased by 1⁄2 for Freight longer than700m^ Increased by 1⁄2 for Freight longer than600m"
+""	"Whitehouse Junction to RedcarCentral"	5	5	
+""	Redcar Central to Longbeck	AB +2	AB +2	
+""	"Longbeck to Saltburn WestJunction"	AB +2	"AB +2*AB +31⁄2 ^"	"* A train cannot depart/pass Crag Hall untila train from Crag Hall has passed Longbeck^ For trains from Crag Hall following a trainfrom Saltburn to Longbeck"
+""	Saltburn West Junction to Saltburn	AB+2*	*Single Line, TCB	
+""	LN634 GUISBOROUGH JUNCTION TO WHITBY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Middlesbrough to Cargo FleetRoad"	AB+2*	"*Single Line See junction margins at Middlesbroughfor conflicts on and off the single line"	
+""	Cargo Fleet Road to Nunthorpe	AB+2^	"^Single Line, TCB but treat as AB. See Restrictionsat Nunthorpe"	
+""	Nunthorpe to Battersby	AB+5^	^Single Line, NSTR but treat as AB*	
+""	Battersby to Glaisdale	AB+5^	^Single Line, NSTR but treat as AB*	
+""	Glaisdale to Whitby	AB+5^	"^Single Line, NSTR but treat as AB*. SeeRestrictions at Glaisdale and Whitby"	
+""	Passing points:			
+""	Nunthorpe			
+""	Battersby			
+""	Glaisdale			
+""	LN642 SALTBURN WEST JUNCTION TO BOULBY POTASH MINE			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Saltburn West Junction to CragHall"	AB+2*	"*Single Line TB^ A train cannot depart/pass Crag Hall until thepreceeding train has passed Longbeck"	
+""	Crag Hall to Boulby	AB+2*	*Single Line NST	

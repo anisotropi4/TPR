@@ -1,0 +1,25 @@
+""	Knottingley West Junction								
+""									
+""	Adjustments to Sectional Running Times								
+""	Movement Up	Reason	Value						
+""	"Trains from Pontefract to Knottingley C & W(Knottingley Depot)Approaching Knottingley West Junction"	Approach control	1						
+""	Junction Margins								
+""	"2nd move →1st move ↓"	"FromShaft–holme toCrofton"	"FromShaft–holme toFerry–bridge"	"FromGoole toCrofton"	"FromGoole toFerry–bridge"	"FromFerry–bridge toGoole"	"FromFerry–bridge toShaft–holme"	"FromCrofton toGoole"	"FromCrofton toShaft–holme"
+""	"FromShaftholme toCrofton"	–	4	4	4	"Noconflict"	"Noconflict"	"Noconflict"	"Noconflict"
+""	"From Shaft-holme toFerrybridge"	4	–	4	4	"Noconflict"	"Noconflict"	4	4
+""	"From Gooleto Crofton"	4	4	–	4	"Noconflict"	4	"Noconflict"	4
+""	"From Gooleto Ferrybridge"	4	4	4	–	"Noconflict"	4	4	4
+""	"From Ferry-bridge toGoole"	"Noconflict"	"Noconflict"	"Noconflict"	"Noconflict"	–	4	4	3
+""	"FromFerrybridge toShaftholme"	"Noconflict"	"Noconflict"	3	3	4	–	3	3
+""	"FromCrofton toGoole"	"Noconflict"	3	"Noconflict"	3	4	3	–	4
+""	"FromCrofton toShaftholme"	"Noconflict"	3	3	3	3	4	4	–
+""									
+""	"Operating Restriction•Knottingley West Junction must be clear before train is allowed to depart Ferrybridge Signal 6624 forenvironmental reasons.  This does not apply to those trains worked by Class 59, 60 or 66 locomotives"								
+""	Knottingley	
+""	Minimum Turnround	"5 minutes for trains from Leeds or Wakefield.  When required ECS can run viaEngland Lane and UGL"
+""	Knottingley East Junction (England Lane)		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Freight trains from Knottingley TMD orKnottingley South Junction.After Knottingley East Jn"	Differential junction speed	3
+""			

@@ -1,0 +1,33 @@
+Inverness	
+""	
+Refer to SC203 for margins towards the north	
+""	
+Dwell Time	
+MU	"5 Local through service10 Through service from Edinburgh or Glasgow"
+""	
+"Operating NoteA 2-Car ECS DMU (maximum) can reverse in Platform 5, running Millburn Jn – Inverness – Dingwall but NOTvice-versa."	
+SC195 ABERDEEN TO INVERNESS		
+""		
+Berryden Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Aberdeen	Pass to Aberdeen	5
+Kittybrewster Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Arrival Line	Depart Dyce	Same Time
+Arrive Arrival Line	Pass Dyce	1
+""		
+"NoteMethod of WorkingOne train working beyond Kittybrewster Junction to Waterloo Goods.  For trains towards Waterloo Goods thefollowing method of working applies:Trains arrives Kittybrewster Junction Arrival Line; Locomotive run round takes place via Rounding Line andattaches to south end.  20 minutes to be allowed for this movement, then train departs to Waterloo Goods.For trains exiting Waterloo Goods the following method of working applies:Trains arrives Kittybrewster Junction Arrival Line; Locomotive run round takes place via Rounding Line and attachesto south end. 20 minutes to be allowed for this movement, then train departs to Berryden Junction."		
+Dyce	
+""	
+Dwell Time	1 (1⁄2 if originating at or terminating at Inverurie, unless LH)
+Raith’s Farm Junction		
+""		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Dyce	Depart Dyce	1
+Pass to Raith’s Farm	Depart Raith’s Farm	10

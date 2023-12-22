@@ -1,0 +1,38 @@
+Sunnyside Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down depart Coatbridge Sunnyside	Pass towards Whifflet	31⁄2
+Pass from Whifflet	Pass towards Whifflet	31⁄2
+Blairhill
+""
+"RestrictionsPathing time must not be used between Blairhill and Easterhouse, due to there being no intermediate signals."
+Garrowhill
+""
+"RestrictionsPathing time must not be used between Garrowhill and Easterhouse and vice versa, due to there being nointermediate signals."
+Shettleston		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Up trains from Carntyne to Loop betweenBellgrove/Carntyne and Shettleston"	Approach control	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass/depart	Up pass to Loop	2
+Up pass to Loop	Down Arrive	3
+Up pass to Loop	Down non-stop passes	31⁄2
+Down arrive/pass	Up depart Loop	1⁄2
+Up depart Loop	Down arrive	4
+Up depart Loop	Down pass	5
+Up arrive Loop	Up depart Carntyne	Same time
+Down depart Carntyne	Down depart Loop to Shettleston station	1⁄2
+Down depart Carntyne	Down depart Loop passing Shettleston station	4
+""		
+"RestrictionsPathing time must not be used between Shettleston and Carntyne in the down direction, due to there being nointermediate signals."		
+Bellgrove		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart/pass to Springburn	Arrive/Pass from Springburn	4
+Depart/pass to Carntyne	Arrive/Pass from Duke Street	21⁄2
+Depart/pass to Carntyne	"Pass from Springburn, not stopping DukeStreet"	31⁄2

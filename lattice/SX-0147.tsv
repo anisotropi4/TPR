@@ -1,0 +1,43 @@
+Dorking			
+""			
+Down Passenger Loop (Platform 3)	38 SLU / 244m		
+""			
+Location	Cars		
+Siding	10		
+""			
+Connectional Allowances			
+All Services	4		
+""			
+Permissive Working			
+Attaching/Detaching and Platform Sharing is authorised as shown below -			
+Platform 1	Up Main	(Up Direction)	Attaching Only
+Platform 2	Down Main	(Both Directions)	Attaching/Detaching
+Platform 3	Down Passenger Loop	(Both Directions)	Attaching/Detaching and Platform Sharing
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Reason	Margin
+Up train arriving into Platform 1	Up train departing Platform 2	Overlap on 21/22A points	2
+Up train departing Platform 2	Up train arriving into Platform 1	Overlap on 21/22A points	2
+""			
+Warnham		
+""		
+Overlap Restrictions		
+First Movement	Second Movement	Margin
+"Train reversing at Signal T837 on the DownMain arrives at Field Sidings"	"Following movement departs Warnhamtowards Horsham"	21⁄2
+"Train reversing at Signal T837 on the DownMain departs towards Horsham"	"Following movement departs Warnhamtowards Horsham"	3
+Horsham Field Sidings		
+""		
+Acceptance of trains		
+First Movement	Second Movement	Margin
+Train arrives Field Sidings	Train departs Horsham towards Warnham	Same time
+""		
+Berthing Facilities		
+Siding	Cars*	Notes
+Field Siding No 13-18	12	"1 x 12 car or 1 x 8 car and CET facility persiding"
+""		
+* Assumed to be Class 700 stock		
+""		
+Margins between arrivals and departures		
+First Movement	Second Movement	Margin
+"Train arrives at Field Sidings fromSignal 1401 or T837"	"Train departs from Field Sidings to Signal 1401 orT837"	1
+"Train arrives at either Signal 1401 orT837 from Field Sidings"	"Train departs from the alternative Signal to the FirstMovement towards Field Sidings"	1

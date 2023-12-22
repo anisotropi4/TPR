@@ -1,0 +1,32 @@
+Eastleigh			
+Between all movements except as below		3	
+Passenger train arrives/passes Eastleigh	Conflicting departure	1	
+Down or Up Main Line train	Train crossing from Romsey Line	2	
+Down Fast train	"Up departure from Platform 2 or 3 to Up FastLine"	1	
+Up arrival in Platform 3	Departure towards Portsmouth from Platform 2	2	
+"Down arrival from Eastleigh East Junction intoJubilee through siding (via points 440) or Updeparture from Jubilee through siding (viapoints 440) to Eastleigh East Junction"	Movements at the east end of Station	4	
+"Up Train departing Platform 2/3 towardsEastleigh East Yard on Down Slow"	"Down arrival from Winchester into Platform 2/3from Down Slow"	9	
+"Down freight passes/departs platform 2/3towards St. Denys"	"Conflicting down train passes/arrives atEastleigh"	4*	
+"Down freight passes/departs Platform 2/3towards St. Denys"	Up train arrives at Platform 2/3	41⁄2*	
+Up freight departs Platform 1	Up train arrives or passes Platform 1	4*	
+Up freight departs Platform 1 towards Shawford	Train arrives or passes from Chandlers Ford	41⁄2*	
+"Down passenger train passes/departs Platform2/3 towards St. Denys"	"Conflicting Down train departs Eastleigh EastYard towards Platform 2/3"	2	
+"Down freight passes/departs Platform 2/3towards St. Denys"	"Conflicting Down train departs Eastleigh EastYard towards Platform 2/3"	3*	
+"Down train passes/departs Platform 2/3towards Eastleigh South Junction/EastleighTMD/Eastleigh Works"	"Conflicting Down train departs Eastleigh EastYard towards Platform 2/3"	2	
+"Down train arrives at Platform 2 from DownSlow"	"Down train departs Eastleigh East Yard towardsPlatform 3"	1	
+Down train arrives at Platform 3	"Down train departs Eastleigh East Yard towardsPlatform 2"	1	
+"Train departs Platform 2/3 towards UpFast/Down Salisbury"	"Conflicting Down train departs Eastleigh EastYard towards Platform 2/3"	2	
+"Train passes/departs Platform 2/3 towardsDown Salisbury"	Up train departs Platform 1 towards Shawford	2	
+* Increase margin by 1⁄2 minute if first train longer than 97 SLU / 620m.			
+""			
+Limit of Shunt			
+""	Length Limit		
+Up Platform (clear of E93)	12 cars / 10  444		
+""			
+Permissive Working			
+Attaching/Detaching and Platform Sharing is authorised as shown below -			
+Platform 1	Up Slow		Prohibited
+Platform 2	Down Slow	(Both Directions)	Attaching/Detaching and Platform Sharing
+Platform 3	Portsmouth Loop	(Both Directions)	Attaching/Detaching and Platform Sharing
+""			
+Overlap Restrictions			

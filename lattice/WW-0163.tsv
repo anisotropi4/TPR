@@ -1,0 +1,30 @@
+"Entry into Down Goods Loop from Didcotdirection"	Approach control	All traffic	{1}
+From Up Oxford towards Cowley	Approach control	All traffic	{1}
+""			
+Adjustments to Sectional Running Times (allowance to be shown after this location)			
+Movement	Reason	Timing Load	Value
+From Kennington Up Goods Loop	Accleration	"Class 6 freight600-800t / TR40"	{1⁄2}
+""		"Class 6 freight1000t / TR55"	{1}
+""		"Class 6 freight1200t / TR70"	{11⁄2}
+""		"Class 6 freight1400-1600t /TR85"	{2}
+""		"Class 6 freight1800-2000t /TR100/115"	{21⁄2}
+""		"Class 6 freight2200t"	{3}
+""		"Class 6 freight2400t / TR130"	{31⁄2}
+""		"Class 4 freight400t"	{1⁄2}
+""		"Class 4 freight600t"	{1}
+""		"Class 4 freight800t"	{11⁄2}
+""		"Class 4 freight1000-1600t"	{2}
+From Cowley to Down or Up Oxford	Acceleration	All traffic	{1}
+Hinksey North Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+"Pass from Kennington Jn on Down Oxfordto Up Oxford or Up Oxford Relief"	Approach Control	All	{1}
+"Pass Oxford to Hinksey Reception Lines orHinksey Yard"	Approach Control	All	"{1⁄2} and also {1⁄2}approachingOxford"
+"From Hinksey Reception Lines or Hinkseyyard passing Oxford"	Acceleration	All	"{1⁄2} approachingOxford and {1⁄2}after Oxford"
+""	Oxford			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	"Up train from Oxford North Jn passing platform 3from Wolvercote Jn on Up Oxford"	Junction differential	All	{1⁄2}
+""	"Down train from Hinksey North Jn passingPlatform 4 from Down Oxford"	Junction differential	All Traffic	{1⁄2}

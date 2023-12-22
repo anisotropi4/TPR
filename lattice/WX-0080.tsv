@@ -1,0 +1,36 @@
+SW100 LONDON WATERLOO TO CLAPHAM JUNCTION	
+"Down train using ladder at West Crossings to crossfrom the Windsor Reversible"	Down train depart Waterloo via Up Windsor
+"Down train weaving from Up Main Relief to DownWindsor Fast at West Crossings"	"Up or Down train running straight along Up Windsor at WestCrossings"
+"Down train departing Waterloo via Down Windsortowards Down Windsor Slow(N.B. There is no restriction if train is routedtowards Down Windsor Fast)"	Down train departing Waterloo via Up Main Relief
+"Down train routed past West Crossings that hasapproached via Windsor Reversible (i.e. has aproceed aspect at W49)"	Down train depart Waterloo via Up Windsor (towards W57)
+"Down train routed past West Crossings that hasapproached via Up Windsor (i.e. has a proceedaspect at W57)"	"Down train depart Waterloo via Down Windsor (towardsW55)"
+""	
+Train Length Restrictions	
+"Maximum standage at final signals approaching Waterloo whilst still allowing trains to be routed over WestCrossings in rear (N.B. longer trains than stated below may be stood but will foul West Crossings)"	
+Line	Maximum standage to be clear of West Crossings
+UMS (Signal W2)	234 metres (10-car)
+UMF (Signal W4)	"176 metres (8-car 450 – however can stand a 12-car 450 and allow route forfollowing train to Up Main Relief)"
+UMR (Signal W6)	"150 metres (5-car 444/458/707- however can stand a 12-car 450 and allow route forfollowing train to MFL)"
+UW (Signal W10)	97 metres (4-car 450/455)
+RVL (Signal W8)	97 metres (4-car 450/455)
+WR1 (Signal W906)	Cannot stand at this signal – route must be set into platform
+WR2 (Signal W908)	"5-car to be clear of International Junction, if 10-car from Up Windsor then fouls bothUp Windsor and Windsor Reversible"
+Waterloo West Crossings		
+""		
+Adjustment to Sectional Running Times		
+"Trains weaving between different running lines at Waterloo West Crossings do not require the standard {1⁄2} as it isalready included in the SRT."		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all conflicting movements		2
+""		
+Simultaneous Moves Not Permitted		
+Up train on RVL weaving to UW at West Crossings	Down train on DW passing West Crossings	
+Please also refer to Simultaneous Moves Not Permitted section under London Waterloo entry above		
+Vauxhall		
+""		
+Dwell Times		
+All Services	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin

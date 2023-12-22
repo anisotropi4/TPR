@@ -1,0 +1,43 @@
+SC141 CRAIGENDOREN JN TO FORT WILLIAM				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+"Craigendoran WHLLoop (CL)"	Crossing Point	275	43	
+Garelochhead (CL)	Crossing Point	238	37	
+Glen Douglas (CL)	Crossing Point	210	32	
+"Arrochar & Tarbert(CL)"	Crossing Point	227	35	
+Ardlui (CL)	Crossing Point	174	27	
+Crainlarich (CL)	Crossing Point	212	33	
+Upper Tyndrum (CL)	Crossing Point	190	29	
+Bridge of Orchey (CL)	Crossing Point	209	32	
+Rannoch (CL)	Crossing Point	171	26	
+Tulloch (CL)	Crossing Point	235	37	
+Spean Bridge (CL)	Crossing Point	285	44	
+SC143 CRIANLARICH TO OBAN				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+Dalmally (CL)	Crossing Point	197	30	
+Taynuilt (CL)	Crossing Point	229	35	
+SC145 FORT WILLIAM to MALLAIG				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+Fort William Jn (CL)	Crossing Point	260	41	
+"Inverlochy YardSiding 1Siding 2/3"		"155109"	"2417"	
+Glenfinnan (CL)	Crossing Point	139	21	
+Arisaig (CL)	Crossing Point	180	28	
+SC147 BERWICK TO EDINBURGH				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+Grantshouse UPL	Up	580	91	
+Grantshouse DPL	Down	647	101	
+"Dunbar PL (Platform1)"	Up	390	61	
+Drem UPL	Up	400	63	
+Drem DPL	Down	470	74	
+Prestonpans UPL	Up	365	57	
+SC171 EDINBURGH TO DUNDEE (VIA KIRKCALDY)				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+Dalmeny UPL	Up	285	45	
+Dalmeny DPL	Down	270	42	
+Inverkeithing UPL	Up	390	61	
+Thornton UPL	Up	410	64	
+Thornton DPL	Down	365	57	

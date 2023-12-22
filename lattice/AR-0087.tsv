@@ -1,0 +1,28 @@
+Stratford		
+""		
+Connectional Allowance	7	
+""		
+Junction Margins for Stratford Central Junction		
+Movements and Conflicting Moves		Margin
+Passenger Following Passenger		2
+Passenger Following Freight	Standard (exceptions below)	3
+Up Freight Pass Platform 10 to Channelsea Jn	Down Passenger Arrive Platform 10	31⁄2
+Up Freight Pass Platform 10 to Channelsea Jn	Up Passenger Arrive Platform 9	21⁄2
+Freight following Freight	Standard (exceptions below)	4
+"Up Freight Pass Platform 10A to ChannelseaJn"	"Down Freight Pass Platform 10A fromChannelsea Jn"	4
+Freight Following Passenger	Standard (exceptions below)	3
+Down Passenger Depart Platform 10	Up Freight Pass Platform 10 to Channelsea Jn	21⁄2
+Down Passenger Depart Platform 10	Down Freight Depart Stratford Signal L295	11⁄2
+Up Passenger Pass from Orient Way	Up Freight Pass Platform 10 to Channelsea Jn	11⁄2
+Up Passenger Pass from Orient Way	"Down Freight Pass Platform 10A fromChannelsea Jn"	31⁄2
+Down Passenger Pass to Orient Way	"Down Freight Pass Platform 10A fromChannelsea Jn"	21⁄2
+Down Passenger Pass to Orient Way	Up Freight Pass Platform 10 to Channelsea Jn	1
+"Down Passenger Pass/Arrive Platform 10Afrom Liverpool Street"	Up Freight Pass Platform 10 to Channelsea Jn	1
+"Up Passenger Depart Platform 10A toLiverpool Street"	"Down Freight Pass Platform 10A fromChannelsea Jn"	3
+""		
+Platform Reoccupation		
+First Movement	Second Movement	Margin
+Platform 11		
+Trains towards Liverpool Street	Trains towards Temple Mills East Jn	3
+Platform 12		
+Trains towards Liverpool Street	"Trains towards Temple Mills East Jn, applicableto trains from Liverpool Street"	6

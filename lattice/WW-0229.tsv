@@ -1,0 +1,21 @@
+""	GW900 PILNING TO FISHGUARD HARBOUR			
+""				
+""	"From Patchway to Pilning Down Loop Passto Pass or Stop"	"Slow speed turnout intothe loop (40mph) andapproach control"	All traffic	{1}
+""	"From Severn Tunnel East to Pilning UpLoop Pass to Pass or Stop"	"Slow speed turnout intothe loop (20 mph)"	All traffic	{11⁄2}
+""				
+""	Note: Refer to section 4.3 regarding freight movements through the Severn Tunnel			
+""	Severn Tunnel West			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	From Severn Tunnel Up Loop	"low speed turnout15mph)"	All Traffic	"{2} Approaching nexttiming point"
+""	Severn Tunnel Junction			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	"Pass to Severn Tunnel Junction Up GoodsLoop"	"Slow speed turnout atloop entry (25 mph) andapproach control"	All traffic	{11⁄2}
+""	Pass Up Main to Up Tunnel via platform 3	"Slow speed turnout(40mph) and approachcontrol"	All traffic	"{1}*{1⁄2} Approachingnext timing point"
+""	*Not to apply to services reversing behind NT1730			
+""				
+""	Dwell Time			
+""	DMU/EMU	1		

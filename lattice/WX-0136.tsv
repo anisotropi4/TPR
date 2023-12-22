@@ -1,0 +1,35 @@
+Farlington Junction
+""
+See also entry under route – SW110
+SW145 NORTHAM JUNCTION TO SOUTHAMPTON EASTERN DOCKS
+""
+Northam Junction
+""
+See entry under route – SW105
+Southampton Eastern Docks
+""
+Acceptance of Trains
+Trains can enter when the departing train has cleared Northam Junction
+Arriving train cannot depart Northam Junction until it has been accepted by a shunter
+""
+Freight Length Restrictions
+Freight Length Restriction is 104 SLUs
+SW150 REDBRIDGE JUNCTION TO SALISBURY TUNNEL JUNCTION
+""
+Redbridge
+""
+See entry under route – SW105
+Romsey		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Non-Stop Freight from Deantowards Redbridge"	Approach Control	{11⁄2}*
+"Non-Stop Passenger from Deantowards Redbridge"	Approach Control	{1}*
+* Adjustment shown approaching Romsey		
+""		
+Dwell Times		
+Class 158 DMU	1	
+Class 159 DMU	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin

@@ -1,0 +1,35 @@
+Skelton Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Class 15x, 170, 195 pass Skelton Junctionfrom Tollerton"	Faster route	"-1⁄2approachingYork"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"All conflicting marginsExcept:"		3
+Pass to Harrogate	Pass from Harrogate	4
+Pass to Harrogate	Depart Skelton Junction (signal Y262)	1
+Pass from Harrogate	Pass Down Slow	31⁄2
+Pass Up Fast	Pass/Depart from Harrogate	21⁄2
+Depart from Harrogate Line	Pass Down Slow	4
+Pass Down Fast	Depart from Harrogate Line	1
+Pass Down Slow	Depart from Harrogate Line	11⁄2
+Pass Up Slow	Depart from Harrogate Line	11⁄2
+Depart from Harrogate Line	Pass Up Slow	31⁄2
+Skelton Bridge Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Passenger pass to Down Slow	Down train Pass Skelton Junction	11⁄2
+Down Freight pass to Down Slow	Down train Pass Skelton Junction	2
+Up Freight pass to Up Slow	Up train on Up Fast pass Skelton Junction	4
+Up Freight pass to Up Slow	"Up Freight (75mph) on Up fast pass SkeltonJunction"	5
+Up Freight pass to Up Slow	"Up Freight (60mph) on Up fast pass SkeltonJunction"	6
+Up Fast Line train passes Skelton Junction	Up Freight pass to Up Slow	21⁄2
+Up Fast Line train passes Skelton Junction	Up Freight depart to Up Slow	1
+Up Freight pass to Up Slow	Down train Pass Skelton Junction	2
+Down Fast Passenger passes Skelton Junction	Freight Pass to Up Slow	41⁄2
+Down Fast Passenger Passes Skelton Junction	Freight Departs to Up Slow	11⁄2
+"Down Fast Freight (75mph) passes SkeltonJunction"	Freight Pass to Up Slow	5
+"Down Fast Freight (60mph) passes SkeltonJunction"	Freight Pass to Up Slow	6
+Down Fast Freight passes Skelton Junction	Freight Departs to Up Slow	21⁄2

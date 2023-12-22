@@ -1,0 +1,32 @@
+EA1162 ELY NORTH JUNCTION TO KING’S LYNN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Watlington Signal MR2	-		S	"Trains to be held at Watlington Signal MR2instead of Watlington if dwell longer than oneminute is required for pathing purposes. This isdue to level crossing risk at Watlington"
+Watlington	-	-		Platform detail must be shown
+King’s Lynn Signal KL45	-			Timing point for all trains in the Down direction
+"King’s Lynn HarbourJunction"				
+King’s Lynn Signal KL36		-		Timing point for all trains in the Up direction
+King’s Lynn Signal KL43	-	-	S	"Reversing point for trains shunting betweenplatforms / sidings at King’s Lynn withoutfouling access to the Stabling Siding orTennyson Avenue Level Crossing"
+King’s Lynn Stabling Siding	-		S	Tiploc – KLYNNSS
+King’s Lynn Junction	-	-		To/from Middleton Towers – EA1270
+King’s Lynn T.C.	-	-	F	Only trains to/from T.C.
+King’s Lynn C.S.	-	-	S	Only trains to/from C.S.
+King’s Lynn	-	-		Platform detail must be shown
+EA1170 HACKNEY DOWNS NORTH JUNCTION TO ENFIELD TOWN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+"Hackney Downs NorthJunction"				To/from Hackney Downs – EA1160
+Rectory Road	-	-	S	
+Stoke Newington	-	-	S	
+Stamford Hill	-	-	S	
+Seven Sisters Signal L5511	-	-	S	For trains required to reverse
+Seven Sisters Junction				
+Seven Sisters	-	-		
+Bruce Grove	-	-	S	
+White Hart Lane	-	-	S	
+Silver Street	-	-	S	
+Edmonton Green	-	-	S	
+Bury Street Junction	-	-		To/from Cheshunt Junction – EA1190
+Bush Hill Park	-	-	S	
+Enfield Town Signal L5531	DED		S	"Timing entry for Signal L5531 – Reversal pointfor trains to shunt between platforms at EnfieldTown. Line code for Up direction not requiredas signal faces in down direction."
+Enfield Town	-	-		Platform detail must be shown

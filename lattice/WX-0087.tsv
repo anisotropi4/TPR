@@ -1,0 +1,46 @@
+Weybridge		
+Up trains crossing Slow Line to Fast Line	Speed Differential	{1}
+"Down Slow Line trains towards AddlestoneJunction passing Weybridge"	Speed Differential	{1}
+"Up Slow Line trains from Addlestone Junctionpassing Weybridge"	Speed Differential	{1⁄2}*
+* This allowance should appear in the section from Weybridge		
+""		
+Connectional Allowances		
+All Services	5	
+""		
+Dwell Times		
+Class 450	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		3
+Up Fast or Up Slow line train	"Depart Down Slow Platform towardsAddlestone"	1
+""		
+Permissive Working		
+Attaching/Detaching and Platform Sharing is authorised as shown below -		
+Platform 1	Up Bay	Attaching/Detaching *
+Platform 2	Up Slow	Prohibited
+Platform 3	Down Slow	Prohibited
+* In normal circumstances a second train is prohibited from entering this Platform if it will not attach to the first train		
+Byfleet and New Haw					
+""					
+Adjustment to Sectional Running Times					
+"SL ONLY in the Down Direction between Byfleet and Woking for trains that have passed throughAddlestone Junction. Adjustment allowances should be applied at the next timing point after Byfleet &New Haw."					
+Train Class	Trailing Load	Reason		Value	
+Class 6	801 – 1000t	TR55	Speed Differential		{1⁄2}
+""	1001 – 1400t	TR70	Speed Differential		{1}
+""	1401 – 2000t	TR85 – TR115	Speed Differential		{11⁄2}
+""	2001 – 2400t	TR130 +	Speed Differential		{2}
+Class 4	Under 400t	TR20	Speed Differential		{1}
+401 – 600t	TR30	Speed Differential		{11⁄2}	
+601 – 800t	TR40	Speed Differential		{2}	
+801 – 1400t	TR50 – TR80	Speed Differential		{21⁄2}	
+1401 – 1600t	TR90	Speed Differential		{3}	
+""					
+SL ONLY in the Up Direction between Woking and Byfleet for trains passing towards Addlestone Junction					
+Movement	Reason		Value		
+"Up Freight Trains on SL travelling towardsAddlestone Junction"	Speed differential		{11⁄2}		
+"Up trains crossing from FL towards SL or Addlestone Junction do not require the standard {1⁄2} as it is alreadyincluded in the SRT’s."					
+""					
+Junction Margins					
+First Movement	Second Movement		Margin		
+Down freight from Addlestone Junction	Down Slow train from Weybridge		3		

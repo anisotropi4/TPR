@@ -1,0 +1,30 @@
+EA1220 STANSTED SOUTH & NORTH JUNCTIONS TO STANSTED AIRPORT				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Stansted East Junction	-	-		
+Tye Green Junction	-	-		
+Coopers Lane Junction	- DL	-		"Line code DL to be shown for trains routed viaSignal L1143 & the Departure Line.Default line code (-) needs to be shown fortrains routed via Signal L1201 & the Arrival Lineas AL is the default for ARS."
+"Stansted Airport SignalL1201"	-	-	S	
+"Stansted Airport SignalL1143"	-		S	
+Stansted Airport	-	- AL		"Platform detail must be shown.Line code AL to be shown for trains routed viathe Arrival Line.Default line code (-) needs to be shown fortrains routed via the Departure Line as DL isthe default for ARS."
+EA1230 ROYSTON TO SHEPRETH BRANCH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Royston	-	-		"To/from Hitchin – Refer to LNE TimetablePlanning Rules – LN125"
+Meldreth	-	-	S	
+Shepreth	-	-	S	
+Foxton Exchange Sidings	-	-	F	"Leading to Barrington terminal including runround and loading/unloading padFoxton Exchange SidingsTiplocs – FOXTGBF, FOXTRC, FOXTDCR,FOXTFHHBarringtonTiplocs – FOXTBAR, FOXTBRR, FOXTBUG,FOXTBUP, FOXTRRG"
+Foxton Signal CA553	-		S	
+Foxton	-	-		
+Shepreth Branch Junction	-	-		To/from Cambridge – EA1161
+EA1270 KING’S LYNN JUNCTION TO MIDDLETON TOWERS				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+King’s Lynn Junction				To/from King’s Lynn T.C. – EA1162
+Middleton Towers	-	-	F	
+EA1280 STRATFORD CENTRAL JUNCTION TO COPPERMILL JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+"Stratford Central JunctionWest"				"To/from Liverpool Street – EA1010To/from Channelsea South Junction – EA1150"
+Stratford	-	"BLDBL"		Platform detail must be shown
+Temple Mills East Junction	-	-		To/from High Meads Junction – EA1350

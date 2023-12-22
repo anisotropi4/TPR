@@ -1,0 +1,30 @@
+""	"SO400 LONDON ST PANCRAS INTERNATIONAL TO HIGH SPEED 1/ETBOUNDARY"				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Line codes on SO400 apply forward from the timing point against which they are shown				
+""	Ashford West Junction	"DNCUPC"	"DNCUPC"		"CTRL TIPLOC to be usedTo/from Ashford International – SO470"
+""	Ashford East Junction	"DNCUPC"	"DNCUPC"		"CTRL TIPLOC to be usedTo/from Ashford International – SO480"
+""	Westenhanger Crossover	"DNCUPC"	"DNCUPC"		
+""					
+""	Dollands Moor West Junction	-	-		To/from Dollands Moor Sidings – SO490
+""	HS1/ET Boundary		-		
+""	SO410A REGENTS CANAL JUNCTION TO YORK WAY NORTH JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Line codes on SO410A apply forward from the timing point against which they are shown				
+""	Regents Canal Junction	-	-		"To/from London St Pancras International –SO400"
+""	Silo Curve Junction	-	-		To/from Cedar Junction – SO420
+""	York Way North Junction	-	PCO		"To/from Copenhagen Junction –Refer toLondon North Eastern Timetable PlanningRules – LN101"
+""	SO410B REGENTS CANAL JUNCTION TO CEDAR JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Regents Canal Junction				"To/from London St Pancras International –SO400"
+""	Cedar Junction				"To/from Camden Road Incline Junction –SO420"
+""	SO420 YORK WAY SOUTH JUNCTION TO CAMDEN ROAD INCLINE JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Line codes on SO420 apply forward from the timing point against which they are shown				
+""	York Way South Junction	DNC	"PRLUPCDNCNLC"		"To/from Stratford International WestJunction - SO400"
+""	Signal AF41		-	S	"All trains from North London Line to CTRLmust stop."
+""	Cedar Junction	-	-		To/from - Silo Curve Junction – SO410A
+""	Camden Road Incline Junction	-	-		"To/from Camden Road Central Junction –Refer to East Anglia Timetable PlanningRules - EA1320"

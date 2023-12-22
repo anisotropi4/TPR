@@ -1,0 +1,40 @@
+""	Bushbury Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Trains that have passed from Portobello Jn on the Down Grand Junction towards Penkridge not via DownBushbury Goods Loop (applies at next timing point after Bushbury Jn)"		
+""	Light engine(s)	Differential Junction Speed	1⁄2
+""	Class 6 up to 400t (inclusive)	Differential Junction Speed	1⁄2
+""	Class 6 600t (inclusive) to 1200t (inclusive)	Differential Junction Speed	1
+""	Class 6 1400t (inclusive) to 1800t (inclusive)	Differential Junction Speed	11⁄2
+""	Class 6 over 2000t	Differential Junction Speed	2
+""	Class 4 up to 400t	Differential Junction Speed	1⁄2
+""	Class 4 600t	Differential Junction Speed	1
+""	Class 4 800t (inclusive) to 1000t (inclusive)	Differential Junction Speed	11⁄2
+""	Class 4 over 1200t	Differential Junction Speed	2
+""	Class 22x (CrossCountry)	Differential Junction Speed	1
+""	All other timing loads	Differential Junction Speed	2
+""			
+""	Movement Up	Reason	Value
+""	"Trains that are routed towards Portobello Jn onthe Up Grand Junction"	"Differential Junction Speed and ApproachControl"	11⁄2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Value
+""	Standard junction margins apply except:		
+""	"Train pass Bushbury Jn to/fromWolverhampton North Jn"	"Train depart SB4695 signal on the Down GrandJn towards Bushbury Jn"	1*
+""	"Train pass Bushbury Jn to/fromWolverhampton North Jn"	"Train pass Bushbury Jn from the Down GrandJn"	2*
+""	* The normal headway applies at the next mandatory timing point – see section 5.2		
+""			
+""	Planning Restrictions		
+""	"Trains on the Down Grand Jn over 382 metres/60SLU should not be planned to stop at Bushbury Jn because itwill stand foul of Fowlers Park Foot Path Crossing. Any train over that length that is required to stop should betimed to do so at SB4695 Signal.Due to this no pathing allowance should be inserted between SB4695 signal and Bushbury Jn."		
+""	MD306 BIRMINGHAM NEW STREET TO ASHCHURCH (EXCLUSIVE)
+""	
+""	Birmingham New Street
+""	See entry under route MD301 Rugby Trent Valley Jn to Penkridge (via Birmingham)
+""	Five Ways	
+""		
+""	Dwell Time	1
+""	University	
+""		
+""	Dwell Time	1
+""		

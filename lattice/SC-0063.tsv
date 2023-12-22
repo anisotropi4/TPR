@@ -1,0 +1,23 @@
+SC001 GRETNA JUNCTION TO GLASGOW CENTRAL (VIA BEATTOCK)			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Gretna Junction – Carstairs	4	4	
+Carstairs – Law Junction	3	3	
+"Law Junction – UddingstonJunction"	21⁄2*	3	"* for Motherwell values, please refer to section 5.3Junction Margins and Station Planning Rules"
+"Uddingston Junction – RutherglenEast Junction"	"21⁄23"	"21⁄23"	"Following non stop trainFollowing train which stops at Cambuslang and/orDMU timed at 75mph or less."
+"Rutherglen East Junction –Eglinton Street Junction"	21⁄2	21⁄2	
+"Eglinton Street Junction –Glasgow Central"	2	2	
+SC003 CARSTAIRS SOUTH JUNCTION TO HAYMARKET EAST JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Carstairs South Junction –Carstairs East Junction"	4	4	
+"Carstairs East Junction –Auchengray"	AB+2*	AB+2*	"* Plan as Absolute Block section due to two aspectsignalling."
+"Auchengray – Cobbinshaw EJ713(Down) and Cobbinshaw EJ712(Up)"	AB+2*	AB+2*	"* Plan as Absolute Block section due to two aspectsignalling."
+"Cobbinshaw EJ713 (Down) andCobbinshaw EJ712 (Up) –Midcalder Junction"	AB+2*	AB+2*	"* Plan as Absolute Block section due to two aspectsignalling."
+Midcalder Junction – Slateford	4 *	5 # $ ^	"* Can be reduced to 3 at Midcalder Junction whenthe 1st train isn’t booked to call at Kirknewton andthe 2nd train is booked to call at Kirknewton.# Can be reduced to 3 at Midcalder Junction whenthe 1st train is routed to Livingston South and the 2ndtrain is routed to Auchengray.$ Can be reduced to 4 at Slateford when the 1st trainis a non stop train timed to run at 95mph (maximumpermitted linespeed) and the 2nd train is routed fromCraiglockhart Junction.^ Must be increased to 71⁄2 when first train stops atWester Hailes and Curriehill."
+Slateford – Haymarket	21⁄2	21⁄2*	*See margins
+SC007 MIDCALDER JUNCTION TO HOLYTOWN JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Midcalder Junction – Shotts	"34"	"341⁄2"	"Following non-stop trainFollowing stopping train"
+Shotts-Holytown Junction	"31⁄251⁄2"	"341⁄2"	"Following non-stop trainFollowing stopping train"

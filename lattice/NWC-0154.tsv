@@ -1,0 +1,31 @@
+""	NW4033 CARNFORTH NORTH JN TO CARLISLE (VIA BARROW–IN–FURNESS)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Arnside to Grange-over-Sands	AB+2	AB+2	"When Grange-over-Sands SB is switched out, thesection becomes Arnside to Ulverston. See section2.2 for details of when Grange-over-Sands SB isswitched out"
+""	Grange-over-Sands to Ulverston	AB+2	AB+2	
+""	Ulverston to Dalton Jn	AB+2	AB+2	"When Dalton Jn SB is switched out, the sectionbecomes Ulverston to Barrow-in-Furness. Seesection 2.2 for details of when Dalton Jn SB isswitched out"
+""	Dalton Jn to Barrow-in-Furness	AB+2	AB+2	
+""	"Barrow–in–Furness to Park SouthJn"	Single Line	"Tokenless block appliesSingle lead at Park South Jn"	
+""	Park South Jn to Askam	AB+2	AB+2	
+""	Askam to Foxfield	AB+2	AB+2	
+""	Foxfield to Millom	AB+2	AB+2	
+""	Millom to Silecroft	AB+2	AB+2	
+""	Silecroft to Bootle	AB+2	AB+2	
+""	Bootle to Drigg	AB+2	AB+2	
+""	Drigg to Sellafield	AB+2	AB+2	
+""	Sellafield to St. Bees	AB+2	AB+2	"ETBSingle Line Sellafield to St. Bees with passing loopat St. Bees"
+""	St. Bees to Whitehaven	AB+2	AB+2	"ETBSingle Line St. Bees to Whitehaven with passingloop at St. Bees"
+""	Whitehaven to Parton	AB+2	AB+2	
+""	Parton to Workington	AB+2	AB+2	Single Line Parton South Jn to Parton North Jn
+""	Workington to Maryport	AB+2	AB+2	
+""	Maryport to Wigton	AB+2	AB+2	
+""	Wigton to Carlisle South Jn	4	4	
+""	NW4041 DALTON JN TO PARK SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Dalton Jn to Park South Jn	AB+2	AB+2	
+""	NW5001 CREWE NORTH JN TO MANCHESTER PICCADILLY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Crewe to Ardwick Jn	3	3	"See also section 5.3 – Junction Margins & StationPlanning Rules for exceptions applicable atAdswood Road Jn and Slade Lane Jn"
+""	"Ardwick Jn to ManchesterPiccadilly"	"3 Fast3 Slow2 East"	"3 Fast3 Slow *2 East"	"* The headway can be reduced to 21⁄2 minuteswhere the first movement departs Platform 13 to UpSlow, followed by a departure from any of Platforms3 to 12 to Up Slow"

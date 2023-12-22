@@ -1,0 +1,39 @@
+Birtley Junction		
+First Movement	Second Movement	Margin
+Pass to SL/Arrival Line (Passenger)	Down Pass	31⁄2
+Pass to SL/Arrival Line (Freight)	Down Pass	4*
+Pass from SL/Arrival Line	Down Pass	4*
+Down Pass	Pass from SL/Arrival Line	3
+Down Pass	Depart from SL/Arrival Line	1
+Depart from SL/Arrival Line	Down Pass	41⁄2*
+Up Pass	Pass from SL/Arrival Line	3
+Pass from SL/Arrival Line	Pass to SL/Arrival Line	31⁄2*
+Pass to Arrival Line	Pass from SL	4*
+Pass to SL	Pass from Arrival line	31⁄2*
+* If the first train is longer than 600m in length then margin is increased by 1⁄2		
+Low Fell Junction		
+""		
+Junction Margins		
+First movement	Second Movement	Margin
+Pass to SL/GL (Passenger)	"Up Passes King Edward BridgeSouth"	Same Time
+Pass to SL/GL (Freight)	"Up Passes King Edward BridgeSouth"	1
+Pass to SL/GL (Passenger)	Down passes Birtley Junction	1
+Pass to SL/GL (Freight)	Down Passes Birtley Junction	11⁄2
+"Down Passes King Edward BridgeSouth"	Pass from SL/GL	Same Time
+"Down Train Passes King EdwardBridge South Junction"	Pass to SL/GL	11⁄2
+Pass from SL/GL	Pass to SL/GL	4
+Pass to GL	Pass from SL	41⁄2
+Pass to GL	Depart from SL	3
+Pass to SL	Pass from GL	4
+Pass to SL	Depart from GL	3
+King Edward Bridge South Junction			
+""			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason		Value
+Trains towards Greensfield Jn	Differential junction speed		"1⁄2Passenger"
+Movements Up	Reason		Value
+Trians from Greensfield Junction	Differential Speed Junction		"1⁄2Passenger"
+""			
+Junction Margins			
+All Conflicting Moves		3	

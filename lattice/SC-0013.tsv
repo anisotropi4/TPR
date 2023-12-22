@@ -1,0 +1,34 @@
+Classification		Description
+1		"Express passenger trainNominated postal or parcels trainBreakdown or overhead line equipment train goingto clear the line (1Z99)Traction unit going to assist a failed train (1Z99)Snow plough going to clear the line (1Z99)"
+2		"Ordinary passenger trainOfficers’ special train (2Z01)"
+3		"Freight train if specially authorisedA parcels trainAutumn-railhead treatment trainEmpty coaching stock train if specially authorised"
+4		"Freight train which can run up to 75 mph (120km/h)"
+5		Empty coaching stock train
+6		Freight train which can run up to 60 mph (95 km/h)
+7		Freight train which can run up to 45 mph (70 km/h)
+8		Freight train which can run up to 35 mph (55 km/h)
+9		"Class 373 trainOther passenger train if specially authorised"
+0		Light locomotive or locomotives
+"Reportingnumber"	Description
+""	
+Class 1	
+1Axx	"Glasgow Central to Barrhead, Kilmarnock, Dumfries, Grivan (via Kilmarnock) andStranraer (via Kilmarnock)"
+1Axx	Inverness to Aberdeen (via Montrose, Dundee and Leuchars)
+1Axx	Glasgow Queen Street to Aberdeen (via Stirling, Perth, Dundee)
+1Axx	Edinburgh to Aberdeen (via Leuchars & Dundee)
+1Bxx	Inverness to Edinburgh (via Aviemore, Perth, Ladybank, Kirkcaldy)
+1Bxx	Inverurie / Aberdeen to Edinburgh
+1Cxx	Glasgow Central to Edinburgh (via Carstairs)
+1Dxx	Edinburgh / Dunbar to Glasgow Central (via Carstairs)
+1Exx	Locations on LNE Route
+1Fxx	Glasgow Central to Ardrossan Town and Ardrossan Harbour
+1Gxx	Glasgow Central to Gourock
+1Hxx	Aberdeen / Dundee / Glasgow Queen Street / Edinburgh to Inverness
+1Jxx	Glasgow Central to East Kilbride
+1Kxx	Glasgow Central to Ayr and Stranraer (via Paisley Gilmour Street)
+1Lxx	Edinbrugh to Dundee & Perth (both directions)
+1Lxx	Glasgow Central to Carlisle (via Glasgow & South West Route SC031)
+1Mxx	Locations on NW&C region
+1Nxx	Glasgow Central to Neilston
+1Oxx	Locations on Southern region
+1Qxx	Network Rail test train (loco hauled over 75mph or HST formation)

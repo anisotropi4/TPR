@@ -1,0 +1,45 @@
+Poppleton		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive/Pass from Hammerton	Arrive from York	2
+Arrive from Hammerton	Depart to Hammerton	1
+Arrive from York	Arrive from/pass Hammerton	2
+Arrive/Pass from Hammerton	Pass from York	2
+LN842 THORPE MARSH JUNCTION TO ADWICK JUNCTION		
+Applehurst Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Joan Croft Junction	Pass from Skellow Junction	4
+Pass from Skellow Junction	Pass to Joan Croft Junction	3
+Skellow Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Adwick Junction	Pass from Carcroft Junction	4
+Pass from Carcroft Junction	Pass to Adwick Junction	4
+LN852 HOLBECK JUNCTION TO BRADFORD INTERCHANGE		
+Bradford Interchange		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Arriving into an Occupied Platform	Slower approach for Permissive Working	1⁄2
+""		
+""		
+Dwell Time		
+All	3	
+""		
+Junction Margins (when conflicting)		
+First Movement	Second Movement	Margin
+Depart to Halifax/Leeds	Arrive from Halifax	5
+Depart to Halifax/Leeds	Arrive from Leeds via Down Bradford	6
+Depart to Halifax	Arrive from Leeds via Up Bradford	9
+Arrive from Halifax	Arrive from Leeds via Up Bradford	7
+""		
+Minimum Turnround		
+"From Leeds, Huddersfield orHebden Bridge"	5	
+From other locations	10	
+From London	30	
+""		
+"Planning Restriction:No Pathing, Engineering or Performance allowances should be placed between Mill Lane Junction and BradfordInterchange as there are no signals between these two timing points."		

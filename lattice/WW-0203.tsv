@@ -1,0 +1,44 @@
+""	Dwell Time	
+""	15x	1
+""	Topsham		
+""			
+""	Dwell Time		
+""	15x	1	
+""			
+""	Platform End Conflicts		
+""	Trains can arrive at Topsham at the same time.		
+""	First Movement	Second Movement	Margin
+""	First train arriving	Second train departing/passing	
+""	Exton	
+""		
+""	Dwell Time	
+""	15x to 16x	1⁄2*
+""	* : Request Stop	
+""	Lympstone Commando	
+""		
+""	Dwell Time	
+""	15x to 16x	1⁄2*
+""	* : Request Stop	
+""	Lympstone Village	
+""		
+""	Dwell Time	
+""	15x to 16x	1⁄2*
+""	* Increased to 1 minute towards Exeter 0700-0900 and from Exeter 1700-1900 Monday to Friday	
+""	Exmouth	
+""		
+""	Turnround allowances	
+""		DMU
+""	From Paignton/Barnstaple	5
+""	From Exeter	4
+""	GW620 NEWTON ABBOT WEST JUNCTION TO GOODRINGTON C.S.	
+""		
+""	Torre	
+""		
+""	Dwell Time	
+""	15x	1
+""	Torquay	
+""		
+""	Dwell Time	
+""	LH / 22x	2
+""	80x	2
+""	15x	1

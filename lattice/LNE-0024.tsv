@@ -1,0 +1,38 @@
+LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+St Neots	FL  SL	FL  SL	SX	"Platform detail must be shown for trainscalling at St NeotsDSL to UFL and DFL to USL or UFL movesnot permitted at St Neots"
+Huntingdon Signal P33	–		S	Reversing point on Up Slow
+Huntingdon	FL  SL	FL  SL		"Platform details must be shown for stoppingtrains and non–stop via platforms"
+Huntingdon Signal P40		FL  SL	S	
+Conington Loop	–	FL		
+Conington South Jn	SL	FL  SL		Timing point for all Up trains
+Holme Junction	FL			Timing point for all Down trains
+Fletton Junction	FL SL	FL		
+Peterborough Nene CHS	–		S	
+Crescent Junction				To/from Peterborough East Jn – LN135
+Peterborough	"FL  SLUSL -"	"FL  SLGL DSL -"		Platform detail must be shown
+"Spital Junction South(P458/P79)"	"SDASUDSHL–"	–	X	"Line code SDA/SUD/SHL to Eastfield JnBlank “ – “ line code to Spital Sidings"
+Peterborough LIP	SHL	–	S	
+Signal P78		–	S	Reversing point on Down Fast
+Signal P76		–	S	Reversing point on Down Slow
+Peterborough Spital Sidings	–	–	S	Thameslink Stabling Sidings
+Peterborough Westwood Sdgs	–	–	S	
+"Peterborough EastfieldJunction"	GL	"SDASUDSHL"	X	"Timing point for all trains not on Fast, Slowor Stamford lines"
+Signal E44		–	S	Reversing movement
+Peterborough West Yard	–	–	S	
+Peterborough Maint. Shed		–	S	
+Peterborough Washer Road		–	S	
+Peterborough Virtual Quarry	–	–	S	
+New England North Jn	FL SL	"FL SLGL"	X	
+Marholm Junction	SL WL	–		"To/from Glinton Jn LN145 via WerringtonLinesTiming point for all trains on the StamfordLines"
+Werrington Junction	–	SL	X	"To/from Spalding – LN170 via Fast andSlow Lines"
+Helpston Junction	–	–		"To/from Uffington LN147Mandatory for trains on the Stamford Lines"
+Tallington Junction	FL  SL	FL  SL		
+Tallington Redland Aggs		–	S	
+Stoke Junction	–	FL  SL		
+Highdyke Jn		–	X	
+D1283 G.P.S.	–		S	Upside to Downside shunt moves
+Grantham	–	– SL		Platform detail must be shown
+Nottingham Branch Jn	–	–		"Trains on up/down slow lineTo/from Allington West Jn – LN195"
+Claypole Loops	–	–		

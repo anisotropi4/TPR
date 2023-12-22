@@ -1,0 +1,40 @@
+Meadowhall		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains via Masborough Junction stopping atMeadowhall.  Approaching Holmes Junction"	Differential junction speed	-1⁄2 DMU
+""		
+Dwell Time		
+All	1	
+""		
+Minimum Turnround	5.4 only from Barnsley	
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Platforms 1 – 4	Arrive same platform from same direction	3
+Depart Platform 4 to Barnsley	Arrive Platform 4 from Barnsley	4
+Depart Platform 4 to SL	Arrive Platform 4 from Sheffield	3
+""		
+Planning Note		
+"No pathing allowances should be applied between Meadowhall and Wincobank Junction as there are nointermediate signals"		
+Holmes Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Trains via Masborough Junction stopping atMeadowhall.  Approaching Meadowhall"	Faster approach speed	-1⁄2 DMU
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Aldwarke Junction	Pass to Rotherham Central	21⁄2
+Pass to Rotherham Central	Pass from Aldwarke Junction	31⁄2*
+Pass from Rotherham Central	Pass to Rotherham Central	3
+Pass to Rotherham Central	Pass Down ML	31⁄2
+Pass UML	Pass from Rotherham Central	21⁄2
+"*May be reduced by 1⁄2 minute if second train has at least 1 minute pathing allowance between Aldwarke Junctionand Holmes Junction."		
+Masborough Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Treeton Junction	Pass to Treeton Junction	4
+Pass to Treeton Junction	Pass from Treeton Junction	5
+Pass to Holmes Junction	Pass from Treeton Junction	"2 after UpservicepassesHolmes Jn"
+Pass from Treeton Junction	Pass to Holmes Junction	"1 1⁄2 beforeUp servicepassesAldwarke Jn"

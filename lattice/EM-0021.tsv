@@ -1,0 +1,35 @@
+LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Leicester South Jn	"SL DFLUFL"	UFL DFL	X	
+Leicester Signal LR397	DFL		S	"Reversing point on Down Fast for movesbetween Leicester and Up & DownSlow/Leicester LIP"
+Leicester Signal LR399	UFL		S	"Reversing point of Up Fast for movesbetween Leicester and Up & DownSlow/Leicester LIP"
+Leicester	FL SL GL	"UFL DFLSL"		Platform detail must be shown
+Leicester North Jn	FL SL GL	FL SL	X	"Mandatory timing point for trains on the UpFast accessing Platforms 1 and 2"
+Humberstone Road	GL	GL	S	Recessed trains and run–rounds
+Humberstone Road Jn	FL SL	FL GL	X	
+Syston	SL	SL	S	
+Syston South Jn	FL SL	FL SL		To/from Syston East Jn – LN3615
+Syston North Jn	SL	SL	X	"To/from Syston East Jn – LN3234All trains on the Slow lines to be timedhere"
+Sileby	SL	SL	S	
+Sileby Jn	FL SL	FL SL		
+Mountsorrel Sdgs	FL	DFL	S	
+Barrow On Soar	SL	SL	S	
+Loughborough South Jn	SL	SL	X	To/from Hotchley Hill – LN3237
+Loughborough	FL SL	FL SL		Platform detail must be shown
+Loughborough North Jn	SL	FL	X	
+East Midlands Parkway	FL SL	FL SL	S	
+Ratcliffe Jn	FL SL	SL	X	
+Ratcliffe PS	SL	SL	S	
+Trent South Jn	– HL	FL SL		"To/from Trent East Jn – LN3204To/from Meadow Lane Jn – LN3261"
+Sheet Stores Jn	–	–		"To/from Trent East Jn – LN3228To/from Stenson Jn – LN3520"
+Long Eaton	–	–	S	
+Spondon	–	–		
+Derby RTC Sidings South	–		S	TIPLOC DRBYRTC
+Etches Park Carriage Sidings	– PL BP		S	"TIPLOC DRBYEPSOnly direct access to/from Derby Platforms3, 4 and 6"
+Way and Works Jn	"PL UMDM DTSUTS"	–		TIPLOC DRBYWWJ
+Derby RTC Sidings North	UTS		S	TIPLOC DRBYRTN
+Derby	"A B C DPL"	"UM DMUTS DTSPL FI BP"		"Platform detail must be shownTo/from Stenson Jn – LN3501"
+Chaddesden Curve Jn	C D PL	"C D PLFI"		"TIPLOC DRBYCHCLine detail must be shownAccess to/from Derby Platforms 3-6 andto/from Chaddesden Sidings"
+Chaddesden Sidings	–	–	S	TIPLOC DRBYCHS
+St Mary’s South Jn	"DF UFUS"	A B C D		TIPLOC DRBYSMS

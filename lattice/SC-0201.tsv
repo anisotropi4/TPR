@@ -1,0 +1,40 @@
+Nairn		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Arrive/Pass Platform 2	Approach Control	1⁄2
+Pass Platform 2	Slower speed route	"1⁄2 DMU/HST1 LH(to be shownapproachingForres)"
+""		
+Dwell Time	1 DMU	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive/Pass from Forres	Depart to Forres	1
+Arrive/Pass from Inverness	Depart to Inverness	1
+Arrive from Forres	Arrive from Inverness	Same time
+Arrive from Inverness	Arrive from Forres	Same time
+""		
+"NoteIf not crossing another, trains use Platform 1.Any trains terminating in Platform 2 must have a planned ECS move via HN7903 signal which will occupy thesection to Forres for the duration of the RM."		
+""		
+"ProhibitionsReversal of loco hauled trains from Inverness direction prohibited."		
+Inverness Airport		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive	Depart	Simultaneous
+Arrive	Pass	1
+""		
+Dalcross Freight Facility		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up arrive Inverness Airport	Depart Dalcross Freight Facility	Simultaneous
+Arrive Dalcross Freight Facility	Down depart Inverness Airport	1
+""		
+SC197 KITTYBREWSTER JUNCTION TO WATERLOO GOODS (GOODS LINE)		
+""		
+Kittybrewster Junction Arrival Line		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass Berryden Junction toAberdeen"	Depart to Berryden Junction	2

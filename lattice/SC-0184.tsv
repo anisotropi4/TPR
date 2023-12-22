@@ -1,0 +1,27 @@
+Tay Bridge South
+""
+"Operating Restriction & Junction MarginTay Bridge – High Girders.  Due to weight restrictions over the High Girders section of the Tay Bridge, thissection must be treated as a Single Line. A Down Train can only pass Tay Bridge South at the same time or afteran Up Train has passed Tay Bridge South."
+""
+"RestrictionThe Tay Bridge is classified as an RA8[LS] structure and trains booked to cross the bridge must not exceed RA7without permission of the Scotland RAM (Structures) unless the vehicle is listed as clear at RA8 in the ScotlandFreight Loads Book. The Scotland Freight Loads Book contains rolling stock and traction that are permitted tocross the Tay Bridge and should be referred to when planning."
+Dundee Central Junction
+""
+"Operating Restriction & Junction MarginTay Bridge – High Girders.  Due to weight restrictions over the High Girders section of the Tay Bridge, thissection must be treated as a Single Line. An Up train can only pass a maximum of 2 minutes before a Down Trainpasses from Tay Bridge South."
+"SC173 INVERKEITHING CENTRAL JUNCTION TO THORNTON NORTH JUNCTION(VIA COWDENBEATH)"	
+""	
+Dunfermline City	
+""	
+Dwell Time	
+All	1
+Dunfermline Queen Margaret	
+""	
+Minimum Turnround	10 MUs via Townhill
+Townhill Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train arrives Townhill Loop	"Following Down train dep/pass DunfermlineCity"	1
+Cowdenbeath		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up train depart/pass Platform 1 to DunfermlineCity"	"Shunt Move depart Platform 2 for EC941Signal"	6

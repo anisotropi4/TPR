@@ -1,0 +1,43 @@
+Plymouth			
+""			
+Dwell Time			
+80x	3*		
+Class 150 to 16x and HSTGW4	2		
+LH	3		
+Class 22x	3		
+*Dwell time for Class 2 80x services can be reduced to 2 by agreement with Train Operator			
+""			
+Platform Re-occupation	4		
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Margin	
+Down arrive platform 4	Up arrive platform 3, 5, TL, Dock 4	3	
+Down arrive platform 4	Down depart platform 3 or Dock 4	2	
+Down arrive TL or platform 5	Up arrive platform 5 or TL	3	
+Down arrive TL or platform 5	Down depart platform 5 or TL	2	
+Down arrive TL, 5, 6, 7, 8	Down depart 6,7,8	2	
+Down arrive platform 6,7,8	Up arrive any platform	3	
+Down depart platform 3 or Dock 4	Down arrive platform 4	3	
+Down depart TL or platform 5	Down arrive TL or platform 5	3	
+Down depart 6,7,8	Down arrive TL, 5, 6, 7, 8	3	
+Up arrive platform 3 or Dock 4	Down arrive platform 4	3	
+Up arrive platform 4, 5, TL	Up depart platform 4, 5, TL	2	
+Up arrive platform 5 or TL	Down arrive TL or platform 4	3	
+Up arrive platform 6 or 7	Up depart platform 6 or 7	2	
+Up arrive platform 6,7,8	Down arrive platform 6, 7, 8	3	
+Up depart platform 4, 5, TL	Up arrive platform 4, 5, TL	3	
+Up depart platform 6 or 7	Up arrive platform 6 or 7	3	
+Up depart Park Sidings	Up arrive platform 8	3	
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Arrive/ pass	Conflicting departure	2	
+""			
+Shunting Margins – P120, P124 & P131			
+First Movement	Second Movement	Margin	Notes
+"Up train towards Lipson Jcn departsPlymouth"	"Shunt move to P120 or P124Signal departs Plymouth"	21⁄2	
+"Shunt move from P120 or P124Signal arrives Plymouth"	"Conflicting Down train fromLipson Jcn arrives Plymouth"	3	
+"Down train towards St Budeauxdeparts Plymouth"	"Shunt move to P131 Signaldeparts Plymouth"	21⁄2	
+"Shunt move from P131 Signalarrives Plymouth"	"Conflicting Up train from StBudeaux arrives Plymouth"	3	
+""			
+Station Working			

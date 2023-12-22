@@ -1,0 +1,22 @@
+Worksop		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Departing Down platform to MansfieldApproaching Shireoaks East Junction"	Differential junction speed	1⁄2
+"Departing Up platform to MansfieldApproaching Shireoaks East Junction"	Differential junction speed	1
+"Departing Up platform to SheffieldApproaching Shireoaks East Junction"	Differential junction speed	1⁄2
+Departing from Worksop Up Reception	Acceleration	3
+Pass from Retford to Down Reception Line 1	Approach Control, approaching Worksop	2
+Pass from Retford to Down Reception Line 2	"Approach Control and need for driver to obtainpermission from signaler to pass stop board.Approaching Worksop"	"4 (can bereduced to 2if train lessthan 21HTAs)"
+""		
+Movement Up	Reason	Value
+"Terminating services with extended dwell,(greater than 11⁄2 minutes)"	Approach Control	1⁄2
+Dwell Time		
+All	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Up platform to Shireoaks East Junction	Arrive Up platform form West	4
+"*May be reduced by 1” if {1} appliedapproaching Worksop"		
+Minimum Turnround	6 Same platform for trains from Nottingham or Sheffield	
+"10 Re-platform for trains from Nottingham or Sheffield.  If re-platforming isrequired, ECS can only be shunted from Worksop Up platform to WorksopDown platform at Worksop East crossover for trains from Sheffield orNottingham.  For trains from the Gainsborough direction, the ECS can onlybe shunted from Worksop Down platform to Worksop Up platform viaWorksop West crossover."		

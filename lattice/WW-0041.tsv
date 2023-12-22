@@ -1,0 +1,38 @@
+""	"GW500 READING TO COGLOAD JUNCTION VIA WESTBURY AND FROMEAVOIDING LINES (BERKS AND HANTS LINE)"				
+""	Theale Loop	–	–	S	
+""	Theale Reception Lines	–	–	S	
+""	Theale ARC	–	–	S	
+""	Theale Lafarge	–	–	S	
+""	Theale Foster Yeoman	–	–	S	
+""	Theale Murco	–	–	S	
+""	Theale Signal T2834		–	X	Trains for Theale terminals
+""	Towney Down Loop	–		S	
+""	Aldermaston	–	–	S	Platform detail must be shown.
+""	Midgham	–	–	S	Platform detail must be shown.
+""	Thatcham	–	–	S	
+""	"Newbury Racecourse SignalT6831"		–	S	"Shunting moves only from Up Westbury toDown Westbury or Down Newbury Loop"
+""	Newbury Racecourse C.E. Siding	–	–	S	
+""	Newbury Racecourse	"–DNL"	–	SX	Platform detail must be shown
+""	Newbury Signal T2865	–	DW	S	Shunting moves only
+""	Newbury Signal T2867	DNL	DNL	S	Shunting moves and regulation only
+""	Newbury	–	"–DNLDW"		Platform detail must be shown.
+""	Newbury Signal T6844	–	–	S	Shunting moves only
+""	Kintbury	–	–	S	Platform detail must be shown.
+""	Hungerford Loop		–	S	
+""	Hungerford	–	–		"Timing point for all Up trains and Downstopping trains"
+""	Bedwyn	–	–		Platform detail must be shown.
+""	Bedwyn Reversing Siding	–	–	S	
+""	Pewsey	–	–		"Timing point for all Down trains and Upstopping trains"
+""	Woodborough				"Trains timed via the Goods Loops mustshow UGL or DGL in the platform detailfield"
+""	Lavington	–	–		
+""	Westbury Cement Works	–		S	
+""	Heywood Road Junction	–	–		To/from Westbury – GW560
+""	Fairwood Junction	–	–		To/from Westbury – GW560
+""	Clink Road Junction	–	–		To/from Frome – GW570
+""	Blatchbridge Junction	–	–		To/from Frome – GW570
+""	East Somerset Junction	–	–		"To/from Merehead Quarry Jn – GW580Track code BL to be shown for trains viaBranch Loop"
+""	Bruton	–	–	S	Platform detail must be shown.
+""	Castle Cary	–	–		"Platform detail must be shown.To/from Yeovil Pen Mill - SW175Refer to Wessex Route TimetablePlanning Rules."
+""	Somerton G.F.	–	–		
+""	Athelney LC	–	–		
+""	Cogload Junction	–	–		To/from Taunton – GW108

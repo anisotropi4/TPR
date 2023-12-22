@@ -1,0 +1,35 @@
+""	Wilmslow			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	"Down Wilmslow to Down Styal, not stopping atWilmslow"	Flashing Yellow Aspects	"All TimingLoads at75mph orabove"	1⁄2
+""	Down Wilmslow to Up Styal (platform 2)	Approach control	"Passengerand lightengines"	1⁄2
+""	Freight	1		
+""	"Up Styal to Up Wilmslow, not stopping atWilmslow"	"Acceleration to main linespeed from slow speedjunction"	"All TimingLoads at100mph orabove"	1*
+""	Freight	"1 approachingAlderley Edge1⁄2 afterAlderley Edge$"		
+""	Up freight departing Wilmslow	Not at line speed at Alderley Edge	"1⁄2 afterAlderley Edge$"	
+""	"Up Wilmslow to Down Wilmslow, not stoppingat Wilmslow"	Approach control at Wilmslow North Jn	3	
+""	"Up Wilmslow to Down Wilmslow, stopping atWilmslow"	Approach control at Wilmslow North Jn	2	
+""				
+""	* Applies approaching next timing point			
+""	$ Value in addition to allowance shown at Sandbach			
+""				
+""	Dwell Time			
+""	Avanti West Coast Services	11⁄2		
+""	TfW Loco Hauled services	11⁄2		
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Pass/Depart Platform 2 to Up Wilmslow	Pass Platform 3 (passenger)	4 *	
+""	Pass/Depart Platform 2 to Up Wilmslow	Arrive platform 3 (stopping Alderley Edge)	31⁄2	
+""	Pass/Depart Platform 2 to Up Wilmslow	Arrive Platform 3 (non-stop Alderley Edge)	41⁄2 *	
+""	Pass/Depart Platform 2 to Up Wilmslow	Pass Platform 3 (freight)	51⁄2 *	
+""	Pass/Depart Platform 2 to Up Wilmslow	"Depart Platform 4, terminating at AlderleyEdge"	2	
+""	Pass/Depart Platform 4 to Up Wilmslow	"Depart Platform 2, terminating at AlderleyEdge"	2	
+""	Arrive/Pass platform 3 from Down Wilmslow	Depart Platform 2 to Up Wilmslow	1	
+""	Arrive/Pass platform 3 from Down Wilmslow	Pass Platform 2 to Up Wilmslow	21⁄2 $	
+""	Depart platform 2 or 3 to reversing siding	Arrive platform 1 from Down Wilmslow	41⁄2 *	
+""	Depart platform 2 or 3 to reversing siding	Pass platform 1 from Down Wilmslow	51⁄2 *	
+""	Depart platform 2 or 3 to reversing siding	"Pass Platform 1 from Down Wilmslow(Freight)"	61⁄2 #	
+""	Arrive/Pass platform 1 from Down Wilmslow	Depart platform 2 or 3 to reversing siding	1	
+""	Pass/Depart platform 3 to reversing siding	Pass/Depart Platform 2 to Up Wilmslow	3	

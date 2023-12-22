@@ -1,0 +1,40 @@
+Glen Douglas
+""
+"All trains must stop for token exchange purposes, unless a Long Section Token has been issued at theprevious Token Exchange Point."
+Arrochar & Tarbet
+""
+All trains must stop for token exchange purposes.
+""
+For Up trains, see general restrictions above.
+For Down trains, see general restrictions above.
+Ardlui
+""
+"All trains must stop for token exchange purposes, unless a Long Section Token has been issued at theprevious Token Exchange Point."
+Crianlarich		
+""		
+All trains must stop for token exchange purposes.		
+""		
+For up trains, see general restrictions above.		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Second portion to arrive from Tyndrum Loweror Upper Tyndrum"	RETB Intermediate Block	3
+""		
+Dwell Time		
+Down trains (Junction plunger)	3	
+"Departure of 1st train after dividingsets"	6	
+All Up joining trains	6	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train, first portion depart	Down train, second portion depart	3
+Up train, first portion arrive	Up train, second portion arrive	41⁄2
+Up train arrive	Down train depart	3
+Down depart to Oban	Up arrive from	41⁄2
+Down depart to Fort William	Up arrive from Oban	41⁄2
+Upper Tyndrum	
+""	
+All trains must stop for token exchange purposes.	
+""	
+Dwell Time	
+All trains (RETB requirement)	3

@@ -1,0 +1,22 @@
+""	GW200 DIDCOT TO HEYFORD (EXCL.)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Didcot Parkway	"DOX ^UOX ”"	–		"To/from Wantage Road – GW103To/from Reading West Junction – GW103^ DOX To Didcot North Jn via DownOxford“ UOX to Didcot North Jn via Up OxfordreversiblePlatform detail must be shown."
+""	Didcot Fuelling Point	–	–	S	
+""	Didcot West Curve Junction	–		S	To/from Foxhall Junction – GW250
+""	Didcot TC	"–UOX*"	–	S	"* For services crossing to the Up Oxford inthe down direction"
+""	Didcot North Jn	"–^UOX*"	"–GL"		"To/from Foxhall Jn – GW103^ For normal direction running from DidcotNorth Jn* For services crossing to the Up Oxford inthe down direction"
+""	Appleford LC	–	–	X	"Applied in the down direction for servicescrossing from the Up Oxford (reversible) tothe Down Oxford, and in the up direction toservices crossing from the Down Oxford(reversible) to the Up Oxford.For services to/from Appleford Sidings"
+""	Appleford Sidings		–	S	
+""	Appleford	–	–	S	Platform detail must be shown.
+""	Culham	–	–	S	Platform detail must be shown.
+""	Radley	–	–	S	Platform detail must be shown.
+""	Kennington Junction	"–^UOX*"	"–^DOX”"		"To/from Cowley - GW260^ For maintaining or reverting to normaldirection running* For services remaining on (at KenningtonJn), the Up Oxford in the down direction“For Up services via the Down Oxford"
+""	Kennington Goods Loop	–	–	S	
+""	Hinksey South Jn	–	"–DOX*"	X	* for Up services via the Down Oxford
+""	Hinksey Reception Lines	–	–	S	
+""	Hinksey Sidings	–	–	S	Via Hinksey Reception lines
+""	Hinksey North Jn	"–URLUML"	"–DOX*"		* for Up services via the Down Oxford
+""	Oxford	"DMLDRLUMLURL"	"URLUMLDML"		"Platform detail (including through lines)must be shown"
+""	Oxford Up Carriage Sidings		–	S	
+""	Oxford Down Carriage Siding 1		–	S	"For trains stopping in Siding 1, or passingthrough to Siding 2"

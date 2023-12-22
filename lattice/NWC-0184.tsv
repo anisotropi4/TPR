@@ -1,0 +1,24 @@
+""	Denbigh Hall South Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	"From Carriage Sidings (Denbigh Hall Southand Milton Keynes)"	Differential Junction speed	21⁄2	
+""	"Pass from Bletchley High Level, BletchleyRelief Lines or Bletchley Carriage Sidings"	Acceleration	"Passenger 1Class 4 –400t 11⁄2600 – 1475t 21600t andabove 21⁄2Class 6 –400t – 1⁄2600 – 800t– 11000 – 1400t– 11⁄21600t – 21800 – 2200t21⁄22400t andabove – 3Appliedapproachingnext timingpoint"	
+""				
+""	Movement Up	Reason	Value	
+""	"Up Slow to Carriage Sidings (Milton Keynes toDenbigh Hall South)"	Differential Junction speed	21⁄2	
+""	"Pass to Bletchley High Level, Bletchley ReliefLines or Bletchley Carriage Sidings"	Approach Control/Slow Speed Crossover	11⁄2	
+""				
+""	Junction Margin			
+""	First Movement	Second Movement	Value	
+""	Down Pass from Bletchley	Down Depart TK4133 Signal	2	
+""	Down Pass from Bletchley	Down Depart Bletchley Relief Lines	2	
+""	"Down Passenger Pass from Bletchley HighLevel, Bletchley Relief Lines or BletchleyCarriage Sidings"	Up Pass to Bletchley or Bletchley Relief Lines	3	
+""	"Down Freight Pass from Bletchley High Level,Bletchley Relief Lines or Bletchley CarriageSidings"	Up Pass to Bletchley or Bletchley Relief Lines	31⁄2*	
+""	"Down Pass from Bletchley High Level,Bletchley Relief Lines or Bletchley CarriageSidings"	Up Pass to Bletchley Carriage Sidings	21⁄2*	
+""	Up Pass to Bletchley	"Down Pass from Bletchley High Level,Bletchley Relief Lines or Bletchley CarriageSidings"	3*	
+""	Up Pass to Bletchley	Down Depart TK4133 Signal	1	
+""	Up Pass to Bletchley Carriage Sidings	"Down Pass from Bletchley High Level orBletchley Relief Lines"	4	
+""	*increase by 1⁄2 if first movement is over 620m			
+""	Pass Up Slow to Bletchley (Passenger)	"Pass from East West Rail to Down Slow(Passenger)"	21⁄2	
+""	Pass Up Slow to Bletchley (Freight)	3		

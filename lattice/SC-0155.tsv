@@ -1,0 +1,39 @@
+Partick	
+""	
+Dwell Time	
+"MU towards Glasgow QueenStreet Low Level or GlasgowCental Low Level"	1
+"Terminating service formed of 1unit"	1
+"Terminating service formed of 2units"	2
+""	
+Platform re-occupation	2
+Hyndland	
+""	
+Connectional Allowance	3
+""	
+Dwell Time	
+MU towards Anniesland or Yoker	1
+""	
+Platform re-occupation	2
+Hyndland U/DG Loop		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train arrives U/DG Loop	Up train departs Jordanhill	1
+Down train arrives U/DG Loop	Up train departs Anniesland Plat. 1	Same time
+Hyndland East Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Up Yoker	Pass to Down Singer (stopping at Hyndland)	2
+Pass from Up Yoker	Pass to Down Singer (not stopping)	2
+Pass to Down Singer	Up depart Jordanhill	1
+Pass to Down Singer	Pass from Up Yoker (not stopping Jordanhill)	21⁄2
+Pass from Up Yoker	Dep U/DG Loop to West	1
+Pass from Up Singer	Dep U/DG Loop to West	1
+Pass from U/DG Loop to West	Up depart Jordanhill	1
+Pass from U/DG Loop to West	Pass from Up Yoker (not stopping Jordanhill)	21⁄2
+Pass from U/DG Loop to West	Pass from Up Singer (stopping at Anniesland)	2
+Pass from U/DG Loop to West	"Pass from Up Singer (not stopping atAnniesland)"	31⁄2
+Pass from Jordanhill Platform 2	Pass to Down Yoker (stopping at Hyndland)	21⁄2
+Pass from Jordanhill Platform 2	Pass to Down Yoker (not stopping at Hyndland)	31⁄2
+"RestrictionPathing time must not be used between Hyndland East Junction and Jordanhill, and vice versa, due to there beingno intermediate signals..Pathing time must not be used between Hyndland East Junction and Hyndland, and vice versa, due to there beingno intermediate signals."		

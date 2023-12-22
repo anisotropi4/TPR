@@ -1,0 +1,52 @@
+""	STATION	PLATFORM	"USABLELENGTH"	NOTES
+""				
+""	Falconwood	1 - Up Bexleyheath	285	
+""	Falconwood	2 - Down Bexleyheath	286	
+""	Farningham Road	1 - Up Chatham Main	165	
+""	Farningham Road	2 - Down Chatham Main	166	
+""	Faversham	1 - Up Passenger Loop	271	
+""	Faversham	2 - Up Main	271	
+""	Faversham	3 - Down Main	245	
+""	Faversham	4 - Down Passenger Loop	246	Trains can reverse in the platform
+""	"Folkestone East StaffHalt"	1 - Up Dover		
+""	"Folkestone East StaffHalt"	2 - Down Dover		
+""	Folkestone Central	1 - Up Dover	250	
+""	Folkestone Central	2 - Down Dover	245	
+""	Folkestone West	1 - Up Dover	248	
+""	Folkestone West	2 - Down Dover	247	
+""	Frant	1 - Up Hastings	172	
+""	Frant	2 - Down Hastings	175	
+""				
+""	Gillingham	1 - Up Passenger Loop	245	Down direction
+""	Gillingham	1 - Up Passenger Loop	245	Up direction
+""	Gillingham	2 - Up Main	246	Down direction
+""	Gillingham	2 - Up Main	246	Up direction
+""	Gillingham	3 - Down Main	247	
+""	Gravesend	0 – Bay	249	
+""	Gravesend	1 - Up Main	248	
+""	Gravesend	2 - Down Main	243	
+""	Greenhithe	1 - Up Main	243	
+""	Greenhithe	2 - Down Main	241	
+""	Greenwich	1 - Down Greenwich	241	
+""	Greenwich	2 - Up Greenwich	248	
+""	Grove Park	1 - Up & Down Bromley Branch	216	Down direction
+""	Grove Park	1 - Up & Down Bromley Branch	216	Up direction
+""	Grove Park	2 - Up Fast	290	
+""	Grove Park	3 - Down Fast	288	
+""	Grove Park	4 - Up Slow	299	
+""	Grove Park	5 - Down Slow	299	
+""				
+""	Halling	1 - Up Maidstone Branch	128	
+""	Halling	2 - Down Maidstone Branch	123	
+""	Harrietsham	1 - Up Maidstone	124	
+""	Harrietsham	2 - Down Maidstone	124	
+""	Hayes	1 - Up Mid Kent	310	
+""	Hayes	2 - Down Mid Kent	310	
+""	Headcorn	1 - Up Passenger Loop	255	
+""	Headcorn	2 - Down Passenger Loop	249	Down direction
+""	Headcorn	2 - Down Passenger Loop	249	Up direction
+""	Herne Bay	1 – Up	246	
+""	Herne Bay	2 – Down	247	
+""	Herne Hill	1 - Up Passenger Loop	189	
+""	Herne Hill	2 - Up Chatham Main	187	
+""	Herne Hill	3 - Down Chatham Main	189	

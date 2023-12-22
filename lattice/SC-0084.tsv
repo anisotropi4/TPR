@@ -1,0 +1,35 @@
+Beattock Summit UPL/DPL		
+Pass Beattock Summit (Class 1, 2, 5, 9)	Depart Loop	2
+Pass Beattock Summit (Class 0, 4)	Depart Loop	3
+Pass Beattock Summit (Class 6, 7, 8)	Depart Loop	4
+Abington UPL/DPL		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train arrive in Loop	Passenger train pass	5
+Train arrive in Loop	Freight train pass	6
+Pass Abington (Class 1, 2, 5, 9)	Depart Loop	2
+Pass Abington (Class 0, 4)	Depart Loop	3
+Pass Abington (Class 6, 7, 8)	Depart Loop	4
+Carstairs South Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down trains to Carstairs D.P.L.	Flashing yellows	1⁄2
+Down trains to Carstairs station	Approach control	1
+Down trains to Carstairs East Junction	Flashing yellows	1⁄2 *
+"* Value can only be applied if no pathing allowance is applied approaching Carstairs South or East Junctions.Otherwise 1 minute must be applied."		
+""		
+Movement Up	Reason	Value
+Trains from Carstairs East Junction to Abington	Acceleration allowance	"1 397*2 Except 397*3 SleeperService*"
+Up trains stopping at Carstairs	Acceleration allowance	"1⁄2 All exceptsleeper*11⁄2 SleeperServices only*"
+"Up trains stopping at Carstairs UPL / Up trainsfrom Ravenstruther"	Acceleration allowance	1⁄2 *
+*Value to be applied approaching next timing point		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass to Carstairs East	Up Freight pass from Carstairs North Junction	31⁄2
+"Up pass from Carstairs North Junction viamainline"	Down pass to Carstairs East	21⁄2 *
+"Up pass from Carstairs East or via Carstairsstation"	Down pass to Carstairs East	3*
+"Up pass from Carstairs North Junction (notstopping Carstairs Station)"	Up pass from Carstairs East	3
+"* May be reduced to 2 if {1} is applied approaching Carstairs South Junction and at least 1⁄2 minute of pathing oradjustment is applied approaching Carstairs East Junction."		

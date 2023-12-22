@@ -1,0 +1,36 @@
+Woking Up Yard Entry/Exit			
+First Movement	Second Movement		Margin
+"Train departs Woking Up Yard Entry/Exit toWoking Up Yard Sidings"	"Pass/Depart Woking Up Yard Entry/Exit fromWoking Up Reception to Woking Platform 1"		3
+"Train departs Woking Up Yard Entry/Exit toWoking Up Yard Sidings"	"Up service arrives at Woking Platform 1 fromWoking Junction"		2
+"Train departs Woking Up Yard Entry/Exit toWoking Up Yard Sidings"	"Down service arrives at Woking Platform 1 fromDown Fast or Down Slow"		2
+""			
+Planning note			
+"Due to services being foul of points 2219 whilst waiting acceptance, access to Woking Platform 1 in eitherdirection will be restricted until a service has departed Woking Up Yard Sidings Entry/Exit to Woking Up YardSidings. Margins should be based on a train’s departure time from Woking Up Yard Entry/Exit - see junctionmargins above."			
+Woking Junction				
+""				
+Adjustment to Sectional Running Times				
+Movement	Reason	Value		
+"Down trains which have stopped at Wokingrunning via FL non-stop to Farnborough"	Acceleration from stop	{1⁄2}*		
+* This allowance should appear approaching the next timing point after Woking Junction				
+""				
+Junction Margins				
+First Movement	Second Movement	Margin		
+Between all movements		3		
+""				
+Overlap Restrictions				
+First Movement	Second Movement	Signal		Margin
+"Down Fast train from Woking arrives atWoking Junction/Signal WK1208"	"Up train passes Woking Junction fromUp Guildford"	WK375		3*
+"Up train passes Woking Junction fromUp Guildford"	"Down train passes Woking stationtowards Woking Junction via DownFast"	WK375		21⁄2*
+"Up train passes Woking Junction fromUp Guildford"	"Down train departs Woking stationtowards Woking Junction via DownFast"	WK375		11⁄2*
+"* These margins only apply when there is also a train passing Woking Junction from the Down Slow to the DownGuildford less than 3 minutes before or after the train crossing from the Up Guildford."				
+Brookwood London End Junction
+""
+Adjustment to Sectional Running Times
+The standard {1⁄2} for changing lines is already included in the SRT’s.
+Brookwood	
+""	
+Connectional Allowances	
+All Services	3
+""	
+Dwell Times	
+"Up direction services departing between 0700 and 0830 or Down direction services arrivingbetween 1700 and 1930 Monday to Friday"	1

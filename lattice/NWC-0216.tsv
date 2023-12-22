@@ -1,0 +1,41 @@
+""	Abbotswood Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Timing Load	Value
+""	"From the Down Gloucester to DownAbbotswood Goods Loop"	Approach Control	All traffic	1⁄2
+""	"From Up Abbotswood Curve (from NortonJn) towards Ashchurch *"	Accelerating from 30mph crossover	22x/HST	1
+""	170	11⁄2		
+""	LH	2		
+""	Freight	3		
+""	"From a stop at Worcestershire Parkwaytowards Ashchurch *"	"Not passing Abbotswood Jn at linespeed"	170	1
+""	22x/HST	1⁄2		
+""	"From Stoke Works Jn towards Ashchurch viaDown Gloucester * (not from Norton Jn)"	"Minus allowance as the SRTs arefor the slower route from Norton Jn"	150 to 158	-1
+""	* Allowance applies approaching the next timing point			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown after this location)			
+""	Movement Up	Reason	Timing Load	Value
+""	"Up Gloucester to Down Abbotswood Curve(towards Norton Jn)"	Flashing Yellows for 30mph junction	170/22x/HST	"12"
+""	LH			
+""	Freight	1		
+""	Junction Margins			
+""	First Movement	Second Movement	Value	
+""	"Train from the Up Abbotswood Curve (fromNorton Jn) to the Down Gloucester"	Train passing on the Up Gloucester	3	
+""	MD310 BARNT GREEN TO REDDITCH
+""	
+""	Barnt Green
+""	
+""	See entry under route MD306 Birmingham New Street to Ashchurch (exclusive)
+""	Redditch	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	Standard	5
+""	MD320 PROOF HOUSE JN TO BUSHBURY JN (VIA BESCOT)
+""	
+""	Proof House Jn
+""	See entry under route MD301 Rugby Trent Valley Jn to Penkridge (via Birmingham)
+""	Aston		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train passes or departs Aston towards FourOaks"	"Train passes Aston from Stechford towardsPerry Barr North Jn"	3
+""	"Train passes Aston from Stechford towardsPerry Barr North Jn"	Train departs Aston towards Proof House Jn	2

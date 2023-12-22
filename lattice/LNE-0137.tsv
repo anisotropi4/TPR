@@ -1,0 +1,14 @@
+Fletton Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down Main to Down Slow for services stoppingat Peterborough"	Differential junction speed	"1⁄2* passenger approachingFletton Junction*does not apply to GTR asallowance is included inSRT"
+""		
+Movement Up	Reason	Value
+"Pass Up Slow to Up MainOrHAW timing loads (pass from Up Slow or UpFast)"	"Acceleration – to be appliedapproaching Conington SouthJunction"	"Passenger11⁄2 80x/91/HST1 OtherFreightClass 4:1 400t11⁄2 600t2 800t21⁄2 1,000t – 1,600tClass 6:1⁄2 400t1 600t11⁄2 800t – 1,200t2 1,400t – 1,600t21⁄2 1,800t – 2,200t3 2,400t – 2,600t"
+"Up Fast to Up Main having:a)Stopped at Peterborough, orb)Passed via Platform 1 or 2, orc)Passed via Platform 3 from the Up Slowor Signal P458"	"Acceleration – not at linespeedby Fletton Junction; to beapplied approaching ConingtonSouth Junction"	"Passenger1⁄2 80x/91/HSTFreightClass 4:1⁄2 800t1 1,000t11⁄2 1,200t – 1,600tClass 6:1⁄2 1,400t – 1,600t1 1,800t11⁄2 2,000t2 2,200t21⁄2 2,400t – 2,600t"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Down Slow	Pass Down Fast	3
+Pass Up Main	Up Slow to Up Main	2

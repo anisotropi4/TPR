@@ -1,0 +1,41 @@
+Barking (Platform 1)		
+""		
+Minimum Turnround Time		5
+EA1380 FENCHURCH STREET TO SHOEBURYNESS	
+""	
+Fenchurch Street	
+""	
+Advertised Time Changes	
+"Trains booked to arrive at Fenchurch Street between 07.00 and 10.00 Mondays to Fridays are to be advertised toarrive 2 minutes later than WTT."	
+"Trains which depart from Fenchurch Street between 16.00 and 19.00 Mondays to Fridays are to be advertised toarrive at destination 2 minutes later than WTT."	
+""	
+Connectional Allowance	7
+""	
+Platforming Principles	
+During AM Peak it is desirable to allow 5 minutes between consecutive arrivals on the same island platform	
+""	
+Splitting, coupling and double docking of trains permitted	
+""	
+"Platforming Restriction – 8 car EMU trains approaching on the Up Slow Line cannot be signalled into aplatform which is already occupied by a 4 car EMU train"	
+""	
+Minimum time allowed between one train departing and another arriving in the same platform	3
+Christian Street Junction		
+""		
+Junction Margins		
+Movement		Margin
+Fouling move		2
+Gas Factory Junction		
+""		
+Junction Margins		
+Movement		Margin
+Fouling move		2
+Barking		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Up freight trains from Ripple Lane ExchangeSidings towards Barking via ML"	"Slow Speed connection from Ripple LaneExchange Sidings"	{11⁄2}
+"Up freight trains from Ripple Road Jn towardsBarking via the Up Goods (GL) / DepartureLine"	Acceleration	"{1}approachingBarking"
+"Up trains passing Upney Jn to Barking platform8 via Up Connecting Line (UCL)"	Approach control	"{1}approachingBarking"
+""		
+Dwell Time	1 peak only	
+""		

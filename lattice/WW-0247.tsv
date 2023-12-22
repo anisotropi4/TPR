@@ -1,0 +1,38 @@
+NW3001 SALTNEY JUNCTION TO HOLYHEAD	
+""	
+Shotton Low Level	
+""	
+Dwell Time	
+LH	1
+Power	1
+Flint Jn
+""
+Standard NW Route Jn Margins apply
+Flint	
+""	
+Dwell Time	
+LH	1
+Power	1
+220/221/LH MK4	11⁄2
+390 (hauled)	11⁄2
+Mostyn East Jn		
+""		
+Crossing and conflicting moves		
+First Movement	Second Movement	Margin
+"An up train passing on the UpHolyhead"	"A down train crossing from the DownHolyhead to arrive at Mostyn Docks"	21⁄2
+"A down train crossing from theDown Holyhead to arrive at MostynDocks"	"An up train passing on the UpHolyhead"	41⁄2
+"A down train passing on the UpHolyhead (Reversible)"	"An up train from Mostyn Dockscrossing to the Down Holyhead(Reversible)"	4
+"An up train from Mostyn Dockscrossing to the Down Holyhead(Reversible)"	"A down train passing on the UpHolyhead (Reversible)"	"14 (Second movement ispassenger)18 (Second movement is freight)"
+Mostyn Docks and Trading			
+""			
+For arrivals from the Holywell direction:			
+Holywell dep	XX.00		
+""	"""-"""		
+Mostyn Ground Signal 21 arr	XXOP07#		
+Mostyn Ground Signal 21 dep	XXOP11~		
+""	"""-"""		
+Mostyn Ground Signal 15 arr	XXOP13*		
+Mostyn Ground Signal 15 dep	XXOP17		
+""	"""-"""		
+Mostyn Docks arr	XX.22		
+"# Stops and sets back to Up Main~ Cannot depart until 2 minutes after preceding train on the Up Main has passed Holywell Junction (Minimumstanding time 4 minutes).* Stops and draws forward into yard"			

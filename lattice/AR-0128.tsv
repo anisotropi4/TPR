@@ -1,0 +1,33 @@
+Foxton		
+""		
+Movement	Reason	Value
+"Down freight from Foxton Exchange Sidingspass to Shepreth Branch Junction"	Acceleration	"{1}approachingnext timingpoint"
+"Up freight to Foxton Exchange Sidings passfrom Shepreth Branch Junction"	Via slow speed crossover	{1}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Freight departs Foxton Down platform in the Updirection towards Royston"	Down non-stop train passes Foxton	4
+"Freight departs Foxton Down platform in the Updirection towards Royston"	Down stopping service arrives at Foxton	31⁄2
+"Freight departs Foxton Down platform in the Updirection to Foxton Exchange Sidings"	Down non-stop train passes Foxton	41⁄2
+"Freight departs Foxton Down platform in the Updirection to Foxton Exchange Sidings"	Down stopping services arrives at Foxton	4
+Up train non-stop to Royston passes Foxton	"Freight departs Foxton Down platform in theUp direction towards Royston"	2
+Up passenger departs Shepreth Station	"Freight departs Foxton Down platform in theUp direction towards Royston"	2
+Down non-stop train passes Foxton	"Freight arrives at Foxton from FoxtonExchange Sidings"	3
+Down train departs Foxton	"Freight arrives at Foxton from FoxtonExchange Sidings"	4
+Down train pass/depart Foxton	"Down Freight from Foxton Exchange Sidingspass towards Cambridge"	3
+EA1270 KING’S LYNN JUNCTION TO MIDDLETON TOWERS
+""
+Middleton Towers
+""
+Restriction
+"Middleton Towers can only accommodate one train at a time – single train working. Light engine movements to betreated as an exception to this, i.e. light engines are permitted to depart and arrive when there is a set of wagonsalready in the sidings."
+EA1280 STRATFORD CENTRAL JUNCTION TO COPPERMILL JUNCTION
+""
+Stratford Station
+See entry on Route EA1010 Liverpool Street to Seven Kings
+Ruckholt Road Jn		
+""		
+Junction Margins		
+First Movement	Second movement	Value
+Pass towards Orient Way CS	Next train pass towards Orient Way CS	3*
+* A third movement requires an increased margin of 7 minutes		

@@ -1,0 +1,25 @@
+""	Trafford Park FLT
+""	
+""	Planning Restriction
+""	"A margin of 25 minutes to be allowed between arrival of a class 4 or 6 train at Trafford Park FLT and a subsequentdeparture. This may be reduced on a train by train basis with agreement from FreightlinerAll departing trains over 109SLU/698m must be planned with a minimum 20 minute OP stop at Manchester UnitedFootball Ground Halt. This is due to the train being assembled and brake test carried out in advance of MC7622signal."
+""	Irlam		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Trains terminating at Irlam	Approach controlled signalling	1⁄2
+""	Warrington Central		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Down train terminating in Platform 1	Approach Control	1
+""	Up train starting from Platform 2	Slow Speed Crossover	"1⁄2approachingnext timingpoint"
+""			
+""	Dwell Time		
+""	DMU	1	
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	"DMU/EMU to/from Liverpool Lime Street shunting between arrival platform and a differentdeparture platform"	7	
+""	Hunts Cross
+""	
+""	Other Restrictions
+""	"Terminating electric trains must not use Platform 1 and should normally use Platform 3.  Permissive working onlyapplies in Platform 3"

@@ -1,0 +1,32 @@
+""	MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)					
+""						
+""	"Down – 2230-0600 Camden Jn – Ledburn Jn, 2240-0600 Ledburn Jn to Hanslope Jn (Planned as 2 trackusing SL)"					
+""	Location	Type	FL/ML	SL	GL	Remarks
+""	Approaching Ledburn Jn	E		2		
+""	"Approaching Milton KeynesCentral"	E		4		
+""	Approaching Hillmorton Jn	E	10			
+""						
+""	Up – 2230-0600 Camden – Ledburn Jn, 2240-0600 Ledburn Jn to Hanslope Jn					
+""	Location	Type	FL/ML	SL	GL	Remarks
+""	"Approaching Rugby Trent ValleyJn"	E	10	10		2355-0545
+""	Approaching Hanslope Jn	E		10		2255-0600 SX
+""	Approaching Ledburn Jn	E		5		
+""	Approaching Wembley Central	E		2		"Only applies to freights routed to WembleyYard or via Willesden Relief Lines"
+""	"Approaching Willesden WestLondon Jn"	E		2		
+""	MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – 0001MX – 0530 MSX or 0600SO					
+""	Approaching Northampton	E	2			
+""	Approaching Hillmorton Jn	E	2			
+""						
+""	Up – SX Nights					
+""	Approaching Northampton	E	2			
+""	MD301 RUGBY TRENT VALLEY JN TO PENKRIDGE (VIA BIRMINGHAM)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Nights					
+""	Approaching Wolverhampton	E	10			"0001 TWThFS to 0545 TWThFS* Does not apply to services formed with323/730 units"
+""						
+""	Up – SX Nights					
+""	Approaching New Street	E	10			"0001 TWThFS to 0545 TWThFS* Does not apply to services formed with323/730 units"

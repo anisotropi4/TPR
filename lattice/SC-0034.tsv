@@ -1,0 +1,41 @@
+SC087 NEWTON JUNCTION TO MAUCHLINE (GOODS LINE)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Newton Junction	–	–	F	"To/from Ayr Harbour – SC085To/from Ayr – SC059"
+Ayr Signal PA335		–	S	
+Annbank	–	–		"For diverted services and services to/fromFalkland SSTo/from Killoch Colliery – SC089"
+Mauchline	–	–		
+SC089 ANNBANK TO KILLOCH COLLIERY				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Annbank	–	–		
+Killoch Colliery	–	–	F	
+SC091 DALRYMPLE JUNCTION TO CHALMERSTON (GOODS LINE)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Dalrymple Junction	–	–		To/from Ayr - SC059
+Chalmerston Opencast	–	–	F	
+SC093 MOTHERWELL TO GREENHILL LOWER JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Motherwell	–	–		"Platform detail must be shownTo/from Shieldmuir – SC001To/from Airbles – SC023"
+Motherwell T.M.D.	–	–	S	
+Braidhurst Up Goods Loop		–	S	
+Braidhurst Down Goods Loop	–	–	S	
+Motherwell GMM372	–	–	S	Only trains to/ from Motherwell TMD
+Motherwell GMM368	–	–	S	Only trains to/from Motherwell TMD
+Mossend South Junction	– UC	–		"To/from Mossend East Junction – SC017To/from Mossend West Junction – SC019"
+Mossend GMY317 Signal	-	-	S	Reversals to/from Mossend LHS
+Mossend North Junction	–	– DNC		To/from Mossend East Junction – SC015
+Mossend LHS		–	F	
+Mossend Down Yard	–	–	F	
+Mossend Down Goods Loop	–	–	F	
+Mossend Up Yard	–	–	F	
+Mossend Euroterminal	–	–	F	
+Mossend PD Stirling	–	–	F	
+Mossend North Exit	–	–		
+Whifflet South Junction	–	–		To/from Sunnyside Junction – SC097
+Whifflet	–	–	S	
+Whifflet North Junction	–	–	X	To/from Langloan Junction –  SC099
+Coatbridge Central	–	–		"Platform / line detail must be shownTo/from Langloan Junction –  SC101"
+Coatbridge GMW253	–	–	S	Reversals to/from Coatbridge FLT

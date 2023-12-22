@@ -1,0 +1,33 @@
+Norton Bridge			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason	Value	
+"Down Fast at Stafford towards YarnfieldJn via East Chord"	"Slower speed junction and approachcontrol"	"2 Class 3902 Class 22x11⁄2 Class 3503 for Freight trains"	
+"Down Fast from Doxey Jn towardsYarnfield Jn via East Chord"	"Slower speed junction and approachcontrol"	"11⁄2 Class 39011⁄2 Class 22x1 Class 3503 for Freight trains"	
+""			
+Adjustments to Sectional Running Times			
+Movement Up	Reason	Value	
+"Trains from Stone via East Chord atNorton Bridge Jn"	Differential junction speed Acceleration	"1⁄2 1 approaching nexttiming point"	
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+"Train towards Yarnfield Jn via EastChord"	Train towards Stafford on Up Fast	3	
+"Train towards Stafford from Yarnfield Jnvia East Chord"	Train towards Yarnfield Jn via East Chord	3	
+""	Basford Hall Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	"Down trains to Crewe Independent Lines orBasford Hall Yards"	Approach control	2	
+""	"Down trains crossing ""FL"" to ""SL"""	Approach control	2	
+""				
+""	Movement Up	Reason	Value	
+""	"Up trains from Crewe Independent Lines orBasford Hall Yards"	Acceleration	"3approachingnext timingpoint"	
+""	"Up trains crossing ""SL"" to ""FL"""	Approach control	1	
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Down train under 500m (78 SLU) pass toCrewe Basford Hall Yard (Freightliner)"	"Down train pass to the Down Slow IndependentLines"	4	
+""	"Down train 549m (85 SLU) or less pass toCrewe Basford Hall Yard (Freightliner)"	"Down train pass to the Down Fast IndependentLines"	4	
+""	"Down train between 501m (78 SLU) and 549m(85 SLU) pass to Crewe Basford Hall Yard(Freightliner)"	"Down train pass to the Down Slow IndependentLine"	51⁄2	
+""	"Down train 550m (86 SLU) or more pass toCrewe Basford Hall Yard (Freightliner)"	"Down train pass to the Down Fast IndependentLine"	61⁄2	
+""	"Down train 550m (86 SLU) or more pass toCrewe Basford Hall Yard (Freightliner)"	"Down train pass to the Down Slow IndependentLine"	7	

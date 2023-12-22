@@ -1,0 +1,36 @@
+"Down train pass Old Oak Common East Jn fromCarriage Line or Engine Siding towards DownRelief"	Up train pass Ladbroke Grove on Up Relief	41⁄2*
+Up train pass Ladbroke Grove on Up Relief	"Down train pass Old Oak Common East Jn fromCarriage Line or Engine Siding towards DownRelief"	11⁄2*
+""		
+Planning Note		
+"Trains planned to cross at Old Oak Common East towards the Down Relief should include a ‘dot stop’ at Old OakCommon East Jn, if they do not already stop there and do not stop again prior to Southall. This is to enable correctregulation in ARS. Any such trains can be treated as passing Old Oak Common East Jn for the purposes of theabove junction margins."		
+Acton Main Line
+""
+"NB: trains from Acton Wells Jn to the Down Goods that are booked to change traincrew at Acton Main Line stopadjacent to SN182 signal on the Down Goods. It is not possible to route a second down train from Acton Wells Jntowards the Down Goods or Down Relief or Acton TC until the first train has drawn forward to SN197 signal atActon West."
+Acton West		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Down passenger Pass from RL to ML (notstopping at Acton Main Line or EalingBroadway)"	Slow speed junction	"1⁄2 approachingnext timingpoint"
+Planning Note		
+No adjustment time is required for freight to/from GL as this is included in the Acton West-West Ealing SRT.		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Pass on RL	"Down Class 0,1,2,3,5 or 9 Pass from ActonYard or Goods Lines to RL"	31⁄2
+Down Pass on RL	"Down Class 4,6,7 or 8 Pass from Acton Yardor Goods Lines to RL"	41⁄2
+Down Pass from Acton Yard or Goods Line	Down Pass on RL	3
+Down Pass from Acton Yard or Up Goods Line	Up Pass to Acton Yard or GL	3 %
+Down Pass from Acton Yard or Goods Line	Up Pass on RL (not via Acton Dive-Under)	3 %
+Up Pass on RL (not via Acton Dive-Under)	"Down Pass from Acton Yard of Goods Lines toRL"	31⁄2
+% Increase by 1⁄2 when first train is 80SLU or greater		
+Ealing Broadway		
+""		
+Connectional Allowance	3	
+""		
+Dwell Time		
+Class 165/6	1	
+EMU	1	
+""		
+Platform Reoccupation		
+First Movement	Second Movement	Margin
+"Departure from Platform 3 which does not stop at WestEaling"	EMU Arrival at Platform 3	2
+Departure from platform 4	EMU Arrival at platform 4	2

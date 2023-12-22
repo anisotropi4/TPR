@@ -1,0 +1,38 @@
+""									
+SC023 MOTHERWELL TO NEWTON (VIA HAMILTON)		
+""		
+Newton		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart/pass to Cambuslang	Arrive/pass from Kirkhill	3
+Up arrive/pass Platform 2 from Kirkhill	Depart to Cambuslang	1⁄2
+Up arrive Platform 2	Depart Turnback Siding	3
+Up arrive/pass Platform 2 from Kirkhill	Pass from Hamilton to Cambuslang	21⁄2*
+Up arrive/pass Platform 2 from Kirkhill	Arrive/pass Platform 1 or 2 from Uddingston	5
+Arrive/pass from Uddingston/Turnback Siding	Up arrive Platform 2	3
+*Can be reduced to 11⁄2 if {1} is applied approaching Newton		
+""		
+"RestrictionsTrains cannot be timed to stand or reverse between Newton and Newton West Junction in either direction.Trains from Uddingston cannot be timed to stand or reverse between Newton East Junction and Newton.Trains from Newton are restricted to 282m.Trains can reverse on Up Hamilton to South of Newton but subject to a maximum length of 535m.Turnback Siding is subject to a maximum length of 125m."		
+Hamilton West		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart/pass towards Newton	"Train from Hamilton E.G Steele towardsHamilton Central"	4
+"Train from Hamilton E.G Steele towardHamilton Central"	Depart/pass towards Newton	11⁄2
+Hamilton Central		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive/pass from Haughhead Junction	Depart towards Haughhead Junction	11⁄2
+Haughhead Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Down train from Larkhall	Acceleration	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up pass towards Airbles	Down pass from Chatelherault	2
+Up pass towards Chatelherault	Down pass from Airbles	21⁄2
+Up pass towards Airbles	Down pass from Airbles	3

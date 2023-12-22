@@ -1,0 +1,33 @@
+""	Hatton			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Value	
+""	Pass Platform 3 from Down Main	Approach control and slow speed crossover	2	
+""	Arrive Platform 3 from Down Main	Approach control and slow speed crossover	11⁄2	
+""	Pass from Down Goods Loop	Not at line speed passing Hatton	"1⁄2* Passenger1⁄2* Freight 600tand under1* Freight 800tto 1475t11⁄2* Freight1600t-2000t2* Freight 2200tand over"	
+""	Depart Platform 3 to Down Main	Slow speed crossover	"1⁄2* Passenger1⁄2* Freight"	
+""	Pass Platform 3 to Up Main	Slow speed crossover	2*%	
+""	Depart Platform 3 to Up Main	Slow speed crossover	11⁄2*%	
+""				
+""	* Applied approaching next timing point.			
+""	% Can be reduced by 1⁄2 if stopping at Warwick Parkway			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Arrive platform 3	Pass on Down Main	2	
+""	Pass/depart Platform 2	Depart Down Goods Loop to Down Main	1	
+""	Pass/depart Platform 2	Depart Platform 3 to Down Main	2	
+""	Pass Platform 1	Up Pass/depart Platform 3	2	
+""	Depart Platform 1	Up Pass/depart Platform 3	21⁄2	
+""	Pass Platform 2	Depart Platform 3 to Up Main	1	
+""	Arrive Platform 2	Depart Platform 3 to Up Main	2	
+""	Arrive/Pass Platform 2	Pass Platform 3 to Up Main	3	
+""	Hatton North Jn			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Value	
+""	"Departing/passing Hatton (excluding fromHatton Down Goods Loop) towards Dorridge"	"Passing Hatton North Jn from Hatton West Jntowards Dorridge"	3	
+""	Passing Hatton towards Dorridge	"Passing Hatton North Jn towards Hatton WestJn"	3	
+""	Stopping train departs Hatton towards Dorridge	"Passing Hatton North Jn towards Hatton WestJn"	31⁄2	
+""	"Passing Hatton North Jn from Hatton West Jntowards Dorridge"	"Passing Hatton North Jn towards Hatton WestJn"	"Standardsingle linereoccupationvalue applies"	
+""	"Passing Hatton North Jn towards Hatton WestJn"	Passing Hatton towards Dorridge	3	

@@ -1,0 +1,27 @@
+LN652 BILLINGHAM JUNCTION TO SEAL SANDS STORAGE	
+Belasis Lane	
+""	
+Operating Stop	2 All trains running to/from Port Clarence for purpose of token exchange.
+Phillips Loops	
+""	
+Operating Stop	"6 Light Engine in either direction: opening/closing of gates, operation of GF15 Outbound freight trains: opening/closing of gates, operation of GF60 Inbound freight trains: shunting of train [GBRf only]"
+LN662 RYHOPE GRANGE JUNCTION TO HENDON
+Grangetown (T&W) LC
+""
+Planning Restriction
+"Trains towards Hendon require a 1⁄2 minute OP stop at the level crossingTrains towards Ryhope Grange Jn require a 2 minute OP stop at the level crossing for the driver to phone thesignaller for permission to proceed."
+LN666 BOLDON WEST JUNCTION TO TYNE DOCK		
+Boldon North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass from Boldon East Junction or BoldonWest Junction"	"Depart to Boldon East Junction or Boldon WestJunction"	3
+"Pass from Boldon East Junction or BoldonWest Junction"	"Pass to Boldon East Junction or Boldon WestJunction"	4
+"Restrictions:Once a train has departed/passed Boldon North Junction, irrespective of route (ie via Boldon East or via BoldonWest), NO OTHER TRAIN can leave the Sunderland lines towards Boldon North Junction from any direction, untilfirst train is clear onto Sunderland lines. For margins, see Boldon East Junction and Boldon West Junction onLN627. Trains cannot stand on Boldon East Curve or Boldon West Curve. No pathing time or other allowances tobe applied between any of these locations"		
+"Green Lane Junction (PTA Boundary)Note: this location is outwith NR infrastructure. Information included for guidance only"		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Boldon North Junction	Depart towards Tyne Dock	3
+Arrive Tyne Dock	Pass Green Lane towards Tyne Dock	3
+"Notes:All arriving trains MUST STOP at Stop Board P2 in order to obtain permission from Tyne Dock personnel, toproceed. To be shewn as a 2 minute OP stop"		

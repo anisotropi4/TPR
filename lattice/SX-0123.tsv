@@ -1,0 +1,41 @@
+Oxted			
+""			
+Adjustment to Sectional Running Times			
+Movement	Reason	Value	
+"Arrive Platform 2 on Down East Grinstead within3 minutes of a shunt move into either Platform 1or 3 via Signal 306"	"Approach control on Signal OD7 due to reducedoverlap on Signal OD11"	{3}	
+Down Bay (Platform 3)	6		Electrified, only 4 cars in Platform
+Up Siding	6		Electrified for 4 cars only
+""			
+Connectional Allowances			
+All Services	3		
+""			
+Dwell Times			
+All Services	1		
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+"Depart platform 2 to Up East Grinstead via 501points"	"Arrive/Pass on Down East Grinstead having notcalled at Woldingham"	4	
+"Train departs platform 1 towards South Croydonnot calling at Woldingham, Upper Warlingham orRiddlestown"	"Train departs platform 1 towards South Croydoncalling at all stations to Sanderstead"	3 1⁄2	
+"Train arrives platform 2 from South Croydonhaving called at all stations from Sanderstead"	"Train arrives platform 2 from South Croydonhaving run non-stop from Sanderstead"	3 1⁄2	
+"Arrive into either Platform 1 or 3 having shuntedvia Signal 306"	Arrive/Pass Platform 2 on Down East Grinstead	3	
+""			
+Planning Notes			
+"The non-stop headway applies for consecutive departures from Oxted in the Up direction providing the first traindoes not stop at Woldingham, Upper Warlingham and Riddlesdown and the correct headway is applied at the nextcommon timing point irrespective of calling pattern. National TPR section 1.5.5 Application of Planning Headwaysrefers."			
+"Trains formed of Class 171 or RHTT units coupled together, cannot reverse at shunt signal 306 unless a driver isprovided at each end as there is no walkway for a single driver to change ends."			
+""			
+Permissive Working			
+Attaching/Detaching and Platform Sharing is authorised as shown below -			
+Platform 1	Up Main	(Up Direction)	Attaching/Detaching
+Platform 2	Down Main	(Down Direction)	Detaching Only
+Platform 3	Bay		Attaching/Detaching
+East Grinstead			
+""			
+Adjustment to Sectional Running Time			
+Movement	Reason	Value	
+Attachment in platforms 1 or 2	"Calling-on allowance to be added to secondtrain due to restrictive aspect at signal OD39"	{1}	
+""			
+Berthing Facilities			
+Location	Cars		Notes
+Siding	8		
+Platform 1 & 2	12		
+Berthing permitted in either platform but only for train classes 171, 375, 377, 387 and 700 only			

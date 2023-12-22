@@ -1,0 +1,35 @@
+Type	Days	TID	Start Time	Origin	Destination
+""	Anglia				
+RHTT	SX	3S01	09:22	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SO	3S01	09:25	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	Su	3S01	10:12	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SX	3S10	19:39	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	Su	3S10	"20:3520:32"	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SX	3S11	19:39	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SX	3S20	20:48	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	Su	3S20	20:04	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	FSX	3S30	21:52	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	FO	3S30	21:52	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	Su	3S30	"21:5221:56"	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	FO	3S40	"19:2619:28"	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	FSX	3S40	"19:2619:28"	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	Su	3S40	19:16	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	SX	3S50	"19:4519:53"	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	Su	3S50	"19:2519:24"	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SX	3S60	09:00	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SO	3S60	08:37	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SX	3S65	23:59	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	Su	3S65	23:30	Stowmarket D.G.L.	Stowmarket D.G.L.
+RHTT	SX	3S70	08:31	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	SO	3S70	"08:2008:18"	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	SO	3S81	07:25	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	MThFO	3S81	"07:4007:12"	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+RHTT	TWO	3S81	"07:4007:12"	Broxbourne Tamp Sdg	Broxbourne Tamp Sdg
+""	LNE				
+RHTT	"MWOSX"	3J11	16:21	"Carlisle Kingmoor TMD(DRS)"	"Carlisle Kingmoor SDG(DRS)"
+RHTT	FO	3J11	16:21	"Carlisle Kingmoor TMD(DRS)"	"Carlisle Kingmoor SDG(DRS)"
+RHTT	SU	3J11	"16:2111:34"	"Carlisle Kingmoor TMD(DRS)"	"Carlisle Kingmoor TMD(DRS)"
+RHTT	TThO	3J11	16:21	"Carlisle Kingmoor TMD(DRS)"	"Carlisle Kingmoor SDG(DRS)"
+RHTT	SX	"3J313J30"	01:06	Peterborough L.I.P.	"FoxtonHarringay Up RevSDGS"
+RHTT	SO	"3J313J30"	01:35	Peterborough L.I.P.	"FoxtonHarringay Up RevSDGS"
+RHTT	SU	3J31	10:48	Peterborough L.I.P.	Foxton

@@ -1,0 +1,46 @@
+Havant		
+All Services	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		3
+Down Waterloo Line arrivals	Brighton Line departures crossing behind	1
+""		
+Platform Re-occupation		
+""	Margin	
+Up Platform	21⁄2 *	
+Down Platform	21⁄2	
+* A Margin of 2 minutes applies when there is pathing time approaching Havant		
+Bedhampton	
+""	
+Dwell Times	
+"Class 444/450 Down services alsostopping at Hilsea"	1
+Farlington Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Down trains towards Cosham Junction	Speed Differential	{1⁄2}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements		2
+Portcreek Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Up trains towards Cosham Junction	Speed Differential	{1⁄2}
+Down trains from Cosham Junction	Speed Differential	{1⁄2}*
+* Allowance to be applied after Portcreek Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		2
+Up Main line train	Down train from Cosham Junction	21⁄2
+Fratton East		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Train crossing to Down No 1 Reception Line	Approach control	{1}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin

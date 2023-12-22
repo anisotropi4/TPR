@@ -1,0 +1,39 @@
+Arundel Junction
+""
+Train Length Restriction
+"A train formed of 12 coaches stood at signal AR32 on the Up East Curve will foul Littlehampton Junctionpreventing the route to or from Ford being used."
+Littlehampton		
+""		
+Berthing Facilities		
+Location	Cars	Notes
+Platform 1	12	
+Platform 2	12	
+Platform 3	8	
+Platform 4	6	
+Up Siding 1	8	
+Up Siding 2	8	
+No 1 Shed	12	"Carriage Washing Facilities are only available ifsufficient space is left in Shed Road"
+No 2 Shed	12	"Carriage Washing Facilities are only available ifsufficient space is left in Shed Road"
+No 3 Shed	12	"Carriage Washing Facilities are only available ifsufficient space is left in Shed Road"
+Outside Shed No 3 Siding	12	"Carriage Washing Facilities are only available ifsufficient space is left in Shed Road"
+Outside shed No 4 Siding	12	"Carriage Washing Facilities are only available ifsufficient space is left in Shed Road"
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Departure from Platform 2 / 3 / 4 bound for LittlehamptonSidings/Shed when formed from 4 cars or less"	Arrival into any platform	3
+"Departure from Platform 2 / 3 / 4 bound for LittlehamptonSidings/Shed when formed from more than 4 cars"	Arrival into any platform	4
+Resetting of route for a departing service following the arrival of a conflicting inwards service	2	
+""		
+Permissive Working		
+Attaching/Detaching and Platform Sharing is authorised as shown below -		
+Platform 1	Attaching/Detaching and Platform Sharing	
+Platform 2	Attaching/Detaching and Platform Sharing	
+Platform 3	Attaching/Detaching and Platform Sharing	
+Platform 4	Attaching/Detaching and Platform Sharing	
+SO640 BARNHAM TO BOGNOR REGIS
+""
+Barnham
+See entry under route – SO520

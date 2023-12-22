@@ -1,0 +1,38 @@
+Falkland		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up pass to Prestwick	Down pass to Yard	2
+Down pass to Yard	Up pass	4
+Arrive DGL	Down pass (not stopping Prestwick Town)	21⁄2
+Arrive DGL	Down depart Prestwick Town	1⁄2
+"Up depart/pass Prestwick Town towardsBarassie"	Up depart Yard to Prestwick Town	Same time
+Newton-on-Ayr/Newton Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down train from Prestwick going to AnnbankSingle Line"	Slowing for Token stop	1
+Down train from Falkland Yard going to Ayr	Acceleration	1
+""		
+Movement Up	Reason	Value
+Up train going from Ayr to Falkland Yard/Docks	Approach Control	1
+"Up train from Annbank Single Line goingtowards Prestwick"	Acceleration from Token or Signal stop	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down Passenger train depart Newton-on-Ayr(towards Ayr)"	"Freight train depart Falkland Yard towardsNewton Junction"	2
+"Down train from Falkland to Annbank SingleLine"	"Down arrive Station (not stopping PrestwickTown)"	41⁄2
+"Down train from Falkland to Annbank SingleLine"	Down pass (not stopping Prestwick Town)	4
+"Down train from Falkland to Annbank SingleLine"	Down depart Prestwick Town	2
+Up train from Annbank Single	"Down arrive Station (not stopping PrestwickTown)"	41⁄2
+Up train from Annbank Single Line	Down pass (not stopping Prestwick Town)	4
+Up train from Annbank Single Line	Down depart Prestwick Town	2
+Down depart to Ayr	Up train from Annbank Single Line depart	2
+Up pass from Ayr to Prestwick	"Up train from Annbank Single Line depart toFalkland or Harbour"	1
+Up pass from Ayr to Prestwick	"Up train from Annbank Single depart towardsPrestwick"	21⁄2
+Up depart Station towards Prestwick*	Down depart Falkland Yard or Harbour	1
+Up depart Station towards Prestwick*	"Up train from Annbank Single Line depart toFalkland or Harbour"	1
+Up depart Station towards Prestwick	"Up train from Annbank Single Line departtowards Prestwick"	3
+"*Up trains stopping at Newton –on-Ayr, foul points 135 and prevent access to/from Falkland yard at NewtonJunction"		
+""		
+"NoteShould an Up train from Annbank Single Line stand for pathing purposes as well as relinquishing a token, thentime must be allowed for a train coming to a stand, driver relinquishes token, returns to cab and draws forward toSignal PA334 – a minimum of {3} should apply approaching Newton Junction in these circumstances."		
+""		

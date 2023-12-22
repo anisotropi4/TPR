@@ -1,0 +1,38 @@
+""	Bedwyn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	"Passing Bedwyn into Bedwyn ReversingSiding"	"Slow speed turnout into BedwynReversing Siding"	16x/769/80x	{1⁄2}
+""	"Up pass having come from BedwynReverse Siding"	"Slow speed turnout from BedwynReversing Siding"	16x/769/80x	"{11⁄2}approachingnext timingpoint"
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Down train depart/pass Bedwyn to BedwynReversing siding"	Up pass/arrive	4	
+""	"Down train depart/pass Bedwyn to BedwynReversing Siding"	Down freight pass/arrive	41⁄2	
+""	Up non-stopping train passes Bedwyn	"Up ECS move to Bedwyn Platform 1 (only) departsBedwyn Reversing siding"	2	
+""				
+""	Dwell Time			
+""	80x (Through service)	11⁄2		
+""	80x (Terminating down service)	3		
+""	80x (Originating up service)	1		
+""				
+""	Turnround allowances	DMU/769/80x	80x (5 cars) With shunt move	
+""	From Newbury, Reading and Paddington	7	"13 (can be reduced to 12 if twodrivers are provided)"	
+""	Pewsey	
+""		
+""	Dwell Time	
+""	80x	11⁄2
+""	Woodborough		
+""			
+""	Planning note		
+""	Stopping SRTs are based on using the goods loops therefore adjustment times are built into the SRTs.		
+""			
+""	Junction margins		
+""	First Movement	Second Movement	Margin
+""	Down train arrive Goods Loop	Down passenger train pass	31⁄2
+""	Down freight class 4/6 pass	4	
+""	Down freight class 7 pass	5	
+""	Down passenger train pass	Down train depart Goods Loop	11⁄2
+""	Up train arrive Goods Loop	Up passenger train pass	31⁄2
+""	Up freight pass	5	
+""	"Up passenger train pass (notstopping at Pewsey)"	Up train depart Goods Loop	11⁄2

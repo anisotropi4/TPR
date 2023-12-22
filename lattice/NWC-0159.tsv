@@ -1,0 +1,30 @@
+""	NW7007 FARINGTON CURVE JN TO ORMSKIRK			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Farington Curve Jn to Midge HallSB"	Single Line	TCB	
+""	Midge Hall SB to Rufford SB	Single Line	ETB applies	
+""	Rufford SB to Ormskirk	*	"* Single line - One Train in Section (OTS)Passing loop at Rufford station."	
+""	NW7009 FARINGTON CURVE JN TO HALL ROYD JN (EAST LANCS LINE)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Farington Curve Jn to Hall RoydJn"	4	4	
+""	NW7011 FARINGTON JN TO LOSTOCK HALL JN (LOSTOCK HALL LINES)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Farington Jn to Lostock Hall Jn	4	4	Single lead at Farington Jn
+""	NW7013 DAISYFIELD JN TO HELLIFIELD			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Daisyfield Jn to Langho	AB+2		
+""	Langho to Horrocksford Jn	AB+2		
+""	Whalley to Daisyfield Jn		AB+2	
+""	Horrocksford Jn to Whalley		AB+2	
+""	Horrocksford Jn to Hellifield	AB+2	AB+2	
+""	NW7017 GANNOW JN TO COLNE			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Gannow Jn to Colne	*	"Single line - One Train in Section (OTS)Single lead at Gannow Jn"	
+""	NW7019 THORPES BRIDGE JN TO GMC SIDING			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Thorpes Bridge Jn to GMC Siding	Single Line	"See Sectional Appendix Local Instructions formethod of working"	

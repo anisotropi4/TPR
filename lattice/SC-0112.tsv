@@ -1,0 +1,38 @@
+Clarkston	
+""	
+Dwell Time	1
+Giffnock	
+""	
+Dwell Time	1
+"SC051 MUIRHOUSE CENTRAL JUNCTION TO MUIRHOUSE NORTH JUNCTION(VIA CATHCART) (CATHCART CIRCLE)"
+""
+Muirhouse Central Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down trains to Down Terminus	Approach Control signal	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Maxwell Park	"Pass Muirhouse South to Terminus Junction orMuirhouse North (not stopping Crossmyloof)"	3
+Pass to Maxwell Park	Down depart Crossmyloof	1
+"Pass to Terminus Junction from BusbyJunction"	Pass to Maxwell Park	3
+"Pass Muirhouse South going to MuirhouseNorth"	Pass to Maxwell Park	2
+Pass from Maxwell Park	Pass from Terminus Junction	3
+Pass from Terminus Junction	"Pass from Maxwell Park (not stoppingPollockshields West)"	3
+Pass from Terminus Junction	Up depart Pollockshields West	1
+Pass from Terminus Junction	Pass to Terminus Junction	31⁄2
+""		
+"RestrictionOnly one train can stand or be on the line between Muirhouse Central Junction and Terminus Junction at any onetime."		
+Muirhouse North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Muirhouse Central	"Pass from Mount Florida (not stoppingPollockshields East)"	3
+Pass to Muirhouse Central	Down depart Pollockshields East	1
+Pass from Pollockshields East	Pass to Muirhouse Central	21⁄2
+Cathcart		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Depart Kings Park toward Cathcart NorthJunction"	"Pass Cathcart West Junction towards KingsPark"	2

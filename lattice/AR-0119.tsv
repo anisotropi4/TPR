@@ -1,0 +1,29 @@
+Mill Road Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Movement across Mill Road Junction	"Conflicting movement passes/departs previoustiming point"	2
+"Arrival at Cambridge from Coldham LaneJunction"	"Movement across Mill Road Junction towardsCambridge Carriage Sidings North"	3
+Cambridge Carriage Sidings North		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Cambridge platform 7 or 8 to South	"Depart from Cambridge Carriage Sidings Northrouted via PL (CA710) to same platform atCambridge"	1
+Arrive Cambridge platform 7 from the North	"Depart from Cambridge Carriage Sidings Northrouted via PL (CA710) to platform 8 atCambridge"	0
+Arrive Cambridge platform 8 from the North	"Depart from Cambridge Carriage Sidings Northrouted via PL (CA710) to platform 7 atCambridge"	0
+Depart or Arrive Cambridge	"Arrive at Cambridge from Cambridge CarriageSidings North routed via UM/UM4/UMT(CA180) to any platform at Cambridge"	"See matrix atCambridge"
+Coldham Lane Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Allowance
+Trains towards Dullingham	Approach control	{1⁄2}
+Trains from Dullingham	Not at line speed	"{1⁄2}approachingnext timingpoint"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train towards Dullingham	Train towards Cambridge	3
+Train towards Cambridge	Train towards Dullingham	2
+Chesterton Junction		
+""		
+Terminal Length		
+Arrival/Departure		60 SLUs

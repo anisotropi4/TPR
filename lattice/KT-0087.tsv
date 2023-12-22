@@ -1,0 +1,35 @@
+Brixton			
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Reason	Margin
+Up train from the Catford Loop	Up train pass/arrive Platform 1	VS114 Signal	2*
+Up train arrive Platform 1	Up train pass from Catford Loop	VS114 Signal	2
+*21⁄2 following freight			
+Herne Hill		
+""		
+Dwell Time		
+All Thameslink services	1	
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"All freight trains which are being routed viaTulse Hill"	Speed differential	1
+"Down trains from London Blackfriars notcalling at Herne Hill"	Approach control on signal VS123	1*
+"Down trains from London Blackfriars towardsKent House not calling at Herne Hill"	Acceleration from 20mph crossover	"{1⁄2}approachingKent House"
+"Down trains from Brixton towards Tulse Hillnot calling at Herne Hill"	"Approach control on signal VS151 and 20mphcrossover"	"{1⁄2}approachingHerne Hill"
+*adjustment only applies when margin at Herne Hill is less than 2 minutes		
+""		
+Movement Up	Reason	Value
+"All freight trains from Tulse Hill towardsBrixton or from Loughborough Junctiontowards Kent House"	Speed differential	"11⁄2approachingnext timingpoint"
+"Up trains from Kent House towards Blackfriarsnot calling at Herne Hill"	"Approach control on signal VS126 and 20mphcrossover"	"{1⁄2}approachingHerne Hill"
+"Up trains from Kent House running non-stopvia platform 1 at Herne Hill"	"Approach control on signal VS134 and 15mphcrossover"	"{1⁄2}approachingHerne Hill"
+"Up trains towards Brixton running non-stop viaplatform 1 at Herne Hill"	Acceleration from 30mph crossover	"{1⁄2}approachingBrixton"
+""		
+Connectional Allowance	4	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up non-stop towards Brixton	Down departure for Tulse Hill	1
+Down non-stop from Brixton	"Up departure towards LoughboroughJunction"	1
+Up train passing Platform 2 towards Brixton	"Up train departing Platform 1 towardsLoughborough Junction"	1
+"Down train passing Platform 3 towardsBeckenham Junction"	"Down train departing Platform 4 towardsTulse Hill"	1
+Down train into turnback siding	Down train arrives/passes Herne Hill	3

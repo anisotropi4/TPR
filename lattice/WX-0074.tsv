@@ -1,0 +1,41 @@
+Dwell Time*												
+"* Dwell times may be varied during the production of timings for trains in conjunction with engineering work orother special traffic arrangements at the discretion of the Amended Timetable Manager."												
+Class 150 DMU	1⁄2											
+Class 153 DMU	1⁄2											
+Class 158 DMU	1⁄2											
+Class 159 DMU	1⁄2											
+Class 165/166 DMU	1⁄2											
+Class 22x DEMU	11⁄2											
+Class 377 EMU	1⁄2											
+Class 387 EMU	1⁄2											
+Class 444 EMU	1⁄2 $											
+Class 450 EMU	1⁄2 $											
+Class 455 EMU	1⁄2											
+Class 458 EMU	1											
+Class 701	1⁄2											
+Class 80X	11⁄2											
+Loco Hauled	1											
+"Trains terminating and thenrunning ECS in the samedirection (except SWR services)"	1*											
+"Trains terminating and thenrunning ECS in the samedirection (SWR services)"	"2 (1-6 cars)*4 (7-12 cars)*"											
+"$ An actual minimum dwell time of 45 seconds is required at all station stops. As timetable systems can only usemultiples of 30 seconds, every second station stop must have a dwell time of at least 1 minute input into thesystem.* By exception, allowances for trains terminating and then running ECS in the same direction may be reduced afterdiscussion and agreement between the operator and Network Rail."												
+""												
+Locomotive Change	10											
+""												
+Locomotive Runaround	10											
+""												
+Junction Margins												
+"Between all conflictingmovements"	3											
+"Resetting of route for a departingservice following the arrival of aconflicting inwards service"	1											
+""												
+Platform Reoccupation												
+"Platform reoccupation in the same direction is equal to the stopping headway minus 30 seconds except wherestated otherwise."												
+""												
+Minimum Turnround – Passenger Stock												
+Stock	"1Car"	"2Car"	"3Car"	"4Car"	"5Car"	"6Car"	"7Car"	"8Car"	"9Car"	"10Car"	"11Car"	"12Car"
+Class 150 DMU		3	3	4	4	4						
+Class 153 DMU	3	3	4	4								
+"Class 158 DMU(GWR)"		3	3	4	4	4						
+"Class 158/159 DMU(SWR)"		3	4	5	5	5	6	6	6	7		
+"Class 165/166 DMU(GWR)"		3	3	4	4	4	5	5				
+Class 22x DEMU				10	10			10	10	10		
+Class 377			4	4	4	4	5	5	5	6	6	6

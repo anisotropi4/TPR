@@ -1,0 +1,34 @@
+""	Collingtree Road Jn			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Pass Courteenhall Jn to Northampton	"Pass from Northampton Gateway toNorthampton"	5	
+""	"Pass from Northampton Gateway toNorthampton"	Pass Courteenhall Jn to Hanslope Jn	"5 Passenger/6 Freight"	
+""	Northampton		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Arrive/pass platform 1	Approach control on signal RY1015	1
+""			
+""	Movement Up	Reason	Value
+""	Up Northampton Fast to platforms 3, 4 or 5	Approach control on signal RY1036	1
+""	Up and Down Slow to platforms 4 or 5	Approach control on signal RY1038	1
+""			
+""	Attachment/Detachment	9 for Class 350	
+""			
+""	Dwell Time		
+""	Standard	1	
+""	Class 22x/390/80x	11⁄2	
+""	West Midlands Trains	1 (11⁄2 if crew change booked)	
+""			
+""	Junction Margins and Platform Reoccupation		
+""	First Movement	Second Movement	Margin
+""	"Depart platforms 1, 4 or 5 to the Up & DownSlow"	"Arrive UML, platforms 2, 3 or Riverside Sidingsfrom Up Northampton Fast, Down GoodsLoop, Kings Heath Traincare Depot"	Parallel
+""	"Arrive UML, platform 1, 4 or 5 from UpNorthampton Fast, or Up and Down Slow"	"Arrive platform 2, 3 or Riverside Siding fromDown Goods Loop or Kings Heath TraincareDepot"	Parallel
+""	"Depart platforms 1, 4 or 5 to the DownNorthampton Fast, Down Goods Loop or KingsHeath Traincare Depot"	Arrive Northampton via Up Northampton Fast	41⁄2
+""	"Depart platforms 2, 3 or Riverside Sidings to theUp & Down Slow"	Arrive Northampton via Up Northampton Fast	6
+""	"Depart platforms 2, 3 or Riverside Sidingstowards Long Buckby via Down NorthamptonFast"	"Arrive platform 2, 3 or Riverside Siding via UpNorthampton Fast, Up and Down Slow or UpReception"	5
+""	"Depart platforms 2, 3 or Riverside Sidingstowards Long Buckby via Down NorthamptonFast"	"Arrive platforms 2, 3 or Riverside Sidings fromDown Goods Loop or Kings Heath TraincareDepot"	6
+""	Down train arrives platforms 2 or 3	"Down train departs from Riverside Sidings orplatforms 2 or 3"	1
+""	Down train arrives into platform 2	Up train arrives into platform 3	3
+""	"Down train departs from platforms 2, 3 orRiverside Sidings"	Down train arrives in either platforms 2 or 3	4

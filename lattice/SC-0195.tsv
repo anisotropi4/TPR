@@ -1,0 +1,32 @@
+Carrbridge		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Train via Platform Loop (Platform 2).Approaching Carrbridge"	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Arrive	Down Arrive/pass	4
+Down Arrive	Up Arrive/pass	4
+Down Arrive	Up Depart	1
+Up/Down Pass on Mainline	Depart Loop in opposite direction	1
+""		
+"Operating InstructionsStopping trains normally use the Up platform (the Loop), except when passing another service, in which case theDown platform (main line) should be used.   Trains may ‘overtake’ another train running in the same direction, thetrain being overtaken standing at the Up platform, the overtaking train stopping at or passing through the Downplatform."		
+Slochd		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Arrive Loop	Up Pass	4
+Up Arrive Loop	Down Pass	4
+Up/Down Pass on Mainline	Depart Loop in opposite direction	1
+""		
+"Operating InstructionsTrains planned to stop must use the Loop.Trains may ‘overtake’ another train running in the same direction, the train being overtaken standing in the Loop,the overtaking train passing through on the Main line."		
+Tomatin		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Arrive Loop	Up Pass	4
+Up Arrive Loop	Down Pass	5
+Up/Down pass on Mainline	Depart Loop in opposite direction	1
+""		
+"Operating InstructionsTrains planned to stop must use the Loop.Trains may ‘overtake’ another train running in the same direction, the train being overtaken standing in the Loop,the overtaking train passing through on the Main line."		

@@ -1,0 +1,34 @@
+Parkeston Carriage Sidings			
+""			
+Siding	Length (m)	Length (SLUs)	Comment
+1	365	57	*Can accommodate up to 523m/81SLU by fouling No2 Siding
+2	365	57	*Can accommodate up to 523m/81SLU by fouling No1 Siding
+3	512	79	
+4	335	52	
+5	300	46	
+6	300	46	
+Harwich International	
+""	
+Single Line Reoccupation	Margin
+Reoccupation of single line towards Harwich Town	4
+EA1160 BETHNAL GREEN EAST JUNCTION TO BISHOP’S STORTFORD		
+""		
+Bethnal Green		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Depart/Pass Bethnal Green from DownSuburban to Down Fast"	Arrive/Pass Bethnal Green from Up Suburban	3
+Arrive/Pass Bethnal Green from Up Suburban	"Depart/Pass Bethnal Green from DownSuburban to Down Fast"	1
+"Pass Bethnal Green from Down Main to DownFast"	"Arrive/Pass Bethnal Green from Up Fast to UpSuburban"	3
+"Arrive/Pass Bethnal Green from Up Fast to UpSuburban"	"Pass Bethnal Green from Down Main to DownFast"	1
+London Fields		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"For trains that have reversed at London FieldsPlatform 1 towards Hackney Downs"	"Slow speed move over crossover from UpSuburban to down Suburban"	{1⁄2}
+Hackney Downs		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Trains crossing from Down Fast Line to DownSlow at Hackney Downs South Junction (forplatform 4 Hackney Downs)"	Via slow speed crossover	{1}
+"Trains from Platform 4 at Hackney Downstravelling towards Clapton via Hackney DownsNorth Junction. To be shown approaching nexttiming point"	Via slow speed crossover	{1⁄2}

@@ -1,0 +1,24 @@
+Gloucester			
+""			
+"Down train from Horton Road Jcnarrives or passes Gloucester"	"Conflicting shunt move departsG444 signal"	1	"A train standingat G444 signalprevents an Uptrain fromentering theUGL at HortonRoad Jcn."
+"Up train from Gloucester passesHorton Road Jcn"	"Conflicting shunt move departsG444 signal"	"1 – followingpassenger2 – following freight"	"Apply passengermargin whenfollowing lightengine or ECS"
+"Shunt move to Gloucester platform4 or Gloucester CHS departs G444signal, routed via No.1 or 2 Spur"	"Up train from Gloucester UML,platform 1 or 2 passes HortonRoad Jcn routed to UGL"	3	"If the shuntmove is routedto Gloucesterplatform 1, 2 orUML, applyappropriatemargin atGloucester"
+""			
+Shunting Margins – G419 & G31			
+First Movement	Second Movement	Margin	Notes
+"Down train to Awre departs orpasses Gloucester"	"Conflicting shunt move to G419signal departs Gloucester"	21⁄2	"If first train runsvia UML to OverJcn then thesemoves aresimultaneous"
+"Down train to Awre departs orpasses Gloucester (is not routed viaUML to Over Jcn)"	"Conflicting shunt move to G31signal departs Gloucester"	3	
+"Down train via UML to Over Jcndeparts or passes Gloucester"	"Conflicting shunt move to G31signal departs Gloucester"	4	
+"Shunt move from G419 or G31signal arrives Gloucester"	"Conflicting Down train departsGloucester"	1	
+"Shunt move from G419 or G31signal arrives Gloucester"	"Conflicting Down train passesGloucester"	21⁄2	
+"Shunt move from G419 or G31signal arrives Gloucester"	"Up train from Awre arrives orpasses Gloucester"	4	
+""			
+Planning notes			
+"It is not permitted to show pathing time approaching Gloucester Platform 2 in a down passenger train that is routedvia Platform 1. Any pathing time should be applied approaching Horton Rd Jn."			
+"For a down train approaching Gloucester Platform 2 via UML, a maximum of 1 minute of pathing time is permittedbetween Horton Rd Jn and Gloucester (in addition to the adjustment value for approach control). Any excesspathing time should be applied approaching Horton Rd Jn."			
+Any train using Platform 4 or the Up Relief when travelling towards Lydney needs to be timed at Over Junction			
+""			
+Platform Workings for Class 80x			
+Platform 1	Can accommodate 5-car 800/802 only		
+Platform 2	Can accommodate 5 or 9 car 800/802		
+Platform 4	Can accommodate 5, 9 or 10 car 800/802		

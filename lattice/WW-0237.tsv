@@ -1,0 +1,40 @@
+LH	1
+Pencoed	
+""	
+Dwell Time	
+150 to 153	1⁄2
+156 to 159 / LH	1
+""	Tremains Down Loop		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive in Loop	Down Pass Bridgend	11⁄2
+""	Arrive/Pass Bridgend from Pontyclun	Depart Loop	1
+Bridgend				
+""				
+Adjustments to Sectional Running Times				
+Movement	Reason	Timing Load	Value	
+"Down Main to Maesteg Branch (RouteGW874) non – stop services"	Approach control	All	"{1⁄2} approachingBridgend"	
+"Maesteg Branch (Route GW874) to Up Mainnon – stop services"	Slow speed junction	All	{1⁄2} after Bridgend	
+"Up Main to Up VOG (Route GW870) non –stop services"	Approach control	All trains	"{1} approachingBridgend"	
+"Up Main to Up VOG (Route GW870)stopping at Bridgend"	Approach control	"Passenger trainsonly"	"{1⁄2} approachingBridgend"	
+"Down VOG ((Route GW870) to Down Mainnon – stop services"	"Slow speed junctionSRT differential"	"Passenger trainsonly"	{1⁄2} after Bridgend	
+"Down VOG (Route GW870) to Down Mainnon – stop services"	"Slow speed junctionSRT differential"	"Freight trainsonly"	{1} after Bridgend	
+""				
+Dwell Time				
+80x	11⁄2			
+15x	1			
+""				
+Junction Margin				
+First Movement	Second Movement	Reason	Timing Load	Value
+"Down main toMaesteg branch"	Up Pass Stormy	Conditional double red aspects		Same time
+"Pass/Depart toAberthaw"	"Arrive/Pass fromAberthaw"			4
+"Pass/Depart toAberthaw from UpMain/Maesteg"	"Pass/Arrive fromDown Main"			31⁄2
+Pyle	
+""	
+Dwell Time	
+15x / LH	1
+Margam Moors Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value

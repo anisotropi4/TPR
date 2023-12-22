@@ -1,0 +1,37 @@
+""	rrival from Newport Docks to the Cardiff direction (including run-round)	60
+""	rrival from Newport Docks to Newport direction	30
+""	rrival from the Cardiff direction to being placed in the Branch Sidings and vice-versa	15
+""	rrival from the Newport direction to being placed in the Branch Sidings and vice-versa	5
+""	Ebbw Junction			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	Up Main/Up Relief to Park Jcn	Junction differential	"PassengerFreight"	"{1}{2}"
+""	Up Main to Up Relief	Junction differential	All traffic	{1⁄2}
+""	Up Relief to Up Main	Junction differential	All traffic	"{1⁄2} before and {1⁄2}Approaching nexttiming point"
+""	Park Jcn to Down Main/Relief	Junction differential	"PassengerFreight"	"{1} Approachingnext timing point{2} Approachingnext timing point"
+""	Down Main to Down Relief	Junction differential	All traffic	{1⁄2}
+""	Down Relief to Down Main	Junction differential	All traffic	"{1⁄2} Approachingnext timing point"
+""	Marshfield		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"DowntrainpassesMarshfieldonReliefLines"	Train departs Wentloog FT in Up direction	4
+""	Train departs Wentloog FT in Up direction	Down train passes Marshfield on Relief Lines	0
+""	Rumney River Bridge			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	From Down Main and Down Relief	Slow speed at yard entry	All traffic	{2}
+""	Pengam Sidings
+""	
+""	"Of the three lines available at Pengam, one should always be free to facilitate run-rounds or access to/from TidalSidings.Note that the maximum standage in the sidings here is 64 SLUs (total length) each.  FOCs need to make allowancefor loco length when run rounds are required."
+Long Dyke Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+Crossing from Down Relief to Line B, C or D	Slower speed crossover	All	{1⁄2}
+""			
+"Junction Margin (Standard Junction Margin Matrix applies to those values not referenced in the belowtable)"			
+First Movement	Second Movement	Value	
+Passenger train Down Main to Line C	"Train crossing Line B to Up Relief or Line Dto Up Main"	21⁄2	

@@ -1,0 +1,38 @@
+SC093 MOTHERWELL TO GREENHILL LOWER JUNCTION					
+TIMING POINT	DOWN	UP	CODE	NOTES	
+""					
+Coatbridge GMW250	–	–		"ECS terminating/starting CoatbridgeCentral"	
+Coatbridge DGL	–	–	S	"ECS terminating/starting CoatbridgeCentral to Coatbridge Shunt Neck"	
+Coatbridge FLT	–	–	F		
+Gartsherrie South Junction	–	–  SL		To/from Gartcosh Junction – SC105	
+Coatbridge FLT Shunt Neck	–	–	S		ccess to/from Coatbridge FLT from th
+""				orth end via Coatbridge DGL	
+Garnqueen North Junction	–	–		To/from Gartcosh Junction – SC103	
+Greenfoot DGL	–		S		
+Greenfaulds	–	–	S		
+Cumbernauld	–	–		Platform detail must be shown	
+Cumbernauld D.R.S	–			Reversal location only	
+Cumbernauld Sig CN654	–			Reversal location only	
+Greenhill Lower GJ427		-		Reversal location only	
+Greenhill Lower Junction	–	–		"To/from Greenhill Upper Junction  –SC107To/from Carmuirs West Junction – SC119"	
+SC097 WHIFFLET SOUTH JUNCTION TO SUNNYSIDE JUNCTION (GOODS LINE)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Whifflet South Junction	–	–		To/from Mossend North Exit – SC093
+Sunnyside Junction	–	–	X	To/from Bellgrove – SC123
+SC099 WHIFFLET NORTH JUNCTION TO RUTHERGLEN EAST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Whifflet North Junction	–	–	X	To/from Whifflet South Junction – SC093
+Langloan Junction	–	–		To/from Coatbridge Central – SC093
+Kirkwood	–	–	S	
+Bargeddie	–	–	S	
+Baillieston	–	–	S	
+Mount Vernon	–	–	S	
+Carmyle	–	–		
+Rutherglen East Junction	–	–		To/from Shawfield – SC001
+SC101 COATBRIDGE JUNCTION TO LANGLOAN JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Coatbridge Junction				To/from Coatbridge Central – SC093
+Langloan Junction	–	–		

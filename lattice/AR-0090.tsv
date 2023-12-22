@@ -1,0 +1,40 @@
+Ilford		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Trains timed at 75mph or above crossing fromUp ML to Up Passenger Avoiding Line"	Deceleration	"{1⁄2}approachingIlford"
+""		
+Connectional Allowance	2	
+""		
+Dwell Time	1* MTR Elizabeth line services	
+* May be reduced to 1⁄2 minute by agreement with the operator		
+""		
+Ilford Depot London End Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+Down train crossing from Main Line to Electric	Faster speed due to not entering Depot	{-1⁄2}
+"Up train crossing from Electric Line to MainLine not departing Depot"	Faster speed due to not exiting Depot	"{-1⁄2}approachingIlford"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Train Passing Ilford on Electric Lines	Up Train Passing on Electric Lines from Depot	4
+Down Train Departing Ilford on Electric Lines	Up Train Passing on Electric Lines from Depot*	41⁄2*
+Up Train Passing on Electric Lines from Depot	Down Train Passing Ilford on Electric Lines	2
+Up Train Passing on Electric Lines from Depot	Down Train Departing Ilford on Electric Lines	11⁄2
+"* Margin may be reduced to 4 minutes if the next train following on the Up Electric Line from Seven Kings has {1⁄2}approaching its next timing point"		
+Seven Kings		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Down train stopping at Seven Kings crossingfrom the down Electric Line to platform 3"	Approach control prior to slow speed crossover	{1}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down EL train arrive at Seven Kings	"Up train pass/depart Seven Kings towardsIlford EMUD"	1
+"Down train pass/depart Seven Kings Platform3 towards Down ML"	Up train arrive Seven Kings Platform 3	3
+"Down train pass/depart Seven Kings Platform3 towards Down ML"	"Up passenger train which passes Seven KingsPlatform 3 pass/arrive Ilford"	41⁄2
+"Down train pass/depart Seven Kings Platform3 towards Down ML"	"Up freight train which passes Seven KingsPlatform 3 pass/arrive Ilford"	5
+Up train depart Seven Kings Platform 3	Down train pass/arrive Seven Kings Platform 3	3
+"Up passenger train which has passed SevenKings Platform 3 pass/arrive Ilford"	Down train pass/arrive Seven Kings Platform 3	11⁄2
+"Up freight train which has passed SevenKings Platform 3 pass/arrive Ilford"	Down train pass/arrive Seven Kings Platform 3	1

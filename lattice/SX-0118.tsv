@@ -1,0 +1,38 @@
+Horsham			
+""			
+Platform 4	Down Platform Loop	(Both Directions)	Attaching/Detaching and Platform Sharing*
+"* Due to restrictions within the signalling system a 4-car train cannot be planned to arrive on top of an 8-car train inplatform 4 (however this does not apply when the sequence is reversed)"			
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Margin	
+Down train arrive into Platform 3	"Down route set from Platform 4 towards Christ’sHospital"	2	
+Up train arrive into Platform 1 or 2	Down train arrive into Platform 1 or 2	3	
+Down train arrive into Platform 1 or 2	Up train arrive into Platform 1 or 2	3	
+"Up train departing Platform 1, 3 or 4towards Crawley or Dorking"	Up train arriving into Platform 2	2	
+""			
+Planning Note			
+"Trains formed of class 377 or 387 rolling stock must not be planned to shunt from shunt Signal T1417 intoplatforms 1 or 2 at Horsham due to sighting issues (left hand side cab position, right hand side ground level signalposition)"			
+Trains routed from T895 signal to the Up Main, are only able to access Platforms 1 and 2			
+Billingshurst	
+""	
+Dwell Times	
+All Peak Services	1
+Pulborough	
+""	
+Dwell Times	
+All Peak Services	1
+Arundel	
+""	
+Dwell Times	
+All Peak Services	1
+Arundel Junction
+See entry under route – SO630
+Ford		
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass/Depart Platform 1 towards LittlehamptonJunction"	Pass/Arrive Platform 2 from Arundel Junction	4
+Pass Platform 2 from Arundel Junction	"Pass/Depart Platform 1 towards LittlehamptonJunction"	1

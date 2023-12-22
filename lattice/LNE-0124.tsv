@@ -1,0 +1,28 @@
+First Movement	Second Movement	Margin	
+""	Depart US2 (K85) to Hornsey EMUD	Pass Harringay on SL2	3
+""	Cross from US2 to US1	Arrive/Pass from US1	2
+Hornsey EMU Reversing Sidings
+""
+Planning Notes
+"Siding 1 – Usable length of 25 SLU/161 metres; capable of accommodating up to 8x20m vehiclesSiding 2 – Usable length of 37 SLU/241 metres; capable of accommodating up to 12x20m vehiclesTrains formed of a 12-car Class 700 must not be timed to use Hornsey Down Reversing Sidings are there isinsufficient lengths between the buffer stops and Signal K434. Either Hornsey Signal K440 or Bowes ParkReversing Siding should be used instead."
+Hornsey EMU Depot
+""
+Junction Margins
+Consecutive arrivals at, or departures from the same end of Hornsey Depot must be no less than 10 minutes apart
+Alexandra Palace		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Finsbury Park to Alexandra Palace	"DF to Down Hertford and also DF to DS passto pass; approach control and differentialjunction speed"	"1 EMU11⁄2 HST/LH/180/225/80X"
+""	"DF to Down Hertford and also DF to DS startto pass"	1
+""	"DS to Down Hertford also DS to DF pass topass"	1⁄2
+Alexandra Palace to Potters Bar	DF to DS pass to pass	1
+""	DS to DF pass to pass	"1 180/EMU 11⁄2HST/LH/225/80X"
+""		
+Movement Up	Reason	Value
+Potters Bar to Alexandra Palace	"US to UF pass to pass; approach control anddifferential junction speed"	"1 ExceptHST/225/80X11⁄2HST/225/80X"
+""	"US1 to US2 pass to pass; approach controland differential junction speed"	1⁄2 EMU
+Alexandra Palace to Finsbury Park	"Up Hertford to UF pass to pass; differentialjunction speed"	"1 180/EMU 11⁄2HST/LH/225/80X"
+"Up Hertford to US pass to pass; differentialjunction speed"	"1⁄2 1801 HST/LH/225/80X"	
+"US1 to UF pass to pass; differential junctionspeed"	"1 180/EMU 11⁄2HST/LH/80X"	
+"US2 to US pass to pass; differential junctionspeed"	1⁄2 EMU	

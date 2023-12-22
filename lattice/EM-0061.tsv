@@ -1,0 +1,30 @@
+Bedford South Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down Fast to Down Slow	Flashing yellows at Signal WH143	1⁄2 before
+""		
+Movement Up	Reason	Value
+"Up Slow or Down Slow to Up Fast approachingFlitwick.*Only applies if calling at Bedford"	"Acceleration – to be applied approachingFlitwick"	"1⁄2##Does not applyto Class 700services asallowances isincluded in SRT"
+"Down Slow to Up Slow – to be appliedapproaching Flitwick"	Acceleration	1⁄2 180/222/360
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves except for below	2	
+Depart Signal WH601 towards Bedford	"Pass Up Fast or bi-directional Down Slow toUp Slow"	21⁄2
+Depart Signal WH601 towards Cauldwell Depot	Pass to Up Slow	21⁄2
+Pass Down Fast to Down Slow	Pass from Up Fast	3
+Pass Up Slow Line to Up Fast	Pass Up Fast to Up Slow	3
+Pass bi-directional Down Slow to Up Fast	Pass Down Fast to Down Slow	3
+Pass Up Fast to Up Slow	Pass Down Fast to Down Slow	3
+Pass Up Fast to Up Slow	"Pass Down Slow to Down Fast or bi-directional Up Slow"	3
+Bi-directional Down Slow to Up Fast	Down Slow to Bi-directional Up Slow	Parallel
+Down Fast to Down Slow	Down Slow to Bi-directional Up Slow	Parallel
+""		
+Converging Headway		
+First Movement	Second Movement	Value
+Down Slow to Down Fast	Down Fast to Down Fast	4
+Up Fast to Up Fast	Up Slow to Up Fast	21⁄2
+""		
+"Planning NotesShunt at WH601 signalA train standing at WH601 signal prevents southbound movements from the Up Fast and Bi-directional Down Slowto Up slow at Bedford South Junction. Margins for movements to/from WH601 and trains passing to the Up Sloware covered by the standard 2 minute margin above."		
+"Shunt at WH599 signalA train standing WH599 blocks the Up Slow line. A 3-minute margin is required at Bedford Sth Jn following adeparture from WH599 to either Bedford station or Cauldwell Depot.  Trains should not be timed to shunt at SignalWH599 unless absolutely necessary"		

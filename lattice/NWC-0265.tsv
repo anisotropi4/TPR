@@ -1,0 +1,30 @@
+""	Wellington		
+""			
+""	Movement Up	Reason	Value
+""	From Donnington Freight Terminal	Slow speed turn out at Donnington Jn	1 Freight
+""			
+""	Dwell Time		
+""	Class 80x	11⁄2	
+""	DMU	1, except: 1⁄2 Off-peak all station services to Shrewsbury	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Pass or arrive from Donnington FreightTerminal"	Pass or arrive from Abbey Foregate Jn	4
+""	Depart or pass towards Madeley Jn (Salop)	"Pass Donnington Jn from Donnington FreightTerminal"	2
+""			
+""	"Planning NoteSRTs for passenger timing loads stopping at Wellington in either direction are based on stopping in the platformloops and include built in approach control allowances"		
+""			
+""	"Platform end conflictsA minimum of 6 minutes to be allowed between a train departing the Bay and an arrival on the Down."		
+MD900 ABBOTSWOOD JN TO STOKE WORKS JN VIA WORCESTER
+""
+Abbotswood Jn
+""
+See entry under route MD306 Birmingham New Street to Ashchurch (exclusive)
+Norton Jn				
+""				
+Adjustments to Sectional Running Times				
+Movement	Reason	Timing Load	Value	
+Norton Jn to Abbotswood Jn	Junction differential	DMU, 22x, 80x	1⁄2	
+""		XC HST	1	
+Worcester Shrub Hill Platform 1 to Norton Jn	"Slow speed crossover atWorcester station"	80x	1⁄2	
+Train starting journey at Worcester	Running brake test	80x	1⁄2	

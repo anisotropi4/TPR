@@ -1,0 +1,37 @@
+Feltham Signal BEF2157		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down train departs Signal BEF2157 towardsFeltham/Feltham Depot"	"Up train passes/departs Feltham towardsFeltham Junction"	21⁄2 *
+* Based on time of second train at Feltham		
+Feltham Depot Arrival Road London End		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down train from Feltham Junctionpasses/arrives Feltham"	"Up train departs Depot Arrival Road towardsFeltham Junction"	"Same time*"
+"Down train arrives into Depot Arrival RoadLondon End from Feltham Junction/SignalBEF2157"	"Down train passes Feltham Junction towardsFeltham"	1 $
+Up train passes Feltham Junction from Feltham	"Up train departs Depot Arrival Road towardsFeltham Junction"	1 £
+"Up train departs Depot Arrival Road towardsFeltham Junction"	"Down train passes Feltham Junction towardsFeltham"	4 $
+"* Based on time of first train at Feltham$ Based on time of second train at Feltham Junction£ Based on time of first train at Feltham Junction"		
+""		
+Simultaneous Moves Not Permitted		
+Train arrives at Arrival Road Country End	Down train arrives at Arrival Road London End	
+"Train departs Arrival Road Country End towardsFeltham Depot"	Down train arrives at Arrival Road London End	
+Feltham Depot Arrival Road Country End		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Train arrives at Arrival Road Country End fromFeltham station or Feltham Depot"	"Down train arrives at Arrival Road LondonEnd from Feltham Junction"	3
+"Train departs Arrival Road Country End towardsFeltham Depot"	"Down train arrives at Arrival Road LondonEnd from Feltham Junction"	6
+"Train arrives at Arrival Road London End fromFeltham Junction"	"Up train arrives at Arrival Road Country Endfrom Feltham"	3
+"Train arrives at Arrival Road London End fromFeltham Junction"	"Train departs from Feltham Depot towardsArrival Road Country End"	1
+""		
+Simultaneous Moves Not Permitted		
+Train arrives at Arrival Road Country End	Down train arrives at Arrival Road London End	
+"Train departs Arrival Road Country End towardsFeltham Depot"	Down train arrives at Arrival Road London End	
+Feltham	
+""	
+Dwell Times	
+All Services	1
+""	
+Junction Margins	

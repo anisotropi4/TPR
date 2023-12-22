@@ -1,0 +1,5 @@
+Up train arrives or passes Westbury	"Conflicting shuntmove to Westburydeparts W707signal"	2	
+"Down train to Warminster departs orpasses Westbury platform 1"	"Conflicting shuntmove to Westburyplatform 1 departsW707 signal"	21⁄2	
+Shunt move from W707 arrives Westbury	"Conflicting Uptrain fromFairwood Jcn orWarminsterarrives or passesWestbury"	3	
+Shunt move from W707 arrives Westbury	"Up train fromFairwood Jcnarrives WestburyDown Yard orWestbury DR line"	5	
+"Up train towards Bradford Jcn departs orpasses Westbury"	"Shunt move toW722 signal orDown TrowbridgeSiding departsWestbury orWestbury DMUSidings"	"3 – followingpassenger4* – followingfreight"	"Apply passenger marginwhen following light engineor ECS.* If freight departs from astanding start, margin isincreased to 5 minutes."

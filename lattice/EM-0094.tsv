@@ -1,0 +1,24 @@
+LN3273 IRONVILLE JUNCTION TO SHIREBROOK JUNCTION		
+Mansfield Woodhouse		
+""		
+Junction Margin		
+First Movement	Second Movement	Value
+Arrive Platform 3	Arrive Platform 2 in Up direction	2
+LN3340 ALREWAS (INCLUSIVE) TO WICHNOR JUNCTION		
+Wichnor Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains for Central Rivers Depot passing DownLichfield to Up Tamworth"	"Approach control – to be applied approachingWichnor JunctionNot applicable to services timed to stop atWichnor Junction Signal DY78"	1⁄2
+LN3501 DERBY LONDON ROAD JUNCTION TO TAMWORTH (EXCLUSIVE)		
+L & NW Jn		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves (except below)		3
+Up Tamworth Fast to Up/Down Tamworth Slow	"Down Tamworth Fast passenger having departedDerby Platform 1/2"	21⁄2
+"Up Tamworth Fast to Up/Down Tamworth Slowrouted into Derby Platform 4"	"Up Tamworth Slow to Down Tamworth Fastpassenger pass having departed Derby Platform 3"	21⁄2
+Peartree	
+""	
+Dwell Time	
+DMU	1⁄2

@@ -1,0 +1,27 @@
+Cowlairs West Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Up trains diverging towards Cowlairs NorthJunction approaching Cowlairs West Junction"	Approach control	1⁄2
+"Up trains from Springburn towardsBishopbriggs"	"Acceleration (to be applied approachingBishopbriggs)"	1 LH
+""		
+Movement Down	Reason	Value
+"Down trains joining at Cowlairs West Junctionfrom Eastfield TMD / Passenger Loop"	"Acceleration (to be applied between CowlairsWest Junction and Cowlairs South Junction)"	1⁄2
+"Down train from Cowlairs East Junctiontowards Springburn"	Approach control	1⁄2
+""		
+Junction Margins		
+All Conflicting Movements excluding instances listed below	21⁄2	
+First Movement	Second Movement	Margin
+Down pass Cowlairs South Junction	Depart Eastfield TMD	1⁄2
+"Down pass from Springburn towardsBishopbriggs"	Pass from Bishopbriggs	3
+Up Pass Cowlairs West Junction	"Down depart Cowlairs West Junction (whenconflicting)"	1
+Down Pass towards Cowlairs South Junction	"Pass from Cowlairs South Junction to EastfieldTMD/Passenger Loop"	11⁄2
+Cowlairs South Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Springburn	Pass from Cowlairs West Junction	3
+Pass from Cowlairs West Junction	Pass to Springburn	21⁄2
+""		
+Planning Note		
+"Trains booked a pathing stop on the Up E&G must have a minimum dwell time of 1 minute to allow for the overlapto timeout and route reset"		

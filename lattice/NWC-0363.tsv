@@ -1,0 +1,30 @@
+""	Liverpool Central (Low Level)
+""	
+""	Other Restrictions
+""	"Both platforms are bi-directional and services to Headbolt Lane, Ormskirk, Southport and Hunts Cross may departfrom either platform. Services from Hunts Cross may only depart towards Sandhills from Platform 2. Permissiveworking does not apply."
+""	Paradise Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Down train towards James Street passParadise Jn"	"Down train depart/pass Liverpool Centraltowards Moorfields"	2
+""	"Down train from Liverpool Central arrive/passMoorfields"	"Down train depart/pass Liverpool Centraltowards James Street"	Same time
+""	"Down train from Liverpool Central arrive/passMoorfields"	"Up train depart/pass Paradise Jn towardsLiverpool Central"	Same time
+""	Moorfields (Low Level)	
+""		
+""	Connectional Allowance	10
+""		
+""	Platform Reoccupation Time	21⁄2
+""	Sandhills		
+""			
+""	Dwell Time		
+""	"Southport to Hunts Cross andHunts Cross to Southport services(crew change)."	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Between all movements (limited to 2 x 2 minutemoves in succession)."		2
+""			
+""	Platform End Conflicts		
+""	"Down train depart/pass Sandhills towardsKirkdale"	Up train arrive/pass Sandhills from Bank Hall	21⁄2
+""	Up train arrive/pass Sandhills from Bank Hall	"Down train depart/pass Sandhills towardsKirkdale"	2
+""			
+""	Platform Reoccupation Time	21⁄2	

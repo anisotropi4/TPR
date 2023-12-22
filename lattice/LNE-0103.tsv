@@ -1,0 +1,33 @@
+LN806 TAPTON JUNCTION TO MASBOROUGH JUNCTION VIA ‘OLD ROAD’			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	4	4	
+LN807 DORE SOUTH JUNCTION TO DORE WEST JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Dore South Junction toDore West Junction"	AB+2*	*Single Line TCB	
+LN808 DORE STATION JUNCTION TO EARLES SIDINGS (EXCL.)					
+TIMING POINT	DOWN	UP	NOTES		
+""					
+Down Direction					
+"Dore Station Jn toTotley Tunnel East*"	4		*Signal DE5113		
+"Totley Tunnel East* toGrindleford (incl)"	AB+1^		"*Signal DE5113^TCB planned as AB+1 based on timepreceding train departs / passes Grindleford"		
+Grindleford (excl) to Bamford (incl)	5				
+"Bamford (excl) toEarles Sidings SB"	"4 non-stop6 stopping orfreight"				
+""					
+Up Direction					
+Dore West Jn to Dore Station Jn		4			
+Grindleford (excl) to Dore West Jn		AB+1	TCB planned as AB+1		
+"Hathersage (excl) toGrindleford (incl)"		"31⁄2 non-stop51⁄2 stoppingor freight"			
+"Bamford (excl) toHathersage (incl)"		"3 non-stop5 stopping orfreight"			
+"Earles Sidings SB toBamford (incl)"		AB+2	B+2		TCB planned as AB+2
+""	
+AB+2	B+2	
+LN809 SHEPCOTE LANE WEST JUNCTION TO TINSLEY YARD EAST END			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	AB+2*	*Single Line TCB	
+LN814 TINSLEY NORTH JUNCTION TO SHEFFIELD TRAM TRANSFER LINE			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Standard Headway	AB+2*	*Single Line TCB	

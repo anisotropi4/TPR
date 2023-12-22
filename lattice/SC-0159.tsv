@@ -1,0 +1,39 @@
+Helensburgh Central		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down train approaching an occupied platformapproaching Helensburgh Central"	Approach control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive	Depart	1
+SC125 HYNDLAND EAST JUNCTION TO DALMUIR (VIA YOKER)
+""
+Jordanhill
+""
+"RestrictionsPathing time must not be used between Hyndland East Junction and Jordanhill, and vice versa, due to there beingno intermediate signals."
+Hyndland West Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Anniesland	Pass to Anniesland	31⁄2
+Pass from Anniesland	Up Depart Scotstounhill to Hyndland	1
+Pass from Anniesland	Up pass Garscadden to Hyndland	Same time
+Up arrive Jordanhill	Pass from Anniesland	4
+Up arrive Jordanhill	Depart West Curve to Garscadden	1⁄2
+"Up pass Hyndland East Junction (not stoppingJordanhill)"	Pass from Anniesland	4
+"Up pass Hyndland East Junction (not stoppingJordanhill)"	Depart West Curve to Garscadden	1⁄2
+Garscadden		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down ECS going to Yoker CS betweenScotstounhill and Garscadden"	Approach control	11⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Up/Down Main	Pass/arrive from Depot	3
+Pass/arrive from Depot	Pass Down Main	3
+Arrive/pass from Yoker C.S.	Pass to Yoker C.S.	3
+Up pass from Down Yoker	Pass to Yoker or Yoker C.S.	3
+""		
+"RestrictionsPathing time must not be used between Garscadden-Scotstounhill, due to there being no intermediate signals."		

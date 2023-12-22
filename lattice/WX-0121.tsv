@@ -1,0 +1,46 @@
+Laverstock North Junction
+"$ If a train is signalled from the Romsey direction via Laverstock Loop to the Up Main Line then trains bound forthe Romsey line must be held at signal SY40 until the train has cleared Laverstock South Junction"
+Salisbury Tunnel Junction		
+""		
+Adjustment to Sectional Running Times		
+Movements	Reason	Value
+Up trains towards Dean	Approach Control	{1⁄2}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		3 *$
+Passing Down Mainline train	Passing Romsey bound train	11⁄2
+Passing Romsey bound Freight train	Passing Down Main line train	31⁄2
+"* If a down train is signalled via Laverstock Loop then a train signalled from Salisbury to the Romsey directionmust be held at signal SY40 until the train which has traversed Laverstock Loop has cleared signal SY34."		
+"$ If a train is signalled from the Romsey direction via Laverstock Loop to the Up Main Line then trains bound forthe Romsey line must be held at signal SY40 until the train has cleared Laverstock South Junction"		
+Salisbury			
+""			
+Adjustment to Sectional Running Times			
+Movements	Reason	Value	
+"Trains departing from Platforms, 2, 5 or theHolding Siding towards Wilton Junction"	Speed Differential	{1}	
+The standard {1⁄2} crossover/bay allowances are already included in the SRT’s			
+""			
+Dwell Times			
+Class 150 DMU	1		
+Class 158 DMU	11⁄2		
+Class 159 DMU	2		
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Between all movements except as below		3	
+All arrivals	Departures crossing behind	1	
+Down train depart/passing Platforms 3 & 4	Up train arrival Platforms 3 & 4	4	
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Signal	Margin
+Down train arrives at Platform 3	Up train arrives at Platform 4	SY50	3
+Down train arrives at Platform 4	Up train arrives at Platform 3	SY48	3
+Up train arrives at Platform 3	Down train arrives at Platform 4	SY48	3
+Up train arrives at Platform 3	Up train departs Platform 4	SY48	1
+Up train passes/departs Platform 3	Up train passes/arrives at Platform 4	SY50	3
+Up train arrives at Platform 4	Down train arrives at Platform 3	SY50	3
+Up train arrives at Platform 4	Up train departs Platform 3	SY50	1
+Up train passes/departs Platform 4	Up train passes/arrives at Platform 3	SY48	3
+""			
+Permissive Working			
+Attaching/Detaching and Platform Sharing is authorised as shown below -			

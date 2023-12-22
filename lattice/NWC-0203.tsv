@@ -1,0 +1,39 @@
+""	Stechford		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Trains routed towards Aston	Differential Junction Speed	1
+""			
+""	Movement Up	Reason	Value
+""	"Trains from Aston routed towards BirminghamInternational"	Differential Junction Speed	"1 appliedapproachingthe nexttiming point"
+""			
+""	Dwell Time		
+""	Class 350 EMU	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Freight train routed towards Aston	"Passenger train towards BirminghamInternational"	4
+""	"Pass Platform 2 towards BirminghamInternational (not stopping at Lea Hall orMarston Green)"	"Depart Platform 3 towards BirminghamInternational"	11⁄2*
+""	* The normal headway applies at the next mandatory timing point – see section 5.2		
+""	Adderley Park	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1
+Grand Jn			
+""			
+Adjustments to Sectional Running Times			
+Movement Up	Reason	Value	
+"Trains from the Coventry Lines towards StAndrews Jn or Landor St Jn"	Approach Control	1⁄2	
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Pass Down Derby to Down Coventry	Pass on Up Derby	21⁄2	
+Pass Down Derby to Down Coventry	Pass Up Coventry to Up Derby	11⁄2	
+"Pass from Up & Down Camp Hill to DownCoventry"	"Pass from Up Coventry to Up & Down CampHill"	1 2	
+"Pass from Up & Down Camp Hill to DownCoventry"	Pass from Up Coventry to Up Derby	11⁄2 2	
+"Pass from Up & Down Camp Hill to DownCoventry"	Pass from Up Derby to Up & Down Camp Hill	21⁄2	
+"Pass from Up Coventry to Up & Down CampHill"	Pass on Down Coventry from Stechford	3	
+Pass from Up Coventry to Up Derby	"Pass from Up & Down Camp Hill to DownCoventry"	2	
+Pass from Up Coventry to Up Derby	Pass on Down Coventry from Stechford	21⁄2	
+Pass from Up Coventry to Up Derby	Pass from Down Derby to Down Coventry	3	
+Pass from Up Derby to Up & Down Camp Hill	Pass from Down Derby to Down Coventry	3	

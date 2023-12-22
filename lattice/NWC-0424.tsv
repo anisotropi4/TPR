@@ -1,0 +1,29 @@
+""	MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Daytime					
+""	Approaching Northampton	E	1			
+""	Approaching Daventry South Jn	E	1*			"* Trains terminating at Daventry FreightTerminals"
+""	Approaching Hillmorton Jn	E	1			
+""						
+""	Up – SX Daytime					
+""	Approaching Daventry North Jn	E	1*			"* Trains terminating at Daventry FreightTerminals"
+""	Approaching Northampton	E	1			
+""	MD232 HINCKLEY (EXCLUSIVE) TO ABBEY JN					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Daytime					
+""	Approaching Nuneaton	E	1*			* Freight only
+""	MD301 RUGBY TRENT VALLEY JN TO PENKRIDGE (VIA BIRMINGHAM)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – SX Daily					
+""	Approaching Coventry	E	1			
+""	Approaching Grand Jn	E	1			"Does not apply to any service that stop atany location between Coventry and GrandJn (excluding Birmingham International)"
+""	Approaching Wolverhampton	E	1			"Does not apply to all stations servicesformed of Classes 323/350/730"
+""						
+""	Up – SX Daily					
+""	Approaching Bushbury Jn.	E	1			
+""	Approaching Galton Jn	E	1*			"* Does not apply to all stations servicesformed with 323, 350 or 730 unitsThis allowance should be appliedapproaching Galton Jn but may be movedto approaching Soho South Jn in order toaid timetable construction"
+""	Approaching Coventry	E	1*			"*Does not apply to any service that stopsat any location between Proof House Jnand Coventry (excluding BirminghamInternational)"
+""	"Approaching Rugby Trent ValleyJn"	E	1			

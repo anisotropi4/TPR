@@ -1,0 +1,26 @@
+""	MD501 TAMWORTH (INCLUSIVE) TO BIRMINGHAM PROOF HOUSE JN	
+""		
+""	Tamworth High Level	
+""		
+""	Dwell Time	
+""	Class 22x	11⁄2
+""	DMU	1
+""	Wilnecote	
+""		
+""	Dwell Time	
+""	Class 170	1
+""	Kingsbury Reception Sidings
+""	
+""	Planning Rules
+""	
+""	"Only one train is permitted in the section between Kingsbury Reception Sidings and the terminals at any one time.Incoming Intermodal trains for Birch Coppice Terminal to show 3 minute OP stop for acceptance purposes.Departing Intermodal trains from Birch Coppice Terminal to show 2 minute OP stop.Incoming trains for Kingsbury Oil Terminal to show 30 minute OP stop for acceptance purposes.Departing trains from Kingsbury Oil Terminal to show 60 minute OP stop to prepare the train and conduct alocomotive run round.Incoming trains for Kingsbury E.M.R Sidings to show a 5 minute OP stop.Departing trains from Kingsbury E.M.R Sidings to show 20 minute OP stop to prepare the train and conduct alocomotive run round."
+""	Kingsbury Shunt Frame
+""	
+""	Planning Rules
+""	
+""	Only one train can pass Kingsbury Shunt Frame at any one time.
+""	Kingsbury Branch Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Train from Kingsbury Oil terminal that haspropelled at Kingsbury Reception Sidingstowards Tamworth"	Reduced speed	3

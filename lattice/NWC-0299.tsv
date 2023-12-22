@@ -1,0 +1,44 @@
+""	NW2015 ORDSALL LANE JN TO EDGE HILL
+""	
+""	Ordsall Lane Jn
+""	
+""	See entry under route NW6001 – Manchester Piccadilly East Jn to Euxton Jn
+""	Eccles				
+""					
+""	Adjustments to Sectional Running Times				
+""	Movement Down	Reason	Value		
+""	"Trains from Ordsall Lane Jn stopping inEccles Up Goods Loop"	"Approach Control and Slow SpeedCrossover"	1		
+""					
+""	Movement Up	Reason	Value		
+""	"Depart Eccles Up Goods Loop towardsOrdsall Lane Jn"	Speed Differential	"1 applies approachingnext timing point"		
+""					
+""	Junction Margins				
+""	First Movement		Second Movement	Margin	
+""	Up pass		Depart from Up Goods Loop	2*	
+""	* The normal headway applies at the next mandatory timing point – see section 5.2				
+""					
+""	Trains to or from the Weaste Branch				
+""	For trains arriving from Ordsall Lane Jn direction				
+""	Ordsall Lane Jn pass	XX/XX	Weaste dep	XX.XX	
+""		"""-"""		"""-"""	
+""	Eccles (Up Goods Loop) arr	XXOP*XX	"Eccles (Up GoodsLoop) arr"	XXOP*XX	
+""	Eccles (Up Goods Loop) dep	XXOPXX	"Eccles (Up GoodsLoop) dep"	XXOPXX	
+""		"""-"""		"""-"""	
+""	Weaste arr	XX.XX	Ordsall Lane Jn pass	XX/XX	
+""	* Locomotive runs round via Up Main				
+""					
+""	For trains arriving from Astley direction:				
+""	Astley pass	XX/XX			
+""		"""-"""			
+""	Eccles (Up Goods Loop) pass	XX/XX			
+""		"""-"""			
+""	Weaste arr	XX.XX			
+""	Parkside Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Trains to Golborne Jn from Parkside Jn	"Approach control for slow speedjunction"	"11⁄2 (applies approachingParkside Jn)"
+""			
+""	Movement Up	Reason	Value
+""	Trains from Golborne Jn routed to Parkside Jn	"Acceleration from slow speedjunction"	"1 (applies at next timingpoint after Parkside Jn)"
+""			

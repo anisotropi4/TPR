@@ -1,0 +1,26 @@
+Kew Bridge			
+""			
+Adjustments to Sectional Running Times			
+Movements	Reason		Value
+"Down train departing Kew Bridge Platform 1towards Brentford"	Speed Differential		{1}*
+* Applies approaching next timing point.			
+""			
+Junction Margins			
+First Movement	Second Movement		Margin
+Down train departs Platform 1 towards Brentford	"Up train arrives/passes Platform 1 fromBrentford"		4
+Old Kew Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train from Kew East Junction	Down train departs/passes Kew Bridge	3
+"Down train departs Kew Bridge Platform 1towards Brentford"	Up train towards Kew East Junction	4
+Down train from Kew East Junction	Up train towards Kew East Junction	4
+"Down train from Kew East Junction towardsBrentford"	"Up train arrives/passes Kew Bridge fromBrentford"	4
+"Up train arrives/passes Kew Bridge fromBrentford"	Down train from Kew East Junction	21⁄2
+Up train towards Kew East Junction	Down train from Kew East Junction	4
+Up train towards Kew East Junction	Down train departs Kew Bridge Platform 1	2
+Up train passes/arrives at Kew Bridge	Up train towards Kew East Junction	21⁄2
+Up train towards Kew East Junction	Up train passes/arrives at Kew Bridge	4
+Hounslow
+""
+Dwell Times

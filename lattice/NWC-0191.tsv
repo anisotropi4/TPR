@@ -1,0 +1,34 @@
+""	Nuneaton	
+""		
+""	Platform End Conflicts	
+""	"Non-stop Down train preceding an arrival from Abbey Jn must have 3 minutes clearNon-stop Down train following an arrival from Abbey Jn must have 3 minutes clearNon-stop Up train preceding an arrival from Coventry/ Abbey Jn must have 2 minutes clearNon-stop Up train following an arrival from Coventry/ Abbey Jn must have 4 minutes clearStopping Down train preceding an arrival from Coventry must have 3 minutes clearStopping Down train preceding an arrival from Abbey Jn must have 2 minutes clearStopping Down train following an arrival from Coventry must have 4 minutes clearStopping Down train following an arrival from Abbey Jn must have 3 minutes clearStopping Up train preceding an arrival from Coventry/ Abbey Jn must have 2 minutes clearStopping Up train following an arrival from Coventry/ Abbey Jn must have 3 minutes clearConflicting move departures/arrivals to/from same origin/destination must have 5 minutes clear"	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	Standard	5
+""	Canal Farm Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Down freight depart Nuneaton on Down Slow	Down train depart or pass from North Chord	3
+""	"Non-freight movements depart or passNuneaton on Down Slow"	Down train depart or pass from North Chord	21⁄2
+""	Down train passes from North Chord	Down train departs Nuneaton on Down Slow	2
+""	Down train departs from North Chord	Down train passes Nuneaton on Down Slow	31⁄2
+""	Down train departs from North Chord	Down train departs Nuneaton on Down Slow	3
+""	Amington Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down Fast to Down Slow (Nuneaton andAmington Jn)"	Approach Control	1
+""			
+""	Movement Up	Reason	Value
+""	Up Slow to Up Fast	Acceleration from slow speed turnout	"1 afterAmington"
+""	Tamworth Low Level	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1
+""	Class 390/80x	11⁄2
+""	Lichfield Trent Valley Low Level	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1
+""	Class 390/80x	11⁄2

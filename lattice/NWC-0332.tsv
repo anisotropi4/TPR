@@ -1,0 +1,36 @@
+""	Ardwick Jn		
+""			
+""	"Up trains starting from Manchester PiccadillyPlatforms 13 and 14 on the Up Slow linecrossing to the Up Fast or Up East lines atArdwick Jn formed of light locomotives, DMU,EMU, 22x, Loco Hauled passenger servicesand NMTDOES NOT APPLY TO MOVEMENTS TOLONGSIGHT C.S."	"To compensate for shorter distance betweenManchester Piccadilly 13/14 platforms andArdwick Junction compared to that betweenManchester Piccadilly Platforms 1 to 12 andArdwick Jn"	-1⁄2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Passenger	Passenger	3
+""	Freight	Passenger	4
+""	Passenger	Freight	4
+""	Freight	Freight	5
+""	Up Passenger	Down Passenger calling Ardwick	2
+""	Passenger	Down Passenger	2*
+""		"* 2nd train must have a minimum of (11⁄2)pathing time approaching Ardwick Jn"	
+""	Train to Ardwick TMD	Up train pass Ardwick Jn.	41⁄2
+""	Up train pass Ardwick Jn.	Pass from Ardwick TMD	41⁄2
+""	Mayfield Goods Loop		
+""			
+""	Junction margins		
+""	First Movement	Second Movement	Margin
+""	"Depart Manchester Piccadilly platform 14towards Manchester Oxford Road"	"Depart Mayfield Goods Loop to ManchesterPiccadilly platform 14"	1
+""	"Arrive into Mayfield Goods Loop from platforms9 to 14"	Pass Ardwick Jn on Down Slow	1
+""			
+""	Planning Restrictions:		
+""	•The loop is permissive for light engines, ECS and freight		
+""	Manchester Piccadilly		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Trains arriving in Platforms 11 & 12, if alreadyoccupied"	Approach control	1⁄2
+""			
+""	Connectional Allowance	10	
+""			
+""	Dwell Time (applies for services on Platforms 13 and 14 only)		
+""	All, except:	2	
+""	Class 323	1	
+""			

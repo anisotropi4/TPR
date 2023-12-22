@@ -1,0 +1,35 @@
+""	Ashburys		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down/Up	Reason	Value
+""	"All trains for Ardwick T.M.D./Phillips Park SouthJn"	Approach control	1⁄2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive/Pass from Guide Bridge	Pass to Reddish	21⁄2
+""	Arrive/Pass from Guide Bridge	Depart to Reddish	1
+""	Pass to Reddish	Arrive/Pass from Guide Bridge	31⁄2 *
+""	Depart to Reddish	Arrive/Pass from Guide Bridge	4 *
+""	Arrive/Pass from Ardwick Jn	Pass Down main to Ardwick Depot	3 #
+""	Arrive/Pass from Ardwick Jn	Depart Down main to Ardwick Depot	1
+""	Arrive/Pass from Ardwick Jn	Arrive Down platform from Ardwick Depot	2 #
+""	Pass Down main to Ardwick Depot	Arrive/Pass from Ardwick Jn	3
+""	Arrive Down platform from Ardwick Depot	Arrive/Pass from Ardwick Jn	21⁄2
+""	Pass to/from Phillips Park South Jn	Arrive/Pass Up/Down Main	3 #
+""	Arrive/Pass Up/Down Main	Pass to/from Phillips Park South Jn	3
+""	"* Margins reduced to 3 minutes if the second train has a minimum of 1 minute pathing time approaching Ashburysor has stopped at Gorton.# Margins are increased by 1 minute if the first movement is a freight train"		
+""			
+""	Planning Note – trains reversing at Ashburys		
+""	"Trains which have arrived via Philips Park South Jn can reverse in Ashburys platforms 1 or 2 and on the DownGoods. The maximum standage available in platforms 1 and 2 is 121 meters and the maximum standage availableon the Down Goods is 217 meters. These standages exclude any operator specific signal standback allowances."		
+""	Ardwick T.M.D.		
+""			
+""	"Arrival and departure margins. These apply irrespective of which depot entrance (Ardwick or Ashburys)the first and second move use"		
+""	First Movement	Second Movement	Margin
+""	Depart Ardwick T.M.D.	Depart Ardwick T.M.D.	10 +
+""	Arrive Ardwick T.M.D.	Arrive Ardwick T.M.D.	15 *
+""	Depart Ardwick T.M.D.	Arrive Ardwick T.M.D.	15
+""			
+""	"+ Departures can be simultaneous or less than 10 minutes apart where these departures are from opposite endsof the depot. In these circumstances the previous departure in either direction must be a minimum of 20 minutesbefore the “second movement.”"		
+""	"*An arrival from the Ashburys direction can arrive simultaneously with, or less than 15 minutes before/after anarrival from the Ardwick direction. In these circumstances the next arrival from either direction must be a minimumof 30 minutes after the first arrival."		
+""	Ardwick Jn
+""	See entry under route NW5001 Crewe North Jn to Manchester Piccadilly

@@ -1,0 +1,31 @@
+""	"SO130F COURTHILL LOOP NORTH JUNCTION TOCOURTHILL LOOP SOUTH JUNCTION"
+""	
+""	See entry under route SO130
+""	SO130H SALTWOOD JUNCTION TO CTRL/ET BOUNDARY
+""	
+""	Saltwood Junction
+""	See entry under route SO130
+""	SO140 SWANLEY TO ASHFORD INTERNATIONAL
+""	
+""	Swanley
+""	See entry under route SO110
+""	Otford	
+""		
+""	Connectional Allowance	4
+""		
+""	Planning Note	
+""	"The non-stop headway applies for consecutive departures from Otford in the Up direction providing the first traindoes not stop at Shoreham and the correct headway is applied at the next common timing point irrespective ofcalling pattern. National TPR section 1.5.5 Application of Planning Headways refers"	
+""	Otford Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All freight trains which will travel on the DownMaidstone"	Speed Differential	1
+""			
+""	Applies to the following timing loads for trains which have travelled on the Down Chatham Slow:		
+""	Timing Load	Reason	Value
+""	Freight up to 1200T inclusive at 60mph	Speed Differential	1⁄2
+""	"Freight between 1201 - 2400T inclusive at60mph"	Speed Differential	1
+""	"Freight up to 1600T inclusive of containers at75mph"	Speed Differential	1
+""			
+""	Timing Load	Reason	Value
+""	Applies to the following timing loads for trains which have travelled on the Up Maidstone:		

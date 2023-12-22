@@ -1,0 +1,26 @@
+Ryhope Grange			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason	Value	
+Going from Ryhope Grange Sidings	Acceleration from slow speed	"1 approachingthe next timingpoint"	
+Going to Hendon Branch	Approach Control	1	
+""			
+Movement Up			
+Going to Ryhope Grange Sidings	Approach Control	1	
+From Hendon Branch	Acceleration	"1 approachingthe next timingpoint"	
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Pass to Hendon Branch	Pass Up	41⁄2	
+Pass to Ryhope Grange Sidings	Pass Down	41⁄2	
+Pass Down	Pass to Ryhope Grange Sidings	31⁄2	
+Pass Up	Pass to Hendon Branch	4	
+""			
+"Restrictions•If a train is being propelled out of Ryhope Grange Sidings, no Up trains can pass. Margin of 1” beforemovement commences is acceptable; otherwise a train from Sunderland must follow train towardsSeaham"			
+Sunderland	
+""	
+Dwell Time	
+Multiple Unit	1
+Up Class 5, departing as Class 1/9 in same direction	4
+Down Class 1/9, departing as Class 5 in same direction	4
+Metro Services	1⁄2

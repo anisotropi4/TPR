@@ -1,0 +1,40 @@
+Tulse Hill			
+""			
+Adjustment to Sectional Running Times			
+Movement	Reason	Value	
+Up trains approaching Platform 1	Approach Control on Signal TVC768	{1⁄2}	
+"Non-stop trains from Streatham towards HerneHill that run via Platform 3"	Approach Control on Signal TVC762	{1⁄2}	
+""			
+Connectional Allowances			
+All Services (except Thameslink)	3		
+Thameslink Route Services	4		
+""			
+Length Restriction			
+"The standage at signal TVC766 on the Down Leigham Spur to avoid fouling Leigham Junction is 237metres /37SLUs / 11 cars (or 10 cars if the train is formed of Class 171 stock)."			
+"The standage at signal TVC770 on the Up West Norwood Spur to avoid fouling West Norwood Junction is258metres / 40SLUs / 12 cars (or 10 cars if the train is formed of Class 171 stock)."			
+"The standage at signal TVC760 on the Up Holborn is 318metres / 49SLUs / 15 cars without fouling Tulse HillSouth Junction"			
+"The standage at signal TVC763 on the Down Holborn is 259metres / 40SLUs / 12 cars without fouling Tulse HillNorth Junction"			
+"The standage at signal TVC762 on the Up Portsmouth is 249metres / 38 SLUs / 11 cars without fouling Tulse HillSouth Junction"			
+"The standage at signal TVC765 on the Down Portsmouth is 220metres / 34 SLUs / 10 cars without fouling TulseHill North Junction"			
+""			
+Dwell Time			
+All GTR services	"1 – may be reduced to 1⁄2 minute outside SX peak hours by exception only with theagreement of Train Operator"		
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Signal	Margin
+"Train sat at signal TVC165 on Up PortsmouthLine"	"Up train arrives at or passes platform 3towards Herne Hill"	TVC762	0*
+"Down train arrives at or passes platform 4 fromSignal TVC165"	"Up train arrives at or passes platform 3towards Peckham Rye"	TVC762	2
+*Route is set towards Herne Hill preventing any train arriving or passing Platform 2 at Herne Hill			
+""			
+Planning Restriction			
+Terminating or shunting trains formed of more than 8 cars cannot be planned here.			
+Streatham		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+All movements towards Streatham Common	"Approach Control on signal TVC779 and15mph speed limit on Streatham Spurs"	{1⁄2}
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Dwell Time		

@@ -1,0 +1,34 @@
+""	GW680 PENWITHERS JUNCTION TO FALMOUTH			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Penwithers Jn to Penryn	AB+2	AB+2	Single Line – Tokenless block
+""	Penryn to Falmouth Docks	One train working	Single Line – Tokenless block	
+""	GW690 ST. ERTH TO ST. IVES			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	St. Erth to St.Ives	One train working	Single Line – Staff	
+""	GW700 GLOUCESTER BARNWOOD JUNCTION TO SEVERN TUNNEL JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Gloucester Barnwood Junction toHorton Road Junction"	AB+1*	AB+1*	*TCB planned as AB
+""	"Horton Road Junction toGloucester"	AB+1*	AB+1*	"*TCB planned as ABRefer to Junction Margins and Station PlanningRules"
+""	"Gloucester to Severn TunnelJunction"	4	4	
+""	"GW710 LLANWERN STEELWORKS EAST CONNECTION TO LLANWERN WORKSWEST CONNECTION VIA TATA STEEL SERVICE LINES"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Llanwern Works East Connectionto Llanwern Works WestConnection via Tata Steel ServiceLines"	TCB	TCB	
+""	GW720 FIFOOTS POINT POWER STATION TO EAST USK GF			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Fifoots Point Power Station toEast Usk GF"	Single Line	One train working	
+""	"GW730 SHREWSBURY SUTTON BRIDGE JUNCTION (EXCL.) TO NEWPORTMAINDEE WEST JUNCTION (NORTH AND WEST LINE)"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Sutton Bridge Jn to Dorrington	AB+2	AB+2	"When Dorrington ‘box is switched out AbsoluteBlock to apply between Sutton Bridge Jn and MarshBrookWhen Sutton Bridge Jn ‘box and Dorrington ‘box areboth switched out Absolute Block to apply betweenEnglish Bridge Jn and Marsh Brook"
+""	Dorrington to Marsh Brook	AB+2	AB+2	
+""	Marsh Brook L.C. to Craven Arms	AB+2	AB+2	
+""	Craven Arms to Bromfield	AB+2	AB+2	
+""	Bromfield to Woofferton	AB+2	AB+2	
+""	Woofferton to Leominster	AB+2	AB+2	
+""	Leominster to Moreton on Lugg	AB+1⁄2	AB+2	
+""	Moreton on Lugg to Shelwick Jn	AB+2	AB+2	

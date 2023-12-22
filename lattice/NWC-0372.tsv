@@ -1,0 +1,36 @@
+""	New Mills South Jn		
+""			
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass from Hazel Grove Freight	Pass to Romiley	31⁄2
+""	Pass from Hazel Grove Passenger	Pass to Romiley	3
+""	Pass to Romiley Passenger	Pass to Chinley	21⁄2
+""	Pass to Romiley Freight	Pass to Chinley	3
+""	Hazel Grove High Level Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Down train to Down Cheadle Loop	Approach control	2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass to New Mills Passenger	Pass from New Mills	3
+""	Pass to New Mills Freight	Pass from New Mills	4
+""	Pass to Stockport Passenger	Pass from Northenden	31⁄2
+""	Pass to Stockport Freight	Pass from Northenden	41⁄2
+""	"Margins can be reduced by 1⁄2 minute if the second train has a minimum of 1 minute pathing allowanceapproaching Hazel Grove High Level Jn"		
+Hazel Grove		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+Up trains routed via Platform 2 or terminating	Approach Control and Slow speed turnout	1⁄2 *
+"Up train arriving Platform 1 simultaneous orwithin 2 minutes of a train routed from the Up& Down Hope Valley via Platform 2"	"Approach control due to restricted signallingoverlap"	1⁄2 *
+* In circumstances where both allowances are applicable, only one 1⁄2 allowance is required to be applied		
+All Down trains departing Platform 1	Slow speed turnout	"1⁄2 approachingnext timing point"
+All Down trains passing Platform 1	Approach Control and Slow speed turnout	"1⁄2 approachingHazel Groveand 1⁄2approachingnext timing point"
+""		
+Dwell Time		
+Standard	1	
+Up Trains terminating and ECS to Up or Down Sidings	3	
+""		

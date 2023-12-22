@@ -1,0 +1,35 @@
+""	Bolton		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	All trains to platform 1 and 3	Approach control	1
+""	All trains to platform 2	Approach control/entering Bay platform	11⁄2
+""			
+""	Dwell Time		
+""	DMU/EMU	1	
+""			
+""	"Splitting and Coupling of Units: Permitted in all platforms.Coupling of units in through platforms is only permitted by special agreement"		
+""	Lostock Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass to Chorley	Pass from Hindley	3
+""	Pass from Hindley	Pass to Chorley (non-stop at Lostock)	3
+""	Pass from Hindley	Pass to Chorley (stopping at Lostock)	2
+""	Adlington	
+""		
+""	Dwell Time	
+""	DMU/EMU	1
+""	Euxton Jn
+""	
+""	See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+""	NW6003 CASTLEFIELD JN TO ALLERTON JN		
+""			
+""	Trafford Park East Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Down trains for the Football Ground Halt	Approach controlled signalling for crossover	1⁄2
+""	"Down Freight Trains to Trafford Park ReceptionLines"	Approach controlled signalling for crossover	1
+""	"Up Freight Trains from Trafford Park ReceptionLines"	Slower speed over junction	"2 betweenTrafford ParkEast Jn andCastlefield Jn"
+""			

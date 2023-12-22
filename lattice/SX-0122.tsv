@@ -1,0 +1,37 @@
+Chichester Reception Lines		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Reception 1 or 2	Depart Stone Terminal	4
+Arrive Reception 1	Depart Reception 2	3
+Arrive Reception 2	Arrive/Depart Reception 1	8
+""		
+Planning Note		
+"Trains from Chichester Stone Terminal routed towards Havant must be planned to run via CC307 signal (RM) thenpropel into Reception 2 to run around prior to departure to Chichester station.Trains to Chichester Stone Terminal routed from Barnham must be planned to run via Reception 2 to run round,then via CC307 signal (RM) before propelling into Chichester Stone TerminalWhile a run round is being completed on Reception 2, no train can arrive, depart or be berthed on Reception 1"		
+""		
+Berthing Facilities		
+Location	Cars	Notes
+Reception No1	"12 (EMU)300m (Other)"	This location is not to be used without prior arrangement
+""		
+Maximum Standage		
+Reception No1	544m/85 SLU	
+Reception No2	489m/76 SLU	
+Stone Terminal	256m/40 SLU	
+Havant
+""
+Refer to Wessex Timetable Planning Rules – SW110
+SO530 SOUTH CROYDON JUNCTION TO EAST GRINSTEAD		
+""		
+Sanderstead		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Down trains towards Sanderstead passingSouth Croydon on the Reversible Line"	"Speed Differential after20mph crossover"	{1⁄2} approaching Sanderstead
+Oxted		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Arrive Platform 2 on Down East Grinstead within3 minutes of a shunt move into either Platform 1or 3 via Signal 306"	"Approach control on Signal OD7 due to reducedoverlap on Signal OD11"	{3}
+""		
+Berthing Facilities		
+Location	Cars	Notes

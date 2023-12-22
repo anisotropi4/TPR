@@ -1,0 +1,43 @@
+Turnround Allowances (From Paddington)		
+DMU	5	
+Class 387/319/769	5	
+Class 80X (5 car)	6	
+Class 80X (9/10 Car)	8	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down train pass on Up Relief to UpGoods Loop"	Up train pass/arrive Platform 5	5
+Slough Up Goods Loop			
+""			
+Adjustment to Sectional Running Time			
+Movement	Reason	Timing Load	Value
+Crossing into the loop from the down direction	"Slow turnout speed intothe loop (25mph)"	All traffic	{1}
+Burnham	
+""	
+Dwell Time	
+Class 165/6	1⁄2
+Taplow	
+""	
+Dwell Time	
+Class 165/6	1⁄2
+Maidenhead East Jn		
+""		
+Junction Margins		
+First movement	Second Movement	Margin
+Passenger/ECS pass Maidenhead on Up Main	"Passenger/ECS cross Maidenhead East Jn fromDown Main to Down Relief"	21⁄2
+"Passenger/ECS cross Maidenhead East Jn fromDown Main to Down Relief"	Passenger/ECS pass Maidenhead on Up Main	2
+""		
+Planning Note		
+"It is not possible to add timing allowances between Maidenhead East Jn and Maidenhead as there are nointermediate signals, though {1} for permissive platform arrivals remains required. If an engineering allowance isrequired in a Down train approaching Maidenhead (see Section 5.5), and the train is also timed at MaidenheadEast Jn, then the allowance should instead be applied at Maidenhead East Jn."		
+Maidenhead			
+""			
+Connectional Allowance	3		
+""			
+Dwell Time			
+80x	11⁄2		
+Class 165/6	1		
+Class 387/319/769	1		
+Class 345	1*		
+*  2 Minutes for a train terminating then running ECS in the same direction			
+""			
+Turnround allowances	16X/319/387/769	Class 80X (5 Car)	Class 80X (9/10 Car)

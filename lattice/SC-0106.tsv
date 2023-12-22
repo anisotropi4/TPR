@@ -1,0 +1,33 @@
+New Cumnock					
+""					
+Junction Margins					
+First Movement	Second Movement	Margin			
+Pass Bank Junction to Branch	Down pass New Cumnock	2			
+Pass Bank Junction to Branch	Down depart New Cumnock	1			
+Pass Bank Junction to Branch	Up pass/depart Mauchline	2			
+Down pass New Cumnock	Pass Bank Junction to Branch	3			
+Down depart New Cumnock	Pass Bank Junction to Branch	4			
+""					
+"Operating Note1. A tail lamp camera is provided for Up trains, about 1⁄2 mile north of Bank Junction2. Up trains running into the Headshunt at New Cumnock are restricted to maximum 61 SLUs including loco."					
+""					
+Trains arriving at New Cumnock Coal Terminal	Trains departing New Cumnock Coal Terminal				
+""	Arr	Dep		Arr	Dep
+Mauchline		XX/XX	New Cumnock URS		XX:00
+New Cumnock	XXRMPR00	XXRMPR05	New Cumnock	XXOP05	XXOP10
+New Cumnock URS	XX:12		Kirkconnel		XX/XX
+Mauchline		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart from Branch	Down pass to Kilmarnock	4
+Down pass to Kilmarnock	Arrive Loop from Newton-on-Ayr	3
+Down pass to Kilmarnock	Depart from Branch	1
+Arrive Up Loop (train less than 59 SLU)	Arrive Down Loop	5
+Depart Up Loop (train more than 59 SLU)	Down pass from New Cumnock/Bank Junction	31⁄2
+Arrive Loop from Newton on Ayr	Down pass to Kilmarnock	5
+""		
+"Loop RestrictionA train in excess of 59 SLUs standing on the Up Branch Loop will foul the Down Main Line"		
+""		
+"Operating Stop2 minutes.  Trains running to/from Newton Junction for purposes of token exchange."		
+""		
+"RestrictionThe Up Branch/Down Branch Loop on the Branch line to Newton Junction is limited in length to 17 HTAs.  If a trainis already on the Branch approaching Mauchline from Newton Junction, a second train for the Branch atMauchline should be held on the GSW main line at Signal M7.  When the first train has left the branch atMauchline, the second train can draw forward from Signal M7 to the Signal Box and perform the token exchange(see above) for entry to the branch.If however it is not possible to hold the second train on the GSW main line owing to other trains requiring a path, itshould proceed into the Up Branch Loop, providing the train length does not exceed 17 HTAs.  In thesecircumstances a 15 minute margin is then required between the first train arriving off the Branch and the secondtrain departing towards Newton JunctionTrains travelling to Newton Junction cannot proceed on to the Branch until previous trains to Newton Junctionhave run clear of the Branch and handed in their token, i.e. 2 minutes after departure of the first train at SignalPA334.  Also, trains cannot proceed toward Annbank if a train to/from Killoch Colliery is in the section betweenAnnbank and Newton JunctionWhen a train is running round in the Loop at Mauchline, there must be a margin of at least 15 minutes duringwhich no train can be in transit between Mauchline, Annbank, Newton Junction and Falkland Yard requiring thetoken and vice versa, as whilst running round the train occupies the token section."		

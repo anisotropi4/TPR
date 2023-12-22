@@ -1,0 +1,40 @@
+Dunblane			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason	Value	
+Terminating services into Platform 3	Approach control	1	
+Terminating services into Platform 2	Approach control	1⁄2	
+""			
+Movement Up	Reason		Value
+Up depart Platform 2 or 3	Slow speed crossover		1⁄2*
+*Applied approaching next timing point			
+""			
+Dwell Time			
+MU	1		
+LH Slam Doors	2		
+HST Power Doors	11⁄2		
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+"Depart/pass platform 2 to Dunblane SignalDB43"	Depart Platform 3 to Dunblane SB	2	
+Depart platform 3 to Dunblane Signal DB43	Depart platform 2 to Dunblane SB	2	
+Depart/pass platform 1 to Stirling	Arrive from Dunblane SB	3	
+Depart platform 2/3 to Stirling	Arrive from Dunblane SB	31⁄2	
+Depart Dunblane SB to Platform 1/3	Arrive/Pass Platform 2	41⁄2	
+Depart platform 2 to Stirling	Arrive platform 3 from Stirling	41⁄2	
+Depart platform 2 to Stirling	Arrive/pass platform 2 from Stirling	4	
+Depart platform 3 to Stirling	Arrive platform 3 from Stirling	41⁄2	
+Depart platform 3 to Stirling	Arrive/pass platform 2 from Stirling	4	
+Blackford Freight Terminal		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Passenger Pass Blackford	"Arrive into Freight Terminal having stopped atBlackford South Junction"	4
+Up Freight Pass Blackford	"Arrive into Freight Terminal having stopped atBlackford South Junction"	41⁄2
+"Arrive into Freight Terminal having stopped atBlackford South Junction"	Up Passenger Pass Blackford	2
+"Arrive into Freight Terminal having stopped atBlackford South Junction"	Up Freight Pass Blackford	2
+For trains to Blackford Freight Terminal		
+""	ARR	DEP
+Greenloaning		XX/XX
+Blackford South Junction	XXOP00	XXOP001⁄2
+Blackford Freight Terminal	XX†03	

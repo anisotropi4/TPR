@@ -1,0 +1,40 @@
+""	NW5011 HEATON NORRIS JN TO GUIDE BRIDGE STATION JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Guide Bridge Signal GB872	–		S	TIPLOC GIDB872
+""	Guide Bridge Station Jn				To/from Guide Bridge – NW5015
+""	NW5012 FOLEY CROSSING (EXCLUSIVE) TO STOKE JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Foley Crossing SB				"To/from Longton - LN3505 Refer to EastMidlands Timetable Planning Rules"
+""	NW&C/LNE Route Boundary				1 mile 40 chains
+""	Stoke Jn	–	–		To/from Stoke-on-Trent – NW5009
+""	NW5013 DENTON JN TO ASHTON MOSS NORTH JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Denton Jn	–	–		To/from Heaton Norris Jn – NW5011
+""	Ashton Moss North Jn	–	–		To/from Baguley Fold Jn – NW7021
+""	NW5015 HADFIELD TO ARDWICK JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Hadfield	–			"Single line from Hadfield to/from DintingWest Jn"
+""	Dinting East Jn				To/from Dinting South Jn – NW5017
+""	Dinting	–	–		
+""	Dinting West Jn				To/from Dinting South Jn – NW5019
+""	Broadbottom	–	–	S	
+""	Hattersley	–	–	S	
+""	Godley	–	–	S	
+""	Newton (for Hyde)	–	–	S	"Timing point for stopping trains in the Updirection and all trains in the Downdirection"
+""	Flowery Field	–	–	S	
+""	Hyde Jn	–	–		To/from Woodley – NW9011
+""	"Guide Bridge Down and UpPassenger Loop"	–	–	S	
+""	Guide Bridge East Jn				To/from Sidings
+""	Guide Bridge West Jn				To/from Stalybridge – NW5021
+""	Guide Bridge	–	–		Platform detail must be shown.
+""	Guide Bridge Station Jn				To/from Denton Jn – NW5011
+""	Fairfield	–	–	S	
+""	Gorton	– GL	–	S X	
+""	Gorton Jn				
+""	Ashburys Stone Terminal	–	–	F	Includes Through Sidings
+""	Ashburys East Jn				To/from Reddish North – NW9007
+""	Ashburys	–	–		"Platform detail must be shown includingUA (Up Arrival Siding) and DG (DownGoods).To/from Ashburys Stone Terminal"

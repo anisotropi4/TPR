@@ -1,0 +1,45 @@
+""	Salisbury		
+""	Platform 1	Reception Road	Attaching/Detaching and Platform Sharing * $
+""	Platform 2	Up Main	Attaching/Detaching and Platform Sharing $
+""	Platform 3	Platform Loop	Attaching/Detaching and Platform Sharing $
+""	Platform 4	Down Main	Attaching/Detaching and Platform Sharing $
+""	Platform 5	West Bay	Attaching/Detaching and Platform Sharing *
+""	Platform 6	East Bay	Attaching/Detaching and Platform Sharing
+""	* Not a passenger line		
+""	$ A second train must arrive in an occupied Platform before the first train is allowed to depart		
+Salisbury Depot	
+""	
+Acceptance of Trains	
+Minimum Margin	20
+""	
+Dispatch of Trains	
+Minimum Margin	15
+""	
+Between Arrivals and Departures	
+Minimum Margin	10
+""	
+Timing Point	
+Timing Point is the train crew relief point/signal SY232	
+""	Salisbury Signal SY215
+""	
+""	Station Working Requirements
+""	"Access is only available by use of a ‘Shunters Release’ which enables Salisbury Signal box to set the route.Additional trains planned to reverse behind SY215 should be arranged with local operations staff to ensure staffavailability."
+""	Salisbury East Sidings
+""	
+""	Station Working Requirements
+""	Access is only available by use of a ‘Shunters Release’ which enables Salisbury Signal box to set the route.
+""	Wilton Junction				
+""					
+""	Adjustment to Sectional Running Times				
+""	Movements	Reason	Value		
+""	Trains towards Warminster	Speed Differential	{1⁄2}		
+""	"Freight timing loads from Quidhampton Sidings towards Salisbury – allowances to be appliedapproaching next timing point after Wilton Junction:"				
+""	Train Class	Trailing Load	Reason	Value	
+""	Class 6	601 – 1000t	TR40 – TR55	Not at line speed passing Wilton Junction	{1⁄2}
+""	1001 – 1400t	TR70	Not at line speed passing Wilton Junction	{1}	
+""	1401 – 1800t	TR85 – TR100	Not at line speed passing Wilton Junction	{11⁄2}	
+""	1801 – 2400t	TR115 – TR130	Not at line speed passing Wilton Junction	{2}	
+""	Class 4	601 – 1000t	TR40 – TR50	Not at line speed passing Wilton Junction	{1⁄2}
+""	1001 – 1400t	TR60 – TR80	Not at line speed passing Wilton Junction	{1}	
+""	1401 – 1600t	TR90	Not at line speed passing Wilton Junction	{11⁄2}	
+""					

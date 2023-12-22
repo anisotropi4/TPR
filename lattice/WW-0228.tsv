@@ -1,0 +1,36 @@
+""	GW850 LECKWITH LOOP NORTH JN TO LECKWITH LOOP SOUTH JN
+""	
+""	"A train cannot be planned to stand between Leckwith Loop North Jn and Leckwith Loop South Jn if its lengthexceeds:290m/45 SLU standage at CF2541 (Down direction)319m/49 SLU at CF2540 (Up direction), signal to block joint.235m/36 SLU is the distance between the signals for reversing."
+""	GW870 BARRY TO BRIDGEND BARRY JUNCTION (VALE OF GLAMORGAN LINE)	
+""		
+""	Rhoose	
+""		
+""	Dwell Time: 150	1⁄2
+""	Llantwit Major	
+""		
+""	Dwell Time: 150	1⁄2
+""	Waterton LC
+""	Services over this crossing should only be planned between the hours of 2100 and 0700.
+""	GW874 BRIDGEND LLYNFI JUNCTION TO MAESTEG	
+""		
+""	Wildmill	
+""		
+""	Dwell Time: 150 to 175	1⁄2
+""	Sarn	
+""		
+""	Dwell Time: 150 to 175	1⁄2
+""	Tondu	
+""		
+""	Dwell Time: 150 to 175	1⁄2
+""	Garth	
+""		
+""	Dwell Time: 150 to 175	1⁄2
+""	Maesteg Ewenny Road	
+""		
+""	Dwell Time: 150 to 175	1⁄2
+""	GW900 PILNING TO FISHGUARD HARBOUR			
+""				
+""	Pilning			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value

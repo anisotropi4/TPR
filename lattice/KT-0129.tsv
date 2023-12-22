@@ -1,0 +1,37 @@
+""	Canterbury Road Junction		
+""	Junction Margin		
+""	First Movement	Second Movement	Margin
+""	Down Catford Loop Freight service	Up Brixton Spur to Up Catford Loop	3
+""	Denmark Hill	
+""		
+""	Dwell Time	
+""	All Thameslink Services	1
+""		
+""	Connectional Allowance	4
+""	Crofton Road Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Movement Down	Margin
+""	"Up train not stopping at Peckham Rye crossingUp Catford Loop to Up Atlantic"	Approach control and deceleration	1⁄2
+Peckham Rye		
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Dwell Time		
+All GTR services	"1 – may be reduced to 1⁄2 minute outside SX peak hours by exception only with theagreement of Train Operator"	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train from East Dulwich towards Peckham Rye	"Train from Peckham Rye towards Denmark Hillon Up Atlantic Line"	1
+"Train from Peckham Rye towards Denmark Hillon Up Atlantic Line"	Train from East Dulwich towards Peckham Rye	3
+""		
+Planning Note		
+"Pathing time should not be added between Crofton Road Junction and Peckham Rye as the end of train is likely tofoul Crofton Road Junction or Peckham Rye Junction.  This applies to all trains from the Atlantic Lines and not theCatford Loop which are longer than 5 coaches or 87m length"		
+Nunhead		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down freight trains towards Lewisham	Approach Control at Nunhead signal VS451	1
+"Down passenger and ECS trains towardsLewisham"	Approach Control at Nunhead signal VS451	1⁄2
+""		

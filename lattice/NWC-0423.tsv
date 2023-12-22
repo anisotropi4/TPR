@@ -1,0 +1,15 @@
+""	MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)					
+""						
+""	"Down – SX0600-2230 Camden Jn to Ledburn Jn0600-2240 Ledburn Jn to Hanslope Jn0600-2300 Hanslope Jn to Hillmorton Jn via WeedonSee NW1001 for allowance across Trent Valley toward Crewe"					
+""	Location	Type	FL/ML	SL	GL	Remarks
+""	Approaching Tring	E		1		"Apply between 0600 – 2230 SXApplies only to services terminating atTring"
+""	"Approaching Milton KeynesCentral"	E		1		Apply between 0600 - 2240 SX
+""	Approaching Hanslope Jn	E	1			"Apply between 0600 - 2240 SXCan be applied approaching Milton KeynesCentral for trains routed Down Fast toDown Slow or Milton Keynes ReversibleFast"
+""	Approaching Hillmorton Jn	E	1			Apply between 0600 - 2300 SX
+""						
+""	"Up – SX0600-2355 Colwich to Rugby Trent Valley Jn0600-2300 Hillmorton Jn to Hanslope Jn via Weedon0600-2240 Hanslope Jn to Ledburn Jn0600-2230 Ledburn Jn to Camden Jn"					
+""	Location	Type	FL/ML	SL	GL	Remarks
+""	"Approaching Rugby Trent ValleyJn"	E	1	1		Apply between 0600 - 2355 SX
+""	Approaching Tring	E	1	1		Apply between 0600 - 2240 SX
+""	Approaching Wembley Central	E		1		"Apply between 0600 - 2230 SXApplies to freight routed to Wembley Yardand all trains to the Willesden Relief Lines"
+""	"Approaching Willesden WestLondon Jn"		1	1		Apply between 0600 - 2230 SX

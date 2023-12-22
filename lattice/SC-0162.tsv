@@ -1,0 +1,35 @@
+SC133 WESTERTON TO MILNGAVIE		
+""		
+Bearsden		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down arrive/pass	Up depart	1
+Down arrive/pass	Up pass	2
+Up depart	Depart Milngavie	1
+Arrive/pass Westerton (from Bearsden)	Up depart	Simultaneous
+Arrive/pass Westerton (from Bearsden)	Pass Bearsden	1
+Hillfoot		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up arrive/pass	Down Depart to Milngavie	1⁄2
+Up arrive/pass	Down Pass to Milngavie	2
+Down depart/pass	Down arrive/pass Bearsden	3
+Arrive Milngavie	Down depart to Milngavie	1⁄2
+Arrive Milngavie	Down pass to Milngavie	11⁄2
+""		
+"RestrictionsPathing time must not be used between Hillfoot and Bearsden, and vice versa, due to there being no intermediatesignals."		
+Milngavie		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down train approaching an occupied platform.Approaching Milngavie"	Approach control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive	Depart	1
+SC135 DALREOCH TO BALLOCH
+""
+Dalreoch
+Please refer to SC123 margins

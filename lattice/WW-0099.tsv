@@ -1,0 +1,32 @@
+""	GW892 CWMGWRACH TO BURROWS SIDINGS			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Cwmgwrach to Neath and BreconJunction"	*	*	*One train working
+""	"Neath and Brecon Junction toJersey Marine South"	AB+2	AB+2	Single line
+""	"Jersey Marine South to BurrowsSidings"	AB+2	AB+2	Single line
+""	GW893 ONLLWYN TO NEATH AND BRECON JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Onllwyn to Neath and Brecon Jn	Single Line	One train working	
+""	"GW894 JERSEY MARINE JUNCTION NORTH TO JERSEY MARINE JUNCTIONSOUTH"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Jersey Marine Junction North andJersey Marine Junction South"	AB+2*	AB+2*	* TCB but timed as AB+2
+""	GW897 GROVESEND COLLIERY LOOP JUNCTION TO HENDY JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Grovesend Colliery Loop Junctionto Hendy Junction"	AB+2*	AB+2*	* TCB but timed as AB+2
+""	GW900 PILNING TO FISHGUARD HARBOUR			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Pilning to Severn Tunnel East	4	4	
+""	"Severn Tunnel East to SevernTunnel West"	AB+2	AB+2	
+""	"Severn Tunnel West to SevernTunnel Jn (exclusive)"	4	4	
+""	"Severn Tunnel Jn (inclusive) toMaindee West Jn (exclusive)"	"3# Main5 Relief"	"3# Main5 Relief"	"# 4 if following freight"
+""	"Maindee West Jn (inclusive) toEbbw Jn (inclusive)"	3	3	
+""	"Ebbw Jn (exclusive) to Long DykeJn (exclusive)"	"3# Main4 Relief"	"3# Main4 Relief"	"# 4 if following freight"
+""	"Long Dyke Jn (inclusive) toLeckwith Loop North Jn (inclusive)"	3	3	
+""	"Leckwith Loop North Jn(exclusive) to Briton Ferry West Jn(inclusive)"		4	
+""	"Briton Ferry West Jn (exclusive) toSwansea Loop West Jn"		5	
+""	"Leckwith Loop North Jn(exclusive) to Court Sart Jn(inclusive)"	4		
+""	"Court Sart Junction (exclusive) toSwansea Loop West Junction"	5		

@@ -1,0 +1,41 @@
+""	Headbolt Lane		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Down train arrive	Up train depart	-1
+""			
+""	Splitting of Units		
+""	Detaching ONLY is authorised as shown below:		
+""	Location	Restrictions	
+""	Platform 1	Permitted	
+""	Platform 2	Permitted	
+""	Platform 3	Prohibited	
+""	NW8011 MANN ISLAND JN TO WEST KIRBY (VIA LOOP)	
+""		
+""	James Street	
+""		
+""	Platform Reoccupation Time	2
+""		
+""	Other Restrictions	
+""	"Terminating trains from Hamilton Square must use Platform 2. Permissive working does not apply. Platform 1 shallbe available for terminating services (meaning services that will not continue around the Loop line) only if the Loopline is not available to trains"	
+""	Moorfields (Deep Level)	
+""		
+""	Connectional Allowance	10
+""		
+""	Platform Reoccupation Time	2
+""	Liverpool Lime Street (Deep Level)	
+""		
+""	Connectional Allowance	10
+""		
+""	Platform Reoccupation Time	2
+""	Liverpool Central (Deep Level)	
+""		
+""	Connectional Allowance	10
+""		
+""	Platform Reoccupation Time	2
+""	Hamilton Square	
+""		
+""	Platform Reoccupation Time	2
+""		
+""	Other Restrictions	
+""	"Platform 1 is for Liverpool bound services only. Platform 2 is normally used for departures towards BirkenheadCentral. Platform 3 is normally only used for departures towards Birkenhead North"	

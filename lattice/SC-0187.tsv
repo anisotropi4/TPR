@@ -1,0 +1,39 @@
+SC191 DUNDEE CENTRAL JUNCTION TO ABERDEEN		
+""		
+Dundee Central Junction		
+""		
+Junction Margins		
+First Move	Second Movement	Margin
+Up Pass to Errol from Platform 1, 2 or UTL	Down Pass from Tay Bridge South	2
+Up Pass to Errol from Platform 3*, 4 or DTL	Down Pass from Errol	3
+Up Pass to Errol from Platform 3, 4 or DTL	Down Pass from Tay Bridge South	3
+"Up Pass to Tay Bridge South from DTL orPlatform 4"	Down Pass from Tay Bridge South	3
+Down Train pass from Tay Bridge South	Up Train Pass to Errol	3
+*Margin only applies from platform 3 if there is a concurrent departure from platform 1 or 2 to Tay Bridge South		
+""		
+"Operating Restriction & Junction MarginTay Bridge – High Girders.  Owing to weight restrictions on the Tay Bridge, the High Girders section of thebridge must be treated as a Single Line.  An Up train must be planned to pass Dundee Central Junction amaximum of 2 minutes before a Down train arrives/passes Dundee Central Junction"		
+Dundee		
+""		
+Dwell Time		
+MU	11⁄2	
+LH	3	
+XC Services (22x)	2	
+""		
+Minimum Turnaround		
+Cross Country	"20 (10 if origin is in Scotland).   However, values can be amended to 10 (5 iforigin is in Scotland) where specific agreement exists between NR and XC"	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train arrive Dundee	"Down train depart Dundee West ReceptionLine"	1*
+Down train depart Dundee	"Down train depart Dundee West ReceptionLine"	1**
+"Up depart to Tay Bridge South / Errol / WestReception Line"	"Up depart to Tay Bridge South / Errol / WestReception Line(when conflicting and not to same destinationas first movement)"	2
+"Up train pass Dundee Central Junction (whenconflicting)"	"Down train depart Dundee West ReceptionLine"	1
+*If occupying a different platform at Dundee		
+**If occupying the same platform at Dundee		
+""		
+Overlap Margins		
+Up arrive platform 1/1S	Arrive platform 2	41⁄2
+Up arrive platform 1/1S	Depart platform 2	21⁄2
+Arrive platform 2	Up arrive platform 1/1S	4
+""		
+"RestrictionsPathing time must not be used between Dundee and Dundee Central Junction in either direction, owing tosignaling constraintsPlatform 1N: Trains Consisted of a Maximum of 4 Cars to be planned in this platform, anything more must beplanned to use full Platform 1"		

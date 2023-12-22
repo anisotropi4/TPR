@@ -1,0 +1,27 @@
+""	Swinton					
+""						
+""	Adjustments to Sectional Running Times					
+""	Movement Down	Reason	Value			
+""	Trains towards Doncaster approaching Swinton	Differential junction speed	"1 Freight1⁄2 CrossCountry 22X/HST"			
+""						
+""	Movement Up	Reason	Value			
+""	"Trains from Doncaster direction,Approaching Aldwarke Junction"	Acceleration	"1⁄2 LH/HST/22X"			
+""	Junction Margins					
+""	"2nd move →1st move ↓"	"Pass fromMoorthorpe"	"Arrive fromMoorthorpe"	"Pass toDoncaster"	"Depart toDoncaster"	"Depart toSheffield fromother route"
+""	"Pass toDoncaster"	4	41⁄2	No conflict	No conflict	
+""	"Depart toDoncaster"	5	5	No conflict	No conflict	
+""	"Pass fromMoorthorpe"	No conflict	No conflict	4	1	2
+""	"Arrive fromMoorthorpe"	No conflict	No conflict	4	1	Simultaneous
+""	"Pass fromDoncaster"	3	Simultaneous	No conflict	No conflict	2
+""	Moorthorpe		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive/pass from South Kirkby Junction	Pass to Pontefract Baghill	4
+""	Arrive/pass from South Kirkby Junction	Depart to Pontefract Baghill	1
+""	Depart/pass to Pontefract Baghill	Arrive / Pass from South Kirkby Junction	4
+""	Arrive Down Loop	Arrive/pass Moorthorpe station	5
+""	Arrive Up Loop	Arrive/pass Moorthorpe station	5
+""			
+""	Minimum Turnround	5 Arrive loaded from Sheffield before departing ECS to Sheffield	
+""	"Restriction. Trains with more than three minutes pathing time between Ferrybridge Junction/Pontefract Baghilland Moorthorpe should instead be timed to have an ‘A’ stop at Moorthorpe signal L6586. No allowances to beapplied between Moorthorpe signal L6586 and Moorthorpe Station/Moorthorpe Goods Loop"		

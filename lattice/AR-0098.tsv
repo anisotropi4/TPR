@@ -1,0 +1,35 @@
+Halifax Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Allowance
+"Down trains crossing to UL or Griffin Wharfbranch at Halifax Jn"	Approach control	{1}
+Up trains crossing from DL to Up Main	Via slow speed crossover	"{1⁄2} *approachingnext timingpoint"
+"Up trains which have departed from GriffinWharf"	"Slow speed through Halifax Junction and slowacceleration forward"	"{5}approachingnext timingpoint"
+* Does not apply to GA Class 720, 745 and 755		
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+Between all conflicting moves except as below	3	
+Up pass from DL to UL	Down depart	11⁄2
+Up passenger pass on UL	"Down depart from DL to UL or Griffin Wharfbranch"	11⁄2
+Up freight pass on UL	"Down depart from DL to UL or Griffin Wharfbranch"	2
+Up passenger pass on UL	Down pass from DL to UL	21⁄2
+Up passenger pass	Up depart from Griffin Wharf Branch	2
+Up freight pass	Up depart from Griffin Wharf Branch	21⁄2
+""		
+Ipswich		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Allowance
+All Up trains departing from Platform 4	Via slow speed crossover	"{1⁄2} *approachingHalifax Jn"
+Down trains arriving in Platform 4	Via slow speed crossover	{1⁄2}
+"Down trains departing from Platforms 1, 2 and4 towards Stowmarket"	Via slow speed crossover	"{1⁄2}approachingnext timingpoint"
+"Up trains arriving in Platforms 1, 3, 4 fromStowmarket"	Via slow speed crossover	{1⁄2}
+Freight trains which stop for a Crew change	"Reduced speed due to Running Brake Testafter leaving Ipswich"	"{2}approachingnext timingpoint afterHalifax Jn"
+* Does not apply to GA Class 720, 745 and 755		
+""		
+Dwell Time		
+Multiple Units	1	
+745 operated services except as below	11⁄2	
+745 operated Class 9 services	1	
+""		

@@ -1,0 +1,40 @@
+Signal EN2031		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart to Bathgate	Depart L.M.D.	1
+Depart/pass eastwards	Depart L.M.D.	21⁄2
+Depart/pass to LMD	Depart Bathgate to Signal EN2031	1
+Bathgate L.M.D.		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive L.M.D	Depart L.M.D.	12
+Down train arrives Bathgate	Depart L.M.D.	Same time
+Arrive L.M.D. from Bathgate	Down train departs Livingston North	2 before 1st move arrives
+Arrive L.M.D. from Bathgate	Down train passes Uphall	2 before 1st move arrives
+Arrive L.M.D. from Bathgate	"Down train passes Bathgate EastJunction from Up line"	"1⁄2 before 1st movearrives"
+""		
+Restriction		
+Trains cannot depart from L.M.D if a Down train has arrived at or is en-route from Livingston North		
+Bathgate		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/arrive Down Main	Arrive Up Platform from LMD	3
+Pass/arrive Down Main	Pass/arrive Down Platform from LMD	4
+Arrive Up Platform from LMD	Pass/arrive Down Main	4
+Pass/depart Up Main	Arrive Up Platform from LMD	3
+Depart Up Platform to LMD	Pass/arrive Down Main	5
+Pass/arrive Down Main	Depart Up Platform to LMD	1
+Down train passes/arrives	"Depart from LMD eastwards on Down toBathgate East Junction"	1
+SC115 COWLAIRS WEST JUNCTION TO KNIGHTSWOOD NORTH JUNCTION		
+""		
+Cowlairs North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Cowlairs East Jn	Pass to Cowlairs East Jn	31⁄2
+Pass to Cowlairs East Jn	Pass to Cowlairs West Jn	31⁄2
+""		
+"RestrictionPathing time must not be used between Ashfield and Cowlairs North Junction due to signalling constraints"		

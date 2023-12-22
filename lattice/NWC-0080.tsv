@@ -1,0 +1,40 @@
+""	NW2005 SPEKE JN TO GARSTON JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Speke Compound Siding	–			To/from Speke Car Terminal
+""	Speke Car Terminal		–	F	
+""	Speke East Jn				"For planning purposes this location isshown as Speke Jn"
+""	Speke Jn	–	FL SL		To/from Ditton Jn – NW2001
+""	Speke West Jn	–	–		To/from Speke Compound Siding
+""	Garston Goods Lines	–	–	F	"Line detail DGG or UGG or GTS must beshown"
+""	Speke Up Sidings	–	–	F	
+""	Garston Jn	–	–		"Line detail GAL or GDL must be shownTo/from Liverpool South Parkway –NW2007"
+""	Garston Church Road	–	–		To/from Garston Freightliner Terminal
+""	Garston Freightliner Terminal		–	F	
+""	NW2007 ALLERTON EAST JN TO GARSTON JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Allerton East Jn				To/from Wavertree Jn – NW2001
+""	Garston Jn	–	–		To/from Freightliner Depot – NW2005
+""	NW2009 ARPLEY JN TO DITTON EAST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Latchford Sidings	–			
+""	Arpley Jn	–	–		To/from Walton Old Jn – NW2011
+""	Monk’s Siding SB	–	–		
+""	Fiddlers Ferry Power Station SB	–	–		To/from Fiddlers Ferry Power Station
+""	Ditton East Jn	– SL	–		To/from Speke Jn – NW2001
+""	NW2011 WALTON OLD JN TO ARPLEY JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Walton Old Jn	–	OL		To/from Acton Grange Jn – NW1019
+""	Arpley Jn	–	–		To/from Latchford Sidings – NW2009
+""	NW2015 ORDSALL LANE JN TO EDGE HILL				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Ordsall Lane Jn	–	–		"To/from Deansgate – NW6001To/from Deal Street Jn – NW6007"
+""	Eccles Station Jn				
+""	Eccles	–	–		"Goods Loop in Up direction onlyTo/from Weaste – NW2017"
+""	Patricroft	–	–	S	
+""	Astley	–	–		
+""	Parkside Jn	–	–		To/from Lowton Jn – NW2019

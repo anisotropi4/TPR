@@ -1,0 +1,23 @@
+""	Aston		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train passes Aston from Stechford towardsPerry Barr North Jn"	Train passes Aston towards Proof House Jn	3
+""	"Train passes Aston from Stechford towardsPerry Barr North Jn"	"Train arrives or passes Aston from ProofHouse Jn towards Four Oaks"	3
+""	"Train departs or passes Aston towards ProofHouse Jn"	"Train arrives or passes Aston from Stechfordtowards Perry Barr North Jn"	31⁄2
+""	"Train passes Aston from Perry Barr North Jntowards Stechford"	Train departs Aston towards Four Oaks	2
+""	"Train passes or arrives Aston from Perry BarrNorth Jn towards Proof House Jn"	Train departs Aston towards Four Oaks	1
+""	Perry Barr			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	Pass Perry Barr towards Perry Barr West Jn	Junction differential	1	
+""				
+""	Movement Up	Reason	Value	
+""	Pass Perry Barr from Perry Barr West Jn	Junction differential	"1 Applies atnext timingpoint afterPerry Barr"	
+""				
+""	Dwell Time	"1 Peak (Up trains to Birmingham New Street 0700 – 0830 SX and Downtrains from Birmingham New Street 1600 – 1800 SX)"		
+""				
+""	Junction Margins			
+""	First Movement	Second Movement		Margin
+""	Depart/Pass towards Bescot Stadium	"Arrive/Pass from Perry Barr West Jn towardsAston"		4

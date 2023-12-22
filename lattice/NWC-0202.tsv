@@ -1,0 +1,41 @@
+""	Hampton-In-Arden	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1⁄2
+""	Birmingham International		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Train from Coventry passing platforms 1, 2, 4and 5"	Differential junction speed	1⁄2
+""			
+""	Movement Up	Reason	Value
+""	Train from Stechford to platform 3	Approach Control	1*
+""	"Non-stop passenger train from Stechfordrouted via platforms 1, 2 or 5"	Flashing yellow aspects/Speed differential	1⁄2
+""	* Reduced to 1⁄2 for trains that have stopped at Marston Green		
+""			
+""	Dwell Time		
+""	Class 22x	11⁄2	
+""	Class 390/80x	11⁄2 for pick up or set down	
+""	EMU	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Up or Down arrival into any platform	Conflicting departure from any platform	1
+""	Down train departs towards Stechford	Up train arrives/passes via a conflicting route	4 ^
+""	Down train departs platform 3	Up train arrives/passes platform 3	3 *
+""	Up train arrives platforms 1 or 2	Down train arrives platforms 1 or 2	Simultaneous
+""	Up train arrives platform 1 or 2	Down train arrives platform 3	Simultaneous
+""	* Approach control allowance (see Adjustments to Sectional Running Times) applies to the second movement		
+""	"^ Where the second movement is a train with a minimum of 1 minute pathing time approaching BirminghamInternational, the Junction Margin may be reduced by 1⁄2 minute."		
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	Standard	10	
+""	"Trains from Coventry,Birmingham, and Wolverhampton"	5	
+""	Marston Green	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1
+""	Lea Hall	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1

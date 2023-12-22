@@ -1,0 +1,31 @@
+LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+St Pancras International	"UFLDFL"			Platform detail must be shown
+Churchyard Sidings	–		F	
+Dock Jn South	FL UDS	"UFLDFL"		
+Dock Jn North	"FL UDSUDR"	FL UDS		
+Kentish Town	FL SL	"FL UDRUDS"		Platform detail must be shown
+Kentish Town North Jn	SL	FL	X	
+Carlton Road Jn	FL SL	"FL SLDSL –"		To/from Junction Road Jn – LN3210
+West Hampstead South Jn	"FL SLDHL"	FL SL	X	"Also mandatory on the Up Fast and DownSlow lines"
+West Hampstead Thameslink	"FL SLDHL"	FL SL		Platform detail must be shown
+West Hampstead North Jn	DHL	FL	X	
+"West Hampstead Down CarriageLoop"	SL	SL	S	
+Cricklewood South Jn	"FL SLDHL"	DHL UHL		"Timing point for all trains on the HendonlinesTIPLOC CRKLWSJ"
+Cricklewood	"–  FL SLDER"	FL SL		"Platform detail must be shownTIPLOC CRKLWD"
+Cricklewood Depot Exit Road				
+Cricklewood Curve Jn	DHL	UHL	X	"To/from Dudding Hill Jn – LN3219TIPLOC CRKLWCJ"
+Cricklewood U.G.L.	–	"– SLDER"	S	"Line detail must be shownThere is no access from Cricklewood UGLto Cricklewood South Sidings or A-E."
+Cricklewood Wash Line	–	– DER	S	TIPLOC CRKLWRL
+Cricklewood South Sidings	–	– DER	S	"TIPLOC CRKLDPSSidings 1-5, GTR leased area/LMD"
+"Cricklewood Departure RoadSouth"	–	DER	S	
+Cricklewood Tamper Siding	–	DER	S	
+"Cricklewood Departure RoadNorth"	–	–		
+Cricklewood Fuel Road	–	DER		TIPLOC CRKLFRD
+Cricklewood South Sidings A-E	–	DER	S	"TIPLOC CRKLDAESiding detail to be shown for GTR rollingstock stabled at this location."
+Cricklewood Depot Jn				
+Brent Cross West	SL FL	SL FL GL	S X	"TIPLOC BRENTXPlatform detail must be shownTiming point for movements to/fromCricklewood Up Goods Loops"
+"Cricklewood North ReceptionRoads"	–	GL –	S	"TIPLOC CRKLRECLine detail must be shown (1 or 2)Maximum standage 247m"
+Cricklewood Depot North Junction	SL	–	X	TIPLOC CRKLDNJ
+Cricklewood North End Siding	–	–	S	TIPLOC CRKLNES1

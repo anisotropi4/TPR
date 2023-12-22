@@ -1,0 +1,37 @@
+A Down train cannot depart Warminster from platform 1 while a train is occupying platform 2.	
+""	
+Dwell Time	
+DMU	1
+Dilton Marsh	
+""	
+Dwell Time	
+DMU	1⁄2*
+* : Request Stop	
+Westbury Signal W305		
+""		
+Adjustment to Sectional Running Time		
+Movement	Reason	Value
+"Pass to Westbury Down TC Entry/Exit, WestburyPlatform 3 or UR"	Approach control	{1}
+""		
+Planning Note		
+Pathing time cannot be used between Westbury Signal W305 and Westbury as there are no intermediate signals		
+GW510 WESTBURY NORTH JN TO BATHAMPTON JUNCTION			
+""			
+Hawkeridge Jn			
+""			
+Adjustment to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+Pass to Heywood Road Jn	Approach control	Passenger	{1}
+Pass from Heywood Road Jn	Acceleration	Passenger	{2}*
+*Applied approaching next timing point			
+""			
+Planning Note			
+"Adjustment approaching Hawkeridge Jn must be applied in addition to any adjustment at Bradford Jn.Adjustment after Hawkeridge Jn must be applied in addition to any adjustment at Bradford Jn.No adjustment allowance is required for freight to/from Hawkeridge Jn as this is included in the SRT."			
+Trowbridge	
+""	
+Dwell Time	
+DMU	1
+""	Bradford Jn			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value

@@ -1,0 +1,36 @@
+Yeovil Junction
+"•It is possible to hold a 6 Car Class 159 at signal SE4710, waiting line clear for the section ahead.Note: This facility may be used when a train starts from Platform 1 or 2 towards Salisbury, to clear thePlatform for another train before the preceding train has cleared the block section to Sherborne.•Trains shunting via signal SE4753 are not allowed to run into any occupied Platform for attachingpurposes•A shunting move only is allowed from one platform to another or between or to and from the sidings forthe purposes of attaching, detaching or removing vehicles from the platform."
+Yeovil Up Siding
+""
+Station Working Requirements
+"Access is only available by use of a ‘Shunters Release’ via a ground frame. Access to and from this siding isavailable from Yeovil Junction when Yeovil Pen Mill Box is closed."
+Crewkerne	
+""	
+Dwell Times	
+Class 159 DMU	1
+Chard Junction		
+""		
+Adjustment to Sectional Running Times		
+The standard {1⁄2} allowance required to stop in the loop is already included in the SRT.		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Re-occupation of Single Line		*
+* Arrive 3 minutes before crossing, depart 1 minute after		
+Axminster East Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Down trains approaching Axminster EastJunction proceeding to Axminster Platform 1"	Speed Differential	{1⁄2}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Re-occupation of Single Line		21⁄2
+Axminster	
+""	
+Dwell Times	
+All Services	11⁄2
+Axminster West Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value

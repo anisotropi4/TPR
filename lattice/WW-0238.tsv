@@ -1,0 +1,43 @@
+"Entering Margam Moors TC from Bridgenddirection"	"Slower line speed toallow turnout intoMargam TC"	"FreightPassenger"	"{1}{2}"
+"Trains exiting Margam Moors TC in the UPdirection towards Stormy/Bridgend."	"Slower line speedexiting Margam TC."	"FreightPassenger"	"{2} Approachingnext timing point{2} Approachingnext timing point"
+""			
+Junction Margin			
+First movement	Second Movement		Value
+Up Pass from Margam Abbey Works East Jn	Down Pass		4
+Port Talbot			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+From the Down Main to Down Relief Line	Approach Control	All traffic	{2}
+From the Up Main to Up Relief Line	Approach Control	All traffic	{2}
+""			
+Dwell Time			
+150 to 175	1		
+Class 80x / LH	11⁄2		
+Baglan	
+""	
+Dwell Time	
+150 to 153	1⁄2
+156 to 159 / LH	1
+Briton Ferry	
+""	
+Dwell Time	
+150 to 153	1⁄2
+156 to 159 / LH	1
+Neath	
+""	
+Dwell Time	
+150 to 175	1
+22x / 80x / LH	11⁄2
+Skewen	
+""	
+Dwell Time	
+150 to 153	1⁄2
+156 to 159 / LH	1
+Llamsamlet	
+""	
+Dwell Time	
+150 to 153	1⁄2
+156 to 159 / LH	1
+Swansea Loop West Junction
+""

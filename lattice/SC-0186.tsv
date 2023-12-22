@@ -1,0 +1,40 @@
+SC183 STIRLING TO CHARLESTOWN JUNCTION		
+""		
+Causewayhead Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Train pass from Single Line	Down Train Depart to Single Line	2
+Up Train pass from Single Line	Down Passenger Train pass to Single Line	3
+Up Train pass from Single Line	Down Freight Train pass to Single Line	4
+Cambus Loop		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Freight arrives	Down Passenger pass	21⁄2
+Up Freight arrives	Down Freight pass	31⁄2
+Down Freight arrives	Up Passenger pass	31⁄2
+Down Freight arrives	Up Freight pass	4
+Alloa		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Freight pass	Up Passenger departs	1
+Down Passenger arrives	Up Freight pass	21⁄2
+Alloa Loop		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Freight arrives	Down Freight pass	31⁄2
+Up Freight arrives	Down Freight arrive	4
+Down Freight arrives	Up Freight pass	3
+Down Freight arrives	Up Freight arrive	31⁄2
+Longannet Power Station
+""
+"RestrictionOnly one train can be discharged at any one time at the Power Station"
+Longannet S.B.		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+First train pass from Charlestown Junction	Second train pass to Charlestown Junction	5
+First train arrive Longannet P.S.	Second train depart Longannet P.S. to Alloa	Same time

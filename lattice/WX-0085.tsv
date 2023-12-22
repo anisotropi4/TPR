@@ -1,0 +1,39 @@
+Wimbledon West Junction			
+"Up train crossing from Up Fast to Up St. Helierpasses Wimbledon West Junction"	"Down train departs Wimbledon to DownFast/Down Slow"		1*
+"Up train crossing from Up Fast to Up St. Helierpasses Wimbledon West Junction"	"Down train passes Wimbledon to DownFast/Down Slow"		2*
+"Down train passes/departs Wimbledon to DownFast/Down Slow"	"Up train crossing from Up Fast to Up St. Helierpasses Wimbledon West Junction"		3
+* Increase margin by 1⁄2 minute if the first movement is a freight service			
+Raynes Park		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Down trains towards Motspur Park passingRaynes Park"	Speed Differential	{1⁄2}
+""		
+Connectional Allowances		
+All Services	6	
+New Malden				
+""				
+Adjustment to Sectional Running Times				
+Movement	Reason	Value		
+"Down trains towards Norbiton passing NewMalden"	Speed Differential	{1⁄2}		
+""				
+Connectional Allowances				
+All Services	6			
+""				
+Overlap Restrictions				
+First Movement	Second Movement	Signal		Margin
+"Down train arrives at Platform 4 fromDown Slow"	"Train crosses from Down Fast to DownSlow/Down Kingston"	W231		3
+"Train crosses from Down Fast to DownSlow/Down Kingston"	"Down train arrives at Platform 4 fromDown Slow"	W231		3
+Berrylands Junction
+""
+Adjustment to Sectional Running Times
+Services crossing from Up Slow to Up Fast do not require the standard {1⁄2} as it is already included in the SRT’s.
+Surbiton	
+""	
+Adjustment to Sectional Running Times	
+Services crossing over and stopping do not require the standard {1⁄2} as it is already included in the SRT’s.	
+""	
+Connectional Allowances	
+All Services	6
+""	
+Dwell Times	

@@ -1,0 +1,54 @@
+""	Welshpool		
+""			
+""	Dwell time		
+""	Power	1	
+""			
+""	Platform end conflicts		
+""	First Movement	Second Movement	Margin
+""	Up DMU into Up platform Stop	Down DMU into Down platform Stop or pass	Parallel move
+""	Up DMU into Up platform pass	Down DMU into Down platform Stop or pass	N/A
+""	Up DMU into Up platform Stop	Down Loco hauled into Down platform stop or pass	Parallel move
+""	Up Loco Hauled into Up platform	Down DMU into Down platform	31⁄2
+""	Up Loco Hauled into Up platform	Down Loco hauled into Down platform	41⁄2
+""	Up DMU into Down platform stop	Down DMU into Up platform stop or pass	Parallel move
+""	Up DMU into Down platform stop	Down Loco hauled into Up platform stop or pass	Parallel move
+""	Up Loco Hauled into Down platform	Down DMU into Up platform	31⁄2
+""	Up Loco Hauled into Down platform	Down Loco hauled into Up platform	41⁄2
+""	Down DMU into Down platform	Up DMU from Fron Jn into Up platform	Parallel move
+""	Down DMU into Down platform	Up Loco hauled from Fron Jn into Up platform	7
+""	Down Loco hauled into Down platform	Up DMU from Fron Jn into Up platform	Parallel move
+""	Down Loco hauled into Down platform	Up Loco hauled from Fron Jn into Up platform	8
+""	Down DMU into Up platform Stop	Up DMU into Down platform	Parallel move
+""	Down DMU into Up platform Pass	Up DMU into Down platform	Parallel move
+""	Down DMU into Up platform	Up Loco hauled into Down platform	3
+""	Down Loco hauled into Up platform Stop	Up DMU into Down platform	Parallel move
+""	Down Loco hauled into Up platform pass	Up DMU into Down platform	Parallel move
+""	Down Loco hauled into Up platform	Up Loco hauled into Down platform	4
+""	Fron Junction		
+""			
+""	Platform end conflicts		
+""	First Movement	Second Movement	Margin
+""	Up DMU from Newtown to Up loop	Down DMU from Welshpool from Down loop	11⁄2
+""	Up DMU from Newtown to Up loop	Down Loco hauled from Welshpool from Down loop	21⁄2
+""	Up Loco Hauled from Newtown to Up loop	Down DMU from Welshpool from Down loop	11⁄2
+""	Up Loco Hauled from Newtown to Up loop	Down Loco hauled from Welshpool from Down loop	2
+""			
+""	Up DMU from Newtown to Down loop	Down DMU from Welshpool from Up loop	11⁄2
+""	Up DMU from Newtown to Down loop	Down Loco hauled from Welshpool from Up loop	2
+""	Up Loco Hauled from Newtown to Down loop	Down DMU from Welshpool from Up loop	11⁄2
+""	Up Loco Hauled from Newtown to Down loop	Down Loco hauled from Welshpool from Up loop	2
+""	Newtown		
+""			
+""	Dwell Time		
+""	Power	1	
+""			
+""	Platform end conflicts		
+""	First Movement	Second Movement	Margin
+""	Up DMU into Up platform	Down DMU into Down platform	21⁄2
+""	Up DMU into Up platform	Down Loco hauled into Down platform	4
+""	Up Loco Hauled into Up platform	Down DMU into Down platform	21⁄2
+""	Up Loco Hauled into Up platform	Down Loco hauled into Down platform	4
+""	Up DMU into Down platform	Down Loco hauled into up platform	41⁄2
+""	Up DMU into Down platform	Down DMU into up platform	21⁄2
+""	Up Loco Hauled into down platform	Down Loco Hauled into up platform	41⁄2
+""	Up Loco Hauled into down platform	Down DMU into up platform	21⁄2

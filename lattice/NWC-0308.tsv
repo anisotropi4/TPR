@@ -1,0 +1,39 @@
+""	Lancaster		
+""			
+""	Dwell Time		
+""	"Standard (excluding Class22x/390/80x)"	1	
+""	"Avanti West Coast servicesentering service formed off ECSin the same direction"	5 (does not apply to Driver Only Operation)	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	All conflicting movements, except:		4
+""	Train arriving from Down Main into platform 3	Train arriving into platforms 1 or 2	4
+""	Train arriving from Down Main into platform 3	Train departing from platforms 1 or 2	3
+""	"Train arriving into or departing from platforms 1or 2"	Train arriving into platform 3	3
+""	"Down passenger/light engine departs/passes,or freight passes Lancaster towards CarnforthNorth Jn"	"Down train departs Lancaster towards BareLane"	2
+""	Up train arrive/pass platform 4/Up Main	"Depart platform 5 towards Morecambe SouthJn"	1
+""	Up train arrives Lancaster South Jn	Depart platforms 3, 4, 5 or Up Main to Up Main	3
+""	Up train arrives Lancaster South Jn	Pass Lancaster on Up Main	41⁄2
+""	Up train depart or pass	"Following Down direction movement intoplatforms 4 or 5"	41⁄2
+""			
+""	Permissive Working		
+""	Attaching/detaching and platform sharing  is authorised as shown below:		
+""	Location	Direction	Restrictions
+""	Platforms 1 and 2	Bay platforms	Attaching/detaching and platform sharing
+""	Platform 3	Down direction	Attaching and detaching only
+""	Platform 4	Up direction	Attaching and detaching only
+""	Platform 5	Both directions	Attaching and detaching only
+""			
+""	Platform Reoccupation	31⁄2	
+""	Morecambe South Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Down trains routed towards Bare Lane	Approach Control	1⁄2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Up train from Bare Lane	Pass on Down	4
+""	Pass on Down	Up train from Bare Lane	3
+""	Up train pass from Carnforth North Jn	Up train from Bare Lane	3*
+""	* Normal headway applies at next timing point		

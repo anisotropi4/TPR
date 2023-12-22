@@ -1,0 +1,35 @@
+""	Hamilton Square	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform and a different departure platform for services to/fromBirkenhead North direction only"	7
+""	Birkenhead North	
+""		
+""	Other Restrictions	
+""	The maximum permitted station dwell time of 5 minutes does not apply to services using the Platform loop.	
+""		
+""	"Splitting and Coupling of Units: In Platform Loop and Up West Kirby platform during periods of severedisruption only. Note: Coupling of units is not permitted in any platform."	
+""		
+""	Train Watering Points	Fixed watering point available
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform and a different departure platform for services to/fromLiverpool only"	9
+""	"EMU shunting between arrival platform and a different departure platform for services to/fromWest Kirby/New Brighton only"	7
+""	Bidston East Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"All trains approaching on the Down West Kirbyrouted to New Brighton."	Approach Control	1⁄2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Between all movements (limited to 2 x 2 minute moves in succession, after the 2nd movement a 3minute margin is required)"	2	
+""	Bidston
+""	
+""	See entry under route NW3007 Wrexham Central to Bidston West Jn
+""	Bidston Dee Jn
+""	
+""	See entry under route NW3007 Wrexham Central to Bidston West Jn
+""	Hoylake	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"EMU shunting between arrival platform and a different departure platform for services to/fromWest Kirby only"	7

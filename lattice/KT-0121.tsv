@@ -1,0 +1,39 @@
+""	Otford Junction		
+""			
+""	"Freight up to 1200T inclusive of containers at75mph"	Speed Differential	1
+""	"Freight between 1201 - 2400T inclusive ofcontainers at 75mph"	Speed Differential	11⁄2
+""			
+""	Planning Restrictions		
+""	"Locomotive hauled trains towards Sevenoaks on the Down Bat and Ball cannot pass Otford Junction until a routecan be signalled into its allocated platform at Sevenoaks."		
+West Malling	
+""	
+Dwell Time	
+All services	1
+""	Maidstone East			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	Approaching Platform 3	Approach Control	1	
+""	Train to Reversible	Approach Control	1	
+""				
+""	Berthing Facilities			
+""	Location	Cars	Notes	
+""	Bay Platform (Platform 3)	8		
+""				
+""	Connectional Allowance	4		
+""				
+""	Dwell Time			
+""	All Services	1		
+""				
+""	Junction Margins (London End)			
+""	First Movement	Second Movement	"Margin4*"	
+""	Up Depart Platform 3	Down Arrive/Pass Platform 2		
+""	"*Can be reduced by 1 minute if second train has 1 minute or greater allowance applied approaching MaidstoneEast"			
+""				
+""	Limit of Shunt	Length Limit		
+""	Down Maidstone (clear of Signal ME14)	12		
+""				
+""	Overlap Restrictions			
+""	First Movement	Second Movement	Margin	
+""	Down train passing using the Reversible	Up train arriving Platform 1	2	
+""	Down train passing using the Reversible	Up train passing Platform 1	3	

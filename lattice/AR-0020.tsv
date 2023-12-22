@@ -1,0 +1,13 @@
+Activity Codes – Notes
+1. Any passenger train that stops at a location automatically generates a T Activity unless it is suppressed.
+"2. If an activity is required that removes the ‘passenger stop’ activity (T, D, U and R) from TPS, then the‘passenger stop’ activity must always appear in the first activity field (e.g. T -D would be correct, -D T wouldnot).  This is because the National Rail Timetable (NRT) extract program only considers the first activity field.If it does not find a ‘passenger stop’ activity in the first field the time will not be extracted to appear in theNRT."
+3. Up to 6 activities may be shown for each event.
+4. No two activities may be duplicated at the same event.
+"5. At any one event, the following groups are mutually exclusive:a) D, U, T, N, S, TW, OP.b) -D, -U, -T.c) TB, TF.d) KC, KE."
+"6. N, R, G, D and U are only valid with Train Categories XC, XD, XI, XX, XZ, OO, OW, OL, BS, BR and blank(i.e. 'advertised' services). R, D and U are additionally valid with Train Categories XU and OU (unadvertisedservices)."
+7. K, KC, KE, KF, KS are only valid with Train Categories starting X or O.
+8. If TF is present then none of K, KC, KE, KF, KS can be present.
+"9. Activity T indicates that a train stops to pick up and set down.  This normally refers to passengers.  Activity-T indicates that the train stops to attach and detach vehicles.  At any location where a 'stop' time is shown,TPS or a similar system will assume a default activity is required unless otherwise specified.  These defaultactivities are as follows: T for trains with a Train Category starting in X or O, OP for trains with a TrainCategory starting in Z or E, and -T for all other trains (but see below).  The default activity will be generatedwhen the upload file is created."
+"10. If activities U, D, N, R, OP, S, TW, -U or -D are specified then this overrides the defaults and only thespecified activities will be included in the upload file (it is not necessary to use the * suppression code ifthese codes are present)."
+"11. If a traffic activity is NOT required at a 'stop' location with activities other than U, D, N, R, OP, S, TW, -Uor -D  (e.g. at 'C' or 'L' stops) then the * must be input to the TPS or similar system train specification at thatlocation to suppress -T or T.  If the * is not added to indicate a non-traffic stop then T, -T or OP will be addedto the upload file."
+"12. If an activity -T (only) is required on a train with a Category starting in X or O it is necessary to add a * tothe TPS spec (to suppress ‘T’) and positively show -T in the activity column."

@@ -1,0 +1,36 @@
+""	Southampton Central			
+""	All Services	2		
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Between all movements except as below		3	
+""	"Up freight crossing to Up Main at London end ofSouthampton Central"	Conflicting Down Arrival	4^	
+""	"Up freight crossing from Down Fast/Down Loopat country end of Southampton Central"	Conflicting Up Arrival	4	
+""	Up Freight crossing from Down Fast/Down Loop	Up train arriving into same platform	41⁄2 ^	
+""	"Up Freight from Down Fast or Down Looppasses Southampton towards Northam Junction"	Up departure towards Northam Junction	41⁄2 $	
+""	"Down Freight passing Platform 4 towards DownLoop"	Down Arrival into Platform 4	4	
+""	Train passes/departs to Down Loop	"Up train arrives/passes Southampton Centralfrom Millbrook via Down Fast"	6	
+""	"Down Freight to Millbrook FLT via Up Fast fromPlatforms 2-4"	Up train arrives/passes from Up Slow	6	
+""	"Down train passes/departs SouthamptonCentral"	"Conflicting Up train departs Down Loop towardsSouthampton Central"	2	
+""	Train arrives/passes Southampton Central	Departures crossing behind	1*	
+""	"* 2 minutes if the first movement is a freight service$ 3 minutes if the second train has {11⁄2} approaching Northam Junction.^ Increase margin by 1⁄2 minute if first train longer than 97 SLU / 620m."			
+""				
+""	Permissive Working			
+""	Attaching/Detaching and Platform Sharing is authorised as shown below -			
+""	Platform 1	Up Fast	(Both directions)	Attaching/Detaching
+""	Platform 2	Up Slow	(Both directions)	Attaching/Detaching and Platform Sharing *
+""	Platform 3	Down Slow	(Both directions)	Attaching/Detaching and Platform Sharing *
+""	Platform 4	Down Fast	(Both directions)	Attaching/Detaching
+""	* A second train must arrive in an occupied Platform before the first train is allowed to depart			
+""				
+""	Simultaneous moves not permitted			
+""	"Down Train departing from Platform 4 to the DownSlow"	Down Train arriving at Platform 3		
+""	"Down Train departing Platforms 2/3/4/Bay to the UpGoods Loop/Up Fast or Up Train arriving Platforms2/3/4/Bay from Up Goods Loop/Up Fast"	Up Train approaching E744 signal from Millbrook		
+""	"Down Train departing Platforms 1/2/3/4/Bay to the UpGoods Loop or Up Train arriving Platforms 1/2/3/4from the Up Goods Loop"	Up Train approaching E746 signal from Millbrook		
+""	"Up Train from Down Loop/Down Fast/Down Slow/UpSlow to Platform 1"	Down Train arriving in Platform 2		
+""	"Down Train from Platform 1 to Down Slow/DownFast/Down Loop"	Down Train arriving in Platform 2		
+""	"Train arriving bay Platform from Up Slow/Up Fast/UpGoods Line"	Down Train arriving in Platforms 3 and 4		
+""	Train departing bay Platform to Down Fast Line	"Down Train arriving Platform 4 (only conflicts if there isalso an up or down arrival into Platform 3 or a downdeparture from platform 3)"		
+""	Train departing bay Platform to Down Slow Line	Down Train arriving in Platforms 3 and 4		
+""	Up Train arriving Platform 3	Up Train departing Platform 4		
+""	"Up Train arriving Platform 1 and Down Train arrivingPlatform 3"	Up Train departing Platform 2		

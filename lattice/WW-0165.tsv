@@ -1,0 +1,36 @@
+""	Oxford			
+""				
+""		DMU/769	Class 80X (5 car)	Class 80X (9/10 Car)
+""	"From Paddington (Turnroundallowances in Platform)"	10	10^	15^
+""	"From Banbury (Turnround allowancesin Platform/ Bay)"	5#		
+""	"From Reading/Didcot (Turnroundallowances in Platform)"	5#		
+""	"From Hereford/Worcester (Turnroundallowances in Platform)"	15	15	
+""	"From Paddington/Reading/Didcot (withshunt movement)"	15	15	20
+""	"From Hereford/Worcester (with shuntmovement)"	20		
+""	From London Marylebone	5		
+""	"# : 3 minutes acceptable for GWR services if not sequential in unit diagram."			
+Oxford North Junction			
+""			
+"Adjustments to Sectional Running Times (allowance to be shown approaching this location unlessotherwise stated)"			
+Movement	Reason	Timing Load	Value
+"From Oxford Parkway not stopping atOxford"	"Acceleration from lowerspeed route"	All	"{1} Approachingnext timing point"
+"Down train on DML pass to OxfordParkway"	Slow junction speed	All	{1}
+Train in Up direction crossing to DML	Approach control	22x	{1}
+Wolvercote Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+Pass to Charlbury	Slower junction speed	Freight	{1⁄2}
+Pass from Charlbury	Slower junction speed	All	"{1⁄2}% Approachingnext timing point"
+% Except 165/6 & 80x as it is included in the SRT			
+""			
+Junction Margin			
+First Movement	Second Movement	Margin	
+Pass to Charlbury	Depart to Heyford#	1*	
+Pass to Heyford	Depart to Heyford#	4*	
+Pass to Heyford	Depart to Charlbury	1*	
+* Increase by 1⁄2 if first train is Freight longer than 350m			
+"# Based on second move departing OD2413 or OD2415 as this transit time is built into the SRT"			
+""			
+Planning Note			
+"Where possible, Down trains routed through Oxford station on the Down Oxford Main and planned to stand atWolvercote Jn should be routed via the DML. A train from Oxford Platform 4 passing this train should then berouted via the DRL to Wolvercote Jn."			

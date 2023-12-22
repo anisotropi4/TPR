@@ -1,0 +1,30 @@
+""	MD315 STECHFORD SOUTH JN TO ASTON SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Stechford to Aston	4	4	
+""	MD320 PROOF HOUSE JN to BUSHBURY JN (VIA BESCOT)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Proof House Jn to Aston	3	3	
+""	Aston to Perry Barr North Jn	4	4	
+""	"Perry Barr North Jn to BescotStadium"	4	4	
+""	"Perry Barr North Jn to BescotYard"	7	7	For consecutive moves
+""	Bescot Yard to Darlaston Jn	7	7	
+""	Bescot Stadium to Portobello Jn	4	4	
+""	Portobello Jn to Bushbury Jn	4	4	
+""	MD325 SOHO SOUTH JN TO PERRY BARR NORTH JN (SOHO LINES)				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	"Soho South Jn (exclusive) to PerryBarr North Jn (exclusive)"	5	5		
+""	MD330 SOHO EAST JN TO SOHO NORTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Soho East Jn to Soho North Jn	5	5	
+""	MD335 PERRY BARR WEST JN TO PERRY BARR SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Perry Barr West Jn to Perry Barr	3	3	
+""	MD340 ASTON NORTH JN TO ALREWAS (EXCLUSIVE)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Aston (exclusive) to Alrewas	5 $	5 $	"$ 4 if following a train not stopping between Aston(exclusive) and Lichfield Trent Valley High Level(inclusive)"

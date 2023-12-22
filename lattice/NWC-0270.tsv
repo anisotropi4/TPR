@@ -1,0 +1,33 @@
+""	Colwall	
+""		
+""	Dwell Time	
+""	DMU	1
+""	Ledbury		
+""			
+""	Capacity Constraints		
+""	"When it is necessary for two trains to cross at Ledbury they should arrive a minimum of 3 minutes apart. If this isnot possible then see below for ‘Adjustments’"		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Down Direction – applies only when there is atrain in the section between Shelwick Jn andLedbury at the time the Down train isscheduled to arrive in Ledbury"	Warning Acceptance	1
+""	"Up Direction – applies only when there is:i) a train in the section between Malvern Wellsand Ledbury; orii) an ECS movement required to reverse atMalvern Wells that is timed to be betweenNewlands East and Malvern Wells when theUp train is approaching Ledbury."	Warning Acceptance	1
+""			
+""	Dwell Time		
+""	80X		11⁄2
+""	DMU		1
+""	NW1001 ARMITAGE JN (INCLUSIVE) TO PRESTON FYLDE JN		
+""			
+""	Rugeley Trent Valley		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Trains from the Up Slow and Up Fast crossingto the Up & Down Cannock"	Approach Control	1
+""	"Up trains from Stone joining the Up Slow or UpFast at Colwich Jn"	Differential Junction speed	"1⁄2 Class 3901 All exceptClass 390"
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	Standard	5	
+""	Rugeley North Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All Down trains crossing Down Slow to DownFast"	"Approach Control for 30mph Crossover andacceleration allowance"	1⁄2

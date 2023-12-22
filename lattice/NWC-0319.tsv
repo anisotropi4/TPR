@@ -1,0 +1,36 @@
+""	Barrow-in-Furness		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Trains departing from Platform 1 towardsRoose/Dalton Jn"	Slow speed crossover East of station	"1⁄2 departingBarrow"
+""			
+""	Dwell Time		
+""	LH/HST	2	
+""	DMU	2	
+""			
+""	Splitting and Coupling of Units: Permitted in all platforms		
+""	Millom	
+""		
+""	"Platform Reoccupation Time(After terminating service onDown Main)"	"The next Down train cannot depart Foxfield until the terminating train hasshunted to the Up Main and is then clear of the Down Main.The minimum allowance for this is 8 minutes after the terminating train’sarrival. However, the terminating train cannot reoccupy the Up Main until 3minutes after the departure of any proceeding Up train from Millom."
+""	Sellafield		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Down trains terminating at Sellafield	"Approach control for crossing into Down & UpLoop"	"1⁄2ApproachingSellafield"
+""	Braystones		
+""			
+""	Dwell Time		
+""	LH/HST	1	
+""	DMU	0 for request stop or otherwise standard value applies	
+""	Nethertown		
+""			
+""	Dwell Time		
+""	LH/HST	1	
+""	DMU	0 for request stop or otherwise standard value applies	
+""	St. Bees		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	First train arrives	Second train arrives	2
+""	Either train can then depart		1
+""	The remaining train can then depart		1

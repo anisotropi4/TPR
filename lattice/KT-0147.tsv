@@ -1,0 +1,43 @@
+""	York Way South Junction		
+""	"International Passenger trains that stopped atStratford International"	"Speed differential after York Way SouthJunction"	1
+""			
+""	Junction Margins	Margin	
+""	All conflicting moves	3	
+""	Stratford International West Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down International passenger trains stoppingat Stratford International"	"Speed differential approaching StratfordInternational West Junction"	1⁄2
+""			
+""	Junction Margins	Margin	
+""	All conflicting moves	3	
+""	Stratford International		
+""			
+""	Dwell Time		
+""	Class 395	1	
+""	International passenger trains	2	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	To Down International Platform	To Down CTRL Line	3
+""	To Up International Platform	To Up CTRL Line	3
+""			
+""	Platform Reoccupation	Value	
+""	International Platforms	3	
+""	Stratford International East Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down International passenger trains thatstopped at Stratford International"	"Speed differential approaching DagenhamDock Junction"	1
+""			
+""	Junction Margins	Margin	
+""	All conflicting moves	3	
+""	Dagenham Dock Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Up Eurostar Class 373/374 train that stoppedat Ebbsfleet International Low Level"	Speed differential at Dagenham Dock Junction	1⁄2
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	To Ripple Lane Renwick Road Junction	Up CTRL Train	3

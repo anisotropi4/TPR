@@ -1,0 +1,28 @@
+""	Thatcham	
+""	Maximum dwell time	
+""	Down direction - 2 minutes*	
+""		*To minimise level crossing barrier down-time, Down trains stopping at Thatcham are to be advertised earlier by
+""	the amount of recovery / pathing allowances between the previous stop and Thatcham.	
+""	Dwell Time	
+""	80x	"11⁄2 (Between 0630 and 0900 in the Up direction. Between 1630and 1930 in the Down direction. SX only)"
+Newbury Racecourse			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+Train stopping at platform 3 from Theale	Approach control	"80xDMU/EMU"	"{11⁄2}*{1}"
+"Depart Newbury Racecourse platform 1 or3 in up direction"	Slow speed crossover	80x	"{1⁄2}approachingnext timingpoint"
+*Can be reduced to 1 if train has stopped at Thatcham			
+Newbury			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+From the Down Main to Platform 2 or 3.	"Slow crossover speed  (25mph)"	"DMU/EMU80x"	"{1⁄2}*{1}*"
+* Does not apply to trains that have stopped at Newbury Racecourse.			
+Down train pass Newbury platform 1	Acceleration	"80xFreight"	"{2}Approachingnext timingpoint{11⁄2}Approachingnext timingpoint"
+"Down train pass Newbury (via down main) havingstopped at Newbury Racecourse"	Acceleration	80x	"{1}Approachingnext timingpoint"
+Down trains originating or splitting at Newbury	"Running brake test onsteep gradient"	DMU	"{1⁄2}Approachingnext timingpoint"
+"Up train pass Newbury but stopping at NewburyRacecourse"	"Not passing Newbury atlinespeed"	80x	{1⁄2}
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+"Down stopping train arrives Newbury havingcalled at Newbury Racecourse"	"Down non-stop passenger train passesNewbury"	3	

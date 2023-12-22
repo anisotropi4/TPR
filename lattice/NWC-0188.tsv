@@ -1,0 +1,29 @@
+""	Hanslope Jn			
+""				
+""	Movement Up		Reason	Value
+""	Up Northampton to Up Fast		Differential Junction speed	"1⁄2approachingHanslope Jnand 1⁄2approachingnext timingpoint"
+""	Up Fast to Up Slow		Differential Junction speed	"1⁄2approachingHanslope Jnand 1⁄2approachingnext timingpoint"
+""	Down direction and Up direction adjustments do not apply to Class 0,4,6 or 7 trains			
+""	Rugby		
+""			
+""	Attachment of units	9	
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All non–stop Class 22X, 80x and 390 trainsfrom Down Northampton"	Differential Line and Junction speeds	11⁄2
+""			
+""	Movement Up	Reason	Value
+""	"All non–stop trains crossing Up Fast to UpNorthampton"	Approach Control	1
+""	"All non–stop Up trains using Platform 1 to theUp Northampton"	Differential Line and Junction speeds	"2 approachingRugby and 1approachingHillmorton Jn"
+""	"All non–stop Class 22X and 390 trains to UpNorthampton"	Differential Line and Junction speeds	11⁄2
+""	"Non-stop trains joining Up Fast from UpCoventry (excluding freight trains)"	Differential speed	"1⁄2 approachingRugby"
+""			
+""	Detachment of units	9	
+""			
+""	Dwell Time		
+""	Class 22X DMU	11⁄2	
+""	Class 390/80x	11⁄2 for pick up or set down only	
+""	EMU (except Class 390)	1	
+""	LH / HST	2	
+""	West Midlands Trains	1 (11⁄2 if crew change booked)	
+""			

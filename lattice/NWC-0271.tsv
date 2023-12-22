@@ -1,0 +1,36 @@
+""	Colwich Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Down train towards Stone	Approach Control	"1⁄2 Class 3901 All exceptClass 390"
+""	Stafford Trent Valley Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Down Slow or Down Penkridge to Platform 6	Approach Control	"1 approachStafford TVJ"
+""			
+""	Movement Up	Reason	Value
+""	"Stafford Goods Loop or platform 6 to Up Slowor Up Penkridge"	Acceleration	"1⁄2 approachStafford TVJ"
+""	Stafford South Jn		
+""			
+""	Junction Margins		
+""	First movement	Second movement	Value
+""	"Train crosses Down Slow to Down Fast atStafford South Jn"	"Train crosses Up Fast to Up Slow at StaffordSouth Jn"	21⁄2
+""	"Train crosses Down Slow to Down Fast atStafford South Jn"	"Pass / depart Stafford platform 4 towardsColwich or Penkridge"	1
+""	Pass Stafford Trent Valley Jn from platform 4	"Train crosses Down Slow to Down Fast atStafford South Jn"	2
+""	Stafford			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Up	Reason	Value	
+""	"Trains from Stone via East Chord at NortonBridge to Platform 1"	Differential Junction Speed	1⁄2	
+""	"Up Slow to Platform 5 or 6 (approachingStafford)"	Approach Control	11⁄2	
+""	"Up Slow to Stafford Goods Loop (approachingStafford)"	Approach Control	1	
+""	"Pass on Up Fast and cross to Up Slow atStafford South Jn."	Differential Junction speed	1	
+""	"Pass platform 4 and cross to Up Fast atStafford South Jn"	Differential Junction speed	1	
+""				
+""	Detachment Allowance	5		
+""				
+""	Dwell Time			
+""	Class 22x	11⁄2		
+""	Class 390/80x	11⁄2		
+""	DMU/EMU	1		

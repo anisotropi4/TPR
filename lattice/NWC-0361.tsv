@@ -1,0 +1,35 @@
+Ashton Moss North Jn		
+""		
+Adjustments to Sectional Running Time		
+Movement	Reason	Value
+"Any train routed non-stop from Down Ashton toUp Crowthorne"	Flashing yellow aspects	1⁄2
+Pass from Down Crowthorne to Up Ashton	Acceleration	"1⁄2 passenger1⁄2 freight up to1800t/TR1001 freight 2000t/TR115 andabove"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Freight passes from Down Ashton to UpCrowthorne"	Train from Stalybridge	4
+Passenger service passes from Stalybridge	"Freight passes from Down Ashton to UpCrowthorne"	31⁄2
+Train passes from Stalybridge on Up Ashton	"Train passes from Down Crowthorne to UpAshton"	21⁄2
+Stalybridge		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Non-stop train from Huddersfield directiontowards Ashton Moss North Jn via Platforms 1"	Approach control	1⁄2
+"Train from Guide Bridge or Ashton Moss NorthJn direction stopping at Platform 2"	Approach control	1
+"Train from Guide Bridge direction passingStalybridge via UDM or Platform 3"	Slower speed through platform and crossover	1⁄2
+"Train from Guide Bridge or Ashton Moss NorthJn stopping at Platform 1"	Restrictive aspects	1⁄2
+""		
+Dwell Time		
+All trains	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Train arrives or passes from Guide Bridge orAshton Moss North Jn"	"Conflicting departure towards Guide Bridge orAshton Moss North Jn"	1
+"Train arrives or passes platform 4 from GuideBridge"	"Train passes towards Ashton Moss North Jnvia platforms 1 or 3"	2
+"Train arrives or passes platform 4 from GuideBridge"	"Train arrives or passes platform 3 from AshtonMoss North Jn"	21⁄2
+"Train arrives or passes platform 3 from AshtonMoss North Jn"	"Train arrives or passes platform 4 from GuideBridge"	2
+Train passes Stalybridge towards Diggle Jn	Train departs Stalybridge towards Diggle Jn	2*
+Train departs Stalybridge towards Diggle Jn	Consecutive departure towards Diggle Jn	21⁄2*
+"Train arrives platform 1 or 3 from Diggle Jndirection"	Train passes 1 or 3 from Diggle Jn direction	3
+"Freight train arrives/passes platforms 1 or 3from Diggle Jn direction"	Train passes 1 or 3 from Diggle Jn direction	3
+"Train departs Ashton Under Lyne towardsAshton Moss North Jn"	"Train departs/passes towards Ashton MossNorth Jn not calling at Ashton Under Lyne"	1⁄2 *

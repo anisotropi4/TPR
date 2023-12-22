@@ -1,0 +1,17 @@
+Jurgens LC		
+""		
+Trains to West Thurrock Sidings		
+"All trains must stop to operate the levelcrossing at Jurgens LC"	OP stop	2
+""		
+Trains to Purfleet Foster Yeoman		
+"All trains to Purfleet Foster Yeoman must havean extended OP stop at Jurgens LC in order toactivate the level crossing and propel back intothe terminal."	OP stop to activate level crossing, RM and PR	10
+""		
+Trains from Purfleet Foster Yeoman		
+"All trains from Purfleet Foster Yeoman musthave a RR at Jurgens LC before departingPurfleet Long Siding via Deep Wharf LC,UR1166 signal, 2266 & 2265 points to Purfleet.No other trains should be planned onto anypart of Purfleet Long Siding until the RR iscomplete."	"RR Allowance (due to distance the loco musttravel via 2267 points, Up Tilbury and2265/2266 points)"	45
+West Thurrock Headshunt		
+""		
+Trains to and from West Thurrock Sidings		
+"All trains stop before propelling move to sidingsor after propelling move from sidings"	RM and PR stop	2
+West Thurrock Junction
+""
+"For ARS regulating purposes in the Eastbound direction, ARR and DEP times with activities A and * are to beused and NOT pathing time approaching Grays due to overlap restrictions. This is to apply when a train isdeparting Platform 3 at Grays towards the Up Tilbury line or from Platform 2 towards Ockendon."

@@ -1,0 +1,39 @@
+"LN888 HATFIELD AND STAINFORTH (STAINFORTH JUNCTION) TOFERRYBRIDGE NORTH JUNCTION"		
+Knottingley South Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains towards Knottingley East JunctionApproaching Knottingley Sth Jn."	Approach control	2
+""		
+Movement Up	Reason	Value
+"Trains from Knottingley East JunctionAfter Knottingley Sth Jn"	Acceleration	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Knottingley East Junction	Pass to Knottingley East Junction	3
+Pass from Knottingley West Junction	Pass to Knottingley East Junction	3
+Pass to Knottingley East Junction	Pass from Knottingley West Junction	4
+Thorpe Marsh Junction		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Haywood Junction	Pass from Applehurst Junction	3
+Pass from Applehurst Junction	Pass to Haywood Junction	3
+Haywood Junction		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Thorpe Marsh Junction	Pass to Shaftholme Junction	3
+Pass to Shaftholme Junction	Pass from Thorpe Marsh Junction	3
+LN898 NEVILLE HILL EAST JUNCTION TO HULL	
+""	
+Cross Gates	
+""	
+Dwell Time	
+DMU	"1 minute for trains arriving in Leeds 0730 – 0900 and departing Leeds 1600– 1800 SX"
+Garforth	
+""	
+Dwell Time	
+DMU	"1 minute for trains arriving in Leeds 0730 – 0900 and departing Leeds 1600– 1800 SX"
+East Garforth	
+""	
+Dwell Time	
+DMU	1 minute for trains arriving in Leeds 0730 – 0900 and departing Leeds 1600

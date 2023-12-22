@@ -1,0 +1,32 @@
+""	Birmingham Snow Hill			
+""				
+""	Adjustment to Sectional Running Times			
+""	Movement Down		Reason	Value
+""	"WMT services departing towards JewelleryQuarter"		"Running brake test – to be applied following acrew change"	1⁄2
+""				
+""	"Departure from Platform 1 towards BirminghamMoor Street"	"Departure from Platform 1 towards JewelleryQuarter"	2	
+""	"Departure from Platform 1 towards JewelleryQuarter"	"Departure from Platform 1 towardsBirmingham Moor Street"	2	
+""	"Departure from Platform 2 towards BirminghamMoor Street"	Arrival from Jewellery Quarter into Platform 3	4#	
+""	"Train Departs Platform 3 or 4 to the Up SnowHill at Birmingham Moor Street"	"Train Departs Birmingham Snow Hill toPlatform 2 at Birmingham Moor Street"	1	
+""	"# Only applies if there is a train from Moor Street Platform 2 on the Down towards Snow Hill Platform 1"			
+""				
+""	Planning Note			
+""	"Margins for trains to/from Moor Street need to be applied in conjunction with rules at Birmingham Moor Street.  Atrain cannot depart Birmingham Snow Hill if there is not a platform available at Birmingham Moor Street or viceversa.There are no signals between Birmingham Snow Hill and Birmingham Moor Street therefore no pathing time to beused between these locations"			
+""				
+""	Turnround Allowance		"5 Platform 1 if first train is to reversing siding10 Platform 1"	
+""	Smethwick Galton Bridge High Level	
+""		
+""	Connectional Allowance	7
+""		
+""	Dwell Time	
+""	DMU	1
+""	Smethwick Jn		
+""			
+""	Junction Margins		
+""	"Up Trains towards Galton JnThe following should be read in conjunction with the rules at Galton Jn"		
+""			
+""	First Movement	Second Movement	Margin
+""	Up train routed towards Galton Jn	"Down train from Smethwick Galton Bridgetowards Rowley Regis"	4
+""	"Down train from Smethwick Galton Bridgetowards Rowley Regis"	Up train routed towards Galton Jn	2
+""			
+""	"Down Trains from Galton JnThere is limited standage between Galton Jn and Smethwick Jn.  Therefore, do not plan trains that are longer than25 SLUs/160 metres to stop at Smethwick Jn.Do not use any pathing time or other allowances between Galton Jn and Smethwick Jn because of the risk thatthe train will come to a stand at Smethwick Jn and still be foul of Galton Jn."		

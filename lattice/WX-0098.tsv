@@ -1,0 +1,24 @@
+Eastleigh			
+First Movement	Second Movement	Signal	Margin
+Down train arrives at Platform 3	"Up train arrives/passes Platform 2 fromEastleigh South Junction/EastleighTMD/Eastleigh Works"	E34	3
+Down train arrives at Platform 3	"Down train passes Platform 2 towardsEastleigh South Junction/EastleighTMD/Eastleigh Works"	E34	3
+Down train arrives at Platform 3	"Down train departs from Platform 2towards Eastleigh SouthJunction/Eastleigh TMD/Eastleigh Works"	E34	1
+"Up train arrives/passes Platform 2 fromEastleigh South Junction/EastleighTMD/Eastleigh Works"	"Conflicting Down train arrives atPlatform 3"	E34	3
+"Up train arrives/passes Platform 2 fromEastleigh South Junction/EastleighTMD/Eastleigh Works"	"Down train departs Eastleigh East Yardtowards Platform 3"	E34	1
+"Down train departs/passes Platform 2towards Eastleigh SouthJunction/Eastleigh TMD/Eastleigh Works"	Down train arrives at Platform 3	E34	3
+"Down train departs/passes Platform 2towards Eastleigh SouthJunction/Eastleigh TMD/Eastleigh Works"	"Down train departs Eastleigh East Yardtowards Platform 3"	E34	2
+"Down train departs/passes Platform 3towards St. Denys"	Down train arrives at Platform 2	E36	3#
+"Down train departs/passes Platform 3towards St. Denys"	"Down train departs Eastleigh East Yardtowards Platform 2"	E36	2$
+"Down train departs Platform 3 towardsEastleigh South Junction/EastleighTMD/Eastleigh Works"	Down train arrives at Platform 2	E36	3*
+"Up train arrives/passes Platform 3 fromSt. Denys"	Down train arrives at Platform 2	E36	3
+"Up train arrives at Platform 3 from St.Denys"	"Down train departs Eastleigh East Yardtowards Platform 2"	E36	1
+"Up train arrives at Platform 3 fromEastleigh South Junction/EastleighTMD/Eastleigh Works"	Down train arrives at Platform 2	E36	3*
+Down train arrives at Platform 2	"Down train passes Platform 3 towardsSt. Denys"	E36	3
+Down train arrives at Platform 2	"Down train departs Platform 3 towardsSt. Denys"	E36	1
+Down train arrives at Platform 2	"Down train departs Platform 3 towardsEastleigh South Junction/EastleighTMD/Eastleigh Works"	E36	1*
+Down train arrives at Platform 2	"Up train arrives/passes Platform 3 fromSt. Denys"	E36	3
+Down train arrives at Platform 2	"Up train arrives at Platform 3 fromEastleigh South Junction/EastleighTMD/Eastleigh Works"	E36	3*
+Up train arrives at Platform 2	"Down train arrives/passes Platform 3from Down Fast/Chandlers Ford"	E99	3
+Up train arrives at Platform 2	"Up train passes Platform 3 towards UpFast/Chandlers Ford"	E99	3
+Up train arrives at Platform 2	"Up train departs Platform 3 towards UpFast/Chandlers Ford"	E99	1
+"Down train arrives/passes Platform 3from Down Fast/Chandlers Ford"	Up train arrives at Platform 2	E99	3

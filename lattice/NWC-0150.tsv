@@ -1,0 +1,33 @@
+""	NW3009 CHESTER NORTH JN TO CHESTER SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Chester North Jn to Chester SouthJn"	*	"* Single line, TCB timed as AB+2Single lead at both ends of the line"	
+""	NW3011 CHESTER WEST JN TO HOOTON SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Chester West Jn to Hooton SouthJn"	5	5	
+""	NW3013 HOOTON SOUTH JN TO HELSBY JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Hooton South Jn to Ellesmere Port	AB+2	AB+2	
+""	Ellesmere Port to Helsby Jn	AB+2	AB+2	
+""	NW3021 FRODSHAM JN TO HALTON JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Frodsham Jn to Halton Jn	*	* Single line, TCB timed as AB.	
+""	NW3023 EDGELEY JN NO.2 TO MICKLE TRAFFORD				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	"Edgeley Jn No.2 to CheadleVillage Jn"	4	4		
+""	Cheadle Village Jn to Sharston Jn	*	* Single line, AB+2		
+""	Sharston Jn to Deansgate Jn	4	4		
+""	Deansgate Jn to Navigation Road	*	* Single line, TCB timed as AB+2		
+""	Navigation Road to Mobberley	4	4		
+""	Mobberley to Plumley West SB	AB+2	AB+2		
+""	"Plumley West SB to GreenbankHartford C.L.C Jn"	4	4		
+""	"Greenbank Hartford C.L.C Jn toMouldsworth"	AB+2*	AB+2*	"* TCB timed as AB+2A 4 minute headway can be applied at Greenbankwhere a train is to/from Mouldsworth and the secondtrain is to/from Hartford Jn and vice versa"	
+""	Mouldsworth to Mickle Trafford	*	"* Single line. Tokenless Block applies throughout.TCB timed as AB+2Single lead at Mickle Trafford Jn"		
+""	NW3025 SKELTON JN TO PARTINGTON			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Skelton Jn to Partington	*	* Single line - One Train in Section (OTS)	

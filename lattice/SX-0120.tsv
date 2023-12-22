@@ -1,0 +1,36 @@
+Barnham			
+""			
+Adjustment to Sectional Running Times			
+Movement	Reason	Value	
+Approaching Barnham	"All Up trains from Chichester with formations ofgreater than 8 coaches are permitted to operatebetween Chichester and Barnham with a maximumpower draw of Notch 3. This is limited to one trainwest of Barnham at any one time on either line"	{1}	
+"All non-stop movements from BognorRegis to Up Main"	Slow speed over 1004/1007 points	"{1}approachingFord"	
+"Departure from Platform 1 or 2 towardsFord"	Slow speed over 1001 crossover	"{1⁄2}approachingFord"	
+Down train towards Platform 1	Approach Control on signal BH75	{1⁄2}	
+"Up train from Bognor Regis towardsPlatform 1"	Approach Control on signal BH40	{1⁄2}	
+Attachment in platforms 1, 2 or 3	"Calling-on allowance to be added to second train dueto restrictive aspect at signals BH40 or BH78"	{1}	
+""			
+Berthing Facilities			
+Location	Cars		Notes
+Platform 1	12		
+Up Siding	15*		
+Berthing permitted in the Down Platform Loop (Platform 1) only due to restrictions upon berthing on running lines			
+"*Only 2 car or 3 car formations can be stabled in the siding if crew need to leave the train due to the nature andlocation of the walking route.When a train is formed of rolling stock forming multiple units of Class 165/166, 171 or RHTT stock coupledtogether, traincrew must not leave the train unless you are able to walk through the whole length of the train due tono walkway to accommodate non walk-through trains"			
+""			
+Connectional Allowances			
+All Services	4 *		
+* 2 minutes is allowed if the connection is cross platform and not via the subway			
+""			
+Dwell Times			
+All Services	1		
+""			
+Junction Margins			
+""	Margin		
+Between any departure and conflicting arrival	3		
+Down departure	"Conflicting Down departure / pass to adifferent route"	3	
+""			
+Movements Not Permitted			
+A train from Bognor Regis cannot access Platform 2 at Barnham as there is no pointwork to allow this.			
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Reason	Margin
+"Up train from Chichester arrivinginto either Platform 1 or 2"	"Down train arriving intoeither Platform 1 or 2"	"The overlap required for either moveinterferes with crossing move fromChichester either arriving or making thecrossing move at all, or there is nooverlap available to select beyondBarnham station"	2

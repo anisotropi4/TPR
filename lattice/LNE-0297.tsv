@@ -1,0 +1,32 @@
+LN912 THORNE JUNCTION TO GILBERDYKE JUNCTION		
+Goole		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Services approaching Goole with an extendeddwell (greater than 2 minutes)"	Approach Control	11⁄2
+"Up freight arriving into Goole LoopApproaching Goole"	Approach Control	2
+""		
+Dwell Time		
+All	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive from Doncaster	Depart to Knottingley	Same time
+Depart to Knottingley	Arrive from Doncaster	5
+Terminate from Doncaster or Knottingley	Arrive from Doncaster or Knottingley	8
+Arrive in East End siding	Arrive from Hull	5
+Down Freight pass/arr	Up train pass/dep	Same time
+Down Passenger pass/arr	Up Freight depart/pass	Same time
+Up Freight pass/dep	Down Freight pass/arr	8
+Up Passenger dep/pass	Down Freight pass/arr	7
+""		
+Minimum Turnround	10 trains from Doncaster, Hull Leeds and Sheffield.  Must be replatformed	
+""		
+"RestrictionsFreight trains must not be timed to pass each other over Goole Swing Bridge.  The following two margins shouldtherefore applyUp Freight passes Goole same time as Down freight passes GooleDown Freight passes Goole 10 minutes before Up Freight passes Goole"		
+LN914 HULL TO SEAMER WEST JUNCTION
+Hull
+""
+Refer to LN898
+Cottingham	
+""	
+Dwell Time	
+All	"1 Trains arriving Hull 0730 – 0900 weekdays, or departing Hull 1600 – 1800weekdays"

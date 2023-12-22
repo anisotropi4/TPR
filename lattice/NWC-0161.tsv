@@ -1,0 +1,28 @@
+""	NW8005 SANDHILLS JN TO ORMSKIRK			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Sandhills Jn to Walton Jn	31⁄2$	3$	"$ 21⁄2 applies for ECS following a passenger servicein Down direction and 2 in the Up direction"
+""	Walton Jn to Ormskirk	6	6	
+""	NW8007 BOOTLE JN TO AINTREE EMERGENCY G. F.			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Bootle Jn to Aintree EmergencyGround Frame"	*	* Single line - One Train in Section (OTS)	
+""	NW8009 WALTON JN TO HEADBOLT LANE			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Walton Jn to Kirkby	5	5	
+""	Kirkby to Headbolt Lane	*		"* Two bi-directional single lines between Kirkby andHeadbolt Lane. See section 5.3 for junction marginrules."
+""	"Headbolt Lane to Fazakerley(exclusive)"		AB+0	TCB timed as AB
+""	"Fazakerley (inclusive) to WaltonJn"		5	
+""	NW8011 MANN ISLAND JN TO WEST KIRBY (VIA LOOP)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Mann Island Jn to Mann Island Jn(via Loop)"	Single Line	TCB 2 minute headway applies	
+""	"Mann Island Jn to BirkenheadNorth"	2	2	
+""	"Birkenhead North to Bidston DeeJn"	3	3	
+""	Bidston Dee Jn to West Kirby	5	5	
+""	NW8013 CANNING STREET JN TO HOOTON SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Canning Street Jn/HamiltonSquare to Rock Ferry"	3	3	
+""	Rock Ferry to Hooton South Jn	5	5	

@@ -1,0 +1,34 @@
+""	Coventry		
+""			
+""	Junction Margins – Birmingham End		
+""	First Movement	Second Movement	Margin
+""	Up train from Berkswell arrives platform 4	Down train to Berkswell departs platform 3	1
+""	"Down Freight departing or passing towardsCoundon Road"	Up train from Berkswell arrives platforms 1 or 2	41⁄2
+""	Up train from Berkswell arrives platforms 1 or 2	Down Freight passing towards Coundon Road	2
+""	"Down passenger departing or passing towardsCoundon Road"	Up train from Berkswell arrives platforms 1 or 2	31⁄2 £
+""	Up train from Berkswell arrives platforms 1 or 2	"Down passenger departing or passing towardsCoundon Road"	1
+""	"Down passenger departing or passing platform4 towards Coundon Road"	"Down train from Rugby Trent Valley Jn arrivesplatforms 3"	4
+""	"Down freight departing or passing platform 4towards Coundon Road"	"Down train from Rugby Trent Valley Jn arrivesplatforms 3"	5
+""	"Down passenger departing platform 3 towardsBerkswell not calling at Canley or Tile Hill"	"Down train departing platform 4 towardsBerkswell"	21⁄2$
+""	"Down train departing platform 4 towardsBerkswell not calling at Canley or Tile Hill"	"Down passenger departing platform 3 towardsBerkswell"	21⁄2$
+""	"Down train departs/pass Platform 3 towardsBerkswell"	"Down train departs Platform 4 towardsCoundon Road"	2
+""	$ The normal headway applies at the next mandatory timing point – see section 5.2		
+""	"£ Where the second movement is a train with a minimum of 1 minute pathing time approaching Coventry, theJunction Margin may be reduced by 1⁄2 minute."		
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	Standard	10	
+""	All West Midlands Trains services	5	
+""			
+""	"Other Platform End Conflicts (except where shown above)Trains may arrive 1 minutes before or 3 minutes after a departure."		
+""	Canley	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1
+""	Tile Hill	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1
+""	Berkswell	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1

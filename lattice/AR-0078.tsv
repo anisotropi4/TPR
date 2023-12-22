@@ -1,0 +1,45 @@
+STANDARD VALUES – MINIMUM		
+""		
+Adjustments to Sectional Running Times		
+Movements	Reason	Value
+"Terminating trains arriving on half minutes in finaltiming link (including those being ‘called on’ to attach)"	IT systems requirements	{1⁄2} *
+"* Exceptions to terminate on 1⁄2 minutes may be agreed between NR and the train operator (excludingCrossCountry, Greater Anglia and Freight)"		
+"Midnight Timings: Midnight times cannot be published; therefore positive or negative adjustment should be usedto avoid these being shown."		
+""		
+Attaching/Detaching		
+Minimum allowance	4 or as specific TOC traincrew agreement	
+""		
+Attachment of units – for services operated by GTR		
+Class 387	6	
+""		
+Detachment of units – for services operated by GTR		
+Class 387	5	
+""		
+Connectional Allowance	5	
+""		
+Departure Time from Origin		
+"Greater Anglia, CrossCountry* and Freight^ Schedules must depart from origin on a whole minute.(This is due to IT systems requirements - *Integrale, ^TOPS)"		
+""		
+Dwell Time (including Safety Check and Train Preparation Allowances)		
+Multiple Units	1⁄2	
+Loco Hauled	1	
+Passenger to ECS with no change of direction	1	
+Empty Stock to Passenger service same direction	1 minute unless otherwise specified	
+"Passenger service to Empty Stock same direction(GTR Classes 387 and 700 and GA Classes 720, 745,and 755)"	4 minutes unless otherwise specified	
+Dwell time values apply only to Class 1, 2 and 9 passenger trains		
+""		
+"CrossCountry Class 170 Safety Check Unit (SCU) Allowances –minimum platform standing allowance between passenger train arrival and ecs departure to depot"		
+1 x 170	5	
+2 x 170	10	
+""		
+"CrossCountry Class 170 Safety Check Unit (SCU) Allowances which includes an attachment –minimum platform standing allowance between passenger train arrival and ecs departure to depot"		
+When the second arrival is 1 x 170	9	
+When the second arrival is 2 x 170	14	
+""		
+"CrossCountry Class 170 Train Preparation Allowance – minimum platform standing allowance betweenECS arrival from depot and passenger train departure"		
+170	5	
+""		
+Junction Margin		
+Standard value	2	
+"Arrival followed by a conflicting departure from astation"	1	
+""		

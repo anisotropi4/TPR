@@ -1,0 +1,39 @@
+""	"NW9001 DORE WEST JN TO EDGELEY JN NO.1 (HOPE VALLEY LINES)NW9001 EARLES SIDINGS (INCL.) TO EDGELEY JN NO.1"	
+""		
+""	Dore West Jn	
+""	"For Junction Margins and Adjustments to Sectional Running Times –Refer to LNE Timetable Planning Rules –LN808"	
+""	Up Bamford Loop			
+""				
+""	First Movement	Second Movement	Margin	
+""	Freight arrive Up Bamford Loop	Pass Bamford towards Grindleford	TBC	
+""	Freight depart Up Bamford Loop	Pass Bamford towards Grindleford	101⁄2	
+Earles Sidings			
+""			
+For arrivals from the Edale direction:	For arrivals from the Bamford direction:		
+Edale Signal EE16	XX/XX	Bamford	XX/XX
+Earles Sidings SB	XX:XX*	Earles Sidings SB	XX/XX
+Earles Sidings Signal ES30, arr	XX:XX	Earles Sidings, arr	XX:XX
+Earles Sidings Signal ES30, dep	XXPRXX		
+Earles Siding SB	XX/XX		
+Earles Sidings, arr	XXPRXX		
+""			
+* To be shown as a dot stop with activity code OP			
+""			
+For departures towards Edale	For departures towards Bamford		
+Earles Sidings, dep	XX:XX	Earles Sidings, dep	XX:XX
+Earles Sidings SB	XX/XX	Earles Sidings SB	XX/XX
+Earles Sidings Signal ES31	XX/XX	Bamford	XX/XX
+""			
+Planning Note			
+The sidings and Down Goods Loop are controlled under local arrangements with Earles Sidings SB.			
+Earles Sidings SB		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+Trains departing Earles Sidings	Acceleration from slow speed	"1 after EarlesSidings SB"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down train arrive Down Goods Loop/EarlesSidings"	Down train departs/pass Bamford	2
+"Freight train from Signal ES30 on Up Main toDown Goods Loop/Earles Sidings passesEarles Sidings SB"	Train passes on Down Main or Up Main	5
+"Light engine from Signal ES30 Up Main toDown Goods Loop/Earles Sidings passesEarles Sidings SB"	Train passes on Down Main or Up Main	21⁄2

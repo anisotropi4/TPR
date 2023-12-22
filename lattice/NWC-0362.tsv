@@ -1,0 +1,37 @@
+Stalybridge		
+""		
+"Train arrives/passes Stalybridge that has calledat Ashton Under Lyne"	"Train arrives/passes from Ashton Moss NorthJn"	31⁄2
+""		
+*Normal headway to be applied at next shared timing point		
+""		
+Platform Reoccupation		
+""		
+"Minimum reoccupation margin in platform 4 is 21⁄2 between stopping services or a stopping service after a non-stop train has passed"		
+""		
+Station Working		
+"It is possible to recess a freight up to 54 SLU/ 346m on the Up and Down Middle Line (Platform 3) in the Downdirection and 58 SLU/ 372m in the Up."		
+""	Diggle Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"All Down trains running via the DownPassenger Loop (allowance to be incorporatedinto the schedule between Greenfield andDiggle Jn)."	Approach Control	2
+NW7025 PHILLIPS PARK WEST JN TO ASHBURYS WEST JN
+""
+Operating Restriction
+"Due to weight restrictions on certain bridges, a light locomotive or locomotive-hauled train must not be planned topass any other train/vehicle between Philips Park South Jn and Ashburys West Jn.Multiple Unit trains may, however, be allowed to pass one another without restriction."
+""	NW8001 HUNTS CROSS WEST JN TO SOUTHPORT
+""	
+""	Hunts Cross West Jn
+""	
+""	See entry under route NW6003 Castlefield Jn to Allerton Jn
+""	Liverpool Central (Low Level)		
+""			
+""	Connectional Allowance	10	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Between all conflicting movements (limited tosix in each direction per hour), except:"		21⁄2*
+""	Depart Platform 1 in Down direction	Arrive Platform 2 in Down direction	11⁄2
+""			
+""	Platform Reoccupation Time	21⁄2	
+""			

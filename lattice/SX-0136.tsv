@@ -1,0 +1,41 @@
+Southwick
+""
+Planning Note
+Trains formed of a 12 car Class 700 EMU must not be planned to use this station, due to operational restrictions
+Shoreham by Sea	
+""	
+Dwell Times	
+All Services to/from London	1
+""	
+Berthing Facilities	
+Platform 1	No turnback over ground frame for trains formed of a 12 car Class 700 EMU
+Platform 2	No turnback over ground frame for trains formed of a 12 car Class 700 EMU
+Lancing	
+""	
+Dwell Times	
+All Peak Services to/from London	1
+East Worthing
+""
+Planning Note
+Trains formed of a 12 car Class 700 EMU must not be planned to use this station, due to operational restrictions
+Worthing		
+""		
+Adjustment to Sectional Running Time		
+Movement	Reason	Value
+Attachment in platforms 1 or 2	"Calling-on allowance to be added to secondtrain due to restrictive aspect at signal LG26"	{1}
+""		
+Berthing Facilities		
+"Berthing permitted in the Up Platform Loop (Platform 1) only for class 377, 387 and 700 only due to restrictionsupon berthing on running lines"		
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Dwell Times		
+All Class 1 Services	1	
+""		
+Limit of Shunt		
+""	Length Limit	
+Up Brighton (Clear of LG26)	8	
+""		
+Permissive Working		
+Attaching/Detaching and Platform Sharing is authorised as shown below -		

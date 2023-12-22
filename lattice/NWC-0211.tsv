@@ -1,0 +1,33 @@
+""	University		
+""			
+""	Platform reoccupation margins		
+""	First movement	Second movement	Margin
+""	Depart platform 2 towards Selly Oak	Arrive platform 2 from Five Ways	3
+""	Depart platform 1 towards Five Ways	Arrive platform 1 from Selly Oak	21⁄2 *
+""			
+""	"* The 1 minute station dwell time combined with a 21⁄2 minute platform reoccupation in the Up direction adds up to1⁄2 less than the 4 minute headway. This is acceptable provided the full headway is applied at the next applicabletiming point."		
+""	Selly Oak	
+""		
+""	Dwell Time	1
+""	Kings Norton		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Non-stop trains routed from Lifford East Jn onthe Down Camp Hill"	Differential Junction speed	"111⁄2 (HST)Applies atnext timingpoint afterKings Norton"
+""			
+""	Movement Up	Reason	Value
+""	"Non-stop trains routed towards Lifford East Jnon the Up Camp Hill"	"Approach Control and Differential Junctionspeed"	"1 (22x)11⁄2 all othertraction"
+""			
+""	Dwell Time	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive or pass Platform 4 from Selly Oak	"Pass from Up Fast or Up Slow towards LiffordEast Jn"	3
+""	Pass towards Lifford East Jn	Arrive or pass Platform 4 from Selly Oak	21⁄2
+""	Pass on Down Fast	"Pass from Up Fast or Up Slow towards LiffordEast Jn"	2
+""	"Pass from Up Fast or Up Slow towards LiffordEast Jn"	Pass on Down Fast	"21⁄2Passenger31⁄2 Freight"
+""	Pass on Down Fast	Pass or depart from Down Slow to Down Fast	21⁄2
+""	Pass or depart from Down Slow to Down Fast	Pass on Down Fast	31⁄2
+""	Pass Platform 1 from Up Fast	Arrive Platform 1 from Up Slow	3
+""	"Pass or depart from Up Fast or Up Slowtowards Lifford East Jn"	"Arrive or pass Platform 1 via 615A/615B pointstowards Bournville"	21⁄2
+""	Arrive or pass Platform 1 from Up Fast	"Pass or depart from Up Slow towards LiffordEast Jn"	11⁄2

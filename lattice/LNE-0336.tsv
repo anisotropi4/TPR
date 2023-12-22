@@ -1,0 +1,11 @@
+LN826 DONCASTER SOUTH YORKSHIRE JUNCTION TO SWINTON					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	Cl 6	Remarks
+""					
+Up – Weekdays					
+Approach Doncaster	E	1	1	1	"*Can be applied flexibly between SwintonJunction and Doncaster if required#Nil for East Midlands services."
+P	1*#	1*			
+LN830 ALDWARKE JUNCTION TO WOODBURN JUNCTION					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	Cl 6	Remarks
+""					
+Up – Weekdays					
+Approach Rotherham Central	E	1		2	

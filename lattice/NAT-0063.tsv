@@ -1,0 +1,36 @@
+Type	Days		TID	Start Time	Origin	Destination
+""				02:28		
+RHTT	SX		3S24	"01:5902:28"	Leeds	Leeds
+RHTT	SX		3S25	"04:4404:55"	Leeds	Leeds
+RHTT	SO		3S25	"04:4404:55"	Leeds	Leeds
+RHTT	SX		3S26	06:28	Leeds	York Thrall Europa
+RHTT	SO		3S26	06:22	Leeds	York Thrall Europa
+RHTT	SO		3S26	06:22	Leeds	York Thrall Europa
+RHTT	SX		3S26	06:28	Leeds	York Thrall Europa
+""	East Midlands					
+RHTT	MO		3J87	02:45	Toton TMD	Toton TMD
+RHTT	MO		3J85	04:59	"STAPLEFORD &SANDIACRE"	"STAPLEFORD &SANDIACRE"
+RHTT	MO		3J86	02:45	TOTON T.M.D.	"STAPLEFORD &SANDIACRE"
+RHTT	SX		3J88	23:07	Toton TMD	Stapleford & Sandiacre
+RHTT	SX		3J88	21:25	Toton TMD	Stapleford & Sandiacre
+RHTT	TThO		3J89	05:00	Stapleford & Sandiacre	Toton TMD
+RHTT	SO		3J89	05:00	Stapleford & Sandiacre	Toton TMD
+RHTT	WFO		3J89	05:00	Stapleford & Sandiacre	Toton TMD
+RHTT	FSX		3J92	23:42	Toton TMD	"West Hampstead NorthJN"
+RHTT	FO		3J92	23:17	Toton TMD	"West HampsteadThameslink"
+RHTT	Su		3J92	23:32	Toton TMD	"West Hampstead NorthJN"
+RHTT	FSX		3J92	23:42	TOTON T.M.D.	"West Hampstead NorthJn"
+RHTT	SO		3J93	12:01	"West HampsteadThameslink"	Toton TM
+RHTT	SX		3J93	12:01	"West HampsteadThameslink"	Toton TMD
+""	North West & Central					
+RHTT	SX		2S01	22:52	London Euston	London Euston
+RHTT	MO		2S01	00:01	London Euston	London Euston
+RHTT	SU		3J01	12:35	Bescot T.M.D	London Euston
+RHTT	SO		3J01	10:50	Bescot T.M.D	Bescot T.M.D
+RHTT	SX		3J01	10:50	Bescot T.M.D	London Euston
+RHTT	MWO		3J01	10:50	Bescot T.M.D	London Euston
+RHTT	FO		3J01	10:50	Bescot T.M.D	London Euston
+RHTT	SO		3J01	11:00	"Kings Norton SignalSY522"	Kings Norton Plant Dept
+RHTT	TThO		3J02	01:09	London Euston	"Bescot T.M.DKINGS NORTON OTPLANT DEPT"
+RHTT	MWFO		3J02	01:09	London Euston	"Bescot T.M.DKINGS NORTON OTPLANT DEPT"
+RHTT	SO		3J02	00:59	London Euston	"Bescot T.M.DAMERSHAM"

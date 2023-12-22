@@ -1,0 +1,26 @@
+Sheet Stores Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"From Trent East Jn when routed towards theSpondon direction"	"Differential junction speed – to beapplied approaching next timing point"	"1⁄2 services stoppingat Long Eaton#1 non-stop services#Freight2 < 1,200t3 > 1,200t#does not apply toservices shown tostop at Sheet StoresJn"
+""		
+Movement Up	Reason	Value
+"To Trent East Jn when approaching from theSpondon direction"	Differential Junction speed	"1⁄2 stopping at LongEaton1 non–stop services"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves except for below:		"5 before/3 after"
+Down Main passenger non-stop	"Pass/depart Sheet Stores Jn from TrentEast Jn towards Spondon"	21⁄2
+Down Main passenger stopping at Long Eaton	"Pass/depart Sheet Stores Jn from TrentEast Jn towards Spondon"	3
+Down Main freight	"Pass/depart Sheet Stores Jn from TrentEast Jn towards Spondon"	3
+Down Main pass	"Pass/depart Sheet Stores Jn from TrentEast Jn towards Castle Donington"	2
+Long Eaton	
+""	
+Dwell Time	
+DMU	1⁄2
+170	1
+222	11⁄2
+Spondon	
+""	
+Dwell Time	
+170	1⁄2

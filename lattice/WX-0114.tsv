@@ -1,0 +1,38 @@
+SW105C WEYMOUTH JUNCTION TO WEYMOUTH SIGNAL DR194
+""
+Weymouth
+See entry under route – SW105
+SW110 WOKING JUNCTION TO PORTSMOUTH HARBOUR
+""
+Woking Junction
+See entry under route – SW105
+Woking Signal WK610
+""
+Restriction
+Passenger trains or Empty Coaching Stock must not be reversed via Signal WK610.
+Woking Down Reception	
+""	
+Train Length Restrictions	
+Maximum standage behind Signal WK1216	263m / 41 SLU
+Guildford		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Down EMU trains from Woking to Platforms 2,3, 5, 6 and 8"	Speed Differential	{1⁄2}
+"Up trains from Shalford Junction which areattaching/platform sharing at Guildford"	Approach Control	{1}
+"Up trains approaching Guildford from Shalford Junction and Ash, and down trains from Effingham Junction,already have the standard {1⁄2} for crossing over included in the SRT’s."		
+""		
+Berthing Facilities		
+""	Cars	Notes
+No 1 Up Carriage Siding	12	
+No 2 Up Carriage Siding	12	
+No 3 Up Carriage Siding	10	
+No 1 North Box Siding	10	
+No 2 North Box Siding	10	
+""		
+Dwell Times		
+All Services except as below	11⁄2	
+"All SWR services departing between 0630 and 0900 or between 1630 and 1900 Monday toFriday"	2	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin

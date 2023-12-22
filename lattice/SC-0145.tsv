@@ -1,0 +1,34 @@
+Camelon	
+""	
+Connectional Allowance	4
+""	
+"RestrictionPathing time must not be used between Camelon and Carmuirs East Junction in either direction, owing tosignaling constraints."	
+Carmuirs East Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down trains toward Carmuirs West Junction(not stopping at Camelon)"	Approach control	1⁄2
+""		
+Movement Up	Reason	Value
+Up Freight trains from Carmuirs West Junction	Acceleration from slow speed	1⁄2 *
+*Applied approaching next timing point		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Larbert Junction	Pass from Carmuirs West Junction	3*
+"Pass to Larbert Junction (Camelon stoppingservice)"	Pass from Carmuirs West Junction	3
+Pass from Carmuirs West Junction	Pass to Larbert Junction	4
+Pass from Carmuirs West Junction	Depart Camelon to Larbert Junction	1
+Pass from Carmuirs West Junction	"Depart Falkirk Grahamston (non stop atCamelon) to Larbert Junction"	1
+"* 5 minutes for trains with pathing allowance approaching Greenhill Lower or Carmuirs West junctions as they willrequire an approach control aspect at ECL389 signal rather than flashing yellows."		
+"RestrictionReversals should not be planned at Carmuirs East Junction due to the sub-optimal positioning of signal ECL272"		
+SC111 NEWBRIDGE JUNCTION TO BATHGATE		
+""		
+Bathgate East Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up train pass from Down to Up Main fromBathgate LMD"	Down train passes/arrives at Bathgate	5
+Pass from Sig. EN2031	Down train departs Livingston North	Same time
+Pass from Sig. EN2031	Down train passes Uphall	Same time
+Up train non-stop from Bathgate	Pass Bathgate East Junction from LMD	6

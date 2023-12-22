@@ -1,0 +1,10 @@
+""									
+""		
+""	Liverpool Street Platform Reoccupation Matrix	
+""		
+""		
+""		
+""	Notes for the Platform Reoccupation Matrix	
+""		
+""	"* = Trains can only access the Down Suburban Line from Platform 10 if both Platforms 9 and 10 are notoccupied by more than 8 cars.P = Parallel/Non Conflicting.T = Minimum turnround time values apply.0 = Minimum of 0 minutes to be allowed between 1st move and 2nd move.0-1 = Where possible a minimum of 1 minute to be allowed between 1st move and 2nd move (0 minutes can beused if the arrival is formed of 8 cars or less and is not arriving into an occupied platform).2 = Minimum of 2 minutes to be allowed between 1st move and 2nd move.3 = Minimum of 3 minutes to be allowed between 1st move and 2nd move.4 = Minimum of 4 minutes to be allowed between 1st move and 2nd move.c = Value of 5 minutes to apply if 2nd move is a passenger service.x = Only a parallel move if there are not more than two moves taking place at one time between Platforms 5-10(Arr+Dep).The Line codes shown below also appear in Section 2.1 of this document.ML1 = Down ML trains running via 2008/2009 points.ML2 = Down ML trains running via 2014/2015 points.S1 = Up S trains running via 2014/2015 points.S2 = Up S trains running via 2008/2009 points."	
+""		

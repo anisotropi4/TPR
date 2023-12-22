@@ -1,0 +1,28 @@
+Neville Hill TMD
+""
+"Planning Restriction:No more than 4 LNER/CrossCountry trains to arrive at Neville Hill TMD Reception Roads in any 45 minute period."
+""
+"Planning Note:Northern and LNER require a 10 min journey time from Neville Hill TMD to Leeds. This can be applied asadditional adjustment time before Neville Hill West Junction."
+"LN838 LEEDS ARMLEY JUNCTION TO YORK SKELTON JUNCTION VIAHARROGATE"			
+Armley Junction			
+Refer to LN922			
+Horsforth			
+""			
+Adjustments to Sectional Running Times			
+Movement Up	Reason		Value
+"Train from Turnback Siding, not stoppingHorsforth station, to be applied after Horsforthstation"	Acceleration from 15mph pointwork		1⁄2
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Train terminates in Turnback Siding	Next Down train arrive	4	
+Train terminates in Turnback Siding	Down pass station	31⁄2	
+Arrive/pass Up platform from Turnback Siding	Down arrive station	4	
+Arrive/pass Up platform from Turnback Siding	Down pass station	31⁄2	
+Down depart to Harrogate	Depart Turnback Siding	2	
+Down pass to Harrogate	Depart Turnback Siding	11⁄2	
+""			
+Dwell Time			
+MU 1			
+""			
+"Minimum Turnround in turnbacksiding"	"Terminates from Leeds – Depart to Leeds3"		
+"Restriction:•All moves to/from Turnback Siding to be fully timed•Standage on Turnback Siding is 112m maximum•Trains going to Turnback Siding require a minimum 30s OP stop in station, access to Siding from PositionLight Signal•Down train cannot arrive station whilst train is signalled from Turnback Siding or vice versa, due to signaloverlap•Trains can reverse on Down Main adjacent to Turnback Siding"			

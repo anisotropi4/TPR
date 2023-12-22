@@ -1,0 +1,18 @@
+SC164 TWEEDBANK TO NEWCRAIGHALL NORTH JUNCTION					
+""					
+Timing Section	Type	"LHHST22X"	MU	FRT	
+""					
+Down – Weekdays					
+Approaching Galabank Junction	E	1	1	1	
+"Approaching Newcraighall SouthJunction"	E	1	1	1	
+Up – Weekdays					
+Approaching Tynehead Junction	E	1	1	1	
+Approaching Tweedbank	E	1	1	1	
+"SC165 NIDDRIE SOUTH JUNCTION TO GORGIE JUNCTION (EDINBURGHSUBURBAN)"					
+""					
+Timing Section	Type	"LHHST22X"	MU	FRT	
+""					
+Down – Weekdays					
+"Niddrie West Junction –Craiglockhart Junction"	E	1	1	1	
+Up – Weekdays					
+"Craiglockhart Junction – NiddrieWest Junction"	E	1	1	1	

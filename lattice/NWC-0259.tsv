@@ -1,0 +1,41 @@
+""	MD710 NEASDEN SOUTH JN TO HARROW ON THE HILL
+""	
+""	Neasden South Jn
+""	See entry under route MD701 Marylebone to Aynho Jn
+""	Harrow on the Hill	
+""		
+""	Connectional Allowance	3
+""	Amersham		
+""			
+""	Adjustment to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Train using platform 2 at Amersham	Slow speed crossovers	"1 before1⁄2 after"
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	Trains from Marylebone	5	
+""	Trains from Aylesbury	9	
+""			
+""	Platform Reoccupation		
+""	Through Lines: –	"3 Same3 Opposite"	
+""	MD712 AMERSHAM TO AYLESBURY		
+""			
+""	Great Missenden		
+""			
+""	Adjustment to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Train terminating at Great Missenden	Cautionary aspects on approach	1
+""			
+""	Movement Up		
+""	Train departing P2	Slow speed crossover and running brake test	1 After
+""	Aylesbury		
+""			
+""	Dwell Time		
+""	All	1	
+""			
+""	Adjustment to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Approaching an occupied platform	Slower speed approach	1⁄2
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	Standard	5	
+""			

@@ -1,0 +1,25 @@
+Malton		
+Up depart platform	Down arrive	31⁄2
+Up depart platform	Down pass	21⁄2
+Down depart	Up arrive platform	4*
+Down pass	Up arrive platform	4*
+*Can be reduced by one minute if {1} added approaching Malton		
+""		
+Note: A train may stand on the Up Main, level with the station platform. Maximum length 276 yards		
+Seamer		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Non-stopping trains towards Filey; approachingSeamer"	Approach Control	1⁄2
+""		
+Dwell Time		
+All	1*	
+* 1⁄2 for classes 14x, 150		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart to York	Arrive/pass from Filey	5
+Pass to York	Arrive from Filey	4
+Arrive/pass from Filey	Depart to York	1
+Arrive/pass from Filey	Pass to York	11⁄2
+Arrive from Filey	Depart to Filey	Same time*
+*For single line occupancy at Seamer South Jn		

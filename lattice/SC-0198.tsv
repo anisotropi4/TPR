@@ -1,0 +1,30 @@
+Inverurie		
+""		
+Dwell Time	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Insch	Pass to Insch	1
+Arrive from Turnback Line	Depart to Insch	1⁄2
+Depart to Insch	Depart Turnback Line	41⁄2
+Pass to Insch	Depart Turnback Line	3
+Inverurie Turnback Siding
+""
+"Operating Note:Maximum of 8 coaches can be accommodate in this siding.Permissive Working:This is possible when it is a DMU on the buffer stops but not possible when the train already dwelling is an HST."
+Insch			
+""			
+Dwell Time			
+MU	1⁄2		
+LH	1		
+""			
+Adjustments to Sectional Running Times			
+Movement Up	Reason		Value
+"Up train arriving Insch while single line to/fromInverurie is occupied"	Approach Control		1
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Arrive from Kennethmont	Arrive/pass from Inverurie	"3May be reducedto 1 for stoppingservices if {1} isappliedapproaching Insch"	
+Arrive/pass from Inverurie	Arrive/pass from Kennethmont	"3May be reducedto 1 for stoppingservices if {1} isappliedapproaching Insch"	
+Arrive/pass from Inverurie	Depart to Inverurie	11⁄2	
+""			
+"NoteDwell in Down direction to be kept to a minimum due to Level Crossing.   Crossing barriers must be loweredbefore Down trains can arrive at Platform."			

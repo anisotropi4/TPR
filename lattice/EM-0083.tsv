@@ -1,0 +1,40 @@
+Ambergate Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Main pass	Pass from Matlock Branch towards Derby	3
+Pass from Matlock Branch towards Derby	Down passenger pass	3
+Pass from Matlock Branch towards Derby	Down freight pass	31⁄2
+"Depart Broadholme Loop towards Clay CrossNorth Junction"	Pass from Matlock Branch towards Derby	31⁄2
+Pass from Matlock Branch towards Derby	"Depart Broadholme Loop towards Clay CrossNorth Junction"	1
+Down Main pass or to Matlock Branch	"Depart Broadholme Loop towards Clay CrossNorth Junction"	2
+""		
+Diverging Headway		
+First Movement	Second Movement	Margin
+Down pass to Matlock Branch	Down pass towards Clay Cross North Junction	3
+Clay Cross North Junction		
+""		
+Adjustments to Sectional Running Times		
+""		
+Movement Down	Reason	Value
+Down Main to Down Erewash	"Differential junction speed – applies to22x/180/HSTs"	1⁄2
+""		
+Movement Up	Reason	Value
+Up Erewash to Up Main	"Differential junction speed (to be appliedapproaching Ambergate Junction) – applies to22x/180/HSTs"	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves		"3 before orafter"
+Chesterfield South Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Up Main to Up Barrow Hill at Tapton Jn	"Not at linespeed  - to be applied afterChesterfield South Jn"	"1⁄2 Passenger1 Freight"
+"Up Barrow Hill to Up Main at Chesterfield NorthJn"	"Not at linespeed – to be applied afterChesterfield South Jn"	"1⁄2 Passenger1 Freight"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves unless otherwise stated		3
+Cross from Down Barrow Hill to Down Main	Pass Up Main having stopped at Chesterfield	21⁄2
+""		
+"To provide ‘Flank’ protection the interlocking will not permit the following ‘Parallel’ movements.1) With the route set along the Up Main through Chesterfield South Junction, it is not possible to set a route for atrain from TC4776, the signal protecting the junction on the Down Barrow Hill line, toward the Up Barrow Hill line.Therefore, time such moves to depart Chesterfield South Jn 3 minutes before the departure from Chesterfield, or 3"		

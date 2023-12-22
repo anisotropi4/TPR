@@ -1,0 +1,25 @@
+Slateford		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Train to Craiglockhart	Approach Control	"1 Passenger11⁄2Passengertimed as 80xor HST2 Freight"
+Movement Up	Reason	Value
+"Train from Craiglockhart (not stoppingSlateford)"	Acceleration	1*
+* To be applied approaching next timing point		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to/from Craiglockhart Junction	Depart Slateford Depot to ES686 / ES975	1*
+Pass to Craiglockhart Junction	Pass from Haymarket	31⁄2
+Pass to/from Craiglockhart Junction	Up arrive ES686 / ES975 from Haymarket	3
+Up arrive ES686 / ES975	Pass to/from Craiglockhart Junction	3
+Up stopping train depart Curriehill	Up train depart Slateford ES675	2
+Up stopping train depart Curriehill	Up train pass from Craiglockhart Junction	2
+Pass from Haymarket / Craiglockhart Junction	Pass to Craiglockhart Junction	3
+Pass to Craiglockhart Junction	Pass from Craiglockhart Junction	3
+Depart Slateford to Haymarket when reversing	"Pass/arrive from Haymarket / SlatefordDepot"	3
+*Conflict due to overlap from depot line		
+""		
+"RestrictionOnly one train can stand or be on SC167 between Craiglockhart Junction and Slateford Junction at any onetime in each direction."		
+"NoteMaximum length of train reversing is 140m."		
+""		

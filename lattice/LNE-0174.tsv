@@ -1,0 +1,28 @@
+""	Tollerton		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Pasenger pass Down Fast to Down Slow	Deceleration for lower junction speed	1⁄2
+""	Pass Down Slow to Down Fast	"Deceleration for lower junction speedAcceleration from lower junction speed"	"1 AppliedapproachingTollerton2 Appliedapproachingnext timingpoint"
+""	Movement Up	Reason	Value
+""	Pass Up Fast to Up Slow	"Deceleration for lower junction speedAcceleration from lower junction speed"	"1 AppliedapproachingTollerton1⁄2 Appliedapproachingnext timingpoint"
+""	Passenger Pass Up Slow to Up Fast	Acceleration from lower junction speed	"1⁄2 Appliedapproachingnext timingpoint"
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass Up Fast	Pass Up Slow to Up Fast	21⁄2
+""	Pass Up Fast to Up Slow	Pass Up Fast	21⁄2
+""	Down Fast to Down Slow	Pass Down Fast	3
+""	Pass Down Fast	Down Slow to Down Fast	21⁄2
+""	Thirsk		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Pass Down Slow to Down Fast	"Deceleration for lower junction speedAcceleration from lower junction speed"	"1 AppliedapproachingThirsk1 Appliedapproachingnext timingpoint"
+""	Pass Down Fast to Down Slow	Deceleration	1
+""	Movements Up	Reason	Value
+""	Pass Up Slow to Up Fast	Acceleration	"1 Appliedapproachingnext timingpoint"
+""			
+""	Dwell Time		
+""	DMU/EMU	1	
+""	180	11⁄2 - May be reduced to 1 with prior agreement from the operator	

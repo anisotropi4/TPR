@@ -1,0 +1,33 @@
+East Croydon			
+""			
+"All southbound crossing movementsbetween Fast, Slow and ReversibleLines at London End *"	"Approach control and slow speedcrossovers"	"{1⁄2} approaching EastCroydon *"	
+"All southbound crossing movementsbetween Fast, Slow and ReversibleLines at Country End *"	"Approach control and slow speedcrossovers"	"{1⁄2} approaching EastCroydon and next timingpoint *"	
+"All northbound crossing movementsbetween Fast, Slow and ReversibleLines at Country End *"	"Approach control and slow speedcrossovers"	"{1⁄2} approaching EastCroydon *"	
+"All northbound crossing movementsbetween Fast, Slow and ReversibleLines at London End *"	"Approach control and slow speedcrossovers"	"{1⁄2} approaching EastCroydon and next timingpoint *"	
+"All movements from Sandersteadpassing South Croydon on the Up Slowinto Platform 4"	Speed Differential	{1⁄2}	
+"All movements from Sandersteadpassing South Croydon on the Up Slowinto Platforms 2,3 and 5"	"Speed differential at South Croydon,approach control on signal T126 and25mph crossovers at East Croydon. Notethat {1} also incorporates the speeddifferential at South Croydon"	{1}	
+*Does not apply to movements between Down Fast or Up Fast and Up Fast Reversible			
+""			
+Dwell Times			
+All Services	1		
+""			
+Limit of Shunt			
+""	Length Limit		
+Up Fast (Clear of T100)	12		
+Down Slow (Clear of T123)	12		
+""			
+Platform Re-occupation	Margin		
+"All platforms with followingmoves"	2		
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Reason	Margin
+"Down train arriving inPlatform 5 from either RVLor DFL"	"Up train arriving atPlatform 4"	"Overlap on 1608A/Bpoints"	2
+"Up train departing Platform5"	"Up train arriving Platform4"	"Overlap on 1608A/Bpoints"	2
+""			
+Station Working Requirements			
+"Whenever possible, change of line should be made at North End of station with Northbound services and at SouthEnd of station with Southbound services.Stopping passenger services from 01.00 to 05.00 should be timed to run via Platforms 5 and 6 where possible"			
+""			
+Planning Notes			
+"Trains formed of a 12 car class 700 EMU must not be planned to reverse in platform 3, due to signal sightingissues for signals at either end of the platform. However 12 car Class 700 EMU are able to use platforms 2, 4 and5 for this purpose."			
+"The non-stop headway applies for consecutive trains departing from or passing East Croydon providing the secondtrain uses a different platform and the correct headway is applied at the next timing point irrespective of callingpattern. National TPR section 1.5.5 Application of Planning Headways refers."			
+"The non-stop headway applies for consecutive trains arriving at or passing East Croydon providing the second trainuses a different platform and the correct headway has been applied at the previous timing point irrespective of callingpattern. National TPR section 1.5.5 Application of Planning Headways refers."			

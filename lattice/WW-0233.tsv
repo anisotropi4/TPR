@@ -1,0 +1,48 @@
+Freight train Down Main to Line C	"Train crossing Line B to Up Relief or Line Dto Up Main"	3
+Passenger train Line B to Up Main	Train crossing Line C to Up Main	21⁄2
+Passenger train Line B to Up Main	Train crossing Line E to Up Main	3
+Freight train Line B to Up Main	Train crossing Line C to Up Main	3
+Freight train Line B to Up Main	Train crossing Line E to Up Main	4
+Freight train Line D/E to Up Relief	Train crossing Down Relief to Line B/D or E	41⁄2
+Passenger train Line D/E to Up Relief	Train crossing Down Relief to Line B/D or E	31⁄2
+Passenger train Line D to Up Relief	Train crossing Down Main to Line D or E	2
+Freight train Line D to Up Relief	Train crossing Down Main to Line D or E	21⁄2
+Freight train Down Relief to Line C	"Train crossing Line D to Up Main/Up Reliefor Line C to Up Relief"	3
+Passenger train Down Relief to Line C	"Train crossing Line D to Up Main/Up Reliefor Line C to Up Relief"	21⁄2
+Passenger train Down Main to Line E	"Train crossing Line D to Up Relief or UpMain"	3
+Passenger train Down Main to Line E	Train crossing Line B to Up Relief	21⁄2
+Freight train Down Main to Line E	"Train crossing Line D to Up Relief or UpMain"	4
+Freight train Down Main to Line E	Train crossing Line B to Up Relief	3
+Passenger train Line C to Up Main/Up Relief	Train crossing Down Main to Line C	2
+Passenger train Line C to Up Main/Up Relief	Train crossing Down Relief to Line C	31⁄2
+Freight train Line C to Up Main	Train crossing Down Main to Line C	21⁄2
+Freight train Line C to Up Main	Train crossing Down Relief to Line C	31⁄2
+Freight train Line C to Up Relief	Train crossing Down Main to Line C	3
+Freight train Line C to Up Relief	Train crossing Down Relief to Line C	41⁄2
+Passenger train Down Relief to Line B	"Train crossing Down Main to Line C or LineD to Up Relief"	2
+Freight train Down Relief to Line B	"Train crossing Down Main to Line C or LineD to Up Relief"	21⁄2
+Passenger train Line E to Up Main	Train crossing Down Main to Line E	3
+Freight train Line E to Up Main	Train crossing Down Main to Line E	31⁄2
+Passenger train Line B to Up Relief	Train crossing Down Main to Line C	3
+Freight train Line B to Up Relief	Train crossing Down Main to Line C	21⁄2
+Passenger train Line B to Up Relief	Train crossing Down Main to Line E	4
+Freight train Line B to Up Relief	Train crossing Down Main to Line E	3
+Passenger train Line B to Up Relief	Train crossing Down Relief to Line C	41⁄2
+Freight train Line B to Up Relief	Train crossing Down Relief to Line C	31⁄2
+Passenger train Line D to Up Relief	"Train crossing Down/Up Relief to Line C orDown Main to Line E"	3
+Passenger train Line D to Up Relief	Train crossing Down Main to Line C	2
+Passenger train Line D to Up Relief	Train crossing Down Main to Line D	21⁄2
+Cardiff Central			
+""			
+Adjustments to Sectional Running Times (allowance to be shown after this location)			
+Movement	Reason	Timing Load	Value
+Departure in the Up direction from Platform 0	Longer distance to travel	Passenger	{1⁄2}
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+Arriving into an occupied platform	Approach Control	All	{1}
+""			
+Connectional Allowance	7		
+""			
+Dwell Time			
+LH	3		

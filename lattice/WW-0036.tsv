@@ -1,0 +1,39 @@
+""	GW240 DIDCOT EAST JUNCTION TO DIDCOT NORTH JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Didcot East Junction	–	ML RL		"To/from Didcot Parkway – GW103To/from Reading West Junction – GW103"
+""	Didcot North Junction	–	–		To/from Kennington Junction – GW200
+""	GW250 FOXHALL JUNCTION TO DIDCOT WEST CURVE JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Foxhall Junction	– RL	–		"To/from Didcot Parkway – GW103To/from Wantage Road – GW103"
+""	Didcot West Curve Junction				"To/from Didcot Parkway – GW200To/from Didcot North Junction – GW200"
+""	GW260 KENNINGTON JUNCTION TO COWLEY				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Kennington Jn	–	–		To/from Oxford – GW200
+""	Littlemore Sidings		–	S	
+""	Cowley		–	S	
+""	GW310 WOLVERCOTE JUNCTION TO PERSHORE (EXCLUSIVE)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Wolvercote Junction	–	–		To/from Oxford - GW200
+""	Hanborough	–	–	S	
+""	Combe	–	–	S	
+""	Finstock	–	–	S	
+""	Charlbury	–	–		Platform detail must be shown.
+""	Ascott Under Wychwood	–	–		Platform detail must be shown.
+""	Shipton	–	–	S	Platform detail must be shown.
+""	Kingham	–	–	S	
+""	Moreton in Marsh	–	–		Platform detail must be shown.
+""	Honeybourne	–	–		Platform detail must be shown.
+""	Honeybourne North Junction	–	–	X	To/from Long Marston – GW317
+""	Evesham	–	–		
+""	"Route Boundary: NW&C &Western and Wales"				"Boundary at 112 miles 0 chains – To/FromPershore"
+""	GW317 HONEYBOURNE NORTH JUNCTION TO LONG MARSTON				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Honeybourne North Junction	Single			To/from Evesham - GW310
+""	Honeybourne Sidings	Single		S	
+""	Honeybourne Staff Hut	Single		S	"Trains MUST stop here to collect the Stafffor the single line to Long Marston"
+""	Long Marston	Single			

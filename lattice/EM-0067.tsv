@@ -1,0 +1,36 @@
+Wellingborough	
+""	
+Dwell Time	
+DMU	1
+180/222	11⁄2  2 minutes in the Up morning and Down evening peak
+360	1
+""	
+Planning Note	
+"No timing allowances should be applied between Wellingborough and either Wellingborough South Junction orWellingborough North Junction as there are no intermediate signals"	
+Wellingborough North Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement Down	Reason	Value
+"Down Fast to Down Slow not stopping atWellingborough"	Flashing yellow approach	"1⁄2 approachingWellingborough"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down Fast pass Wellingborough beforecrossing to Down or Up Slow"	Up Fast passenger pass Wellingborough	4
+"Down Fast pass Wellingborough beforecrossing to Down or Up Slow"	Up Fast freight pass Wellingborough	51⁄2
+"Down Fast pass Wellingborough beforecrossing to Down or Up Slow"	Up Fast passenger arrive Wellingborough	41⁄2
+"Down Fast to Down or Up Slow having stoppedat Wellingborough"	Up Fast passenger pass Wellingborough	31⁄2
+"Down Fast to Down or Up Slow having stoppedat Wellingborough"	Up Fast freight pass Wellingborough	5
+"Down Fast to Down or Up Slow having stoppedat Wellingborough"	Up Fast passenger arrive Wellingborough	4
+Up Fast pass Wellingborough	"Down Fast to Down Slow passenger notstopping at Wellingborough"	2
+Up Fast pass Wellingborough	Down Fast to Down or Up Slow freight	3
+Up Fast pass Wellingborough	"Depart Wellingborough Platform 1 to Down orUp Slow"	Same time
+Up Fast arrive Wellingborough	"Down Fast to Down Slow passenger notstopping at Wellingborough"	21⁄2
+Up Fast arrive Wellingborough	Down Fast to Down or Up Slow freight	31⁄2
+Up Fast arrive Wellingborough	"Depart Wellingborough Platform 1 to Down orUp Slow"	-1⁄2
+Down Fast to Down Slow	Up Slow to Up Fast	3
+"Depart Wellingborough Platform 3 to DownSlow"	Up Slow to Up Fast	41⁄2
+Up Slow to Up Fast	Down Slow pass Wellingborough	21⁄2
+Up Slow to Up Fast	Down Slow depart Wellingborough Platform 3	1
+""		
+Planning Note		
+"No timing allowances should be applied between Wellingborough North Junction and Wellingborough as there areno intermediate signals"		

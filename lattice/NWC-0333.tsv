@@ -1,0 +1,32 @@
+""	Manchester Piccadilly		
+""			
+""	Platform end conflicts		
+""	First Movement	Second Movement	Margin
+""	Arrive platforms 1 – 12	Conflicting Up departure platform 13 or 14	Same Time
+""	Departure	Conflicting arrival	4
+""	"Up train departing from Platforms 8 to 12 to UpFast or Up East"	Arrival from Down Fast	41⁄2
+""	Arrive/pass platform 14 from Down Fast *	Arrive platform 13 from Oxford Road	2
+""	Arrive platform 13 from Oxford Road	Arrive/pass platform 14 from Down Fast	2
+""	Arrive platform 14 from Oxford Road	Arrive platform 13 from Down Fast	Simultaneous
+""	* train must be less than 10-car if stopping		
+""			
+""	Platform Reoccupation	2 for platforms 13 and 14	
+""			
+""	Permissive Working		
+""	Attaching/Detaching and Platform Sharing is authorised as shown below:		
+""	Platforms 1 to 12	Attaching/Detaching and platform sharing	
+""	Platform 13	Contingency use only	
+""	Platform 14	Contingency use only	
+""	"To allow a second train to permissively enter an occupied platform the train(s) at the buffer stops end must notexceed the following overall lengths:Platforms 1 to 4: the total number of vehicles at the buffers must be no more than 121m in lengthPlatforms 5 to 9: the total number of vehicles at the buffers must be no more than 143m in lengthPlatform 10: the total number of vehicles at the buffers must be no more than 95m in lengthPlatforms 11 and 12: the second train must be no longer than 41m"		
+""			
+""	Planning Restrictions		
+""	"Avanti West Coast services where possible must only use platforms 5, 6, 7 and 8 in the terminus part of the stationChange of train crew in platforms 13 and 14 is only permitted when Manchester Oxford Road station is not open.Trains reversing in platform 13 from Manchester Oxford Road must show platform 13B"		
+""	NW5003 WILMSLOW TO SLADE LANE JN (STYAL LINES)
+""	
+""	Wilmslow
+""	
+""	See entry under route NW5001 Crewe North Jn to Manchester Piccadilly
+""	Heald Green South Jn
+""	
+""	Planning Notes
+""	"No allowance should be inserted approaching Heald Green South into Up trains from Heald Green North or Uptrains from Heald Green West because there are no intermediate signals.The standage at MP285 on the Down Styal to avoid fouling Heald Green South Jn is 396 meters/61 SLU. Thisexcludes any standback allowance."

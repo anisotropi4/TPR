@@ -1,0 +1,43 @@
+LN3252 MANSFIELD JUNCTION TO TROWELL SOUTH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Mansfield Jn	DM UM			To/from Nottingham – LN3204
+Lenton North Jn	DM UM	UM DM	X	"Bi-directional on Up Mansfield betweenLenton North Jn and RadfordTo/from Lenton South Jn – LN3249"
+Radford Jn	–	UM DM		To/from Bulwell South Jn – LN3255
+Trowell South Jn		–		To/from Langley Mill – LN3207
+LN3255 RADFORD JUNCTION TO KIRKBY LANE END JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Radford Jn	–			To/from Mansfield Jn – LN3252
+Bulwell South Jn	–	–		Single line
+Bulwell	–	–	S	Single line
+Bestwood Park Jn	–	–		Single line
+Hucknall	–	–	S	Single line
+Newstead	–	–		Single line
+Newstead Loop	–	–	S	
+Lindleys Lane (Kirkby Sth Jn)	–	–		
+Kirkby Lane End Jn		–		To/from Mansfield – LN3273
+LN3261 TRENT SOUTH JUNCTION TO TOTON SOUTH JUNCTION (HIGH LEVEL)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Trent South Jn	HL			To/from Loughborough – LN3201
+Meadow Lane Jn		HL		To/from Attenborough Jn – LN3204
+Toton South Jn		–		To/from Toton Centre Jn – LN3207
+LN3264 ATTENBOROUGH JN TO MEADOW LANE JN (ATTENBOROUGH CURVE)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Attenborough Jn	–			To/from Nottingham – LN3204
+Meadow Lane Jn	–	–		
+LN3273 IRONVILLE JUNCTION TO SHIREBROOK JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Ironville Jn	–			To/from Langley Mill – LN3207
+Sleights East Jn	–	–	F	
+Pinxton	–	–	F	
+Kirkby Lane End Jn	–	–		To/from Lindleys Lane – LN3255
+Kirkby in Ashfield	–	–	S	
+Sutton Parkway	–	–	S	
+Mansfield Town	–	–	S	
+Mansfield Woodhouse	–	–		
+Shirebrook	–	–	S	"To/from Shirebrook East Jn – LN768.Refer to LNE Timetable Planning Rules"
+Shirebrook Jn	–	–	F	"To/from Shirebrook East Jn – LN768.Refer to LNE Timetable Planning Rules"

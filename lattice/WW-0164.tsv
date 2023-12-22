@@ -1,0 +1,26 @@
+""	Oxford			
+""				
+""	"Up arrival into platform 1 or 2 (Not includingservices from Up or Down Carriage sidings andDown Turnback Line)"	Approach control	All	{1}
+""	"From down carriage sidings or down turnbackpassing Oxford"	Acceleration	All	"{1⁄2}Approachingnext timingpoint"
+""	"On Down Oxford through line, crossing to DownOxford Relief via 9158 points"	Slow Junction Speed	All	{1}
+""	"Departing Oxford Platforms 1, 2 or 3 to DRL, DMLor URL"	Slow Speed Turnout	All	"{1⁄2}Approachingnext timingpoint"
+""	Pass platform 3 URL to UML	Slow junction speed	"All trainstimed over75mph"	"{1⁄2}Approachingnext timingpoint"
+""				
+""	Dwell Time			
+""	22x, 80x	2		
+""	150 - 165/6 & 769	1		
+""	"Trains terminating and then runningECS in the same direction"	2$		
+""	"$ For terminating 80x 9/10 cars and Loco Hauled Stock (with slam doors), this needs to be 4 minutes. Forterminating double 16X sets, 80x 5 car and Loco Hauled Stock with power doors, this needs to be 3 minutes."			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Down passing/departing	"Conflicting train departing the Down CarriageSidings or Down Turnback"	1	
+""	Up Passing/arriving	"A conflicting train departing Down CarriageSidings or Down Turnback"	1	
+""	"Arriving/Passing from Down carriage sidings orDown Turnback"	Conflicting Down Passenger.ECS departure	1⁄2	
+""	"Arriving/Passing from Down carriage sidings ordown turnback"	Conflicting down Freight/Light Loco departure	Simultaneous	
+""	"Arriving/Passing from Down carriage sidings ordown turnback"	Conflicting down train Pass Oxford	2	
+""	"Arriving from the Down Carriage Sidings orDown Turnback"	A conflicting Up arrival	3	
+""				
+""	Platform Re-occupation	3		
+""				
+""	Turnround allowances			

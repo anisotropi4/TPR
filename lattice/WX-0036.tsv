@@ -1,0 +1,39 @@
+SW210 CLAPHAM JUNCTION TO READING (VIA RICHMOND)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Twickenham	-  UL	FL  SL		"Platform detail must be shownDown trains to Whitton via 4325 points tobe timed via UL"
+Twickenham Junction	-	FL  SL	X	"Timing point for all Up trains, also Downtrains via Twickenham platforms 3 or 4To/from Strawberry Hill - SW245"
+Twickenham Signal 2130		-	S	
+Whitton	-	-	S	
+Whitton Junction	-	-		To/from Hounslow Junction - SW210A
+Feltham Junction	-	-		To/from Hounslow Junction - SW230
+Feltham Signal BEF2157	-		S	Shunt moves only
+"Feltham Depot Arrival RoadLondon End"	-	-	S	"Timing point for trains to/from FelthamDepot via Feltham Junction."
+Feltham Depot	-	-	S	
+"Feltham Depot Arrival RoadCountry End"	-	-	S	"Timing point for trains to/from FelthamDepot."
+Feltham	-	-		Platform detail must be shown.
+Ashford (Middlesex)	-	-	S	
+Staines Up Loop	-	-	F	
+Staines Sidings	-		S	ECS moves only
+Staines Sidings Entry/Exit	-		X	ECS moves to or from Sidings
+Staines Signal BEF2189	-		S	Shunt moves only
+Staines	-	-		"Platform detail must be shown.To/from Wraysbury - SW250"
+Egham	-	-	S	
+Virginia Water Signal 2217	-		S	
+Virginia Water	-	-		"Platform detail must be shown.To/from Chertsey - SW255"
+Longcross	-	-	S	
+Sunningdale	-	-	S	
+Ascot Signal BEF2237	-		S	
+Ascot	-	-		"Platform detail must be shown.To/from Bagshot - SW260"
+Ascot Signal BEF2238		-	S	
+Martins Heron	-	-	S	
+Bracknell	-	-		Platform detail must be shown.
+Wokingham Signal BEF2267	-		S	Shunt moves only.
+Wokingham Down Siding	-		S	
+Wokingham	-	-		"Platform detail must be shown.To/from Crowthorne - SW265"
+Winnersh	-	-	S	
+Winnersh Triangle	-	-	S	
+Earley	-	-		
+Reading Spur Junction	-	-		To/from Reading New Junction - SW210B
+Reading Southern Junction	-	-	X	"Timing point for all trains to/from Readingvia Up & Down Low LevelTo/from Reading – SW210C"
+Reading Platforms 4-6		-		Platform detail must be shown

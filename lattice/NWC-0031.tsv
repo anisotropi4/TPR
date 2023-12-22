@@ -1,0 +1,48 @@
+""	Abbreviation	Description
+""	M	Monday
+""	T	Tuesday
+""	W	Wednesday
+""	Th	Thursday
+""	F	Friday
+""	S	Saturday
+""	Su	Sunday
+""	EWD	Every Week Day (Monday to Saturday)
+""	Daily	Every day – will not accept this; there must be a separate entry for Sundays
+""		
+""	Suffixes	
+""	O	Adding this indicates that the train will run only on that day or those days shown
+""	X	Adding this indicates that the train will not run on that day or those days shown
+""		
+""	General	
+""	BHX	Denotes that this train does not run on a bank holiday
+""	Abbreviation	Description
+""	15x	DMU classes 150/153/155/156/158/159
+""	158	Class 158 DMU
+""	16x	Class 165 and 166 Turbo DMU
+""	170	DMU classes 170/171
+""	172	Class 172 DMU
+""	175	Class 175 DMU
+""	185	Class 185 DMU
+""	195	Class 195 DMU
+""	196	Class 196 DMU
+""	197	Class 197 DMU
+""	22x	DEMU classes 220/221/222
+""	230	Class 230 DMU
+""	319	Class 319 EMU
+""	323	Class 323 EMU
+""	325	Class 325 EMU (Royal Mail)
+""	331	Class 331 EMU
+""	350	Class 350 EMU
+""	377	Class 377 EMU
+""	378	Class 378 EMU
+""	390	Class 390 EMU
+""	397	Class 397 EMU
+""	710	Class 710 EMU
+""	730	Class 730 EMU
+""	769	Class 769 Bi-mode
+""	777	Class 777 EMU
+""	80x	Class 800 and 802 Bi-modes
+""	802	Class 802 Bi-mode
+""	805	Class 805 Bi-mode
+""	807	Class 807 EMU
+""	DMU	Any diesel multiple unit (excluding Classes 220/221/222)

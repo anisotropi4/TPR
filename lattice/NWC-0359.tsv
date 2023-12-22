@@ -1,0 +1,28 @@
+""	Horrocksford Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Up train depart/pass Clitheroe	"Pass Horrocksford Jn from Castle Cement Sidingstowards Clitheroe"	4*
+""	Up train depart/pass Clitheroe	"Shunt move depart Horrocksford Jn towardsClitheroe"	2*
+""	"Up train pass from Castle Cement Sidings(not stopping at Clitheroe)"	Pass from Hellifield	4*
+""	"* where the second train timed using this margin is continuing towards Daisyfield Jn, a stop is required at Clitheroeuntil 2 minutes after the previous train passes Whalley or 1 minute after the previous train departs Whalley"		
+""	Hellifield
+""	
+""	See entry under route NW9901 Gargrave to Carlisle South Jn
+""	NW7017 GANNOW JN TO COLNE
+""	
+""	Gannow Jn
+""	
+""	See entry under route NW7009 Farington Curve Jn to Hall Royd Jn (East Lancs lines)
+""	Chaffers Crossing	
+""		
+""	Dwell Time	
+""	All traction	Dot stop to be shown for level crossing duties
+""	NW7019 THORPES BRIDGE JN TO GMC SIDING (INCLUSIVE)
+""	
+""	Thorpes Bridge Jn
+""	
+""	See entry under route NW7001 Manchester Victoria West Jn to Hebden Bridge
+""	Newton Heath TMD
+""	
+""	See entry under route NW7001 Manchester Victoria West Jn to Hebden Bridge

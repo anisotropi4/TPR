@@ -1,0 +1,37 @@
+Lenzie	
+""	
+Connectional Allowance	3
+Cadder		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up arrive Cadder Up Loop or Cadder DownLoop or West Departure Line"	Up Pass/Depart Bishopbriggs	1
+Up Pass/Depart Lenzie	"Up depart Cadder Down Loop or Cadder UpLoop or East Departure Line"	1
+Up Depart East Departure	Down Pass Lenzie	3
+"Down arrive Cadder Down Loop or EastDeparture Line"	Down Pass Lenzie	11⁄2
+"Down arrive Cadder Down Loop or EastDeparture line"	Down Depart Lenzie	Simultaneous
+Down pass/depart Bishopbriggs	"Down depart Cadder Down Loop or WestDeparture"	1⁄2
+"Up arrive Cadder Down Loop or WestDeparture Line"	Down Pass/Depart Lenzie	1
+Cadder HST Depot	
+""	
+Minimum time between arrivals and/or departures	8
+""	
+West Departure line re-occupation (Up direction only)	8
+""	
+Planning Note – Departures	
+"An Operational Stop of 1 minute on the East or West Departure Line is required for all trains after departingCadder HST Depot. This is to facilitate correct regulation by ARS."	
+""	
+Planning Note – Arrivals	
+"An Operational Stop of 1 minute minimum on the East or West Departure Line is required for all trains beforeentering Cadder HST Depot. This is for depot acceptance purposes."	
+Cowlairs East Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Up trains towards Bishopbriggs from CowlairsNorth Junction"	"Acceleration (to be applied between CowlairsEast Junction and Bishopbriggs)"	1⁄2 LH
+""		
+Movement Down	Reason	Value
+"Down trains diverging at Cowlairs EastJunction towards Cowlairs North Junction"	"Approach Control (to be applied approachingCowlairs East Junction)"	1 LH
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Cowlairs North Junction	Up EMU pass from Glasgow Queen Street	2

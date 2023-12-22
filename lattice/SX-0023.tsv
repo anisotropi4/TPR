@@ -1,0 +1,23 @@
+SO250A GROSVENOR BRIDGE JUNCTION TO FACTORY JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Grosvenor Bridge Junction	-	SL	X	"Timing point for Slow lines only(Also known as Battersea Pier Junction)To/from Victoria (Eastern) - Refer to KentTimetable Planning Rules -  SO110"
+Stewarts Lane Junction	RVL	RVL		"To/from Battersea PierJunction/Longhedge Junction - SO250B"
+Stewarts Lane T&R.S.M.D	-	-		"ECS movesAccess controlled by TOC shunter"
+Stewarts Lane Up Goods Loop		-	S	
+Stewarts Lane Berthing Sidings		-		ECS moves. TIPLOC STWTBS
+Factory Junction	AL RVL	-		"To/from Voltaire Road Junction - Refer toKent Timetable Planning Rules - SO110To/from Longhedge Junction - SO250"
+SO250B BATTERSEA PIER JUNCTION TO LONGHEDGE JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Battersea Pier Junction	RVL	SL		"To/from London Victoria (Central) - SO500To/from Victoria (Eastern) - Refer to KentTimetable Planning Rules - SO110"
+Battersea Loop	-			TIPLOC BATRSYD
+Stewarts Lane Junction	RVL –	RVL -		"To/from Factory Junction/GrosvenorBridge Junction - SO250A"
+Stewarts Lane T&R.S.M.D		-		"ECS movesAccess controlled by TOC shunter"
+"Stewarts Lane AggregatesTerminal"		-	S	"The following TIPLOCs apply:STWTDAY – Stewarts Lane DaysSTWTGBR – Stewarts Lane GBRfSTWTLAM – Stewarts Lane Marcon RMC"
+Longhedge Junction	"DWLDKLUWLUKL"	RVL		"To/from Latchmere Junction (No 3) -SO250To/from Pouparts Junction - SO250C.To/from Clapham Junction (Windsor Side)- Refer to Wessex Timetable PlanningRules - SW100D"
+SO250C POUPARTS JUNCTION TO LONGHEDGE JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Longhedge Junction	-	-		"To/from Factory Junction - SO250.To/from Clapham Junction (Windsor Side)- Refer to Wessex Timetable PlanningRules - SW100DTo/from Stewarts Lane Junction - SO250B"
+Pouparts Junction	DBA	UBA		"To/from Clapham Junction (Sussex Side) -SO500"

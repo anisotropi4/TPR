@@ -1,0 +1,41 @@
+SW120 PIRBRIGHT JUNCTION TO ALTON
+""
+Pirbright Junction
+""
+See entry under route – SW105
+Ash Vale		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Up trains towards Frimley Junction passing AshVale"	Speed Differential	{1⁄2}
+"Down trains from Frimley Junction passing AshVale"	Speed Differential	{1⁄2}*
+* This allowance should appear in the section from Ash Vale		
+""		
+Dwell Times		
+All Services	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		3
+Service arriving from Frimley	Departure towards Pirbright Junction	1
+"Up Camberley departure reoccupying singleline"		1
+Aldershot North Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Up Passenger services towards AldershotSouth Junction"	Speed Differential	{1⁄2}
+"Up freight services towards Aldershot SouthJunction"	Approach control	{1}
+"Down services towards Aldershot fromAldershot South Junction"	Speed Differential	{1⁄2}*
+* This allowance should appear in the section from Aldershot North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all movements except as below		2
+Up services towards Aldershot South Junction	Down services from Ash Vale	21⁄2
+Aldershot	
+""	
+Berthing Facilities	
+""	Cars
+Platform 3 – DPL	12
+""	
+Connectional Allowances	

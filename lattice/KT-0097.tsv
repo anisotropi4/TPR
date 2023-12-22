@@ -1,0 +1,45 @@
+""	Sittingbourne			
+""				
+""	Permissive Working for attaching/detaching and platform sharing is authorised as shown below:			
+""	Platform 1	Up Main	Prohibited	
+""	Platform 2	Down Main	Attaching/Detaching in Down direction ONLY	
+""	Platform 3	Down Passenger Loop	Attaching/Detaching in Down direction ONLY	
+""				
+""	Overlap Restrictions			
+""	First Movement	Second Movement	Reason	Margin
+""	Down train departing Platform 3	Down train arriving Platform 2	EK4217 signal	2
+""	Up train departing Platform 3	Up train arriving Platform 1	EK4206 signal	3*
+""	"* Can be reduced to 0 rather than 3 minutes provided that the Up Arrival into platform 1 has an adjustment of {1}applied approaching Sittingbourne."			
+""	Faversham		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	All freight trains	"Speed differential approaching Faversham platforms1 or 4"	11⁄2
+""			
+""	Movement Up	Reason	Value
+""	All freight trains	"Speed differential approaching Faversham platforms1 or 4"	11⁄2
+""			
+""	Berthing Facilities		
+""	Location	Cars	Notes
+""	Down Platform Loop (Platform 4)	12	
+""	Up Platform Loop (Platform 1)	12	
+""	No 1 Up Siding	16	
+""	No 2 Up Siding	8	
+""	No 3 Up Siding	8	
+""	Back Road	8	
+""	Down Reception Sidings	12	
+""			
+""	Connectional Allowance	4	
+""			
+""	Dwell Time		
+""	All services	1	
+""			
+""	Permissive working for attaching/detaching and platform sharing is authorised as shown below:		
+""	Platform 1	Up Passenger Loop	"Attaching/Detaching and Platform Sharing inUp direction ONLY"
+""	Platform 2	Up Chatham	"Attaching/Detaching and Platform Sharingin Up direction ONLY"
+""	Platform 3	Down Chatham	"Attaching/Detaching in Down directionONLY"
+""	Platform 4	Down Passenger Loop	"Attaching/Detaching and Platform Sharingin Down direction ONLY"
+""	A second train must arrive in an occupied platform before the first train is allowed to depart		
+""			
+""	Junction Margins		
+First Movement	Second Movement	Value	

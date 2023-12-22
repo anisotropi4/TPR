@@ -1,0 +1,27 @@
+"LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THECOASTDown Direction"				
+HEADWAY AT	"FOLLOWPASSENGER"	FOLLOW TWM	FOLLOW FREIGHT	NOTES
+Longlands Junction	n/a	n/a	31⁄2	
+"Boroughbridge RoadLC"	n/a	n/a	31⁄2	
+"Northallerton EastJn"	41⁄2	n/a	51⁄2	
+Yarm	5*	n/a	31⁄2	"*If 1st train stoppingYarm; 3 if not"
+Eaglescliffe	4	n/a	4	
+Stockton Cut Jn	4	n/a	4	
+Hartburn Jn	4	n/a	4	
+Norton South Jn	31⁄2	n/a	51⁄2	
+Billingham Jn	41⁄2*	n/a	41⁄2	"* If first train isstopping atBillingham, 31⁄2 if not"
+Greatham SB	4	n/a	4	
+Hartlepool	AB+1*	n/a	AB+2*	"*A train stopping atHartlepool candepart 4” afterpreceding train butrequires (2) beforeHorden Signal 7137"
+Horden Signal 7137	AB+1*	n/a	AB+2*	"* A freight fromSeaham Harbourdoes not affectheadway fromHorden"
+Seaham	4	n/a	4	
+Ryhope Grange Jn	4	n/a	4	
+Sunderland	3	4	4	"If 2nd train freight,see margins"
+"Boldon West/Brockley Whins"	21⁄2	3	31⁄2	
+"Pelaw MetroJunction"	n/a	3	n/a	
+Pelaw Junction	5*	n/a	3	"*If 1st train stoppingHeworth; 2 if not"
+"Park Lane Junction(to Newcastle)"	3	n/a	n/a	
+High Level Bridge Jn	3	n/a	n/a	
+"LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THECOASTUp Direction"				
+HEADWAY AT	"FOLLOWPASSENGER"	FOLLOW TWM	FOLLOW FREIGHT	NOTES
+High Level Bridge Jn	21⁄2	n/a	n/a	
+Park Lane Junction	21⁄2	n/a	5	
+Pelaw Junction	21⁄2	See margins	41⁄2	

@@ -1,0 +1,24 @@
+""	"SO400 LONDON ST PANCRAS INTERNATIONAL TO HIGH SPEED 1/ETBOUNDARY"					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	Line codes on SO400 apply forward from the timing point against which they are shown					
+""	London St Pancras International	"DNCPCOPNL PRLUPC"			Platform detail must be shown	
+""	Regents Canal Junction			X	"To/from York Way North Junction –SO410A"	
+""	York Way South Junction	"DNCUPC"	"DNCNLC PRLUPC"		To/from Cedar Junction – SO420	
+""	"Stratford International WestJunction"	"TPMDNCUPC 1 23 4"	"DNCUPC"		To/from Temple Mills Depot – SO430	
+""	Stratford International	"DNCUPC"	"DNCUPC"	S	Platform detail must be shown	
+""	"Stratford International EastJunction"	"DNCUPC"	"DNCUPC 1 23 4"			
+""	Dagenham Dock Junction	"DNCUPC"	"DNCUPC"		"To/from Ripple Lane Exchange Sidings -SO440"	
+""	Wennington Crossover	"DNCUPC"	"DNCUPC"			
+""	"Ebbsfleet International WestJunction"	"DNCUPC 1 23 4 5 6"	"DNCUPC"			
+""	Ebbsfleet International	"DNCUPC"	"DNCUPC"	S	"Platform detail must be shownTo/from Springhead Road Junction –SO450"	
+""	"Ebbsfleet International EastJunction"	"DNCUPC"	"DNCUPC 1 23 4"			
+""	Southfleet Junction	"DNCUPC"	"DNCUPC"		To/from Fawkham Junction – SO460	
+""	Southfleet Crossover	UPC	DNC	X		
+""	Singlewell Loop	-	-	F S		
+""	Singlewell Crossover	"DNCUPC"	"DNCUPC"	X		
+""	Nashenden Crossover	"DNCUPC"	"DNCUPC"			
+""	Crismill Crossover	"DNCUPC"	"DNCUPC"			
+""	Lenham Crossover	"DNCUPCDNLUPL"	"DNCUPC"		"Line codes  DNL or UPL must be used fortrains travelling into Lenham Heath Loop"	
+""	Lenham Heath Loop	-	"UPCDNC"	F S		
+""	Charing Crossover		"UPLDNL"	X	"Timing point for trains crossing to enterLenham Heath Loop in the Up Directiononly"	

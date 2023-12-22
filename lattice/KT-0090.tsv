@@ -1,0 +1,27 @@
+""	Bickley			
+""	First Movement	Second Movement	Value	
+""	"Freight crossing from DownChatham Fast to Down ChathamSlow"	Freight passes Bickley Junction on the Up Chatham Slow	2	
+""	Bickley Junction			
+""				
+""	Adjustments to Sectional Running Times			
+""	"Crossing moves timed at Bickley Junction do not require the standard {1⁄2} adjustment. Values should be appliedas below"			
+""	Movement Down	Reason	Value	
+""	"Freight trains crossing to the Down SlowTonbridge Loop"	Speed Differential	1	
+""	"Down Chatham Fast to Down Slow TonbridgeLoop"	Approach Control VS203	{1⁄2}	
+""	Crossing Down Chatham Fast to Down Slow	"Approach Control signal VS199for 15mph using 854-856crossover and speed differential"	"{1} and also {1} approachingnext timing point"	
+""	Crossing Down Chatham Slow to Down Fast	"Approach Control signal VS201for 40mph using 869-871crossover and speed differential"	"{1⁄2} and also {1⁄2} approachingnext timing point"	
+""	"Crossing Down Chatham Slow to Down SlowTonbridge Loop"	"Approach Control signal VS201for 30mph using 859-861crossover and speed differential"	{1⁄2}	
+""				
+""	Movement Down Up	Reason	Value	
+""	"Crossing Up Fast Tonbridge Loop to UpChatham Fast"	Speed differential	"{1⁄2} approaching next timingpoint"	
+""	"All trains passing from Up Slow TonbridgeLoop to Up Chatham Slow or Fast"	Speed differential	"{1⁄2} approaching next timingpoint *"	
+""	"Crossing Up Chatham Slow to Up ChathamFast"	"Approach Control signal VS200for 15mph using 854-857crossoverSpeed differential"	"{1}{1} approaching next timingpoint"	
+""	* applicable if the train is stopping at Bickley or Bromley South. 1 minute if not			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Value	
+""	"Freight crossing from Down Chatham Fast or toDown Slow Tonbridge Loop or Freight crossingfrom Down Chatham Slow to Down ChathamFast or Down Slow Tonbridge Loop"	"Freight passes on Up ChathamFast"	3 1⁄2	
+""				
+Length Restrictions				
+"A train exceeding 690m/107SLU in length on the Up Slow Tonbridge Loop will foul VS232 signal in rear whenstanding at VS288.Therefore, junction margins must be based on train’s departure time at Bickley Junction"				
+"A train exceeding 679m/106SLU in length on the Up Fast Tonbridge Loop will foul VS214 signal in rear whenstanding at VS212.Therefore, junction margins must be based on train’s departure time at Bickley Junction"				

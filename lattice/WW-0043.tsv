@@ -1,0 +1,31 @@
+""	GW523 THINGLEY JUNCTION TO BRADFORD JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Thingley Junction	–	–		To/from Chippenham – GW105
+""	Melksham	–	–	S	
+""	Bradford Junction	–	–		To/from Westbury – GW510
+""	GW530 NORTH SOMERSET JN TO DR. DAY’S JN (“RHUBARB LOOP”)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	North Somerset Junction	–	UBL		"To/from Bristol East Junction – GW103To/from Bath Spa – GW103To/from St.Philip’s Marsh Depot - GW528"
+""	Dr. Day’s Junction	UBL DBL	–		"To/from Bristol East Junction – GW450To/from Narroways Hill Junction – GW450"
+""	GW540 FILTON JUNCTION TO PATCHWAY JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Filton Abbey Wood	–	–		Platform detail must be shown.
+""	Filton Junction				To/from Filton Abbey Wood – GW450
+""	Patchway	–	–		"To/from Pilning – GW600Platform detail must be shown."
+""	"GW5401 FILTON WEST JUNCTION TO PATCHWAY JUNCTION (PATCHWAYCHORD)"				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Filton West Junction	–	–		To/from Hallen Marsh Jn – GW4501
+""	Patchway	–	–		"To/from Pilning – GW600Platform detail must be shown."
+""	GW548 PARSON STREET JUNCTION TO PORTBURY TERMINALS				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Parson Street	–	ML  RL		To/from Bristol West Jn – GW105
+""	Ashton Junction	–	–		Single Line
+""	Ashton Junction Signal BL2192		–		Timing point in up direction
+""	Portbury Dock Stop Board	–	–		
+""	Portbury Coal Terminal or				
+""	Portbury Automotive Terminal				

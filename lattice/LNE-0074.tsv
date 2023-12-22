@@ -1,0 +1,27 @@
+LN664 BOLDON EAST JUNCTION TO BOLDON NORTH JUNCTION			
+ROUTE SECTION	SX	SO	SUN
+""			
+Boldon East Jn to Boldon North Jn	Continuous	0000 – 2300	0800 – 2400
+LN666 BOLDON WEST JUNCTION TO TYNE DOCK			
+ROUTE SECTION	SX	SO	SUN
+""			
+"Boldon West to Green LaneJunction"	Continuous	0000 – 2300	0800 – 2400
+"Green Lane Junction to TyneBiomass/Coal Loading Sidings"	Not NR Infrastructure	Not NR Infrastructure	Not NR Infrastructure
+LN678 DARLINGTON NORTH JUNCTION TO EASTGATE			
+ROUTE SECTION	SX	SO	SUN
+""			
+"Darlington North Junction toBishop Auckland and Eastgate"	0645–2230	0645–2230	0730 – 2040
+"LN682 KING EDWARD BRIDGE SOUTH JUNCTION TO PETTERIL BRIDGEJUNCTION"			
+ROUTE SECTION	SX	SO	SUN
+""			
+Blaydon to Petteril Bridge	"Open continuously from0540 (Mon)"	Continuous	"0000 – 00100815 – 2245"
+"*Extended opening hours listed below are agreed for the purpose of operating specific Northern Trains services.These are subject to Network Rail receiving funding on an ongoing basis as agreed between Northern Trains andNetwork Rail.Blaydon to Petteril Bridge closes 2350 vice 2340 SO"			
+""	"LN694 BENTON NORTH JUNCTION TO MORPETH NORTH JUNCTION VIABEDLINGTON"			
+""	ROUTE SECTION	SX	SO	SUN
+""				
+""	"Benton North Junction to MorpethNorth Junction (via Bedlington)"	Continuous	Continuous	Continuous
+LN702 BEDLINGTON NORTH JUNCTION TO LYNEMOUTH ALCAN			
+ROUTE SECTION	SX	SO	SUN
+""			
+"Bedlington North Junction toMarchey’s House"	Continuous	Continuous	Continuous
+Marchey’s House to Lynemouth	Continuous	Continuous	Continuous

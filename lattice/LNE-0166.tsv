@@ -1,0 +1,31 @@
+Allington North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass from Sleaford towards Allington WestJunction"	Pass from Allington East towards Sleaford	31⁄2
+Pass from Allington East towards Sleaford	"Pass from Sleaford towards Allington WestJunction"	21⁄2
+LN206 NEWARK FLAT CROSSING (INCLUSIVE) TO WEST HOLMES JUNCTION		
+""		
+Newark Flat Crossing		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Lincoln – Nottingham pass	Down train pass ECML	41⁄2
+Lincoln – Nottingham pass	"Down train calling Newark North Gate passECML"	4
+Down train pass Newark Flat Crossing	Lincoln – Nottingham pass	2
+Down train stopping Newark North Gate	Lincoln – Nottingham pass	21⁄2
+Lincoln – Nottingham pass	Up train pass ECML	41⁄2
+Lincoln – Nottingham pass	Up train calling Newark North Gate pass ECML	5
+Up train pass ECML	Lincoln – Nottingham pass	3
+"Up train stopping Newark North Gate passECML"	Lincoln – Nottingham pass	21⁄2
+Nottingham – Lincoln pass	Down train pass ECML	41⁄2
+Nottingham – Lincoln pass	"Down train stopping Newark Nth Gate passECML"	31⁄2
+Down train pass ECML	Nottingham – Lincoln pass	21⁄2
+"Down train stopping Newark Nth Gate passECML"	Nottingham – Lincoln pass	3
+Nottingham – Lincoln pass	Up train pass ECML	41⁄2
+Nottingham – Lincoln pass	"Up train stopping Newark North Gate passECML"	5
+Up train pass ECML	Nottingham – Lincoln pass	31⁄2
+"Up train stopping Newark North Gate passECML"	Nottingham – Lincoln pass	3
+""		
+Planning Restriction		
+No pathing time to be applied between Newark Flat Crossing and Newark Flat Crossing East Junction		

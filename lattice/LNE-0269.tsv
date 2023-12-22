@@ -1,0 +1,44 @@
+Horbury Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Pass from Barnsley to Slow Line	Differential junction speed	"1⁄2 to beapplied afterHorburyJunction"
+Movement Up	Reason	Value
+Pass from Fast Line to Barnsley	Differential junction speed	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Healey Mills	Pass from Barnsley	3
+Passenger Pass from Healey Mills to FL	Pass from Barnsley to SL	3
+Passenger Pass from Healey Mills to SL	Pass from Barnsley to FL	3
+Freight Pass from Healey Mills to FL	Pass from Barnsley to SL	31⁄2
+Freight Pass from Healey Mills to SL	Pass from Barnsley to FL	31⁄2
+Passenger Pass from Barnsley	Pass to Healey Mills from FL	4
+Freight Pass from Barnsley	Pass to Healey Mills from FL	5
+Passenger Pass from Barnsley	Pass to Healey Mills from SL	4
+Freight Pass from Barnsley	Pass to Healey Mills from SL	4
+Passenger Pass from Barnsley to FL	Pass from Healey Mills to SL	3
+Freight Pass from Barnsley to FL	Pass from Healey Mills to SL	4
+Passenger Pass from Barnsley to SL	Pass from Healey Mills to FL	3
+Freight Pass from Barnsley to SL	Pass from Healey Mills to FL	4
+Wakefield Kirkgate		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Pass from Fast Line to Altofts Jn via throughline"	Approach Control	1
+Pass from Horbury to Calder Bridge Jn	Approach Control	1
+Arrive Platform 2/3 from Fast Line	Approach Control	1
+Pass from Wakefield Westgate to Altofts Jn	Acceleration	"1Appliedapproachingnext timingpoint"
+Pass to Wakefield Down Goods Loop	Approach Control	1
+Movement Up	Reason	Value
+Pass from Altofts Jn via through line	Approach Control	1
+Pass from Altofts Jn to Wakefield Westgate	Approach Control	1
+Pass from Altofts Jn to Fast line	Approach Control	1
+""		
+Connectional Allowance	4	
+""		
+Dwell Time		
+DMU	1	
+802/Class68 mk5/180	11⁄2	
+""		
+Minimum Turnround	5 Platform 3 only for services from Knottingley	

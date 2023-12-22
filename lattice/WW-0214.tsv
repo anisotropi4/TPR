@@ -1,0 +1,43 @@
+""	Lydney				
+""					
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)				
+""	Movement	Reason	Timing Load	Value	
+""	"From the Down Main to the Down Loop andUp Main to the Up Loop"	"Slow turnout speed intothe loop (15 mph)"	All traffic	+{2}	
+""					
+""	Dwell Time				
+""	150 to 231 (Down platform)	1 (maximum)			
+""	150 to 231 (Up platform)	1			
+""					
+""	Level Crossing Restriction				
+""	"To prevent excessive level crossing barrier down-time, passenger trains stopped at Lydney in the Down directiononly, to be advertised earlier by the amount of recovery / pathing allowances shown between Gloucester andLydney."				
+""	Chepstow					
+""						
+""	Dwell Time					
+""	150 to 170	1				
+""						
+""	Turnround allowances					
+""		DMU				
+""	From Cardiff and beyond	8				
+Caldicot	
+""	
+Dwell Time	
+150 to 153	1
+156 to 175	1
+* See the note in route GW700 in section 5.2.1. Headway Values	
+Severn Tunnel Junction				
+""				
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)				
+Movement	Reason	Timing Load		Value
+"From Down Main to Down Relief prior toSevern Tunnel Junction"	"Slow speed turnout withapproach control"	"Passenger andECSFreight"		"{11⁄2} #{2} #"
+"# A quicker crossover of 70mph is available at Severn Tunnel Jn that would not require an adjustment allowance"				
+""				
+Dwell Time				
+For all other entries, refer to GW900				
+"GW730 SHREWSBURY SUTTON BRIDGE JUNCTION TO NEWPORTMAINDEE WEST JUNCTION (NORTH AND WEST LINE)"			
+""			
+English Bridge Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+Trains towards Abbey Foregate Jn	Approach control	All	{1}
+"If a train of over 38SLUs is stopped at Abbey Foregate Jn in the Wellington direction, then a 3 minute margin mustapply from the train departs Abbey Foregate to the next train passing English Bridge Jn. This is to mitigate againstthe length of train fouling the junction."			

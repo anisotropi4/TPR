@@ -1,0 +1,35 @@
+""	Banbury		
+""			
+""	Movement Up	Reason	Value
+""	Up Cherwell Valley to Platform 4	Junction differential and approach control	1
+""	Down Cherwell Valley to platform 1	Speed differential and approach control	1⁄2 *
+""	Down Cherwell Valley to platforms 3 or 4	Junction differential and approach control	1⁄2
+""	Pass platform 1 to Depot Reception	Junction differential and approach control	1⁄2
+""	"All movements to any platform where theplatform is already occupied"	Permissive working allowance	1⁄2
+""	"* If approaching an occupied platform, the adjustment is increased to 11⁄2. The separate permissive workingallowance should not be added."		
+""			
+""	Dwell Time		
+""	All DMU (except Class 22x)	1 increased to 2 if booked traincrew relief	
+""	HST	1	
+""	LH	1	
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Depart Platform 1 or 2 to the Up Cherwell Valley	"Arrive Platform 1 or 2 from the Down CherwellValley"	31⁄2
+""	Depart Platform 3 to the Up Cherwell Valley	"Arrive Platform 3 from the Down CherwellValley"	31⁄2
+""	Depart Platform 1 or 2 to the Up Cherwell Valley	"Arrive Platform 3 from the Down CherwellValley"	4
+""	Depart Platform 4 to the Up Cherwell Valley	"Arrive Platform 4 from the Down CherwellValley"	4
+""	Depart Platform 1 in the Up direction	"Arrive Platform 1 from the Banbury DepotReception Road"	3
+""	"Depart Platform 1 to the Banbury DepotReception Road"	"Arrive Platform 1 from the Down CherwellValley"	4
+""			
+""	Permissive Working		
+""	Attaching/Detaching and Platform Sharing is authorised as shown below:		
+""	Platform 1	Attaching/Detaching and Platform Sharing in both directions*	
+""	Platform 2	Prohibited except in contingency	
+""	Platform 3	Prohibited except in contingency	
+""	Platform 4	Prohibited except in contingency	
+""	Up Banbury Loop	"Permitted for freight only (see Planning Restriction – UpBanbury Loop below)"	
+""	"* Platform 1 comprises two axle counter sections, OLGG at the north end and OLGF at the south end.Permissive working requires one of the two axle counter sections to be clear. The useable platform length ofsection OLGG is 133 meters and the useable platform length of section OLGF is 138 meters.A margin of 4 minutes should be planned between the arrival of the first movement and the second movement.Similarly, a 4 minute margin applies between all subsequent movements."		
+""			
+""	Platform Reoccupation		
+""	Down direction	3	
+""	Up direction	2	

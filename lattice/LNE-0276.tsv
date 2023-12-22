@@ -1,0 +1,43 @@
+Huddersfield		
+Depart Platform 1 towards Marsden	Arrive Platform 4 from Penistone	4
+Depart Platform 1 towards Marsden	Depart Platform 4 towards Penistone	21⁄2
+Depart Platform 1 towards Penistone	Depart Platform 4 towards Marsden	21⁄2
+Arrive Platform 2	Depart Platform 1 or 4 towards Penistone	Simultaneous
+Up arrive Platform 4	Down arrive Platform 4	11⁄2
+Up arrive Platform 4	Depart Platform 5 or 6	1
+Down arrive Platform 4	Up arrive Platform 4	2
+Down arrive Platform 4 from Penistone	Up arrive Platform 1	4+
+Down arrive Platform 4 from Penistone	Up depart Platform 1	1
+Down arrive Platform 4 from Penistone	Depart Platform 2	Simultaneous
+Down arrive Platform 4	Arrive Platform 5 or 6	21⁄2
+Down arrive Platform 4	Down depart Platform 4, 5 or 6	1
+Up depart Platform 4	Up arrive Platform 1	21⁄2
+Depart Platform 4 towards Marsden	Depart Platform 1 towards Penistone	21⁄2
+Depart Platform 4 towards Penistone	Depart Platform 1 towards Marsden	21⁄2
+Up depart Platform 4	Up arrive Platform 4	21⁄2
+Up depart Platform 4	Down arrive Platform 4 from Marsden	4+
+Depart Platform 4 towards Marsden	Arrive Platform 4 from Penistone	4
+Down depart Platform 4	Up arrive Platform 4	31⁄2+
+Down depart Platform 4	Down arrive Platform 4	4+
+Down depart Platforms 4	Up arrive Platforms 5 or 6	3
+Arrive Platforms 5/6	Down arrive Platform 4	4*
+Arrive Platforms 5/6	Down depart Platform 4, 5 or 6	1
+Depart Platforms 5/6	Up arrive Platforms 4	31⁄2+
+Depart platforms 5/6	Down arrive Platform 4	41⁄2*
+Depart Platforms 5/6	Arrive Platforms 5/6	3
+Arrive Sidings (Downside)	Down depart Platform 4/5/6	1
+Arrive Sidings (Downside)	Down depart Platform 8	11⁄2
+Arrive Sidings (Downside)	Down pass	31⁄2
+"Shunt Move depart HU1412 signal towardsPlatform 4 5 or 6"	Down pass Platform 8	3
+""		
+Minimum Turnround		
+"From Leeds, Sheffield orManchester"	5	
+"From other locations beyondLeeds, Sheffield or Manchester"	"10 (can be reduced to 5 minutes if an additional five minutes dwell isincluded at Leeds, Sheffield or Manchester)"	
+To or from London	10	
+""		
+"* Can be reduced to 3 minutes if {1⁄2} added approaching Huddersfield for Approach Control+Can be reduced to 3 minutes if {1} added approaching Huddersfield for Approach Control"		
+""		
+Train Watering Points	Platform 4 emergency use only	
+""		
+Platform Restrictions		
+"Platform 6: This platform is not permissive from Up line (signal HU770) but is permissive from HU1412 sub-signalon Down Line. Class 153 units are not able to attach to any other unit in platform 6NoteAll Shunt moves to be fully timed."		

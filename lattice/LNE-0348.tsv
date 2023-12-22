@@ -1,0 +1,19 @@
+LN200 WRAWBY JUNCTION TO PELHAM STREET JUNCTION						
+Timing Section	Type	"LHHSTEPU22X"		"MULL"	Freight	Remarks
+""						
+Down – Weekdays						
+Approach Pelham Street Junction	E	1		1	1	
+Up – Weekdays						
+Approach Wrawby Junction	E	1		1	1	
+LN206 NEWARK FLAT CROSSING (INCLUSIVE) TO WEST HOLMES JUNCTION						
+Timing Section	Type	"LHHST80XEPU22X"		"MULL"	Freight	Remarks
+""						
+Down – Weekdays						
+Approach Boultham Junction	E	1		1	1	
+Up – Weekdays						
+"Approach Newark Crossing EastJunction"	E	1		1	1	
+"LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THECOAST"						
+Timing Section	Type	"LHHSTEPU22X"		"MULL"	Freight	Remarks
+""						
+Up – Sunday						
+Approach Sunderland	E		1		"All Northern and TWM terminatingservices only"	

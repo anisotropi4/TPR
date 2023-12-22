@@ -1,0 +1,27 @@
+"It is not possible to add pathing time in the up direction between Southall and Southall East Jn to trains timed ML,DML or GL as there are no intermediate signals. Pathing time must be added approaching Southall, or in the caseof trains timed GL, with extended dwell time at Southall"		
+""		
+Crossing and conflicting moves		
+First Movement	Second Movement	Margin
+"Passing Southall East Jn crossing to theDown Main, SWL or DBL at Southall from theDown Relief or Hanwell Bridge Goods Loop"	"A conflicting train in the up direction passes orarrives at Southall."	"Standard jnmargin to applyto the secondmovement*"
+"A train on the down relief passes or arrives atSouthall"	"Passing Southall East Jn crossing to the UpRelief or Hanwell Bridge Goods Loop from theUp Main, SWL or DBL at Southall"	"Standard jnmargin to applybased onpassing time orarrival time atSouthall ofsecondmovement*"
+Pass Southall station on the DML	From DRL to SWL or DBL at Southall	2
+Pass Southall station on the UML	From DRL to SWL or DBL at Southall	2
+Pass from DRL to SWL or DBL at Southall	Pass Southall station on DML	31⁄2
+Pass from DRL to SWL or DBL at Southall	Pass Southall station on the UML	31⁄2
+""		
+"For Southall West Jn, the correct Junction Margin to be applied is to be based on the slowest set ofcrossovers which the first train will travel over.*Trains running Up Main or Up the Down Main cannot arrive or pass Southall whilst a conflicting crossingmove is taking place at Southall East JunctionTrains running Up Relief can arrive at Southall whilst a conflicting move is taking place at Southall EastJunction (but cannot depart the station)"		
+Southall	
+""	
+Dwell Time	
+Class 165/6	1⁄2* #
+Class 387/769	1⁄2 *
+* 1 minute for Up services calling 0615 – 0930 and 1630 – 2000 Monday to Friday	
+"# 1 minute in the Down direction all day"	
+""	
+Platform Reoccupation	2 (Up and Down Relief Lines only)
+Southall West Jn		
+""		
+Crossing and conflicting moves		
+First Movement	Second Movement	Margin
+"Passing Southall West Jn crossing to the UpMain, SWL or DBL at Southall from the UpRelief, Up Main or Hayes Goods Loop"	"A train in the Down direction passes or arrivesat Southall."	"Standard jnmargin to applyTo be appliedbefore the nextTIPLOC westof Southall*"
+"A train in the Down direction from SWL or DBLat Southall or Southall Down Brentford Sidingscrossing to the Down Main or Down Relief."	"Conflicting train in the Up direction passes orarrives at Southall"	"Standard jnmargin to applybased +1minute onpassing time orarrival time at"

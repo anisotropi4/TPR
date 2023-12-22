@@ -1,0 +1,43 @@
+STANDARD VALUES – MINIMUM						
+""						
+Loco Change Allowance	12					
+""						
+Locomotive Run Round – GW routes						
+Passenger	10					
+Freight	20					
+""						
+Locomotive Run Round – NW routes						
+Passenger	15					
+Freight	20					
+""						
+"CrossCountry Class 170 Safety Check Unit (SCU) Allowances – Minimum platform standing allowancebetween passenger train arrival and ECS departure to depot"						
+1 x 170	5					
+2 x 170	10					
+"CrossCountry Class 170 Safety Check Unit (SCU) Allowances which includes an attachment – minimumplatform standing allowance between passenger train arrival and ECS departure to depot"						
+"When the second arrival is 1 x170"	9					
+"When the second arrival is 2 x170"	14					
+""						
+"CrossCountry 22x & 170 Train Preparation Allowances – minimum platform standing allowance betweenECS arrival from depot and passenger train departure"						
+170	5					
+1 x 22x	15					
+2 x 22x	20					
+"By exception, allowances for ‘Train Preparation’ (above) may be reduced after discussion and agreement betweenCrossCountry and Network Rail"						
+"CrossCountry 22x Safety Check Unit (SCU) Allowances – minimum platform standing allowance betweenpassenger train arrival and ECS departure to depot"						
+1 x 22x departing in same direction as arrival	8					
+1 x 22x departing in reverse direction to arrival	10					
+2 x 22x departing in same direction as arrival	15					
+2 x 22x departing in reverse direction to arrival	20					
+""						
+Pathing Rule – GW routes						
+"Where pathing time of more than 2 minutes is unavoidably imposed between stopping points due to conflict at ajunction a restart allowance must be inserted in the timing section after the conflict point as shown in the tablebelow.Note:- Pathing time must not be applied approaching ARS controlled junctions where a restart allowance would beincurred as it will be ignored by ARS. This causes the route to be set too early creating delay to any preceding trainplanned ahead on minimum junction margin. Any pathing required should be inserted at the preceding dwell point."						
+""	Restart allowance in minutes					
+Line Speed	< 80 mph	80 mph	90 mph	100 mph	110 mph	125 mph
+Pathing time $						
+< 2	0	0	0	0	0	0
+2	0	0	0	0	0	1
+2 1⁄2	0	0	0	1⁄2	1	2
+3	0	0	1⁄2	1⁄2	11⁄2	2
+3 1⁄2	0	1⁄2	11⁄2	11⁄2	21⁄2	3
+≥4	1⁄2	1	2	2	3	31⁄2
+$ Aggregated pathing time including engineering box time and any other allowances after the last stopping point						
+""						

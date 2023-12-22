@@ -1,0 +1,39 @@
+Dundee
+If a Class 170 is at the buffers in Platform 2 or 3, it is not possible to attach another unit
+Camperdown Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Train Pass from P4 or DTL	Up Train Crossing to P4 or DTL via 446 Points	3
+Down Train Pass from P1 or UTL	Up Train Pass to P1 or UTL	4
+Up Train Pass to P4 or DTL	Down Train Pass from P1 or UTL	5
+Carnoustie		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Terminating trains into Platform 2	Approach control	2
+""		
+Arbroath		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Terminating trains into Platform 2	Approach control	1
+""		
+Dwell Time		
+LH	3	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Depart Arbroath AH26 Shunt signal to ArbroathUp North Siding"	Pass Carnoustie on the Down Line	2
+Up train arrive Arbroath	"Down ECS depart Arbroath to Arbroath UpNorth Siding"	1
+Up train pass Inverkeillor	Arrive Arbroath Up North Siding from Arbroath	1*
+Up train depart Arbroath	"Up ECS depart Arbroath Up North Siding toArbroath"	3
+*This value is not to exceed 1 minute allowing trains on the Up to receive clear aspects from Inverkeilor		
+Usan		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up train pass	Down train pass	3
+Up train pass	Down train depart	11⁄2
+Down train pass Usan	Down train depart Arbroath	2*
+* This margin only applies when inverkeilor Signal Box is closed.		

@@ -1,0 +1,31 @@
+Eastleigh East Junction		
+"Up departure from Eastleigh Platforms 2/3towards Chandlers Ford"	"Down arrival into Eastleigh Platform 2/3 fromChandlers Ford"	4
+"Up freight departs Eastleigh Platform 1 towardsShawford"	"Train departs from Eastleigh East Junction(standing at Signal E32) towards Eastleigh"	21⁄2*
+* Increase to 3 minutes if first train is longer than 97 SLU/620m.		
+""		
+Train Length Restrictions		
+Maximum standage behind Signal E32 clear of 427 points	774m / 121 SLU	
+Eastleigh East Yard	
+Acceptance and Dispatch of Trains	
+"Minimum interval between Uparrivals from Eastleigh StationLondon End"	10*
+"Minimum interval between Downarrivals from Allbrook"	10*
+"Minimum interval between Downdepartures towards Eastleighstation"	20*
+"Minimum interval between Updepartures towardsAllbrook exit"	10*
+"Minimum interval betweenacceptance and despatch"	10*
+* Margins may be reduced on a train by train basis with agreement from GB Railfreight.	
+""	
+Planning Restriction	
+"Any TOC/FOC/Charter Company that wish to use Eastleigh East Yard or Eastleigh Marshalling Yard, whetherstabling or for operational purposes, must gain permission and agreement with the Lease Holder (currently GBRailfreight). Eastleigh East Yard and Marshalling Yard are not Network. GB Railfreight currently manage the Yardon behalf and under contract with Network Rail Route Services."	
+Eastleigh				
+""				
+Adjustment to Sectional Running Times				
+Movement	Reason	Value		
+"Up passenger trains from Southampton AirportParkway to Platforms 2 and 3"	Approach Control	{1⁄2}		
+"Up freight approaching Eastleigh via Up FastLine and passing through platforms. (Notapplicable where freight stop in the platform asthe adjustment is incorporated into the SRT)."	Speed Differential	{11⁄2}		
+"Up train passing Platforms 1, 2 or 3 towardsShawford via Up Fast not crossing at Allbrook"	Speed Differential	"{11⁄2}*{11⁄2}"		
+"Down services crossing over to stop or entering the loop to stop, and up services entering Platform 1 do notrequire the standard {1⁄2} as it is already included in the SRT’s."				
+* Applies approaching next timing point.				
+""				
+"The following additional allowances should be utilised between Eastleigh and St Denys for Down Freighttrains passing through Platforms 2 and 3 at Eastleigh or passing via DFL from the Romsey Line"				
+Train Class	Trailing Load	Reason	Value	
+Class 6	0 – 800t	Up to TR40	Speed Differential	{11⁄2}

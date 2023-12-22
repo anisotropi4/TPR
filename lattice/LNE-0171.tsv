@@ -1,0 +1,44 @@
+Colton North Junction		
+Up crossing movement pass Colton Junction	Down ML/NNL pass Colton Junction	3
+Down ML/NNL pass Colton Junction	Up crossing movement pass Colton Junction	5
+Holgate Sidings		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Holgate Sidings to Colton Junction	Arrive/pass York/York Yard South LSL	6
+Arrive/pass York/York Yard South LSL	Depart Holgate Sidings to Colton Junction	1
+"Arrive Holgate Sidings from York/York YardSouth"	Arrive/pass York/York Yard South LSL	5
+Arrive/Pass York/York Yard South	"Arrive Holgate Sidings from York/York YardSouth"	3
+Holgate Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass/arrive York Yard South Junction	Arrive York from Leeds lines	4
+Arrive York from Leeds lines	Up pass York Yard South Junction	3
+Arrive York from Leeds lines	Up depart York Yard South Junction	Same time
+Depart York on Leeds lines	Depart/pass York Yard South Junction	4
+Up depart/pass York Yard South Junction	Arrive York from Leeds lines	5
+York		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+Bay Platforms	TPWS	1⁄2
+Approaching Platforms 11x from the south	Approach control	1
+"Up trains departing platform 4 (to be input at nexttiming point)"	Additional distance through York station	1⁄2
+""		
+Connectional Allowance	8	
+""		
+Dwell Time		
+DMU	3	
+LH/80X	3	
+22x	2	
+TPE	2	
+Grand Central	2	
+""		
+Minimum Turnround		
+To/from London King’s Cross	25	
+XC	20 (10 by exception and in agreement with Network Rail)	
+TPE	8	
+DMU/EMU	"10 from Leeds, Sheffield, Newcastle, Middlesbrough, Scarborough, Hull,Harrogate and Manchester Victoria"	
+""	"15 from Blackpool which may be reduced to a minimum of 10 minutes by thenumber of minutes additional station dwell at Leeds of the incoming service"	
+""		

@@ -1,0 +1,32 @@
+""	"NW2021 EARLESTOWN SOUTH JN TO EARLESTOWN WEST JN (LIVERPOOLCURVE)"
+""	
+""	Earlestown
+""	
+""	See entry under route NW1021 Winwick Jn to Golborne Jn (via Earlestown)
+""	NW2023 SPRINGS BRANCH JN TO HUYTON JN (ST HELENS LINES)
+""	
+""	Springs Branch Jn
+""	
+""	See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+""	St. Helens Central	
+""		
+""	Dwell Time	
+""	DMU (All)	1
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	"DMU/EMU – shunting to adifferent platform"	7
+""	NW2027 EDGE HILL BOOTLE BRANCH JN TO LIVERPOOL DOCKS		
+""			
+""	Edge Lane Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	All conflicting moves		4
+""	Strand Road Level Crossing		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train from Liverpool Euro Metal, Bulk HandlingTerminal or Gladstone Dock"	"Train depart Stop Board 1 to any Port ofLiverpool terminal"	10
+""	Train to Seaforth Container Terminal	"Train from Liverpool Euro Metal, Bulk HandlingTerminal or Gladstone Dock departs fromStrand Road Level Crossing"	10
+""	Train to Seaforth Container Terminal	"Train from Seaforth Container Terminal departsfrom Strand Road Level Crossing"	7
+""	"Train to Liverpool Euro Metal, Bulk HandlingTerminal or Gladstone Dock"	"Train from Liverpool Euro Metal, Bulk HandlingTerminal or Gladstone Dock departs StrandRoad Level Crossing"	7

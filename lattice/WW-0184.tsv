@@ -1,0 +1,28 @@
+Heywood Road Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+Down train pass to Westbury	Flashing Yellow Aspects	All	{1⁄2}
+Down train pass to Hawkeridge Jn	Approach control	All	{1}
+"Down pass from Cement Works toWestbury or Hawkeridge Jn"	Accleration	Freight	{1}*
+"Down pass from Cement Works toFairwood Jn (direct)"	Accleration	Freight	{2}*
+"Up train pass from Westbury, HawkeridgeJn or Westbury Signal W213 to Lavington"	Acceleration	"80xDMUFreight 600t orlessFreight 800t to1200tFreight 1400t to1800tFreight 2000t to2400tFreight 2600t to3000tFreight 3200tor above"	"{1⁄2}*{1} *{1⁄2}*{1}*{11⁄2}*{2}* #{21⁄2}* #{3}* #"
+"Up pass to Cement Works fromHawkeridge Jn or Westbury"	Approach control	Freight	{1}
+"Up train Pass to cement works fromFairwood Jn (direct)"	Approach control	Freight	{11⁄2}
+*Applied approaching next timing point			
+"# Reduce by 1 if class 7"			
+""			
+Junction margins			
+First Movement	Second Movement	Margin	
+"Down pass to Westbury, Hawkeridge Jn orFairwood Jn"	"Down pass from Cement Works to Westburyor Hawkeridge Jn"	2	
+Down pass to Fairwood Jn (direct)	"Down pass from Cement Works to FairwoodJn (direct)"	21⁄2	
+Down pass from Cement Works	"Down pass to Westbury, Hawkeridge Jn orFairwood Jn"	51⁄2	
+"Down pass from Lavington to Westbury orHawkeridge Jn"	"Up pass from Fairwood Jn (direct) toLavington"	21⁄2	
+"Down pass from Lavington to Westbury orHawkeridge Jn"	"Up pass from Fairwood Jn (direct) to CementWorks"	2	
+Down pass from Cement Works	Up pass from Fairwood Jn (direct)	5	
+Down pass from Cement Works	Up pass from Westbury or Hawkeridge Jn	61⁄2	
+Down pass from Cement Works	Up pass to Cement Works	4	
+Up pass to Lavington	Down pass from Cement Works	2	
+Up pass from Fairwood Jn (direct) to Lavington	Down pass from Lavington to Westbury	21⁄2*	
+Up pass from Fairwood Jn (direct) to Lavington	Down pass from Lavington to Hawkeridge Jn	2	
+*Can be reduced to 2 if second train has pathing time approaching			

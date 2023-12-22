@@ -1,0 +1,37 @@
+Newark Flat Crossing		
+""		
+Adjustment to Sectional Running Time		
+Movement Down	Reason	Value
+"Down Main pass (having stopped at NewarkNorthgate)"	"Acceleration – to be applied approachingCarlton-on-Trent Loops"	1⁄2 180/80x/91
+""		
+Movement Up	Reason	Value
+"Up Main pass towards Newark Northgate(stopping at Newark Northgate)"	"Deceleration – to be applied approachingNewark Flat Crossing"	1⁄2 180/80x/91
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to/from Newark Castle	Down ECML pass	3
+Pass to/from Newark Castle	"Up ECML pass (not calling at NewarkNorthgate)"	3
+Pass to/from Newark Castle	"Up ECML pass (calling at NewarkNorthgate)"	31⁄2
+Pass ECML	Pass to/from Newark Castle	21⁄2*
+*Margin calculated based on restrictive aspects for second movement		
+Carlton Loops		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Main pass Carlton Loops	Depart Loop	11⁄2
+Up Main pass Carlton Loops	Depart Loop	11⁄2
+Retford High Level		
+""		
+Adjustment to Sectional Running Time		
+Movement	Reason	Value
+"Newark Flat Crossing/Carlton Loop to Retfordto Thrumpton West Jn (not stopping at Retford)"	Not at linespeed passing Retford	"2 approachingRetford"
+"Thrumpton West Jn to Retford to Newark FlatCrossing/Carlton Loop (not stopping at Retford)"	Not at linespeed passing Retford	2 after Retford
+Down freight trains to Babworth loop	Slow Speed Crossover	"2 approachingRetford"
+Up Passenger to Platform 2	Differential junction speed	"11⁄2 approachingRetford"
+""		
+Connectional Allowance	10	
+""		
+Dwell Time		
+LH/802	11⁄2	
+LNER all services	2 – May be reduced to 11⁄2 with prior agreement from the operator	
+""		

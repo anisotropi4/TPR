@@ -1,0 +1,26 @@
+""	NW2029 OLIVE MOUNT JN TO EDGE LANE JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Olive Mount Jn	–	–		To/from Roby – NW2015
+""	Edge Lane Jn	–	–		To/from Bootle Jn – NW2027
+""	NW3001 CREWE NORTH JN TO HOLYHEAD					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	Crewe North Jn				"To/from Crewe – NW1001To Salop Goods Jn SB – NW1015"	
+""	"Crewe Heritage Centre GroundFrame"	–	–	S	Trains to/from Crewe Heritage Centre only	
+""	Crewe Signal CE142		– IL		"To Salop Goods Jn SB – NW1015Timing point for train shunting betweenplatforms at Crewe"	
+""	Crewe Steel Works SB	–	–			
+""	Beeston Castle & Tarporley SB	–	–			
+""	Chester Signal CR527	–		S	For shunt moves only	
+""	Chester East Jn				"To/from Mickle Trafford – NW3003To/from Chester Middle Yard"	
+""	Chester	"DML UFLUSL"	–		"Platform detail must be shownFor Down trains only, the following applies:All movements from Platforms 2, 3 or DUMto Chester South Jn must show runningline DML or UFL.  All movements fromPlatform 4 to Chester South Jn must showrunning line UFL. All movements fromPlatform 7 or DTL, DUG to Chester SouthJn must show running line USL"	
+""	Chester Signal CR97	–		S	For reversals on the Down and Up Goods	
+""	Chester Middle Yard		–	S	"Middle Yard comprises Reception andsidings 2, 3 and 4. Siding detail must beshown"	
+""	Chester Signal CR106		–	S	"For shunt movements exiting ChesterDMU depot"	
+""	Chester DMU Depot		–	S		
+""	Chester West Jn				"To/from Chester North Jn – NW3011To/from Chester Middle Yard"	
+""	Chester South Jn	– SL	UFL USL		"For Up trains only, the following applies:All movements from Chester South Jn toChester Platforms 2, 3, 4 or DUM mustshow running line UFL. All movementsfrom Chester South Jn to Chester Platform7 or DTL, DUG or Chester Middle Yardmust show running line USLTo/from Chester North Jn via Up & DownFork – NW3009"	
+""	Roodee Jn	–	– SL	X	To/from Down Slow/Up Slow	
+""	Saltney Jn	–	–		To/from Wrexham North Jn – NW3005	
+""	Shotton (Low Level)	– UH	– DH		"UH and DH for wrong direction movementsonly"	
+""	NW&C/Wales Route Boundary				"To/from Flint – Western & WalesTimetable Planning Rules - NW3001"	

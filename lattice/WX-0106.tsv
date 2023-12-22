@@ -1,0 +1,31 @@
+""	Church Lane Junction		
+""	"Up freight direct from Maritime FLT to UpFast/Up Slow"	"Up train passes Church Lane Junction fromRedbridge"	7*#
+""	"Down freight from Down Fast to RedbridgeGoods/Maritime FLT"	Train from Down Fast towards Redbridge	4#
+""	"Down freight from Down Slow to RedbridgeGoods"	Down train towards Redbridge	41⁄2 ^
+""	Down freight from Down Slow to Maritime FLT	Down train towards Redbridge	61⁄2#
+""	"Freight crossing to/from Millbrook FLT atRedbridge end"	Up train to Up Fast/Slow	7
+""	Up train passes from Redbridge via Up Main	Down departure from Millbrook FLT	1
+""	"* Margin can be reduced by 1-minute if trains are taking different routes from Church Lane towards Southampton.$ If the first train calls at Millbrook, then a following train can depart Maritime East Junction Signal E756/E758towards the Up Slow 2 minutes following the departure of the preceding train from Millbrook.£ Margin can be reduced by 1⁄2 minute if the second train has stopped at Southampton Central.^ Increase margin by 1⁄2 minute if first train longer than 97 SLU / 620m.# Increase margin by 1 minute if first train longer than 97 SLU / 620m."		
+""	Maritime East Junction			
+""	Adjustment to Sectional Running Times			
+""	Movement	Reason	Value	
+""	Up trains from Maritime FLT	Slow speed from terminal exit	{2}*	
+""	*Approaching next timing point			
+""				
+""	Junction Margins			
+""	First Movement		Second Movement	Margin
+""	Up departure from Maritime FLT		"Up train pass from Maritime West Junction viaRedbridge Goods"	10*#
+""	Up departure from Maritime FLT		Down train from Millbrook/Church Lane Junction	10*#
+""	"Up train pass from Maritime West Junction viaRedbridge Goods"		"Up departure from Maritime FLT via a differentroute from Maritime East Junction"	4
+""	Down train to Maritime FLT		"Up train pass from Maritime West Junction viaRedbridge Goods"	9*#
+""	Down train to Maritime FLT		"Down train to Maritime West Junction viaRedbridge Goods"	9#
+""	"Down train to Maritime West Junction viaRedbridge Goods"		Down train to Maritime FLT	6
+""	"* Margin can be reduced by 1 minute if first train is 550m/86 SLU or less. Can be reduced by 3 minutes if the firstmovement is a light locomotive.# Increase margin by 1 minute if first train longer than 97 SLU / 620m."			
+""				
+""	Simultaneous moves not permitted			
+""	"Down train approaching E757 signal on RedbridgeGoods from Church Lane Junction"	Train crossing to/from Maritime Back Road		
+""	"Up train approaching E758 signal on RedbridgeGoods from Maritime West Junction"	Train crossing to/from Maritime FLT		
+""				
+""	Planning Notes			
+""	"A train in excess of 94 SLU stood at E755 signal on the Maritime Back Road will foul the Up Docks Branch atMillbrook. Therefore, junction margins at Millbrook should be based on the departure time from Maritime EastJunction if this is the case."			
+""	"A train in excess of 68 SLU stood at E757 signal on the Redbridge Goods will foul the Down Fast at Church LaneJunction (545A points). Therefore, junction margins at Church Lane Junction should be based on the departuretime from Maritime East Junction if this is the case."			

@@ -1,0 +1,32 @@
+""	Arcow Quarry
+""	
+""	Planning Restriction
+""	"In the Down direction, Arcow Quarry Ground Frame (GF) does not split up the section Settle Jn to Horton-in-Ribblesdale; therefore:When a train for Arcow Quarry arrives at Arcow Quarry GF, the minimum interval to be allowed before the nextDown train passes Settle Jn is 12 minutes. This is to allow sufficient time for the train at the GF to clear themainline and for the GF to be given back to the signaller at Settle Jn.Once a train has departed/passed Horton-in-Ribblesdale, the next train can depart/pass Arcow Quarry GF 2minutes later."
+""	
+""	Operating Restriction
+""	Movements to and from Arcow Quarry are only permitted between 0730 and 1730 Monday-Friday.
+""	Horton-in-Ribblesdale	
+""		
+""	Dwell Time	
+""	LH/HST	2
+""	All other	1 Sundays Only
+""	Ribblehead		
+""			
+""	Dwell Time		
+""	LH/HST	2	
+""	All other	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass from Carlisle	Arrive/Pass Ribblehead to Blea Moor	4
+""	Ribblehead Quarry
+""	
+""	Planning Restriction
+""	"A train entering or leaving the quarry occupies the block section between Ribblehead and Blea Moor. A minimumof two minutes should be allowed after an arrival of a train at the quarry before the next train can pass eitherRibblehead or Blea Moor."
+""	Blea Moor		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass to Carlisle	Freight/LH train pass from Carlisle	6
+""	Pass to Carlisle	DMU (Cl.15x, 185) pass from Carlisle	5
+""	Pass to Carlisle	Depart UGL	2

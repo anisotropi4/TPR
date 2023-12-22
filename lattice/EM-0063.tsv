@@ -1,0 +1,50 @@
+Bedford		
+""		
+Connectional Allowance	7	
+""		
+Adjustment to Sectional Running Times		
+Movement Down	Reason	Value
+Down Slow to Platform 2 via USL	"Approach control at Signal WH467 and 20mphcrossover"	1
+""		
+Dwell Time		
+DMU/EMU	1	
+180/222	11⁄2*  *2 minutes in the Up morning and Down evening peak	
+360	1	
+700	3 when terminating and then running ECS in same direction	
+""		
+Minimum Turnround		
+"From Carriage sidings, CauldwellDepot or Jowett Sidings"	Standard Values Apply	
+From South of Blackfriars	10	
+""		
+"Run–Round AllowanceUsing Platforms 1 and 2: 20 minutes.Using Main Line junctions: 40 minutes and Main Line must be graphedNOTE: No run–round movements are permitted between 0530 and 2300 Monday to Saturday, 0730 – 2300 Sun.All movements (including light engines) are to be timed and validated."		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting same direction moves (unless otherwise stated)	3	
+Platform 1 southbound to Up/Down Slow	Arrive from North Siding	2
+Platform 1 to North Siding	Arrive Platform 1 from south	3
+Arrive Platform 1 from north	Depart Platform 2 southbound to Up Slow	2
+Arrive Platform 1 from north	Arrive Platform 2 from south Up Slow/CS	3
+Depart Platform 2 southbound to Up Slow/CS	Arrive Platform 1 from north	3
+Arrive Platform 2 from south Up Slow/CS	Arrive Platform 1 from north	3
+South end margins		
+Platform 1/2 to Up Slow	Down Slow to Platform 1	3 (a)
+Platform 2 to Up Slow	Down Slow to Platform 2	3 (a)
+Platform 1 to Down Slow	Up Slow to Platform 1/2	3 (a)
+Platform 2 to Down Slow	Up Slow to Platform 2	3 (a)
+Platform 1 to Up/Down Slow	Arrive from CS into Platform 1/2	4
+Platform 2 to Down Slow	Arrive from CS into Platform 2	4
+Platform 2 to Up Slow	Arrive from CS into Platform 2	4
+Platform 1 to CS	Down/Up Slow to Platform 1	4
+Platform 2 to CS	Down/Up Slow to Platform 2	4
+Platform 2 to CS	Up Slow to Platform 1	4
+Platform 1 to Up/Down Slow	Arrive from Jowett Sidings into Platform 1/2	3
+Platform 2 to Down Slow	Arrive from Jowett Sidings into Platform 2	3
+Platform 2 to Up Slow	Arrive from Jowett Sidings into Platform 2	3
+Platform 1 to Jowett Sidings	Down/Up Slow to Platform 1	3
+Platform 2 to Jowett Sidings	Down/Up Slow to Platform 2	3
+Platform 2 to Jowett Sidings	Down/Up Slow to Platform 1	3
+North end margin		
+Platform 1 to North Siding	Arrive Platform1 from north	5
+""		
+Parallel Moves		

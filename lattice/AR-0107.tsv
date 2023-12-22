@@ -1,0 +1,40 @@
+EA1120 MANNINGTREE TO HARWICH TOWN		
+""		
+Manningtree North Junction		
+""		
+Standage Length		
+Manningtree North Junction	"North Curve Clear of Manningtree EastJunction"	"32 SLUs205m"
+Manningtree East Junction		
+""		
+Standage Length		
+Manningtree East Junction	"North Curve Clear of Manningtree NorthJunction"	"32 SLUs205m"
+""		
+"Note: Trains towards Manningtree North Junction, and in excess of the standage on the North Curve (32 SLUs),are to be held at this location if required."		
+"Note: For ARS regulating purposes an Arr and Dep time are to be shown and NOT pathing ( ) time, with an A inthe Location Activity field"		
+Parkeston Goods Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up train pass from Parkeston CS orHarwich International Platform 1"	Down train pass Parkeston Goods Jn	3
+""		
+Up Tip Sidings				
+""				
+Siding		Length (m)	Length (SLUs)	Comment
+1		462	72	
+2		388	60	
+3		388	60	
+Parkeston New Yard			
+""			
+Siding	Length (m)	Length (SLUs)	Comment
+1	200	31	
+2	220	34	
+3	250	39	
+4	300	46	
+5	340	53	
+6	270	42	
+7	270	42	
+8	325	50	
+9	273	42	
+10	338	52	Can accommodate up to 395m/61SLU by fouling No11 Siding
+11	338	52	Can accommodate up to 395m/61SLU by fouling No10 Siding
+12	485	75	

@@ -1,0 +1,38 @@
+EA1480 WHITLINGHAM JUNCTION TO CROMER		
+""		
+Hoveton & Wroxham		
+""		
+Dwell Time	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train leaves single line section	Train enters single line section	1
+""	North Walsham					
+""						
+""	Dwell Time		1			
+""						
+""	Junction Margins					
+""	First Movement		Second Movement		Margin	
+""	Up passenger train arrives from Cromer		Down passenger train departs towards Cromer		1⁄2	
+""	"Down passenger train arrives from Hoveton &Wroxham"		Up train departs to Hoveton & Wroxham		1	
+""	Freight Train leaves single line section		"Freight train enters single line section for NorthWalsham Yard"		3	
+""	Freight Train leaves single line section		Passenger train enters the single line section		3	
+Cromer		
+""		
+Minimum Turnround	DMU / BMU	4
+""		
+Single Line Reoccupation	DMU / BMU	1
+""	Charter train requiring pilot working	5
+EA1490 CROMER TO SHERINGHAM	
+""	
+Sheringham	
+""	
+"Moves on or off the North Norfolk Railway cannot take place without prior agreement from theLocal Operations Manager (Trowse)"	
+"Allowance for pilot working to be withdrawn after a charter train has departed to Sheringham NNRailway (SHRGNNR). The allowance should be shown as additional dwell at Sheringham"	5
+"Allowance for pilot working to be introduced before a charter train can depart from SheringhamNN Railway (SHRGNNR) towards Sheringham. The allowance should be shown as additionaldwell at Sheringham"	5
+EA1500 BRUNDALL JUNCTION TO YARMOUTH		
+""		
+Acle		
+""		
+Dwell Time		1
+""		

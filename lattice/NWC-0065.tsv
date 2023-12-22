@@ -1,0 +1,35 @@
+""	MD701 MARYLEBONE TO AYNHO JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	West Ruislip	–	– DM		"Platform detail must be shownDM line code applies to trains from theDown platform towards South Ruislip"
+""	West Ruislip LUL Depot		–	S	
+""	West Ruislip Signal ME594		–		Down Main to Up Main Platform shunt
+""	"West Ruislip HS2 TerminalEntry/Exit Stop Boards"	–	–	S	"Timing point for trains to/from West RuislipHS2 terminal only"
+""	West Ruislip HS2 Terminal		–	F	
+""	Denham	–	–	S	
+""	Denham Golf Club	–	–	S	
+""	Gerrards Cross	–	–		Platform detail must be shown
+""	Gerrards Cross Turnback siding	–		S	
+""	Seer Green & Jordans	–	–	S	
+""	Beaconsfield	–	–	S	Platform detail must be shown
+""	High Wycombe Signal ME641	–			Use for shunt to Up Main platform
+""	High Wycombe	–	–		Platform detail must be shown
+""	Saunderton	–	–		Platform detail must be shown
+""	Princes Risborough	–	–		"Platform detail must be shownTo/from Little Kimble – MD720"
+""	Princes Risborough ACE	–	–		
+""	Princes Risborough ME666		–		
+""	"Haddenham and ThameParkway"	– UML	– DML		
+""	Bicester South Jn	– UBC	– DML		To/from Bicester Gavray Jn – MD745
+""	Bicester A.C.E. Siding	–			Accessed to/from Bicester North
+""	Bicester North	–	– DML		Platform detail must be shown
+""	Bicester North Turnback Siding	–	–	S	
+""	Bicester Signal ME2034		–		
+""	Aynho Jn Signal BS501	–			Down signal on Up Bicester
+""	Aynho Jn		–		To/from Banbury – MD401
+""	MD705 GREENFORD WEST JN TO SOUTH RUISLIP				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Route Boundary: Western/NW&C				"Boundary at 8m60chTo/from Greenford West Jn – GW110Refer to Western and Wales TimetablePlanning Rules"
+""	South Ruislip Signal ME67	–		S	
+""	Northolt Sidings	–		S	
+""	South Ruislip	–	–		"To/from West Ruislip – MD701To/from Northolt Park Jn – MD701"

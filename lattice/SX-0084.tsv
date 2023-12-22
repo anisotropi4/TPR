@@ -1,0 +1,28 @@
+Clapham Junction			
+""			
+First Movement	Second Movement		Margin
+"Depart platform 17 towards LatchmereJunction"	"Depart Latchmere Junction towards Clapham Junctionplatform 17 *"		1
+""			
+"* Any pathing time must be inserted approaching Latchmere Junction and NOT Clapham Junction as a traincannot stand at signal TVC593."			
+""			
+Overlap Restrictions			
+First Movement	Second Movement		Margin
+"Train departing Platform 17 towardsLatchmere Junction"	Arrival at Platform 16 from the Up Brighton Slow (UBS)		3
+Wandsworth Common		
+""		
+Planning Note		
+""	Notes	
+Fast line platforms	"Trains formed of a 12 car Class 700 EMU must not be planned touse these platforms, due to operational restrictions"	
+Balham		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"All non-stop movements crossing from DownFast to Down Slow approaching Balham"	Approach Control/Slow Crossover	{1⁄2}
+"All non-stop movements crossing from Up Slowto Up Fast at Balham Junction"	Approach Control/Slow Crossover	{1⁄2}
+""		
+Dwell Time		
+All GTR services	"1 – may be reduced to 1⁄2 minute outside SX peak hours by exception onlywith the agreement of Train Operator"	
+""		
+Connectional Allowances		
+All Services	4	
+""		

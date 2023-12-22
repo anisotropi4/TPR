@@ -1,0 +1,42 @@
+"LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THECOAST"				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Seaham	–	–		
+""				
+Ryhope Grange Sidings	–		S	
+Ryhope Grange Junction	–	–		To/from Hendon – LN662
+Sunderland South Junction				To/from South Hylton – LN628
+Sunderland	–	– DSH		"Platform detail must be shownDSH for trains terminating at Park Lane"
+St Peter’s	–	–	S	
+Stadium of Light	–	–	S	
+Seaburn	–	–	S	
+East Boldon	–	–	S	
+East Boldon Up Loop		–	S	
+Boldon East Junction	–	–	X	To/from Boldon North Jn – LN666
+Brockley Whins	–	–	P	
+Boldon West Junction	–	–	F	To/from Boldon North Jn – LN666
+Fellgate	–	–	S	
+Pelaw Metro Jn	–	–	X	"Tyne & Wear Metro Trains onlyTo/from Pelaw South Junction – LN629To/from Pelaw North Junction – LN630"
+Pelaw Junction	–	–		"To/from Jarrow – LN670To/from Wardley – LN672"
+Pelaw Goods Loop	–	–	S	
+Heworth	–	–	S	
+Tyneside CFD	–	–	S	Presently out of use
+Park Lane Jn	–	–		To/from Greensfield Jn – LN676
+High Level Bridge Junction	–	–		To/from Greensfield Junction – LN674
+High Level Bridge Central Jn	–	–		
+Newcastle East Junction				To/from Newcastle – LN600
+LN628 SOUTH HYLTON TO SUNDERLAND SOUTH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+South Hylton	–			
+Pallion	–	–	S	
+Millfield	–	–	S	
+University (Sunderland)	–	–	S	
+Sunderland Park Lane	–	–	S	
+Siding 2	–		S	"For train planning purposes, this location isknown as Sunderland Burdon Dock Sdg"
+Sunderland South Junction				To/from Sunderland – LN627
+LN629 PELAW METRO JUNCTION TO PELAW SOUTH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Pelaw Metro Junction	–		X	"Down direction onlyFrom Sunderland – LN627"
+Pelaw South Junction				To Tyne & Wear Metro

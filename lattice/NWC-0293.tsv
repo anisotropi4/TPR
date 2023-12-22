@@ -1,0 +1,33 @@
+""	Earlestown		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Passenger trains joining Up Earlestown fromDown & Up Liverpool Curve (Platform 3)."	Slow speed crossover	"1⁄2* afterEarlestown"
+""	* This adjustment becomes 1 for passenger trains formed of 6 cars or more and all freight trains.		
+""	"Passenger trains joining Down Chat Moss fromDown & Up Liverpool Curve (Platform 3). Startto Pass and Pass to Pass only."	Slow speed junction	"1 afterEarlestown"
+""	"Passenger trains joining Down Chat Moss fromDown & Up Liverpool Curve (Platform 3). Passto Stop and Start to Stop only."	Slow speed junction	"1⁄2 afterEarlestown"
+""	"Freight trains joining Down Chat Moss fromDown & Up Liverpool Curve (Platform 3)."	Slow speed junction	"11⁄2 afterEarlestown"
+""	"Passenger trains joining Down & Up LiverpoolCurve (Platform 3) from Up Chat Moss. Pass toPass and Pass to Stop only."	Approach control and slow speed crossover	"2 onapproach toEarlestown"
+""	"Passenger trains joining Down & Up LiverpoolCurve (Platform 3) from Up Chat Moss. Start toPass and Start to Stop only."	Approach control and slow speed crossover	"1# onapproach toEarlestown"
+""	"Freight trains joining Down & Up LiverpoolCurve (Platform 3) from Up Chat Moss."	Approach control and slow speed crossover	"11⁄2 onapproach toEarlestown"
+""	"# This adjustment becomes 11⁄2 for trains formed of 6 cars or more."		
+""	"Trains from Newton-le-Willows routed toWinwick Jn."	Approach control	"1⁄2 onapproach toEarlestown"
+""	"Trains from Winwick Jn routed to Newton-le-Willows that do not stop at Earlestown."	Acceleration from slow speed junction	"1⁄2 afterEarlestown"
+""			
+""	Connectional Allowance	8	
+""			
+""	Dwell Time		
+""	Platform 4	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive Platform 3 from St Helens Junction	Arrive Platform 2 from Newton-le-Willows	21⁄2
+""	Depart Platform 2 towards St Helens Junction	Arrive Platform 3 from St Helens Junction	4
+""	Arrive Platform 4 from Winwick Jn	Depart Platform 3 towards Winwick Jn	2
+""	Arrive Platform 4 from Winwick Jn	"Arrive or Pass Platform 2 having stopped atNewton-le-Willows"	31⁄2
+""	"Arrive Platform 4 from Winwick Jn for a dwell of2 minutes or more"	"Arrive or Pass Platform 2 having passedNewton-le-Willows"	5
+""	Arrive Platform 4 from Winwick Jn	Depart Platform 1 towards Newton-le-Willows	3
+""	"Arrive Platform 4 from Winwick Jn for a dwell of2 minutes or more"	Pass Platform 1 towards Newton-le-Willows	5
+""	Depart Platform 4 towards Newton-le-Willows	"Arrive or Pass Platform 2 from Newton-le-Willows"	3
+""	"Arrive or Pass platform 2 towards St. HelensJunction"	"Arrive or Pass platform 4 towards Newton-le-Willows"	21⁄2
+""	"Depart or Pass platform 1 towards Newton-le-Willows"	"Arrive or Pass platform 4 towards Newton-le-Willows"	21⁄2

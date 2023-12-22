@@ -1,0 +1,27 @@
+Newcastle								
+"Arr Plat 1fromNewcastle"	5				4			
+"Arr Plat 1fromBishopAuckland"			1	1		4		
+"Arr Plat4A fromBishopAuckland"		"4 – viabypass"		1			4	
+"Dep Plat 1for BishopAuckland"			3 (Plat 4)			5	5*	
+"*These margins can be reduced by 1 if the second train has at least 1 minute pathing allowance approachingDarlington"								
+First Movement	Second Movement	Margin						
+Arrive Up Loop	Pass Up Main	6						
+Pass Up Main	Depart Up Loop	2						
+Depart to Eaglescliffe	Depart Up Loop	3						
+Depart to York	Depart Up Loop	3						
+""								
+Minimum Turnround								
+DMU	"5 trains from Bishop Auckland/Saltburn.There must not be two consecutive 5 minute turnrounds and sum of anytwo consecutive turnrounds must equal 15 minutes. These values may bereduced if sufficient pathing time is included approaching Darlington"							
+""	10 trains from York							
+""	15 trains from Leeds or beyond							
+LH	35 trains to/from Bristol/Reading and north thereof							
+""	45 trains to/from south of Bristol, and South Wales and beyond Reading							
+""								
+Train Watering Points	Platforms 2 and 3							
+Darlington Up Sidings	
+""	
+Siding Lengths (west to east)	
+750m (excluding headshunt 46m)	117 SLU / 2460 ft (headshunt 7 SLU / 150 ft)
+750m (run round)	117 SLU / 2460 ft
+574m (run round)	89 SLU / 1883 ft
+Note: 750m represents the maximum trailing length that can use the run round facility.	

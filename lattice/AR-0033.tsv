@@ -1,0 +1,36 @@
+EA1160 BETHNAL GREEN EAST JUNCTION TO BISHOP’S STORTFORD				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Harlow Town	-	-		Platform detail must be shown
+"Harlow Mill Down GoodsLoop"	-	-	S	
+Harlow Mill Yard	-	-	F	"Tiploc - HRLWMLY for DB CargoTiploc - HRLWFHH for FreightlinerTiploc - HRLWAIG for GBRF"
+Harlow Mill	-	-	S	
+Sawbridgeworth	-	-	S	
+Bishop’s Stortford Reception	-	-	F	
+"Bishop’s Stortford UpPassenger Loop"	-	-	S	
+Bishop’s Stortford C.S.	-	-	S	
+Bishop’s Stortford	-	-		"Platform detail must be shownTo/from Stansted Mountfitchet – EA1161"
+EA1161 BISHOP’S STORTFORD TO ELY NORTH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Bishop’s Stortford	-	-		"Platform detail must be shownTo/from Harlow Town – EA1160"
+Stansted Mountfitchet	-	-		
+"Stansted Mountfitchet DownGoods Loop"	-	-	S	
+Stansted South Junction				To/from Stansted Airport – EA1220
+Stansted North Junction	-	-		To/from Stansted Airport – EA1220
+Elsenham	-	-	S	
+Newport	-	-	S	
+Audley End	-	-		"Down trains booked via Up platform must showUp platform (UPL)"
+Great Chesterford Loop		-	S	
+Great Chesterford	-	-	S	
+Whittlesford Parkway	-	-	S	
+"Whittlesford Down GoodsLoop"	-		F	
+Whittlesford Signal CA540		-	S	
+Whittlesford Reception	-		S	
+Shelford	-	-	S	
+Shepreth Branch Junction	"DM  DSDMTDST"	-		"To/from Royston – EA1230DMT & DST for trains to the Through Line orplatform 4 via the Through Line only. SeeAppendix B for example diagrams."
+Cambridge Signal CA147	DS  DST		S	
+Cambridge Signal CA149	DM  DMT		S	
+Cambridge Signal CA647	UM  UMT		S	Timing point for shunt movements only
+Cambridge	"DM  TLDMGTLG  PL"	"UM  UX1UM1UX  DMDS"		"Platform detail must be shownTL & TLG for trains from the Through Line orplatform 1 via the Through Line only. SeeAppendix B for example diagrams.PL for trains to Cambridge Carriage SidingsNorth only"
+Cambridge Signal CA164		UMT	S	

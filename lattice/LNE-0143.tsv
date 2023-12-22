@@ -1,0 +1,34 @@
+""	Grantham								
+""	"Stoke Jn to Nottingham Branch Jn toAllington triangle; pass to pass"	"Approach control and differential junctionspeed at Grantham South Jn"	2 Freight						
+""	Up Fast only to Up Slow (to Highdyke Jn)	"Approach control and differential junctionspeed"	2 Freight						
+""	P4/Up & Down Slow to Up Fast	"Differential junction speed at Grantham SouthJn"	"2 HST/180/225/80X"						
+""	"Allington triangle to Nottingham Branch Jn toStoke Jn; pass to pass"	"Differential junction speed at Grantham SouthJn"	2 Freight						
+""									
+""	Connectional Allowance	7							
+""									
+""	Dwell Time								
+""	DMU	2*.  * 4 for reversing trains							
+""	LH/180/802	11⁄2							
+""	LNER all services	2 – May be reduced to 11⁄2 with prior agreement from the operator							
+""									
+""	Minimum Turnround	7 – DMU/EMU							
+""									
+""	Junction Margins								
+""	In the following tables, ‘P’ denotes a parallel move.								
+""	First Movement	Second Movement	Margin						
+""	Arrive Platform 4 from Stoke Junction	"Depart Platform 3 to Nottingham BranchJunction"	2						
+""	Arrive Platform 4 from Stoke Junction	"Arrive Platform 3 from Nottingham BranchJunction"	4						
+""	"Arrive Platform 3 from Nottingham BranchJunction"	Arrive Platform 4 from Stoke Junction	4						
+""	Arrive Platform 2 from Stoke Junction	Depart Up/Down Goods to Up Fast/Slow	Same time						
+""	North End movements								
+""	"2nd move →1st move ↓"	"Arr Pl 3/4* fromClaypole"	"Arr Pl 3/4 *from Nott’m"	"Dep Pl 3/4* toClaypole"	"Dep Pl 3/4* to Nott’m"	"PassDownMain"	"DepDownMain"	"Pass UpMain"	"Arr UpMain"
+""	"Arr Pl 3/4*from Claypole"	–	4	2	2	3	1	3	4
+""	"Arr Pl 3/4*from Nott’m"	4	–	2	2	P	P	P	P
+""	"Dep Pl 3/4* toClaypole"	8	7	–	4	7	6	P	P
+""	"Dep Pl 3/4* toNott’m"	7	7	4	–	P	P	P	P
+""	"Pass DownMain"	6	P	2	P	–	–	P	P
+""	"Dep DownMain"	7	P	3	P	–	–	P	P
+""	Pass Up Main	7	P	P	P	P	P	–	–
+""	Arr Up Main	6	P	P	P	P	P	–	–
+""	*Platform 3/4 margins also apply to movements to/from GL								
+""	South End movements								

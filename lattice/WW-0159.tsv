@@ -1,0 +1,38 @@
+""	St. Erth	
+""	"Down services cannot depart until tail lamp clear given by Penzance.  Under STP trains can move to St. Erthadvanced starter in order to clear the platform."	
+Penzance					
+""					
+Turnround allowances					
+""	L/H	"220&221"	"DMU/GWR ShortForm HST(HSTGW4)"	"Class 80X (5car)"	Class 80X (9/10 Car)
+"From Paddington andWaterloo/Swindon/Bristol"	45	25	20*	25	25
+"From North of Bristol (includingSouth Wales)"	50	30	20*	20* – Class 2	
+From Plymouth and West thereof	30		10		
+From St.Ives			5$		
+From Bristol TM				"25 – Class 120* – Class 2"	25
+From Plymouth				"15 – Class 110 – Class 2"	20
+$ : 3 minutes, if not sequential. (DMU only)					
+*Can be reduced to 10 by agreement with the operator					
+GW174 WEST EALING TO GREENFORD WEST JUNCTION		
+""		
+Drayton Green		
+Platform End Margin		
+First Movement	Second Movement	Margin
+"Passenger train from West Ealing to DraytonGreen"	"Train (passenger or freight) from DraytonGreen"	1 minutes
+"Freight train from West Ealing to DraytonGreen"	"Train (passenger or freight) from DraytonGreen"	2 minutes
+GW180  HEATHROW AIRPORT JUNCTION TO HEATHROW TERMINALS 4 & 5				
+""				
+Not Network Rail property from 12m 30c (tunnel portal), but controlled by Thames Valley Signalling Centre (TVSC)				
+""				
+Heathrow Tunnel Junction				
+""				
+Adjustment to sectional running times (shown approaching this location)				
+Movement		Reason	Timing Load	Value
+"Down trains crossing from DownAirport to the Up Airport"		"Slow speed crossover(8214pts)"	All	{1}
+"Down trains crossing from DownAirport Relief to the Up Airport"		"Slow speed crossover(8214pts)"	All	{1}
+"Up trains crossing from the UpAirport to the Down Airport Relief"		"Slow speed crossover(8214pts)"	All	{1}
+"Up trains crossing from the UpAirport to the Down Airport"		"Slow speed crossover(8214pts)"	All	{1}
+""				
+Junction Margin		2		
+""				
+Heathrow Terminals 2 and 3				
+""				

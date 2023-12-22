@@ -1,0 +1,31 @@
+""	Newton-le-Willows	
+""		
+""	Dwell Time	
+""	All	1*
+""	* Only applies to stopping trains to/from Liverpool	
+""	Golborne Jn
+""	
+""	Refer to route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+""	NW2001 WEAVER JN TO LIVERPOOL LIME STREET		
+""	Halton Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"All trains towards Frodsham Jn that have notstopped at Runcorn"	"Differential Junction Speed/Flashing YellowAspects"	1⁄2
+""	Runcorn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All trains from Frodsham Jn that are notstopping at Runcorn"	Differential Junction Speed	"1⁄21 applies toall trainstimed at75mph andabove"
+""	Down trains to Folly Lane	Approach control	"2ApproachingRuncorn"
+""			
+""	Dwell Time		
+""	LH/HST	1	
+""	Class 350	1	
+""	Class 390/80x	11⁄2	
+""	Ditton East Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All timing loads at 100mph or above crossingfrom Down Ditton to Down Ditton Slow"	Approach control and slow speed junction	"1approachingDitton East Jn"
+""	"Classes 150/158/170 crossing from DownDitton to Down Ditton Slow"	Approach control and slow speed junction	"1⁄2approachingDitton EastJn."

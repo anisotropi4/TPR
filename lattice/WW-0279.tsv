@@ -1,0 +1,34 @@
+""	GW572 FROME NORTH TO WHATLEY QUARRY				
+""	LOCATION	DIRECTION	"USABLELENGTH"	NOTES	
+""			SLU	Metres	
+""	Frome North Jn (Down Frome)	Down	158	1016	"Signal W312 to block joint clear of 906ptsat Clink Road Jn"
+""	Frome North Jn (Up Frome)	Down	158	1014	"Signal W212 to signal block joint clear of906pts at Clink Road Jn"
+""	Frome North Jn (Up Frome)	Up	158	1016	"Signal W199 to block joint clear of 911ptsat Frome North Jn"
+""	Frome North Jn (Up Goods Loop)	Up	59	381	"Signal W297 to block joint clear of 912Bpts at Frome North JnOnly accessible from Whatley Quarry line"
+GW580 EAST SOMERSET JUNCTION TO CRANMORE				
+TIMING POINT	DIRECTION	"USABLELENGTH"	NOTES	
+""		SLU	Metres	
+"East Somerset Junction (BranchLoop)"	Down	91	588	"Signal W324 to block joint clear of 941Apts"
+"East Somerset Junction (BranchLoop)"	Up	95	610	"Signal W277 to block joint clear of946pts"
+""	GW600 WOOTTON BASSETT JUNCTION TO PILNING					
+""	LOCATION	DIRECTION	"USABLELENGTH"	NOTES		
+""			SLU		Metres	
+""	Wootton Bassett	Up	89		569	
+""	Hullavington	Up	73		467	
+""	Hullavington	Down	87		557	
+""	Chipping Sodbury	Up	88		563	Bi-directional
+""	Chipping Sodbury	Down	82		525	Bi-directional
+""	Bristol Parkway	"Up/Down(P1)"			374	"Bi-directional, can be extended to 570mwhen foul of DGL access"
+""	Bristol Parkway	Up (P4)	63		405	Can be extended if foul of UPL
+""	"Bristol Parkway Up PassengerLoop"	Up	71		457	Can be extended if foul of P4
+""	"Bristol Parkway Up PassengerLoop"	Down	39		252	
+""	"Bristol Parkway Down GoodsLoop"	Down	67		431	"Cannot be extended onto Down PassengerLoop as blocks access to P2 due tointerlocking"
+""	Pilning	Up	209		1338	Permissive standage
+""	Pilning	Down	233		1491	Permissive standage
+""	GW700 GLOUCESTER BARNWOOD JUNCTION TO SEVERN TUNNEL JUNCTION					
+""	LOCATION	DIRECTION	"USABLELENGTH"	NOTES		
+""			SLU		Metres	
+""	Barnwood Up Loop	Up	99		640	
+""	Barnwood Down Loop	Down	79		512	
+""	Lydney	Up	83		531	
+""	Lydney	Down	82		525	

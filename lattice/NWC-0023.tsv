@@ -1,0 +1,38 @@
+"SecondCharacter"	"ThirdandFourthNumber"	Route and/or Destination
+A		"Manchester, Liverpool, Chester/North Wales, Lancaster/Blackpool North toEuston"
+""		To Walsall via Aston
+""		"To Birmingham New Street from Rugeley Trent Valley/Hednesford/Walsallvia Aston"
+""		Marylebone to Aylesbury via High Wycombe
+""	9x	Class 2 trains Liverpool/Manchester to Crewe via Manchester Airport
+""	0x	Class 2 trains Liverpool/Manchester to Wilmslow via Manchester Airport
+""		LUL trains to Elephant & Castle
+B	even	"Class 1 trains Shrewsbury/Wolverhampton/Birmingham to Euston viaWeedon"
+""		CrossCity services to Blake Street
+""		To Bletchley area including Swanbourne to Bedford St. Johns
+""	odd	Class 2 trains to Bletchley
+""	even	Class 2 trains from Bletchley
+""		ECS to Bletchley Carriage Sidings/TMD
+""		Marylebone to Aylesbury via Amersham
+""	even	Liverpool/Manchester Airport to Cleethorpes via Sheffield
+""	odd	Cleethorpes to Manchester Airport/Liverpool via Sheffield
+""		Clitheroe/Blackburn to Manchester Victoria via Darwen
+""	odd	York to Blackpool North via Copy Pit
+""	even	Blackpool North to York via Copy Pit
+""	"even 00-58"	Class 2 trains Manchester to Buxton
+""	"odd 01-59"	Class 2 trains Buxton to Manchester
+""	6x	Class 2 trains Rochdale/Manchester Victoria to Blackburn
+""		Class 2 Merseyrail services from the Wirral to Liverpool
+C		To London area (St. Pancras International to Bedford inclusive)
+""	"To Carlisle area (bounded by Lancaster, Hellifield, Wetheral (exclusive),Gretna Jn, including the Cumbrian Coast"	
+70-79	Class 1 trains Manchester Airport to Windermere	
+50-6x	Class 1 trains Manchester Airport/Preston to Barrow-in-Furness	
+""	Class 1 trans Euston to Lancaster	
+""	Class 2 trains to Euston via DC lines	
+even	Birmingham Snow Hill line services to Dorridge	
+odd	Local services to Coventry	
+even	Local services from Coventry	
+""	Aylesbury Vale Parkway to Marylebone via Amersham	
+""	Worcester to Dorridge via Stourbridge and Birmingham Snow Hill	
+""	GWR Class 2 trains to destinations beyond Bristol	
+"odd 61-99"	Class 2 trains Leamington Spa to Coventry	
+00-39	"Class 2 trains Wigan North Western to Liverpool Lime Street via St. Helen’sCentral"	

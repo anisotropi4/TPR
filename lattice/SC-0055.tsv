@@ -1,0 +1,23 @@
+"SC031 GRETNA JUNCTION TO GLASGOW BRIDGE STREET JUNCTION (VIAKILMARNOCK)"			
+ROUTE SECTION	SX	SO	SUN
+""			
+Gretna Junction – Mauchline	Open continuously	Open continuously	1200 – 2400
+Mauchline – Kilmarnock	Open continuously	Open continuously	Open continuously
+The following signal boxes are equipped to be switched out.  Opening hours are:			
+""	SX	SO	SUN
+""			
+Thornhill	Open continuously	Open continuously	0000 – 0045
+Kirkconnel	Open continuously	0001 – 1300	Closed
+""			
+"SC059 GLASGOW BRIDGE STREET JUNCTION TO STRANRAER (VIA PAISLEYGILMOUR STREET)"			
+""			
+ROUTE SECTION	SX	SO	SUN
+""			
+"Cardonald Junction – DeansideCPA"	Continuous^	Continuous^	Continuous^
+"Glasgow Bridge Street Junction toDalrymple"	Continuous	Continuous	Continuous
+Kilkerran	"0000 - 0046 (MX) and0600 - 2400"	"0000 - 0046 and0600 - 2400"	"0000 – 0007 and1104 - 2110"
+Girvan	"0000 - 0046 (MX) and0600 – 2400"	"0000 - 0046 and0600 – 2400"	"0000 – 0026 and1053 – 2057"
+Barrhill	"0000 – 0038 (MX) and0710 – 2400"	"0000 – 0038 and0710 -2400"	"0000 – 0038 and1039 – 2046"
+Glenwhilly	"0000 – 0051 (MX) and0701 – 2400"	"0000 – 0051 and0701 – 2400"	"0000 – 0051 and1030 – 2029"
+Dunragit – Stranraer*	"0000 – 0102 (MX) and0701 – 2400 (MO)0659 – 2400 (MSX)"	"0000 – 0102 and0659 – 2400"	"0000 – 0102 and1030 – 2019"
+"* Stranraer Signal Box must be opened as required for second train working in section.^ Requires Shunter to be on site."			

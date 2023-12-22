@@ -1,0 +1,33 @@
+Wakefield Kirkgate		
+Minimum Turnround	10	
+""		
+Junction Margins (when conflicting)		
+First Movement	Second Movement	Margin
+Depart to Wakefield Westgate	Arrive pass from Horbury Junction	4
+Depart Platform 3 to Wakefield Westgate	Depart Platform 1/2 to Horbury Junction	2
+Depart to Horbury Junction	Depart to Wakefield Westgate	2
+Depart to Horbury Junction	Arrive from Wakefield Westgate	3
+Depart to Horbury Junction	Arrive from Calder Bridge Jn	3
+Depart to Horbury Junction	Arrive pass from Horbury Junction	4
+Depart to Altofts Junction	Arrive same platform from west	3
+Depart to Calder Bridge Junction	Arrive from Calder Bridge Junction	4
+"Arrive Platform 2 from Horbury/WakefieldWestgate"	Pass through line from Altofts Junction	41⁄2
+"Arrive Platform 3 from HorburyJunction/Wakefield Westgate"	Pass from Altofts Junction	31⁄2
+Pass to Calder Bridge Junction	Pass from Altofts Junction	41⁄2
+Pass from Altofts Junction	Pass to Calder Bridge Junction	31⁄2
+Pass to Calder Bridge Junction	Arrive Platform 2 from Altofts Junction	41⁄2**
+Arrive Platform 3 from Wakefield Westgate	Arrive Platform 2 from Altofts Junction	3**
+Arrive Platform 3 from Calder Bridge Jn	Arrive Platform 2 from Altofts Junction	3**
+Arrive Platform 2 from Altofts Junction	Arrive or Pass Platform	3
+"** Can be simultaneous if Arrival into Platform 2 from Altofts Junction is given an additional 2 adjustmentallowance"		
+""		
+"Notes:•Standage at Wakefield Kirkgate: Up/Down Through Line 705 feet/33slu; Up Goole (either direction) 637feet/30slu"		
+Turners Lane Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Wakefield Kirkgate	Pass from Calder Bridge	3
+Pass from Calder Bridge	Pass to Wakefield Kirkgate	3
+""		
+Planning Note		
+Trains standing at K1246 signal that are longer than 457m/71SLU will foul Calder Bridge Jn		

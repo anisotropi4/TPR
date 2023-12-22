@@ -1,0 +1,30 @@
+""						
+GW103 PADDINGTON TO UFFINGTON				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Moreton Cutting	ML	RL	X	
+Didcot East Junction	"ML RLURL(H)"	ML RL	X	"(H): Services going to Didcot ParkwayPlatforms 4 or 5 or reversing at DidcotEast Jn for Didcot TC.To/from Didcot North Jn – GW240Timing point for all services using the relieflines."
+Didcot TC	–	–	S	
+Didcot Parkway	"MLRLGL(J)URL *DOX ^UOX ”–"	"ML (I)RLDRL*"		"Platform detail must be shown.(I) Up trains from Platform 3,4 and 5running to the Up Main at Didcot East Jnmust show ML line code at DidcotParkway.If on DML at Didcot Parkway show –towards SwindonIf on DRL at Didcot Parkway show RLtowards Swindon(J): Services going to Didcot West Endonly* If running bi–directionally^ DOX To Didcot North Jn via DownOxford“ UOX to Didcot North Jn via Up Oxfordreversible"
+Didcot West End	GL		S	
+Foxhall Junction	"ML RL– (K)"	"ML RLGL– (L)"	X	"(K): Services going to Didcot PowerStation only(L): Services going to Didcot North Jn onlyTo/from Didcot North Jn–GW250"
+Didcot Power Station	–	–		
+Didcot SB940 Signal		RL	S	"Regulating point on Relief Line in UpDirection"
+Milton Junction	ML GL	RL	X	"Timing point for all services using the relieflines."
+Steventon	–	RL	X	
+Wantage Road	ML RL	–		
+""				
+Challow	–	ML RL		
+""				
+Uffington	– UM*	–		*reversible working
+""				
+GW105 UFFINGTON TO FORDGATE VIA BOX				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Uffington	– UM*	–		*reversible working
+""				
+Bourton	– UM*	– DM*	X	Crossing moves under reversible working
+Swindon South Marston Jn	– UM*	– DM*	X	"Timing point to/from South MarstonEuroterminal and *reversible working"
+"Stratton Green Up Goods Loop(also known as Up SwindonGoods Loop)"		–	S	
+Highworth Junction	–	–	X	
+"Swindon East Loop (also knownas the Down Swindon Goods"	–		S	"Down direction only from HighworthJunction"

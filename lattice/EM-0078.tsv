@@ -1,0 +1,22 @@
+Trent South Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down Fast to Castle Donington Branch	Differential junction speed	"1⁄2 beforeTrent Southand 1 after"
+Down Fast towards Toton Centre	Differential junction speed	"1⁄2 beforeTrent South"
+""		
+Movement Up	Reason	Value
+Castle Donington Branch to Up Fast	Differential junction speed	"1⁄2* beforeTrent Southand 1⁄2* after*1 before andafter forfreight"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass from Loughborough (on Down Fast) toTrent East Jn"	Pass from Sheet Stores Jn to Loughborough	2
+Pass from Sheet Stores Jn to Loughborough	"Pass from Loughborough (on Down Fast) toTrent East Jn"	2
+"Pass from Loughborough (on Down Slow) toTrent East Jn"	"Pass from Trent East Jn to Loughborough (onUp Fast)"	21⁄2
+"Pass from Trent East Jn to Loughborough (onUp Fast)"	"Pass from Loughborough (on Down Slow) toTrent East Jn"	2
+"Pass from Loughborough to Toton (on DownHigh Level)"	"Pass from Trent East Jn to Loughborough (onUp Slow)"	3
+"Pass from Trent East Jn to Loughborough (onUp Slow)"	"Pass from Loughborough to Toton (on DownHigh Level)"	3
+""		
+Converging Headway		
+First Movement	Second Movement	Margin
+Down Fast towards Trent East Junction	"Down Slow to Down Fast towards Trent EastJunction"	2

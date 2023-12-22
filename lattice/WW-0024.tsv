@@ -1,0 +1,31 @@
+""	GW103 PADDINGTON TO UFFINGTON				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""					To/from Drayton Green Jn – GW176
+""	Hanwell Bridge Goods Loop	RL GL	RL	S	
+""	Southall East Junction	"ML RLGL"	"ML RLGL"	X	
+""	Southall Depot	–		S	
+""	Southall	"ML RLGL –"	"ML RLGL –DML*"		"Platform detail must be shown includingSWL and UBLTo from Brentford Goods – GW178*If running bi-directionally"
+""	Southall Down Brentford Sidings	GL	GL –	S	
+""	Southall West Junction	"ML RLURL* GL"	ML RL	X	"* For down-direction services running bi-directionally via Up Relief"
+""	Hayes Up Goods Loop	GL	GL	S	
+""	"Hayes and Harlington TarmacSidings"	GL	GL	S	
+""	Hayes & Harlington	"ML RLURL"	"ML RLGLDML"	S X	"DML - Services running bi-directionally toSouthall East Junction onlyPlatform detail must be shownValues which can be shown in the PlatformDetails field are:BAY – Train uses Bay Platform"
+""	Heathrow Airport Junction	"ML RLURL"	"ML RLDML"		To/from Heathrow Tunnel Jn – GW180
+""	Stockley Junction	RL	ML	X	"Timing point for Up ML Trains.Timing point for all Crossing Moves."
+""	Dawley Up Goods Loop		–	S	
+""	West Drayton ARC		RL	S	
+""	West Drayton	"ML RLWDL–"	ML RL	SX	"To/from Colnbrook – GW182WDL - Down trains to the Up Goods Loop(limit of shunt) only– Down trains to West DraytonTC/ColnbrookPlatform detail must be shown"
+""	West Drayton TC		–	S	
+""	Up Iver Loop		"RLUDG"	S	"Trains booked to stand on the Up Goodsfor pathing /operational reasons to betimed here. Signal T474 (use TIPLOCWDRYUGL)"
+""	Iver	ML RL	"ML RLGL"	SX	"Timing point for trains Up Relief to UpGoods and stopping trainsPlatform detail must be shown"
+""	Langley Reception Sidings	RL	RL	S	
+""	Langley	ML RL	ML RL	S	Platform detail must be shown
+""	Dolphin Junction	ML RL	ML RL	X	
+""	Slough	"ML RLURL"	ML RL		"Platform detail must be shown.To/from Windsor & Eton Central – GW184"
+""	Slough Estates	–	–	S	
+""	Slough Up Goods Loop		RL	S	
+""	Slough West	ML RL	ML RL	X	
+""	Burnham	RL	RL	S	Platform detail must be shown
+""	Taplow	ML RL	ML RL	S	Platform detail must be shown
+""	Maidenhead East	ML RL	ML RL	X	

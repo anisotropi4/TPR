@@ -1,0 +1,43 @@
+"LN120 WOOD GREEN NORTH JUNCTION TO LANGLEY JUNCTION (VIAHERTFORD)"				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Wood Green North Junction				To/from King’s Cross – LN101
+Alexandra Palace Signal K476		SL1 SL2	S	
+Bounds Green T&RSMD		–	S	
+Bowes Park	–	–		
+Bowes Park RRL		–	S	
+Palmers Green	–	–	S	
+Winchmore Hill	–	–	S	
+Grange Park	–	–	S	
+Enfield Chase	–	–	S	
+Gordon Hill	–	–		Platform details must be shown
+Crews Hill	–	–	S	
+Cuffley	–	–	S	
+Ponsbourne Tunnel Signal K891	–			"Timing point for all trains in Down directionTIPLOC BAYF891"
+Ponsbourne Tunnel Signal K894		–		"Timing point for all trains in Up directionTIPLOC BAYF894"
+Bayford	–	–	S	
+Hertford North CHS	–	–	S	Sidings 1-4
+Hertford North DCS	–	–	S	
+Hertford North	DL UL	–		Platform details must be shown
+Molewood Junction	DL UL	UL DL		
+Watton at Stone	DL UL	UL	S	
+Bragbury Junction	DL UL	UL		"Trains reversing at Signal WL1970 to betimed at Bragbury Junction."
+Langley Junction Signal WL1971	DL	–	S	TIPLOC LNGY971
+Langley South Junction	DL	UL DL		
+Langley Junction Signal WL1974		DL	S	TIPLOC LNGY974
+Langley Junction	SL DL	UL DL		"To/from Stevenage – LN101All trains to/from Stevenage Platform 5 andthe Hertford Loop must be timed atLangley Junction"
+LN125 HITCHIN CAMBRIDGE JUNCTION TO ROYSTON (INCLUSIVE)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Hitchin	DCF	–		To/from Stevenage – LN101
+Hitchin Up Yard	–	–	S	
+Hitchin Signal K228		–	S	Reversing point on Down Cambridge
+Hitchin Signal K234		–	S	"Reversing point between DownCambridge and Hitchin Up Yard"
+Hitchin Signal K944		–	S	
+Hitchin Signal K945	–		S	Protecting signal for Hitchin East Junction
+Hitchin East Junction				From Hitchin – LN126
+Letchworth Garden City	–	–		Platform detail must be shown
+Letchworth CSD	–	–	S	"Trains into Letchworth CSD to/from thestation must run via Letchworth A/D Lineand reverse at Letchworth CS Reception"
+Letchworth A/D Line	–	–	S	
+Letchworth CS Reception	–	–	S X	
+Baldock Signal K242		–	S	

@@ -1,0 +1,23 @@
+75	C	86	D	12
+"Max speed of thetrain"	"Indicates whether thetimings incorporateRT3973 speedrestrictions"	Loco class	"Indicates whetherthe train is singleor double headed"	"Trailing weight inhundreds oftonnes with finaltwo figuresomitted. (i.e. 12indicates a weightbetween 1200 and1299)"
+""	"B = Both (i.e. a HeavyAxle Weight Containertrain)C = ContainerH = Heavy Axle weighttrain- = Standard SRTs"	Loco class number	"S = Single headedD = Doubleheaded"	"For less than 1000tonnes a leadingzero is used i.e. 08indicates 800 -899 tonnes"
+Example				
+60	H	66	S	24
+Description				
+"Maximumpermissible speed"	"Indicates whetherthe timingsincorporateRT3973 speedrestrictions"	Loco class	Number of locos	"Trailing weight - upperlimit of a two hundredtonne band (i.e. 12indicates a weightbetween 1001 and 1200tonnes)"
+Common Values				
+"456075"	"- = No RT3973C=ContainerH=Heavy AxleWeightB=Both (i.e. aHeavy Axle WeightContainer train)"	"565960668690"	"S = Single HeadedD = Double Headed"	"04 (201-400 tons)through to 48 (4601-4800 tons)"
+""	TIMING REF	Class 37	Class 47	Class 56	Class 58	Class 59
+""	No	tonnes	tonnes	tonnes	tonnes	tonnes
+""	TR40	305	535	715	650	700
+""	TR55	430	740	975	895	955
+""	TR70	560	940	1235	1135	1210
+""	TR85	685	1145	1495	1375	1470
+""	TR100	815	1350	1760	1620	1725
+""	TR115	940	1550	2020	1860	1980
+""	TR130	1065	1755	2280	2100	2240
+""	TR145	1195	1960	2540	2345	2495
+""	TR160	1320	2160	2800	2585	2750
+""	TR175	1450	2365	3065	2825	3005
+""	TR190	1575	2570	3325	3070	3265
+""	TR200	1660	2705	3500	3230	3435

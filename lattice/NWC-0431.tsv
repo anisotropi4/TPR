@@ -1,0 +1,33 @@
+""	NW2023 SPRINGS BRANCH JN TO HUYTON JN (ST HELENS LINES)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Up – Daily					
+""	"Approaching Wigan NorthWestern"	E	2	2		"Only applies to trains terminating at WiganNorth Western and assuming no furtherallowance is taken between SpringsBranch Jn and Wigan North Western onroute NW1001"
+""	"NW3001 CREWE NORTH JN TO HOLYHEADPlease refer to Western and Wales edition of the Timetable Planning Rules for Saltney Jn to Holyhead"					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – Daily					
+""	Approaching Chester	E	1			"Only applies to trains terminating atChester"
+""	Up – Daily					
+""	Approaching Crewe	E	1			
+""	NW3003 CHESTER EAST JN TO ACTON GRANGE JN					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – Daily					
+""	Approaching Acton Grange Jn	E	1			
+""						
+""	Up – Daily					
+""	Approaching Mickle Trafford	E	2			
+""	NW3011 CHESTER WEST JN TO HOOTON SOUTH JN					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Up – Daily					
+""	Approaching Chester	P	1			"Only applies to Merseyrail Electrics Class2 services"
+""	NW3013 HOOTON SOUTH JN TO HELSBY JN					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – Daily					
+""	Approaching Ellesmere Port	P	1			"Only applies to Merseyrail Electrics Class2 services"
+""						
+""	Up – Daily					
+""	Approaching Ellesmere Port	E	2			

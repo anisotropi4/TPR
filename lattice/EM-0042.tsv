@@ -1,0 +1,26 @@
+LN3525 KNIGHTON JUNCTION TO LEICESTER JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Knighton to Bagworth Jn	AB+2*	*Single Line, TCB planned as AB	
+Bagworth Jn to Bardon Hill	AB+2	AB+2	
+Bardon Hill to Mantle Lane	AB+2	AB+2	
+Mantle Lane to Lounge Jn	AB+2*	*Single Line, TCB planned as AB	
+Lounge Jn to Moira West Jn	AB+2	AB+2	
+Moira West Jn to Birmingham Curve Jn	5	5	
+LN3535 BIRMINGHAM CURVE JUNCTION TO BRANSTON JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Birmingham Curve Jn to Branston Jn	5	5	
+LN3601 KETTERING NORTH JUNCTION TO MANTON JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Kettering North Jn to Corby (inclusive)	3	3	
+Corby (exclusive) to Manton Jn	7	6	
+LN3605 CORBY BSC WORKS TO CORBY NORTH			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Corby BSC Works to Corby North	AB+2*	"*Single Line, TCB planned as AB.  One train InSection"	
+LN3610 CORBY AUTOMOTIVE TERMINAL to CORBY NORTH			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Corby Automotive Terminal to CorbyNorth"	AB+2*	*Single Line, OTN(S) One train In Section	

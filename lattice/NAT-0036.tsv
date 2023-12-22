@@ -1,0 +1,6 @@
+45		TR70
+Max speed of the train	"Indicates whether the timingsincorporate RT3973 speed restrictions"	Timing reference number
+""	"B = Both (i.e. a Heavy Axle WeightContainer train)C = ContainerH = Heavy Axle weight train- = Standard SRTs"	
+60	H	60	S	12
+"Max speed of thetrain"	"Indicates whether thetimings incorporateRT3973 speedrestrictions"	Loco class	"Indicates whetherthe train is singleor double headed"	"Trailing weight -upper limit of a twohundred tonneband (i.e. 12indicates a weightbetween 1001 and1200 tonnes)"
+""	"B = Both (i.e. a HeavyAxle Weight Containertrain)C = ContainerH = Heavy Axle weighttrain- = Standard SRTs"	Loco class number	"S = Single headedD = Doubleheaded"	"Where appropriatea leading zero isused . (e.g. 08represents 601-800 tonnes)"

@@ -1,0 +1,40 @@
+""	St Johns
+""	
+""	Berthing Facilities
+""	"Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operationalrestrictions"
+""	Tanners Hill Junction	
+""		
+""	Junction Margins	Margin
+""	Between all movements	2*
+""	* - 11⁄2 minutes is permissible but not for successive moves	
+""		
+""	Length Restrictions	
+""	"A train exceeding 315m/49SLU in length on the Up Tanners Hill will foul the route on the Down Lewisham whenstanding at TL238.Therefore, junction margins must be based on train’s departure time at Tanners Hill Junction"	
+""	Parks Bridge Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	"Crossing moves timed at Parks Bridge Junction do not require the standard {1⁄2} adjustment. Values should be appliedas below"		
+""	Movement Down	Reason	Value
+""	"Freight pass from Lewisham 2000t/TR115and above"	Acceleration	1⁄2*
+""	Cross DKF to SL	Approach Control and Slow Speed Junction	1
+""	Pass to Ladywell Jn	Approach Control	1⁄2
+""	*Applied approaching next timing point		
+""			
+""	Movement Up	Reason	Value
+""	Pass to Lewisham	Approach control	1⁄2
+""	Cross SL to UKF	Approach Control and Slow Speed Junction	1*
+""	Pass from Ladywell Jn	Acceleration	1⁄2*
+""	*Applied approaching next timing point		
+""			
+""	Planning Note		
+""	"Parks Bridge Junction is collectively used to describe 3 independent junctions, School, Parks Bridge and CourthillLoop South. Junction margins for all conflicting moves are calculated and validated at Parks Bridge Junction. Asmultiple conflicting moves may occur, planners should ensure they are aware of all potential conflicts and applymargins appropriately"		
+""			
+""	Junction Margins		
+""	Conflicts at School Junction		
+""			
+""	First Movement	Second Movement	Value
+""	Up pass on UKS	Down cross from DKF to DKS	21⁄2
+""	Down cross from DKF to DKS	Up pass on UKS	11⁄2
+""	"Down pass on DKF towards Hither Green orLadywell Jn"	Up cross from UKS to UKF	11⁄2
+""	Up cross from UKS to UKF	"Down pass on DKF towards Hither Greenor Ladywell Jn"	21⁄2
+""			

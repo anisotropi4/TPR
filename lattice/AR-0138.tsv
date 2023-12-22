@@ -1,0 +1,37 @@
+South Tottenham		
+""		
+Junction Margins		
+Movement		Margin
+Fouling move		3
+Blackhorse Road	
+""	
+Dwell Time	1
+Woodgrange Park			
+""			
+Adjustments to Sectional Running Times			
+Movement Down			
+Movement	Timing Load	Reason	Allowance
+"Pass from Forest GateJunction"	"Freight up to 1235t/TR70(inclusive)"	Speed Differential	"{1⁄2} approachingBarking Station Junction"
+Freight over 1235t/TR70	Speed Differential	"{1} approaching BarkingStation Junction"	
+Movement Up			
+Movement	Reason	Allowance	
+"Freight trains passing Barking from RippleRoad Jn via the Up Goods (GL) / DepartureLine"	Not at line speed passing Barking	{1}	
+"Freight trains passing from Barking which usethe Up Tilbury (ML) and contain pathing timebetween Dagenham Dock and Barking"	"Not linespeed at Barking due to seeingrestrictive aspects on the approach"	{11⁄2}	
+"Trains passing towards Forest Gate Jn (if noneof the above apply)"	Differential linespeed	"{1}except 357"	
+""			
+Junction Margins			
+Movement		Margin	
+Fouling move		3	
+Barking Station Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+Pass to Barking Platform 1	Via slower route	"{1⁄2}approachingBarking"
+Pass from Barking Platform 1	Via slower route	{1⁄2}
+""		
+Junction Margins		
+Movement		Margin
+Fouling move		2
+""		
+Overlap Restrictions		
+"No pathing time to be included in the Up direction between Barking and Barking Station Junction when following atrain from Barking platform 1 as the signal overlap fouls the junction. Trains are regulated at Barking Station forconflicts at Barking Station Junction."		

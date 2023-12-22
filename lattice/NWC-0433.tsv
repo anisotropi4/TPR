@@ -1,0 +1,25 @@
+""	NW4019 OXENHOLME TO WINDERMERE					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – Daily					
+""	Approaching Windermere	E	1			"Only applies to trains originating frombeyond Oxenholme Lake District"
+""	NW4033 CARNFORTH NORTH JN TO CARLISLE SOUTH JN (VIA BARROW)					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Down – Daily					
+""	Approaching Carnforth	E	1*			"Only applies to trains to Barrow-in-Furnessand beyond originating from south ofPreston.* Does not apply to MU trains"
+""	Approaching Barrow-in-Furness	E	2	2	2	"Allowance increased to 12 minutes for alltraction types for S.L.W. purposes - referto Engineering Access Statement for moredetails."
+""	Approaching Millom	E	1*			"* Only applies to trains terminating atMillom"
+""	Approaching Sellafield	E	2*			"* Only applies to trains terminating atSellafield"
+""	Approaching Whitehaven	P	1			"Reduced by 1⁄2 minute for each station trainis not required to call (A request stop is abooked call). Only applies to trains callingat Braystones and Nethertown."
+""	Approaching Currock Jn	E	2			
+""	All Performance allowances to be shown as adjustment time { } in schedules on NW4033					
+""	NW4033 CARNFORTH NORTH JN TO CARLISLE SOUTH JN (VIA BARROW)					
+""	Up – Daily					
+""	Timing Section	Type	FL/ML	SL	GL	Remarks
+""						
+""	Approaching Whitehaven	E	2*	2*		"* Only applies to trains terminating atWhitehaven"
+""	Approaching Sellafield	P	1			"Reduced by 1⁄2 minute for each stationtrain is not required to call (A request stopis a booked call). Only applies to trainscalling at Braystones and Nethertown."
+""	Approaching Barrow-in-Furness	E	2	2	2	"Reduced to 1 minute for trains starting atMillom."
+""	Approaching Carnforth	E	1	1	1	"Allowance increased to 12 minutes for alltraction types for S.L.W. purposes refer toEngineering Access Statement for moredetails."
+""	All Performance allowances to be shown as adjustment time { } in schedules on NW4033					

@@ -1,0 +1,34 @@
+SC001 GRETNA JUNCTIONN TO GLASGOW CENTRAL (VIA BEATTOCK)				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+Quintinshill UPL	Up	579	90	
+Quintinshill DPL	Down	566	88	
+Lockerbie DPL	Down	548	85	
+Lockerbie UPL	Up	686	107	
+Beattock DPL	Down	641	100	
+Beattock UPL	Up	631	98	
+Beattock Summit DPL	Down	594	92	
+Beattock Summit UPL	Up	608	95	
+Abington DPL	Down	634	99	
+Abington UPL	Up	744	116	
+Carstairs DPL	Down	790	123	"Distance between GMC417 andGMC430 signals is 406m"
+""	Up	406	63	
+Carstairs UPL	Up	684	106	
+""	Down	504	78	
+Carstairs Platform Line	Up	365	57	
+""	Down	215	33	
+Law DPL	Down	564	88	
+Law UPL	Up Holytown	733	114	
+Motherwell UGL (Dalzell)	Up	1101	172	
+"Glasgow Central SidingsNo1No2No3No4No5"		"145145165148128"	"2222252319"	
+SC031 GRETNA JN TO GLASGOW CENTRAL (VIA KILMARNOCK)				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+Thornhill UPL	Up	620m	97SLU	
+"MauchlineUp BranchDown Branch"	"UpDown"	"377m448m"	"59SLU70SLU"	
+New Cumnock UGL	Up	325m	51SLU	
+Kilmarnock DPL	Down	330m	52SLU	
+SC045 EAST KILBRIDE to BUSBY JN				
+LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""		METRES	SLU	
+Hairmyres Loop (CL)	Crossing Point	300	46	

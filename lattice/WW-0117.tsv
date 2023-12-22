@@ -1,0 +1,33 @@
+EMU - 8 car (from Paddington)	5^	
+EMU - 4 car (from Paddington)	4	
+* units up to 3-cars may be reduced to 3 minutes, if not sequential		
+^ may be reduced to 4, if a relief driver is diagrammed		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Depart Platform 4 or 5	Down Arrive Platform 4 or 5 from Southall	4
+Up Depart Platform 4 or 5	Down depart Up Goods Loop	2
+"Up Pass Airport Jn on RL (not stopping Hayesand Harlington)"	Down depart Up Goods Loop	2
+"Up non-stopping EMU passes Heathrow AirportJn or up stopping EMU departs Hayes andHarlington via Hayes East ML crossover"	"Down ML non-stopping EMU passes HeathrowAirport Jn or down stopping service arrivesHayes and Harlington"	4
+"Up non-stopping EMU passes Heathrow AirportJn or up stopping EMU departs Hayes andHarlington via Hayes East ML crossover"	"Down ML non -stopping service passesHeathrow Airport Jn towards Slough"	31⁄2
+Down train arrive platform 5	Up stopping train arrive platform 4	21⁄2
+Down train arrive platform 5	"Up non-stop train on RL pass Heathrow AirportJn"	2
+"Up freight to Hayes Tarmac Terminalpass/depart platform 4"	Up stopping train arrive platform 4	51⁄2
+"Up freight to Hayes Tarmac Terminalpass/depart platform 4"	"Up non-stop train on RL pass Heathrow AirportJn"	5
+"Up train to Hayes Goods Loop pass/departplatform 4"	Up stopping train arrive platform 4	4
+"Up train to Hayes Goods Loop pass/departplatform 4"	"Up non-stop train on RL pass Heathrow AirportJn"	31⁄2
+"Down train from Hayes Goods Loop or HayesTarmac Terminal pass/depart"	Up stopping train arrive Platform 4	4
+"Down train from Hayes Goods Loop or HayesTarmac Terminal pass/depart"	"Up non-stop train on RL pass Heathrow AirportJn"	31⁄2
+""		
+Planning Note		
+Hayes Tarmac Sidings can accommodate only one train at a time.		
+"See junction margin at Heathrow Airport Jn when train is being followed by a freight towards Hayes Goods Loop orTarmac Sidings"		
+Heathrow Airport Junction				
+""				
+Adjustment to Sectional Running Times				
+Movement	Reason	Timing Load		Value
+"A down train from Southall towardsHeathrow Airport (Down Main only)"	"Not crossing HeathrowAirport Jn at linespeed"	387/110		+{1⁄2}
+"Up Trains crossing from RL to ML atStockley Jn that do not call at Hayesand Harlington"	Acceleration	80x 9/10 car		"1approaching nexttiming point"
+"Up Trains crossing from RL to ML atStockley Jn that do not call at Hayesand Harlington"	Acceleration	"16x / 387 / 769 / 80x 5 car75-57210/75-57280/75-57350"		"1⁄2approaching nexttiming point"
+"Up train from Heathrow Airport Jnhaving come from Heathrow Airport (UpMain only)"	Acceleration	387/110		"1⁄2approaching nexttiming point"
+These adjustments are not required:				

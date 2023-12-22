@@ -1,0 +1,40 @@
+Seaton Snook Junction/Seaton Carew
+•Only one train at a time allowed on Seaton on Tees branch
+Hartlepool		
+""		
+Dwell Time		
+180 Southbound	11⁄2	
+All other Southbound	1	
+All Northbound	11⁄2	
+""		
+Adjustment to Sectional Running times		
+Movement Down	Reason	Value
+Arrivals into Platform 1 (Bay Platform)	Slower approach	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart/pass to Sunderland	Arrive platform from Sunderland	4
+Depart to Stockton	Arrive/pass from Stockton	51⁄2
+Pass to Hartlepool Docks	Arrive/pass from Sunderland	71⁄2
+Pass Up on Up Line	Depart to Hartlepool Docks	1
+Pass Up on Up Line	Pass to Hartlepool Docks	2
+Pass to Cliffe House Up Loop	Depart towards Stockton	41⁄2
+""		
+""		
+Minimum Turnround	"5 Trains from Newcastle or Sunderland10 All other trains"	
+"Restrictions:•Hartlepool Docks: only one train at a time on branch"		
+Seaham		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Pass to Seaham Harbour	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart/pass to Hartlepool	Depart Seaham Harbour	21⁄2
+Pass from Seaham Harbour	Up Depart Seaham	11⁄2
+Pass from Seaham Harbour	Up Pass to Hartlepool	2
+Depart to Seaham Harbour	Up arrive/Up pass to Hartlepool	61⁄2
+""		
+Minimum Turnround	10 via Dawdon	
+"Restrictions:•Seaham Harbour: only one train at a time on branch"		

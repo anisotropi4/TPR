@@ -1,0 +1,25 @@
+EA1011 SEVEN KINGS TO IPSWICH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Gidea Park Turnback Line		-	S	
+Gidea Park Shunt Spur		-	S	
+Gidea Park Junction	ML  EL	ML  EL -	X	"Default Route Code to Gidea Park StablingLines only"
+Harold Wood	ML  EL	ML  EL	S	
+Brentwood	ML  EL	ML  EL	S	
+"Shenfield London EndJunction"	EL	EL	X	"Trains to be timed at this location for thefollowing crossing movesDown DirectionTrain on Down Main using secondary route(2250 pts) to platform 4 to be timed here withEL line code.Up DirectionTrains from platform 1 or 2 using 2247 pts tobe timed here with EL line code and ‘-‘ atShenfieldTrains from Platform 4 via 2248/2247 pts to betimed here with line code EL and ML atShenfield"
+Shenfield Up Loop		ML		Timing point for all trains routed via the loop
+Shenfield	-	"ML  EL- $"		"Platform detail must be shown$ applies to trains for the Up Passenger Loopand trains from Platform 1 and 2 crossing at2247 pts at Shenfield London End JunctionTo/from Southend Victoria - EA1050"
+Shenfield Stabling Sidings		-	S	"Platform detail must be shown as sidingnumber is required for routing purposes"
+Shenfield Up Siding		-	S	
+Shenfield Junction				"To/from Southend Victoria – EA1050 viaShenfield Platforms 1, 2 and 3"
+"Shenfield Southend LoopJunction"				"To/from Southend Victoria – EA1050 viaShenfield Platforms 4 and 5"
+"Ingatestone DownPassenger Loop"	-		S	
+Ingatestone	- UML	- DML	S	"Up trains starting/passing through ChelmsfordDown platform to show ‘-‘ in running line"
+Church Lane Crossing	"DMLUML"	"DMLUML"	X	"Tiploc – CHURCHL. Timing point to be usedfor Single Line working"
+Chelmsford	-	- ML		"Platform detail must be shownUp trains starting in Down platform to show MLin running line"
+Chelmsford Reception	-	-	F	
+"Chelmsford Down PassengerLoop"	-	-	S	
+Chelmsford Arbour Lane	-	- DML	X	Timing point to be used for Single Line working
+Beaulieu				"Tiploc – CHLMBPKNew station under construction – expectedentry into service 2025"
+"Chelmsford Brick HouseCrossing"	"DMLUML"	"DMLUML"	X	"Tiploc – CHLMBHC. Timing point to be usedfor Single Line working"
+Hatfield Peverel	-	-	S	

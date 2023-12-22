@@ -1,0 +1,12 @@
+""	Sudbury Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Freight Train from Up or Down Relief Lines, Upand Down Goods and Brent Reception Lines toDown Slow"	"Train departs Wembley Central towardsWillesden West London Jn on the Up Slow"	2 1⁄2
+""	"Freight Train from Up or Down Relief Lines, Upand Down Goods and Brent Reception Lines toDown Slow"	"Train passes Wembley Central towardsWillesden West London Jn on the Up Slow"	3 1⁄2
+""	"Passenger/ECS from Up or Down Relief Lines,Up and Down Goods and Brent Reception Linesto Down Slow"	"Train departs Wembley Central towardsWillesden West London Jn on the Up Slow"	1
+""	"Passenger/ECS from Up or Down Relief Lines,Up and Down Goods and Brent Reception Linesto Down Slow"	"Train passes Wembley Central towardsWillesden West London Jn on the Up Slow"	2
+""	"Train departs Wembley Central towardsWillesden West London Jn on the Up Slow"	"Train departs from Up or Down Relief Lines,Up and Down Goods and Brent ReceptionLines to Down Slow"	1 1⁄2
+""	"Train passes Wembley Central towardsWillesden West London Jn on the Up Slow"	"Train departs from Up or Down Relief Lines,Up and Down Goods and Brent ReceptionLines to Down Slow"	1
+""	"Train departs Wembley Central towardsWillesden West London Jn on the Up Slow"	"Train passes from Up or Down Relief Lines toDown Slow"	4 1⁄2
+""	"Train passes Wembley Central towardsWillesden West London Jn on the Up Slow"	"Train passes from Up or Down Relief Lines toDown Slow"	4

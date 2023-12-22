@@ -1,0 +1,31 @@
+""	Slade Lane Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Up direction TfW services from ManchesterPiccadilly to Cardiff"	Running brake test	1⁄2
+""	"Up trains crossing from Up Fast to Up Slow orUp Styal"	Approach control	"1⁄2approachingSlade LaneJn"
+""	Up trains crossing from Up Slow to Up Fast	Acceleration from slower speed junction	"1⁄2 after SladeLane Jn"
+""	Down Styal to Down Slow or Down Fast	"Joining main line at low speed and not reachingline speed before decelerating for Ardwick Jn"	"1⁄2 after SladeLane Jn"
+""	Down Fast to Down Slow	Approach control	"1⁄2approachingSlade LaneJn"
+""	Down Fast to Down Slow	"Joining slow line at low speed and not reachingline speed before decelerating for ArdwickJunction"	"1⁄2 after SladeLane Jn"
+""	Down Slow to Down Fast	Approach control	"1⁄2approachingSlade LaneJn"
+""	Down Slow to Down Fast	"Joining fast line at low speed and not reachingline speed before decelerating for ArdwickJunction"	"1⁄2 after SladeLane Jn*"
+""	"Down trains which have stopped atLevenshulme or have a minimum of (1)approaching Slade Lane Jn"	Not at line speed	"1⁄2 after SladeLane Jn*"
+""			
+""	* Only one {1⁄2} to be used between Slade Lane Jn and Ardwick Jn		
+""			
+""	Junction Margins		
+""	Movement	Margin	
+""	Conflicting movements, same or opposite direction	21⁄2	
+""			
+""	Exceptions:		
+""	First Movement	Second Movement	Margin
+""	From Up Fast or Up Slow	"Conflicting movement to Down Fast or DownSlow"	3 $
+""	From Down Styal to Down Fast	"From Up Fast to Up Styal or from Up Slow toany route"	4
+""	"For all margins where the first movement is freight the margin is increased by 1⁄2 minute.$ If the second movement stops at Levenshulme or has a minimum of 1 minute pathing time approaching SladeLane Jn, the Junction Margin is reduced to 2 minutes."		
+""			
+""	Converging/Diverging Margins:		
+""	First Movement	Second Movement	Margin
+""	From Up Fast to Up Slow	From Up Fast to Up Fast or Up Styal	21⁄2
+""	From Up Fast to Up Fast	From Up Slow to Up Fast	21⁄2
+""	For all margins where the first movement is freight the margin is increased by 1⁄2 minute.		

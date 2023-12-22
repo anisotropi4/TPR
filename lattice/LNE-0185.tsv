@@ -1,0 +1,25 @@
+Heaton South Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Trains from Slow Line	Differential junction speed	"1⁄2*1* Freight*to be appliedafter HeatonSouth Junction"
+""		
+Movements Up	Reason	Value
+Trains to Slow	Differential junction speed	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All crossing margins		4
+Heaton Loops		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass Heaton South Jn to Morpeth 100mphPlus"	Depart Heaton North Jn	2
+Pass Heaton South Jn to Morpeth	Depart Heaton North Jn	3
+"Passenger Pass Benton North Jn to BentonEast Jn"	Depart Heaton North Jn	1⁄2
+"Freight Pass Benton North Jn to Benton EastJn"	Depart Heaton North Jn	1
+Arrive Heaton South Jn from Morpeth	"Pass Heaton South from Morpeth for timingloads above 100mph"	11⁄2
+Arrive Heaton South Jn from Morpeth	"Pass Heaton South from Morpeth for timingloads below 100mph"	21⁄2
+Arrive Heaton South Jn from Morpeth	Pass Benton North Jn from Benton East Jn	2
+Arrive Heaton South Jn from Benton East Jn	"Pass Heaton South from Morpeth for timingloads above 100mph"	11⁄2
+Arrive Heaton South Jn from Benton East Jn	"Pass Heaton South from Morpeth for timingloads below 100mph"	21⁄2

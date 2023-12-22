@@ -1,0 +1,41 @@
+SO280 FARRINGDON TO HERNE HILL		
+""		
+Farringdon		
+""		
+Connectional Allowance	3	
+""		
+Dwell Time		
+All Southbound Services	1	AC to DC traction changeover takes place here
+All Northbound Services	1	"DC to AC traction changeover normally takes place atCity Thameslink."
+""		
+Platform Reoccupation		
+Same direction	11⁄2	
+Opposite direction Platform 4 only	3	
+Smithfield Sidings		
+""		
+Berthing Facilities		
+Location	Cars	Notes
+Siding No 1	8	
+Siding No 2	8	
+""		
+Planning Restrictions		
+"Class 375/465/466 units are prohibited from working to Smithfield Sidings due to OHLE clearance issuesbetween City Thameslink and Smithfield Sidings/London Blackfriars.Please also refer to the Sectional Appendix, Route SO280, Route Clearance"		
+City Thameslink		
+""		
+Connectional Allowance	3	
+""		
+Dwell Time		
+All Northbound Services	1	DC to AC traction changeover takes place here..
+All Southbound Services	1	"AC to DC traction changeover will normally occur atFarringdon.."
+""		
+Junction Margins/Platform Reoccupation		
+Same direction	11⁄2	
+""		
+First Movement	Second Movement	Margin
+"Northbound departure from Platform 1 toFarringdon"	Arrival from Smithfield Sidings	3
+"Northbound departure from Platform 2 toFarringdon"	Arrival in Platform 2 from Farringdon	4
+Southbound departure from Platform 1 or 2	Northbound arrival in Platform 2	3
+Southbound departure from Platform 1	Northbound arrival in Platform 1 or 2	3
+""		
+Planning Restrictions		
+"Class 375/465/466 units are prohibited from working to City Thameslink due to OHLE clearance issues betweenCity Thameslink and Smithfield Sidings/London Blackfriars.Please also refer to the Sectional Appendix, Route SO280, Route Clearance"		

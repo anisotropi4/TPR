@@ -1,0 +1,45 @@
+""	St. Germans	
+""		
+""	Dwell Time	
+""	Class 15x	1
+""	Menheniot	
+""		
+""	Dwell Time	
+""	Class 158	1
+""	Liskeard		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Down depart/pass platform 2 towards StPinnock Viaduct East"	Up pass Largin Jn	2
+""	"Shunt move from Liskeard Signal 9 arriveplatform 2"	Down arrive/pass platform 1	3
+""			
+""	Connectional Allowance	6	
+""			
+""	Dwell Time		
+""	80x	11⁄2	
+""	Class 15x	1	
+""	Class 22x	11⁄2	
+""			
+""	Reversing trains at Liskeard		
+""	"Note that HSTGW4/80x sets cannot be reversed on the Liskeard Branch Loop as the signalling will not permit itand that loaded passenger trains cannot run from the Up platform to the Down main."		
+""			
+""	Turnround allowances	DMU / GWR Short Form HST (HSTGW4)	
+""	From Plymouth	10	
+""	Bodmin Parkway		
+""			
+""	Shunt Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive at Exchange Siding	"Up depart/pass Lostwithiel or departLostwithiel Up Goods Loop"	2
+""	"Depart/pass Bodmin Parkway fromExchange Siding"	"Up depart/pass Lostwithiel or departLostwithiel Up Goods Loop"	2
+""			
+""	Dwell Time		
+""	80x Class 1 Services	11⁄2	
+""	Class 15x	1	
+""	Class 22x	11⁄2	
+""	Lostwithiel			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	From Par to Lostwithiel Up Goods Loop	Approach control	Freight	{11⁄2}
+""	"From Lostwithiel Down Goods Loop to ParStart to Pass/Stop"	Acceleration	Freight	"{1} approachingnext timing point"
+""	Up pass from Fowey branch	Acceleration	Freight	"{1⁄2} approachingnext timing point"

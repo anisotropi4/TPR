@@ -1,0 +1,36 @@
+Pelaw Junction		
+Freight Pass From Jarrow	"Pass Pelaw Junction to Boldon  (stoppingHeworth)"	31⁄2
+Light Loco Pass from Jarrow	"Pass Pelaw Junction to Boldon (stoppingHeworth)"	21⁄2
+Freight pass Pelaw Junction from Jarrow	Pass Pelaw Junction to Jarrow/Wardley	31⁄2
+Light loco pass Pelaw Junction from Jarrow	Pass Pelaw Junction to Jarrow/Wardley	21⁄2
+Freight pass Pelaw Junction from Jarrow	Depart Loop to Jarrow/Wardley/Boldon	21⁄2
+Light loco pass Pelaw Junction from Jarrow	Depart Loop to Jarrow/Wardley /Boldon	11⁄2
+Pass from Heworth	Pass from Jarrow	31⁄2
+"Passenger/light loco pass Pelaw Junction toBoldon"	Up depart loop to Boldon	2
+Freight pass Pelaw Junction to Boldon	Up depart loop to Boldon	31⁄2
+Pass Pelaw Junction to Jarrow/Wardley	Up depart loop to Boldon	3
+Up arrive loop	Up freight pass Pelaw Junction	31⁄2
+Up arrive loop	"Up passenger pass Pelaw Junction (notstopping Heworth)"	2
+Up train depart Down Goods Loop	Down passenger/light engine pass	3
+Up train depart Down Goods Loop	Down freight pass	31⁄2
+Up train depart Down Goods Loop	Pass from Jarrow/Wardley	21⁄2
+Up train depart Down Goods Loop	Down train arrive either loop	31⁄2
+Pass Pelaw Junction to Wardley	"Pass Passenger/light engine pass PelawJunction from Sunderland to Heworth"	3
+Pass Pelaw Junction to Wardley	"Freight pass Pelaw Junction from Sunderlandto Heworth"	31⁄2
+Pass Pelaw Junction to Wardley	"Pass Pelaw Junction to Up or Down GoodsLoop"	21⁄2
+"Depart Pelaw Junction (on Up Main) toWardley"	"Passenger/light engine pass Pelaw Junctionfrom Sunderland to Heworth"	4
+"Depart Pelaw Junction (on Up Main) toWardley"	"Freight pass Pelaw Junction from Sunderlandto Heworth"	5
+"Depart Pelaw Junction (on Up Main) toWardley"	"Pass Pelaw Junction to Up or Down GoodsLoop"	31⁄2
+"Restrictions:•Class 5 reversals in Goods Loop – the loop used must be specified and timed accordingly"		
+Heworth	
+""	
+Dwell Time	
+All	"1 Up1⁄2 Down"
+Park Lane Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass from Greensfield Junction/King EdwardBridge East Junction"	Pass to High Level Bridge Junction	3
+"Depart from Greensfield Junction/King EdwardBridge East Junction"	Pass to High Level Bridge Junction	41⁄2
+"Pass from Greensfield Junction/King EdwardBridge East Junction"	"Pass to Greensfield Junction/King EdwardBridge East Junction"	21⁄2
+Depart from Greensfield Junction/King Edward	Pass to Greensfield Junction/King Edward	4

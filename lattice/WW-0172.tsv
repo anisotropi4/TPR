@@ -1,0 +1,27 @@
+GW450  STOKE GIFFORD JUNCTION TO BRISTOL EAST JUNCTION		
+"Train passes or arrives platform 1 from BristolParkway"	"Train departs platform 2 towards BristolParkway using DF"	Simultaneous
+"Train passes or arrives Platform 1 from BristolParkway"	"Train passes Platform 2 towards BristolParkway using DF"	1 minute
+"Train passes or departs Platform 2 towardsPatchway"	"Train passes or arrives Platform 1 fromPatchway"	4
+"Train passes or departs Platform 2 or 4towards Patchway"	"Train to Filton Abbey Wood departs Filton Sig2052 or passes Filton West Junction"	2
+"Train passes or departs Platform 2 towardsBristol Parkway"	"Train to Filton Abbey Wood Platform 1 departsFilton Sig 2052 or passes Filton West Junction"	1
+""		
+"Rules regarding position of signals (On ML BL1580. On RL BL1578)A train cannot cross from down Bristol line to platform 1 in the down direction (down Filton main) whilst there is atrain standing in platform 2 (up Filton main).A train cannot cross from Filton chord line to platform 1 in the down direction (down Filton main) whilst there is atrain standing in platform 2 or platform 4 and cannot cross to platform 3 whilst there is a train in platform 4.A train cannot enter platform 3 from down Bristol line in the down direction (down Filton relief) whilst there is a trainstanding in platform 2 (up Filton main) which is running towards patchway or Filton chord.Only one train routing towards Patchway/Filton chord may call at Filton Abbey wood at any one time.All trains longer than platform length crossing from Patchway direction and stopping in platform 1 will block FiltonJn No.1 points preventing a second train going from platform 2 towards Bristol ParkwayA down train terminating in platform 2 cannot turnback. Can only turnback in platform 1."		
+Dwell Time		
+"15x/16x/GWR Short Form HST(HSTGW4) /80x"	1*	
+XC 22x	11⁄2**	
+"* Except between 0745 – 0925 for Platforms 2 and 4 when the dwell is to be 11⁄2** Applies during the weekday morning peak for XC trains arriving at Bristol Temple Meads between 07:00 and09:00"		
+Horfield Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+"Stapleton Road to Filton Abbey Wood stopto pass and stop to stop"	"Not passing Narroways Hill Jn atline speed having stopped atStapleton Road"	"15x/16x/GWR ShortForm HST(HSTGW4)"	{1⁄2}*
+"Up train pass having stopped at AshleyDown"	"Not at linespeed passing HorfieldJn"	"DMU80x"	"{1⁄2}^{1}^"
+*Does not apply to trains that have stopped at Ashley Down			
+^ Applied approaching next timing point			
+Planning Note			
+"Care must be taken when holding a train at BL.1589 (dwell or pathing time) as it may block use of crossovers thatform Horfield Jn (see 5.4.1 for standages)."			
+Narroways Hill Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"From Dr Days Jn towards Clifton Down (For atrain that hasn’t called at Stapleton Road)"	Slow speed junction	All	{1}

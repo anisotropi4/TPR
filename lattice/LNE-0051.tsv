@@ -1,0 +1,42 @@
+LN788 THORESBY COLLIERY BRANCH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Thoresby Colliery		–	S	
+LN790 RUFFORD NO.1 COAL STACKING SITE TO CLIPSTONE EAST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Clipstone South Junction	–	–		Line OOU beyond 10m68ch
+Clipstone East Junction	–	–		To/from High Marnham – LN784
+LN800 CLIPSTONE SOUTH JUNCTION TO CLIPSTONE WEST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Clipstone South Junction	–	–		To/from Clipstone Colliery Jn – LN790
+Clipstone West Junction	–	–		To/from Warsop Jn – LN784
+LN802 WELBECK COLLIERY BRANCH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Welbeck Colliery Junction	–	–		To/from High Marnham – LN784
+Welbeck Colliery Run Round	–	–		
+Welbeck Colliery		–	S	
+LN804 TAPTON JUNCTION TO GASCOIGNE WOOD JUNCTION VIA SHEFFIELD				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Tapton Junction	–	"ML  UBHDBH"		"To/from Chesterfield – LN3201To/from Barrow Hill North Jn – LN806"
+Dronfield	–	–	S	
+Dore South Jn	–	–	X S	To/from Dore West Jn – LN807
+Dore Station Junction	–	–		To/from Dore West Jn – LN808
+Heeley Up Loop		–	S	
+Sheffield Signal S77	DPL		X	"Timing point for trains routed via DPL(Down Heeley Loop)"
+Sheffield Signal S81	–		S	"Timing point if stopping in Down HeeleyLoop"
+Sheffield HS	–		S	
+Sheffield	–			Platform detail must be shown
+Nunnery Main Line Junction	–	–		To/from Woodburn Jn – LN736
+Mill Race Junction	–	–	X	
+Attercliffe Sidings	–	–	S	
+Brightside Up & Down East Slow	–	–	S	
+Brightside Jn	–  SL	– GL	X	
+Wincobank Jn	–	SL		To / From Eccelsfield West SB LN868
+Meadowhall Interchange	–	–	S	
+Holmes Junction	–  DGL	–		To/from Rotherham Central – LN818
+Masborough Junction	–	–	X F	To/from Beighton Jn – LN806
+Aldwarke Junction	–	–		"To/from Rotherham Central – LN830To/from Thrybergh Junction – LN828"

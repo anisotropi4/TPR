@@ -1,0 +1,30 @@
+""	NW8015 BIDSTON EAST JN TO NEW BRIGHTON (NEW BRIGHTON LINES)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Bidston East Jn to New Brighton	5	5	"Shunt moves via the New Brighton line toBirkenhead North Depot may be planned 3 minutesbehind the previous New Brighton service"
+""	NW8017 CANNING STREET NORTH TO ROCK FERRY SOUTH JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Canning Street North SB to RockFerry South Jn"	*	"* Single line - One Train in Section (OTS)Single line between Rock Ferry North Jn and RockFerry South Jn."	
+""	NW9001 DORE WEST JN TO EDGELEY JN NO.1 (HOPE VALLEY LINES)				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	"Dore Station Jn to Totley TunnelEast"	4 (TBC)	4 (TBC)		
+""	Totley Tunnel East to Grindleford	41⁄2	61⁄2		
+""	Grindleford to Bamford	5	61⁄2	See section 5.3 for margins for Up Bamford Loop	
+""	Bamford to Earles Sidings SB	6	AB+2*	*TCB planned as AB+2 due to signal spacing	
+""	"Earles Sidings SB to EarlesSidings signal ES31"	AB+2			
+""	"Edale Signal EE16 to EarlesSidings SB"		AB+2		
+""	"Earles Sidings signal ES31 toEdale"	AB+2			
+""	Edale to Edale signal EE16		AB+2		
+""	Edale to Chinley East Jn	AB	AB	"In the Up Direction, any train following a freight traincan pass Chinley East Jn 1 minute after thepreceding freight passes Edale.Freight trains on the Up Main can pass Chinley EastJn 4 minutes after an Up Passenger train."	
+""	"Chinley East Jn to Hazel GroveHigh Level Jn"	4	4		
+""	"Hazel Grove High Level Jn toHazel Grove"	Single Line	TCB – plan as AB for successive moves		
+""	Hazel Grove to Edgeley Jn No.1	3	3		
+""	NW9001 EARLES SIDINGS (INCL.) TO EDGELEY JN NO.1				
+""	TIMING POINT	DOWN	UP	NOTES	
+""					
+""	"Earles Sidings SB to EarlesSidings signal ES31"	AB+2			
+""	"Earles Sidings signal ES31 toEdale"	AB+2			
+""	Edale to Chinley North Jn	AB+2*		"* AB+2 between Edale and Chinley East Jn applieswhen following a train routed towards Chinley SouthJn"	
+""	"Edale Signal EE16 to EarlesSidings SB"		AB+2		

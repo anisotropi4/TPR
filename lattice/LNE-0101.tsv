@@ -1,0 +1,26 @@
+""	LN752 WRAWBY JUNCTION TO MARSHGATE JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	4	4	
+""	Exceptions:			
+""	"Wrawby Junction to Foreign OreBranch Junction"	"4FollowingPassenger5FollowingFreight"	"45FollowingFreightover 800tonnes"	
+""	Kirk Sandall Junction to Doncaster	"43StoppingPass’r orFreightfollowingnon–stop"	4	
+""	LN756 SCUNTHORPE TRENT JUNCTION TO ROXBY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	AB+2*	*Single Line, Staff Working	
+""	LN758 BRANCLIFFE EAST JUNCTION TO KIRK SANDALL JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Brancliffe East Junction to WP605Signal"	AB+2		
+""	"WP605 Signal to DinningtonJunction"	AB+2		
+""	"Brancliffe East Junction to WP606Signal"		AB+2	
+""	"WP606 Signal to DinningtonJunction"		AB+2	
+""	"Dinnington Junction to MaltbyColliery SB"	AB+2*	*Single Line, TB planned as AB	
+""	"Maltby Colliery SB to FirbeckJunction"	AB+2*	*Single Line, TB planned as AB	
+""	"Firbeck Junction to St CatherinesJunction"	AB+2*	*Single Line, TCB planned as AB	
+""	"St Catherines Junction to KirkSandall Junction"	AB+2*	*Single Line, TCB	
+""	"LN766 BENTLEY JUNCTION TO HEXTHORPE JUNCTION (DONCASTERAVOIDING LINE)"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	5	5	

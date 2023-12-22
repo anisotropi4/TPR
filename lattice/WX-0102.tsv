@@ -1,0 +1,35 @@
+""	Northam Junction		
+""	Between all movements		2
+""	Down freight towards Southampton Central	Up train passes from Eastern Docks	3#
+""	"Down train passes towards SouthamptonCentral"	"Departure from Signal E842 towards NorthamJunction"	1$
+""	"Down train from Southampton Up Yard towardsDepot Arrival/Departure Line or Eastern Docks"	Conflicting Down or Up train	3
+""	"Up ECS from Signal E842/Down Main crossingto Up Fast/Up Slow/Northam Depot No. 1Reception"	Conflicting Down train	3
+""	"Up train from Signal E842 towardsSouthampton Up Yard"	Conflicting Down train	31⁄2
+""	"Up freight crossing from Eastern Docks/DownMain to Up Slow/Up Fast"	Conflicting Down train	31⁄2
+""	"Up freight crossing from Eastern Docks to UpSlow"	Up train passing to Up Fast	4
+""	"# Increase to 31⁄2 minutes if first train is longer than 84 SLU / 540m.$ Increase to 2 minutes if the first movement is longer than 39 SLU / 250m."		
+""			
+""	Length Restriction		
+""	"The maximum standage behind E840 signal clear of Chapel Road Level Crossing is 87 SLU / 560m. Longer trainsfrom Eastern Docks booked to stop at Northam Junction will instead need to stop behind E838 signal to clear thelevel crossing – this will block 580A points, preventing any movements between Northam Junction and the DepotArrival/Departure Line (Signal E842)."		
+""	Northam Depot	
+""		
+""	Acceptance and Dispatch of Trains	
+""	"Minimum interval between twodepartures, two arrivals, ordeparture following arrival"	15
+""	"Minimum interval between arrivalfollowing departure"	5
+""		
+""	Trains reversing at E842 Signal	
+""	"Minimum reversal time at E842signal"	Standard turnaround plus 2 minutes
+""	Southampton Central		
+""			
+""	Adjustment to Sectional Running Times		
+""	"Down trains approaching Southampton do not require the standard {1⁄2} for crossing over at the London endcrossovers as it is already included in the SRT’s."		
+""	Movements	Reason	Value
+""	"Down trains crossing from Platforms 1,2 or 3 toDown Fast"	Speed differential	{1⁄2}*
+""	"Down trains crossing from Platforms 1, 2 or 4 toDown Slow"	Speed differential	{1⁄2}*
+""	* Applies approaching next timing point.		
+""			
+""	Connectional Allowances		
+""	All Services except as below	5	
+""	SWR Services	4	
+""			
+""	Dwell Times		

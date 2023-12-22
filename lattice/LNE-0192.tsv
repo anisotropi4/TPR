@@ -1,0 +1,39 @@
+""									
+Eaglescliffe		
+""		
+Dwell Time		
+180	11⁄2 - May be reduced to 1 with prior agreement from the operator	
+""		
+Adjustment to Sectional Running Times		
+Movement Down	Reason	Value
+"Non–stop trains from Darlington* After Eaglescliffe"	Differential junction speed	"1 Passenger2 Freight*"
+""		
+Movement Up	Reason	Value
+"Non–stop trains towards Darlington** Approaching Eaglescliffe"	Approach control	"1 Passenger2 Freight**"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass/arrive from Northallerton	Depart to Darlington	1
+Pass/arrive from Northallerton	Pass to Darlington	3
+Pass/depart to Darlington	Pass/arrive from Northallerton	4
+Stockton Cut Junction
+""
+Refer to LN632
+Hartburn Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Bowesfield Junction	Pass to Stockton Cut Junction	3
+Pass to Stockton Cut Junction	Pass from Bowesfield Junction	3
+Stockton		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Down platform to south	Arrive Down platform from south	4
+""		
+Minimum Turnround	5 Trains from Newcastle, Sunderland, Middlesbrough, Saltburn or Darlington	
+Norton Junctions		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves		4

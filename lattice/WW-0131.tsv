@@ -1,0 +1,39 @@
+Adjustment to Sectional Running Times (to be shown approaching location)			
+Movement	Reason	Timing Load	Value
+Crossing from Down Main to Down Relief	Slow turnout speed	80x	{1⁄2}
+"Didcot Parkway to Wantage Road Pass toPass"	"Crossing from RL to MLatFoxhall Junction"	D455	{1}
+""			
+Adjustment to Sectional Running Times (to be shown after location)			
+Movement	Reason	Timing Load	Value
+Crossing from Up Relief to Up Main	Slow turnout speed	80x	{11⁄2}
+""	Challow			
+""				
+""	Adjustment to Sectional Running Times (to be shown approaching location)			
+""	Movement	Reason	Timing Load	Value
+""	Crossing from Up Main to Up Relief	Slow turnout speed	80x	{1⁄2}
+""	"Up reversible trains that crossed from theDown Main at Uffington"	Acceleration	"80x /75-57350"	{1}
+""	Uffington			
+""				
+""	Adjustment to Sectional Running Times (to be shown approaching location)			
+""	Movement	Reason	Timing Load	Value
+""	Challow to Uffington Pass to Pass	"Running from RL to ML atChallow"	"80x165 / 166"	"{11⁄2}{1}"
+""	"Down reversible trains crossing to run viathe Up Main from Uffington"	Slow crossover speed	"80x /75-57350"	{1}
+""	Passing Swindon via P1 or P3	"Not at linespeed atSwindon"	80x	{2}
+""	Swindon Stratton Green		
+""			
+""	Junction Margin		
+""	First Movement	Second Movement	Margin
+""	"Up train towards Uffington departs Swindonstation"	Up train departs Stratton Green UGL	5
+""	"Up train towards Uffington passes Swindonstation"	Up train departs Stratton Green UGL	3
+""	Up train arrives Stratton Green UGL	"Up train towards Uffington departs Swindonstation"	2
+""	Up train arrives Stratton Green UGL	"Up train towards Uffington passes Swindonstation"	3
+""	Swindon East Loop		
+""			
+""	Junction Margin		
+""	First Movement	Second Movement	Margin
+""	"Train from Uffington comes to a stand atSwindon East Loop"	"Train from Uffington passes or arrives atSwindon station"	2
+""	GW105  UFFINGTON TO FORDGATE VIA BOX
+""	
+""	Swindon
+""	
+""	Adjustments to Sectional Running Times

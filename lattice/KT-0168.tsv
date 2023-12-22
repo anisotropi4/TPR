@@ -1,0 +1,12 @@
+SO130 CHARING CROSS TO DOVER PRIORY (see also SO510 and SO280A)			
+TIMING SECTION	VALUE	TYPE	REMARKS
+"Between Blackfriars Junctionand North Kent East Junctionor Deptford"	2	P	"All Down trains from the Thameslink Core must have aminimum of 2 minutes between Blackfriars Junction andNorth Kent East Junction or Deptford (1 minute must beplaced approaching London Bridge whenever possible).Note: the total value of 2 minutes is not negotiable"
+"Between New Cross orDeptford and BlackfriarsJunction"	2	P	"All Up trains to the Thameslink Core must have aminimum of 2 minutes between New Cross or Deptfordand Blackfriars Junction (1 minute must be placedapproaching Blackfriars Junction whenever possible).Note: the total value of 2 minutes is not negotiable"
+SO280 FARRINGDON TO HERNE HILL (see also SO130 and SO510)			
+TIMING SECTION	VALUE	TYPE	REMARKS
+"Approaching BlackfriarsJunction"	1	P	All Up Thameslink trains. Note: this value is not negotiable
+"Approaching LoughboroughJunction"	1	P	"All Down Thameslink trains (including ECS movementstowards Herne Hill turnback siding) Note: this value is notnegotiable"
+"Approaching Elephant &Castle"	1	P	"All up Thameslink trains from the Catford Loop to theThameslink Core"
+"SO280A BLACKFRIARS JUNCTION TO METROPOLITAN JUNCTION (see also SO130and SO510)"			
+TIMING SECTION	VALUE	TYPE	REMARKS
+"Approaching BlackfriarsJunction"	1	P	All up Thameslink trains

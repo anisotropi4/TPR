@@ -1,0 +1,32 @@
+""	South Ruislip		
+""			
+""	Adjustment to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Passenger, ECS or light engine pass fromGreenford branch or SL (Down Northolt Loop)from Northolt Park Jn"	Not at line speed passing South Ruislip	"1⁄2approachingnext timingpoint"
+""	Freight pass from SL (Down Northolt Loop)	Not at line speed passing South Ruislip	"1approachingnext timingpoint"
+""			
+""	Movement Up	Reason	Value
+""	"Passenger trains towards Greenford Branch(NOT required from West Ruislip platform 4)"	Not at line speed at South Ruislip	1
+""	Pass South Ruislip from LUL reversing siding	Not at line speed at South Ruislip	"Class 165/8 1approachingnext timingpoint"
+""	Pass towards Northolt Waste Terminal	Approach control	1
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass on Down Main	Depart Platform 3 to Down Main	2
+""	"Pass towards Northolt/Greenford via platform3"	Pass on Down Main	3
+""	"Pass towards Northolt/Greenford via platform3"	"Arrive South Ruislip from SL (Down NortholtLoop)"	3
+""	Pass from Northolt Refuse siding	Pass on Down Main	4
+""	West Ruislip		
+""			
+""	Connectional Allowance	3	
+""			
+""	Adjustment to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Train crossing to platform 4 at West Ruislip	Approach control	1
+""	Pass West Ruislip to LUL reversing siding	Approach control	1
+""	Departing platform 4 towards Gerrards Cross	Slow speed crossover	"1approachingnext timingpoint"
+""			
+""	Movement Up	Reason	Value
+""	"Pass towards Greenford branch or NortholtWaste Sidings (NOT required from WestRuislip platform 4)"	Approach control	"1⁄2 Passenger1 Freight"
+""	"Pass from HS2 terminal via Platform 4towards South Ruislip"	Not at line speed passing West Ruislip	"1⁄2 Freightapproachingnext timingpoint"
+""			

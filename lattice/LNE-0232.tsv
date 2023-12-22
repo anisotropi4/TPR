@@ -1,0 +1,10 @@
+Immingham West Junction	196 Routes Detailed in the Matrix													
+"2nd Move→"	"Passon UpK’holme to IBTOreLine"	"Passon UpK’holme toIBTCoalPad 1"	"Pass onUpK’holmeto IBTCoalPad 2"	"Pass onUpK’holmeto HITNo. 1 orNo.2Arrival/Departure"	"Pass onUpK’holmetoWesternJettyArrivalLine (forSimonStorageWest) †"	"Pass onUpK’holmetoHenderson Quay"	"Pass onUpK’holmetoMineralQuay"	"Pass onDNK’holmefromMineralQuay"	"Pass onDNK’holmefromHenderson Quay"	"Pass onDNK’holmefromWesternJettyDeparture Line(fromSimonStorageWest)"	"Pass onDNK’holmefrom HITNo.1 orNo.2Arrival/Departure Line"	"Pass onDNK’holmefrom IBTCoalPad 2"	"Pass onDNKi’holmefrom IBTCoalPad 1"	"Pass onDNKi’holmefrom IBTOre Line"
+1st Move ↓														
+"Pass on UpK’holme toIBT OreLine"	n/a	H	H	H	H	H	H	P	P	P	P	9	9	n/a
+"Pass on UpK’holme toIBT CoalPad 1"	H	n/a	H	H	H	H	H	P	P	P	P	9	n/a	9
+"Pass on UpK’holme toIBT CoalPad 2"	H	H	n/a	H	H	H	H	P	P	P	P	n/a	9	9
+"Pass on UpK’holme toHIT No. 1or No.2Arrival/Departure"	61⁄2*	61⁄2*	61⁄2*	n/a	H	H	H	8	8	8	7	9	9	9
+"Pass on UpK’holme toWesternJetty ArrivalLine (forSimonStorageWest) †"	61⁄2*	61⁄2*	61⁄2*	H	n/a	H	H	8	101⁄2	n/a	7	9	9	9
+"Pass on UpK’holme toHendersonQuay"	61⁄2*	61⁄2*	61⁄2*	H	H	n/a	H	8	n/a	121⁄2	7	9	9	9
+"Pass on UpK’holme toMineralQuay"	61⁄2*	61⁄2*	61⁄2*	H	H	H	91⁄2*	141⁄2	8	8	7	9	9	9

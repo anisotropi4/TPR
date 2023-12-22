@@ -1,0 +1,20 @@
+""	"MD726 AYLESBURY TO CLAYDON WEST JNMD725 AYLESBURY TO CLAYDON L&NE JN"				
+""	TIMING POINT	DOWN		UP	NOTES
+""					
+""	Aylesbury to Blackgrove Road	*	"* Single line - One Train in Section (OTS)unless train is recessed at Aylesbury NorthGoods Loop or Aylesbury Vale Parkway.In the Down direction a train can depart Aylesbury 2minutes after the preceding train has arrived atAylesbury Vale Parkway"		
+""	"Blackgrove Road to QuaintonRoad"	*	* Single line - One Train in Section (OTS)		
+""	"Aylesbury to Aylesbury ValeParkway (inclusive)"	*	"* Single line - One Train in Section (OTS) unlesstrain is recessed at Aylesbury North Goods Loop orAylesbury Vale Parkway. Time as AB+1 forsuccessive trains.A Down departure to Aylesbury North Goods Loopcan depart Aylesbury 3 minutes after the previoustrain to Aylesbury Vale Parkway"		
+""	"Aylesbury Vale Parkway(exclusive) to Quainton Road"	*	"* Single line - One Train in Section (OTS). A traincan be locked in at Quainton Railhead, see Section5.3 for method of working"		
+""	MD736 OXFORD NORTH JN (EXCLUSIVE) TO DENBIGH HALL SOUTH JN					
+""	TIMING POINT	DOWN		UP	NOTES	
+""						
+""	"Oxford North Jn to BicesterGavray Jn (inclusive)"	4 $		4 $	$ - 5 if following a freight service	
+""	"Bicester Gavray Jn (exclusive) toDenbigh Hall South Jn"	4 $		4 $	"$ 51⁄2 if following a freight serviceSee section 5.3 for exceptions applicable at DenbighHall South Jn"	
+""	"MD741 FLYOVER SUMMIT JN TO FENNY STRATFORD JN (BLETCHLEY FLYOVERLINES)MD740 FLYOVER SUMMIT JN TO FENNY STRATFORD (FLYOVER LINES)"				
+""	TIMING POINT	DOWN		UP	NOTES
+""					
+""	"Flyover Summit Jn to FennyStratford"	AB+2		AB+2	
+MD745 BICESTER SOUTH JN TO BICESTER GAVRAY JN					
+TIMING POINT	DOWN	UP	NOTES		
+""					
+""	"Bicester South Jn to BicesterGavray Jn"	AB+2		AB+2	TCB timed as AB

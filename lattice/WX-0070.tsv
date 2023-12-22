@@ -1,0 +1,9 @@
+SW100 LONDON WATERLOO TO CLAPHAM JUNCTION			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+""			
+Clapham Junction	"Latchmere/LudgateLines"	"07.00 – 09.0016.30 – 18.30"	"From Ludgate Line /Latchmere Reversibleto Down Windsor Lines (Plats 5/6)/ClaphamYard"
+"London Waterloo andWoking"	"It is intended torestrict usage to90% of capacity"	"06.00 – 21.00EWD"	"In peak periods no more than 25 non stoptrains per hour will be permitted on the fastLines"
+SW100C WEST LONDON JUNCTION TO LATCHMERE JUNCTION (NO 3)			
+LINE/LOCATION	SECTION	"CRITICALTIMES SX"	REMARKS
+""			
+"North Pole Junction andLatchmere Junction (No 3)"	"No more than 13paths per hour ineach direction"	All day	"Stopping services are likely to absorb morethan one path"

@@ -1,0 +1,33 @@
+""	NW1001 ARMITAGE JN (INCLUSIVE) TO PRESTON FYLDE JN					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	Stafford Trent Valley Jn				To/from Penkridge – NW1002	
+""	Stafford South Jn	FL SL	FL SL	X		
+""	Stafford	FL SL	FL SL		"Platform detail must be shown whichincludes UDG – Stafford Goods Loop, DFLand UFL"	
+""	Stafford North Jn	SL	FL GL	X		
+""	Stafford Doxey Jn	FL	SL	X		
+""	Little Bridgeford Jn		SL			
+""	Searchlight Lane Jn	DNB SL			To Yarnfield Jn – NW5008	
+""	Norton Bridge Jn				"For timing purposes this location is shownas Norton Bridge"	
+""	Norton Bridge	FL EC	FL		To/fromYarnfield Jn – NW5008	
+""	Madeley	FL SL	FL SL			
+""	Basford Hall Jn	"FL SL IL–"	FL SL		"To/from Crewe Signal BH34/36 – NW1009Default line code to be used for trains toCrewe Basford Hall Yard (Freightliner) only"	
+""	Crewe Signal CE105	SL		S	Regulating point on Down Slow	
+""	Crewe Down Refuge Siding	–		S	"To/from Crewe Signal CE110 – NW1007TIPLOC: CREWDRS"	
+""	Crewe Carriage Sheds	–	–		"TIPLOC CREWECS. Also known asCrewe LNWR"	
+""	Crewe South Jn				"To/from North Stafford Jn – NW1005To/from Gresty Lane – NW1007"	
+""	Crewe	FL SL	FL SL		"Platform detail must be shown.Also show the following in platform whereapplicable:""DFL"" for trains timed via the Down Fastline.""MT"" in platform for trains reversing in theformer Motorail terminal.""UDL"" for trains timed via the Up & DownLoop.""UFL"" for trains timed via the Up Fast LineTo/from North Staffs Jn – NW1005To/from Gresty Lane Jn – NW1007"	
+""	Crewe D.H.S.				"See Section 5.3 for specific rulesapplicable to trains to/from this location."	
+""	Crewe North Jn				"To/from Crewe Steelworks – NW3001To/from Sandbach – NW5001"	
+""	Crewe Coal Yard	FL SL	FL SL IL		To/from Salop Goods SB – NW1017	
+""	Winsford South Jn					
+""	Winsford	FL	FL SL			
+""	Hartford	FL	FL	S		
+""	Hartford Jn	FL SL	FL		To/from Hartford C.L.C. Jn – NW3037	
+""	Acton Bridge	FL	FL SL			
+""	Acton Bridge Jn					
+""	Weaver Jn	FL	FL		To/from Runcorn – NW2001	
+""	Acton Grange Jn	FL OL	FL		"To/from Walton Old Jn – NW1019To/from Runcorn East – NW3003"	
+""	Warrington South Jn				To/from Walton Old Jn – NW1019	
+""	Warrington Bank Quay	"FL SLUSL"	FL OL		Platform detail must be shown	
+""	Warrington North Jn					

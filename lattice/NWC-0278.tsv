@@ -1,0 +1,33 @@
+""	Crewe Coal Yard				
+""					
+""	Adjustments to Sectional Running Times				
+""	Movement Down	Reason	Value		
+""	"All Down trains from Crewe crossing ""SL"" to""FL"""	"Reduced speed required at turn-outAcceleration"	"11⁄2 Passenger**4 3 Freight**"		
+""	"All Down trains from the Independent Lines to“FL” timed to 75 mph and above"	Reduced speed required at turn-out	"11⁄2 Passenger **5 Freight**"		
+""	"All Down trains from the Independent Lines to“FL” timed below 75mph"	"Reduced speed required at turn-outAcceleration"	"1 Passenger **3 Freight**"		
+""	"All Down trains from the Independent Lines to“SL” timed to 75 mph and above"	"Reduced speed required at turn-outAcceleration"	"2 1 Passenger **41⁄2 Freight**"		
+""	"All Down trains from the Independent Lines to“SL” timed below 75mph"	"Reduced speed required at turn-outAcceleration"	"1 Passenger **2 Freight**"		
+""	** Apply approaching next timing point				
+""					
+""	Movement Up	Reason		Value	
+""	"All Up trains to Crewe Pass crossing ""FL"" to""SL"""	"Reduced speed required at turn-out ApproachControl"		"2 Passenger *2 Freight*"	
+""	"All Up Pass trains to the Independent Linescrossing from the ""FL"""	"Reduced speed required at turn-out ApproachControl"		"2 Passenger *2 Freight*"	
+""	"All Up trains to the Independent Lines crossingfrom the ""SL"""	Reduced speed required at turn-out		"2 Passenger *2 Freight*"	
+""	* Apply approaching Crewe Coal Yard				
+""					
+""	Junction Margins				
+""	First Movement	Second Movement	Margin		
+""	Down train pass on Down Slow or Fast Line	Down train from the Down Independent Line	11⁄2  2		
+""	Down pass on Down Fast Line	"Down from the Down Independent Line to theDown Fast"	11⁄2		
+""	"Down from the Down Independent Line to theDown Fast"	Down pass on Down Slow	4		
+""	Winsford		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Down train pass from Fast Line	Down train pass from Slow Line	21⁄2
+""	Down train pass from Fast Line	Down train arrive from Slow Line	3
+""			
+""	Platform Reoccupation Time	4	
+""	Hartford	
+""		
+""	Platform Reoccupation Time	4

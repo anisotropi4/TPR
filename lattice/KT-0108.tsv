@@ -1,0 +1,34 @@
+Orpington			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason	Value	
+"Crossing moves timed at Orpington do not require the standard {1⁄2} adjustment. Values should be applied asbelow."			
+Arrive/Pass Platform 1,4,5,6,7 from Down Fast	Approach Control	1	
+Pass Platform 5 to Sevenoaks	Acceleration	1⁄2*	
+Pass Platform 4 to Sevenoaks	Acceleration	11⁄2^	
+Depart Platform 4 to Sevenoaks	Acceleration	1^	
+Trains terminating in Platforms 1, 6, 7 or 8	Approach Control	1⁄2*	
+Train crossing from Down Slow to platform 4	Approach Control	1⁄2*	
+Train crossing from Down Fast to platform 4 or 5	Approach Control	1⁄2	
+"*Does not apply to trains timed as Class 700 which call at Petts Wood (adjustment included within SRT)Passenger trains arriving from Down Slow do not require any adjustment allowance as this is included in theSRT"			
+""			
+Adjustments to Sectional Running Times			
+Movement Up	Reason	Value	
+"Arrive/Pass Platform 4 from Sevenoaks (not stoppingat Chelsfield)"	Flashing Yellow Aspects	1⁄2	
+"Arrive/Pass Platform 3 or 5 from Sevenoaks (notstopping at Chelsfield)"	Approach Control	1	
+"Arrive/Pass Platform 3 or 5 from Sevenoaks (stoppingat Chelsfield)"	Approach Control	1⁄2	
+Depart Platforms 1,3,5,6,7	Acceleration	1⁄2^	
+Depart Platform 8	Acceleration	1^	
+Pass Platforms 3,4 or 5 to Up Fast	Acceleration	1^	
+"*Applied approaching next timing point. Does not apply to class 6 or class 7 freight.^Applied approaching next timing point"			
+""			
+Berthing Facilities			
+Location	Cars	Notes	
+No 1 Siding	12	"Siding numbers to bespecified in thetimetable"	
+No 2 Siding	12	"Siding numbers to bespecified in thetimetable"	
+No 3 Siding	12	"Siding numbers to bespecified in thetimetable/CET dischargefacilities available"	
+No 4 Siding	12	"Siding numbers to bespecified in thetimetable/CET dischargefacilities available"	
+Platform 1	11		
+Platform 6	12		
+Platform 7	12		
+Platform 8	12		

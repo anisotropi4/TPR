@@ -1,0 +1,38 @@
+Seaton Delaval	
+""	
+Dwell Time	
+DMU	45 Seconds shown as 1/1⁄2 alternating
+Red House Farm Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Passenger pass to Newsham	"Passenger pass to Seaton Delaval (calling atNewsham Station)"	3
+Passenger pass to Newsham	Freight pass to Seaton Delaval	21⁄2
+Freight pass to Newsham	Freight pass to Seaton Delaval	3
+Freight pass to Newsham	"Passenger pass to Seaton Delaval (calling atNewsham Station)"	31⁄2
+Passenger pass to Newsham	Passenger depart to Seaton Delaval	1
+Freight pass to Newsham	Passenger depart to Seaton Delaval	11⁄2
+Passenger pass to Newsham	Passenger dass to Seaton Delaval	31⁄2
+Newsham	
+""	
+Dwell Time	
+DMU	45 Seconds shown as 1/1⁄2 alternating
+Blyth Bebside	
+""	
+Dwell Time	
+DMU	45 Seconds shown as 1/1⁄2 alternating
+Bedlington		
+""		
+Dwell Time		
+All	"1 for trains stopping in the up direction45 Seconds shown as 1/1⁄2 alternating in the down direction"	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Freight pass from West Sleekburn Junction toBedlington Sidings"	Passenger arrive Bedlington from Newsham	51⁄2
+"Freight pass from West Sleekburn Junction toBedlington Sidings"	"Passenger arrive Bedlington from WestSleekburn Junction"	4
+"Freight pass from West Sleekburn Junction toBedlington Sidings"	"Freight pass from Newsham towards WestSleekburn Junction"	5
+"Freight pass from Morpeth to BedlingtonSidings"	"Passenger depart to West Sleekburn Junction(stopping Bedlington)"	51⁄2
+Pass from Bedlington Sidings towards Morpeth	Pass from Newsham to Morpeth	Headway
+Pass from Bedlington Sidings towards Morpeth	"Pass from Newsham to West SleekburnJunction"	31⁄2
+"Pass from Bedlington Sidings towards WestSleekburn Junction"	"Pass from Newsham to West SleekburnJunction"	31⁄2
+Pass from Bedlington Sidings towards Morpeth	Arrive Bedlington from Newsham	31⁄2

@@ -1,0 +1,44 @@
+Dumbarton Central		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down train routed into Platform 3 / CE line notstopping at Dumbarton East"	Approach Control	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Platform 3 from Dalreoch	Down arrive/pass	3
+Down depart/pass	"Arrive Platform 3 from Dalreoch (stoppingDalreoch)"	3
+Down depart/pass	"Arrive Platform 3 from Dalreoch (not stoppingDalreoch)"	4
+Down arrive/pass	Up depart Platform 3	1
+Up depart Platform 3	Down arrive	31⁄2
+Up depart Platform 3	Down pass	41⁄2
+Up train depart stopping Dumbarton East	Up train depart not stopping Dumbarton East	51⁄2*
+*May be reduced to 4 minutes if {11⁄2} inserted immediately after Dumbarton Central		
+Dalreoch		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive/Pass from Cardross	Depart to Balloch	1
+Arrive/Pass from Cardross	"Pass to Balloch from stop at DumbartonCentral"	2
+Arrive/Pass from Cardross	"Pass to Balloch, not stopping DumbartonCentral"	3
+Depart/pass to Balloch	Arrive/pass from Cardross	3
+Arrive/pass from Balloch	Depart to Balloch	1⁄2
+Arrive/pass from Balloch	Pass to Balloch	2
+""		
+"RestrictionsPathing time must not be used between Dumbarton Central and Dalreoch, and vice versa, due to there being nointermediate signals."		
+Craigendoran Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up pass	Down pass	3
+Up depart West Highland Loop	Down pass	3
+Down Pass	Up depart West Highland Loop	1
+Down pass to West Highland	Up depart Craigendoran station	1
+Down arrive West Highland Loop	Up depart Craigendoran station	1
+Down pass to West Highland	Up pass (not stopping Craigendoran)	21⁄2
+Down arrive West Highland Loop	Up pass (not stopping Craigendoran)	21⁄2
+Down pass to Helensburgh Central	Up pass from West Highland Line	31⁄2
+Down arrive West Highland Loop	Up pass from West Highland Line	3
+Up arrive West Highland Loop	Down pass	21⁄2
+Up Pass	Down depart to Helensburgh Central/Upper	1
+Up Pass from Helensburgh Upper	Down Depart West Highland Loop	1

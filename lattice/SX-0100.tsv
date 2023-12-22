@@ -1,0 +1,29 @@
+Three Bridges Up Thameslink Depot			
+""			
+Acceptance of trains			
+First Movement	Second Movement	Margin	
+"Train departs Three Bridges Platform 2 or 3 andenters the Up Thameslink Depot"	"Following movement departs Three Bridges intothe Up Thameslink Depot"	8	
+"Example, first train departs Three Bridges towards Up Thameslink Depot at xx.00. Second movement into Depotcan depart Three Bridges at xx.08."			
+""			
+Berthing Facilities			
+Siding	Cars*	Notes	
+Road 1	36		
+Road 2	24		
+Road 3	24		
+Road 4	24		
+"* Assumed to be Class 700 EMU stock. A maximum of six planned arrivals or departures is allowed on Depot at anyone time."			
+Margins between arrivals and departures			
+First Movement	Second Movement	Margin	
+"Train arrives at Three Bridges Up ThameslinkDepot from Three Bridges station"	"Train departs from Three Bridges Up ThameslinkDepot towards Three Bridges station"	6	
+""			
+Margins between successive departures			
+First Movement	Second Movement	Margin	
+"Train departs from Three Bridges Up ThameslinkDepot and passes Three Bridges station"	"Following movement departs Three Bridges UpThameslink Depot towards Three Bridges stationeither stopping or not stopping"	6	
+"Train departs from Three Bridges Up ThameslinkDepot and stops at Three Bridges station (assumes1 minute dwell at Three Bridges)"	"Following movement departs Three Bridges UpThameslink Depot towards Three Bridges stationeither stopping or not stopping"	8	
+Copyhold Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"All trains crossing from DLH (Down Loop)to Up Main"	"Speed differential due to 40mphcrossover"	{1⁄2}*
+"All trains crossing from the Down Main tothe ULH (Up Loop)"	"Approach Control and speed differentialdue to 20mph crossover"	"{1}approaching CopyholdJunction"
+*applied at the next timing point		

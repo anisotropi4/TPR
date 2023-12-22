@@ -1,0 +1,35 @@
+""	Maritime West Junction			
+""				
+""	Adjustment to Sectional Running Times			
+""	Movement	Reason	Value	
+""	"Up trains from Redbridge Sidings to MaritimeEast Junction via Redbridge Goods"	Slow speed from sidings	{4}*	
+""	"Down train from Maritime FLT to Redbridgevia Redbridge Goods"	Slow speed from sidings	{3}*	
+""	*  Applies approaching next timing point			
+""				
+""	Junction Margins			
+""	First Movement		Second Movement	Margin
+""	Between all movements except as below.			9*
+""	"Down departure from Maritime FLT toRedbridge Goods"		"Down train on Redbridge Goods from MaritimeEast Junction"	10*
+""	"Up train from Redbridge Goods to MaritimeFLT"		"Down train on Redbridge Goods from MaritimeEast Junction"	10*
+""	"Down train from Redbridge Goods toRedbridge Sidings"		"Down train on Redbridge Goods from MaritimeEast Junction"	10*
+""	"Up train from Redbridge Goods to MaritimeFLT"		Up train on Redbridge Goods from Redbridge	11*
+""	"Up train from Redbridge Sidings to RedbridgeGoods"		Up train on Redbridge Goods from Redbridge	11*
+""	"Down train to Redbridge Sidings fromRedbridge Goods"		Up train on Redbridge Goods from Redbridge	11*
+""	Down train passes on Redbridge Goods		"Up train from Redbridge Sidings to RedbridgeGoods"	5
+""	Up train passes on Redbridge Goods		"Down train from Maritime FLT to RedbridgeGoods"	5
+""	"* Margin can be reduced by 2 minutes if first train is 550m/86 SLU or less. Can be reduced by 3 minutes if the firstmovement is a light locomotive."			
+""				
+""	Simultaneous moves not permitted			
+""	Down train from Maritime FLT to Redbridge Goods	"Down train approaching E777 signal from Maritime EastJunction via Redbridge Goods"		
+""	Up train from Redbridge Goods to Maritime FLT	"Down train approaching E777 signal from Maritime EastJunction via Redbridge Goods"		
+""	"Up train from Redbridge Sidings to RedbridgeGoods"	"Up train approaching E770 signal from Redbridge viaRedbridge Goods"		
+""	"Down train from Redbridge Goods to RedbridgeSidings"	"Up train approaching E770 signal from Redbridge viaRedbridge Goods"		
+""				
+""	Planning Notes			
+""	"An up train in excess of 93 SLU stood at Maritime West Jn signal E770 will be foul of the Up and Down Main linesat Redbridge. Therefore, junction margins at Redbridge should be based on departure time from Maritime West Jnif this is the case."			
+""	"A down train in excess of 93 SLU stood at Redbridge signal E779 will be foul of Maritime West Jn. Therefore,junction margins at Maritime West Jn should be based on departure time from Redbridge if this is the case."			
+""	Redbridge		
+""			
+""	Adjustment to Sectional Running Times		
+""	Movements	Reason	Value
+""	"Down trains towards Romsey not stopping atRedbridge"	Speed Differential	{1⁄2}

@@ -1,0 +1,27 @@
+""		"Southall ofsecondmovement"
+"A train in the Down direction passes or departsfrom Southall"	"A train in the Down direction from SWL or DBLat Southall or Down Brentford Sidings crossingto the Down Main or Down Relief."	"Standard jnmargin to applybetweendeparture orpassing time atSouthall of firstmovement, anddeparture orpassing time atSouthall orDownBrentfordSidings ofsecondmovement."
+""		
+"For Southall West Jn, the correct Junction Margin to be applied is to be based on the slowest set ofcrossovers which the first train will travel over.*Trains can arrive and depart from Southall Station whilst a conflicting move is taking place at SouthallWest Junction, a junction margin time should be applied before the next TIPLOC in the down direction if aconflicting move will occur as Southall West Junction is not a mandatory timing point in the downdirectionThere should be no pathing added between Southall and Southall West in the down direction"		
+Hayes & Harlington			
+""			
+Adjustment to Sectional Running Time			
+Movement	Reason	Timing Load	Value
+Trains arriving at Platform 5	Approach control	"345All others"	"{11⁄2}{1}"
+Trains departing from Platform 5	Slow crossover	345	"{1⁄2}approachingnext timingpoint"
+Up freight to Hayes Tarmac Terminal	"Slow speed access viaPosition Light signal"	Freight	{1}
+Up train to Hayes Goods Loop	Approach control	All	{1⁄2}
+""			
+Connectional Allowance	3		
+""			
+Dwell Time			
+Class 165/6	1		
+EMU	1		
+345	1		
+""			
+Platform Reoccupation			
+First Movement	Second Movement	Margin	
+Departure from Platform 4	Arrival into Platform 4 in the Up direction	2	
+Departure from Platform 3	Arrival into Platform 3	2	
+""			
+Turnround allowances			
+Class 165/6	5*		

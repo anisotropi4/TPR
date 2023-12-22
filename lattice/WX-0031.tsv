@@ -1,0 +1,35 @@
+SW140A COSHAM JUNCTION TO FARLINGTON JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Cosham Junction	-	-		To/from Cosham - SW140
+Farlington Junction	-	-		To/from Bedhampton - SW110
+SW145 NORTHAM JUNCTION TO SOUTHAMPTON EASTERN DOCKS				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Northam Junction	-	FL  SL		To/from St Denys - SW105
+Northam Sig. E842		-	S	
+Southampton Dock Gates	-	-		
+Southampton Eastern Docks		-		
+SW150 REDBRIDGE TO SALISBURY TUNNEL JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Redbridge Junction				To/from Redbridge - SW105
+Romsey	-	-		"Platform detail must be shown.To/from Eastleigh East Junction - SW130"
+Mottisfont & Dunbridge	-	-	S	
+Dean	-	-		
+Laverstock South Junction	-	-	X	"Timing point for trains using LaverstockCurve.To/from Laverstock North Junction -SW115B"
+Salisbury Tunnel Junction	-	-		To/from Salisbury - SW115
+SW155 TOTTON FAWLEY LOOPS TO FAWLEY				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Totton Fawley Loops	-	-	S  X	To/from Totton – SW105
+Marchwood	-	-		
+Marchwood MOD	-	-	F	
+Fawley Esso		-	F	
+SW160 BROCKENHURST TO LYMINGTON PIER				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Brockenhurst	-	-		"Platform detail must be shown.To/from Beaulieu Road - SW105"
+Brockenhurst Signal BH16		-	S	
+Lymington Town	-	-	S	
+Lymington Pier		-		

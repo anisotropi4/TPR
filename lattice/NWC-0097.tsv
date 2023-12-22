@@ -1,0 +1,41 @@
+""	NW5005 HEALD GREEN SOUTH JN TO HEALD GREEN WEST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Heald Green South Jn	–	–		To/from Wilmslow – NW5003
+""	Heald Green West Jn	–	–		To/from Manchester Airport – NW5007
+""	NW5007 MANCHESTER AIRPORT TO HEALD GREEN NORTH JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Manchester Airport	–			Platform detail must be shown
+""	Heald Green West Jn	–	–		To/from Heald Green South Jn – NW5005
+""	Heald Green North Jn				To/from Heald Green – NW5003
+NW5008 NORTON BRIDGE TO STONE JN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Norton Bridge	EC	FL		To/from Stafford – NW1001
+Searchlight Lane Jn	DNB SL			To Madeley – NW1001
+Yarnfield Jn	–	UNB EC		To/from Little Bridgeford Jn – NW1001
+Stone	–	–		
+Stone Jn				"For timing purposes this location is shownas Stone.To/from Stoke Jn – NW5009"
+""	NW5009 COLWICH JN TO CHEADLE HULME				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Colwich	–			To/from Rugeley North Jn – NW1001
+""	Stone Meaford Sidings	–	–	F	
+""	Stone	–	–		To/from Norton Bridge – NW5008
+""	Signal SOT510	–	–	S	"For trains reversing on down main to/fromStone Meaford Sidings"
+""	Signal SOT505	–	–	S	"For trains reversing on the up main toStone Meaford Sidings"
+""	Barlaston	–	–	S	
+""	Wedgwood	–	–	S	
+""	Sideway Jn	–		S	Recessed trains only
+""	Stoke Jn	–	–		To/from Foley Crossing SB – NW5012
+""	Glebe Street Jn				"To/from Caldon Quarry – NW5010To/from Viaduct Siding"
+""	Stoke on Trent	–	–		Platform detail must be shown
+""	Stoke North Jn	GL	–	X	
+""	Newcastle Jn	GL	GL	X	
+""	Cockshute Sidings	GL	GL	F	
+""	Cliffe Vale Jn	GL		X	
+""	Granville Sidings		GL	F	
+""	Grange Jn	–	GL	X	
+""	Longport	–	–	S	
+""	Longport Jn	–	–	X	To/from Longport F.D.

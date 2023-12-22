@@ -1,0 +1,34 @@
+NW5007 MANCHESTER AIRPORT TO HEALD GREEN NORTH JN		
+""		
+Manchester Airport		
+""		
+Minimum Turnround Time – Loaded to Loaded trains +		
+Standard	7	
+Transpennine Express Services	17$	
+""		
+"+ Does not apply to through services that call at Manchester Airport$ Does not apply between 21:30 and 05:30 (inclusive) Mondays to Saturdays and 21:30 Saturday to 13:00 Sunday.The Minimum Turnround as stated at the beginning of section 5.3 applies, subject to the minimum being at least 7minutes."		
+Heald Green West Jn			
+""			
+Junction Margins			
+First Movement		Second Movement	Margin
+"Train movement from Heald Green directionover Up Airport line"		"Train movement from Down Airport line to UpChord"	3
+""	NW5008 NORTON BRIDGE TO STONE JN
+""	
+""	Norton Bridge
+""	
+""	See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+""	Yarnfield Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	Trains to Norton Bridge via East Chord	"Differential Junction Speed and approachcontrol"	1⁄2
+""			
+""	Movement Down	Reason	Value
+""	"Trains from East Chord at Yarnfield Jn (showafter Yarnfield Jn)"	Differential Junction Speed	"1⁄2 Passenger2 Freight"
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train towards Stone from Norton Bridge viaEast Chord"	Train towards Norton Bridge via East Chord	3
+""	Stone
+""	
+""	See entry under route NW5009 Colwich Jn to Cheadle Hulme

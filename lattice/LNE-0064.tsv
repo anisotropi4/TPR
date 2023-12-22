@@ -1,0 +1,43 @@
+"LN882 WAKEFIELD KIRKGATE WEST JUNCTION TO GOOLE POTTERS GRANGEJUNCTION"				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Wakefield Kirkgate West Junction				
+Wakefield Kirkgate	–	–		"Platform detail must be shownTo/from Horbury Jn – LN854To/from Wakefield Westgate – LN850"
+Wakefield Withams Cobra	–	–	S	
+Calder Bridge Junction	– UGL	–		"To/from Turners Lane Jn – LN870Trains from Oakenshaw Jn stopping in theLoop must show the stop at Calder BridgeJunction"
+Oakenshaw Junction	–	– UGL	X S	"To/from Oakenshaw South Jn – LN884Trains from Calder Bridge Jn stopping inthe Loop must show the stop atOakenshaw Jn"
+Crofton West Junction	–	–		To/from Hare Park Jn – LN848
+Crofton East Junction	–	–		To/from Oakenshaw South Jn – LN886
+Crofton Depot	–		S	
+Crofton East Spur	–	–	S	
+Streethouse	–	–	S	
+Featherstone	–	–	S	
+Pontefract Tanshelf	–	–	S	
+Pontefract West Junction				To/from Castleford – LN875
+Pontefract Monkhill	–	–		Platform detail must be shown
+Pontefract East Jn	–	–	X	To/from Ferrybridge South Jn – LN892
+Knottingley West Junction	–	–		"To/from Ferrybridge North Jn – LN888To/from Knottingley South Jn – LN888"
+Knottingley	–	–	P	
+Knottingley WRD	UGL		S	
+Knottingley TMD	–		S	
+Knottingley Signal FE6418		–	S	Crew change location
+Knottingley Up Goods Loop		UGL	S	Crew change location
+Knottingley East Junction	–	–  UGL		
+England Lane LC		–	S	
+Sudforth Lane SB	–	–		
+Kellingley Colliery	–		S	
+Sudforth Lane Down Sidings	–	–	S	
+Sudforth Lane Up RS		–	S	
+Whitley Bridge	–	–		
+Whitley Bridge Jn.	–	–	X	
+Eggborough Power Station		–	S	
+Hensall	–	–		
+Drax Branch Junction	–	–		To/from Drax Power Station – LN896
+Snaith	–	–	S	Mandatory in the Up direction only
+Rawcliffe	–	–	S	Mandatory in the Down direction only
+Guardian Glass	–	–	S	
+Goole Potters Grange Junction	–	–	X	To/from Thorne Junction – LN912
+LN884 OAKENSHAW SOUTH JUNCTION TO OAKENSHAW JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Oakenshaw South Jn	–	–		To/from Monk Bretton – LN886

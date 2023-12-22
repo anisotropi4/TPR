@@ -1,0 +1,25 @@
+SW115A ANDOVER TO LUDGERSHALL MOD			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Andover – Ludgershall MOD	One train working	Single line.	
+SW115B LAVERSTOCK NORTH JUNCTION TO LAVERSTOCK SOUTH JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Laverstock North Junction –Laverstock South Junction"	7	7	Track Circuit Block Single line
+SW115C YEOVIL JUNCTION TO YEOVIL PEN MILL			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Yeovil Junction  - Yeovil Pen Mill	AB+2	AB+2	Single line. TCB plan as AB.
+SW120 PIRBRIGHT JUNCTION TO ALTON			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Pirbright Junction – Ash Vale	2	2	
+"Ash Vale – Aldershot NorthJunction"	"3 – Non-stopping31⁄2 -Stopping"	"3 – Non-stopping31⁄2 -Stopping"	
+"Aldershot North Junction –Aldershot"	2	2	
+"Aldershot – Farnham Single LineJunction"	4	4	
+"Farnham Single Line Junction -Bentley"	AB+1⁄2	AB+1⁄2	"Single Line. TCB plan as AB.Passing Loop at Bentley. A train may departsimultaneously with another’s arrival intoBentley"
+Bentley – Alton	AB+1⁄2*	AB+1	"Single line. TCB plan as AB.* Second train cannot arrive at Bentley Platform1 until 1⁄2 minute after the preceding trainarrives at Alton."
+SW120A ALDERSHOT NORTH JUNCTION TO ALDERSHOT SOUTH JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Aldershot North Junction –Aldershot South Junction"	"21⁄2 - Non-stopping21⁄2 -Stopping"	"3 – Non-stopping31⁄2 -Stopping"	

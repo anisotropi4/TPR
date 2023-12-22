@@ -1,0 +1,34 @@
+""	First Movement									
+""		Pass P1	"DepartPl"	Pass P2	"ArriveP2"	"Pass P3inDOWN"	"Pass P3in UP viaDT"	"DepartP3 inDOWN"	"PassP4"	Arrive P4
+Pass P1			Parallel	Parallel	"3 to DR4 to DM"	Parallel	4	Parallel	Parallel	
+Depart P1			Parallel	Parallel	2	Parallel	3	Parallel	Parallel	
+"Pass P2from ML"	Parallel	Parallel			3	3	3	4	4	
+"Pass P2from RL"	Parallel	Parallel			4	4	4	4	4	
+Arrive P2	Parallel	Parallel			41⁄2	4	Parallel	Parallel	Parallel	
+"Pass P3 inDOWN"	4	4	3	3		41⁄2		Parallel	Parallel	
+"Arrive P3 inDOWN"	Parallel	Parallel	Parallel	Parallel		5		Parallel	Parallel	
+"Depart P3in DOWN"	2	4	2	2				Parallel	Parallel	
+"Pass P3 inUP via DT"	Parallel	Parallel	4	4	41⁄2		5	4	4	
+"Depart P3in UP viaDT"	Parallel	Parallel	Parallel	Parallel	"41⁄2 toarrive"		"4 toarrive"	4	4	
+Pass P4	Parallel	Parallel	4	4	Parallel	5	Parallel			
+Depart P4	Parallel	Parallel	"4 toarrive"	"4 toarrive"	Parallel	4	Parallel			
+""										
+Note: Refer to section 4.3 regarding freight movements through the Severn Tunnel										
+""	Llanwern West Junction			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	Down Main to Down Relief	Slower speed turnout	"All trains timedover 75mph"	{1⁄2}
+""	Up Relief to Up Service Line	Slow speed turnout	All	{2}
+""	From Up Relief at Llanwern Jn to Up Main	"Slow speed turnout atLlanwern West"	All	"{1} Approachingnext timing point"
+""	Down Service Line to Down Relief	Slow speed turnout	All	"{2} Approachingnext timing point"
+""	Maindee East Junction
+""	
+""	"The single line from Maindee North junction cannot be re-occupied until 3 minutes after the previous train haspassed Maindee North Jn in the Hereford direction or 2 minutes after it has passed Maindee East in the LlanwernWest Jn direction."
+""	Newport		
+""			
+""			
+""	First Movement	Second Movement	Margin
+""	Dep via ML towards Ebbw Jn*	"Arrive/Pass Newport (S. Wales)from Gaer Jn via DM"	51⁄2
+""	Pass via ML towards Ebbw Jn*	"Arrive/Pass at Newport (S. Wales)from Gaer Jn via DM"	5
+""	Pass/depart to Maindee North Jn	"Pass/depart to Maindee East Jn viaML"	3

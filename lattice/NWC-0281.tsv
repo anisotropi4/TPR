@@ -1,0 +1,36 @@
+""	Warrington R.M.T.					
+""						
+""	For southbound departures/arrivals:					
+""		ARR	DEP		ARR	DEP
+""	Warrington R.M.T.		XX.00	Warrington Bank Quay*		"XX/00 orXX.00"
+""			"""-"""			"""FL"" ""USL"""
+""	Dallam Jn		XX/02	Dallam Jn		XX/02
+""			"""FL"" ""SL"""			"""-"""
+""	Warrington Bank Quay		XX/04*	Warrington R.M.T.	XX.05	
+""	* Add {1} between Acton Grange Jn and Warrington Bank Quay.					
+""						
+""	Junction Margins					
+""	First Movement	Second Movement	Margin			
+""	"Train on Down Fast Line crossing at Dallam Jnto Up Slow Line and then running into theR.M.T."	Train on Up Slow Line	3			
+""						
+""	"RestrictionWTT services using the bay platforms at Warrington R.M.T. should not be planned to use diesel traction."					
+""	Winwick Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All trains on Down Fast from Dallam Bridgejoining Down Earlestown"	Approach control	"1⁄2 BeforeWinwick Jn."
+""	"All trains on Down Slow from Warrington BankQuay joining Down Main"	Approach control	"1⁄2 BeforeWinwick Jn."
+""			
+""	Movement Up	Reason	Value
+""	All trains joining Up Fast from Up Earlestown	Acceleration from slower speed junction	"1⁄2 AfterWinwick Jn."
+""	Golborne Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All trains formed of Classes 185, 220, 221, 390,80x, HST joining Down Slow from DownLowton"	Acceleration from Slow Speed Junction	"1⁄2 AfterGolborne Jn"
+""	"Trains from Winwick Jn. joining Down Slowfrom Down Main (multiple units and HST)"	Approach Control	1⁄2
+""	"Trains from Winwick Jn. joining Down Slowfrom Down Main (LH coaching stock)"	Approach Control	1
+""	"Trains from Winwick Jn. joining Down Slowfrom Down Main (freight timed at 75mph)"	Approach Control	1⁄2
+""	"All MU and HST trains joining Down Main fromDown Lowton"	Acceleration from Slow Speed Junction	"1 afterGolborne Jn."
+""	"All LH trains joining Down Main from DownLowton"	Acceleration from Slow Speed Junction	"11⁄2 afterGolborne Jn."
+""	"All freight trains joining Down Main from DownLowton with trailing load of less than 1200t"	Acceleration from Slow Speed Junction	"2 afterGolborne Jn."

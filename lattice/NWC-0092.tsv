@@ -1,0 +1,25 @@
+""	NW4019 OXENHOLME TO WINDERMERE				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Oxenholme Lake District	–	–		"Platform detail must be shownSingle line from Oxenholme Lake Districtto/from WindermereTo/from Carnforth North Jn – NW4001"
+""	Kendal	–	–	S	
+""	Burneside (Cumbria)	–	–	S	
+""	Staveley (Cumbria)	–	–	S	
+""	Windermere		–		
+""	NW4021 UPPERBY JN TO ROME STREET JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Upperby Jn	– GL	GL		"To/from Upperby Bridge Jn (via GoodsLines) – NW4001To/from Carlisle – NW4001To/from London Road Jn – NW4023"
+""	Bog Jn	– GL	GL		"To/from Currock Jn – NW4025To/from London Road Jn – NW9911"
+""	Rome Street Jn				"To/from Metal Box Siding (24 chains fromBog Jn)"
+""	Note: Bog Jn to Rome Street Jn is not currently used for timing purposes				
+""	NW4023 UPPERBY JN TO LONDON ROAD JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Upperby Jn	GL	GL		"Single line from Upperby Jn to/fromLondon Road JnTo/from Upperby Bridge Jn (via GoodsLines) – NW4001"
+""	London Road Jn	–	GL		To/from Petteril Bridge Jn – NW9901
+""	NW4025 CURROCK JN TO BOG JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Currock Jn	–	–		To/from Wigton – NW4033
+""	Bog Jn	– GL	–		"To/from Upperby Jn – NW4021To/from London Road Jn – NW9911"

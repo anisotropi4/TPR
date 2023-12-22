@@ -1,0 +1,45 @@
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Down pass to Fowey branch	Down arrive	51⁄2
+""	Down pass to Fowey branch	Down pass	6
+""	Up pass from Fowey branch	Down depart DGL or UGL	3
+""	Up pass from Fowey branch	Down pass/arrive	31⁄2
+""	Up pass from Fowey branch	Up arrive	51⁄2*
+""	Up pass from Fowey branch	Up pass	6*
+""	*Does not apply where first train is routed to DGL		
+""			
+""	Dwell Time		
+""	80x Class 1 Services	11⁄2	
+""	Class 158	1	
+""			
+""	Maximum Dwell Time		
+""	Up direction - 3 minutes*		
+""	"*To minimise level crossing barrier down time Up trains stopping at Lostwithiel are to be advertised earlier by theamount of recovery / pathing allowances between the previous stop and Lostwithiel"		
+""	Par			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	Down pass/arrive platform 2 or 3	Approach control	"PassengerFreight"	"{2}{11⁄2}"
+""	Down to UGL or Par Liner Siding	Approach control	Freight	{2}
+""	Up arrive platform 3 from St Austell	Approach control	All	{11⁄2}
+""	From platform 3 to Lostwithiel	Acceleration	"15x & GWR ShortForm HST(HSTGW4)"	"{1⁄2} approachingnext timing point"
+""	HST/22x/80x	"{1} approachingnext timing point"		
+""	Freight	"{2} approachingnext timing point"		
+""	Down pass from DGL	Acceleration	All	"{1⁄2} approachingnext timing point"
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Down depart/pass platform 2 or 3 to StAustell"	Up arrive/pass from St Austell	4	
+""	Platform departure/pass	Opposite direction same platform arrival	4*	
+""	"Up depart/pass platform 2 or 3 towardsLostwithiel"	"Down arrive/pass into platform 2 or 3 fromLostwithiel"	4#	
+""	Depart Par P3 towards St Blazey SB	Arrive Par P3 from St Blazey SB	3	
+""	*Can be reduced to 3 minutes if first train is to St Blazey and second train is from St Blazey			
+""	"# 5 minutes for second movement is freight DM to P3"			
+""				
+""	Platform End Conflicts			
+""	"A Train from the Newquay direction cannot arrive into Platform 3 at Par until 4 minutes after the preceding updirection service from platform 2."			
+""				
+""	Overlap Restrictions			
+""	First Movement	Second Movement	Margin	
+""	"Down depart platform 2 or 3 towards StAustell"	Down arrive platform 1	3	

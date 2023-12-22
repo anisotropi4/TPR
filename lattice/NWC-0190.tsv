@@ -1,0 +1,32 @@
+""	Nuneaton		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Down Fast to Platform 1 or 2 (if stopping)	"Slow speed crossover at Nuneaton South Jn,Approach Control"	1
+""	Down Fast to Platform 1 or 2 (non-stop trains)	"Slow speed crossover at Nuneaton South Jn,Approach Control"	2
+""	Depart platforms 1 or 2 to Down Fast	"Acceleration after passing Nuneaton NorthJunction"	"1approachingAmington Jn"
+""	Pass platforms 1 or 2 to Down Fast	"Acceleration after passing Nuneaton NorthJunction"	"2approachingAmington Jn"
+""	Depart platform 5 to Down Fast or Down Slow	"Acceleration after passing Nuneaton NorthJunction"	"1 approachAmington Jn"
+""	Pass platform 5 to Down Fast or Down Slow	"Acceleration after passing Nuneaton NorthJunction"	"2 approachAmington Jn"
+""			
+""	Movement Up	Reason	Value
+""	Up Fast to Platform 5 (if stopping)	"Slow speed crossover at Nuneaton North Jn,approach control"	1
+""	Up Fast to Platform 5 (non-stop trains)	"Slow speed crossover at Nuneaton North Jn,approach control"	2
+""	Depart platform 5 to Up Fast	Slow speed crossover at Nuneaton South Jn	"1 approachRugby TrentValley Jn *"
+""	Pass platform 5 to Up Fast	Slow speed crossover at Nuneaton South Jn	"2 approachRugby TrentValley Jn *"
+""	* - allowance to be inserted at High Oaks Jn or Newbold Jn if crossing there prior to Rugby Trent Valley Jn		
+""			
+""	Dwell Time		
+""	Class 22x/390/80x	11⁄2	
+""	All other DMU/EMU	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train from Hinckley direction to Canal Farm Jnvia Midland Yard Jn (Nuneaton North Chord)"	Train from Abbey Jn via Platform 7	5
+""	"Train from Hinckley direction to Canal Farm Jnvia Midland Yard Jn (Nuneaton North Chord)"	Train from Abbey Jn stopping at Platform 6	Parallel*
+""	"Train from Hinckley direction to Canal Farm Jnvia Midland Yard Jn (Nuneaton North Chord)"	Train from Abbey Jn passing Platform 6	1*
+""	"Train to Hinckley passing or departing fromplatform 7"	"Train from Hinckley to Canal Farm Jn viaMidland Yard Jn (Nuneaton North Chord)"	4
+""	"Train to Hinckley passing or departing fromplatform 6"	Train from Hinckley to platform 6	4
+""			
+""	* These moves are parallel at Midland Yard Jn		
+""			

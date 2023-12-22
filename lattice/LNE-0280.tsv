@@ -1,0 +1,44 @@
+LN868 WINCOBANK JUNCTION TO HORBURY JUNCTION VIA BARNSLEY		
+Meadowhall		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Trains from Barnsley to Platform 4	Approach Control	1
+""		
+Dwell Time		
+All	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Platform 4 to Barnsley	Arrive Platform 4 from Barnsley	4
+Depart Platform 4 to Sheffield via SL	Arrive Platform 4 from Sheffield via DF	3
+""		
+Minimum Turnround	5 Platform 4 only from Barnsley or Sheffield	
+Barnsley		
+""		
+Dwell Time		
+All	1	
+Adjustment to Sectional Running Times		
+Movement Up	Reason	Value
+Up Train arriving down platform	Approach control	1
+Up train from Penistone, not stopping	Acceleration	1⁄2
+Platform 2 to Up Main	Low speed crossover	1⁄2
+Movement Down	Reason	Value
+Down train to Penistone, not stopping	Approach control	2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive/pass from Penistone	Depart to Penistone	Same time
+Arrive/pass from Penistone	Pass to Penistone	1
+Arrive/pass from Penistone	Pass to Wakefield	31⁄2
+Depart/pass to Wakefield	Arrive/pass from Penistone	4
+Arrive/pass from Penistone	Depart to Wakefield	1
+Depart to Sheffield from Down platform	Arrive/pass Down platform from Sheffield	41⁄2
+"Depart/pass Down platform toPenistone/Wakefield"	Arrive Down platform from Penistone/Wakefield	4
+Depart to Sheffield	Arrive from Wakefield or from Penistone	4
+""		
+Minimum Turnround		
+"From Sheffield, Huddersfield orLeeds"	7	
+"From Sheffield, Huddersfield orLeeds including shunt"	12	
+"From other locations excludingLondon St Pancras beyondSheffield, Huddersfield or Leedsincluding shunt if required"	15	
+"From London St Pancras includingshunt if required"	20	

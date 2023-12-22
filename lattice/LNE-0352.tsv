@@ -1,0 +1,29 @@
+LN842 THORPE MARSH JUNCTION TO ADWICK JUNCTION					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Sundays					
+Approach Applehurst Junction	E	3	3	3	
+LN852 HOLBECK JUNCTION TO BRADFORD INTERCHANGE					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Up – Sundays					
+Approach Holbeck Junction	P		2*		"* 1 minute for trains from Halifax, HebdenBridge or Huddersfield."
+LN860 DIGGLE JUNCTION TO COPLEY HILL EAST JUNCTION					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Sundays					
+Approach Huddersfield	E		1		Terminating trains only
+""	P		1		Terminating trains only
+Up – Sundays					
+Approach Huddersfield/Marsden	E		1		Terminating trains only
+Approach Heaton Lodge Junction	P		1		Stopping services from Leeds direction
+LN862 BARNSLEY STATION JUNCTION TO HUDDERSFIELD					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	Cl 6	Remarks
+""					
+Down – Sundays					
+Approach Penistone	P		1		
+Approach Huddersfield	E	1	1		
+""	P		1⁄2		
+Up – Sundays					
+Approach Barnsley	E	1	1		
+P		1			

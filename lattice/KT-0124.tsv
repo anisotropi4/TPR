@@ -1,0 +1,39 @@
+""	Buckland Junction	
+""		
+""	Junction Margins	Margin
+""	Between all conflicting movements	2
+""	Dover Priory
+""	See entry under route SO130
+""	SO170 TONBRIDGE TO BOPEEP JUNCTION
+""	
+""	Tonbridge
+""	See entry under route SO130
+""	Somerhill Tunnel		
+""			
+""	Junction Margins		
+""			
+""	First Movement	Second Movement	Margin
+""	Up Train	Down Train	2
+""	Down Train	Up train	3
+""	Wells Tunnel Junction	
+""		
+""	Junction Margins	Margin
+""	Between all conflicting movements	2
+""	Tunbridge Wells and Tunbridge Wells Turnback Siding			
+""				
+""	Berthing Facilities			
+""	Location	Cars	Notes	
+""	Turnback Siding	12		
+""				
+""	Connectional Allowance	4		
+""				
+""	Dwell Time			
+""	All Services	1		
+""				
+""	Junction Margins			
+""	First Movement		Second Movement	Margin
+""	Up train arrives		Down train departs	1
+""	"Train departs from Turnback Siding towardsPlatform 1"		An Up train arrives in Platform 2	6
+""	"Train departs from Platform 1 towardsTurnback Siding"		An Up train arrives in Platform 2	6
+""	"Train departs from Platform 1 towardsTurnback Siding"		"A Down train departs Platform 2 towards Frantor the Turnback Siding"	5
+""	"Train arrives in Platform 1 from the TurnbackSiding"		"Train departs Platform 2 towards Frant orTurnback Siding"	1

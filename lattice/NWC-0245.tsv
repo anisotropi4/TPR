@@ -1,0 +1,17 @@
+""	Kingsbury Jn			
+""				
+""	"Pass from Whitacre Jn to Tamworth (notstopping at Wilnecote or Tamworth)"	Junction speed differential and acceleration	"1 17011⁄2 22x andHST75mphfreight:11⁄2 to 400t2 600t/TR40and above60mphfreight:1⁄2 to600t/TR401800t/1000t/TR5511⁄21200t/1400t/TR702 1600t/TR8521⁄2 1800t-2200t/TR100-11532400t/TR130and above"	
+""	* Approaching next timing point			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Train from Tamworth	"Train departing Kingsbury Shunt FrameKingsbury Reception Sidings towardsKingsbury Jn or Tamworth"	1	
+""	"Passenger train from Water Orton or WhitacreJn"	"Train departing Kingsbury Shunt FrameKingsbury Reception Sidings towardsTamworth"	2	
+""	Freight train from Water Orton or Whitacre Jn	"Train departing Kingsbury Shunt FrameKingsbury Reception Sidings towardsTamworth"	3	
+""	"Train from Tamworth that has propelled atKingsbury Branch Jn and arrived at KingsburyReception Sidings"	Train from Tamworth	3%#	
+""	"Train towards Tamworth that has propelledfrom Kingsbury Reception Sidings and arrivedat Kingsbury Branch Jn"	Train from Tamworth	3%#	
+""	"Train towards Tamworth that has propelledfrom Kingsbury Reception Sidings and arrivedat Kingsbury Branch Jn"	Train from Water Orton or Whitacre Jn direction	4	
+""	"Train from Kingsbury Jn arrive KingsburyReception Sidings"	Passenger train from Tamworth	2%	
+""	"Train from Kingsbury Jn arrive KingsburyReception Sidings"	Freight train from Tamworth	4#	
+""	"Train from Kingsbury Jn arrive KingsburyReception Sidings"	"Passenger train from Water Orton or WhitacreJn direction"	2	
+""	"Train from Kingsbury Jn arrive KingsburyReception Sidings"	Freight train from Water Orton or Whitacre Jn	4	

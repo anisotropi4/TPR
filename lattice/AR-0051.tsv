@@ -1,0 +1,38 @@
+EA1510 REEDHAM JUNCTION TO YARMOUTH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Reedham Junction				Single line.  To/from Norwich – EA1470
+"Reedham Junction SignalYL8462"		-	S	
+Berney Arms	-	-	S	
+Great Yarmouth	-	-		Platform detail must be shown
+EA1520 SAXMUNDHAM JUNCTION TO SIZEWELL				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Saxmundham Junction	-	-	X	"Single line.Timing point for trains to and from Leiston andSizewellTo/from Saxmundham – EA1430"
+Sizewell CEGB	-	-	F	
+EA1530 COLDHAM LANE JUNCTION TO HAUGHLEY JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Coldham Lane Jn	-	-		To/from Cambridge – EA1161
+Dullingham	-	-		Platform detail must be shown
+Newmarket	-	-	S	
+Chippenham Jn	-	-		To/from Ely Dock Jn – EA1540
+Kennett	-	-		
+Kennett Ground Frame	-		F	Access from Down Bury only
+Kennett Redland Siding	-	-	F	Only trains using Redland Sidings
+"Bury St Edmunds DownGoods Loop"	-		S	
+Bury St Edmunds Recp	-	-	F	
+Bury St Edmunds Sig BY19	-		S	Reversing trains only
+Bury St Edmunds	-	-		Platform detail must be shown
+Thurston	-	-	S	
+Elmswell	-	-	S	
+Haughley Jn	-	-		To/from Stowmarket – EA1012
+EA1540 CHIPPENHAM JUNCTION TO ELY DOCK JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Chippenham Junction	-	-		To/from Haughley Junction – EA1530
+"Snailwell Ground FrameSignal 1182"	-	-	S	"Timing point for trains from Ely directionpropelling into Snailwell Sidings"
+Snailwell Siding	-	-	F	Access from Up Ely only
+"Soham Junction SignalCA491"	-		S	
+Soham	-	-		Single line
+Ely Dock Junction	-	-		Single line.  To/from Ely – EA1161

@@ -1,0 +1,32 @@
+""	Salford Crescent	
+""		
+""	"* Margins reduced to 3 minutes if the second train has a minimum of 1 minute pathing time approaching SalfordCrescent."	
+""		
+""	Other Restrictions	
+""	Between 0030 and 0800 Sundays, only one platform line is available	
+""		
+""	Platform Reoccupation Margin	
+""	Same direction	21⁄2
+""	Brindle Heath Arrival and Departure Line		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Down train arrives Brindle Heath Arrival andDeparture Line"	"Down train departs or passes Salford Crescenttowards Bolton"	Same time
+""	"Up train arrives or passes Agecroft South Jnfrom Brindle Heath Arrival and Departure Line"	"Down train departs or passes Salford Crescentfor Bolton"	Same time
+""	"Up train arrives or passes Salford Crescentfrom Bolton"	"Up trains depart from Brindle Heath UpSidings/Brindle Heath Arrival and DepartureLine"	Same time
+""	"Up train arrives at Brindle Heath Up Sidings orBrindle Heath Arrival and Departure Line(Propelling/reversal move)"	"Up train arrives or passes Salford Crescentfrom Bolton"	6
+""	"Down passenger service from Salford Crescenttowards Bolton"	"Down freight for Brindle Heath Arrival andDeparture Line"	3
+""	Brindle Heath Waste Terminal
+""	
+""	Planning Note
+""	"Trains to Brindle Heath Waste Terminal over 315m/1033ft/49SLU will occupy Brindle Heath Arrival and DepartureLine until booked departure time. No other movements are permitted on the Brindle Heath Arrival and DepartureLine during this time."
+""	Burnden Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Up	Reason	Value	
+""	Departures from Bolton Platforms 4 or 5	Slow speed over junction	"1⁄2 to beaddedapproachingnext timingpoint"	
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	Passenger pass to platform 5 at Bolton	Passenger pass to platform 1, 2 or 3 at Bolton	2*	
+""	* Second train must have a minimum of (1) approaching Burnden Jn			

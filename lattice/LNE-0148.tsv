@@ -1,0 +1,35 @@
+Black Carr Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Loversall Carr Junction	Pass from Bessacarr Junction	31⁄2
+Decoy North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Cross to WSL	Next train passes Loversall Carr	3
+Down pass/arrive Doncaster	Pass DSL to FL	Same time
+Doncaster Carr IEP Depot
+""
+Restrictions
+"•Arrivals – No more than four arrivals onto the depot within any 60 minutes period. Minimum time betweenarrivals must be 10 minutes.•Departures – No more than four departures from the depot within any 60 minutes period. Minimum timebetween departures must be 10 minutes."
+Doncaster			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason		Value
+Trains arriving Platform 5	TPWS		1⁄2
+Depart Platform 8 to Down Main	Slow Access to Down Main Line		"1 passengerapproachingShaftholmeJunction"
+""			
+Movements Up	Reason		Value
+"Trains diverging from Up Fast and stopping atPlatform 3b (via 2463pts)"	Approach control		1⁄2 221
+"Depart Platform 3b towards HexthorpeJunction"	Low speed crossover		"1⁄2 221approachingHexthorpeJunction"
+"Trains from Up Leeds line if diverging to down-side. Approaching Doncaster"	Approach control		"1 (exceptDMU/EMUs)"
+"Trains from Up Leeds line if diverging to UpEast Slow line. Approaching Doncaster"	Approach control		2
+Trains arriving Platforms 6 and 7	TPWS		1⁄2
+Trains from Up Fast to Down side platforms	Approach control		"1 Passenger2 Freight"
+""			
+Connectional Allowance	7		
+""			
+Dwell Time			
+DMU	2		
+LH/80X	2		

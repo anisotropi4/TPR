@@ -1,0 +1,7 @@
+Norwood Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Newcastle	Pass to Tyne Yard	3
+Pass to Tyne Yard	Depart/Pass from Newcastle	3
+Pass from Tyne Yard	Pass to Tyne Yard	4

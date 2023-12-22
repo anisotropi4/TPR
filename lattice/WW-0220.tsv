@@ -1,0 +1,49 @@
+""	Newtown		
+""			
+""	Down DMU into Down platform	Up DMU into Up platform	21⁄2
+""	Down DMU into Down platform	Up Loco hauled into Up platform	4
+""	Down Loco Hauled into Down platform	Up DMU into Up platform	31⁄2*a
+""	Down Loco Hauled into Down platform	Up Loco hauled into Up platform	4*b
+""	Down DMU into Up Platform	Up DMU into Down platform	11⁄2
+""	Down DMU into Up platform	Up loco hauled into Down platform	3
+""	Down Loco hauled into Up platform	Up DMU into Down platform	3
+""	Down Loco hauled into Up platform	Up Loco hauled into Down platform	5
+""	* This applies to down train comprising light locos and trains up to 120m long		
+""	a 4 for over 120m		
+""	b 41⁄2 for over 120m		
+""	Caersws	
+""		
+""	Dwell Time	
+""	Power	1
+""	Talerddig		
+""			
+""	Dwell Time		
+""	Power	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	DMU into Up loop	DMU passes on Down loop	11⁄2
+""	DMU into Up loop	Loco hauled passes on Down loop	21⁄2
+""	Loco Hauled into Up loop	DMU passes on Down loop	21⁄2
+""	Loco Hauled into Up loop	Loco hauled passes on Down loop	31⁄2
+""			
+""	The first train into Talerddig MUST use the up loop.		
+""	Machynlleth		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Dovey Jn to Machynlleth	Approach control for attaching moves	{2}
+""			
+""	Attachment Allowance	5	
+""	Detachment Allowance	6	
+""	Connectional Allowance	4	
+""	Dwell Time		
+""	Power	2	
+""			
+""	Platform end conflicts		
+""	First Movement	Second Movement	Margin
+""	Up DMU into Up platform	"Down DMU along/ from Down Loop into Downplatform"	11⁄2
+""	Up DMU into Up platform	"Down Loco hauled along/ from Down Loop intoDown platform"	2
+""	Up Loco Hauled into Up platform	Down DMU from Talerddig into Down platform	31⁄2
+""	Up Loco Hauled into Up platform	"Down Loco hauled from Talerddig into Downplatform"	41⁄2
+""	Platform end conflicts		

@@ -1,0 +1,40 @@
+""	Bristol Parkway		
+""			
+""		From Platform 1 or 2, or DGL	
+""	"Up train to Platform 1, DGL or Up Badminton /Platform 3 (from the Avonmouth Line)"	"Down train from Platform 1, 2, 3 or 4, orfrom the DGL or UPL to Patchway, Filton orAvonmouth"	2
+""	"Down train from UPL, DGL or Platform 1, 2, 3 or4"	"Up train to Up Badminton / Platform 3 orUPL from Avonmouth"	6
+""	Up train from Filton arriving platform 3, 4 or UPL	"Up train from Filton arriving platform 3, 4 orUPL"	3
+""	Down train arriving or departing Platform 2	Down train departing Platform 4	2
+""	"Freight Train arrives Stoke Gifford Yardreversing using Signal B589."	Down train arrives or passes Platform 2.	2
+""	"Up train from Filton arriving platform 3, 4 orUPL"	"Down train to Patchway from platform 1, 2or DGL"	"1⁄2 - afterpassenger1 – after freight"
+""	"Up train from Patchway arriving platform 3, 4 orUPL"	"Up train from Filton arriving platform 3, 4 orUPL"	21⁄2
+""	Down train to Filton from platform 3 or 4	"Up train from Patchway arriving platform 3,4 or UPL"	31⁄2
+""	Down train to Patchway	Conflicting arrival from Filton Abbey Wood	3
+""			
+""	East End		
+""	First Movement	Second Movement	Margin
+""	Down train arriving DGL	Down train arriving platform 1 or 2	31⁄2
+""	Down train arrive platform 4 or UPL	Up train pass platform 3	4
+""	"Up train from the DGL or Platform 1 to the UpBadminton"	"Down train to Platform 3, Platform 2 or theUPL"	4
+""	Down train from Platform 4	Down train arriving Platform 2	2
+""	Down train from Platform 3	Down train arriving/passing Platform 2	4
+""	Up train from Platform 3 to Up Badminton	Down train to the UPL	3
+""			
+""	Junction Margin		
+""	First Movement	Second Movement	Margin
+""	Train from Filton Abbey Wood into platform 1	"Train Departs Platform 2 towards FiltonAbbey Wood"	1 minute
+""	Train from Filton Abbey Wood into Platform 1	"Train Passes platform 2 towards FiltonAbbey Wood"	3 minutes
+""			
+""	Reversals and Run-Rounds En Route		
+""	DMU	3#	
+""	"# : For reversing in Platforms 3 and 4 only, when reversing via the “east end” 10 minutes"		
+""	Patchway			
+""				
+""	Adjustment to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	Pass to Filton Abbey Wood	Flashing Yellow Signals	170/22x/HST/80x	{1⁄2}
+""	Pass to Bristol Parkway running DT	Approach control	All	{1}
+""				
+""	Planning Note			
+""	"150,158 and HSTGW4 SRTs are based on running to/from Filton Abbey Wood therefore no adjustment isrequired."			
+""				

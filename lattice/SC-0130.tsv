@@ -1,0 +1,21 @@
+Mossend South Junction				
+""				
+Adjustments to Sectional Running Times				
+Movement Down	Reason	Value		
+Pass to Mossend East Junction	"Approach control before Mossend SouthJunction"	1⁄2		
+"Pass to North Junction, going to MossendYards and Down Goods Loop"	"Approach Control before Mossend SouthJunction"	2		
+Down train from Ravenscraig Siding	Acceleration	1		
+""				
+Movement Up	Reason	Value		
+Up train from East or West Junction	Acceleration (	does not apply to EMUs)		1
+""				
+Junction Margins				
+First Movement	Second Movement	Margin		
+"Pass to Mossend North or Mossend EastJunction"	Pass from Mossend West Junction	21⁄2		
+"Pass Up from Bellshill / Mossend NorthJunction"	Pass Down to Mossend East Junction	Pass Down to Mossend East Junction	2	
+Pass Up	"Depart Braidhurst Down Loop to MossendEast Junction"	1		
+Up train from Mossend East Junction	Up Train from Mossend North Jn	3		
+Pass Mossend East Junction towards Bellshill	Pass Down to Mossend East Junction	31⁄2		
+""				
+"NotePathing time cannot be applied between Mossend South Junction and Mossend East Junction due to overlaprestrictions"				
+Pass Down to Mossend East Junction	Pass Down to Mossend East Junction

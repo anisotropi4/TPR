@@ -1,0 +1,19 @@
+""	"Shunt move from E619signal arrives Tauntonplatform 2 or 3"	"Conflicting down trainpasses Taunton"	4	
+""	"Shunt move from E619signal arrives Tauntonplatform 2"	"Down train arrivesTaunton platform 3"	3	"Shunt move should arriveplatform 3 and down trainuse platform 2 if possible"
+""	Fairwater Yard
+""	
+""	"Access to/from Fairwater Yard in the Cogload direction is only via the Up/Down Relief line. Such trains shouldbe timed to run via the UDR to gain the main lines at Taunton East Junction."
+""	Norton Fitzwarren Jcn			
+""				
+""	"Access to/from West Somerset Railway is only via the Up/Down Relief line – there is no route to/from the mainlines. Access to/from the Up/Down Relief to/from the main lines is via Taunton East Junction."			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	Up Main to Down/Up Relief	"25mph crossoverand approachcontrol"	All traffic	{1}
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown after this location)			
+""	Movement	Reason	Timing Load	Value
+""	"Trains on the Down Main at NortonFitzwarren having stopped atTaunton"	"Not at line speed atNorton Fitzwarren"	"150 to 166 / GWR Short FormHST (HSTGW4)80xD455LD60LD75Class 6 400t-1800t/TR40-TR100Class 6 2000t-3000t/TR115-TR130"	"{1⁄2}{1⁄2}{1⁄2}{1⁄2}{1⁄2}{1⁄2}{1}"
+""	"Trains from Fairwater Yard or theDown/Up Relief / Taunton Goodspassing Norton Fitzwarren"	"Not at line speed atNorton Fitzwarren"	"150 to 166 / GWR Short FormHST (HSTGW4)HST/ 80x22x75-57350D455LD60LD75Class 6 400t-600t/TR40Class 6 800t-1200t/TR55-TR70Class 6 1400t-1800t/TR85-TR100Class 6 2000t-2400t/TR115-TR130Class 6 2600t-3000t"	"{1⁄2}{1}{1}{1}{1⁄2}{1}{11⁄2}{1}{11⁄2}{2}{21⁄2}{3}"
+""	Tiverton Parkway
+""	

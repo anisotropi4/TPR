@@ -1,0 +1,27 @@
+EA1430 EAST SUFFOLK JUNCTION TO OULTON BROAD NORTH				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Saxmundham	-	-		Platform details must be shown
+"Saxmundham TamperSiding"		-	S	
+Saxmundham Junction	-	-	X	"Timing point for trains to and from Leiston andSizewellTo/from Sizewell – EA1520"
+Darsham	-	-		All Up trains must show a stop here
+Halesworth	-	-		
+Brampton	-	-	S	Single line
+Beccles	-	-		Passing Loop. Platform details must be shown
+Oulton Broad South	-	-	S	Single line
+"Oulton Broad NorthJunction"	-	-		To/from Lowestoft – EA1470
+EA1440 WESTERFIELD JUNCTION TO FELIXSTOWE TOWN				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Westerfield Junction	-	-		Single line.  To/from Westerfield – EA1430
+Derby Road	-	-		Platform detail must be shown
+Levington Signal FW9017	-			"Intermediate Signal. Timing point for Downdirection services Tiploc – DERB017"
+Levington Signal FW9018		-		"Intermediate Signal. Timing point for Updirection services Tiploc – DERB018"
+Levington Signal FW9023	-			"Intermediate Signal. Timing point for Downdirection services Tiploc – TRIM023"
+Levington Signal FW9024		-		"Intermediate Signal. Timing point for Updirection services Tiploc – TRIM024"
+Gun Lane Junction	FS TL	-		
+Trimley Signal FW9029	FS		S	"Timing point for trains booked to stop or reverseat FW9029 Tiploc – TRIM029"
+Trimley Signal FW9031	TL		S	"Timing point for trains booked to stop or reverseat FW9031 Tiploc – TRIM031"
+Trimley	-	FS TL		"To/from Felixstowe North and CentralTerminals – EA1450"
+Felixstowe Beach Junction	-	-		To/from Felixstowe Beach – EA1460
+Felixstowe Town	-	-		

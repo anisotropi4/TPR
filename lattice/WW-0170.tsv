@@ -1,0 +1,30 @@
+Movement	Reason	"TimingLoad"	Value
+From the Down Main to Down Loop	Slow speed at loop entry (25 mph)	All traffic	+{1}
+Barnwood Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown after this location)			
+Movement	Reason	Timing Load	Value
+"From Gloucester to Cheltenham SpaPass to Pass and Pass to Stop"	Slow speed junction	"D245 – 455HST/22X/150/158/16x170"	+{1}
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"From Cheltenham Spa to GloucesterStart to Pass and Pass to Pass"	Slow speed junction	"D245 - D455HST/22X/150/158/16x170"	+{1}
+""			
+Junction Margins (Northbound trains)			
+First Movement	Second Movement	Margin	Notes
+"Up train from Standishjunction direction passingBarnwood Junction fromthe Up Avoiding line"	"A train from Gloucesterpasses Barnwood Jnto the Up Avoiding line"	21⁄2	"Headway must be compliant at nextmandatory TIPLOC"
+Gloucester Yard Junction					
+""					
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)					
+Movement		Reason	Timing Load		Value
+"Trains from the direction of Stroud joiningat Standish Junction"		"SRT differential after Slow speedturnout at Standish Junction"	"HST/D245-D455Not to apply toClass 800"		{1}
+""		"22X/15X/16x/GWRShort Form HST(HSTGW4)Not to apply toClass 800"		{1⁄2}	
+"Trains towards Gloucester Horton RoadJunction"		"SRT differential Slow speedturnout at Gloucester YardJunction"	"170/22x/HST/D245-D455Not to apply toClass 800"		{1}
+""			"15X/16xNot to apply toClass 800"		{1⁄2}
+""					
+Junction Margins (Southbound trains)					
+First Movement	Second Movement	Margin	Notes		
+"A Down train fromCheltenham Spa directionpassing Gloucester YardJn from the DownAvoiding Line"	"A train from Gloucesterpasses Gloucester YardJn to the Down Charfield"	21⁄2	"Headway must becompliant at nextmandatory TIPLOC"		
+Haresfield Up and Down Loops				
+""				
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)				
+Movement		Reason	"TimingLoad"	Value

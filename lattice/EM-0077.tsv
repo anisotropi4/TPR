@@ -1,0 +1,26 @@
+Loughborough North Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Fast to Down Slow	Up Fast to Up Fast passenger pass Loughborough	3
+Down Fast to Down Slow	Up Fast to Up Fast passenger arrive Loughborough	31⁄2
+Down Fast to Down Slow	Up Fast to Up Fast freight pass Loughborough	31⁄2
+Up Fast to Up Fast pass Loughborough	"Down Fast to Down Slow passenger (not stopping atLoughborough)"	21⁄2
+Up Fast to Up Fast arrive Loughborough	"Down Fast to Down Slow passenger (not stopping atLoughborough)"	3
+Up Fast to Up Fast pass Loughborough	"Down Fast to Down Slow freight (not stopping atLoughborough)"	31⁄2
+Up Fast to Up Fast arrive Loughborough	"Down Fast to Down Slow freight (not stopping atLoughborough)"	4
+Up Fast to Up Fast pass Loughborough	Down Fast to Down Slow (stopped at Loughborough)	1
+Up Fast to Up Fast arrive Loughborough	Down Fast to Down Slow (stopped at Loughborough)	1⁄2
+Up Slow to Up Fast	Up & Down Slow to Down Slow pass Loughborough	31⁄2
+Up Slow to Up Fast	"Up & Down Slow to Down Slow departLoughborough"	1⁄2
+Up Slow to Up & Down Slow	Down Fast to Down Slow freight	31⁄2
+"Up & Down Slow to Down Slow passLoughborough"	Up Slow to Up Fast or Up & Down Slow	4
+"Up & Down Slow to Down Slow departLoughborough"	Up Slow to Up Fast or Up & Down Slow	41⁄2
+Ratcliffe Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Up train arrives at East Midlands Parkway onUp Fast"	Down train departs Ratcliffe Jn to Down Fast	11⁄2
+"Up train arrives at East Midlands Parkway onUp Fast"	Down train passes Ratcliffe Jn to Down Fast	"2 with at least2 minutespathing timebeforeRatcliffe Jn"
+"Up train passes Trent South Jn not stopping atEast Midlands Parkway"	Down train departs Ratcliffe Jn to Down Fast	3
+"Down train crosses Ratcliffe Jn Down Slow toDown Fast"	Up train passes Trent South Jn on Up Fast	3

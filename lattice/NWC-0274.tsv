@@ -1,0 +1,23 @@
+""	Crewe		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down Fast to arrive Platform 6 (towardsSandbach)"	Approach control	1⁄2
+""	"Down Fast to arrive any platform, exceptPlatform 6"	Approach control and slow speed crossovers	1
+""	"FL departure to Crewe Coal Yard(timed 80-92700 only)"	Slow speed crossovers and OHNS	"{1} afterCrewe CoalYard"
+""	"All non-stop trains via Fast Line or Slow Linerunning between Basford Hall Jn and Sandbachor Crewe Steel Works"	"Reduced speed required for trains toManchester and Chester lines"	11⁄2
+""	"All non-stop trains Fast Line to Fast Line atCrewe (via Platforms 6, 11, 12 and UDL)"	Slow speed through station area	"1 and 1approachingnext timingpoint"
+""	"All non-stop trains from Down Fast Line to SlowLine at Crewe"	Approach control	1
+""	"All non-stop trains Fast Line to Slow Line atCrewe (via any platform or UDL)"	Slow speed through station area	2
+""	"All non-stop trains crossing Slow Line to SlowLine at Crewe (via Platforms 11, 12 or UDL)"	Slow speed through station area	2
+""	"All non-stop trains crossing Slow Line to FastLine at Crewe (via any route)"	Slow speed through station area	"1approachingnext timingpoint"
+""	"All non-stop trains from Gresty Lane to FastLine (via any route)"	Slow speed through station area	"1approachingnext timingpoint"
+""	"All non-stop trains from Crewe CS towardsCrewe Coal Yard via Down Fast or Down Slow"	"Accelerating through station when clear ofCarriage Sidings"	"11⁄2approachingnext timingpoint"
+""			
+""	Movement Up	Reason	Value
+""	"All non-stop trains via Fast Line or Slow Linerunning between Sandbach or Crewe SteelWorks and Basford Hall Jn"	"Reduced speed required for trains fromManchester and Chester lines"	"11⁄2approachingBasford HallJn"
+""	"All non-stop trains Fast Line to Fast Line atCrewe (via Platforms 1 and 5)"	Slow speed through station area	"1 and 11⁄2approachingnext timingpoint"
+""	"All non-stop trains via Up or Down Fast Line toSlow Line at Crewe"	Approach control	1
+""	"All non-stop trains crossing Fast Line to SlowLine at Crewe (via any platform or UDL)"	Slow speed through station area	2
+""	"All non-stop trains crossing Slow Line to SlowLine at Crewe (via any route except Platforms11, 12 or UDL)"	Slow speed through station area	2
+""	"All non-stop trains ‘crossing Slow Line to SlowLine at Crewe (via Platforms 11, 12 or UDL)"	Slow speed through station area	3

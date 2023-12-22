@@ -1,0 +1,33 @@
+""	NW6009 WINDSOR BRIDGE NORTH JN TO SOUTHPORT			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Meols Cop to Southport	5	5	
+""	NW6011 BOLTON EAST JN TO BLACKBURN BOLTON JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Bolton East Jn to Bolton West Jn	4	4	
+""	Bolton West Jn to Astley Bridge Jn	Single Line	TCB	
+""	Astley Bridge Jn to Bromley Cross	4	4	
+""	"Bromley Cross to BlackburnBolton Jn"	Single Line	TCB Single line except at Darwen passing loop	
+""	NW6013 LOSTOCK JN TO CROW NEST JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Lostock Jn to Crow Nest Jn	6	6	
+""	NW6015 WIGAN WALLGATE TO HEADBOLT LANE			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Wigan Wallgate to Rainford	AB+2	AB+2	
+""	Rainford to Headbolt Lane	*	* Single line - One Train in Section (OTS)	
+""	NW7001 MANCHESTER VICTORIA WEST JN TO HEBDEN BRIDGE			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Manchester Victoria to ThorpesBridge Jn"	21⁄2	21⁄2	"Down trains can be timed to depart ManchesterVictoria 2 minutes apart but must be 21⁄2 minutesapart at Miles Platting."
+""	"Thorpes Bridge Jn (exclusive) toHebden Bridge"	4	4	"Exceptions at Littleborough:Down - 41⁄2 applies when following any train thatstops at Smithy Bridge and/or Littleborough.Up - 51⁄2 applies when following any train that stopsat Littleborough and/or Smithy BridgeUp - 61⁄2 applies following freight"
+""	NW7005 CASTLETON EAST JN TO HOPWOOD G. F.			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Castleton East Jn to Hopwood GF	*	* Single line - One Train in Section (OTS)	
+""	NW7006 TODMORDEN TO STANSFIELD HALL JN (TODMORDEN WEST CURVE)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Todmorden to Stansfield Hall Jn	4	One train in section only	

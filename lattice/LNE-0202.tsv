@@ -1,0 +1,29 @@
+Park Lane		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive from Sunderland	"Depart, going to platform 1 or 2 atSunderland"	1⁄2
+LN631 DARLINGTON SOUTH JUNCTION– EAGLESCLIFFE SOUTH JUNCTION
+""
+Eaglescliffe
+Refer to LN627
+LN632 STOCKTON CUT JUNCTION TO SALTBURN		
+Stockton Cut Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Hartburn Junction	Pass to Bowesfield Junction	3
+Pass to Bowesfield Junction	Pass from Hartburn Junction	4
+Bowesfield Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Hartburn Junction	Pass from Stockton Cut Junction	4
+Pass from Stockton Cut Junction	Pass to Hartburn Junction	21⁄2
+Thornaby		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down Main to Down Goods	Deceleration	1
+Up Movement	Reason	Value
+Up Goods to Up Main	Acceleration	"111⁄2 for freightover 600mTo be appliedapproachingnext timingpoint"

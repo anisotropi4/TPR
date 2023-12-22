@@ -1,0 +1,36 @@
+""	An up train arrives Swindon	"A down train departs Swindon via conflictingroute"	1 minute
+""	A down train arrives Swindon	"An up train departs Swindon via a conflictingroute"	1 minute
+""	Wootton Bassett Junction			
+""				
+""	Adjustment to Sectional Running Time			
+""	Movement	Reason	Timing Load	Value
+""	Pass to Hullavington	70mph junction	"Timing loads over75mph"	{1⁄2}
+""	Pass from Hullavington	70mph junction	"Timing loads over75mph"	"{1⁄2} Approachingnext timing point"
+""				
+""	Planning Note			
+""	"Down direction adjustments approaching Wootton Bassett jn must be applied in addition to any Down directionadjustment at Swindon"			
+""	Chippenham			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	"Down pass if routed to Bradford Jn atThingley Jn"	Approach control	Freight	{1⁄2}
+""				
+""	Dwell Time			
+""	Class LH	2		
+""	Class 15x – 16x	1		
+""	Class 80x/22x	11⁄2		
+""				
+""	Station Working			
+""	"The signalling constraints deny parallel moves between Chippenham and Thingley Jcn when relying on Bi-Directional signalling.Trains can only reverse in Chippenham station from the West (Thingley Jcn direction)."			
+""	Thingley East Junction			
+""				
+""	Adjustment to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	"Down pass if routed to Bradford Jn atThingley Jn or crossing to UM"	Approach control	"80xFreight"	"{1}{1⁄2}"
+""	"Up pass from DM to UM (not stopping atChippenham)"	Acceleration	"DMU80x/22xFreight 1600tonnes trailingload and above"	"{1⁄2}*{1}*{1⁄2}*"
+""	"Up pass from DM to UM (stopping atChippenham)"	Acceleration	80x	{1⁄2}*
+""	*Applied approaching next timing point			
+""	Thingley Junction				
+""					
+""	Adjustment to Sectional Running Time				
+""	Movement	Reason	Timing Load		Value

@@ -1,0 +1,32 @@
+""	MD801 WOLVERHAMPTON NORTH JN TO ABBEY FOREGATE JN (EXCLUSIVE)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Wolverhampton to Oxley StaffordRoad Jn"	3	3	
+""	"Oxley Stafford Road Jn to AbbeyForegate Jn"	6	6	
+""	"MD805 OXLEY STAFFORD ROAD JN TO BUSHBURY OXLEY JN (OXLEY CHORDLINES)"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Oxley Stafford Road Jn toBushbury Jn"	5	5	
+""	MD810 MADELEY JN TO IRONBRIDGE			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Madeley Jn to Ironbridge PowerStation"	*	"* Single line only one train between Madeley Jn andIronbridge PS at any given time."	
+""	MD900 ABBOTSWOOD JN TO STOKE WORKS JN VIA WORCESTER			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Abbotswood Jn to Norton Jn	AB+2	AB+2	
+""	Norton Jn to Worcester Shrub Hill	AB+2	AB+2	
+""	"Worcester Shrub Hill to WorcesterTunnel Jn"	AB+2	AB+2	
+""	"Worcester Tunnel Jn to DroitwichSpa"	AB*	AB¥	"¥ Droitwich to Signal 68 in the up is TCB but timed asAB* Based on Droitwich Spa arrival owing to provisionof taillamp camera"
+""	Droitwich Spa to Stoke Works Jn	*	*	* Single line, TCB planned as AB+0
+""	MD910 PERSHORE (INCLUSIVE) TO NORTON JN			
+""	LOCATION	DOWN	UP	NOTES
+""				
+""	Evesham to Norton Jn	AB+2	AB+2	Single Line – TCB timed as AB
+""	MD940 WORCESTER SHRUB HILL TO SHELWICK JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Worcester Shrub Hill to Henwick	AB+2	AB+2	Single Line
+""	Henwick to Newlands East	AB+2	AB+2	
+""	Newlands East to Malvern Wells	AB+2	AB+2	
+""	Malvern Wells to Ledbury	AB+2	AB+2	Single Line

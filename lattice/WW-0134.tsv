@@ -1,0 +1,40 @@
+""	Down pass to Bradford Jn	Approach control	"80x75-57210/280/35015x/16xFreight"		"{1}{1}{1⁄2}{1}"
+""	Bathampton Junction			
+""				
+""	Adjustment to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	Down pass from Bradford Jn	Acceleration	"80x22XHST"	"{1} Approachingnext timing point"
+""	Up pass to Signal BL1990	Slower junction speed	80x/22x/HST	{1⁄2}
+""	From Bath Spa to Thingley East Jn	"Minus allowance as theSRTs are for the slowerroute"	15x / 16x	-{1⁄2}
+""				
+""	Planning Note			
+""	15x SRTs are based on running to/from Bradford Junction therefore no adjustment is required.			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Train arrives in Bath Spa Platform 1from Bristol Direction (reversible intoPlatform 1)"	"Train from Bradford Jn passes BathamptonJn"	7	
+""	Bath Spa			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	From Thingley Junction	"Minus allowance as theSRTs are for the slowerroute"	158 / 16x	-{1}
+""				
+""	Connectional Allowance	7		
+""				
+""	Dwell Time			
+""	LH / 22x / 80x / 15x	2		
+""	Class 165/6	11⁄2		
+""				
+""	Platform Re-occupation	3*		
+""	*For bi-directional moves, a platform re-occupation value of 4 minutes applies			
+Oldfield Park	
+""	
+Dwell Time	
+Class 150	1⁄2
+Class 153 to 159	1
+Keynsham	
+""	
+Dwell Time	
+Class 15x	1
+Bristol East Depot Loop
+""

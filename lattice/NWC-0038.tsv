@@ -1,0 +1,20 @@
+""	MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Euston	"B C D EX"			"Platform detail must be shownOnly platforms 9 and 10 equipped with DCthird rail"
+""	Euston Up Carriage Sidings		–		
+""	Park Street MBR Site	E X		F	Materials by rail terminal
+""	Euston Signal WM610		E		"For exiting Camden CSD, W.M. or lightengine reversals"
+""	Euston Signal WM512		X		"For exiting Camden CSD, W.M. or lightengine reversals"
+""	Camden W.M	–	–	S	
+""	Camden CSD	–	–	S	
+""	Camden South Jn	C E	"A B C DE X"		"A: FL or B Camden Jn to Platforms 1 – 11B: SL or A Camden Jn to Platform 1 – 11C: SL or FL Camden Jn to platform 1 – 16,HS and Park Street MBR siteD: FL or SL Camden Jn to 8 – 16, HS andPark Street MBR siteE: FL Camden Jn to 8 – 16, HS and ParkStreet MBR siteAll lines into Euston from Camden JnSouth can be used as Up lines."
+""	Camden Jn	"FL SLDC"	"A B C D–"		"To/from Camden Road West Jn – MD145To/from Queen’s Park DC Lines – MD120"
+""	Kilburn Up & Down Goods Loop	SL	SL	S	
+""	Queen’s Park	SL	SL	S	
+""	Willesden TMD	SL	SL	S	"All trains to/from Willesden TMD to betimed at Willesden West London Jn"
+""	Willesden West London Jn	"FL SLDR UR–"	"FL SL–"		"To/from Mitre Bridge Jn – MD166To/from Willesden Euroterminal – MD166To/from Willesden South West Sidings –MD167To/from South West Through Siding –MD167To/from Acton Lane Receptions – MD166"
+""	Willesden North Jn				"Willesden North Jn: Crossing movesshown at Harlesden Jn"
+""	Harlesden Jn	CL SL –	FL SL –	X	"Timing point for trains crossing atWillesden North Jn, and for trains to andfrom City Line, High Level Goods, BrentSidings, Carriage Line and Up and DownGoods LinesTo/from Wembley Central via CL – MD136To/from Railnet Reception via ‘–‘-MD137To/from Kensal Green Jn via – MD155To/from Up and Down Goods via ‘–‘"
+""	Up and Down Goods	–	–	F	"Timing point for trains on the Up and DownGoods Lines. Track code must be shownTIPLOC WLSDUDG"
+""	Brent Sidings	–	–	S	

@@ -1,0 +1,36 @@
+""	Willesden Junction Low Level	
+""		
+""	"Signalling constraintDue to signalling overlaps, no Up train can depart from Harlesden whilst an Up train is departing the Low LevelBay toward Queen’s Park or the New Lines"	
+""		
+""	Trains entering or leaving passenger service and continuing in same direction (inclusive of Dwell Time)	
+""	Standard	1, except
+""	LUL services entering service	1⁄2
+""	Stonebridge Park		
+""			
+""	Junction Margins		
+""	First movement	Second movement	Margin
+""	"Depart Stonebridge Park towards StonebridgePark Depot Reception Roads (Lines 21 and22)"	Arrive Stonebridge Park from Wembley Central	3
+""	Arrive Stonebridge Park from Wembley Central	"Depart Stonebridge Park towards StonebridgePark Depot Reception Roads (Lines 21 and 22)"	1⁄2
+""			
+""	Trains entering or leaving passenger service and continuing in same direction (inclusive of Dwell Time)		
+""	Standard	11⁄2, except	
+""	LUL services entering service	1⁄2	
+""	Wembley Central DC	
+""		
+""	Dwell Time	1 Morning Up peak (does not apply to LUL services)
+""	Harrow and Wealdstone DC		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	Up trains departing from Platform 1	Acceleration after crossover	1⁄2
+""			
+""	Dwell Time	"1 Morning Up and evening Down peak (does not apply to LULservices)"	
+""			
+""	Platform reoccupation margins		
+""	First movement	Second movement	Margin
+""	Depart Platform 1 to turnback siding	Arrive Platform 1 from Kenton	31⁄2 *
+""	Depart Platform 1 towards Hatch End	Arrive Platform 1 from Kenton	4
+""	"* To facilitate the current level of service this can be reduced to 3 minutes by agreement with the OperationalPlanning Programme Manager, on the understanding that this may result in the driver of the following trainreceiving a restricted aspect at WS51 signal."		
+""			
+""	Trains entering or leaving passenger service and continuing in same direction (inclusive of Dwell Time)		
+""	Standard	"1, except:1⁄2 applies for LUL trains entering traffic11⁄2 applies for LUL trains leaving traffic"	

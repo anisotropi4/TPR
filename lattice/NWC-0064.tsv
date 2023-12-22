@@ -1,0 +1,42 @@
+""	"MD570 SALTLEY LANDOR STREET JN TO KINGS NORTON JN (CAMP HILLLINES)"				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Landor Street Jn	–			To/from Water Orton – MD501
+""	St. Andrew’s Jn	–	–		To/from Grand Jn – MD575
+""	Bordesley Jn	–	–		To/from Small Heath South Jn – MD401
+""	Moseley Village	–	–	S	TIPLOC MOSLEY
+""	Kings Heath	–	–	S	TIPLOC KIGSHTH
+""	Pineapple Road	–	–	S	TIPLOC PNAPLRD
+""	Lifford East Jn	–	–		To/from Lifford West Jn – MD580
+""	Kings Norton	–	–		To/from Longbridge – MD306
+""	MD575 ST. ANDREW’S JN TO GRAND JN					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	St. Andrew’s Jn	–			To/from Bordesley Jn – MD570	
+""	Grand Jn	–	–		"To/from Proof House Jn – MD301 (WL)To/from Proof House Jn – MD501 (DEL)Timing point can be omitted from a ‘150TIPLOC’ schedule"	
+""	MD580 LIFFORD EAST JN TO LIFFORD WEST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Lifford East Jn	–	–		To/from Bordesley Jn – MD570
+""	Lifford West Jn	–	–		To/from Selly Oak – MD306
+""	MD701 MARYLEBONE TO AYNHO JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Marylebone	–			Platform detail must be shown
+""	Marylebone Tunnel Siding		–	S	
+""	Marylebone Signal 10	–	–	S	Used for station shunts
+""	Marylebone Signal 508	–	–	S	Used for station shunts
+""	Neasden Signal ME525	–			
+""	Neasden South Jn	–	–		To/from Harrow on the Hill – MD710
+""	Neasden T.C.	–			
+""	Great Central Way Jn	–	–	X	Trains to/from Wembley LMD only
+""	Wembley LMD	–	–		
+""	Wembley Stadium	–	–		
+""	Wembley Turnback Sidings		–	S	ECS moves only
+""	"Wembley Stabling Siding(proposed)"	–		S	"ECS moves only. Accessed via TurnbackSiding"
+""	Sudbury and Harrow Road	–	–	S	
+""	Sudbury Hill Harrow	–	–	S	
+""	Northolt Park	–	–	S	
+""	Northolt Park Jn	FL SL			Timing Point for all Down trains
+""	South Ruislip	–	–		
+""	Ruislip Gardens Jn				

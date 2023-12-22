@@ -1,0 +1,15 @@
+Three Bridges Tilgate Sidings		
+""		
+""		
+Margins between successive departures		
+First Movement	Second Movement	Margin
+"Train departs from Three Bridges Tilgate Sidingsand passes Three Bridges station"	"Following movement departs Three BridgesTilgate Sidings towards Three Bridges stationeither stopping or not stopping"	6
+"Train departs from Three Bridges Tilgate Sidingsand stops at Three Bridges station (assumes 1minute dwell at Three Bridges)"	"Following movement departs Three BridgesTilgate Sidings towards Three Bridges stationeither stopping or not stopping"	8
+Crawley	
+""	
+Dwell Times	
+All Services	1
+Littlehaven	
+""	
+Dwell Times	
+All Peak Services	1

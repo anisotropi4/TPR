@@ -1,0 +1,38 @@
+GW108 FORDGATE TO PENZANCE				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Penwithers Junction	–	–		To/from Penryn – GW680
+Chacewater Signal R14		–		Timing point in up direction
+Chacewater Signal R31	–			Timing point in down direction
+Redruth Signal R27	–			Timing point in down direction
+Redruth	–	–	S	Platform detail must be shown
+Redruth Signal R10		–		Timing point in up direction
+Roskear Junction				
+Camborne	–	–		Platform detail must be shown
+Gwinear Road Signal R6		–		"Timing point in up directionTiming point can be omitted from a ‘150TIPLOC’ schedule"
+Hayle Signal R19	–			"Timing point in down directionTiming point can be omitted from a ‘150TIPLOC’ schedule"
+Hayle	–	–	S	Platform detail must be shown.
+St. Erth	–	–		"To/from St. Ives – GW690Platform detail must be shown"
+Long Rock	–	–		
+Penzance T& RSMD	–	–	S	
+Ponsandane		–	S	
+Penzance		–		Platform detail must be shown.
+""	GW110 OLD OAK COMMON WEST TO SOUTH RUISLIP (EXCL.)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Old Oak Common West	–	RL	X	"To/from Ladbroke Grove – GW103No route between Park Royal and Old OakCommon West"
+""	Park Royal	–	–		
+""	Park Royal Marcon	–	–	S	
+""	Greenford East Junction	–	–		To/from Greenford South Jn –GW117
+""	Greenford West Junction	–	–		To/from Greenford South Jn – GW174
+""	Route Boundary 8m60ch				"To/from South Ruislip – MD705Refer to NW&C Timetable planning rules"
+""	GW117 GREENFORD SOUTH JUNCTION TO GREENFORD EAST JUNCTION			
+""	TIMING POINT	SINGLE	CODE	NOTES
+""				
+""	Greenford South Junction	_		"To/from Drayton Green – GW174To/from Greenford West Jn – GW174"
+""	Greenford East Junction	_		"To/from Park Royal – GW110To/from Greenford West Jn – GW110"
+""	GW130 ACTON WELLS JUNCTION TO ACTON EAST JUNCTION				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Acton Wells Junction	–	–		Anglia Route timing point – EA1310
+""	Acton East Junction				"To/from Acton Main Line – GW103To/from Acton Yard"

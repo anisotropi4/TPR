@@ -1,0 +1,29 @@
+""	LN836 DONCASTER MARSHGATE JUNCTION TO NEVILLE HILL EAST JUNCTION					
+""	Timing Section	Type	"LHHST80X22X"	MU	Freight	Remarks
+""						
+""	Down					
+""	"Approach Holbeck Junction/Copley Hill West Junction"	E	1	1	1	
+""		P	1*$	1*		"*Does not apply to London North EasternRailway services$ Can be removed from CrossCountryservices if the arrival at Leeds isadvertised 1 minute later to the public"
+""	Up					
+""	Approach Neville Hill West Jn	P	1	1		
+""	E			1		
+""	Approach Doncaster	E	1	1*	1	"*Does not apply to services starting atAdwick"
+""		P		1		"Terminating trains only. Does not applyservices starting at Adwick."
+""	"LN838 LEEDS ARMLEY JUNCTION TO YORK SKELTON JUNCTION VIAHARROGATE"					
+""	Timing Section	Type	"LHHST80XEPUCl 422X"	"MULL"	Cl 6	Remarks
+""						
+""	Down (Leeds to Harrogate) – Weekdays					
+""	Approach Harrogate	E	1	1		Terminating trains only
+""		P		1		Terminating trains only
+""	Up (Harrogate to Leeds) – Weekdays					
+""	Approach Armley Junction	E	1	1		
+""	P		1			
+""	Up (Harrogate to York) – Weekdays					
+""	Approach Knaresborough	E		1		Terminating trains only
+""	Approach York	P		1		"Can be located approaching Skelton Juncto aid planning"
+""		E		1		"Can be located approaching Skelton Juncto aid planning"
+""	LN842 THORPE MARSH JUNCTION TO ADWICK JUNCTION					
+""	Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""						
+""	Down – Weekdays					
+""	Approach Applehurst Junction	E	3	3	3	

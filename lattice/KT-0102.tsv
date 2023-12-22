@@ -1,0 +1,39 @@
+""	London Bridge (Eastern)	
+""	For London Bridge (Central) Refer to Sussex Timetable Planning Rules, Section 5.3 - SO510	
+""		
+""	Connectional Allowance	4
+""		
+""	Dwell Time	
+""	All peak services	11⁄2
+""	All Thameslink services	11⁄2
+""	All other services except Thameslink	1
+""		
+""	Junction Margins	Margin
+""	Between any departure and any other conflicting arrival in the opposite direction	3
+""		
+""	Platform Reoccupation (same direction)	
+""	Location	Margin
+""	Platforms 1-9	11⁄2
+""		
+""	Planning Note	
+""		Notes
+""	Platforms 7-9	"Trains formed of a 12 car Class 700 EMU must not beplanned to use these platforms for passenger provision,due to operational restrictions"
+""	Blue Anchor		
+""			
+""	Junction Margins	Margin	
+""	Up train via lines 7 or 8	Down train crossing to Spa Road	2
+""	North Kent East Junction	
+""		
+""	Junction Margins	Margin
+""	Between all movements	2*
+""	* - 11⁄2 minutes is permissible but not for successive moves	
+""	New Cross			
+""				
+""	Overlap Restrictions			
+""	First Movement	Second Movement	Reason	Margin
+""	"Train crossing from Down KentSlow using 7381 and 7390 pointsto Down Kent Fast"	"Train arriving on UpKent Slow into PlatformA or B"	"Overlap on TL2544 and TL2548signal"	1
+""				
+""	Connectional Allowance	4		
+""				
+""	Berthing Facilities			
+""	"Trains formed of a 12 car Class 700 EMU must not be planned here for passenger provision, due to operationalrestrictions"			

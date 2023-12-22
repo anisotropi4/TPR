@@ -1,0 +1,23 @@
+Brightside Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Down ML	Pass from Slow	"1 after DownservicepassesWincobankJunction"
+Pass from Slow	Pass Down ML	"11⁄2 beforeDown servicepassesNunnery MLJunction"
+Pass UML	Pass from Slow	"1⁄2 before UpML servicepassesNunnery MLJn"
+Pass from Up/Dn Goods	Pass on Up Main (non–stop)	"31⁄2 before Upnon–stoppassesWincobank Jn"
+Pass from Up/Dn Goods	Pass on Up Main (stopping at Meadowhall)	"21⁄2 before Upstopping trainpassesWincobank Jn"
+Pass on Up Main	Pass from Up/Dn Goods	"21⁄2 after Uptrain passesWincobank Jn"
+Wincobank Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Non–stop trains to Barnsley	Approach control	1
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down Main to Down Main pass or stop atMeadowhall"	"Up Barnsley to Up Main not stopping atMeadowhall"	3
+"Down Main to Down Main pass or stop atMeadowhall"	"Up Barnsley to Up Main having stopped inMeadowhall Platform 3"	2
+Pass from Barnsley	Pass Down Main	3
+""		
+Planning Note		
+"No pathing allowances should be applied between Wincobank Junction and Meadowhall as there are nointermediate signals"		

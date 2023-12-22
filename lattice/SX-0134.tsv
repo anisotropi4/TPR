@@ -1,0 +1,36 @@
+Newhaven Harbour		
+""		
+First Movement	Second Movement	Margin
+"Down train depart/pass to NewhavenMarine"	"Up train from Seaford stopping at Bishopstonearrive"	4*
+"Down train depart/pass to NewhavenMarine"	"Up train from Seaford not stopping atBishopstone arrive"	41⁄2 *
+Up train arrive/pass	"Down train depart to Newhaven Marine (OldStation)"	1
+Up train arrive/pass	"Down train pass to Newhaven Marine (OldStation)"	2
+Up train depart/pass	Up train depart Newhaven Marine (Old Station)	2
+*Increase by 1 when first train is freight		
+SO620A NEWHAVEN HARBOUR TO NEWHAVEN MARINE (OLD STATION)			
+""			
+Newhaven Marine			
+""			
+Length Limit			
+Between TLW1582 and Stop Board	8 cars (Electric Trains)		
+""			
+Freight train margins			
+Movement		Clear time required at Old Station	Reason
+Freight train arrives at Aggregates Sidings		30 minutes after arrival	"Old Station occupied whilstshunting train into yard"
+Freight train Departs Aggregates Sidings		40 minutes before departure	"Old Station occupied whilstforming train up fordeparture"
+SO630 BRIGHTON TO LITTLEHAMPTON
+""
+Brighton
+See entry under route – SO500
+Brighton Wall Sidings		
+""		
+Berthing Facilities		
+Location	Cars	Notes
+No 1 Siding	12	"Trains formed of a 12 car Class 700 EMU must not be plannedinto Brighton Wall Sidings, due to operational restrictions"
+No 2 Siding	12	"Trains formed of a 12 car Class 700 EMU must not be plannedinto Brighton Wall Sidings, due to operational restrictions"
+Hove		
+""		
+Berthing Facilities		
+Location	Cars	Notes
+No 1-6 Siding*	12	CET facilities
+Up Loop (Platform 1)	12	Berthing not permitted in platforms 2 and 3

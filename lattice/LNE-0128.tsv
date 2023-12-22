@@ -1,0 +1,33 @@
+Digswell		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down Slow to Down Main	"Acceleration – to be applied afterDigswell"	1⁄2* 180/80x/91/HST
+"Depart Welwyn Up Yard to Down Main(including via Down Slow)"	"Acceleration – to be applied afterDigswell"	"Freight1,000t – 1,400t 1⁄21,600t – 2,000t 12,000t – 3,200t 11⁄2"
+*Not required for services calling at Welwyn North		
+""		
+Movement Up	Reason	Value
+Up Fast to Up Slow	Deceleration	1⁄2* 180/80x/91/HST
+*Not required for services calling at Welwyn North		
+""		
+Junction Margins – Down Direction		
+First Movement	Second Movement	Margin
+"Down Fast to Down Main passenger(not calling at Welwyn North)"	"Pass Down Slow to Down Main (notcalling at Welwyn North)"	2#
+"Down Fast to Down Main passenger(not calling at Welwyn North)"	"Depart Down Slow (Signal K617) toDown Main"	11⁄2#
+"Down Fast to Down Main passenger(calling at Welwyn North)"	"Down Fast to Down Main (not calling atWelwyn North)"	41⁄2
+"Down Slow to Down Main passenger(not calling at Welwyn North)"	"Down Fast to Down Main (calling atWelwyn North)"	2
+"Down Slow to Down Main passenger(calling Welwyn North)"	"Down Fast to Down Main (not calling atWelwyn North)"	41⁄2
+"Down Fast to Down Main passenger(not calling at Welwyn North)"	"Down Slow to Down Main (calling atWelwyn North)"	11⁄2
+"#Where the first train is an express service timed at 100mph or above, the converging margin here should takeprecedence over the headway i.e. no pathing time should be applied to the second train between Digswell andWoolmer Green Junction for the purpose of artificially re-establishing a higher headway value than the margingiven; the headway of 3 minutes should naturally restore itself once the appropriate acceleration allowances areadded to the schedule of the second train"		
+""		
+Junction Margins – Up direction		
+First Movement	Second Movement	Margin
+All margins (unless stated below)	3	
+Up Main to Up Slow passenger	"Up Main to Up Fast timed at 100mph orabove"	21⁄2
+""		
+Planning Notes		
+"No timing allowances should be applied between Welwyn North and Digswell in the Up direction, for any trainstimed at both, as there are no intermediate signals.Where possible, pathing allowances should not be applied between Digswell and Woolmer Green Junction"		
+Welwyn North
+""
+Station Working
+"For trains booked to call at Welwyn North a public/working differential (up to a maximum value of 3 minutes) equalto any pathing time approaching Digswell (down) and Woolmer Green (up) is to be applied"

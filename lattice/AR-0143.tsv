@@ -1,0 +1,40 @@
+Ripple Lane West Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Freight pass towards Ripple Lane West S.S. orRipple Lane Renwick Road Junction"	Up pass from Barking Riverside	4
+Up pass from Barking Riverside	"Freight pass towards Ripple Lane West S.S. orRipple Lane Renwick Road Junction"	2
+Ripple Lane West Yard		
+""		
+Ripple Lane West SS		
+Consists of three through sidings connected to the Up and Down Goods and a headshunt		
+Terminal Lengths		
+Headshunt		49 SLUs
+Siding No.1		63 SLUs
+Siding No.2		73 SLUs
+Reception Line		92 SLUs
+""		
+Harry Group Sidings		
+No. 7 Siding		72 SLUs
+No. 8 Siding		71 SLUs
+""		
+Stora Sidings		
+Stora Siding		58 SLUs
+No. 1 ASW		31 SLUs
+No. 2 ASW		31 SLUs
+Barking Eurohub	
+""	
+Terminal Length	
+Consists of two roads 350m in length	55 SLUs
+""	
+Restriction	"MinimumAllowance"
+"Down trains booked to arrive at Barking Eurohub must run-round in Ripple Lane West S.S. or atRipple Lane Signal 807 before propelling back into Barking Eurohub at 3mph. Ripple Lane WestS.S. is the preferred location for the run-round to prevent blocking the Down Goods line for theduration of the run-round."	"20 minutes atprevioustiming point"
+Ripple Lane Exchange Sidings		
+""		
+Terminal Length		
+Freight length restriction		118 SLUs
+Dagenham Dock		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Down freight trains via ML towards DagenhamDown Yard"	"Freight Trains under approach controlsignalling and via slow speed connection toDagenham Down Yard"	{11⁄2}

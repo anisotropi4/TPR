@@ -1,0 +1,25 @@
+Shireoaks East Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Train from Worksop Yard after Shireoaks EastJunction"	Differential junction speed	1
+"Trains not stopping at Worksop going towardsWoodend JunctionApproaching Shireoaks East Jn"	"Differential junction speed and approachcontrol"	1
+"Passenger/Light Engines from a stop atWorksop, going towards Woodend Junction.Approaching Shireoaks East Junction"	"Differential junction speed and approachcontrol"	1⁄2
+""		
+Movement Up	Reason	Value
+"Train from Mansfield to WorksopApproaching Worksop"	Differential junction speed	"1⁄2 (1 forabove1400t/TR85)"
+"Train to Worksop YardApproaching Shireoaks East Jn"	Differential junction speed	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Woodend Junction	Pass to Shireoaks station	3
+Pass to Shireoaks station	Pass from Woodend Junction	3
+"Restriction:•No allowances to be applied between Shireoaks East Junction and either Yard and/or Reception lines ineither direction•Up Reception Lines 1 and 2 can accommodate loco + 26 HTA wagons•Worksop Yard manager can be contacted on 01302-575203"		
+Shireoaks Station (West Junction)		
+""		
+Junction Margins: Times based on Shireoaks station		
+First Movement	Second Movement	Margin
+Pass to Woodend Junction	Arrive/pass from Shireoaks East Junction	5
+Pass from Shireoaks East Junction	Pass to Woodend Junction	3
+Depart Shireoaks station to Sheffield	Pass to Woodend Junction	3
+Pass from Woodend Junction	Pass to Woodend Junction	4

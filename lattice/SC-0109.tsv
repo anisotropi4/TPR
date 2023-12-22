@@ -1,0 +1,22 @@
+Barrhead		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Up Train pass/arrive Platform 2 or arrivePlatform 3"	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive/Pass Platform 2 from Lugton	Pass to Lugton	21⁄2
+Depart Platform 1 to Busby Junction	Up arrive platform 1	31⁄2
+Pass to Busby Junction	Arrive Platform 2 or 3 from Busby Junction	21⁄2
+Arrive Platform 3 from Busby Junction	Pass Platform 2 from Lugton	21⁄2
+"Pass/depart to Busby Junction (not stoppingNitshill)"	Down Depart Platform 3	3
+""		
+Overlap margins		
+First Movement	Second Movement	Margin
+Arrive Platform 3 from Busby Junction	Arrive Platform 2 from Lugton	3
+""		
+"RestrictionsWhen underpass is locked, all stopping trains must use Platform 2.  Present opening hours are 0650 – 2325(EWD) and 0910 – 1700 (Sundays).On Track machines are prohibited in Platform 3."		
+Priesthill & Darnley	
+""	
+Dwell Time	1

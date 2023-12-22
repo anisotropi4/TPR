@@ -1,0 +1,28 @@
+SC151 PORTOBELLO TO LEITH SOUTH YARD (GOODS LINE)					
+Timing Section	Type	"LHHST22X"	MU#	FRT	Remarks
+""					
+Down – Sundays					
+"Portobello Junction – Leith SouthE1Up –Sundays"	E			1	
+Leith South – Portobello Junction	E			1	
+"Portobello Junction – Leith SouthE1Up –Sundays"	E			1
+SC155 MONKTONHALL JUNCTION TO MILLERHILL YARD					
+Timing Section	Type	"LHHST22X"	MU	FRT	
+""					
+Down – Sundays					
+"Monktonhall Junction – MillerhillSS"	E			2	
+Up – Sundays					
+"Millerhill SS – MonktonhallJunction"	E			2	
+SC161 MILLERHILL YARD TO PORTOBELLO JUNCTION (MILLERHILL LINE)					
+Timing Section	Type	"LHHST22X"	MU	FRT	
+""					
+Down – Sundays					
+Millerhill SS – Portobello Junction	E			1	
+Up – Sundays					
+Portobello Junction – Millerhill SS	E			1	
+"SC171 HAYMARKET WEST JUNCTION TO DUNDEE CENTRAL JUNCTION(VIA KIRKCALDY)"					
+Timing Section	Type	"LHHST22X80X"	MU	FRT	
+""					
+Down – Sundays					
+Dalmeny – North Queensferry	E	3	3	5	"Until 08.00 – 10.30. Trains to be timedover one line only.  Other Allowances AsWeekdays"
+Up –Sundays					
+North Queensferry – Dalmeny	E	3	3	5	"Until 08.30 – 10.30. Trains to be timedover one line only.  Other Allowances AsWeekdays"

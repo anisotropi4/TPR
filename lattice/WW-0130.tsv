@@ -1,0 +1,42 @@
+""	Main Line Platform for following moves	4			
+""	Relief Line Platform for following moves	3			
+""					
+""	Planning Restrictions				
+""	"Trains held in the down direction at Platform 3 that are longer than 562m (exclusive of stand-back allowance) willfoul Didcot East Jn. Therefore, junction margins at Didcot East Jn must be based on trains’ departure time atDidcot Parkway if over length."				
+""					
+""	Turnround Allowances	DMU	Class 80X (5)	Class 80X (9/10)	Class 387/319/769
+""	From Paddington	7	6	8 (9 car only*)	7*
+""	From Hereford / Worcester	7	6	8 (9 car only*)	
+""	"From Bicester/Reading/Oxford/Banbury"	5			5
+""	: 3 minutes acceptable, if not sequential.				
+""	*A 10-car Class 80X cannot reverse in any platform at Didcot Parkway due to being overlength				
+""	*A 9-car Class 80X can only reverse in platform 5 at Didcot Parkway due to length				
+""	*A 12-car Class 387 cannot reverse in any platform at Didcot Parkway due to being overlength.				
+""	*Overlength formations should be timed ECS to/from Didcot West End prior to next working.				
+Foxhall Junction			
+""			
+Adjustment to Sectional Running Times (to be shown approaching location)			
+Movement	Reason	Timing Load	Value
+"Crossing from Up Main to Down DidcotWest Curve, Relief line or Goods loop"	"Approach control/Slowturnout speed"	80x	{2}
+"Crossing from Didcot Relief Line to DownDidcot West Curve"	"Approach control/slowturnout speed"	80x	{1}
+""			
+Adjustment to Sectional Running Times (to be shown after location)			
+Movement	Reason	Timing Load	Value
+"Crossing from Up Didcot West Curve toDown Main"	"Slow turnoutspeed/acceleration"	80x	{11⁄2}
+"Crossing from Down Relief Line or GoodsLoop to Down Main"	"Slow turnoutspeed/acceleration"	80x	{11⁄2}
+"Crossing from Up Didcot West Curve toDidcot Relief Line"	"Slow turnoutspeed/acceleration"	80x	{1⁄2}
+Milton Junction			
+""			
+Adjustment to Sectional Running Times (to be shown approaching location)			
+Movement	Reason	Timing Load	Value
+"Crossing from Up Main to Didcot ReliefLine"	Slow turnout speed	80x	{11⁄2}
+""			
+Adjustment to Sectional Running Times (to be shown after location)			
+"Crossing from Didcot Relief Line to DownMain"	"Slow turnoutspeed/acceleration"	80x	{1}
+Steventon			
+""			
+Adjustment to Sectional Running Times (to be shown approaching location)			
+Movement	Reason	Timing Load	Value
+Crossing from Up Main to Relief Line	Slow turnout speed	80x	{11⁄2}
+Wantage Road
+""

@@ -1,0 +1,11 @@
+LN914 HULL TO SEAMER WEST JUNCTION					
+Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	Cl 6	Remarks
+""					
+Down – Sundays					
+Approach Bridlington	E	2	2		Terminating trains only
+""	P		1		
+Approach Seamer	E	2	2*		"* Does not apply to trains starting fromFiley and continuing to York or beyond"
+Up – Sundays					
+Approach Bridlington	P		1		
+Approach Hull	E	2	2*		* 1 minute for trains starting from Beverley
+P		1			

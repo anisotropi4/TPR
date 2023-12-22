@@ -1,0 +1,28 @@
+Reading					
+"Arriving Platform 14 from Down Relief orArriving Platform 13 from Up Relief (in DownDirection)"	Approach Control	"All TrafficExcept 345 and345-T"	{1⁄2}		
+"Approaching Platform 3 from Reading HighLevel Jn"	Approach control	"15x / 16x / 22x387/319/769"	{1}		
+"Approaching platforms 1, 2, and 3 fromOxford Road Jn having passed ReadingWest"	"Approach control andslow speed into platform"	"15x / 16x / 22x387/319/769"	{1}		
+Down DML to pass platform 7 or 8	"Lower linespeed throughplatform"	"Class 4 FreightClass 6 Freight"	"{1⁄2}{1}"		
+Down DML to pass platform 10	"Lower linespeed throughplatform"	"Class 4 FreightClass 6 Freight"	"{1}{1⁄2}"		
+Down DRL to pass platform 14	Approach Control	"Class 4 FreightClass 6 Freight"	{1}		
+Down URL to pass platform 13	Approach Control	"Class 4 FreightClass 6 Freight"	{1}		
+""					
+Connectional allowance	"7** 12 mins to be allowed for connections between train and scheduled RailReplacement bus services"				
+""					
+Dwell Time					
+LH / 80x	"23 minutes for Down West of England Summer Saturday trains (Periods E,F and G) via GW500 until 13004 Down/Up Sleepers"				
+Class 220 & 221	2				
+Class 165/6 & 387/319/769/345	"12 minutes applies during peak hours of 07.00 - 09.00 and 16.00 - 19.00Mondays to Fridays"				
+""					
+Platform re-occupation	Margin				
+All platforms following moves	3				
+"Platforms 7-12 & 15 opposingdirection movesPlatforms 13 & 14 opposing directionmoves"	"44 (can be reduced to 3 when the second train has a minimum of (1)pathing time approaching Reading)"				
+""					
+Planning notes					
+It is not possible to share a platform with a 9 car class 345.					
+"Care must be taken when dwelling/ pathing a train between Reading and Oxford Road Jn on the Feeder lines, toensure held train does not block access to other lines (see 5.4.1 GW225)"					
+""					
+Signalling Limitations					
+"There is no down signalled route into Platform 11 from Kennet Bridge Jn as up ML is not reversibleThere is no down signalled route into Platform 10 on the Up Main Line from Kennet Bridge Jn as up ML is notreversible.No additional allowance is to be added to freight schedules over 4400t approaching Reading coming from OxfordRoad Jn on the Feeder Relief Line.  This is due to the curvature and incline.  All additional time to be added aspathing approaching Southcote Jn or Oxford Road Jn or to be added as a dwell in Reading Station."					
+""					
+Turnround Allowances	L/H	"Class387/319/769/345"	"Power doorDMU"	"Class 80X (5Car)"	"Class 80X (9/10Car)"

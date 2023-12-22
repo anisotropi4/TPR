@@ -1,0 +1,21 @@
+Peterborough		
+Platforms 4-7 and Two-Way Goods Line south end		
+"All conflicting margins 3 minutes where a passenger train is the first conflicting move and 4 minutes where afreight train is the first conflicting move; exceptions are listed below:"		
+""		
+First Movement	Second Movement	Margin
+"Arrive Platform 4 from Down Fast/DownSlow/Nene Sidings"	Depart or Pass Platform 5 to Nene Sidings	1
+Arrive Platform 4 from March Independent Line	"Depart or Pass Platform 5 to MarchIndependent Line"	1
+"Arrive Platform 5 from Down Fast/DownSlow/Nene Sidings or March Independent Line"	"Depart or Pass Platforms 4 towardsPeterborough East Junction via NeneSidings or March Independent Line"	1
+"Arrive Platform 6 from Peterborough EastJunction via March Lines"	"Depart or Pass Platform 7 or Two-WayGoods Line towards Peterborough EastJunction via Down March Line"	1
+Arrive Platform 6 from Up March Line	"Depart or Pass Platforms 4 or 5 towardsPeterborough East Junction via MarchIndependent Line"	1
+"Arrive Platform 7 from Peterborough EastJunction via Down March Line"	"Depart or Pass Two-Way Goods Linetowards Peterborough East Junction"	1
+"Arrive Two-Way Goods Line from PeterboroughEast Junction via Down March Line"	"Depart Platform 7 towards PeterboroughEast Junction via Down March Line"	1
+Depart Platforms 4 or 5 to Nene Sidings	"Arrive into Platforms 4 or 5 from NeneSidings"	"AB – secondtrain cannotdepart NeneSidings until firsttrain has arrived"
+""		
+Platforms 4-7 and Two-Way Goods Line north end		
+"All same direction conflict margins – 3 minutesAll opposite direction conflicting margins 4 minutes where a passenger train is the first conflicting move and 5minutes where a freight train is the first conflicting move; exceptions are listed below:"		
+""		
+First Movement	Second Movement	Margin
+Down Fast Pass	"Any arrival into Platforms 4, 5 or 6 from UpFast or Up Slow"	3
+Down Fast Pass	Conflicting freight depart Platforms 4, 5 or 6	2
+"Arrive Platforms 4, 5, 6, 7 or Two-Way GoodsLine from the north"	"Any conflicting departure from Platforms 4,5, 6, 7 or Two-Way Goods Line to the north"	1

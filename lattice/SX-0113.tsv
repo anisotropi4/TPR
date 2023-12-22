@@ -1,0 +1,41 @@
+SO510A SYDENHAM TO CRYSTAL PALACE
+""
+Crystal Palace
+See entry under route – SO650
+SO510B NORWOOD JUNCTION TO WINDMILL BRIDGE JUNCTION
+""
+Norwood Junction
+See entry under route – SO510
+SO511A HIGHBURY AND ISLINGTON TO NEW CROSS GATE			
+""			
+Highbury and Islington			
+""			
+Dwell Times			
+When next/previous working is ECS	2		
+""			
+Junction Margins			
+First Movement	Second Movement		Margin
+Train towards Canonbury	Train towards Highbury and Islington		31⁄2
+""			
+Platform Re-occupation		Margin	
+Platform 1 and 2 except as shown below		31⁄2	
+Platform 2 between down departure and down arrival		2	
+Dalston Junction		
+""		
+Dwell Time		
+For through trains	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train departs Platform 1	Train arrives in Platform 2 / 3 / 4	4
+Train departs Platform 2	Train arrives in Platform 3	31⁄2
+Train departs Platform 2 / 3	Train arrives in Platform 4	4
+Train arrives in any Platform	Any conflicting departure	1
+""		
+Platform re-occupation following reversals		
+Platforms 1 and 4		4
+Platforms 2 and 3		3
+Hoxton
+""
+Planning Note
+"Due to ARF, an Up service must not depart Hoxton until a conflicting Down service has departed from DalstonJunction."

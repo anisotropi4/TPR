@@ -1,0 +1,43 @@
+Peterborough		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Entering an occupied platform	Calling on allowance	"1 (plus 3between arrivals)"
+""		
+Movement Down	Reason	Value
+"Down Slow to Platform 4/5 (restrictive routedue to any conflicting move at Spital Junction)– see also Planning Restrictions"	Approach control on Signal P421	"11⁄2 GTR trains"
+"Down Fast to Platform 4/5 (restrictive routedue to any conflicting move at Spital Junction)– see also Planning Restrictions"	Approach control on Signal P423	1⁄2
+"After Peterborough for departures fromPlatforms 2, 4 and 5 via USL towardsWerrington Jn"	Via slow speed connections	1⁄2 All
+""		
+Connectional Allowance	8	
+""		
+Dwell Time		
+DMU/EMU	2	
+LH/80X	2	
+170	11⁄2	
+""		
+Junction Margins – Platforms 1-3		
+All conflicting margins 3 minutes unless stated below:		
+""		
+Platforms 1-3 south-end		
+""		
+First Movement	Second Movement	Margin
+Depart Platform 1a to Up Fast/Up Slow	Depart Platform 1b northbound	2
+Arrive Platform 1a from Down Fast	Depart Platform 1b northbound	2
+Depart Platform 1-3 to Up Fast	Pass Platform 3 to Up Fast	4
+Arrive Platform 1-2 from Down Fast	Pass Platform 3 to Up Fast	3
+Pass Platform 3 to Up Fast	Depart Platform 1-2 to Up Fast	2
+Arrive Platform 1-2 from Down Fast	"Depart Platform 1-2 to Up Fast (fromadjacent platform)"	1
+""		
+Platforms 1-3 north-end		
+""		
+First Movement	Second Movement	Margin
+Depart Platforms 1-2 to Down Fast	Arrive/Pass Platforms 1-3 from Up Fast	4
+"Depart Platforms 1-2 to Up Slow/South DownArrival/South Up Departure/Shunt Line"	Arrive Platforms 1-2 from Up Fast	4
+Depart Platforms 1-2 to Up Slow	"Arrive Platforms 1-2 from South DownArrival/South Up Departure/Shunt Line"	4
+"Depart Platforms 1-2 to South DownArrival/South Up Departure/Shunt Line"	Arrive Platforms 1-2 from Up Slow	4
+"Depart Platform 2 to Up Slow/South DownArrival/South Up Departure/Shunt Line"	Pass Platform 3 to Up Fast	5
+Pass Platform 3 to Up Fast	Depart Platforms 1-2 to Down Fast	1
+""		
+Junction Margins – Platforms 4-7		
+""		

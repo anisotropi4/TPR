@@ -1,0 +1,38 @@
+Cambridge North		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	
+"Trains travelling from Down Main into BayPlatform 3"	Approach control	{1}
+"Trains departing Bay platform 3 towardsCambridge"	"To allow for slow speed crossover. Adjustmenttime to be shown approaching next timing point"	{1}
+Trains departing platform 2 towards Cambridge	"To allow for slow speed crossover. Adjustmenttime to be shown approaching next timing point"	{1}
+Trains arriving from Ely into platform 2	"To allow for slow speed crossover. Adjustmenttime to be shown approaching CambridgeNorth"	{1⁄2}
+""		
+Dwell time	All	1
+""		
+Junction Margins		
+First Movement	Second Movement	
+Pass / depart platform 1 from Ely	Depart Bay platform 3 towards Cambridge	3
+Pass / arrive platform 2 from Cambridge	Depart Bay platform 3 towards Cambridge	1
+Arrive Bay platform 3 from Cambridge	Depart platform 2 towards Cambridge	1
+"Depart Bay platform 3 or depart platform 2towards Cambridge"	Arrive platform 1 from Ely	P
+"Depart Bay platform 3 or depart platform 2towards Cambridge"	Depart / pass platform 1 from Ely	4
+Depart Bay platform 3 towards Cambridge	Pass / arrive platform 2 from Cambridge	4
+Depart platform 2 towards Cambridge	Arrive Bay platform 3 from Cambridge	4
+Arrive Bay platform 3 from Cambridge	Pass / arrive platform 2 from Cambridge	3
+Depart platform 2 towards Ely	Arrive platform 2 from Ely	5*
+*platform reoccupation of platform 2 when services from Ely terminate at Cambridge North		
+Depart platform 2 towards Ely	"Freight service depart / pass towards Ely (exitChesterton Junction yard/sidings)"	21⁄2
+"Freight service arrive / pass from Ely (arriveyard sidings)"	Pass / arrive platform 2 from Cambridge	31⁄2
+Notes		
+P = Parallel/Non-conflicting		
+""		
+Reoccupation of Bay Platform 3		5
+""		
+Permissive Working Restrictions		
+Permissive working is permitted in Cambridge North Platform 3 subject to the below restrictions:		
+Attaching	"A train of up to 8-cars can be attached to a 4-car train inplatform 3. The 4-car train must have arrived first.A 4-car train cannot be attached to an 8-car train due to theposition of the track circuits."	
+Platform Sharing	"A second train of up to 8-cars can arrive in platform 3 if the firsttrain in the platform is no longer than 4-cars."	
+Detaching	Permitted.	
+Ely Down Goods Loop
+""
+"Note: Trains which will enter Ely Down Goods Loop in the Up Direction must have a dwell time of 2 minutes in ElyPlatform 1 to enable the route to be set for the train to enter the Down Goods loop"

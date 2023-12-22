@@ -1,0 +1,15 @@
+LN3201 ST PANCRAS TO TAPTON JN (VIA DERBY)					
+Timing Section	Type	FL/ML	SL	GL	Remarks
+""					
+Down – SX Daytime					
+Approaching St Albans City	E		1*		"0600 – 2300 Services terminating at StAlbans City and Luton only"
+Approaching Luton	E	1*	1*		"0600 – 2300 *Services terminating atLuton and Bedford only"
+Approaching Bedford South Jn	E	1	1*		0600 – 2300 *EMR services only
+Approaching Bedford	E		1*		"0600 – 2300 *Services terminating atBedford only. May be moved to BedfordSouth Jn if appropriate."
+"Approaching Derby Way & WorksJunction"	E	1			0600 – 2300
+Up – SX Daytime					
+Approaching Chesterfield	P	2*	2*		*Terminating trains only
+Approaching Derby	E	1*#			"0600 – 2300*Does not apply to services from Matlock#Can be applied approaching St Mary’sSouth Junction if required"
+Approaching Bedford North Jn	E	1			0600 – 2305
+"Approaching Brent Curve Jn(Hendon Lines)"	E		2		0600 – 2300
+"Approaching Carlton Road Jn orKentish Town"	E	1	1*		"0600 – 2300 *All Thameslink trains only,may be moved to approaching WestHampstead Thameslink if appropriate"

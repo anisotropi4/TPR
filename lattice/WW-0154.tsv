@@ -1,0 +1,31 @@
+""	Devonport		
+""			
+""	Dwell Time		
+""	Class 158		1
+""	Dockyard	
+""		
+""	Dwell Time	
+""	Class 15x	1⁄2*
+""	* : Request Stop.	
+""	St. Budeaux Jn			
+""				
+""	Adjustment to Sectional Running Time			
+""	Movement	Reason	Timing Load	Value
+""	Pass to Bere Alston/Ernesettle	Slow Junction Speed	All	{1⁄2}
+""	Pass from Bere Alston/Ernesettle	Acceleration	All	"{1⁄2} approachingnext timing point"
+""	St. Budeaux Ferry Road		
+""			
+""	Dwell Time		
+""	Class 158		1
+""	Saltash			
+""				
+""	Dwell Time			
+""	Class 15x	1		
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	Notes
+""	"Down train arrives /passes Platform 1"	Up train passes Platform 2	3*	"*For 9/10 car Class 80xformations calling in thedown direction refer tofollowing items"
+""	"Down train formed 9/10car Class 80x departsPlatform 1"	Up train passes Platform 2	21⁄2	
+""	"Down train formed 9/10car Class 80x departsPlatform 1"	"Up train departs Platform2"	2	
+""	"Down train formed 9/10car Class 80x departsPlatform 1"	"Down train passes StBudeaux Jcn / departsFerry Road"	1	
+""	"Please note – While a Class 80x formed of 9/10 cars is standing in Saltash Platform 1, the junction in rear isfouled and the AB section from St Budeaux Ferry Road remains occupied.  It is not possible for an Up train todepart or pass Saltash or a following Down train to enter the single line section until after the train in question hasdeparted Saltash.An Up train approaching Saltash under cautionary aspects is already braking for the 15mph permanent speedrestriction and therefore the normal SRTs are not compromised."			

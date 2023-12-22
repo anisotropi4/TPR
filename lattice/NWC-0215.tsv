@@ -1,0 +1,28 @@
+""	Bromsgrove		
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	West Midlands Trains	5	
+""			
+""	Permissive Working		
+""	Attaching is authorised as shown below:		
+""	Location	Direction	Restrictions
+""	Platform 1	Permitted in Up direction only	"For attaching bankinglocomotive ONLY"
+""	Platform 2	Permitted in Up direction only	"For attaching bankinglocomotive ONLY"
+""			
+""	Platform Reoccupation		
+""	First Movement	Second Movement	Value
+""	Train departs Platform 3 to Up Gloucester	"Train arrives Platform 3 from the DownGloucester"	4
+""	Train departs Platform 2 to Up Gloucester	"Train arrives Platform 2 from the DownGloucester"	41⁄2
+""			
+""	Station Working		
+""	Only the lines serving Platforms 1, 2 and 3 are electrified. Electric traction cannot access Platform 4.		
+""	Stoke Works Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Timing Load	Value
+""	"Non-stop train from Bromsgrove to DroitwichSpa"	"Approach control and slow speedjunction"	"170/172/22x/HST"	1⁄2
+""	"Stopping train from Bromsgrove to DroitwichSpa"	"Approach control and slow speedjunction"	170	1
+""	Worcestershire Parkway	
+""		
+""	Dwell Time	
+""	All	1

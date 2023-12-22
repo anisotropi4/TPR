@@ -1,0 +1,42 @@
+RHTT
+RHTT
+Type	Days		TID	Start Time	Origin	Destination		
+""	RHTT		SU		3S90	15:31	Gourock	Mossend Down Yard
+""	RHTT		SX		3S91	02:17	Mossend Down Yard	Westerton
+""	RHTT		SO		3S91	01:33	Mossend Down Yard	Westerton
+""	RHTT		SO		3S91	03:33	Westerton	Springburn
+""	RHTT		SX		3S91	04:32	Westerton	Springburn
+""	RHTT		SU		3S91	04:59	Mossend Down Yard	Neilston
+""	RHTT		SX		3S91	11:32	Springburn	Mossend Down Yard
+""	RHTT		SO		3S91	20:28	Springburn	Mossend Down Yard
+""	RHTT		SU		3S91	12:26	Neilston	Mossend Down Yard
+""	RHTT		FO		3S93	22:03	Slateford Depot	Stirling
+""	RHTT		MWThO		3S93	22:03	Slateford Depot	Stirling
+RHTT	SU		3S93	"18:3519:05"	Slateford Depot	Stirling		
+""	RHTT							
+""	RHTT		SU		3S94	19:50	Slateford Depot	Slateford Depot
+""	RHTT		FO		3S94	19:50	Slateford Depot	Slateford Depot
+""	RHTT		FSX		3S94	19:50	Slateford Depot	Slateford Depot
+RHTT	MFO		3S94	19:31	"Carlisle KingmoorSDG(DRS)"	"Carlisle KingmoorSDG(DRS)"		
+""	RHTT							
+""	RHTT		WO		3S95	18:56	Inverness T.C	Inverness T.C
+""	RHTT		ThO		3S95	18:56	Inverness T.C	Inverness T.C
+""	RHTT		SU		3S95	19:06	Inverness T.C	Inverness T.C
+""	RHTT		FO		3S95	18:56	Inverness T.C	Inverness T.C
+""	RHTT		MTO		3S95	18:56	Inverness T.C	Inverness T.C
+""	RHTT		MTThO		3S96	10:06	Mossend Down Yard	Mossend Down Yard
+RHTT
+RHTT
+""	South East (Kent)					
+RHTT	SX		3S71	"20:5020:42"	"Tonbridge EngineersSidings"	"Tonbridge TonbridgeEngineers Sidings"
+RHTT	SO		3S71	20:32	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SU		3S71	"20:1620:15"	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SX		3S72	"20:3120:07"	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SO		3S72	19:33	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SU		3S72	20:22	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SX		3S73	21:13	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SO		3S73	21:09	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SU		3S73	19:39	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SX		3S75	19:33	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SO		3S75	20:21	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"
+RHTT	SU		3S75	20:08	"Tonbridge EngineersSidings"	"Tonbridge EngineersSidings"

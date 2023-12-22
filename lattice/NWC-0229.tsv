@@ -1,0 +1,37 @@
+""	Leamington Spa		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	All conflicting moves (see below for exceptions)		3
+""	"Freight pass Leamington Spa towardsMilverton Jn"	Arrive/Pass Leamington Spa form Hatton	4
+""	"Train passes from Milverton Jn towards FennyCompton"	Train departs platform 4 towards Hatton	1
+""	"Train arrives or passes Platform 3 or Up Mainfrom Hatton"	"Train departs from any platform, depot siding orDown Main towards Milverton Jn"	1
+""	"Train arrives or passes Platform 3 or Up Mainfrom Hatton"	"Train pass from Down Main towards MilvertonJn"	2
+""			
+""	Overlap Restrictions		
+""	First Movement	Second Movement	Margin
+""	"Train departs platform 1 towards Hatton orMilverton Jn"	"Train arrives platform 2 or Down CherwellValley from Fenny Compton"	4
+""	"Train arrives platform 1 from Leamington Spasignal 126"	"Train arrives platform 2 or Down CherwellValley from Fenny Compton"	3
+""	"Train arrives platform 2 or Down CherwellValley from Fenny Compton"	"Train arrives platform 1 from Leamington Spasignal 126"	3
+""			
+""	Planning Restriction		
+""	Platform 1 is used for departures only. It is not signalled for loaded passenger train arrivals		
+""			
+""	Platform Reoccupation		
+""	Platform 1		
+""	First Movement	Second Movement	Margin
+""	Train departs towards Milverton Jn	"ECS arrives from either LN126 orLN128 signals"	4
+""			
+""	Platform 4		
+""	Reoccupation Margin	4, except as below	
+""	Train departs towards Milverton Jn	Train arrives from Milverton Jn	6
+""			
+""	Turnround Allowance	"5 DMU without shunt12 DMU with shunt (reduced to 8 if shunting via signal LN113)"	
+""	Warwick		
+""			
+""	Dwell Time		
+""	LH	1	
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Train departing platform 2 towards Hatton	Slow speed crossover and running brake test	1⁄2

@@ -1,0 +1,29 @@
+Leeds	
+"Restrictions:Trains from the West via the Through Road, planned to stop in Platform 12CD must not exceed 2x3 car class185s.LNER services not to be planned in Platforms 15 and 16 as services exceed platform lengthTrains required to stand on through-platforms for longer than 45 minutes to be discussed with and agreed byNetwork Rail Timetable Production TeamLNER Class 80x units that are required to attach or detach should not be planned into Platform 9"	
+""	
+"Planning Note:Northern and LNER require a 10 min journey time from Neville Hill TMD to Leeds. This can be applied asadditional adjustment time before Neville Hill West Junction.When a train is showing as occupying Platform 1 or 1a, then the non-preferred route for arrival into Platform 2needs to be used"	
+""	
+Train Watering Points	Leeds Station Platforms 1, 2, 3, 5, 6, 8, 11, 13 and 14
+Marsh Lane Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Cross to DGL	Depart Leeds	1⁄2
+Arrive Leeds	Cross to/from UGL	Same time
+Neville Hill West Junction		
+""		
+Adjustment to Sectional Running Times		
+Movement Up	Reason	Value
+"Pass from Neville Hill TMD towardsLeeds on the ML"	Acceleration from 15mph turnout	"2* To be applied after Neville HillWest Junction"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Neville Hill Depot	Pass from Leeds (ML)	4
+Pass to Up Sidings from Down	Pass from Cross Gates	4
+Pass to Up Sidings from Down	Pass from Leeds (ML)	4
+Pass from Branch to Down	Pass from Cross Gates	4
+Pass from Leeds (ML)	Pass from Depot to UFL	3
+Pass from Neville Hill Depot	Pass from Cross Gates	4
+Pass from Cross Gates	Pass from Neville Hill Depot to UGL	3
+""		
+"Planning Note:Northern and LNER require a 10 min journey time from Neville Hill TMD to Leeds. This can be applied asadditional adjustment time before Neville Hill West Junction."		

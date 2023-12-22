@@ -1,0 +1,39 @@
+STANDARD VALUES – MINIMUM									
+""									
+*Please note that any train departing needs to be rounded up to a full minute in line with the above									
+""									
+"Dwell Times – Passenger service to Empty Coaching Stock in the same direction except where otherwisespecified"									
+Stock	"1 or 2Car"	"3 or 4Car"	"5 or 6Car"	8 Car	"7 or9 Car"	"9 or 10Car"	10 or 12 Car	12 Car	
+Class 158 DMU	2 mins	2 mins	2 mins	2 mins	"2mins"	2 mins	2 mins	2 mins	
+Class 159 DMU		2 mins	2 mins		"4mins"			4 mins	
+"Class 165/166DMU"	1 min	1 min	1 min	1 min	1 min	1 min	1 min	1 min	
+Class 171 DMU	2 mins	2 mins	2 mins	2 mins	"2mins"	2 mins	2 mins	2 mins	
+"Class 375/377EMU(SouthernServices)"		2 mins	2 mins	2 mins	"2mins"	2 mins	2 mins	2 mins	
+"Class 378/710EMU"		1 min	1 min						
+"Class 387 EMU(Southern &GatwickExpressServices)"		2 mins		2 mins				2 mins	
+Class 450 EMU		2 mins		4 mins			4 mins		
+"Class 455 EMU(South WesternRailwayServices)"		2 mins		4 mins				4 mins	
+Class 458 EMU			2 mins			2 mins			
+Class 700 EMU				4 mins				4 mins	
+Class 701 EMU			2 mins				4 mins		
+Class 707 EMU			2 mins				4 mins		
+""									
+Front Train Working at Terminal locations:									
+"In the event of Front Train Working with two (or more) loaded services a minimum of 5 minutes should be allowedbetween departure of Front Train and Rear Train to allow indicators etc to be changed. Passenger trains that divideen-route should not be “front trained”."									
+""									
+Generic Rolling Stock Classes									
+Train Class	ITPS Timing Load	TPR Values							
+Class 165 DMU	165 timing load	Class 165 values							
+Class 166 DMU	165 timing load	Class 165 values							
+Class 171 DMU	170100 timing load	Class 171 values							
+Class 375 EMU	375 timing load	Class 375 values							
+Class 377 EMU	375 timing load	Class 375 values							
+Class 378 EMU	378 timing load	Class 378 values							
+Class 387 EMU	375 timing load	Class 387 values							
+Class 450 EMU	450 timing load	Class 450 values							
+"Class 455 EMU (South Western RailwayServices)"	455 timing load	Class 455 values							
+Class 700 EMU	700 timing load	Class 700 values							
+Class 701 EMU	701 timing load	Class 701 values							
+Class 707 EMU	455 timing load	Class 707 values							
+Class 710 EMU	710 timing load	Class 710 values							
+""									

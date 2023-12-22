@@ -1,0 +1,24 @@
+Flitwick Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down Fast to Down Slow or Down Slow toDown Fast (not stopping at Flitwick)"	Approach Control	"1 approachingFlitwick station"
+"Down Fast to Down Slow or Down Slow toDown Fast (stopping at Flitwick)"	Approach Control	"1⁄2 approachingFlitwick station"
+""		
+Movement Up	Reason	Value
+"Up Fast to Up Slow or Up Slow to Up Fast (notstopping at Flitwick)"	Acceleration	"1 after Flitwickstation"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down Fast to Down Slow or Down Slow toDown Fast"	Up Fast pass Flitwick	3
+"Down Fast to Down Slow or Down Slow toDown Fast"	Up Fast arrive Flitwick	31⁄2
+Up Fast to Up Slow or Up Slow to Up Fast	Down Slow pass Flitwick	21⁄2
+Up Fast to Up Slow or Up Slow to Up Fast	Down Slow depart Flitwick	1
+""		
+Planning Note		
+"No timing allowances should be applied between Flitwick Junction and Flitwick as there are no intermediatesignals"		
+Elstow		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Freight arrive into Elstow Redland Sidings	Up train pass/depart Bedford South on Up Slow	1

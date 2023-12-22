@@ -1,0 +1,28 @@
+Masborough Sorting Sidings South Junction/Canklow Loop		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Train to Canklow Loop or stopping on Up line,before propelling to Freight Depot"	"Stop at Signal S406 to collect radio then drawslowly forward"	3
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down pass Treeton Junction heading towardsMasborough Junction"	Depart FD	4
+"Down pass Treeton Junction heading towardsMasborough Junction"	Depart Canklow Loop towards FD	4
+Down pass/Arrive Masborough Junction	"Depart Canklow Loop towards MasboroughJunction"	Same time
+Up pass Masborough Junction towards Treeton	Depart FD to Treeton	41⁄2
+Up pass Masborough Junction towards Treeton	"Depart Canklow Loop towards FD orMasborough Junction"	4
+Depart FD	Depart to FD	51⁄2
+Depart FD	Pass to FD from Treeton	61⁄2
+Depart FD	"Down pass Treeton Junction towardsMasborough Junction"	4
+Depart Up Side to FD	"Down pass Treeton Junction towardsMasborough Junction"	3
+Depart Up Side to FD or Masborough Junction	Up pass Masborough Junction towards Treeton	41⁄2
+Arrive Canklow Loop	Up pass Masborough Junction towards Treeton	1
+Arrive Canklow Loop	Depart FD to Treeton	1
+"Up pass Masborough Junction towards TreetonJunction"	Depart FD to Up Side	41⁄2
+Up pass Treeton Junction	Up depart Canklow Loop	1
+LN807 DORE SOUTH JN TO DORE WEST JN
+""
+Dore South Jn
+""
+Planning Note
+"The standage at Signal S48 (Dore South Jn) on the Dore Single is 552 metres / 86SLUs, clear of Dore West Jn.This does not include any standback allowance from the signal."

@@ -1,0 +1,34 @@
+1st Move	2nd Move >>>																													
+""	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep	Dep
+""	1 S	2 S	3 S	4 S	5 S	"5ML"	5	6 S	"6ML"	6	7 S	"7ML"	7	8 S	8	"8ML"	9 S	9	"9ML"	10S	"10ML"	"11ML"	"12ML"	"13ML"	"13EL"	"14ML"	"14EL"	"15EL"	"16EL"	"17EL"
+""						ML1	ML2		ML1	ML2		ML1	ML2		ML1	ML2		ML1	ML2	*										
+Dep 1 S	2c	2	2	2	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	P	P	P	P	P	P	P	P
+Dep 2 S	2	2c	2	2	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	P	P	P	P	P	P	P	P
+Dep 3 S	2	2	2c	2	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	P	P	P	P	P	P	P	P
+Dep 4 S	2	2	2	2c	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	2	P	P	P	P	P	P	P	P	P	P
+Dep 5 S	2	2	2	2	2c	2c	2c	2	2	P	2	2	P	2	2	P	2	2	P	2	P	P	P	P	P	P	P	P	P	P
+"Dep 5 ML /ML1"	P	P	P	P	2c	2c	2c	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+Dep 5 ML2	P	P	P	P	2c	2c	2c	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+Dep 6 S	2	2	2	2	2	2	2	2c	2c	2c	2	2	Px	2	2	Px	2	2	Px	2	Px	P	P	P	P	P	P	P	P	P
+"Dep 6 ML /ML1"	P	P	P	P	2	2	2	2c	2c	2c	2	2	2	2	2	2	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+Dep 6 ML2	P	P	P	P	Px	2	2	2c	2c	2c	2	2	2	2	2	2	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+Dep 7 S	2	2	2	2	2	2	2	2	2	2	2c	2c	2c	2	2	Px	2	2	Px	2	Px	P	P	P	P	P	P	P	P	P
+"Dep 7 ML /ML1"	P	P	P	P	2	2	2	2	2	2	2c	2c	2c	2	2	2	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+Dep 7 ML2	P	P	P	P	Px	2	2	Px	2	2	2c	2c	2c	2	2	2	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+Dep 8 S	2	2	2	2	2	2	2	2	2	2	2	2	2	2c	2c	2c	2	2	2	2	Px	P	P	P	P	P	P	P	P	P
+Dep 8 ML1	P	P	P	P	2	2	2	2	2	2	2	2	2	2c	2c	2c	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+"Dep 8 ML /ML2"	P	P	P	P	Px	2	2	Px	2	2	Px	2	2	2c	2c	2c	2	2	2	2	2	2	2	2	P	2	P	P	P	P
+Dep 9 S	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2c	2c	2c	2	Px	P	P	P	P	P	P	P	P	P
+Dep 9 ML1	P	P	P	P	2	2	2	2	2	2	2	2	2	2	2	2	2c	2c	2c	2	2	2	2	2	P	2	P	P	P	P
+"Dep 9 ML /ML2"	P	P	P	P	Px	2	2	Px	2	2	Px	2	2	2	2	2	2c	2c	2c	2	2	2	2	2	P	2	P	P	P	P
+Dep 10 S*	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2c	2c	P	P	P	P	P	P	P	P	P
+Dep 10 ML	P	P	P	P	Px	2	2	Px	2	2	Px	2	2	Px	2	2	Px	2	2	2c	2c	2	2	2	P	2	P	P	P	P
+Dep 11 ML	P	P	P	P	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2c	2	2	P	2	P	P	P	P
+Dep 12 ML	P	P	P	P	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2	2c	2	P	2	P	P	P	P
+Dep 13 ML	P	P	P	P	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2	2	2c	2c	2	P	P	P	P
+Dep 13 EL	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	2c	2c	2	2	2	2	2
+Dep 14 ML	P	P	P	P	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2	P	2	2	2	2	2	2c	2c	P	P	P
+Dep 14 EL	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	2	2c	2c	2	2	2
+Dep 15 EL	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	2	P	2	2c	2	2
+Dep 16 EL	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	2	P	2	2	2c	2
+Dep 17 EL	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	P	2	P	2	2	2	2c

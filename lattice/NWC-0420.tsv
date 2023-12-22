@@ -1,0 +1,31 @@
+""	NW5001 CREWE NORTH JN TO MANCHESTER PICCADILLY				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Down Chelford Loop	Down	142	909	
+""	Up Chelford Loop	Up	148	953	
+""	Alderley Edge Down Siding	Down	24	154	
+""	Alderley Edge Up Siding	Up	18	116	
+""	"Wilmslow Down ReversingSiding"	Down	24	155	
+""	Stockport Down Main	Down	32	210	
+""	Stockport Down Goods	Down	33	217	
+""	Mayfield Goods Loop	"Down andUp"	19	127	
+""	Engine Siding	"Down andUp"	18	117	
+""	"Manchester Piccadilly HoldingSiding"	Down	22	143	
+""	NW5009 COLWICH JN TO CHEADLE HULME					
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES		
+""			SLU	METRES		
+""	"Sideway Jn (Down PassengerLoop)"	Down	72	465		
+""	"Stoke Up and Down ThroughSiding"	Down	24	157		
+""	"Stoke Up and Down ThroughSiding"	Up	24	157		
+""	Longport Down Siding	Down	124	795		
+""	"Bradwell Longport Jn (UpGoods Loop)"	Up	43	279	"Between Longport Jn and Bradwell JnBetween Bradwell Jn and Longport Jn"	
+""	Macclesfield Signal MD4833	Down	44	284	"Standage between MD4833 andMD9848 signals on Down Stoke"	
+""	NW5011 HEATON NORRIS JN TO GUIDE BRIDGE STATION JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Heaton Norris Up Goods Loop	Up	114	730	
+""	NW5015 HADFIELD TO ARDWICK JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	"Guide Bridge Down and UpPassenger Loop"	Down	136	875	
+""	"Guide Bridge Down and UpPassenger Loop"	Up	112	720	

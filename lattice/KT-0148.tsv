@@ -1,0 +1,41 @@
+""	Wennington Crossover	
+""		
+""	Junction Margins	Margin
+""	All conflicting moves	3
+""	Ebbsfleet International West Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Class 395 train stopping at EbbsfleetInternational Platforms 2 or 3"	"Speed differential approaching EbbsfleetInternational"	1⁄2
+""			
+""	Junction Margins	Margin	
+""	All conflicting moves	3	
+""	Ebbsfleet International		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Up Eurostar Class 373/374 train stopping atEbbsfleet International"	"Speed differential after Ebbsfleet InternationalEast Junction"	1⁄2
+""	Wrong direction move into platform		1
+""	Wrong direction move departing from platform		1⁄2
+""	"Class 395 train departing from Platform 1, 3 or 4towards Ebbsfleet West Junction"		1⁄2
+""			
+""	Connectional Allowances		
+""	Southeastern services	10	
+""			
+""	Dwell Time		
+""	Class 395 Platforms 5 & 6 (High Level)	11⁄2	
+""	Class 395 Platforms 2 & 3 (Low Level)	1	
+""	Class 373/374	2	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"From Down International Platform to DownCTRL Line"	"From Up CTRL Line to Down InternationalPlatform"	5
+""	"From Down International Platform to Up CTRLLine"	"From Down CTRL Line to Down InternationalPlatform"	5
+""	"From Up International Platform to Up CTRLLine"	"From Down CTRL Line to Up InternationalPlatform"	4
+""	Ebbsfleet International East Junction	
+""		
+""	Junction Margins	Margin
+""	All conflicting moves	3
+""	Southfleet Junction
+""	
+""	Adjustments to Sectional Running Times

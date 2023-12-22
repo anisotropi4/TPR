@@ -1,0 +1,66 @@
+""										
+""										
+""						
+""	Southampton Airport Parkway					
+""						
+""						
+""						
+""	Adjustment to Sectional Running Times					
+""						
+""	Movements		Reason		Value	
+""						
+""	"Up non-stop trains towardsEastleigh Up Loop via Up SL*"		Speed Differential		{1⁄2}	
+""						
+""	*to be shown approaching Southampton Airport ParkwayTilda					
+""						
+""						
+""						
+""	Dwell Times					
+""						
+""	All Services except as shown below		1			
+""						
+""	"All SWR services departing between 0600 and 0845 or departing between 1600 and1900 Monday to Friday except where formed of Class 158/159 no longer than 3 cars"		11⁄2			
+""						
+""	CrossCountry Services		11⁄2			
+""						
+""	"Note:For a Freight Standing at Signal E85 in Eastleigh Up Loop a following Passenger/Freight service would not beable to depart/Pass Southampton Airport Parkway onto the Up SL until 1 minute after the Freight had departedEastleigh platform 1.A Passenger Service could depart Southampton Airport Parkway onto the SL 1 minute after a passenger unitstanding at Signal E85 in Eastleigh Up Loop had departed the Signal."					
+""						
+""						
+""	St. Denys					
+""						
+""						
+""						
+""	Adjustment to Sectional Running Times					
+""						
+""	Movements		Reason		Value	
+""						
+""	"Down freight trains from Eastleigh directionrouted SL"		Approach control		{11⁄2}	
+""						
+""	"Down passenger trains from Eastleigh directionrouted SL"		Approach control		{1}	
+""						
+""	"Up trains towards Fareham except for Class377"		Speed differential		{1⁄2}	
+""						
+""	"Down trains (except for Class 22x/377)crossing from Up Netley to the Down Fast notstopping at St. Denys"		Speed differential		{1}*^	
+""						
+""	"Down Class 22x crossing from Up Netley to theDown Fast not stopping at St. Denys"		Speed differential		{1⁄2}*	
+""						
+""	"* Applies approaching next timing point.^ Does not apply to Class 377 because the SRT is based on crossing from the Up Netley"					
+""						
+""						
+""						
+""	Dwell Times					
+""						
+""	"Class 450 all services to/fromFareham"		1			
+""						
+""						
+""						
+""	Length Restrictions					
+""						
+""	"Trains exceeding the following lengths will foul Mount Pleasant LC:Up Fast line (E704 signal): 491mUp Slow line (E706 signal): 492m (but foul of access to Bevois Park Nos.1 and 2 Receptions)Up Slow line (E706 signal): 405m (clear of access to Bevois Park Nos.1 and 2 Receptions)"					
+""						
+""	"The above figures represent total length from signal to block joint. Signal standback allowance is not included –stand-back from signals must be deducted from these values."					
+""						
+""	"Pathing and dwell times must not exceed 2 minutes unless the train concerned is shorter than the above lengthlimits."					
+""						
+""						
+""						

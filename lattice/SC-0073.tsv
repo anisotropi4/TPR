@@ -1,0 +1,26 @@
+SC143 CRIANLARICH TO OBAN			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"RB: A following train must wait 1 minute for the train in front to clear the section and then 1 minute to carry out atoken exchange before it can depart."			
+""			
+Crianlarich – Tyndrum Lower	RB	Single Line	
+Tyndrum Lower – Dalmally	RB*	"Single Line.*Long Section Token can be given betweenTyndrum Lower and Taynuilt in both directions ifavailable."	
+Dalmally – Taynuilt	RB*	"Single Line.*Long Section Token can be given betweenTyndrum Lower and Taynuilt in both directions ifavailable."	
+Taynuilt – Connel Ferry	RB*	"Single Line.*Long Section Token can be given between Taynuiltand Oban in both directions if available."	
+Connel Ferry – Oban	RB*	"Single Line.*Long Section Token can be given between Taynuiltand Oban in both directions if available."	
+SC145 FORT WILLIAM TO MALLAIG			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"RB: A following train must wait 1 minute for the train in front to clear the section and then 1 minute to carry out atoken exchange before it can depart."			
+""			
+""			
+"Fort William Junction – Loch EilOutward Bound"	RB*	"Single Line*Long Section Token can be given between FortWilliam Junction and Glenfinnan in both directions ifavailable."	
+"Loch Eil Outward Bound –Glenfinnan"	RB*	"Single Line*Long Section Token can be given between FortWilliam Junction and Glenfinnan in both directions ifavailable."	
+Glenfinnan – Arisaig	RB*	"Single Line*Long Section Token can be given betweenGlenfinnan and Mallaig in both directions if available."	
+Arisaig – Mallaig	RB*	"Single Line*Long Section Token can be given betweenGlenfinnan and Mallaig in both directions if available."	
+SC147 BERWICK TO EDINBURGH WAVERLEY			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Berwick – Oxwellmains (inclusive)	4	4	
+"Oxwellmains (exclusive) –Portobello Junction (excl. Down;incl. Up)"	"34"	"34"	"Following non-stop passengerFollowing freight or stopping passenger"
+"Portobello Junction (incl. Down;excl. Up)  – Edinburgh"	3	3	

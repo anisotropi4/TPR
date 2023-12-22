@@ -1,0 +1,30 @@
+GW200  DIDCOT TO HEYFORD (EXCL.)			
+""			
+""		"Class 6 freight1000t / TR55"	{1⁄2}
+""		"Class 6 freight1200-1400t /TR70/85"	{1}
+""		"Class 6 freight1600-1800t /TR100"	{11⁄2}
+""		"Class 6 freight2000-2400t /TR115/130"	{2}
+""		"Class 4 freight400t"	{1⁄2}
+""		"Class 4 freight600t"	{1}
+""		"Class 4 freight800-1000t"	{11⁄2}
+""		"Class 4 freight1200-1400t"	{1}
+""		"Class 4 freight1600-1800t"	{11⁄2}
+"Passing from Didcot Parkway station orFoxhall Jn towards Appleford Sidings"	"Acceleration from slowerroute"	"Freight 1800t /TR100 andabove"	{1⁄2}
+"Passing from Didcot TC towards ApplefordSidings"	"Acceleration from slowerroute"	"1600t/TR85 andbelow1800t/TR100 andabove"	"{1⁄2}{1}"
+% not required for trains stopping at Appleford Station as this is included in the SRT			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"Passing towards Didcot Parkway station orFoxhall Jn"	"Deceleration to slowerroute"	All traffic*	{1⁄2}
+Passing towards Didcot TC	"Deceleration to slowerroute"	All freight	{1}
+*Except for 165/6 that have stopped at Appleford as this is included in the SRT.			
+""			
+Junction Margins			
+First Movement		Second Movement	Margin
+"Freight pass to Didcot Parkway or DidcotWest Jn"		Pass to Didcot East Jn	4
+"Freight pass from Didcot Parkway or DidcotWest Jn"		Pass from Didcot East Jn	4
+"Passenger pass Didcot North from AvoidingLine (not stopping at Appleford)"		Pass from Down Oxford	21⁄2
+Kennington Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value

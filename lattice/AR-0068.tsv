@@ -1,0 +1,41 @@
+EA1300 SOUTH TOTTENHAM WEST JUNCTION TO SEVEN SISTERS JUNCTION			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+"South Tottenham West Junctionto Seven Sisters Junction"	AB+2	Single line. TCB plan as AB.	
+EA1310 CAMDEN ROAD WEST JUNCTION TO RICHMOND				
+""				
+""	FOLLOWING PASSENGER/ECS		"FOLLOWINGFREIGHT"	
+TIMING POINTS INCLUDED	STOPPING	NON-STOP		
+DOWN DIRECTION (WESTBOUND)				
+Camden Road Junction (exc.) to Hampstead Heath	3	3		4
+Hampstead Heath to West Hampstead	5	3		4
+West Hampstead to Kensal Green Junction	4	21⁄2		4
+"Kensal Green Junction to Willesden Junction HighLevel"	"TCB plan asAB+2"	"TCB plan asAB+1"		"TCB plan asAB+2"
+Willesden Junction High Level to Acton Wells Junction	"TCB plan asAB+2"	"TCB plan asAB+1"		"TCB plan asAB+2"
+Acton Wells Junction to South Acton	3*	3*		3*
+South Acton to Gunnersbury Junction	3	3		N/A
+Gunnersbury Junction to Richmond	2	2		N/A
+""				
+UP DIRECTION (EASTBOUND)				
+Richmond to Gunnersbury Junction	2	2		N/A
+Gunnersbury Junction to South Acton	4	4		N/A
+South Acton to Acton Wells Junction	4	4		31⁄2
+Acton Wells Junction to Willesden Junction High Level	"TCB plan asAB+2"	"TCB plan asAB+1"		"TCB plan asAB+2"
+"Willesden Junction High Level to Kensal GreenJunction"	"TCB plan asAB+2"	"TCB plan asAB+1"		"TCB plan asAB+2"
+Kensal Green Junction to West Hampstead	3	21⁄2		4
+West Hampstead to Hampstead Heath	5	3		4
+Hampstead Heath to Camden Road Junction (exc.)	31⁄2	31⁄2		4
+Notes				
+"*A stopping train cannot arrive at Acton Central until 11⁄2 minutes after a preceding passenger train or 2 minutesafter a preceding freight train has passed/departed South Acton"				
+EA1320 CAMDEN ROAD WEST JUNCTION TO STRATFORD PLATFORMS 1 AND 2		
+""		
+TIMING POINTS INCLUDED	"FOLLOWINGPASSENGER/ECS"	"FOLLOWINGFREIGHT"
+UP DIRECTION (WESTBOUND)		
+Channelsea Junction to Navarino Road Junction	3	4
+Navarino Road Junction to Camden Road East Junction (exc.)	3	3
+Camden Road East Junction (inc.) to Camden Road Junction (inc.)	3*	4
+""		
+DOWN DIRECTION (EASTBOUND)		
+Camden Road Junction (inc.) to Camden Road East Junction (inc.)	3	4
+Camden Road East Junction (exc.) to Channelsea Junction	3	31⁄2
+Notes		
+*Successive trains Westbound towards Gospel Oak must be 4 minutes apart at Camden Road Junction		

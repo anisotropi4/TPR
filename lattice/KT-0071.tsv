@@ -1,0 +1,29 @@
+""	SO140A OTFORD JUNCTION TO SEVENOAKS			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Otford Junction – Sevenoaks	"3 Non-Stopping4 Stopping"	"3 Non-Stopping4 Stopping"	
+""	SO150 SITTINGBOURNE WESTERN JUNCTION TO SHEERNESS ON SEA			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Sittingbourne Western Junction –Sheerness on Sea"	4	4	
+""	"SO150A SITTINGBOURNE EASTERN JUNCTION TO SITTINGBOURNE MIDDLEJUNCTION"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Sittingbourne Eastern Junction –Sittingbourne Middle Junction"	4	4	
+SO160 FAVERSHAM TO DOVER PRIORY			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Faversham – Canterbury East(exclusive)"	"5 1⁄2 Non-Stopping6 Stopping"	"4 Non-Stopping6 1⁄2 Stopping"	
+"Canterbury East (inclusive) –Shepherds Well  (exclusive)"	"5 1⁄2 Non-Stopping9 1⁄2 Stopping"	"5 Non-Stopping10 Stopping"	
+"Shepherds Well (inclusive) –Buckland Junction (exclusive)"	"41⁄2 Non-Stopping6 Stopping"	"4 Non-Stopping7 Stopping"	
+"Buckland Junction (inclusive) –Dover Priory"	3	3	
+""	SO170 TONBRIDGE TO BOPEEP JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Tonbridge – Tunbridge Wells(inclusive)"	3	3	
+""	"Tunbridge Wells (exclusive) – BoPeep Junction (exclusive)"	"41⁄2 Non-Stopping51⁄2 Stopping"	"41⁄2 Non-Stopping51⁄2 Stopping"	"A train travelling to TunbridgeWells Turnback can departTunbridge Wells station 3 minutesafter a train has departedTunbridge Wells towards Frant"
+""	SO180 PADDOCK WOOD TO MAIDSTONE WEST			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Paddock Wood  (exclusive) –Wateringbury"	"6 Non-Stopping7 Stopping"	"6 Non-Stopping7 Stopping"	"Trains can arrive/depart/passPaddock Wood 3 minutes apart"
+""	Wateringbury - East Farleigh	AB+2	AB+2	

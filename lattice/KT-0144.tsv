@@ -1,0 +1,36 @@
+""	Grain Level Crossing
+""	
+""	Grain Shared Area		
+""			
+""	Planning Note		
+""	"Only 1 train can move within the Shared Area at a time with permission from the Grain Network Rail Signaller andthe nominated Person in Charge."		
+""	First Movement	Second Movement	Value
+""	Depart to/arrive from Thamesport	Depart BP Terminal	40
+""	Arrive BP terminal	Depart to/arrive from Thamesport	12
+""			
+""	Grain Thamesport		
+""	Movement	Margin	
+""	"Train arriving at Terminal to train departing Terminal where both trains do not exceed 65SLU.Trains over 65SLU should not normally be planned."	2	
+""			
+""	Dwell Time		
+""	All services	An ‘OP’ dot stop is required in both directions	
+""	SO330 NUNHEAD TO HAYES
+""	
+""	Nunhead
+""	See entry under route SO260
+""	Lewisham Vale Junction
+""	
+""	Length Restrictions
+""	The standage at Signal TL253 to be clear of fouling Lewisham Vale Junction in rear is 180 metres/28 SLUs
+""	"A train exceeding 270m/42SLU in length on the Up Lewisham will foul Lewisham Junction when standing atTL252. Therefore, junction margins must be based on train’s departure time at Lewisham Vale Junction"
+""	"A train exceeding 225m/35SLU in length on the Down Tanners Hill will foul the route in at Tanners Hill Junctionwhen standing at TL243.Therefore, junction margins must be based on train’s departure time at Lewisham Vale Junction"
+""	Lewisham		
+""			
+""	Connectional Allowance	4	
+""			
+""	Dwell Time		
+""	All services	1	
+""			
+""	Junction Margins for Lewisham Station		
+""	First Movement	Second Movement	Margin
+""	Down Hayes service from Lewisham	"Up service from Hither Green direction towardsLewisham"	4

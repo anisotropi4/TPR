@@ -1,0 +1,37 @@
+""	Buxton Up Relief Sidings
+""	
+""	Planning Note – Run Rounds
+""	"A second train can enter the Up Relief Sidings 3 minutes after the first train has completed its run round move.The second train cannot commence its run round move until 2 minutes after the first train has departed."
+NW9007 NEW MILLS SOUTH JN TO ASHBURYS EAST JN		
+""		
+New Mills Central		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart platform 2 towards New Mills South Jn	"Train departs from New Mills Central Siding orSignal 30 to platform 2"	11⁄2
+"Depart platform 2 towards Marple WharfJn/New Mills Central Up Siding"	Arrive/Pass Platform 2	3
+""		
+Overlap Margins		
+"A train from New Mills South Jn cannot arrive at New Mills Central platform 1 if a route has been set for a downtrain departing New Mills Central platform 2 towards Marple Wharf Jn and vice versa."		
+"Train from New Mills South Jn arrives platform1"	Depart platform 2 towards Marple Wharf Jn	3
+Depart platform 2 towards Marple Wharf Jn	Arrive platform 1 from New Mills South Jn	2
+""		
+Turnaround Time		
+Up Passenger service forming ECS to New Mills Central Up Siding	3	
+ECS from New Mills Central Up Siding forming Down passenger service	3	
+New Mills Central Signal 30
+""
+Planning Note
+"It is not possible to reverse a train here if the driver is unable to change ends by walking through the train. This isbecause there is no authorised walking route."
+New Mills Central Up Siding
+""
+Planning note
+Length 115m
+Strines
+""
+Dwell Time
+Standard allowances apply but may be a request stop.
+""	Marple	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	Shunting between arrival platform and a different departure platform	8

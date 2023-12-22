@@ -1,0 +1,29 @@
+Dwell Time	
+15x	1⁄2
+GW700 GLOUCESTER BARNWOOD JUNCTION TO SEVERN TUNNEL JUNCTION			
+""			
+Horton Road Junction			
+""			
+"Junction Margin:- 2 minutes (can be reduced to 11⁄2 minutes if second train has at least 1-minute pathing oradjustment time approaching Horton Road Junction.)"			
+""			
+Adjustment to Sectional Running Times (show approaching this location)			
+Movement (Down)	Reason	Timing Load	Value
+"Trains routed beyond Horton Road Jn intoGloucester platform 1, if platform 2 isoccupied"	Approach Control	"All Passengertrains"	{1⁄2}
+"Trains routed beyond Horton Road Jn intoGloucester platform 2,via a weave over UML to pass a train in P1"	"Approach control andslowspeed connection"	"All Passengertrains"	{1⁄2}
+"Trains routed beyond Horton Rd Jntowards Awre via the UML or URL atGloucester"	"Approach control andslowspeed connection"	"FreightAll Passengertrains"	"{2}{1⁄2}"
+"Trains routed beyond Horton Rd Jn intoGloucester platform 4"	"Approach control andslowspeed connection"	"All Passengertrains"	{1⁄2}
+"Trains routed beyond Horton Road Jndirectly into Gloucester C.H.S"	"Approach control andslow speed connection"	All ECS moves	{1⁄2}
+Gloucester			
+""			
+Adjustment to Sectional Running Times (to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"Horton Road Jcn to Gloucester platform 2Via platform 1"	"Longer route combinedwith precision stoprequirement for longerformations"	80x / HST only	{1⁄2}
+"Horton Road Jcn to Gloucester platform 2Via UML"	"Approach control at G154signal and precision stoprequirement for longerformations"	"80x / HST onlyAll other traffic"	"{1}{1⁄2}"
+Horton Road Jcn to Gloucester Platform 4	Slow speed connections	"80x / HST onlyAll other traffic"	"{1}{1⁄2}"
+""			
+Adjustment to Sectional Running Times (to be shown after this location)			
+Movement	Reason	Timing Load	Value
+"Gloucester platform 2 to Horton Rd Jn viaplatform 1"	Approach control at G135	All traffic	{1⁄2}
+"Gloucester platform 4 or URL to Horton RdJn"	Slow speed connections	"80x / HST onlyAll other traffic"	"{1}{1⁄2}"
+"Gloucester platform 1 departure towardsAwre"	"Extra distance travelledthrough platform 2"	All traffic	{1⁄2}
+""			

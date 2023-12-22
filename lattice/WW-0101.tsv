@@ -1,0 +1,35 @@
+GW915 GWAUN-CAE-GURWEN TO PANTYFFYNNON			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Gwaun - Cae - Gurwen toPantyffynnon"	Single Line	One train working	
+GW930 CARMARTHEN JUNCTION TO CARMARTHEN STATION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Carmarthen Junction toCarmarthen Station"	AB+2*	*Single line, timed as AB	
+GW940 CARMARTHEN STATION TO CARMARTHEN BRIDGE JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Carmarthen Station to CarmarthenBridge Junction"	AB+2*	*Single line, timed as AB	
+GW950 WHITLAND TO PEMBROKE DOCK			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Whitland to Tenby	Single Line		
+Tenby to Pembroke Dock	Single Line	One train working.	
+GW960 CLARBESTON ROAD TO MILFORD HAVEN			
+TIMING POINT	DOWN	UP	NOTES
+""			
+Clarbeston Road to Milford Haven	AB+2*	*Single line, TCB but timed as AB+2	
+GW970 GULF OIL BRANCH JUNCTION TO WATERSTON GULF OIL REFINERY			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Gulf Oil Branch Junction toWaterston"	Single Line	"Lines are worked under the control of a person incharge (Clarbeston Road Jn Signaller).See section C2 Sectional Appendix"	
+GW980 HERBRANDSTON JUNCTION TO ROBESTON AMOCO SIDINGS				
+TIMING POINT	DOWN	UP	NOTES	
+""				
+"Herbrandston Junction toRobeston Amoco Sidings"	Single Line	"Lines are worked under the control of a person incharge (Clarbeston Road Jn Signaller).See section C2 Sectional Appendix"		
+NW3001 SALTNEY JUNCTION TO HOLYHEAD				
+TIMING POINT	DOWN	UP	NOTES	
+""				
+"NB: Between Saltney Jn and Colwyn Bay, where modelling has driven a review of headways, the first location (ineither direction) stated should be taken as exclusive, and the second location should be taken as inclusive."				
+Saltney Jn to Shotton (Low Level)	4	4		
+Shotton (Low Level) to Colwyn Bay	"51⁄27"	"51⁄27"	"Following a non-stop passengerFollowing a freight or stopping passenger"	

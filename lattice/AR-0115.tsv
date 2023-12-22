@@ -1,0 +1,28 @@
+Cambridge Reception Sidings		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Arrival at Cambridge Reception Sidings fromthe south"	"Arrival at Cambridge Reception Sidings fromthe south"	5
+"Departure from Cambridge Reception Sidingstowards the south"	"Departure from Cambridge Reception Sidingstowards the south"	5
+"Arrival at Cambridge Reception Sidings fromthe south"	Arrival at/departure from Cambridge station	"See matrix -treat 1st moveas Arr P8S"
+"Departure from Cambridge Reception Sidingstowards the south"	Arrival at/departure from Cambridge station	"See matrix -treat 1st moveas Dep P8S"
+Arrival at/departure from Cambridge station	"Arrival at Cambridge Reception Sidings fromthe south"	"See matrix -treat 2nd moveas Arr P8S"
+Arrival at/departure from Cambridge station	"Departure from Cambridge Reception Sidingstowards the south"	"See matrix -treat 2nd moveas Dep P8S"
+"For arrivals at & departures from Cambridge Reception Sidings to/from the north see entry under CambridgeCarriage Sidings North and South"		
+Cambridge		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Allowance
+"Trains travelling from Down Main into Platforms2, 3, 7 and 8"	Via slow speed crossovers	"{1}{1⁄2} GA"
+"Trains travelling from Down Main into Platform4 via DMT (e.g. when Platform 1 is occupied)"	Via slow speed crossovers	"{1} *{1⁄2} GA"
+"Trains travelling from Platform 1 to Down Mainvia TL or TLG (e.g. when Platform 4 isoccupied)"	Via slow speed crossovers	{1} *
+"Trains travelling from Platforms 7 and 8 to theDown Main"	Via slow speed crossovers	"{1}{1⁄2} 170/755"
+Trains travelling into Platforms 5 and 6	Approach control	{1⁄2}
+Trains arriving into an occupied platform	Calling on	{1⁄2}
+* Not required for GTR services as allowance is included within Sectional Running Time		
+""		
+Dwell Time	"11⁄22 for GTR services2* XC Class 170"	
+* May be reduced to 11⁄2 minutes by agreement with CrossCountry		
+""		
+Minimum Turnround Time	"20 desirable for CrossCountry DMUs and Greater Anglia(Norwich Cambridge) services.5 for Ipswich services10 minutes for GTR services to / from King’s Cross *12 minutes for Thameslink services to / from Brighton orThree Bridges ^"	
+"* May be reduced to 8 minutes (Class 700) or 9 minutes (Class 387) for 8 car trains by exception and subject toagreement with GTR.^ May be reduced to 10 or 11 minutes by exception and subject to agreement with GTR."		

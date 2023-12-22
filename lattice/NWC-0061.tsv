@@ -1,0 +1,38 @@
+""	MD445 STOURBRIDGE JUNCTION TO STOURBRIDGE TOWN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	"Stourbridge Junction TownPlatform"	–			Single Line
+""	Stourbridge Town		–		
+""	MD450 STOURBRIDGE NORTH JN TO ROUND OAK				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Stourbridge North Jn				To/from Stourbridge Junction – MD430
+""	Kingswinford Jn	–	–		
+""	Brierley Hill	–	–	F, S	
+""	Round Oak		–		"All movements must return to KingswinfordJn via the Down and Up Round Oak Line"
+""	MD455 KINGSWINFORD JN SOUTH TO PENSNETT				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Kingswinford Jn	–			
+""	Network Rail Boundary				145 miles 60 chains
+""	Pensnett				
+""	End of line				146 miles 30 chains
+""	MD460 FENNY COMPTON TO BURTON DASSETT (KINETON MOD)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Kineton Jn				"To/from Fenny Compton South Jn –MD401"
+""	Kineton Sidings	–	–		"For timing purposes this location is shownas Fenny Compton Exchange Sidings"
+""	"Burton Dassett Kineton MODBoundary gate"		–		"To/from Kineton MODFor timing purposes this location is shownas Kineton MOD"
+""	MD501 TAMWORTH (INCLUSIVE) TO BIRMINGHAM PROOF HOUSE JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Tamworth High Level	–	–		"To/from Wichnor Jn – LN3501 Refer toEast Midlands Timetable Planning Rules"
+""	Wilnecote	–	–	S	
+""	Kingsbury Oil Terminal	–		F	
+""	Birch Coppice Container Terminal	–		F	
+""	Kingsbury E.M.R Sidings		–	F	
+""	Kingsbury Reception Sidings	–	–	F	"All trains to/from Kingsbury Terminals muststop hereTo/From Kingsbury Terminals"
+""	Kingsbury Shunt Frame	–	–	F	Network Rail Boundary
+""	Kingsbury Branch Jn	–	–	X	To/from Kingsbury Terminals
+""	Kingsbury Jn	–	–		To/from Whitacre Jn – MD545
+""	Water Orton East Jn				To/from Coleshill Parkway – MD555

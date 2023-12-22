@@ -1,0 +1,29 @@
+LN185 ALLINGTON WEST JUNCTION TO SKEGNESS			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Allington West Junction toBarkston East Junction"	AB+2	AB+2	TCB planned as AB
+"Barkston East Junction toAncaster"	AB+2	AB+2	TCB planned as AB
+Ancaster to Rauceby	AB+2	AB+2	
+Rauceby to Sleaford	AB+2	AB+2	
+Sleaford to Heckington	AB+2*	*Single Line. TB planned as AB	
+Heckington to Hubberts Bridge	AB+2	AB+2	
+Hubberts Bridge to Sibsey	AB+2*	*Single Line. TB planned as AB	
+"Sibsey to Bellwater JunctionSignal Box"	AB+2	AB+2	
+"Bellwater Junction Signal Box toThorpe Culvert"	AB+2	AB+2	
+Thorpe Culvert to Wainfleet	AB+2	AB+2	
+Wainfleet to Skegness	AB+2	AB+2	
+"LN190 ALLINGTON EAST JUNCTION TO ALLINGTON NORTH JUNCTION(ALLINGTON CHORD)"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Allington East Junction to AllingtonNorth Junction"	AB+2	AB+2	
+"LN195 GRANTHAM NOTTINGHAM BRANCH JUNCTION TO ALLINGTON WEST JN(INCLUSIVE)"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Nottingham Branch Junction toAllington West Junction"	AB+2	AB+2	
+LN200 WRAWBY JUNCTION TO PELHAM STREET JUNCTION			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Wrawby Junction to Holton leMoor"	AB+2	AB+2	
+Holton le Moor to Wickenby SB	AB+2	AB+2	
+Wickenby SB to Langworth SB	AB+2	AB+2	
+"Langworth SB to Pelham StreetJunction"	AB+2	AB+2	

@@ -1,0 +1,33 @@
+""	Blackpool North		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Approaching any occupied platform	Approach control	1⁄2
+""			
+""	Minimum Turnaround Time – Trains changing direction at end of journey		
+""	Class 90, 7 Mk.4s and DVT	25	
+""			
+""	Platform End Margins (see also Devonshire Road Jn)		
+""	First Movement	Second Movement	Margin
+""	Train arrives any platform	Train departs from any platform	1
+""	Depart platform 3 or 4 via Down Main	Arrive platforms 3 or 4	3
+""	Depart platforms 3 to 6	Arrive platform 5 or 6	4
+""			
+""	Permissive Working		
+""	Attaching/detaching and Platform Sharing is authorised as shown below:		
+""	Platforms 1 to 6	Attaching/detaching and platform sharing	
+""	NW4007 KIRKHAM NORTH JN TO BLACKPOOL SOUTH	
+""		
+""	Moss Side	
+""		
+""	Dwell Time	
+""	All – Up direction only	1
+""	St. Annes-on-the-Sea	
+""		
+""	Dwell Time	
+""	All – Down direction only	1
+""	NW4011 MORECAMBE SOUTH JN TO MORECAMBE
+""	
+""	Bare Lane
+""	
+""	"The route from Bare Lane Jn to Morecambe is operated as two independent single lines – the Down and UpMorecambe (Platform 1) and the Down and Up Heysham (Platform 2). Trains to/from Heysham MUST use theDown and Up Heysham.In order to access the Down and Up Heysham line towards Heysham Port, all trains must stop at Morecambe JnGround Frame and obtain release of the key to operate the Ground Frame from the signaller at Preston PSB. Aminimum of 4 minutes should be allowed for the operation of the Ground Frame in both directions. Once theGround Frame has been released, no other train can be allowed to proceed towards Morecambe on the Down andUp Heysham from Bare Lane until Ground Frame operated points have been returned to normal and the train thathas proceeded to Heysham Port has returned to Bare Lane and cleared the single line."

@@ -1,0 +1,31 @@
+""	Heaton Norris Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Down Fast to Down Slow	Approach Control and slow speed crossover	1⁄2 $
+""	Down Slow to Down Fast	Approach Control and slow speed crossover	1⁄2 $
+""	Up Slow to Up Fast	Approach Control and slow speed crossover	1⁄2 $
+""	"Passenger pass from Down Fast or Down Slowto Ash Bridge Jn"	"Approach Control and Slow speed overJunction"	1⁄2
+""	Freight pass from Down Fast to Ash Bridge Jn	Approach Control	1
+""	Freight pass from Down Slow to Ash Bridge Jn	"Approach Control and Slow speed overJunction"	21⁄2
+""	Pass from Ash Bridge Jn	Acceleration from slow speed junction	"1 Freight1⁄2 Passengerafter HeatonNorris Jn"
+""	$ Additional 1 to be applied approaching next timing point for all freight and all passenger trains of 5 cars or longer		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass Up Slow or Up Fast	Pass Down Fast towards Ash Bridge Jn	11⁄2 *
+""	Pass Up Slow or Up Fast	Pass Down Slow towards Ash Bridge Jn	11⁄2
+""	Pass Up Slow or Up Fast	"Depart Up Branch or Up Goods Loop to UpFast"	11⁄2
+""	Pass Up Slow	Pass from Ash Bridge Jn to Up Slow or Up Fast	41⁄2
+""	Pass Up Fast	Pass from Ash Bridge Jn to Up Fast	3
+""	Pass from Up Branch to Up Fast	Pass Up Slow (stopping at Heaton Chapel)	3
+""	Pass from Up Branch to Up Fast	Pass Up Slow	4
+""	Pass Down Fast	"Freight pass from Down Slow towards AshBridge Jn"	2
+""	Pass Down Fast towards Ash Bridge Jn	Pass Up Slow (stopping at Heaton Chapel)	2*
+""	Pass Down Fast towards Ash Bridge Jn	Pass Up Slow	3*
+""	Pass Down Fast towards Ash Bridge Jn	Pass Up Fast	21⁄2*
+""	Pass Down Slow towards Ash Bridge Jn	Pass Up Slow (stopping at Heaton Chapel)	3
+""	Pass Down Slow towards Ash Bridge Jn	Pass Up Slow	4
+""	Pass Down Slow towards Ash Bridge Jn	Pass Up Fast	3*
+""	Pass Down Slow towards Ash Bridge Jn	Pass Down Fast	3*
+""	*Additional 1⁄2 minute if first move is freight.		

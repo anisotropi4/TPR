@@ -1,0 +1,38 @@
+""	"SO220 ASHFORD TO RAMSGATE(VIA CANTERBURY WEST)"	
+""		
+""	Canterbury West	
+""	Dwell Time	
+""	All Services	1
+""		
+""	Limit of Shunt	Length Limit
+""	Down Platform Loop (clear of signal EDH59)	8 cars
+""		
+""	Minster		
+""			
+""	Connectional Allowance	4	
+""			
+""	Limit of Shunt	Length Limit	
+""	Down Main clear of Shunt Signal 57	8 cars	
+""			
+""	Permissive working for attaching/detaching and platform sharing is authorised as shown below:		
+""	Platform 1	Down Main	Detaching Only
+""	Platform 2	Up Main	Detaching Only
+""	Minster East Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"12 Car electric trains from Deal towardsRamsgate"	Voltage drop in power supply	1
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train in the Up direction towards CanterburyWest"	"Train in the down direction from Sandwichtowards Ramsgate"	21⁄2
+""	Pass Minster East Jn from Sandwich	Down train passing or departing Minster station	3
+""			
+""	Planning Restriction		
+""	"Trains on the Down Line must not be brought to a stand at the signal protecting Minster East Junction (EBE7) butmust stand at Minster station (EBE5) to avoid activating interlocking at Minster East Junction"		
+""	Thanet Parkway		
+""			
+""	Platform Reoccupation		
+""	First Movement	Second Movement	Value
+""	Down train depart towards Ramsgate	Arrive Platform 1	31⁄2
+""	Up train depart Platform 2	Up train arrive Platform 2 from Ramsgate	4

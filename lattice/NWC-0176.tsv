@@ -1,0 +1,32 @@
+""	Willesden West London Jn		
+""			
+""	Movement Up	Reason	Value
+""	"Up Fast and South West Sidings to Up Slowafter West London Jn"	Differential Junction speed	1
+""	"Up Fast or Up Slow to Mitre Bridge Jnapproaching West London Jn"	Differential Junction speed	1
+""	"Train crossing from Relief Lines, SouthWest Sidings or Acton Lane Reception onto theUp Fast towards Camden Jn"	Acceleration Allowance	"11⁄2 forPassenger,2 1⁄2 for freightapproachingnext timingpoint"
+""	Train from Willesden TMD onto the Up Slow	Acceleration after slow crossover	"1approachingnext timingpoint"
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Train crossing from Relief Lines, South WestSidings or Acton Lane Reception towardsCamden Jn"	Pass on Down Fast	4 1⁄2
+""	Pass on Up or Down Fast	"Train crossing from Relief Lines, South WestSidings or Acton Lane Reception towardsCamden Jn"	2
+""	"Train crossing from Up Fast towards MitreBridge Jn"	Train from Mitre Bridge Jn to Down Fast	5*
+""	* 4 minutes when preceding fouling move is a 5 car EMU or other train of equivalent length		
+""	Harlesden Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Down Fast or Slow to Railnet Reception, Upand Down Goods Lines, Brent Sidings andCarriage Line"	"Pass Willesden West London Jn on the UpSlow having not stopped at Wembley Central"	4 1⁄2
+""	"Down Fast or Slow to Railnet Reception, Upand Down Goods Lines, Brent Sidings andCarriage Line"	"Pass Willesden West London Jn on the UpSlow from a stand at Wembley Central"	4
+""	"Pass on the Up Slow at Willesden WestLondon Jn"	"Down Slow to Railnet Reception, Up and DownGoods Lines, Brent Sidings and Carriage Line"	1⁄2
+""	Sudbury Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Train from Up or Down Relief Lines to Down Slow to be applied at the next timing point after Wembley Central		
+""	Class 4 up to 1000t (inclusive)	Acceleration Allowance	1⁄2*
+""	Class 4 over 1200t	Acceleration Allowance	1*
+""	Class 6 up to 1400t (inclusive)	Acceleration Allowance	1⁄2*
+""	Class 6 over 1600t	Acceleration Allowance	1*
+""	*Additional 1⁄2 for trains from Up and Down Goods to be applied before Wembley Central		
+""			

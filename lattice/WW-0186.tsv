@@ -1,0 +1,36 @@
+"15x/16x SRTs at Clink Road Junction are based on running to/from Frome therefore adjustment allowances are notrequired."		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up pass from Blatchbridge Jn (direct)	Up pass from Frome North Jn	2
+""		
+Converging Margins		
+First Movement	Second Movement	Margin
+"Passenger pass from Frome North Jntowards Westbury"	"Pass from Blatchbridge Jn (via Fromeavoiding line)"	4
+""	Blatchbridge Junction			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	Pass to Frome	Approach control	80x	{1}
+""	Pass from Frome	Acceleration	80x	"{1} approachingnext timing point"
+""				
+""	Planning Note			
+""	"15x/16x SRTs at Blatchbridge Junction are based on running to/from Frome therefore adjustment allowances arenot required."			
+East Somerset Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+Pass to Merehead Quarry Jn	Approach control	All	{11⁄2 }
+Pass from Merehead Quarry Jn	Acceleration	"Freight up to1000tFreight 1200 to1400tFreight 1600t to2000tFreight 2200t to2600tFreight 2800t orabove"	"{1⁄2}*{1}*{11⁄2}* #{2}* #{21⁄2}* #"
+*To be applied approaching next timing point			
+"# Reduce by 1 if class 7"			
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Down pass to Merehead Quarry Jn (direct)	Up pass from Castle Cary	3	
+"Down pass to East Somerset Jn W324 Signal(via BL)"	Up pass from Castle Cary	21⁄2	
+Up pass from Castle Cary	Down pass to Merehead Quarry Jn	31⁄2	
+Up pass from Merehead Quarry Jn	Down pass to Merehead Quarry Jn	5	
+Down pass to Merehead Quarry Jn	Up depart from BL	2	
+Up pass from Castle Cary	Up pass from Merehead Quarry Jn	21⁄2	
+Up pass from Castle Cary	Up depart from BL	2	

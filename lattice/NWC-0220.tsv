@@ -1,0 +1,38 @@
+""	MD330 SOHO EAST JN TO SOHO NORTH JN
+""	
+""	Soho East Jn
+""	See entry under route MD325 Soho South Jn to Perry Barr North Jn (Soho Lines)
+""	Soho North Jn
+""	See entry under route MD301 Rugby Trent Valley Jn to Penkridge (via Birmingham)
+""	MD340 ASTON NORTH JN TO ALREWAS (EXCLUSIVE)	
+""		
+""	Erdington	
+""		
+""	Dwell Time	1
+""	Sutton Coldfield	
+""		
+""	Dwell Time	1
+""	Four Oaks				
+""					
+""	Adjustments to Sectional Running Times				
+""	Movement Down		Reason		Value
+""	Train terminating in platforms 2 or 3		Approach control		1⁄2
+""					
+""	Junction Margins				
+""	First Movement	Second Movement	Margin		
+""	Down train arrives Platform 2 or 3	Down train arrive/pass Platform 1	3		
+""	Up train depart or pass	Down train arrives Platforms 2 or 3	3		
+""	Up train pass non-stop to Aston	Up service depart Platform 3	3*		
+""	* The normal headway applies at the next mandatory timing point – see section 5.2				
+""					
+""	Minimum Turnround Time – Trains changing direction at end of journey				
+""	Standard	5			
+""	Butlers Lane	
+""		
+""	Dwell Time	1
+""	Blake Street			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason		Value
+""	Train terminating in Up platform	Approach control		1⁄2
+""				

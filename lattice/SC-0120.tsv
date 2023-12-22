@@ -1,0 +1,36 @@
+Barassie Junction
+"Trains to Barassie Yard from Irvine require 1⁄2 minute OP stop at Barassie Station for approach control.Trains to Barassie Yard from Kilmarnock / Caledonian Paper require 1⁄2 minute OP stop at Barassie Junction forapproach control.Train cannot reverse in DPL to run towards Irvine if there is a train on the line from Kilmarnock or CaledonianPaper."
+Barassie Yard Run Round		
+""		
+Junction Margins		
+First train arrives in Yard	Second train arrives in Yard	15*
+First train departs from Yard	Second train departs from Yard	20*
+* To allow sufficient time for loco to perform run-round movement.		
+""		
+"NoteApplies to Sidings 5 & 6 only on Network Rail infrastructure"		
+Monkton Siding		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Monkton Siding	Depart Prestwick Town	1
+Arrive Monkton Siding	Pass Prestwick Town	21⁄2
+Up arrive Troon	Depart Monkton Siding	Same time
+"Up pass Barassie Junction (not stoppingTroon)"	Depart Monkton Siding	Same time
+Prestwick International Airport
+""
+"RestrictionDown trains cannot arrive at this Station until at least 2 minutes after preceding train departs Prestwick Town."
+Prestwick Town	
+""	
+Platform Re-occupation	4
+""	
+"RestrictionPathing time must not be used between Prestwick Town and Prestwick International Airport and vice versa, owingto signaling constraints."	
+Falkland		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train into Falkland Yard	5mph PSR immediately after Junction	2
+Down train into DGL	Approach Control	1⁄2
+""		
+Movement Up	Reason	Value
+"Up Goods train from Falkland Yard towardsPrestwick"	Acceleration from 5mph PSR	11⁄2
+""		

@@ -1,0 +1,23 @@
+""	Balshaw Lane Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"All trains timed with a maximum speed above75mph joining Up Main from Up Slow.Adjustment to be shown after Balshaw LaneJn.  Any of the adjustments shown for WiganNorth Western to be added to this whereappropriate."	Acceleration to Up Main line speed	1⁄2
+""	Euxton Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All trains joining the Down Slow from the DownBolton"	Approach control and 30mph crossovers	"1⁄2 appliesapproachingEuxton Jn"
+""	"Acceleration from 30mph crossovers to linespeed"	"1 applies afterEuxton Jn1⁄2 appliesafter EuxtonJn if stoppingat Leyland"	
+""	"All trains joining the Down Fast from the DownBolton"	"Acceleration from 50mph crossovers to linespeed"	"1⁄2 appliesafter EuxtonJn"
+""	"All trains crossing from the Down Fast to theDown Slow"	Approach control and 30mph crossovers	"1 appliesapproachingEuxton Jn"
+""	"Acceleration from 30mph crossovers to linespeed"	"1 applies afterEuxton Jn"	
+""			
+""	Movement Up	Reason	Value
+""	"All trains crossing from the Up Fast to UpBolton that have not stopped at Leyland"	"Deceleration from line speed for 60mphcrossovers"	"1⁄2 appliesapproachingEuxton Jn"
+""	"All trains crossing from the Up Slow to UpBolton or crossing to the Up Fast"	Flashing yellow aspects and 30mph crossovers	"1⁄2 appliesapproachingEuxton Jn *"
+""	"* Assumes no conflicting move on the Down Fast. If there is a conflicting move on the Down Fast, refer to junctionmargins below."		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	All conflicting moves		3

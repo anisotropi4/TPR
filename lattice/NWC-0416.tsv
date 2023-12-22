@@ -1,0 +1,35 @@
+""	MD410 COVENTRY NORTH JN TO NUNEATON SOUTH JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Hawkesbury Lane	Up	58	371	
+""	MD430 DROITWICH SPA TO STOURBRIDGE NORTH JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	"Droitwich Spa Down GoodsLoop"	Down	44	282	
+""	Droitwich Spa Up Goods Loop	Up	68	436	
+""	"Down Kidderminster GoodsLoop"	Down	69	447	
+""	"Stourbridge Down GoodsLoop"	Down	39	250	
+""	"Stourbridge Down ThroughSiding"	Down	39	250	
+""	MD435 SMALL HEATH SOUTH JN TO STOURBRIDGE NORTH JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	"Down Rowley Regis GoodsLoop"	Down	61	392	
+""	Up Rowley Regis Goods Loop	Up	65	422	
+""	Up Rood End Goods Loop	Up		456	
+""	Queens Head Sidings	A&D	53	345	
+""	MD501 TAMWORTH (INCLUSIVE) TO BIRMINGHAM PROOF HOUSE JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	"Down Washwood HeathThrough Siding"	Down	116	746	Between WP1944 and WP8891 signals
+""	"Up Washwood Heath GoodsLoop"	Up/Down	132	850	
+""	Down Saltley Goods Loop	Down	21	135	
+""	Duddeston Junction	Down/Up	83	534	"Down Derby Goods between WP9882 &WP6903 signals for run round."
+""	MD555 NUNEATON NORTH JN TO WATER ORTON EAST JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Down Arley Goods Loop	Down/Up	76	491	
+""	MD701 MARYLEBONE TO AYNHO JN				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Wembley Turnback Siding	Down	39	256	
+""	"Wembley Stabling Siding(proposed)"	Up	37	240	Between ME39 signal and buffer stops

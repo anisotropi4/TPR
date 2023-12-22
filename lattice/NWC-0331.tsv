@@ -1,0 +1,26 @@
+""	Longsight CMD: access from Longsight South Jn
+""	
+""	Planning notes and restrictions
+""	"•Trains exiting Longsight CMD at Longsight South Jn must have a dot-stop of zero minutes duration (show‘A’ in activities column)•Trains entering Longsight CMD at Longsight South Jn must be travelling on either the Down Fast or DownStyal approaching Slade Lane Jn."
+""	Longsight Down Goods		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Train arriving in Down Goods from Ardwick Jn	"Train on Down Slow Line cannot pass SladeLane Jn until the first movement has arrived inthe Down Goods"	"As statedunder secondmovement"
+""	Longsight North Jn
+""	
+""	Planning note
+""	"Trains exiting Longsight CMD at Longsight North Jn must have a dot-stop of zero minutes duration (show ‘A’ inactivities column).The Up & Down Goods line is the preferred route between Longsight North Jn and Ardwick Jn for trains to/fromLongsight CMD."
+""	Ardwick Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down trains which have stopped atLevenshulme"	Not reaching line speed after departing station	1⁄2
+""	"Down trains to Manchester Piccadilly platforms13 and 14 formed of light locomotives, DMU,EMU, 22x, Loco Hauled passenger servicesand NMT"	"To compensate for shorter distance betweenArdwick Jn and Manchester Piccadilly 13/14platforms compared to that between Ardwick Jnand Manchester Piccadilly Platforms 1 to 12."	-1
+""			
+""	Movement Up	Reason	Value
+""	"All Up locomotive hauled trains except ECStrains for Longsight"	Length of train leaving low speed area	1⁄2
+""	All ECS trains for Ardwick T.M.D.	Slow speed approach to Depot	1⁄2
+""	"All ECS trains for Longsight CMD via Up Eastor Up Fast"	Slow speed approach to Longsight	1
+""	All ECS trains for Longsight CMD via Up Slow	Slow speed approach to Longsight	1⁄2
+""	"Up trains starting from Manchester PiccadillyPlatforms 13 and 14 to the Up Slow line toSlade lane Jn., formed of light locomotives,DMU, EMU, 22x, Loco Hauled passengerservices and NMTDOES NOT APPLY TO MOVEMENTS TOLONGSIGHT C.S."	"To compensate for shorter distance betweenManchester Piccadilly 13/14 platforms andArdwick Jn compared to that betweenManchester Piccadilly Platforms 1 to 12 andArdwick Jn"	-1

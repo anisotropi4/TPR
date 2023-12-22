@@ -1,0 +1,36 @@
+""	GW690 ST. ERTH TO ST. IVES			
+""	ROUTE SECTION	SX	SO	SUN
+""				
+""	St. Erth to St. Ives	0630 - 2230	0630 - 2230	"0830 – 2230 Summer1130 – 2030 Winter"
+""	GW720 FIFOOTS POINT POWER STATION TO EAST USK GF			
+""	ROUTE SECTION	SX	SO	SUN
+""				
+""	"Fifoots Point Power Station toEast Usk"	Open when required.	Open when required.	Open when required.
+""	"GW730 SHREWSBURY, SUTTON BRIDGE JUNCTION (EXCL.) TOMAINDEE WEST JUNCTION (NORTH AND WEST LINE)"			
+""	ROUTE SECTION	SX	SO	SUN
+""				
+""	"Sutton Bridge Junction to MarshBrook L.C."	Open Continuously	0000 - 2330	0930 - 2400
+""	Marsh Brook L.C. to Craven Arms	Open Continuously	0000 - 2300	0930 - 2400
+""	Craven Arms to Onibury	Open Continuously	0000 - 2230	0930 - 2400
+""	Onibury to Bromfield	Open Continuously	0000 - 2230	0930 - 2400
+""	Bromfield to Woofferton	Open Continuously	0000 – 0600 Sun	0930 - 2400
+""	Woofferton to Moreton- on- Lugg	Open Continuously	0000 – 0600 Sun	0930 - 2400
+""	"Moreton- on- Lugg to ShelwickJunction"	Open Continuously	0000 – 0600 Sun	0930 - 2400
+""	Shelwick Junction to Hereford	Open Continuously	0000 – 0600 Sun	0800 - 2400
+""	Hereford to Tram Inn	Open Continuously	0000 – 0600 Sun	0800 - 2400
+""	Tram Inn to Abergavenny	Open Continuously	0000 – 0600 Sun	0830 - 2400
+""	Abergavenny to Little Mill Junction	Open Continuously	Open Continuously	0830 - 2400
+""	"Little Mill Junction to MaindeeNorth Junction"	Open Continuously	Open Continuously	0830 - 2400
+""	The following signal boxes are equipped to be switched-out, opening hours are:			
+""	Sutton Bridge			"Switches in at 1000 ona Sunday."
+""	Dorrington	0540 - 2300	0540 - 2300	1200 - 2045
+""	Pontrilas	0515 – 2315	0515 - 1800	1400 – 2200
+""	GW731 ABBEY FOREGATE JUNCTION TO CROES NEWYDD NORTH FORK			
+""	ROUTE SECTION	SX	SO	SUN
+""				
+""	Severn Bridge Jn to Crewe Jn	Open Continuously	Open until 0100 Sun	Open from 0700
+""	"Crewe Jn to Croes Newydd NorthFork LC"	Open Continuously	Open Continuously	Open continuously
+""	GW732 ABBEY FOREGATE JUNCTION TO ENGLISH BRIDGE JUNCTION			
+""	ROUTE SECTION	SX	SO	SUN
+""				
+""	"Abbey Foregate to English BridgeJn"	Open Continuously	Open until 0200 Sun	Open from 0800

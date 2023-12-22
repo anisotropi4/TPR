@@ -1,0 +1,40 @@
+SC103 GARNQUEEN NORTH JUNCTION TO COWLAIRS WEST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Garnqueen North Junction	–	–		To/from Cumbernauld – SC093
+Gartcosh Junction	–	–		"To/from Gartsherrie South Junction –SC105"
+Gartcosh	–	–	S	
+Stepps	–	–	S	
+Robroyston	–	–	S	
+Springburn	–	DS		"To/from Cowlairs South Junction – SC106To/from Bellgrove – SC129"
+Sighthill West Junction				
+Cowlairs West Junction	–	–		"To/from Bishopbriggs – SC107To/from Cowlairs South Junction – SC107"
+SC105 GARTSHERRIE SOUTH JUNCTION TO GARTCOSH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Gartsherrie South Junction	–	–		"Up trains running Slow Line to Coatbridgeto show SL.To/from Coatbridge Central SC093"
+Gartcosh Junction	–	–		To/from Springburn SC103
+SC106 SIGHTHILL WEST JUNCTION TO COWLAIRS SOUTH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Sighthill West Junction				To/from Springburn – SC103
+Cowlairs South Junction	"DEGUEG"	"UEGDEG"		"To/from Springburn – SC103To/from Glasgow Queen Street – SC107"
+SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Edinburgh Waverley	Z Y X W			Platform detail must be shown
+Princes Street Gardens	DN DS	Z Y X W		
+Haymarket	DN DS	UN US		"Platform detail must be shownTo/from Slateford Junction – SC003"
+Haymarket Central Junction	DN DS	UN US	X	To/from Gorgie Junction – SC165
+Haymarket West Junction	–	UN US		"To/from Gorgie Junction – SC165To/from Dalmeny Junction – SC171"
+Edinburgh Park	–	–	S	
+Newbridge Junction	–	–		To/from Uphall – SC111
+Newbridge Junction DPL	–		S	
+Winchburgh Junction	–	–		To/from Dalmeny Junction – SC113
+Linlithgow UPL		–	S	
+Linlithgow	–	–		Platform detail must be shown
+Bo’ness Down Passenger Loop	–		S	
+Bo’ness G.F.		–	S	"To/from Bo’ness & Kinneil PreservedRailway"
+Polmont	–	–		"To/from Grangemouth Junction - SC109Platform detail must be shown"
+Polmont Up South PL		–	S	
+Falkirk High	–	–		Platform detail must be shown

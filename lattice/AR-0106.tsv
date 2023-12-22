@@ -1,0 +1,38 @@
+EA1090 COLCHESTER JUNCTION TO CLACTON-ON-SEA	
+""	
+Wivenhoe	
+""	
+Connectional Allowance	3
+""	
+Dwell Time	
+Up Liverpool St services	1 AM peak
+Thorpe-le-Soken		
+""		
+Connectional Allowance	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+Train arrives in platform 1 or 2 from Colchester	Train arrive opposite platform from Colchester	31⁄2
+Train arrives in platform 1 from Colchester	Train departs platform 2 to Colchester	1
+Train departs platform 1 or 2 towards Clacton	"Train departs from opposite platform towardsWalton"	11⁄2
+"Train departs from platform 1 or 2 towardsWalton"	"Train departs from opposite platform towardsClacton"	11⁄2
+Train arrives in platform 1 from Walton	"Train departs platform 2 towards Clacton orWalton"	1
+"Train arrives in platform 2 from Clacton orWalton"	"Train departs platform 1 towards Clacton orWalton"	1
+""		
+Platform reoccupation		3
+Clacton-on-Sea		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Allowance
+Arrival into platform 3 or 4	Approach control	{1⁄2}
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Departure	Conflicting arrival	4
+""		
+Splitting and Coupling of trains permitted	"In all platformsClass 720s may only split / attach in Platforms 2 and 4"	
+EA1110 THORPE-LE-SOKEN JUNCTION TO WALTON-ON-THE-NAZE	
+""	
+Kirby Cross	
+""	
+Single Line Crossing	"First train arrives at xx and departs xx +031⁄2.Second train arrives xx +021⁄2 and departs xx +03"

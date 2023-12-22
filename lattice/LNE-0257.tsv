@@ -1,0 +1,18 @@
+Hemsworth Loop		
+Pass Down Main	Depart Down Loop	"Depart 1before Downnon-stopPassngr trainpasses HareParkJunction.Depart 1 afterDownstoppingPassengerdepartsFitzwilliam."
+Arrive in Up Loop	Pass Up Main	"Arrive UpLoop 11⁄2before UpPassngrpasses HarePark Jn.Arrive UpLoop 3 beforeUp stoppingPassngrdepartsFitzwilliam."
+Pass Up Main	Depart Up Loop	"Depart sametime as UpPassngrpasses SouthKirkby Jn"
+Hare Park Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains to Crofton West Junction – ApproachingHare Park"	Approach Control	1
+""		
+Movement Up	Reason	Value
+"Passenger trains from Crofton West JunctionApproaching South Kirkby"	Acceleration Hare Park – South Kirkby	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Up Main	Pass to Branch	3
+Pass to Branch	Pass Up Main	4
+Pass Up Main	Pass from Branch	3

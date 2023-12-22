@@ -1,0 +1,38 @@
+SO700 STREATHAM SOUTH JUNCTION TO SUTTON (VIA WIMBLEDON)	
+""	
+Tooting	
+""	
+Dwell Time	
+All GTR services	"1 – may be reduced to 1⁄2 minute outside SX peak hours by exception only with theagreement of Train Operator"
+Wimbledon (Platform 9)		
+""		
+Connectional Allowance		
+All Services	6	
+""		
+Junction and Platform Re-Occupation Margins		
+3 minutes unless stated otherwise		
+First Movement	Second Movement	Margin
+Depart/pass platform 9 to DHL	Arrive/pass platform 9 from UHL	2
+Depart/pass platform 9 to UHL	Arrive/pass platform 9 from DHL	2
+Depart/pass platform 9 towards St Helier via DHL	Arrive/pass platform 9 from St Helier via DHL	5
+Depart/pass platform 9 towards St Helier via UHL	Arrive/pass platform 9 from St Helier via UHL	5
+""		
+Dwell Times		
+All trains	1	
+""		
+Planning Note		
+"12 car Class 700 EMUs must not be planned to use any of the stations on the Wimbledon loop for passengerprovision, due to operational restrictionsFor margins to/from Wimbledon (Wessex Side) - Refer to Wessex Timetable Planning Rules - SW105To/from Raynes Park - Refer to Wessex Timetable Planning Rules - SW105"		
+Wimbledon West Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Pass from Wimbledon via UHL to Down [Wessex]Slow"	"Pass to UHL from Wimbledon Chase or StHelier"	2
+"Pass Down [Wessex] Slow to UHL or DHL towardsWimbledon Chase"	"Pass to UHL or DHL from Wimbledon Chaseor St Helier"	3
+"Pass from Wimbledon via DHL towards WimbledonChase"	"Pass to DHL from Wimbledon Chase or StHelier"	3
+"Pass from Wimbledon via UHL towards WimbledonChase"	"Pass to UHL or DHL from Wimbledon Chaseor St Helier"	3
+"Pass from Up [Wessex] Fast via UHL towardsWimbledon"	"Pass to UHL from Wimbledon Chase or StHelier"	3
+"Pass from Up [Wessex] Fast via UHL towardsWimbledon"	"Pass to DHL from Wimbledon Chase or StHelier"	Parallel
+"Pass from Wimbledon via UHL to Down [Wessex]Slow"	"Pass to DHL from Wimbledon Chase or StHelier"	Parallel
+""		
+Length Limit		
+"A train exceeding 505m/79SLU in length will foul TVC854 signal track circuit in rear when standing at TVC836 on theUp St Helier"		

@@ -1,0 +1,35 @@
+""	Northampton North Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Pass or depart Northampton towards LongBuckby via Down Northampton Fast"	"Pass or depart Northampton North Jn towardsNorthampton via a conflicting route"	3
+""			
+""	Planning Restriction		
+""	"No pathing time or other allowance can be added between Northampton North Jn and Northampton in eitherdirection as there are no intermediate signals."		
+""	Northampton Kings Heath Traincare Depot	
+""		
+""	Arrival/Departure Margins	Margin
+""	Minimum interval between an arrival and a departure or a departure and an arrival	15
+""	Minimum interval between consecutive departures	7
+""	Minimum interval between consecutive arrivals	20
+""	Northampton Down Goods Loop		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Pass or depart Northampton towards LongBuckby"	"Depart Down Goods Loop towards LongBuckby"	5
+""	Long Buckby	
+""		
+""	Dwell Time	
+""	Class 350 EMU	1
+""	Daventry South Jn
+""	
+""	"Junction margins for Daventry South Jn are off-set from Daventry North Jn. Please refer to Daventry North Jn forjunction margins."
+""	Daventry North Jn		
+""			
+""	Adjustment to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Entering Daventry Freight Terminal fromHillmorton Jn"	Slow speed turnout and approach control	2
+""			
+""	Movement Down	Reason	Value
+""	"Exiting Daventry Freight Terminal towardsHillmorton Jn"	"Acceleration and not at line speed at DaventryNorth Jn"	"2 applies atnext timingpoint"
+""			

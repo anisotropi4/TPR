@@ -1,0 +1,34 @@
+""	"NW4001 PRESTON RIBBLE JN TO COVE L. C.Please refer to line of route NW1001 for Preston Ribble Jn to Preston Fylde JnPlease refer to Line of Route SC001 (Scotland Timetable Planning Rules) for Gretna Jn to Cove L.C."				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Mossband Jn	–	–		"Up Trains to Kingmoor Yard or trainsto/from Longtown M.o.D. onlyTo/from Bush-on-Esk – NW4029"
+""	Gretna Jn	–	–		
+""					
+""	Please refer to Line of Route SC001 (Scotland Timetable Planning Rules) for Gretna Jn to Cove L.C.				
+""	NW4003 PRESTON FYLDE JN TO DEEPDALE JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Preston Fylde Jn	–	TL		"Single line from Preston Fylde Jn to/fromDeepdale JnTo/from Preston – NW4001"
+""	Deepdale Jn		–		"To/from Deepdale Coal ConcentrationDepot"
+""	NW4005 PRESTON FYLDE JN TO BLACKPOOL NORTH				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Preston Fylde Jn	–	"UFL DFLUSL DSLGL"		To/from Preston – NW4001
+""	Salwick	–	–	S	
+""	Kirkham South Jn				
+""	Kirkham & Wesham	–	–		Platform detail must be shown
+""	Kirkham North Jn	–	–	S	To/from Kirkham West Jn – NW4007
+""	Poulton–le–Fylde	–	–		
+""	Layton	–	–	S	
+""	Devonshire Road Jn	–	–		
+""	Blackpool North Carriage Sidings	–	–	S	
+""	Blackpool North		– DM		Platform detail must be shown
+""	NW4007 KIRKHAM NORTH JN TO BLACKPOOL SOUTH				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Kirkham North Jn	–	–	S	To/from Kirkham & Wesham – NW4005
+""	Kirkham West Jn	–	–		
+""	Moss Side	–	–	S	"Timing point for stopping trains in theDown direction and all trains in the Updirection"
+""	Lytham	–	–	S	
+""	Ansdell & Fairhaven	–	–	S	
+""	St. Annes–on–the–Sea	–	–	S	"Timing point for stopping trains in the Updirection and all trains in the Downdirection"

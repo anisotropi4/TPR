@@ -1,0 +1,27 @@
+Class 15x	1				
+""					
+Platform Re-occupation	4				
+""					
+Station Working					
+"Note that there are 6 platforms at Taunton numbered as follows Down Bay Platform 1‡ ; Down Relief LinePlatform 2; Down Main Line Platform 3; Up Main Line Platform 4; Up Relief Line Platform 5; Up Bay Platform 6.‡ This platform is not signalled to passenger standards.Platforms 2 and 5 are the preferred platforms for regular use by trains stopping intermediately. Platform 3 may beused for terminating and reversing services. Trains on Platform 3 will be needed to be shunted if through trainsrequire the Down Main Line."					
+""					
+""	Turnround allowances				
+""		L/H	"DMU/GWR ShortForm HST(HSTGW4)"	"Class 80X (5car)"	Class 80X (9/10 Car)
+""	"FromPaddington"	30		15^	20^
+""	From Bristol	20	10#	10^	15^
+""	From Cardiff		5		
+""	^: Plus 10 minutes if a shunt move is required				
+""	"#: 5 minutes acceptable, if turn-round in Down Platform"				
+""					
+""	Shunting Margins – E604, E608 & E619				
+""	First Movement	Second Movement	Margin	Notes	
+""	"Shunt move to E604signal departs Tauntonplatform 2 or 3"	"Down train from CogloadJn arrives Taunton"	5		
+""	"Up train to Cogload Jndeparts Taunton"	"Shunt move to E604signal departs Taunton"	3*	"* If the first movement isfrom platform 4 or 5 andthe second movement isfrom platform 2 or 3 themargin is 21⁄2 minutes"	
+""	"Down train from CogloadJn arrives Taunton"	"Shunt move to E604signal departs Taunton"	Simultaneous		
+""	"Shunt move from E604signal arrives Taunton"	Up train departs Taunton	Simultaneous*	"* If both movementsinvolve platforms 5 and 6the margin is increased to2 minutes"	
+""	"Shunt move from E604signal arrives Tauntonplatform 2 or 3"	"Down train from CogloadJn arrives Tauntonplatform 2 or 3"	3		
+""	"Shunt move from E604 orE608 signal arrivesTaunton platform 6"	"Up train arrives Tauntonplatform 5"	4	"Up train should useplatform 4 if possible"	
+""	"Down train from CogloadJn arrives Taunton"	"Conflicting shunt move toTaunton departs E604signal"	1		
+""	"Down train to NortonFitzwarren departsTaunton"	"Conflicting shunt move toE619 signal departsTaunton"	21⁄2		
+""	"Shunt move to E619signal departs Tauntonplatform 2 or 3"	"Down train to NortonFitzwarren departsTaunton platform 2 or 3"	3		
+""	"Shunt move from E619signal arrives Taunton"	"Up train from NortonFitzwarren arrives /passes Taunton"	4		

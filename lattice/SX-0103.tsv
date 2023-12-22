@@ -1,0 +1,39 @@
+Preston Park		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+All movements towards Hove via platform 3	Approach control	{1⁄2}
+Down Main to platform 1 or 2	"Approach control and distance of signal fromstation"	{1}
+""		
+Berthing Facilities		
+Location	Cars	Notes
+No 1 Sidings	12	
+No 2 Sidings	12	
+""		
+Dwell Times		
+All Services (Peak Only)	1	
+""		
+Junction Margins		
+""	Margin	
+Between all conflicting moves except as below	3	
+""		
+First Movement	Second Movement	Margin
+Arrive Platform 1 or 2 from Brighton or Carriage Road	"Pass Platform 3 towards Hove or CarriageRoad"	2
+Up train pass/arrive	Conflicting Down train departs	1
+""		
+Limit of Shunt		
+""	Length Limit	
+Down Main (Clear of T425)	12	
+""		
+Overlap Restrictions		
+First Movement	Second Movement	Margin
+Up train departing Platform 1	Up train arriving Platform 2	11⁄2
+Down train arriving Platform 1	Up train arriving Platform 2	11⁄2
+Down train departing Platform 1 towards Down Main	Down train arriving Platform 2	11⁄2
+""		
+Planning Note		
+"The non-stop headway applies for consecutive northbound departures from Preston Park providing the second trainuses a different platform and the correct headway is applied at the next timing point irrespective of calling pattern.National TPR section 1.5.5 Application of Planning Headways refers."		
+Lovers Walk T&R.S.M.D
+""
+Berthing Facilities
+"Maximum Berthing Capacity and Facilities available should be confirmed with Southern Railway TrainSpecification & Planning Department"

@@ -1,0 +1,33 @@
+Newark Flat Crossing East Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Approaching Newark Flat Crossing EastJunction – for trains to Newark North Gate"	Slow speed junction	"1⁄2 Class 15Xonly"
+""		
+Movement Up	Reason	Value
+"After Newark Flat Crossing East Junction– fortrains from Newark North Gate"	Slow speed junction	"1⁄2 Class 15Xonly"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Nottingham	Arrive from Newark North Gate	4
+Arrive/pass from Newark North Gate	Pass to Nottingham or Newark North Gate	4
+Pass to Nottingham	Arrive from Newark North Gate	4
+Pass to Nottingham	Depart to Newark North Gate	3
+Depart to Newark North Gate	Pass to Nottingham	5
+Depart to Newark North Gate	Pass from Nottingham	5
+Depart to Nottingham (after reversal)	Pass/arrive from Nottingham	5
+""		
+Minimum Reversal	31⁄2	
+""		
+Planning Restriction		
+No pathing time to be applied between Newark Flat Crossing East Junction and Newark Flat Crossing		
+Boultham Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Lincoln	Pass from Pyewipe Junction	3
+Pass from Pyewipe Junction	Pass to Lincoln	4
+Pass from Pyewipe Junction	Pass to Pyewipe Junction	4
+LN220 BESSACARR JUNCTION TO BLACK CARR JUNCTION
+Bessacarr Junction
+Refer to LN170

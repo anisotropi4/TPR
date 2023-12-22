@@ -1,0 +1,26 @@
+Departures after arrivals
+"When the moves are conflicting at least one minute should be allowed.Example: arrive Platform 1 10.06; depart Platform 3 10.07 or later.Exception when arrival is in Platform 4 from the South, when departures can be at the same time as the arrival."
+Arrivals after departures
+"When the moves are conflicting at least three minutes should be allowed. This also applies for reoccupation of the same platformExample: depart Platform 3 10.27, arrive Platform 2 10.30 or later"
+""	2nd Move →																			
+"1stMove ↓"	"ArrP1S"	"ArrP1N"	"ArrP2/3"	"ArrP4S"	"ArrP4N"	"ArrP5/6"	"ArrP7S"	"ArrP7N"	"ArrP8S"	"ArrP8N"	"DepP1S"	"DepP1N"	"DepP2/3^"	"DepP4S"	"DepP4N"	"DepP5/6"	"DepP7S"	"DepP7N"	"DepP8S"	"DepP8N"
+Arr P1S	-	3	H	H	3*	P	H	P	H	P	-	-	1	2**	P	P	P	P	P	P
+Arr P1N	3	-	P	3	H	H	P	H	P	H	-	-	P	2	P	P	P	S	P	S
+Arr P2/3	H	P	-	H	P	P	H	P	H	P	P	P	1	P	P	P	P	P	P	P
+Arr P4S	H	3#	H	-	3	3$	H	P	H	P	S	2	S	-	-	2$	S	P	S	P
+Arr P4N	3*	H	P	3	-	H	P	H	P	H	P	2##	P	-	-	1	P	S	P	S
+Arr P5/6	P	H	P	3$	H	-	P	H	P	H	P	2	P	P	2	2	P	S	P	S
+Arr P7S	H	P	H	H	P	P	-	5	H	P	S	P	S	S	P	P	-	-	1	P
+Arr P7N	P	H	P	P	H	H	5	-	P	3	P	P	P	P	P	P	-	-	P	1
+Arr P8S	H	P	H	H	P	P	H	P	-	5	S	P	S	S	P	P	1	P	-	-
+Arr P8N	P	H	P	P	H	H	P	H	5	-	P	P	P	P	P	P	P	1	-	-
+Dep P1S	3	3	P	3	P	P	4	P	4	P	-	S~	H	H	P	P	2%	P	2%	P
+Dep P1N	3	3+	P	3	3	3	P	P@	P	P@	S~	-	P	2	5	3@	P	H	P	H
+"DepP2/3^"	3	P	3	3&	P	P	4	P	4	P	H	P	-	H	P	P	2%	P	2%	P
+Dep P4S	3**	3	P	3	3	P	4	P	4	P	H	2	H	-	S~	P	2%	P	2%	P
+Dep P4N	P	P	P	3	3	3	P	P	P	P	P	H	P	S~	-	H	P	H	P	H
+Dep P5/6	P	P	P	3$	3	3	P	P	P	P	P	H	P	P	H	-	P	H	P	H
+Dep P7S	P	P	P	"P"""	P	P	4	3	4	P	H	P	H	H	P	P	-	S~	H	P
+Dep P7N	P	5	P	P	5	5	3	5	P	5	P	4	P	P	4	4	S~	-	P	H
+Dep P8S	P	P	P	"P"""	P	P	4	P	4	2	H	P	H	H	P	P	H	P	-	S~
+Dep P8N	P	4	P	P	4	4	P	5	3	5	P	4	P	P	4	4	P	H	S~	-

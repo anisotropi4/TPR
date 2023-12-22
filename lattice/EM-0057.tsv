@@ -1,0 +1,42 @@
+Luton		
+""		
+Platform Re–occupation	3 (except stated below)	
+First Movement	Second Movement	Margin
+Platform 3 to Up Fast	Down Slow to Platform 2 or 3	4
+""		
+Station Working		
+Platform 1	"Up direction platform but is reversible for trains ex Crescent Road orturnrounds from the North"	
+Platform 2	Bi–directional platform	
+Platform 3	Bi–directional platform	
+Platform 4	Up direction platform	
+Platform 5	Down direction platform	
+Luton North Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Up Slow to Luton Platforms 3 or 4	"Approach control on signal WH304Line code to be shown as DSL if running toLuton platform 3"	1*
+*Does not apply to Class 700 services as allowance is included within the Sectional Running Time		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train departs Luton Platform 1, 2 or 3	"Up train pass Luton North Junction to DownSlow or Up Fast"	4
+"Up train arrive/pass Luton Platform 3 or 4 fromUp Slow via Luton North Junction"	Down train departs Luton Platform 1 or 2	1
+"Up train arrive/pass Luton Platform 4 from UpSlow via Luton North Junction"	Down train departs Luton Platform 3	1
+"Up train arrive/pass Luton Platform 4 from UpSlow via Luton North Junction"	Down train pass Luton Platform 3	3
+"Up train pass Luton Platform 3 from Up Slowvia Luton North Junction"	Down train arrive/pass Luton Platform 3	3
+""		
+Planning Note		
+"No timing allowances should be applied between Luton North Junction and Luton in the Up direction as there areno intermediate signals"		
+Limbury Road		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive at Limbury Road	Pass Leagrave Jn to Up Slow	21⁄2
+Arrive at Limbury Road	Depart Leagrave to Up Slow	2
+Arrive at Limbury Road from North GF	Pass Luton to Down Slow	2
+Arrive at Limbury Road from North GF	Depart Luton to Down Slow	2
+Depart Limbury Road to the North	Pass Leagrave Jn to Up Slow	41⁄2
+Depart Limbury Road to the North	Depart Leagrave to Up Slow	41⁄2
+Arrive/Pass Luton from the Up Slow	Depart Limbury Road	Same time
+"Depart Leagrave / Pass Leagrave Jn on DownSlow"	Depart Limbury Road to Down Slow	1
+""		

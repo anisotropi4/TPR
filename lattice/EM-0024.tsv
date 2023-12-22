@@ -1,0 +1,33 @@
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Farringdon	NB SB	NB SB		"Platform detail must be shownTo/from City Thameslink – SO280 Refer toKent Timetable Planning Rules"
+St Pancras International	"NB SBDCT"	"NB SBUCT"		"Platform detail must be shownTIPLOC STPXBOX"
+Canal Tunnel Jn				To/from Belle Isle Jn – LN3214
+Dock Jn North	"MOLUDR"	NB SB		
+Kentish Town	SL	MOL		Platform detail must be shown
+Carlton Road Jn	FL SL	"FL SLDSL"		To/from St Pancras – LN3201
+LN3214 BELLE ISLE JUNCTION TO CANAL TUNNEL JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Belle Isle Jn		"UCTDCT"		"To/from Finsbury Park – LN101 refer toLNE Timetable Planning Rules"
+Canal Tunnel Jn				To/from St Pancras International – LN3213
+LN3219 CRICKLEWOOD CURVE JUNCTION TO DUDDING HILL JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Cricklewood Curve Jn	–	–		"To/from West Hampstead North Jn –LN3201"
+Dudding Hill Jn	–	–		To/from Acton Wells Jn – EA1360
+LN3222 BRENT CURVE JUNCTION TO DUDDING HILL JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Brent Curve Jn	–	–		To/from Hendon – LN3201
+Dudding Hill Jn	–	–		To/from Acton Wells Jn – EA1360
+LN3228 TRENT EAST JUNCTION TO SHEET STORES JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Trent East Jn	–	–		"TIPLOC TRENTTo/from Nottingham – LN3204To/from Erewash Valley – LN3207To/from Leicester – LN3201"
+Sheet Stores Jn	–	–		"To/from Derby – LN3201.To/from Stenson Jn – LN3520"
+LN3231 WIGSTON SOUTH JUNCTION TO GLEN PARVA JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Wigston South Jn	–	–		To/from Kilby Bridge Jn – LN3201
+Glen Parva Jn	–	–		To/from Croft – LN3232

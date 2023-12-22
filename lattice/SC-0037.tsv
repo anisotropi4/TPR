@@ -1,0 +1,38 @@
+SC107 EDINBURGH TO GLASGOW QUEEN STREET (VIA FALKIRK HIGH)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Greenhill Upper Junction	–	–		
+Croy	–	–		Platform detail must be shown
+Gartshore Down Passenger Loop	–		S	
+Gartshore Up Passenger Loop		–	S	
+Lenzie	"DEGUEG"	–		
+Cadder (East End)	–			
+Cadder East Departure	−	−	S	Access to/from Cadder HST Depot
+Cadder Down Passenger Loop	–	–	S	
+Cadder Up Passenger Loop	–	–	S	
+Cadder HST Depot	−	−	S	
+Cadder West Departure	"−UEG"	−	S	Access to/from Cadder HST Depot
+Cadder (West End)				
+Bishopbriggs	"DEGUEG"	"UEGDEG"		
+Cowlairs East Junction	"DEGUEG"	"UEGDEG"	X	To/from Cowlairs North Junction – SC116
+Eastfield Passenger Loop	–	–	S	
+Cowlairs West Junction	"DEGUEG"	"UEGDEG"		"To/from Cowlairs North Junction – SC115To/from Springburn – SC103"
+Cowlairs Passenger Loop	–	–	S	
+Cowlairs South Junction	"DEGUEG"	"UEGDEG"		To/from Springburn – SC106
+Glasgow Queen Street		"UEGDEG"		Platform detail must be shown
+SC109 POLMONT TO CARMUIRS WEST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+""				
+Polmont	–	–		To/from Linlithgow – SC107
+Polmont Up North PL		–	S	
+Grangemouth Junction	–	–		
+Falkirk Grahamston	–	–	S	Platform detail must be shown
+Camelon	–	–	S	Platform detail must be shown
+Carmuirs East Junction	–	–		To/from Larbert Junction – SC110
+Carmuirs West Junction	–	–		To from Greenhill Upper Junction – SC107
+SC110 CARMUIRS EAST JUNCTION TO LARBERT JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Carmuirs East Junction	–	–		To/from Carmuirs West Junction – SC109
+Larbert Junction	–	–		To/from Stirling – SC119

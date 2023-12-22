@@ -1,0 +1,35 @@
+Helen Street		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up pass Shields Junction to Bridge Street	Down train from Down Ayr to Up Ayr	11⁄2
+Up train from Up Ayr to Up Gourock	Down train from Down Ayr to Up Ayr	3
+Up train from Up Ayr to Up Gourock	Down train from Up Ayr to Down Ayr	3
+Cardonald Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Up Gourock to Up Ayr	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass on Up Ayr	"Up train from Up Gourock or Deanside Branchto Up Ayr"	3
+Down pass on Up Ayr	Depart Deanside Branch to Up Ayr	1
+""		
+"Operating StopAll trains from the Deanside Branch must have a 3 minute dwell time in order to telephone the Signaller."		
+Cardonald North Junction
+""
+"Operating StopAll trains in either direction, for purposes of Token Exchange must have a 3 minute dwell."
+Arkleston Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves		3
+Paisley Down Goods Loop		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down trains to Loop	Approach Control	2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin

@@ -1,0 +1,22 @@
+Mountsorrel Sidings
+""
+"Method of workingThere is no route into Mountsorrel Sidings in the Up direction.  Trains from Loughborough or beyond destined forMountsorrel Sidings must go to Leicester Humberstone Road sidings to run-round.There is only one reception siding available for arriving trains.  After the arrival of a train onto the reception road itis necessary for the arriving train to draw forward before propelling back into one of the sidings.  Until this iscomplete a second train cannot arrive onto the reception siding.  Therefore, trains must be planned to arrive 20minutes apart. When the preceding train is a light engine the train following can arrive 5 minutes after the lightengine.  To achieve this, it might be necessary to time arriving trains to wait at Humberstone Road Junction orMelton Mowbray Down Goods Loop.Trains can depart from Mountsorrel in either the Up or Down direction.  Up direction trains use the Down Fast linein the Up direction as far as Sileby Junction.  See Sileby Junction for margin information."
+"Departing trains must be planned at least 15 minutes apart when leaving Mountsorrel.This is due to the need for shunting to take place within the terminal."
+Loughborough South Junction
+""
+"Restriction Working between Loughborough South Junction and the Network Rail Boundary at 92m 45ch.The Single line connection between Loughborough South Junction and the Network Rail Boundary is worked bythe track circuit block system indicated by sequential track circuiting. A movement that has proceeded beyond theNetwork Rail Boundary towards Hotchley Hill, will occupy the track circuit at Loughborough South Junction untilsuch time that the movement returns from Hotchley Hill to Loughborough South Junction and activates the trackcircuit.  When the return movement has cleared Loughborough South Junction the Single line will be available foranother movement.If a movement requires to operate to Hotchley Hill and will not return within a reasonable period of time or onanother day, then the movement must be worked with two locomotives or a locomotive at each end of the train toHotchley Hill. Upon arrival at Hotchley Hill one of the two locomotives or the trailing locomotive will be detached toreturn to Loughborough South Junction and activate the track circuit and clear the branch for normal working.When the movement is required to return from Hotchley Hill to Loughborough South Junction then an additionallocomotive must be despatched via Loughborough South Junction to Hotchley Hill and attached. The movementwill then work forward with two locomotives or a locomotive at each end of the train."
+Loughborough	
+""	
+Dwell Time	
+DMU	1
+180/222	11⁄2
+""	
+Minimum Turnround	6
+Loughborough North Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Loughborough North Jn to Loughboroughstation pass to pass"	Not at linespeed passing Loughborough station	"1⁄2 HST/22Xafter Stn"
+""		
+Movement Down	Reason	Value
+"Loughborough station to LoughboroughNorth Jn pass to pass"	Not at linespeed passing Loughborough station	"1⁄2 HST/22Xbefore Stn"

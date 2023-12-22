@@ -1,0 +1,34 @@
+""	GW870 BARRY TO BRIDGEND BARRY JUNCTION (VALE OF GLAMORGAM LINE)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Barry to Aberthaw	5	5	
+""	Aberthaw to CF3433 Signal	AB+2*		* TCB but timed as AB+2
+""	"CF3433 Signal to CowbridgeRoad"	AB+2*		
+""	Aberthaw to Llantwit Major #		AB+2*	"# CF3430 Signal, *TCB but timed as AB"
+""	Llantwit Major # to CF3440 Signal		AB+2*	"# CF3430 Signal, *TCB but timed as AB"
+""	"CF3440 Signal to CowbridgeRoad"		AB+2*	*TCB but timed as AB
+""	"Cowbridge Rd to Bridgend BarryJcn"	AB+2*	AB+2*	*TCB but timed as AB
+""	"Cowbridge Rd to Bridgend BarryJcn"	3	3	
+""	GW874 BRIDGEND LLYNFI JUNCTION TO MAESTEG			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Bridgend Llynfi Jn to Tondu	Single Line		
+""	Tondu to Maesteg	Single Line	One train working.	
+""	GW877 TONDU TO PORT TALBOT DOCKS (OGMORE VALE EXTENSION LINE)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Tondu to Port Talbot Docks	AB+2*	*Single line, timed as AB	
+""	"GW890 COURT SART JUNCTION / UP FLYING LOOP JUNCTION TO MORLAISJUNCTION (SWANSEA DISTRICT LINE)"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Court Sart Jn to Signal 3541(exclusive)"	4		
+""	"Signal 3541 (inclusive) to Signal3543"	AB+2		TCB timed as AB+2
+""	Signal 3543 to Morlais Jn	5		
+""	Morlais Jn to Signal 3544		5	
+""	Signal 3544 to Signal 3540		AB+2	TCB timed as AB+2
+""	Signal 3540 to Signal 3536		AB+2	TCB timed as AB+2
+""	"Signal 3536 to Briton Ferry WestJn"		4	
+""	GW8901 DYNEVOR JUNCTION TO JERSEY MARINE JUNCTION SOUTH			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Dynevor Jn to Jersey Marine JnSouth"	AB+2	AB+2	"TCB timed as AB+2Refer to Section 5.3 for movements"

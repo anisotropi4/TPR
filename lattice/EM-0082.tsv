@@ -1,0 +1,32 @@
+Chaddesden Sidings		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrival into the depot	Subsequent departure	5
+Departure from the depot	Subsequent arrival	5
+St Mary’s South Jn		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Lines B and C to Down Fast	"Differential linespeed – to be applied approachingnext timing point"	1⁄2 Class 22x
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+All conflicting moves (unless stated below)	3	
+Up Fast to Line B pass	"Line C to Down Fast having departed DerbyPlatforms 3-6"	21⁄2
+Duffield	
+""	
+Dwell Time	
+All	"1⁄2 - 1 minute for SX peak services which arrive Derby between 0700 – 0830and depart Derby between 1600 and 1800"
+Belper	
+""	
+Dwell Time	
+All	1
+Ambergate Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+From Matlock (Ambergate Jn to Belper)	Differential Junction speed	1 DMU
+Up Main to Broadholme Loop	"Approach Control – to be applied approachingAmbergate Junction"	1
+""		
+Re-occupation of Single Line	31⁄2	

@@ -1,0 +1,38 @@
+Grand Jn			
+""			
+Pass on Up Derby to Landor St Jn	Pass from Down Derby to Down Coventry	3	
+Pass on Down Coventry from Stechford	"Pass from Up Coventry to Up & Down CampHill or Up Derby"	11⁄2	
+""	Proof House Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Up	Reason	Value	
+""	"Trains from the Coventry Lines towards Astonstopping at Duddeston"	Approach Control and Slower Line Speed	"1⁄2approachingnext timingpoint"	
+""	"Trains from the Coventry Lines towards A0stonnot stopping at Duddeston"	Approach Control and Slower Line Speed	"1approachingnext timingpoint"	
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	All conflicting moves		21⁄2	
+""	Pass on Up Coventry to Stechford	Pass to St Andrew’s Jn or Aston	21⁄2	
+""				
+""	Overlap Margins			
+""	First Movement	Second Movement	Margin	
+""	Pass on Down Derby	Pass Up Derby to Up Coventry	21⁄2	
+""	Pass Up Derby to Up Coventry	Pass on Down Derby	3	
+""	Birmingham New Street		
+""			
+""	Attachment/Detachment		
+""	Standard value unless requested from train operator and agreed with Capacity Planning.		
+""			
+""	Connectional Allowance	12	
+""			
+""	Dwell Time		
+""	Standard including 22x/390	3	
+""	"HST/Locomotive Hauled CoachingStock"	3	
+""			
+""	EMU formations to/from Soho LMD		
+""	"Soho EMUD can only accept trains that consist of no more than 2 Class 350, or 2 Class 323, 2 Class 730 (3-cars)or 1 Class 730 (5-cars) Units."		
+""			
+""	Overlap Margins		
+""	First movement	Second movement	Margin
+""	Down arrive platform 6B (short)	"Depart No. 1 siding to Five Ways or SohoSouth Jn"	1
+""	"Arrive No.1 siding from Five Ways or SohoSouth Jn"	3	

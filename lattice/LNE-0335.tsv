@@ -1,0 +1,22 @@
+LN804 TAPTON JUNCTION TO GASCOIGNE WOOD JUNCTION VIA SHEFFIELD					
+Timing Section	Type	"LHHST80XEPUCl 422X"	"MULL"	Cl 6	Remarks
+""					
+Down – Weekdays					
+Approach Dore Station Junction	E	1*	1*	1*	"*Can alternatively be applied approachingSheffield if required"
+Approach Milford Junction	E	3	3	2	
+Up – Weekdays					
+"Approach Pontefract Baghill/Ferrybridge North Junction"	E	2		2	
+"Approach Moorthorpe/MoorthorpeSignal L6586"	E	3	3	3	
+Approach Wincobank Junction	P	1*#^	1*		"*Can be applied flexibly between Aldwarkeand Nunnery Main Line Junctions ifrequired#Nil for East Midlands Railway services^Can be removed from CrossCountry andNorthern services if the arrival at Sheffieldis advertised 1 minute later to the public"
+"Approach Nunnery Main LineJunction"	E	1	1	1	
+LN806 TAPTON JUNCTION TO MASBOROUGH JUNCTION VIA ‘OLD ROAD’					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Weekdays					
+Approach Masborough Junction	E	2*	2*	2*	"*Can be applied approaching MasboroughSorting Sidings South Junction"
+Up – Weekdays					
+Approach Beighton Junction	E	2	2	2	
+LN808 DORE STATION JN TO EARLES SIDINGS (EXCL.)					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+Up – Weekdays					
+Approaching Grindleford	E	1	1	1	

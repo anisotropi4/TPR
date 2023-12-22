@@ -1,0 +1,34 @@
+Leicester Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down Tamworth Goods to Down TamworthGoods pass Burton"	Down Main to Down Tamworth Goods	51⁄2
+"Down Tamworth Goods to Down TamworthGoods pass Burton"	"Down Main/Down Tamworth Goods to CoalvilleLines"	51⁄2
+"Down Main to Down Tamworth Goods/CoalvilleLines"	"Down Tamworth Goods to Down TamworthGoods pass Burton"	21⁄2
+Down Tamworth Goods to Coalville Lines	"Down Tamworth Goods to Down TamworthGoods pass Burton"	21⁄2
+"Down Main to Down Tamworth Goods/CoalvilleLines"	Down Main to Down Main pass Burton	21⁄2
+Down Main to Down Main pass Burton	"Down Main to Down Tamworth Goods/CoalvilleLines"	4
+"Down Tamworth Goods to Down TamworthGoods pass Burton"	Coalville Lines to Up Main/Up Goods	51⁄2
+Down Main to Down Tamworth Goods	Coalville Lines to Up Main/Up Goods	4
+Down Main to Down Main pass Burton	Coalville Lines to Up Main/Up Goods	31⁄2
+Coalville Lines to Up Main/Up Tamworth Goods	Down Main to Down Tamworth Goods	4
+Coalville Lines to Up Main/Up Tamworth Goods	"Down Tamworth Goods to Down TamworthGoods pass Burton"	21⁄2
+Coalville Lines to Up Main/Up Tamworth Goods	Down Main to Down Main pass Burton	21⁄2
+Coalville Lines to Up Main/Up Tamworth Goods	Up Main to Up Main pass Burton	31⁄2
+Coalville Lines to Up Main/Up Tamworth Goods	Up Main to Up Tamworth Goods	5
+Up Main to Up Main pass Burton	Coalville Lines to Up Main/Up Tamworth Goods	21⁄2
+Up Main to Up Tamworth Goods	Coalville Lines to Up Main/Up Tamworth Goods	4
+Branston Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Main to Up Main pass Burton	Up Main to Coalville Lines	3
+Up Main to Coalville Lines	Up Main to Up Main passenger pass Burton	4
+Up Main to Coalville Lines	Up Main to Up Main freight pass Burton	41⁄2
+Up Main to Coalville Lines	Down Main to Down Main pass Burton	2
+Up Main to Coalville Lines	"Down Tamworth Goods/Coalville Lines toDown Main"	4
+Down Main to Down Main pass Burton	Up Main to Coalville Lines	4
+Down Main to Down Main pass Burton	"Pass Down Tamworth Goods/Coalville Lines toDown Main"	3
+Down Main to Down Main pass Burton	"Depart Down Tamworth Goods/Coalville Linesto Down Main"	2
+"Down Tamworth Goods/Coalville Lines toDown Main"	Down Main to Down Main pass Burton	4
+"Down Tamworth Goods/Coalville Lines toDown Main"	Up Main to Coalville Lines	4

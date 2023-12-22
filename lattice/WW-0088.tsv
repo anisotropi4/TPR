@@ -1,0 +1,21 @@
+""	GW490 GLOUCESTER YARD JUNCTION TO HORTON ROAD			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Gloucester Yard Junction toHorton Road Junction"	AB+2	AB+2	
+"GW500 READING TO COGLOAD JUNCTION VIA WESTBURY AND FROMEAVOIDING LINES (BERKS. AND HANTS)"			
+TIMING POINT	DOWN	UP	NOTES
+""			
+"Reading to Southcote Junction(inclusive)"	3	3	
+"Southcote Junction (exclusive) toNewbury (exclusive)"	3*	3*	"*DOWN AND UP4 minutes following freight class 4 or 65 minutes following freight class 7 or slower"
+Newbury to Bedwyn	31⁄2*	31⁄2*	"*DOWN4 minutes following stopping passenger5 minutes following freightApplies inclusive of Newbury and Bedwyn*UP4 minutes following stopping passenger or freightclass 4 or 65 minutes following class 7 or slowerApplies exclusive of Bedwyn and inclusive ofNewbury"
+Bedwyn to Heywood Road Jn	31⁄2*	31⁄2*	"*DOWN4 minutes following stopping passenger or freightclass 4 or 65 minutes following freight class 7In down direction headway applies exclusive ofBedwyn*UP4 minutes following stopping passenger5 minutes following freightIn up direction headway applies inclusive of Bedwyn"
+Heywood Road Jn to Fairwood Jn	AB+1	AB+1	"Via the avoiding lineTCB timed as AB"
+"Fairwood Junction to Clink RoadJunction"	31⁄2*	31⁄2*	"*DOWN AND UP5 minutes following freight class 4 or 66 minutes following freight class 7 or slower"
+"Clink Road Junction toBlatchbridge Jn"	AB+2	AB+2	TCB timed as AB
+Blatchbridge Jn to Castle Cary	31⁄2*	31⁄2*	"*DOWN AND UP4 minutes following stopping passenger5 minutes following freight class 4 or 66 minutes following freight class 7 or slower"
+Castle Cary to Somerton G.F.	AB+1		
+Somerton GF to Athelney	AB+2		
+Athelney to Cogload Jn	AB+2		
+Cogload Jn to Athelney		4*	*5 minutes following freight class 7 or slower
+Athelney to Somerton GF		AB+2	
+Somerton GF to Castle Cary		AB+2	

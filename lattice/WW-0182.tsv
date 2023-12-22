@@ -1,0 +1,38 @@
+Newbury		
+""		
+Overlap Restrictions		
+First Movement	Second Movement	Margin
+Down train pass/arrive on Down Westbury	"Down train arrive platform 1 at Newbury fromNewbury Racecourse platform 3"	3
+"Down train arrive platform 1 from NewburyRacecourse platform 3"	Down train pass/arrive on Down Westbury	3
+Up train arrive platform 2 or Up Westbury	Down train arrive platform 3	3
+Up train arrive platform 2 or Up Westbury	Up train depart platform 3	2
+Up train depart platform 3	Up train arrive platform 2 or Up Westbury	4
+Down train arrive platform 3	"Up train pass/arrive platform 2 or UpWestbury"	3
+Down train arrive platform 2	Up train pass/arrive on Up Westbury	3
+Down train arrive platform 1	Down train depart platform 2	2
+Down train depart platform 2	Down train arrive platform 1	3
+""		
+Dwell Time		
+80x	11⁄2	
+DMU	1	
+""		
+Platform Re-occupation	4	
+""		
+Platform 3 (Bay) Special Working		
+"The platform is 129 metres. So a permanent stop car marker has been located so that a 5-car cl.80x formation(130 metres) can use the platform and be clear of signal T2864"		
+""		
+Turnround allowances		
+From Paddington	10	
+""	Hungerford UPL		
+""			
+""	Junction Margins		
+""	First movement	Second Movement	Margin
+""	Up pass Hungerford	Depart Hungerford UPL	3
+""	Up depart Hungerford	Depart Hungerford UPL	41⁄2
+""	Up arrive Hungerford UPL	Up train arrives Hungerford	11⁄2
+""	Up arrive Hungerford UPL	Up passenger train passes Hungerford	31⁄2
+""	Up freight pass Hungerford	4	
+""	Hungerford	
+""		
+""	Dwell Time	
+""	80x	"11⁄2 (Between 0630 and 0900 in the Up direction. Between 1630and 1930 in the Down direction. SX only)"

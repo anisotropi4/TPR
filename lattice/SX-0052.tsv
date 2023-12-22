@@ -1,0 +1,17 @@
+SO500 LONDON VICTORIA TO BRIGHTON			
+ROUTE SECTION	DOWN	UP	RESTRICTION
+""			
+London Victoria to Brighton	"ALLLinecodes"	"ALLLinecodes"	"Class 92 Locomotives are not permitted on thewhole of the route"
+SO550 REDHILL TO TONBRIDGE			
+ROUTE SECTION	DOWN	UP	RESTRICTION
+""			
+Redhill to Tonbridge	"ALLLinecodes"	"ALLLinecodes"	"Class 92 Locomotives are not permitted on thewhole of the route"
+"SO170 TONBRIDGE TO BOPEEP JUNCTIONSO600 WILLINGDON JUNCTION TO ASHFORD INTERNATIONAL"
+Restrictions due to Electrical Control Office Outages
+""
+"Unplanned outage of High Brooms Substation traction supply rectifier or all dc circuit breakers open, (Grove Hilltraction supply rectifier in service).  All 12 car electric trains to operate in half power mode/notch 2, between bufferstops of 12 car Tonbridge Wells Turn back siding and High Brooms station in both directions. No additionalrestrictions on 8 or 4 car formations."
+"Unplanned outage Grove Hill Substation traction supply rectifier and/or HV Feeder 1921 or all dc circuit breakersopen (High Brooms and Wadhurst traction supply rectifier in service). All trains to operate in half power mode/notch 2, between Frant station and High Brooms station in both directions"
+"Unplanned outage Wadhurst Substation traction supply rectifier and/or HV Feeder 1922, (High Brooms and GroveHill traction supply rectifier in service)All 12 car electric trains to operate in half power mode/notch 2, between Tonbridge Wells station and High Broomsstation in both directions. No additional restrictions on 8 or 4 car formations"
+"Extended high voltage feeding from feeder 1926 at Bo Peep substation to Grove Hill substation and failure of UPSat Grove Hill or Wadhurst substations. All electric trains to operate in half power mode, notch 2, between Frantstation and High Brooms station in both directions"
+"Outage of High Brooms substation traction supply rectifier or all dc circuit breakers open and outage Grove Hillsubstation traction supply rectifier and/or HV Feeder 1921 or all dc circuit breakers open (Wadhurst traction supplyrectifier in service). Electric train services limited to maximum of 8 car operation between Tonbridge station andHastings station, with a limitation of at least a 30 minute gap between services on the same road at each station.In addition, ALL electric trains to operate in half power mode/notch 2, between Tonbridge station and Stonegatestation in both directions"
+"Unplanned outage of High Brooms substation traction supply rectifier or all dc circuit breakers open andunplanned outage Wadhurst substation traction supply rectifier and/or HV Feeder 1922 or all dc circuit breakersopen, (Grove Hill substation traction supply rectifier in service). Electric services limited to maximum of 8 car"

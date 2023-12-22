@@ -1,0 +1,46 @@
+Brownhill/Dalry		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train to UPL going to Dalry Roche	Approach Control	2
+Down train from DPL	Acceleration to be applied after Dalry	11⁄2
+""		
+Movement Up	Reason	Value
+Up train to UPL	"Approach Control to be applied approachingDalry"	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Arrive DPL	Down arrive Glengarnock	1
+Down Arrive DPL	"Down arrive/pass Dalry (not stoppingGlengarnock)"	4
+Down pass Dalry	Down depart DPL	2
+Down depart Dalry	Down depart DPL	21⁄2
+Up arrive UPL	Up arrive Dalry	2
+Up arrive UPL	Up pass Dalry	21⁄2
+Up depart Dalry	Depart UPL	31⁄2
+Up pass Dalry	Depart UPL	3
+Up depart Dalry	Down arrive UPL	4
+Up pass Dalry	Down arrive UPL	31⁄2
+Down arrive UPL	Up depart Dalry	1⁄2
+Down arrive UPL	Up pass Dalry	1
+Kilwinning		
+""		
+Connectional Allowance	4	
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train to Platform 2	Approach Control	1 LH
+""		
+Movement Up	Reason	Value
+Up train to UGL from Ardrossan	Approach Control	1
+Up train to UGL from Irvine	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Largs to Platform 2	Up Ayrshire arrive/pass Platform 3	31⁄2
+Depart/pass Platform 3 to Dalry	Arrive/pass Platform 2 from Dalry	3
+Arrive Platform 2 from Saltcoats	Arrive/pass Platform 3 from Irvine	3
+Arrive UGL from Ardrossan or Irvine	Arrive/pass Platform 1 from Ardrossan	3
+Arrive UGL from Irvine	Arrive/pass Platform 3 from Irvine	3
+Pass/depart to Dalry	Depart UGL to Dalry	21⁄2
+""		
+"RestrictionDue to signalling overlaps at PK232 (Platform 2) and PK234 (Platform 3) signals trains cannot arrivesimultationusly into Platforms 2 and 3"		

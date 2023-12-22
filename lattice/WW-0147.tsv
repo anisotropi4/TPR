@@ -1,0 +1,21 @@
+""	Exeter St Davids			
+""				
+""	Warren			
+""	"Depart Platform 1, 2 or 3,or Hyde Park Siding toCowley Bridge Jn or E664Signal"	Depart to New Yard	21⁄2	
+""	"Depart/pass to CowleyBridge Jn"	Depart to E664 signal	3^$	"^ Increase to 4 if first trainis routed to Crediton$ If first train has pathingtime at Cowley Bridge Jnincrease margin by sameamount"
+""	"Arrive Exeter St Davidsfrom Cowley Bridge Jn"	"Conflicting shunt move departsE664 signal"	11⁄2	
+""	Arrive from E664 signal	"Conflicting arrival from CowleyBridge Jn"	3	
+""	"Depart/pass to CowleyBridge Jn"	"Depart Riverside Yard to ExeterSt Davids"	2	
+""				
+""	Exeter St Davids Shunting Margins – E35, E677, E679 & Exeter TMD			
+""	First Movement	Second Movement	Margin	Notes
+""	"Depart/pass to DawlishWarren"	"Conflicting shunt move to E35signal departs Platform 4, 5 or 6or Exeter TMD"	21⁄2	"There is no signalled routefrom Platform 1 or 3 to E35signal."
+""	"Shunt move to E35 signaldeparts Exeter St Davidsor Exeter TMD"	"Conflicting departure fromExeter St Davids or Exeter TMDtoDawlish Warren"	3	
+""	"Shunt move to E35 signaldeparts Platform 4, 5 or 6,or Exeter TMD"	"Conflicting shunt move to E679signal departs Exeter St Davidsor Exeter TMD"	3	"A train at E679 signalprevents a shunt fromPlatform 4 to E35 signal, ora departure to DawlishWarren."
+""	"Shunt move from E35 orE677 signal arrivesExeter St Davids orExeter TMD"	"Arrival from Dawlish Warrenthat does not call at Exeter StThomas"	3	
+""	"Shunt move from E35 orE677 signal arrivesExeter St Davids orExeter TMD"	"Train departs Exeter St Thomasto Exeter St Davids or ExeterTMD"	1	"Train cannot depart ExeterSt Thomas while shuntingto/from E35 or E677signals."
+""	"Shunt move from E35signal arrives Platform 5or 6"	"Conflicting shunt move toExeter St Davids or Exeter TMDdeparts E679 signal"	11⁄2	
+""	"Shunt move to E679signal departs Platform 5or 6, or Exeter TMD"	"Conflicting shunt move to E35signal departs Platform 5 or 6,or Exeter TMD"	3	
+""	"Depart/pass to DawlishWarren (does not call atExeter St Thomas)"	"Shunt move to E679 signaldeparts Exeter St Davids orExeter TMD"	3	
+""	"Depart Exeter St Thomasto Dawlish Warren"	"Shunt move to E679 signaldeparts Exeter St Davids orExeter TMD"	1	"E679 Signal and Exeter StThomas Platform 1 arelocated within the samesignal section."
+""	"Shunt move from E679Signal arrives Exeter StDavids or Exeter TMD"	"Conflicting arrival at Exeter StDavids or Exeter TMD fromDawlish Warren"	21⁄2	"A train at E679 signalprevents an arrival fromDawlish Warren or E35signal into Exeter St Davids"

@@ -1,0 +1,47 @@
+Alexandra Palace		
+""	"For services departing from Bounds GreenDepot to US2 Start to pass; for accelerationpurposes"	"11⁄2HST/LH/80X"
+""		
+Junction Margins		
+When first movement is in the Down direction		
+First Movement	Second Movement	Margin
+Pass FL	Depart SL to FL	11⁄2
+Pass FL	Pass SL to FL	2*
+Arrive/pass SL from FL	Pass FL	3
+""		
+When first movement is in the Up direction		
+First Movement	Second Movement	Margin
+Pass FL	Pass SL to FL	2*
+Pass FL	Depart SL to FL	11⁄2
+Pass SL	Depart SL2 to SL	11⁄2
+Pass SL	Pass SL2 to SL	2*
+Depart SL not calling at Hornsey	Depart SL2 to SL calling at Hornsey	2
+Pass SL2	Pass SL to SL2	2*
+*May be reduced to 11⁄2 if second train has 1 minute or more pathing time approaching Alexandra Palace		
+""		
+Dwell Time		
+All trains	1 minute unless reduced to 30 seconds by agreement with Train Operator	
+""		
+Platform Re–occupation		
+In Down direction	2	
+In Up direction	21⁄2	
+New Southgate		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Cross UFL to USL	Up fast passes Potters Bar	Same time
+""		
+New Barnet		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train to cross to SL	Next fast train passes Alexandra Palace	1⁄2
+Up train cross to SL	Next train passes Potters Bar	1
+Fast passes Alexandra Palace	Depart USL to UFL	1 before
+Fast passes Alexandra Palace	Pass USL to UFL	Same time
+Fast passes Potters Bar	Depart/pass DSL to DFL	Same time
+""		
+Dwell Time		
+1 – May be reduced to 1⁄2 minute outside SX peak hours following discussion with operator		
+Potters Bar
+""
+Adjustment to sectional running times

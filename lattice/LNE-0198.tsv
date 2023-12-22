@@ -1,0 +1,28 @@
+Boldon East Junction
+"Restrictions:•Once a train has departed/passed Boldon North Junction, irrespective of route (i.e. via Boldon East or viaBoldon West), NO OTHER TRAIN can leave the Sunderland lines towards Boldon North Junction fromany direction, until first train is clear onto Sunderland lines – see margins above•Trains cannot stand on Boldon East Curve; there is no signaling on the Curve to allow this. No allowancesto be applied between Boldon East and Boldon North Junctions in either direction•A freight train from Tyne Dock or Pelaw must clear overlap of signal T6252 before a following train canpass signal T6266 – reflected in margins above"
+Boldon West Junction/Brockley Whins		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains from Tyne Dock BranchApproaching Pelaw Junction"	Acceleration	1
+Movement Up	Reason	Value
+Up trains going to Boldon North	Approach Control1⁄2*	
+*To be increased to 1 minute if a train has emerged from branch in previous 6 minutes, due to overlap issues		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down passenger/light loco pass fromSunderland"	Depart/pass Boldon North towards Pelaw	11⁄2
+Down freight pass from Sunderland	Depart/pass Boldon North towards Pelaw	3
+Down Metro depart Fellgate	Depart/pass Boldon North towards Pelaw	1
+Up passenger/light loco pass Brockley Whins	Depart/pass Boldon North towards Pelaw	1
+Up Metro arrive Brockley Whins	Depart/pass Boldon North towards Pelaw	1
+Up freight pass towards Sunderland	Depart/pass Boldon North towards Pelaw	2
+Up freight pass towards Tyne Dock	Up freight pass towards Sunderland	4
+Up freight pass towards Tyne Dock	Up passenger pass	3
+Up freight pass towards Tyne Dock	Up Metro depart Fellgate	11⁄2
+Pass from Boldon North	Up Metro depart Fellgate	2
+Pass from Boldon North	Up passenger/light loco pass Brockley Whins	4
+Pass from Boldon North	Up freight pass Boldon West to Sunderland	41⁄2
+Pass from Boldon North	Up freight pass Boldon West to Boldon North	3
+"Pass Boldon North towards Sunderland (seeRestrictions)"	Pass Boldon West to Boldon North	31⁄2
+"Depart Boldon North towards Sunderland (seeRestrictions)"	Pass Boldon West to Boldon North	51⁄2
+"Restrictions:•Once a train has departed/passed Boldon North Junction, irrespective of route (i.e. via Boldon East or viaBoldon West), NO OTHER TRAIN can leave the Sunderland lines towards Boldon North Junction fromany direction, until first train is clear onto Sunderland lines – see margins above•Trains cannot stand on Boldon West Curve; there is no signaling on the Curve to allow this. Noallowances to be applied between Boldon West and Boldon North Junctions in either direction"		

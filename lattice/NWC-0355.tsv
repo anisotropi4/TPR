@@ -1,0 +1,34 @@
+Rochdale		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive or Depart Platform 2	Down Arrive Platform 1	2
+Up Pass Platform 3	Depart Platform 4	3
+Depart Platform 4	Arrive Platform 4	4
+""		
+Permissive Working		
+Attaching/Detaching and Platform Sharing is authorised as shown below:		
+Platform 1	Prohibited	
+Platform 2	Attaching and Detaching only £	
+Platform 3	Prohibited	
+Platform 4	Attaching and Detaching only	
+£ Attaching is only permitted where second movement is signalled from the Rochdale Turnback		
+""	Todmorden		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Pass Todmorden from Stansfield Hall Jn	Acceleration from Todmorden West Curve	1 *
+""	Pass Todmorden to Stansfield Hall Jn	Approach Control	11⁄2
+""	"Stop at Todmorden, then routed to StansfieldHall Jn"	Approach Control	1
+""	* Insert value at Littleborough.		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Down train passes Todmorden towards HallRoyd Jn"	"Up train passes or arrives at Todmorden fromStansfield Hall Jn"	21⁄2
+""	"Up train passes or arrives at Todmorden fromStansfield Hall Jn"	"Down train towards Hall Royd Jn or StansfieldHall Jn arrives at Todmorden"	3
+""	"Up train passes or arrives at Todmorden fromStansfield Hall Jn"	"Down train passes Todmorden towardsStansfield Hall Jn"	3
+""	Hall Royd Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Up trains routed towards Stansfield Hall Jn	Approach Control	1⁄2

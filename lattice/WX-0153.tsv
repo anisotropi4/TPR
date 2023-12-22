@@ -1,0 +1,38 @@
+Ascot			
+Up train passes/departs Platform 1	Up train passes from Bagshot	4	
+Up train departs Platform 2 or 3	Up train passes from Bagshot	41⁄2	
+"Down train departs/passes Platforms 2 or 3towards Bagshot"	"Up train arrives/passes Platforms 2 or 3 fromBagshot"	5	
+Up train departs Platforms 2 or 3	Down train arrives/passes Platform 2	31⁄2	
+Down train towards Bracknell	Conflicting Up train from Bagshot	41⁄2	
+Down train departs Platform 1 towards Bracknell	"Up train arrives/passes Platform 1 fromBracknell"	31⁄2	
+Down train departs Platform 1 towards Bracknell	"Up train arrives/passes Platform 2 fromBracknell"	4	
+Up train arrives at Platform 2 from Bracknell	Up train arrives at Platform 1 from Bagshot	31⁄2	
+""			
+Overlap Restrictions			
+First Movement	Second Movement	Signal	Margin
+Up train arrives at Platform 2	Up train passes Platform 3	BEF2234	41⁄2
+Up train arrives at Platform 2	Up train departs Platform 3	BEF2234	1
+Up train arrives at Platform 2	"Down train passes/arrives atPlatform 3"	BEF2234	3
+Up train departs Platform 3	"Up train arrives at Platform 2 fromBagshot"	BEF2234	41⁄2
+Up train departs/passes Platform 3	"Up train arrives at Platform 2 fromBracknell"	BEF2234	3
+Down train arrives at Platform 3	"Up train arrives at Platform 2 fromBagshot"	BEF2243	41⁄2
+Down train passes/arrives at Platform 3	"Up train arrives at Platform 2 fromBracknell"	BEF2234	3
+"Down train departs Platform 2 towardsBagshot"	Down train arrives at Platform 3	BEF2243	3
+Down train arrives at Platform 3	"Down train departs Platform 2towards Bagshot"	BEF2243	1
+Down train arrives at Platform 2	"Down train departs Platform 3towards Bagshot"	BEF2239	1*
+"Down train departs Platform 3 towardsBagshot"	Down train arrives at Platform 2	BEF2239	4*
+"* Movements can be made in parallel unless there is also an Up train passing/arriving at Platform 1 fromBagshot less than 3 minutes before or 4 minutes after the Down arrival into Platform 2."			
+""			
+Permissive Working			
+Attaching/Detaching and Platform Sharing is authorised as shown below -			
+Platform 1	Up Main	(Up direction)	Attaching/Detaching
+Platform 2	Down Main	(Up direction)	Attaching/Detaching
+Platform 3	Down Platform Loop	(Up direction)	Prohibited
+Bracknell		
+""		
+Adjustments to Sectional Running Times		
+Movements	Reason	Value
+Up train departing Platform 2 towards Ascot	Speed Differential	{1⁄2}*
+* Applies approaching next timing point.		
+""		
+Dwell Times		

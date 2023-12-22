@@ -1,0 +1,23 @@
+""	SO170 TONBRIDGE TO BOPEEP JUNCTION					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	Tonbridge	-	-		"Platform detail must be shownTo/from Hildenborough - SO130To/from Leigh - Refer to Sussex TimetablePlanning Rules - SO550"	
+""	Somerhill Tunnel	-	-		"Single line through tunnel.The timing point is at the end of the singleline at the North end of the tunnel."	
+""	High Brooms	-	-	S		
+""	Wells Tunnel Junction	-	-			
+""	Tunbridge Wells	-	-		Platform detail must be shown	
+""	Tunbridge Wells Turnback Siding		-	S	"Timing point for ECS movements to andfrom sidingTIPLOC TUNWTB"	
+""	Strawberry Hill Tunnel	-	-		"Single line through tunnelThe timing point is at the end of the singleline at the South end of the tunnel."	
+""	Frant	-	-	S		
+""	Wadhurst	-	-			
+""	Wadhurst Tunnel				Single line through tunnel	
+""	Wadhurst Tunnel South	-	-		"The timing point is at the end of the singleline at the South end of the tunnel"	
+""	Stonegate	-	-	S		
+""	Etchingham	-	-	S		
+""	Robertsbridge	-	-			
+""	Mountfield Tunnel	-	-		"Single line through tunnelThe timing point is at the end of the singleline at the South end of the tunnel"	
+""	Mountfield Sidings	-	-	F S	Access controlled by FOC shunter	
+""	Battle	-	-			
+""	Crowhurst	-	-	S		
+""	West St Leonards	-	-	S		
+""	Bopeep Junction	-	-		"To/from Hastings - Refer to SussexTimetable Planning Rules - SO600"	

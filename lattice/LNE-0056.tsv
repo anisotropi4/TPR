@@ -1,0 +1,27 @@
+LN836 DONCASTER MARSHGATE JUNCTION TO NEVILLE HILL EAST JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Doncaster Marshgate Junction	–	–	S	To/from Doncaster – LN101
+Bentley	–	–	S	
+Adwick	–	–		
+Carcroft Junction	–	–	X	To/from Skellow Junction – LN846
+Adwick Junction	–	–		To/from Skellow Junction – LN842
+South Elmsall	–	–	S	
+South Kirkby Junction	–	–		To/from To/from Moorthorpe – LN824
+Hemsworth Loops	–	–	S	
+Fitzwilliam	–	–	S	
+Wintersett	–		S	Out of Use STNC/G1/2017/LNE/001
+Hare Park Junction	–	–		To/from Crofton West Jn – LN848
+Sandall and Agbrigg	–	–	S	
+"Wakefield Westgate SouthJunction"				To/from Wakefield Kirkgate – LN850
+Wakefield Westgate	–	–		Platform detail must be shown
+Prison Sidings		–	S	
+Wrenthorpe Sidings		–	S	
+Outwood	–	–	S	
+Copley Hill West Jn	CHC	–	X	"Only when crossing to/from E or F lines orUWC/DWC.  Next/previous timing pointWhitehall Junction"
+Holbeck Junction	–	– UD		To/from Mill Lane Jn – LN852
+Whitelhall Road Ground Frame	–	–	S	Located at signal L3625
+Leeds Whitehall Rd	–	–	S	
+Whitehall Jn	"C  D  EUWC"	–		"Not a timing point on A or B lines.To/from Engine Shed Jn – LN840To/from Armley Jn – LN922"
+Leeds West Junction	"A  B  CD  E  FBS  CSES  CNCNS  EN"	"DH  D  EF  UM"		"The line codes shown between LeedsWest Jn and Leeds in both directions arethe lines the train is on at Leeds West Jn.The line codes shown between LeedsWest Jn and Whitehall Jn are the lines thetrains are on at the east side of WhitehallJn.Line codes other than those shown areavailable for ARS/SSI alternative routesbut should not be used for normaltimetabling purposes. Further details areavailable from the Operational PlanningProject Manager, Network Rail.F Line to be used in Down direction forPlatform 16/17 only.Line codes ending in ‘S’ are for trains toPlatforms 11 and 12 east end only viaPlatforms 11 and 12 West.Line codes ending in ‘N’ are ARS “Non-Favourite” routes.To/from Engine Shed Jn – LN872"
+Leeds	–	"B  D  EF  BSDS  DNDNS  ENFS"		"Platform detail must be shown.Line codes ending in ‘S’ are for trains fromPlatforms 11 and 12 east end only viaPlatforms 11 and 12 West.Line codes ending in ‘N’ are ARS “Non-Favourite” routes."

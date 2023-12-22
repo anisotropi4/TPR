@@ -1,0 +1,30 @@
+Lawley Street FLT
+""
+Planning Notes
+Departures
+"Departing trains in excess of 100SLU/640M must be planned with a minimum 20 minute OP stop in the UpWashwood Heath Goods Loop. This is due to the train being assembled and brake test carried out in advance ofWP8902 signal."
+"Departing trains towards Landor Street Jn must be planned with a minimum 40 minute run round in the UpWashwood Heath Goods Loop. This includes the time taken to assemble the train and to run round."
+""
+Arrivals
+"Arriving trains from Castle Bromwich Jn must be planned with a minimum 20 minute run round in the UpWashwood Heath Goods Loop. The train is then propelled into the terminal."
+""	Landor Street Jn			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	All conflicting moves (see exception below)		"4 before/3 after"	
+""	Up pass	Conflicting Up depart	2	
+""				
+""	Planning Note			
+""	"Trains standing at signal LL4772 signal on the Up St. Andrew’s that are longer than 454 meters/71SLUs (exclusiveof stand-back allowance) will foul St. Andrew’s Jn. Therefore, junction margins at St. Andrew’s Jn must be basedon trains’ departure time at Landor Street Jn if over length."			
+""	Proof House Jn	
+""		
+""	See entry under route MD301 Rugby Trent Valley Jn to Penkridge (via Birmingham)	
+""	MD555 NUNEATON NORTH JN TO WATER ORTON EAST JN			
+""				
+""	Abbey Jn			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Up	Reason	Value	
+""	"Train from Whitacre Jn to Nuneaton stopping atplatform 6 whilst a parallel move is taking placeat Nuneaton onto the Nuneaton North Chord"	"Encountering adverse aspects approachingAbbey Jn and Nuneaton platform 6"	1	
+""				
+""	"Planning Rule/Junction MarginA train routed on the Up Arley from Nuneaton Platform 7 to Abbey Jn and crossing to the Down Arley must have amargin of 4 minutes before the next train from the direction of Water Orton/Whitacre Jn."			

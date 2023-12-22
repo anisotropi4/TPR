@@ -1,0 +1,36 @@
+""	NW9019 BUXTON TO BRIGG’S SIDINGS				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Buxton SB	–	–		"Single line from Buxton SB to/from Brigg’sSidingsTo/from Buxton Up Relief Sidings -NW9005"
+""	Hillhead Ground Frame	–	–	S	"TIPLOC HILLHGFTrains to/from Hillhead Sidings.  All trainsto Hillhead Sidings must stop to operatethe Ground Frame."
+""	Hillhead Sidings		–	F	TIPLOC HILLHSG
+""	Brigg’s Ground Frame	–	–		"All trains must stop to operate the GroundFrame."
+""	Hindlow Quarry		–	F	
+""	Brigg’s Sidings				
+""	Dowlow Quarry		–	F	
+""	NW9021 BUXTON TO HAZEL GROVE EAST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Buxton	–			"Platform detail including HS must beshownNo access to HS or Platform 1 from UpMain"
+""	Buxton SB	–	–		"To/from Buxton Up Relief Sidings –NW9005"
+""	Dove Holes	–	–	S	
+""	Chapel–en–le–Frith	–	–		
+""	Whaley Bridge	–	–	S	
+""	Furness Vale	–	–		
+""	New Mills Newtown	–	–	S	
+""	Disley	–	–	S	
+""	Middlewood	–	–	S	
+""	Hazel Grove East Jn				To/from Hazel Grove – NW9001
+""	NW9901 GARGRAVE TO CARLISLE SOUTH JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Gargrave	–	–		"To/from Skipton – LN922 Refer to LNETimetable Planning Rules"
+""	Route Boundary: LNE/NW&C				230 miles 0 chains
+""	Hellifield SB				To/from Horrocksford Jn – NW7013
+""	Hellifield	–	–		
+""	Long Preston	–	–	S	
+""	Settle Jn	–	–		To/from Carnforth Station Jn. – NW9903
+""	Settle	–	–	S	
+""	Arcow Quarry	–		F	
+""	Arcow Quarry Ground Frame	–		F	"Timing point for trains to/from ArcowQuarry in Down direction"
+""	Helwith Bridge		–		

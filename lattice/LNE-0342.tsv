@@ -1,0 +1,23 @@
+LN922 WHITEHALL WEST JUNCTION TO HELLIFIELD SOUTH JUNCTION					
+Timing Section	Type	"LHHST80XEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Weekdays					
+Approach Skipton	E	1	1	2	
+""	P		1		Terminating trains only
+Up – Weekdays					
+Approach Skipton	E	2	2	2	
+""	P		1		
+Approach Armley Junction	E	1	1	2	
+P		1			
+LN924 APPERLEY JUNCTION TO ILKLEY					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Weekdays					
+Approach Ilkley	E		1		
+P		1			
+LN928 SHIPLEY EAST JUNCTION TO BRADFORD FORSTER SQUARE					
+Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""					
+Down – Weekdays					
+Approach Bradford Forster Square	E	1	1	2	
+P		1			

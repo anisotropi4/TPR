@@ -1,0 +1,32 @@
+Bedford		
+South end		
+Depart Platform 1 via Up Slow	Arrive Platforms 2/3 via Down Slow	Parallel
+Depart Platform 1/2 via Up Slow	Arrive Platform 3 via Down Slow	Parallel
+Depart Platform 1 to CS/Jowett Sidings	Up Slow to Platform 2	Parallel
+Depart Platform 3 via Down Slow	Arrive Platform 1/2 via Up Slow	Parallel
+Depart Platform 2 via Down Slow	Arrive Platform 1 via Up Slow	Parallel
+Depart Platform 2 via Up Slow	Arrive Platform 1 from CS/Jowett Sidings	Parallel
+Northbound into Platform 2/3 from south	Southbound into Platform 2/3 from north	Parallel
+Depart/pass Platform 1 towards Bletchley	Arrive Platform 2 via Up Slow/from CS	Parallel
+Arrive Platform 2 via Up Slow/from CS	Depart/pass Platform 1 towards Bletchley	Parallel
+Arrive/pass Platform 1 from Bletchley	Depart Platform 2 via Up Slow/to CS	Parallel
+Depart Platform 2 to Up Slow/CS	Arrive/pass Platform 1 from Bletchley	Parallel
+North end		
+Depart Platform 1 to Down Slow	Arrive Platform 2/3 from Up Fast	Parallel
+Depart Platform 2/3 to Down Fast	Arrive Platform 1 from Up Fast or Up Slow	Parallel
+Southbound into Platform 2/3 from north (b)	Northbound into Platform 2/3 from south (b)	Parallel
+"a)A margin of 4 minutes should be applied wherever possible to ensure timetable resilienceb)A margin of 4 minutes should be applied for any movements taking place to/from Platform1a or the Bletchley Linec)Simultaneous arrives from the north & south into Platforms 2 and 3 are possible as follows:-Arrive Platform 2 from the south, route set into Platform 3 from the north;-Arrive Platform 3 from the south, route set into Platform 2 from the north"		
+""		
+Planning Restrictions		
+"Maximum Standage in Platforms 1, 2 and 3 is 261m (40 SLUs).Any trains planned to stop in Bedford station that are longer than the maximum standage length will lock thepreceding block section and routes into and out of adjacent platforms. In this instance, relevant junction marginsshould be applied from when the train departs and clears the points rather than when it arrives into the stationplatform.GTR services must not be planned into Platform 4 as GTR train drivers do not possess the necessary routeknowledge to perform a shunt move via Bedford North Junction to Platforms 1-3"		
+""		
+Planning Note		
+"No timing allowances should be applied between Bedford and Bedford North Junction as there are no intermediatesignals"		
+Bedford North Siding
+""
+Berthing and Turn back Capacity
+Trains may run to/from or stable in Bedford North Siding as a single 8 car unit only.
+Bedford North Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value

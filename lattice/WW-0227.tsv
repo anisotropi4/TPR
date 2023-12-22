@@ -1,0 +1,38 @@
+""	Cogan Junction
+""	"When a train is signalled from the Penarth Branch towards Cardiff the protecting signal for Cogan Junction is C424signal which is the controlling signal for movements into the Down Goods Loop.  The signal that controls CoganJunction, C426 is too close the junction in the event of a SPAD incident"
+""	Cadoxton			
+""				
+""	Adjustments to Sectional Running Time			
+""	Movement	Reason	Timing Load	Value
+""	To Barry Docks ABP	Junction Differential	"Freight trainsonly"	"{1} beforeCadoxton"
+""	From Barry Docks ABP	Junction Differential	"Freight trainsonly"	"{2} afterCadoxton"
+""	Barry			
+""				
+""	Connectional Allowance	3		
+""				
+""	Adjustments to Sectional Running Time			
+""	Movement	Reason	Timing Load	Value
+""	"From Barry Island to Cadoxton (platform 3only)"	Junction differential		{1⁄2} after Barry
+""	GW834 HIRWAUN TO ABERCYNON
+""	
+""	Abercynon
+""	
+""	See entry under route GW830 Merthyr Tydfil to Barry Island via Cardiff Queen Street
+""	GW835 TREHERBERT TO PONTYPRIDD JUNCTION
+""	
+""	Ystrad Rhondda	
+""		
+""	"Dwell Time for Cardiff ValleyClasses 150 and 769"	11⁄2
+""	Porth	
+""		
+""	"Dwell Time for Cardiff ValleyClasses 150 and 769"	11⁄2
+""	"GW840 RADYR JUNCTION TO CARDIFF RADYR BRANCH JUNCTION VIA CITYLINES"	
+""		
+""	Ninian Park	
+""		
+""	Connectional Allowance	3
+""	GW850 LECKWITH LOOP NORTH JN TO LECKWITH LOOP SOUTH JN
+""	
+""	Leckwith Loop Jn North & Leckwith Loop Jn South
+""	
+""	Planning Rule

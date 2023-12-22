@@ -1,0 +1,37 @@
+LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+King’s Cross	"A B CCX D E FFX"			"Platform detail must be shownSee Section 7 for supplementary diagramsfor routings with X suffix"
+"King’s Cross Gaswork TunnelReversing Signals"	"A B C DE F"	"A B C DDX E EXF"	S	
+Belle Isle	SL FL	"A B BX CD DX EEX FDCTUCT"		"To/from St Pancras Low Level – Pleaserefer to East Midlands train Planning rulesLN3214"
+Copenhagen Junction	SL	NLI	X	
+Copenhagen Jn Signal YA2070		–	S	
+Holloway South Junction	"FL SLGL"	FL SL		
+Holloway South Signal K326		SL2	S	
+Finsbury Park Signal K60	SL1 SL2		S	
+Finsbury Park	"FL SL1SL2"	"FL SL1SL2"		"Platform detail must be shownTo/from Drayton Park – LN105To/from Highbury Vale Jn – LN110"
+Finsbury Park Signal K68		–	S	
+Harringay Junction				To/from Harringay Park Jn – EA1370
+Harringay Up Rev Sidings	–		S	
+Harringay Signal K85		SL2	S	
+Harringay	SL1 SL2	SL1 SL2		"Timing point for trains on the Up Slow linesand Down Slow 2"
+Harringay Signal K422		SL2	S	
+Ferme Park Shunt Neck	–	–	S	"For shunt moves to/from Ferme ParkCarriage Sidings"
+Ferme Park Rec	CL SL2	SL2	S	
+"Hornsey EMU Down ReversingSidings"		– SL2		"TIPLOC HRNSDRSSiding detail must be shown"
+Hornsey Signal K440		"–SL2"	S	"TIPLOC HRNS440Available for north to south reversals andmovements in the up direction only"
+Hornsey EMUD	SL2	SL1 SL2	S	
+Hornsey	SL1 SL2	SL1 SL2	S	
+Hornsey Signal K453	SL2		S	
+Hornsey Signal K451	CL		S	
+Alexandra Palace	FL SL	"FL   SL1SL2 CL"		"Platform details must be shown for stoppingtrains and non–stop via platforms"
+Wood Green North Jn				To/from Hertford North – LN120
+Bounds Green TRSMD		–	S	
+New Southgate	FL  SL	FL  SL	S X	
+Oakleigh Park	FL  SL	FL  SL	S	
+New Barnet Up Siding		–	S	
+New Barnet	FL  SL	FL  SL	S X	
+Hadley Wood	FL  SL	FL  SL	S	
+Potters Bar	FL  SL	FL  SL		Platform detail must be shown
+Potters Bar Signal K146		–	S	
+Potters Bar Signal K148		–	S	

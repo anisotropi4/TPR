@@ -1,0 +1,41 @@
+""	Bruton	
+""		
+""	Dwell Time	
+""	153 to 159	1
+Castle Cary			
+""			
+Adjustments to Sectional Running Times			
+Movement	Reason	Timing Load	Value
+Pass platform 2 to Yeovil	Approach control	All	{1}
+Pass platform 3 to Yeovil	Approach control	All	{11⁄2}
+Down train stopping in platform 3	Approach control	All	{1⁄2}
+Pass from Yeovil	Acceleration	All	{11⁄2}*
+*To be applied approaching next timing point			
+""			
+Dwell Time			
+80x	11⁄2		
+DMU	1		
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Up pass/depart platform 2 or 3	Down pass/arrive platform 2 or 3	4	
+GW5001 BEECHGROVE GF TO WESTBURY SOUTH JUNCTION
+""
+Beechgrove GF
+""
+Planning Note
+"During a shunt movement at Beechgrove GF, a down train cannot arrive/pass Warminster due to occupying thesection between W306 and W308 signals."
+Warminster		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+"Depart Warminster platform 2 havingarrived with signal section beyond W308occupied"	Restrictive aspects	{1⁄2}*
+*Applied approaching next timing point		
+""		
+Shunt Margins		
+First Movement	Second Movement	Margin
+Up depart/pass	"Shunt move depart Warminster SignalW753"	2
+Arrive from Warminster Signal W753	Down arrive/pass	3
+""		
+Planning Note		
+A Down train cannot arrive Warminster during a shunt movement at Warminster Signal W753.		

@@ -1,0 +1,40 @@
+"section between Whitland and Tenby.  They do this at Whitland SB, which is approximately 120 yards to the eastof Whitland station.  The SRTs include an allowance for this between Carmarthen and Whitland and vv."
+Clunderwen	
+""	
+Dwell Time	
+150 to 175	1⁄2*
+* Request Stop	
+Clarbeston Road	
+""	
+Dwell Time	
+150 to 175	1⁄2*
+* Request Stop	
+Fishguard & Goodwick	
+""	
+Dwell Time	
+150 to 175	1⁄2
+Fishguard Harbour	
+""	
+Turnround allowances	
+""	DMU
+From East of Cardiff	20*
+From Cardiff and West thereof #	10#
+"* may be reduced to 5 mins for the last service of the day from East of Cardiff# may be reduced to 5 mins for early morning / late evening services from / to Carmarthen"	
+GW9001 LANDORE JUNCTION TO SWANSEA			
+""			
+Swansea Loop East			
+""			
+Junction Margin	2		
+""			
+Adjustment to Sectional Running Times (to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+"From Swansea to Swansea LoopWest"	Slow speed turnout	80x	{1⁄2}
+""			
+Adjustment to Sectional Running Times (to be shown after this location)			
+Movement	Reason	Timing Load	Value
+"From Swansea Loop West toSwansea"	Slow speed turnout	80x	{1⁄2}
+Swansea	
+""	
+Connectional Allowance	5
+""	
+Dwell Time	

@@ -1,0 +1,40 @@
+Farncombe	
+""	
+Dwell Times	
+All services	1
+Godalming	
+""	
+Dwell Times	
+All Services	1
+Haslemere			
+""			
+Adjustment to Sectional Running Times			
+Movement	Reason		Value
+"Down pass/arrive Platform 2 (not having stopped atWitley)"	Approach Control		{1}
+"Down pass/arrive Platform 2 (having stopped atWitley)"	Approach Control		{1⁄2}
+""			
+Connectional Allowances			
+All Services	5		
+""			
+Dwell Times			
+All services except as below	1		
+"Up direction services departing between 0600 and 0845 or Down direction services arrivingbetween 1700 and 1930 Monday to Friday"	11⁄2		
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Between all movements except as below		3	
+All arrivals	Departures crossing behind	1	
+Up Departure from 2 or 3	Up Departure from alternate Platform	3 1⁄2	
+Liphook	
+""	
+Dwell Times	
+All Services	1
+Trains departing Liphook to be advertised to depart 1 minute earlier than WTT if they depart on a whole minute.	
+Petersfield	
+""	
+Dwell Times	
+All services except as below	1
+"Up direction services departing between 0600 and 0830 or Down direction services arrivingbetween 1730 and 1945 Monday to Friday"	11⁄2
+Havant
+""
+Dwell Times

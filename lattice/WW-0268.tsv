@@ -1,0 +1,49 @@
+STATION	PLATFORM	"USABLELENGTH"	NOTES
+""		In metres	
+Polsloe Bridge	Single	184	
+Pontarddulais	Single	138	
+Pontlottyn	Single	127	
+Pontyclun	1	102	
+Pontyclun	2	102	
+Pontypool & New Inn	1	163	
+Pontypool & New Inn	2	163	
+Pontypridd	1	138	Bay platform
+Pontypridd	2	124	Bi-directional
+Pontypridd	3	124	
+Port Talbot Parkway	1	277	
+Port Talbot Parkway	2	280	
+Porth	(Down)	124	
+Porth	(Up)	132	"Top of ramp (Pontypridd end) to signal. Theplatform is unusable beyond signal VR304"
+Porthmadog	2 Down	142	Bi-directional. Pwllheli end of platform fenced off
+Porthmadog	1 Up	143	Also for departures in down direction
+Portsmouth Arms	Single	74	
+Portway Park and Ride	Single	126	
+Prees	Down	83	
+Prees	Up	66	
+Pwllheli	Single	131*	"Car Stop board (buffer stops end) to departureBlock Marker 1257. (*162m to top of ramp;departure requires use of  Written Order)"
+Pye Corner	Single	145	
+Pyle	1	108	
+Pyle	2	108	
+Quaker’s Yard	Single	126	
+Quintrel Downs	Single	90	Down Direction Only
+Quintrel Downs	Single	74	Up direction only.  Top of ramp to stop board
+Radley	Down	158	
+Radley	Up	158	
+Radyr	1 (Down)	124	
+Radyr	2 (Up)	108	Bi directional
+Radyr	3 (Up)	124	
+Reading	1	124	"Top of ramp to stop blocksMaximum 5 vehicles"
+Reading	2	120	"Top of ramp to stop blocksMaximum 5 vehicles"
+Reading	3	120	"Top of ramp to stop blocks. 6 Turbo vehicles can beaccommodated within signal, providing the westend set is not in use."
+Reading	7	280	Between car stops
+Reading	7a (east)	127	Between car stop and rear clear
+Reading	7b (west)	143	Between car stop and rear clear
+Reading	8	277	Between car stops
+Reading	8a (east)	148	Between car stop and rear clear
+Reading	8b (west)	119	Between car stop and rear clear
+Reading	9	255	Between car stops
+Reading	9a (east)	120	Between car stop and rear clear
+Reading	9b (west)	125	Between car stop and rear clear
+Reading	10	240	Between car stops
+Reading	10a (east)	73	Between car stop and rear clear
+Reading	10b (west)	157	Between car stop and rear clear

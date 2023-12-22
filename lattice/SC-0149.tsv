@@ -1,0 +1,34 @@
+Larbert Junction		
+Down train passes from Falkirk (Passenger)	"Up train passes towards Greenhill Junction(notstopping Larbert)"	3
+Down train passes from Falkirk (Freight)	"Up train passes towards Greenhill Junction (notstopping Larbert)"	4
+Down train passes from Falkirk	"Up train passes towards Greenhill Junction(stopping Larbert)"	2
+Larbert
+""
+"RestrictionPathing time must not be used between Larbert and Larbert Junction in either direction as there are nointermediate signals."
+Stirling			
+""			
+Adjustments to Sectional Running Times			
+Movement Down	Reason		Value
+"ECS moves from Platform 6 or 9 to StirlingNorth and Dunblane"	Speed differential approaching Dunblane		2
+"ECS moves from Centre Sidings (Platform 4 or5) to Stirling North and Dunblane"	Inspection of hand points		2
+""			
+Movement Up	Reason		Value
+Trains arriving Plat 9 from Dunblane	Approach control		1
+"ECS moves from Stirling North to Platform 6 or9"	Speed differential		2
+"ECS moves from Stirling North to CentreSidings (Platform 4 or 5)"	Inspection of hand points		2
+""			
+Dwell Time			
+MU	1		
+LH Slam Doors	2		
+HST Power Doors	11⁄2		
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+Up EMU depart via up main	Down Arrive Platforms 6-10	31⁄2	
+Up DMU/HST/LH depart via up main	Down Arrive Platforms 6-10	4	
+Up Depart Platforms 9 or 10 via up loop	Down Arrive Platform 9 or 10	31⁄2	
+Depart Platforms 4-9 towards Dunblane	Up Arrive (not EMU)	5	
+Depart Platforms 4-9 towards Dunblane	Up EMU Arrive	41⁄2	
+"Shunt move arrive Stirling North from Platform4,5,6 or 9"	Up train arrive/pass Platform 3	3	
+"RestrictionPassenger Trains cannot be planned from the North into Platforms 4 or 5.LNER class 80x should not use platform 10 owing to PRM restrictions"			
+"Operating NoteLNER services that exceed 3 hours 30 minutes running between Edinburgh Waverley-Inverness must have 5minute dwell at either Stirling, Perth or Pitlochry for driver PNB requirements"			

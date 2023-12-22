@@ -1,0 +1,35 @@
+""	LN860 DIGGLE JUNCTION TO COPLEY HILL EAST JUNCTION					
+""	Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""						
+""	Down – Weekdays					
+""	Approach Huddersfield	E	1	1	1	
+""	Approach Whitehall Junction	E	1	1	1	
+""		P		1*		* Applies to stopping services only.
+""	Up – Weekdays					
+""	Approach Heaton Lodge Junction	E		1		"Stopping services from Leeds andWakefield"
+""		P		1		"Stopping services from Leeds andWakefield"
+""	LN862 BARNSLEY STATION JUNCTION TO HUDDERSFIELD					
+""	Timing Section	Type	"LHHSTEPUCl 422X"	"MULL"	Cl 6	Remarks
+""						
+""	Down – Weekdays					
+""	Approach Penistone	P		1		
+""	Approach Huddersfield	E	1	1		
+""	P		1⁄2			
+""	Up – Weekdays					
+""	Approach Barnsley	E	1	1		
+""	P		1			
+""	LN868 WINCOBANK JUNCTION TO HORBURY JUNCTION VIA BARNSLEY					
+""	Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""						
+""	Down – Weekdays					
+""	Approach Barnsley	E	1		1	
+""	Approach Horbury Junction	P		1		
+""	Up – Weekdays					
+""	Approach Barnsley	P		1		Trains starting from Leeds only
+""	Approach Wincobank Junction	E	1		1	
+""	LN872 ALTOFTS JUNCTION TO LEEDS WEST JUNCTION					
+""	Timing Section	Type	"LHHSTEPU22X"	"MULL"	Freight	Remarks
+""						
+""	Down – Weekdays					
+""	Approach Engine Shed Junction	E	2	1	2	"Approaching Stourton for trains thatterminate or call"
+""	P		1			

@@ -1,0 +1,38 @@
+""	"Between opposite directionarrivals"	2		
+""	"Between an arrival andsubsequent departure in theopposite direction"	1		
+""				
+""	Station Working			
+""	"Priority should be given to platforming all services on Platform 2. When services are crossing or there areotherwise two services planned in the station simultaneously preference should be given to platforming Voyagersand Class 80x services to/from London on Platform 2."			
+""	Turnround allowances			
+""		"DMU/GWR ShortForm HST(HSTGW4)"	Class 80X (5 car)	Class 80X (9/10 Car)
+""	From Paddington		15	20
+""	From Birmingham	30		
+""	"From Bath Spa/CardiffCentral/Gloucester"	10		
+""	From Bristol TM	4	5	7
+GW108  FORDGATE TO PENZANCE			
+""			
+Cogload Junction			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+Departing Platform 2 or 3 from Taunton	"Running brake test andapproach control"	HST/80x/22x	{1}
+Taunton		
+""		
+Platform End Conflict Margin		
+First Movement	Second Movement	Margin
+"Train departing platform 2 or 3 in the Updirection"	"Train arriving platform 2 or 3 in the Downdirection"	5
+""		
+Junction Margin		
+First Movement	Second Movement	Margin
+"Train departing platform 4, 5 or 6 in the updirection."	"Train departing platform 2 or 3 in the updirection."	"3Must be 4 minuteheadway atCogload Junction"
+""		
+Overlap Restrictions		
+First Movement	Second Movement	Margin
+"Down depart Platform 2 (to DownMain)"	Down Arrive Platform 3	3*
+Down arrive Platform 3	Down depart Platform 2 (to Down Main)	2*
+"Up arrive Platform 2 (from UpMain)"	Down Arrive Platform 3	3*
+*Can be reduced to 0 if arrival into platform 3 has {1} adjustment approaching Taunton. (due to reduced overlap)		
+""		
+Dwell Time		
+800/802	11⁄2	
+22x	11⁄2	

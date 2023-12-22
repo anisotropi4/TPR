@@ -1,0 +1,38 @@
+Craigentinny Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Train pass towards Portobello	Down train depart to Powderhall Branch	1
+Down Train depart to Powderhall Branch	Up Train pass towards Portobello	3
+Down Train pass towards Abbeyhill Junction	Up Train depart to Craigentinny TMD	1
+"Up Train of 5 coaches or less to CraigentinnyTMD"	Down Train pass towards Abbeyhill Junction	21⁄2
+"Up Train of 6 or more coaches to CraigentinnyTMD"	Down Train pass towards Abbeyhill Junction	3
+Down Train departs to Powderhall Branch	Up Train departs to Craigentinny TMD	2
+Up Train Departs to Craigentinny TMD	Down Train departs to Powderhall Branch	1
+Down Train Pass Craigentinny Jn	Down Train Departs Craigentinny TMD	1
+""		
+For trains to Powderhall Branch		
+""	ARR	DEP
+Portobello Junction		XX/XX
+Craigentinny Junction	XXOP00	XXOP001⁄2
+Powderhall Refuse Sdg	XX:XX	
+""		
+Restriction		
+Pathing time must not be inserted between Craigentinny TMD and Craigentinny Jn		
+Abbeyhill Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Train pass	Down train depart	1
+""		
+"Operating InstructionIt is permitted to reverse any combination of gangwayed or non-gangwayed ScotRail unit."		
+Edinburgh
+""
+Refer to SC107
+SC155 MONKTONHALL JN TO MILLERHILL YARD (GOODS LINE)
+""
+Millerhill Signal EM14
+""
+"Operating Stop2 minutes.  Down trains required to stop at Millerhill Signal EM14 to receive permission to enter Millerhill Yard"
+Millerhill Yard
+Please refer to SC161 margins

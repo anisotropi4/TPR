@@ -1,0 +1,33 @@
+""	Kings Norton
+""	
+""	Planning Note
+""	"If pathing time is required between Lifford East Jn and Kings Norton, this is to be shown approaching Lifford EastJn when the first train is using Platform 4 at Kings Norton. This is because there are no intermediate signalsbetween Lifford East Jn and Kings Norton."
+""	Kings Norton West Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass Down Slow to Down Fast	Pass Kings Norton on Down Fast	21⁄2
+""	Pass Kings Norton on Down Fast	Pass or depart from Kings Norton West Jn	21⁄2
+""	Longbridge			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	"Non-stop trains crossing from the Down Slow toDown Fast"	Junction differential	"1 Applies atnext timingpoint afterLongbridge"	
+""				
+""	Movement Up		Reason	Value
+""	"Non-stop trains crossing from the Up Fast to upSlow"		Junction differential	1
+""				
+""	Dwell Time		1	
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Non-stop train passes Longbridge on DownGloucester Fast"	"Train departs Longbridge platform 2 to theDown Gloucester Fast"	2	
+""	Depart platform 2 to reversing siding	Any conflicting movement, except as below:	3	
+""	Depart platform 2 to reversing siding	"Train from Up Gloucester Fast to arriveplatform 1"	4	
+""	Up train passes or arrives at Longbridge	Depart platform 2 to reversing siding	1	
+""	"Down train passes Longbridge on DownGloucester Fast"	Depart platform 2 to reversing siding	1	
+""	"Up train arrives platform 1 from the UpGloucester Fast"	"Train passes Longbridge on the Up GloucesterFast"	3	
+""				
+""	"Station workingTo allow EMU shunt moves to take place robustly, trains must not be given a shunt stop at Longbridge whenarriving from Barnt Green on the SL. Services are to be allocated pathing time between the two locations or atimed stop at Longbridge Signal 23."			
+""				
+""	Turnround Allowance		"10 Must have a minimum of 6 minutes after a timed arrival intothe turnback siding, subject to an overall minimum of 10minutes. All crossing movements must be timed."	

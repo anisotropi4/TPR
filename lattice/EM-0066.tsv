@@ -1,0 +1,34 @@
+Sharnbrook Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down Fast to Down Slow	Junction differential	"HST/180/222/36011⁄2 before and 1⁄2 afterFreight1 before and 1⁄2 after"
+Down Slow to Down Fast	Junction differential	"HST/180/222/3601⁄2 before and 11⁄2 afterFreight1⁄2 before and 1 after"
+""		
+Movement Up	Reason	Value
+Up Fast to Up Slow	Junction differential	"HST/180/222/36011⁄2 before and 1⁄2 afterFreight1 before and 1⁄2 after"
+Up Slow to Up Fast	Junction differential	"HST/180/222/3601⁄2 before and 11⁄2 afterFreight1⁄2 before and 1 after"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves except for below:	4	
+Down Fast to Down Slow	Up Fast to Up Fast	3
+Down Slow to Down Fast	Up Fast to Up Fast	3
+Down Slow to Down Fast	Up Slow to Up Fast	5
+Down Slow to Down Slow	Up Slow to Up Fast	5
+Up Fast to Up Slow	Up Slow to Up Fast	5
+Wellingborough South Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Slow to Up Fast	Down Slow pass/arrive Wellingborough	31⁄2
+Down Slow pass/arrive Wellingborough	"Up Slow to Up Fast not stopping atWellingborough"	3
+Down Slow pass/arrive Wellingborough	"Up departure from Wellingborough Platform 4crossing to Up Fast"	Same time
+""		
+Converging headway		
+First Movement	Second Movement	Margin
+Up passenger pass Wellingborough on Up Fast	"Depart Wellingborough Platforms 3/4 to UpFast via Wellingborough South Junction"	11⁄2
+Up freight pass Wellingborough on Up Fast	"Depart Wellingborough Platform 3/4 to Up Fastvia Wellingborough South Junction"	21⁄2
+""		
+Planning Note		
+"No timing allowances should be applied between Wellingborough South Junction and Wellingborough as there areno intermediate signals"		

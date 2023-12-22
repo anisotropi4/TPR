@@ -1,0 +1,36 @@
+EA1500 BRUNDALL JUNCTION TO YARMOUTH	
+""	
+Acle	
+""	
+Single Line Crossing	"First train arrives at xx and departs xx +021⁄2Second train arrives xx +02 and departs xx +03If the Up train exceeds the Up Loop length the down train mustarrive first and depart second."
+Great Yarmouth		
+""		
+Single Line Reoccupation	DMU / BMU	1
+""	Other	21⁄2
+""		
+Splitting and Coupling of trains permitted	All platforms	
+EA1530 COLDHAM LANE JUNCTION TO HAUGHLEY JUNCTION	
+""	
+Dullingham	
+""	
+Single Line Crossing	"First train arrives xx and departs xx +021⁄2Second train arrives xx +02 and departs xx +03"
+Newmarket	
+""	
+Dwell Time	1
+Chippenham Jn		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down train from Cambridge direction	Up train towards Cambridge	2
+Down train from Cambridge direction	Up train towards Soham	21⁄2
+Up passenger train towards Soham	Down train from Cambridge direction	21⁄2
+Up freight train towards Soham	Down train from Cambridge direction	3
+Bury St Edmunds		
+""		
+Dwell Time		1
+""		
+Terminal Lengths		
+Up Reception	"Headshunt beyond the points leading back tothe Up Main line to achieve 60 SLUs"	60 SLUs
+Up Reception	Without headshunt	25 SLUs
+""		
+Splitting and coupling of trains permitted	Attaching or detaching in service	4

@@ -1,0 +1,33 @@
+""	MD345 BESCOT JN TO RUGELEY NORTH JN (EXCLUSIVE)			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Bescot Yard to Pleck Jn	8	8	
+""	Bescot Stadium to Pleck Jn	5	5	
+""	Pleck Jn to Walsall	"5Fast5 Slow"	"5Fast5 Slow"	
+""	Walsall to Ryecroft Jn	4	4	
+""	Ryecroft Jn to Bloxwich	4*	4*	* 5 when following Class 4, 6, 7 or 8 trains.
+""	Bloxwich to Hednesford	4*	4*	* 5 when following Class 4, 6, 7 or 8 trains.
+""	"Hednesford to Rugeley PowerStation Jn"	5$	4*	"$ 6 when following Class 4, 6, 7 or 8 trains* 5 when following Class 4, 6, 7 or 8 trains"
+""	"Rugeley Power Station Jn toRugeley Trent Valley"	Single Line		
+""	MD350 ANGLESEA SIDINGS TO LICHFIELD CITY			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Anglesea Sidings to Lichfield CityJn"	*	* Single line - One Train in Section (OTS)	
+""	"MD355 LICHFIELD TRENT VALLEY JN TO LICHFIELD TRENT VALLEY (CHORDLINE)"			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	"Lichfield Trent Valley Jn toLichfield Trent Valley"	*	* Single line - Plan as AB+2	
+""	MD360 WALSALL PLECK JN TO DARLASTON JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Pleck Jn to Darlaston Jn	5	5	
+""	MD365 PORTOBELLO JN TO WOLVERHAMPTON CRANE STREET JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Portobello Jn to Wolverhampton	5	5	
+""	MD401 HEYFORD TO BORDESLEY JN			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Heyford to Aynho Jn (exclusive)	4*	4*	* 5 applies if the first train is stopping at Heyford
+""	"Aynho Jn (inclusive) to SmallHeath South Jn (inclusive)"	3	3	
+""	"Small Heath South Jn (exclusive)to Bordesley Jn"	4	4	

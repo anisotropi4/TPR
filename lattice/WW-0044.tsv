@@ -1,0 +1,39 @@
+""	GW560 HEYWOOD ROAD JUNCTION TO FAIRWOOD JUNCTION VIA WESTBURY				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Heywood Road Junction	–	–		
+""	Westbury East Loop Junction				To/from Hawkeridge Jn – GW510
+""	Westbury North Junction				To/from Bradford Junction – GW510
+""	Westbury Patney Siding	–		S	
+""	Up Trowbridge Siding	–		S	
+""	Westbury DMU Sidings		–	S	
+""	Westbury	–	–		Platform detail must be shown.
+""	Westbury Signal W207		–	S	
+""	Westbury Signal W707		–	S	
+""	Westbury Up TC	–	–	S	
+""	Westbury Down TC	–	–	S	
+""	Westbury South Junction				To/from Warminster – GW5001
+""	Westbury Down TC Entry/Exit	–	–		"Timing point for all trains to/from WestburyDown TC or Westbury Down Reception"
+""	Fairwood Junction	–	–		
+""	GW570 CLINK ROAD JUNCTION TO BLATCHBRIDGE JUNCTION VIA FROME				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Clink Road Junction	DF UF	–		
+""	Frome Signal W297		UF		"Timing point for all trains on Up GoodsLoop"
+""	Frome North Jn	–	UF UGL		To/from Whatley Quarry – GW572
+""	Frome	–	–	S	
+""	Blatchbridge Junction	–	–		
+""	GW572 FROME NORTH JUNCTION TO WHATLEY QUARRY				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Frome North Jn	–	UF UGL		To/from Clink Road Jn – GW500
+""	Whatley Quarry		–		
+GW580 EAST SOMERSET JUNCTION TO CRANMORE				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+East Somerset Junction	–	–		To/from Blatchbridge Jn – GW500
+East Somerset Jn W324 Signal	–			"Timing Point for down trains via BranchLoop (BL)"
+Merehead Quarry Junction	–	–		
+Merehead Quarry	–	–	F	
+Whites Crossing		–		
+Cranmore		–		

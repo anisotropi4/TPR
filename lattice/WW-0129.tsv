@@ -1,0 +1,36 @@
+"Train on Up Main or Up Relief that hasdeparted Didcot Yard"	Acceleration	All freight	"{5} approachingnext timing point"
+"Pass to platform 4 or 5 at Didcot from ML orRL"	Approach Control	All	{11⁄2}
+""			
+Crossing and conflicting moves			
+First Movement	Second Movement	Margin	
+"A down train crossing from the down mainto down relief or down avoider passesDidcot East Jn"	"An up main service from the direction ofWantage Road passes Didcot Parkway"	2	
+"A down train crossing from the down mainto down relief or down avoider passesDidcot East Jn"	"An up main service from the direction ofWantage Road departs Didcot Parkway"	1	
+"A down train crossing from the down reliefto the down avoider"	"A down train from the down relief passesDidcot East Jn"	3	
+"Up Relief to Up Main line services havingstopped at Didcot Parkway"	"Down Relief line services to down DidcotAvoiding line"	41⁄2	
+""			
+Signalling Limitations			
+"It is not possible to add pathing time between Didcot Parkway Platforms 3,4 or 5 and Didcot East Jn because theprotecting signal for Didcot East Jn is at the east platform end at Didcot Parkway. Pathing time or increased dwelltime should be added at Didcot Parkway instead."			
+""	Didcot Parkway				
+""					
+""	Adjustment to Sectional Running Times				
+""	Movement	Reason	Timing Load		Value
+""	"Pass Didcot Parkway platform 3towards Didcot North Junction"	Approach control	"PassengerFreight"		"{1⁄2}{1}"
+""	"Pass Didcot Parkway platform 3towards Didcot Goods Loop"	Approach control	"PassengerFreight"		"{1⁄2}{1}"
+""	Dwell Time				
+""	80x, L/H, 220 & 221	11⁄2			
+""	"80x, L/H, 220 & 221Up direction between 07:00and 09:30 - Monday to Friday"	2			
+""	"80x, L/H, 220 & 221Down direction between 16:45and 19:45 - Monday to Friday"	2			
+""	Class 165/6	1			
+""	Class 387/319/769	1			
+""					
+""	Overlap Restrictions				
+""	First movement	Second movement	Margin		
+""	Train from Up Oxford arrive Platform 4	"Train depart platform 3 to Didcot GoodsLoop"	1		
+""	Train depart platform 3 to Didcot Goods Loop	Train from Up Oxford arrive Platform 4	31⁄2		
+""	"Train depart platform 3 towards Didcot GoodsLoop"	Train from Up Oxford pass Platform 4	4		
+""	Train from Up Oxford arrive Platform 4	"Train depart Didcot Goods Loop to Platform3"	1		
+""	Train depart Didcot Goods Loop to Platform 3	Train from Up Oxford arrive Platform 4	31⁄2		
+""	Train depart Didcot Goods Loop to Platform 3	Train from Up Oxford pass Platform 4	4		
+""	"The above margins are applicable because when 8556 catch points on the Didcot Goods Loop are set in reverse,the interlocking prevents the route into platform 4 from Up Oxford being set."				
+""					
+""	Platform Re-occupation	Margin			

@@ -1,0 +1,42 @@
+Barton on Humber	
+""	
+Minimum Turnround	5
+LN752 WRAWBY JUNCTION TO MARSHGATE JUNCTION
+Wrawby Junction
+Refer to LN736
+Foreign Ore Branch Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Branch	Down train pass Appleby	2
+Down train pass Appleby	Pass from Branch	6
+Pass from Branch	Re–occupy Branch	5
+North Lincoln Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from GL	Pass/arr Scunthorpe from Wrawby Junction	6
+Pass/arr Scunthorpe from Wrawby Junction	Pass from GL	Same time
+Trent Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Up side	Before Up passenger departs Scunthorpe	2
+Pass to Up side	Before Up passes Scunthorpe	3
+Pass from Down side	Before down pass/arr Scunthorpe	5
+Pass from Trent FD	Pass to Trent FD	5
+Scunthorpe		
+""		
+Dwell Time		
+All	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Platform 1 to Doncaster	Arr/pass Platform 1 from Doncaster	4
+Pass to E line	Depart from Scunthorpe	3
+Depart from Scunthorpe	Pass to E line	4
+"Train departing from or passing through Up orDown platforms"	"Departure to Doncaster from Plat. 2 (Down) oftrain from the East end (Up) bay (includesshunt moves)"	7
+""		
+Minimum Turnround	5 (10 if re-platformed) from Doncaster or Cleethorpes.	
+10 from beyond Doncaster		
+If the turnround is substantially more than 10 minutes, then the train must be replatformed to the East End Bay		

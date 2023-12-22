@@ -1,0 +1,29 @@
+"SC165 NIDDRIE SOUTH JUNCTION TO GORGIE JUNCTION (EDINBURGHSUBURBAN)"
+""
+Craiglockhart Junction
+""
+Restriction
+"Trains travelling on the Down Surburban cannot pass ES673 signal if a train stopped at signal ES675 on SC167cannot be accommodated within the signal’s standage"
+SC167 CRAIGLOCKHART JUNCTION TO SLATEFORD JUNCTION
+""
+Craiglockhart Junction and Slateford Junction
+""
+Restriction
+"Only one train can stand or be on SC167 between Craiglockhart Junction and Slateford Junction at any one timein each direction.Maximum standage on Up Branch at signal ES676 without fouling junction in rear = 314m"
+Slateford ES675
+""
+Restriction
+Maximum standage without fouling Down Surburban in rear = 527m
+"SC171 HAYMARKET WEST JUNCTION TO DUNDEE CENTRAL JUNCTION(VIA KIRKCALDY)"
+""
+Haymarket West Junction
+""
+Please refer to SC107
+South Gyle	
+""	
+Dwell Time	
+Peak hours only	1
+Edinburgh Gateway	
+""	
+Dwell Time	
+DMU	1

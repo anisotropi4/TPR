@@ -1,0 +1,31 @@
+LN808 DORE STATION JUNCTION TO EARLES SIDINGS (EXCL.)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Dore Station Jn	–	–		To/from Sheffield – LN804
+Dore & Totley	–	–	S	
+Dore West Jn	–	–		To/from Dore South Jn – LN807
+Totley Tunnel East	–			"Timing point for all trains in the DowndirectionFor planning purposes, the location ofSignal DE5113 is equivalent to formerTotley Tunnel East SB"
+Grindleford	–	–		
+Grindleford Down Siding	–		S	
+Grindleford Signal DE5128		–	S	"Reversing location for trains to GrindlefordDown Siding"
+Hathersage	–	–	S	"Timing point for all trains in the Updirection and all stopping trains"
+Bamford Up Loop		–	S	Tiploc BAMFDLP
+Bamford	–	–		
+Hope (Derbyshire)	–	–	S	"To/from Earles Sidings SB - Refer toNW&C Timetable Planning Rules –NW9001"
+"Regional Boundary: Eastern/NW&C"				164 miles 66 chains
+LN809 SHEPCOTE LANE WEST JUNCTION TO TINSLEY YARD EAST END				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Shepcote Lane West Junction				To/from Tinsley South Jn – LN810
+Shepcote Lane East Junction	–	–		"For train planning purposes, this location isknown as Shepcote Lane Jn.To/from Broughton Lane Jn – LN812"
+Tinsley Yard		–		
+LN810 SHEPCOTE LANE WEST JUNCTION TO TINSLEY SOUTH JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Shepcote Lane West Junction				To/from Shepcote Lane East Jn – LN809
+Tinsley South Junction	–	–		To/from Tinsley East Jn – LN830
+LN812 SHEPCOTE LANE EAST JUNCTION TO BROUGHTON LANE JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Shepcote Lane East Junction	–	–		To/from Tinsley Yard – LN809
+Broughton Lane Junction	–	–		To/From Woodburn Junction- LN830

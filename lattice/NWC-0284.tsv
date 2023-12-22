@@ -1,0 +1,34 @@
+""	Springs Branch Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Pass from Up and Down Slow	Pass Down Slow from St. Helens	5
+""	Pass from Up and Down Slow	"Pass Down Slow from Golborne direction -Passenger"	3
+""	Pass from Up and Down Slow	"Pass Down Slow from Golborne direction –Freight"	4
+""	Pass from Down Slow to Down Main	Pass from Up and Down Slow	3
+""	Wigan North Western		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"All Down trains (except Classes 221 and 390)booked to stop at Wigan North Western"	"Due to the close proximity of the timing pointswhen trains are reducing speed betweenSprings Branch Jn and Wigan South Jn thepass to pass time is extended."	"1⁄2 at WiganSouth Jn"
+""	"Trains not longer than 5 x 23 meters lengthoverall departing or passing Platforms 1 or 6towards Balshaw Lane Jn"	"Acceleration to line speed from 10mphcrossover"	1
+""	"Trains longer than 5 x 23 meters length overalldeparting or passing Platforms 1 or 6 towardsBalshaw Lane Jn"	"Acceleration to line speed from 10mphcrossover"	2
+""			
+""	Movement Up	Reason	Value
+""	All Up trains passing Platforms 1 or 6	Approach control and slow speed crossover	3
+""	All Up trains stopping at Platforms 1 or 6	Approach control and slow speed crossover	2
+""			
+""	Dwell Time		
+""	EMU/DMU	1	
+""	LH/HST	2	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Stopping train departing from Wigan Wallgatetowards Crow Nest Jn"	"Train departing from Wigan North Westerntowards Crow Nest Jn (NW6009)"	4
+""	"Train departure from Platform 1 towardsBalshaw Lane"	Train passing on Up Main Line	5 *
+""	Train passing on Up Main Line	"Train departure from Platform 1 towardsBalshaw Lane Jn"	2
+""	"Train arrival into Platform 1 from Balshaw LaneJn"	Train passing on Up Main Line	5 *
+""	"Train arrival into Platform 6 from Balshaw LaneJn"	Train passing on Up Main Line	5 *
+""	* 4 minutes if stopping		
+""			
+""	Platform Reoccupation Time	31⁄2	

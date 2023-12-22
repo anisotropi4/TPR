@@ -1,0 +1,29 @@
+SC149 NORTH BERWICK TO DREM JUNCTION					
+Timing Section	Type	"LHHST22X"	MU#	FRT	Remarks
+""					
+"# North Berwick EMU services have 5% allowance built in"					
+Down – Weekdays					
+""					
+Up – Weekdays					
+"# See note regarding EMUs at the beginning of Section 5.5"					
+SC151 PORTOBELLO TO LEITH SOUTH YARD (GOODS LINE)					
+Timing Section	Type	"LHHST22X"	MU	FRT	
+""					
+Down – Weekdays					
+Portobello Junction – Leith South	E			1	
+Up – Weekdays					
+Leith South – Portobello Junction	E			1	
+SC155 MONKTONHALL JUNCTION TO MILLERHILL YARD					
+Timing Section	Type	"LHHST22X"	MU	FRT	
+""					
+Down – Weekdays					
+"Monktonhall Junction – MillerhillSS"	E			2	
+Up – Weekdays					
+"Millerhill SS – MonktonhallJunction"	E			2	
+SC161 MILLERHILL YARD TO PORTOBELLO JUNCTION (MILLERHILL LINE)					
+Timing Section	Type	"LHHST22X"	MU	FRT	
+""					
+Down – Weekdays					
+Millerhill SS – Portobello Junction	E			1	
+Up – Weekdays					
+Portobello Junction – Millerhill SS	E			1	

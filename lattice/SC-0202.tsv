@@ -1,0 +1,31 @@
+SC203 INVERNESS TO WICK		
+""		
+General Restriction		
+"At all Token Exchange Points where a token exchange has to be carried out, a minimum dwell of 1 minute isrequired. At a number of TEPs along this route, it is possible to receive a Long Section Token, allowing the train totraverse the next two sections without an intermediate token exchange stop. A Long Section Token can only beissued if both sections are clear."		
+"The RETB area north of Inverness is under the control of two consoles at Inverness PSB.  One module controlsInverness – Invergordon & Dingwall – Kyle of Lochalsh and the second module controls Invergordon – GeorgemasJunction, Wick & Thurso. Token exchanges on the same module cannot happen simultaneously, irrespective ofactual locations; arrivals therefore, at any location, must be a minimum of 1minute apart. Token exchanges ondifferent modules can happen simultaneously."		
+Dwell Time		
+Where a token exchange takes place	1 (unless otherwise specified)	
+""		
+Crossing Margins		
+"When both trains are able to fit into the crossing loop, the train that arrives first departs after the second train toarrive has departed.When one of the trains is longer than the crossing loop, the train longer than the crossing loop always departs first."		
+""		
+Except when the first train is longer than the loop	No crew change	With crew change
+First train arrive	xx00	xx00
+Second train arrive	xx01	xx01
+Second train depart	xx02	xx04
+First train depart	xx03	xx05
+""		
+When the first train is longer than the loop	No crew change	With crew change
+First train arrive	xx00	xx00
+Second train arrive	xx01	xx01
+First train depart	xx02	xx04
+Second train depart	xx03	xx05
+Inverness		
+""		
+Refer also to SC193		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down pass Clachnaharry	"Depart Inverness to Inverness North Loops (forshunting purposes only)"	1*
+*May be simultaneous for moves that remain within I427 or I429 signals		
+""		

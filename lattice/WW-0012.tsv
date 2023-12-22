@@ -1,0 +1,18 @@
+Classification	Description
+1	"Express passenger train; orNominated postal or parcels train; orBreakdown or overhead line equipment train going to clear the line or returning from there(1Z99); orTraction unit going to assist a failed train (1Z99)Snow plough going to clear the line (1Z99)"
+9	"A train formed of a Class 373 unit or other passenger train if specially authorisedElizabeth Line Services via the COS"
+2	"Ordinary passenger train; orBreakdown or overhead line equipment train not going to clear the line (2Z99)Officers’ special train (2Z01)"
+3	"Freight train which can run at more than 75 mph; orA parcels train; orPriority Empty coaching stock; or a Network Rail Infrastructure Monitoring Train (3Qxx)"
+4	Freight train which can run up to 75 mph
+5	Empty coaching stock train
+6	Freight train which can run up to 60 mph
+7	Freight train which can run up to 45 mph
+8	Freight train which can run at, or is timed to run at, 35 mph or less
+0	Light locomotive or locomotives
+"Reportingnumber"	Description
+""	
+Class 1	
+"1Axx[Low numbered][High numbered]"	"WoE/Exeter/Taunton/Weston/Bristol to Paddington via BoxWoE/Exeter/Taunton to Paddington via Castle CaryFrome/Westbury to PaddingtonHolyhead to Euston"
+1Bxx	"Paddington to South WalesWestbury/Bristol to South WalesWoE to Bristol TMHereford/Newport (south Wales)/Cardiff Central to Swansea/FishguardHarbour/Pembroke Dock/Milford Haven"
+"1Cxx[Low numbered][High numbered]"	"Paddington to Bristol/Weston/Taunton/Exeter/WoE via BoxPaddington to Taunton/Exeter/WoE via Castle CaryBristol TM to WoE"
+1Dxx	"Paddington to Didcot Parkway/OxfordBristol to OxfordWoE to Bristol ParkwayHolyhead/Bangor/Llandudno/Llandudno Junction to Chester"

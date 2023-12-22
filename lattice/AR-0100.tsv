@@ -1,0 +1,40 @@
+EA1012 IPSWICH TO TROWSE JUNCTION			
+""			
+Ipswich Yard			
+""			
+""			
+Length Limits			
+"The table below shows the distance from the signal at one exit to the signal at the other exit from the loop/siding.These lengths do NOT take into account defensive driving policy / stand-back from signals / space required forrun-round moves."			
+Line	Signal From	Signal To	Length
+Up and Down Goods Line	CO322	CO337	87 SLUs / 562m
+No 1 Reception	GPL 812	CO341	111 SLUs / 712m
+No 2 Reception	GPL 814	CO827	125 SLUs / 801m
+No 3 Reception	GPL 816	CO829	108 SLUs / 696m
+No 4 Reception	GPL 818	CO825	69 SLUs / 444m
+East Suffolk Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Timing Load	Reason	Allowance
+"All trains which have departedfrom Ipswich SS or travelled viathe Down & Up Goods line"	"Freight trains up to1800t/TR100 inclusive"	Speed Differential	"{11⁄2} approachingEuropa Junction"
+"Freight trains over1800t/TR100 (exclusive)"	Speed Differential	"{1} approachingEuropa Junction"	
+""			
+"Adjustments to Sectional Running Times for timing loads shown in the Up Direction between Stowmarketand Ipswich East Suffolk Junction for trains which will be travelling to Ipswich SS or via DUL"			
+Movement	Reason	Allowance	
+Up Freight Trains	Speed differential	{11⁄2}	
+""			
+Junction Margin			
+Movement		Margin	
+Fouling move		3	
+Before divergence of following move		3	
+After merge		3	
+Europa Junction			
+""			
+Adjustments to Sectional Running Times			
+Movement	Timing Load	Reason	Allowance
+"Applicable to timing loadsshown for trains which havedeparted from Ipswich SS orhave travelled via the Down &Up Goods line, to be appliedafter Europa Junctionapproaching next timing point"	"Class 6 1600t to 1800tinclusive & TR100"	Speed Differential	{1⁄2}
+""	"Class 6 2000t to 2200tinclusive & TR115"	Speed Differential	{1}
+""	"Class 6 over 2200t (exclusive)& TR130"	Speed Differential	{11⁄2}
+""	Class 4 over 1600t (exclusive)	Speed Differential	{1⁄2}
+"Applicable to Down directionfreight trains from Boss HallJunction"	"Class 6 over 1400t (exclusive)& TR100 and above"	Speed Differential	{1⁄2}
+Class 4 over 800t (exclusive)	Speed Differential	{1⁄2}	
+""			

@@ -1,0 +1,43 @@
+West Hampstead Thameslink		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Platform 3 to Up Slow	Depart or pass Platform 1	3
+Pass Platform 3 to Up Slow	Pass Platform 1	3
+Pass Platform 3 to Up Slow	Depart Platform 1	21⁄2*
+"*Only applies if first train does not call at West Hampstead and Kentish Town, and second train has called at WestHampstead."		
+Planning Note		
+"No timing allowances should be applied between West Hampstead Thameslink and West Hampstead SouthJunction as there are no intermediate signals"		
+Cricklewood South Junction
+Planning Note
+"No timing allowances should be applied between Cricklewood South Junction and Cricklewood as there are nointermediate signals"
+Cricklewood		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Crossing move at Cricklewood South Jn(stopping at Cricklewood station)"	Approach control	1⁄2*
+"Crossing move at Cricklewood South Jn (notstopping at Cricklewood station)"	Slow speed crossover and acceleration	"1 before1 after"
+""		
+Movement Up	Reason	Value
+Depart Depot Exit Road	"Slow speed crossover (to be applied at nexttiming point)"	1
+Crossing move at Cricklewood South Jn	Slow speed crossover and acceleration	"1⁄2 before1⁄2 after*"
+*1 minute if train does not stop at West Hampstead Thameslink		
+""		
+Dwell Time		
+All Thameslink services	"11⁄2 (applies until train crew relief is permissible at Brent Cross West). May bereduced following agreement with train operator."	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Between all moves unless otherwise stated		3
+Down Arrive / Pass	Conflicting Up Departure	1
+Down Arrive / Pass	Conflicting Up Pass	2
+Up Arrive / Pass in Platform 1	Down Departure from Platform 2 to the depot	1
+Pass on Up Fast	"Arrive / Pass Down Slow or Depot Exit Roadfrom the Down Fast or Hendon Lines"	2
+Down Arrival into Depot Exit Road	Up Arrive / Pass Platform 1	2
+""		
+Platform Re-occupation		
+First Movement	Second Movement	Margin
+Platform re-occupation (same direction)	2	
+Platform re-occupation (opposite direction)	3	
+""		
+Planning Note		

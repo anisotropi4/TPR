@@ -1,0 +1,41 @@
+Llandudno Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+"Down services to Platform 1 from direction ofColwyn Bay or Tal-y-Cafn"	Approach Control	{1}
+"Down loco-hauled services departing platforms 1or 3."	Acceleration	{1}
+""		
+Dwell Time		
+LH	2	
+Power	2	
+220/221	2	
+390 (hauled)	2	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Depart Plat. 2	Arrive Platform 2	5
+""		
+Splitting and Coupling of Units: Permitted Platform 1 and Platform 3 only. Coupling in the up direction only.		
+Llandudno Junction Down Sidings			
+""			
+Arrivals and departures from and to Llandudno Jn Station			
+Llandudno Junction dep	XX†00	"Llandudno Jn DownSdg dep"	XX†00
+Llandudno Jn Signal 70 or 260 arr	XXRM03	"Llandudno Jn Signal 69arr"	XX*02
+Llandudno Jn Signal 70 or 260 dep	XXRM07	"Llandudno Jn Signal 69dep"	XX*02
+Llandudno Jn Down Sdg arr	XX†12	"Llandudno Jn Signal 70or 260 arr"	XXRM05
+""		"Llandudno Jn Signal 70or 260 dep"	XXRM09
+""		Llandudno Junction arr	XX†12
+""			
+Arrivals and departures from and to Llandudno Station			
+Llandudno dep	XX†00	"Llandudno Jn DownSdg dep"	XX†00
+Llandudno Jn Signal 74 arr	XX*??	"Llandudno Jn Signal 69arr"	XX*02
+Llandudno Jn Signal 74 dep	XX*??	"Llandudno Jn Signal 69dep"	XX*02
+Llandudno Jn Down Sdg arr	XX†??	Llandudno arr	XX†??
+""			
+Arrivals and departures from and to Llandudno Station			
+As required then		"Llandudno Jn DownSdg dep"	XX†00
+Llandudno Jn Signal 70 arr	XX*00	"Llandudno Jn Signal 69arr"	XX*02
+Llandudno Jn Signal 70 dep	XX*00	"Llandudno Jn Signal 69dep"	XX*02
+Llandudno Jn Down Sdg arr	XX†05	then as required	
+Penmaenmawr
+""

@@ -1,0 +1,33 @@
+""	Crewe Sorting Sidings North SB		
+""			
+""			
+""			
+""			
+""	Junction Margins		
+""	All conflicting moves, except:	4	
+""	First Move is passenger	3	
+""	Crewe Signal NH10/12
+""	
+""	Standage
+""	"Standage on Up Fast Independent (Signal NH10) 558m (87 SLU) if coming from Up Chester Line or 784m (122SLU) if coming from Up Manchester IndependentStandage on Up Slow Independent (Signal NH12) 677m (105 SLU) Anything greater than 677m will block SalopGoods Jn SB, thus margin will be applied upon the first train departing."
+""	Salop Goods Jn SB		
+""			
+""	Standage		
+""	"A train of length 548m (85 SLU) can be held between Gresty Lane Jn and Salop Goods Jn SB. A train over 548mwill block Gresty Lane Jn and margins will be applied upon the first train departing."		
+""			
+""	Junction Margins		
+""	All conflicting moves, except:	4	
+""	First Move is passenger	3	
+""	NW1019 ACTON GRANGE JN TO WARRINGTON SOUTH JN (HELSBY LINES)
+""	
+""	Acton Grange Jn
+""	
+""	Refer to route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+""	M.S.C. Sidings		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Departure	Departure	5
+""	Arrival	Arrival	5
+""	Departure	Arrival	10
+""	Arrival	Departure	10

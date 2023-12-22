@@ -1,0 +1,34 @@
+Newcraighall		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down pass / depart Portobello Junction fromNewcraighall"	Depart Newcraighall	1
+Depart / pass to Portobello Jn	Pass from Niddrie West Jn	31⁄2
+Depart / pass towards Brunstane	Depart Millerhill Yard/EMU yard	1
+Up pass/depart Newcraighall	Up depart Brunstane	1
+Pass to Millerhill EMU Yard	"Depart/Pass Portobello Junction toNewcraighall"	1
+Pass to / from Millerhill	"Depart Shawfair or Brunstane towardsNewcraighall"	1
+Pass to / from Millerhill	"Pass from Portobello Jn (not stoppingBrunstane) or Newcraighall South Jn (notstopping Shawfair)"	4
+Arrive / pass towards Shawfair	Depart Millerhill EMU Yard	1
+Brunstane
+""
+"RestrictionNo pathing time should be inserted between Portobello Junction and Brunstane station in the Up direction (appliesonly to trains stopping at Brunstane)"
+"SC163 PORTOBELLO JUNCTION TO NIDDRIE WEST JUNCTION (SUBURBANLINE)"
+""
+"RestrictionOnly one train can stand or be on SC163 between Portobello Junction and Niddrie West Junction at any one timein either direction."
+SC164 TWEEDBANK TO NEWCRAIGHALL NORTH JUNCTION		
+""		
+Tweedbank		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+Up train approaching an occupied platform	Approach control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Train arrive	Train depart	1
+Bowland Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Galashiels	Pass to Galashiels	21⁄2

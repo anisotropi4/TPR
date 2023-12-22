@@ -1,0 +1,25 @@
+""	Banbury	
+""		
+""	Planning Restriction – Up Banbury Loop	
+""	"Two trains can use the Up Banbury Loop simultaneously - the first train to arrive must draw forward to signalOL7120. For planning purposes this is shown as Banbury Platform 4. The maximum standage at this signal is 815meters or 127 SLUs to the overlap of signal OL7134 (this excludes locomotive(s) and stand-back allowance). Themaximum standage at signal OL7134 (clear of Reservoir Jn) is 823 meters or 128 SLUs (this excludeslocomotive(s) and stand-back allowance)."	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	DMU	5
+""	Down Banbury Loop/Down Banbury Goods Loop
+""	
+""	Permissive Working
+""	"Permitted in the Down Banbury LoopPermitted for freight only in both directions in the Down Banbury Goods Loop (see Planning Restriction below)"
+""	
+""	Planning Restriction
+""	"The maximum standage at signal OL7129 on the Down Banbury Loop (clear of Banbury South Jn) is 815meters/127 SLUs or (clear of signal OL9128) 582 meters/91 SLUs (this excludes locomotive(s) and stand-backallowance).  For planning purposes this is shown as Banbury Platform 1. If a train is required to stop at the DownBanbury Loop for crew change purposes this must be done in Platform 1 and consideration must be given towhether the rear of the train fouls Banbury Depot Jn. Once a crew stop has been completed, the train can pullforward to OL7129 to be clear of Banbury Depot Jn."
+""	
+""	Run-round Maneuvers
+""	"After a freight train has arrived in the Down Banbury Goods loop from the Fenny Compton direction, itslocomotive(s) will run round its train via Signal OL7129. This can happen even if platform 1 at Banbury is occupiedbut note that once a movement has been signaled towards OL7129 from the south or towards OL9128 form thenorth, a time-out of 2 minutes will be necessary before another movement can take place once either axle countersection between the two signals has been occupied."
+""	
+""	For Trains to/from Banbury Aggregate Sidings
+""	Please refer to rules shown under Reservoir Neck and Banbury Aggregate Sidings
+""	Reservoir Neck
+""	
+""	Planning Note
+""	"All trains to show 2 minute OP stop in the neck for moves to/from Reservoir Engineers or Banbury AggregateSidings"
+""	"Trains to Banbury Aggregate Sidings less than 320m/50SLU can propel into the Sidings from the BanburyReservoir Neck without fouling the route to/from the Down Banbury Goods Loop.  Trains over 320m/50SLU will besplit on the Down Banbury Goods Loop. Please see rules for Banbury Aggregate Sidings for timings regardingsplitting trains on the Down Banbury Goods Loop."

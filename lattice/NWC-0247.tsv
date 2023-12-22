@@ -1,0 +1,26 @@
+""	Water Orton			
+""				
+""	Freight pass direct from Kingsbury Jn	"Pass/arrive Platform 1 towards ColeshillParkway"	4	
+""	"Pass/depart Platform 1 or Down Whitacretowards Park Lane Jn at Water Orton West"	"Pass/arrive from Up Derby Fast at Water OrtonWest"	4	
+""	"Pass/depart Platform 1 or Down Whitacretowards Park Lane Jn at Water Orton West"	"Pass/arrive from Up Derby Slow at Water OrtonWest"	5	
+""	"Pass/depart Platform 1 or Down Whitacretowards Up Derby Slow at Water Orton West"	"Pass/arrive from Up Derby Fast at Water OrtonWest"	4	
+""	"Pass/depart Platform 1 or Down Whitacretowards Up Derby Slow at Water Orton West"	Pass/arrive from Park Lane Jn	5	
+""	"Passenger pass/depart Platform 1 towardsColeshill Parkway"	Pass/arrive Platform 1 from Coleshill Parkway	31⁄2 *	
+""	"Freight pass/depart Platform 1 towardsColeshill Parkway"	Pass/arrive Platform 1 from Coleshill Parkway	4 *	
+""	"Pass/depart Platform 1 towards ColeshillParkway"	Pass/arrive from Kingsbury Jn	3	
+""	"Passenger arrive/pass Platform 1 towardsColeshill Parkway"	Pass platform 2 towards Kingsbury Jn	21⁄2	
+""	"Pass/depart Platform 1 towards CastleBromwich Jn on Down Derby Fast"	"Depart Down Whitacre towards CastleBromwich Jn or Park Lane Jn"	2	
+""	"Pass/arrive towards Kingsbury Jn or ColeshillParkway"	"Pass Platform 1 or Down Whitacre towards UpDerby Slow or Park Lane Jn at Water OrtonWest"	3	
+""	"Pass/arrive towards Kingsbury Jn or ColeshillParkway"	"Depart Platform 1 or Down Whitacre towards UpDerby Slow or Park Lane Jn at Water OrtonWest"	1	
+""	"Pass towards Kingsbury Jn or ColeshillParkway"	"Train from Park Lane Jn or Up Derby Slowdepart Water Orton West Jn for Kingsbury Jn orColeshill Parkway"	2	
+""	"*Where the second movement is a train with a minimum of 1 minute pathing time approaching Water Orton, theJunction Margin may be reduced by 1⁄2 minute."			
+""				
+""	Planning Restriction			
+""	"No allowance should be inserted between Water Orton West Jn and Water Orton into any trains because there areno intermediate signals in either direction."			
+""	Water Orton West Jn
+""	
+""	Planning Note
+""	Junction margins at Water Orton West Jn are calculated at Water Orton, see Water Orton for details.
+""	
+""	Planning Restriction
+""	"No allowance should be inserted between Water Orton West Jn and Water Orton into any trains because there areno intermediate signals in either direction."

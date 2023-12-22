@@ -1,0 +1,40 @@
+""	MD701 MARYLEBONE TO AYNHO JN	
+""		
+""	London Marylebone	
+""		
+""	Attachment/ Detachment	"8 Inclusive of turnround time and no shunt involved15 Inclusive of turnround time and shunt involved"
+""		
+""	Connectional Allowance	10
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	Standard	5
+""		
+""	Permissive Working	
+""	Attaching/Detaching and Platform Sharing is authorised as shown below:	
+""	Platform 1	Attaching/Detaching and Platform Sharing
+""	Platform 2	Attaching/Detaching and Platform Sharing
+""	Platform 3	Attaching/Detaching and Platform Sharing
+""	Platform 4	Detaching only
+""	Platform 5	Attaching/Detaching and Platform Sharing
+""	Platform 6	Attaching/Detaching and Platform Sharing
+""	"In all cases here must be no more than 7 carriages at the buffer stops if another train is to platform share or attachto another train already in the same platform"	
+""		
+""	"Platform Reoccupation3 minutes between a departing train and an arrival"	
+""	Neasden South Jn		
+""			
+""	Adjustment to Sectional Running Times		
+""	Movement Up	Reason	Value
+""	"Train routed towards Neasden Jn via NeasdenCurve"	Approach control	"1 exceptFreight"
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	A Down Metropolitan Line train	An Up Wycombe Line train	2
+""	An Up Wycombe Line train	A Down Metropolitan Line train	21⁄2
+""	An Up Wycombe Line train	An Up Metropolitan Line train	3
+""	An Up Metropolitan Line train	An Up Wycombe Line train	3
+""	A Down or Up Wycombe Line train	"A train from Neasden Jn arriving at NeasdenT.C."	3
+""	A Down or Up Wycombe Line train	"The departure from Neasden T.C. of a train forNeasden Jn"	1
+""	"A train departing from Neasden T.C. towardsNeasden Jn"	A Down or Up Wycombe Line train.	3
+""	Great Central Way Jn
+""	
+""	"Reoccupation of Single Line5 minutes to/from Wembley LMD"

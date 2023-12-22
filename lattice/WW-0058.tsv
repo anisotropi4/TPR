@@ -1,0 +1,35 @@
+""	GW850 LECKWITH LOOP NORTH JN TO LECKWITH LOOP SOUTH JN			
+""	TIMING POINT	SINGLE	CODE	NOTES
+""				
+""	Leckwith Loop North Junction	–		"To/from Cardiff Central – GW900To/from Pontyclun – GW900"
+""	Leckwith Loop South Junction			"To/from Ninian Park – GW840To/from Radyr Junction – GW840"
+""	GW860 PENARTH CURVE NORTH JN TO PENARTH CURVE SOUTH JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Penarth Curve North Junction	–	–		"To/from Ninian Park – GW840To/from Radyr Branch Junction – GW840"
+""	Penarth Curve South Junction	–	–		"To/from Cardiff Central – GW830To/from Cogan Junction – GW830To Radyr Branch Junction – GW830"
+""	GW864 COGAN JUNCTION TO PENARTH				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Cogan Junction	–	–		To/from Penarth Curve South Jn – GW830
+""	Dingle Road	–	–	S	
+""	Penarth		–		
+""	GW870 BARRY TO BRIDGEND BARRY JUNCTION (VALE OF GLAMORGAN LINE)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Barry Junction				To/from Barry – GW830
+""	Barry Down Passenger Loop	–		S	
+""	Rhoose	–	–	S	
+""	Aberthaw Reception Sidings	–	–	S	
+""	Aberthaw Power Station	–	–	S	
+""	Aberthaw	–	–		
+""	Aberthaw Cement Works Lafarge	–	–	S	
+""	Llantwit Major	–	–		
+""	CF3433 Signal (Down)	–			Timing point in the Down direction
+""	CF3440 Signal (Up)		–		Timing point in the Up direction
+""	Bridgend Ford Sidings GF	–	–	S	
+""	Cowbridge Road	–	–		
+""	"Bridgend PT3453 Signal (DnVOG)"	–	–	S	Shunting moves only
+""	Bridgend PT7501 (Up VOG)	–	–	S	Shunting moves only
+""	Bridgend Barry Junction				To/from Bridgend – GW900
+""	Bridgend	–	–	S	

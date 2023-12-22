@@ -1,0 +1,54 @@
+STATION	PLATFORM	"USABLELENGTH"	NOTES
+""			
+Exhibition Centre	1	130	Up Platform
+Exhibition Centre	2	144	Down Platform
+""			
+Fairlie		130	Single Platform
+Falkirk Grahamston	1 & 2	152	Up Platform 1 / Down Platform 2
+Falkirk High	1 & 2	195	Up Platform 1 / Down Platform 2
+Falls Of Cruachan		66	Single Platform
+Fauldhouse	1	128	Down Platform
+Fauldhouse	2	137	Up Platform
+Fearn		136	Single Platform
+Forres	1	160	Bi-Directional Mainline Platform
+Forres	2	160	Bi-Directional Loop Platform
+Forsinard	1	76	Up Platform
+Forsinard	2	72	Down Platform
+Fort Matilda	1	181	Up Platform
+Fort Matilda	2	147	Down Platform
+Fort William	1 & 2	212	Bay Platforms
+""			
+Galashiels		160	Single Platform
+Garelochhead	1 & 2	150	Up Platform 1 / Down Platform 2
+Garrowhill	1 & 2	128	Down Platform 1 / Up Platform 2
+Garscadden	1 & 2	128	Up Platform 1 / Down Platform 2
+Gartcosh	1 & 2	148	Down Platform 1 / Up Platform 2
+Garve	1 & 2	104	Up Platform 1 / Down Platform 2
+Georgemas		116	Single Platform
+Gilshochill	1 & 2	110	Up Platform 1 / Down Platform 2
+Giffnock	1 & 2	144	Down Platform 1 / Up Platform 2
+Girvan	1	212	Up Platform – Bi-Directional
+Girvan	2	218	Down Platform
+Glasgow Central	1	279	Bay Platform
+Glasgow Central	2	292	Bay Platform
+Glasgow Central	3	166	Bay Platform
+Glasgow Central	4	165	Bay Platform
+Glasgow Central	5	142	Bay Platform
+Glasgow Central	6 & 7	130	Bay Platform
+Glasgow Central	8	124	Bay Platform
+Glasgow Central	9	286	Bay Platform
+Glasgow Central	10	276	Bay Platform
+Glasgow Central	11	353	"Bay Platform - Normal length 244, trains longerthan this must give prior notice to Station ShiftManager"
+Glasgow Central	12	149	Bay Platform
+Glasgow Central	13	149	Bay Platform
+Glasgow Central	14	193	Bay Platform
+Glasgow Central	15	235	Bay Platform
+Glasgow Central Low Level	16 & 17	135	Up Platform 16 / Down Platform 17
+Glasgow Queen Street High Level	1	98	Bay Platform
+Glasgow Queen Street High Level	2	171	Bay Platform
+Glasgow Queen Street High Level	3 & 4	196	Bay Platform
+Glasgow Queen Street High Level	5	171	Bay Platform
+Glasgow Queen Street High Level	6	147	Bay Platform
+Glasgow Queen Street High Level	7	196	Bay Platform
+Glasgow Queen Street Low Level	8 & 9	135	Down Platform 8 / Up Platform 9
+Gleneagles	1	201	Up Platform

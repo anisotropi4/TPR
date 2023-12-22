@@ -1,0 +1,37 @@
+Barnham			
+""			
+""			
+Permissive Working			
+Attaching/Detaching and Platform Sharing is authorised as shown below -			
+Platform 1	"DownPassenger Loop"	(Down Direction)	"Detaching Only (Full permissive working onlyavailable if coming from shunt signal BH115)"
+Platform 1	"DownPassenger Loop"	(Up Direction)	Attaching/Detaching and Platform Sharing
+Platform 2	Down Main	(Down Direction)	"Detaching Only (Full permissive working onlyavailable if coming from shunt signal BH115)"
+Platform 2	Down Main	(Up Direction)	Attaching/Detaching and Platform Sharing
+Platform 3	Up Main	(Up Direction)	Attaching/Detaching and Platform Sharing
+A 3 minute headway between two services booked to attach is to be allowed (inclusive of calling-on allowance)			
+Chichester		
+""		
+Adjustment to Sectional Running Times		
+Movement	Reason	Value
+Approaching Chichester	"All Down trains from Barnham with formations of greater than 8coaches are permitted to operate between Barnham and Chichesterwith a maximum power draw of Notch 3. This is limited to one trainwest of Barnham at any one time on either line."	{1}
+"Propelling movements to/fromChichester Stone Yard"	Slow speed movement when propelling.	{11⁄2}
+""		
+Connectional Allowances		
+All Services	4	
+""		
+Dwell Times		
+All Services	1	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"ECS/Light Loco Depart to Reception Sidings orStone Terminal"	Up arrival	4
+"Freight depart Platform 1 to Reception Sidings orStone Terminal"	Up arrival	6*
+"Depart/Pass Platform 2 to Reception Sidings orStone Terminal"	Up arrival	4
+"Arrive Platform 2 from Reception Sidings orStone Terminal"	Up arrival	4*
+Up arrival at Platform 1	"Arrive Platform 2 from Reception Sidings or StoneTerminal"	41⁄2
+Down depart Platform 2	"Arrive Platform 2 from Reception Sidings or StoneTerminal"	41⁄2
+Up depart Platform 1	"Arrive/Pass Platform 1 from Reception Sidings orStone Terminal"	3
+*Can be reduced by 1⁄2 minute if second train does not stop at Fishbourne		
+""		
+Planning Note		
+"The non-stop headway applies for consecutive departures from Chichester in the Down direction providing thefirst train does not stop at Fishbourne and the correct headway is applied at the next common timing pointirrespective of calling pattern. National TPR section 1.5.5 Application of Planning Headways refers."		

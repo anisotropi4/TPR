@@ -1,0 +1,14 @@
+""	"Leeds – Manchester Victoria via Bradford Interchange and Calder ValleyHull – Sheffield via GooleScarborough / Bridlington – Sheffield via Hull and Goole"
+1Kxx	"Hull – Manchester Piccadilly via Leeds, Huddersfield and Guide BridgeManchester Piccadilly - Hull via Guide Bridge, Huddersfield and LeedsLincoln – Peterborough via Sleaford"
+1Lxx	"Liverpool Lime Street – Nottingham – NorwichBirmingham New Street – Leicester – Stanstead AirportDoncaster – Sheffield – Worksop – LincolnLeeds – Barnsley – Sheffield – Worksop – LincolnLincoln – Worksop – Sheffield – Barnsley - Leeds"
+1Mxx	"Glasgow – Newcastle – Birmingham New StreetLeeds – Manchester Victoria via Bradford Interchange and Calder ValleyManchester Victoria – Leeds via Calder Valley and Bradford InterchangeLeeds – Carlisle via S&CUp Sleeper services via the ECMLLow Fell Mail Terminal – Willesden PRDC Mail Train"
+"1Nxx (excl1N50)"	"London Kings Cross - NewcastleLondon Kings Cross – York (terminators)London Kings Cross – SunderlandLondon Kings Cross - MiddlesbroughYork – MiddlesbroughNewcastle – CarlisleCarlisle - NewcastleSaltburn – Middlesbrough – Newcastle – Carlisle via Darlington and ECMLStansted Airport – Leicester – Birmingham New StreetLeeds – Sheffield via Barnsley not calling at Castleford"
+1N50	Down ECML Charter Path
+1Oxx	Newcastle – Southampton Central / Guildford
+1Pxx	"Peterborough – London Kings Cross semi-fast services (1P01 to 1P79)London King’s Cross – Peterborough semi-fast services (1P00 to 1P78)Peterborough – London Kings Cross fast services (maximum of four stops; 1P81 to 99)London King’s Cross – Peterborough fast services (maximum of four stops; 1P80 to 98)Newcastle – York – Leeds – Huddersfield – Manchester AirportManchester Airport – Huddersfield – Leeds – York – NewcastleMiddlesbrough – York – Leeds – Huddersfield – Manchester AirportManchester Airport – Huddersfield – Leeds – York – Middlesbrough"
+1Qxx	Test Trains
+1Rxx	"Norwich – Nottingham – Liverpool Lime StreetYork – Selby – Hull via Church Fenton or ECMLLondon Kings Cross – Letchworth / Baldock / Royston semi-fast servicesRoyston / Baldock / Letchworth – London Kings Cross semi-fast services"
+1Sxx	"London Kings Cross – Edinburgh Waverley / Glasgow CentralPenzance – Plymouth – Birmingham New Street – Edinburgh – Aberdeen"
+1Txx	"Kings Lynn – Ely - London Kings CrossLondon Kings Cross – Ely - Kings LynnGrosmont – Whitby NYMRWhitby – Grosmont NYMR"
+1Uxx	Not used
+1Vxx	Aberdeen – Edinburgh – Birmingham New Street – Plymouth – Penzance

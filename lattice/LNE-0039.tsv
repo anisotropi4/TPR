@@ -1,0 +1,45 @@
+Grangetown junction				To/from Goods Line and Main Line
+Tees Dock		–	S	
+Shell Junction	–	ML  GL		To/from Wilton – LN638
+Redcar Ore Terminal Junction	–	–	X	
+Tod Point Jn	–	–	X	"Timing point for all trains to Bulk andmineral terminal"
+Redcar Bulk Terminal	–	–	S	
+Redcar Mineral Terminal	–	–	S	
+British Steel Redcar	–	–	S	(Currently out of use)
+Redcar Central	–	–		Platform detail must be shown
+Redcar Central Down Loop				
+Redcar East	–	–	S	
+Longbeck	–	–		
+Marske	–	–	S	
+Saltburn West Junction	–	–		To/from Boulby – LN642
+Saltburn		–		Platform detail must be shown
+LN634 GUISBOROUGH JUNCTION TO WHITBY				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Guisborough Junction	–	–		To/from Middlesbrough – LN632
+"Cargo Fleet Road SignalMW6984"		–		"Timing point for all trains in the Updirection and for trains reversing at SignalMW6984"
+"Cargo Fleet Road SignalMW6993"	–			"Timing point for all trains in the downdirection"
+James Cook	–	–	S	
+Marton	–	–	S	
+Gypsy Lane	–	–	S	All Down trains to be timed here
+Nunthorpe	–	–		Platform detail must be shown
+Nunthorpe Signal N1	–	–	S	
+Great Ayton	–	–	S	
+Battersby	–	–		Train reverses – See Section 5.3
+Kildale	–	–	S	
+Commondale	–	–	S	
+Castleton Moor	–	–	S	
+Danby	–	–	S	
+Lealholm	–	–	S	
+Glaisdale	–	–		
+Egton	–	–	S	
+Grosmont	–	–	S	To/from North Yorkshire Moors Railway
+Grosmont NYMR	-	-	S	
+Sleights	–	–	S	All Down trains to be timed here
+Ruswarp	–	–	S	All Up trains to be timed here
+Whitby		–		Platform detail must be shown
+LN636 BEAM MILL JUNCTION TO SLAG ROAD (LACKENBY)				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Beam Mill Junction	–	GL	F	To/from Middlesbrough – LN632
+Slag Road LC	–	–		"NR boundaryTo/from Lackenby BSC"

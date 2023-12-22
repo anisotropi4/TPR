@@ -1,0 +1,26 @@
+""	MD410 COVENTRY NORTH JN TO NUNEATON SOUTH JN		
+""			
+""	Three Spires Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	Coventry or North Yard to Prologis Sidings	Slow speed turnout onto Branch	1 Before
+""			
+""	Movement Up	Reason	Value
+""	"Prologis Sidings to Coventry or Coventry NorthYard"	Slow speed turnout from the Branch	1 After
+""	Bedworth (Calor Gas Sidings) Ground Frame
+""	
+""	Planning Note
+""	"Arriving TrainsAll trains to Bedworth Terminal must arrive in the Up direction from the Chilvers Coton Jn direction and have a 1012 minute operational stop at Bedworth (Calor Gas Sidings) Ground Frame for terminal acceptance purposes andGround Frame operation."
+""	"Departing TrainsAll trains from Bedworth Terminal must depart in the Down direction towards Hawkesbury Lane and have a 12minute operational stop at Bedworth (Calor Gas Sidings) GF to reform, brake test and Ground Frame operation.During this time there can be no movements past Bedworth (Calor Gas Sidings) GF in either direction."
+""	Coventry Arena
+""	
+""	Planning Restriction – Down direction
+""	"No pathing time is to be shown between Three Spires Jn and Coventry Arena as there are no intermediate signalsAny pathing time is to be shown approaching Three Spires Jn"
+""	MD415 HATTON STATION TO STRATFORD UPON AVON		
+""			
+""	Hatton West Jn		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	"Passing Hatton West Jn towards Hatton orBearley Jn"	"Passing Hatton North Jn towards Hatton WestJn"	2

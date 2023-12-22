@@ -1,0 +1,29 @@
+""	GW103 PADDINGTON TO UFFINGTON				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""					
+""	Maidenhead	ML RL	ML RL		"Platform detail must be shown.To/from Bourne End – GW185"
+""	Maidenhead Turnback Line		"URLDRL"	S	
+""	Maidenhead Carriage Sidings		RL	S	
+""	Ruscombe	RL	ML	X	
+""	Twyford Signal T1635	RL	RL	S	Shunting moves only
+""	Twyford	"ML RLURL –"	RL ML		"URL - To Twyford West– Services going to Henley–on– ThamesonlyPlatform detail must be shownTo/from Henley–on–Thames – GW187"
+""	Twyford West	ML RL	RL	X	
+""	Kennet Bridge Loop	RL		S	
+""	Kennet Bridge Jn	"DMLDRLURL"	"MLRLDRL*"		"* Services going to Kennet Bridge Loop toreverse"
+""	Reading New Jn	DML	–	X	To/from Reading Spur Jn GW190
+""	Reading East Jn				To/from Reading Southern Jn - GW195
+""	Reading	"ML RL– *WLUFMDFRFVLUPL"	"URL,DRL,UML,DML– $"		"Platform detail must be shown.* Services going to Reading Train CareDepot (direct or via Entrance C)$ Services towards Reading Southern JnTo/From Oxford Road Jn – GW500"
+""	Reading Caversham Road Jn				To/from Oxford Road Jn – GW225
+""	Reading Signal T1732		RL	X	"Up Services on the Up Passenger Loopfrom direction of Reading West Jn orReading Traincare Depot Entrance C to betimed here"
+""	"Reading Train Care DepotEntrance A"	–	UPL	S X	"Services to and from Reading Train CareDepot to be timed here when entering orleaving the Depot using Entrance A"
+""	"Reading Train Care DepotEntrance C"	–	UPL	S X	"Services to and from Reading Train CareDepot to be timed here when entering orleaving the Depot using Entrance C"
+""	Reading Train Care Depot	–	–		
+""	Reading High Level Jn	"MLFVL"	"MLDML*FVL"		"Timing point on the Main Lines andFestival Line*Up trains via the down main to Platform 8or 9"
+""	Reading West Junction	"UPLRL"	"UPLRLFVL"		"Timing point on the Relief Lines, FestivalLine and Up Passenger LoopTo/from Oxford Road Jn  – GW220"
+""	Scours Lane	URL	UPL	X	"Trains crossing to/from the Up PassengerLoop and Reading Traincare Depot viaEntrance ‘A’"
+""	Tilehurst East Junction	ML RL	RL	X	
+""	Tilehurst	ML RL	ML RL	S	
+""	Pangbourne	RL	RL	S	
+""	Goring & Streatley	ML RL	ML RL		
+""	Cholsey	ML RL	ML RL	S	

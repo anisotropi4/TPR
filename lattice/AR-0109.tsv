@@ -1,0 +1,31 @@
+""		
+Junction Margins		
+First Movement	Second Movement	Value
+"Down train depart/pass Platform 4 towardsClapton"	"Up train arrive/pass Platform 3 from SevenSisters. (Trains which have called at RectoryRoad can be planned at a 2 minute margin)."	3
+"Up train arrive/pass Platform 3 from SevenSisters direction"	"Down train depart/pass Platform 4 towardsClapton Junction"	1
+Coppermill Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down train from Temple Mills East Junctiondirection"	Up train towards Clapton Junction	3
+Up train towards Clapton Junction	"Down train from Temple Mills East Junctiondirection"	3
+Tottenham South Junction		
+""		
+Junction Margins		
+Movement		Margin
+Fouling move except as below		3
+Before divergence of following move		3
+After merge		3
+First Movement	Second Movement	
+"Passenger train on Down Cambridge Linetowards Tottenham Hale"	Freight train from South Tottenham	21⁄2
+Tottenham Hale		
+""		
+Adjustments to Sectional Running Times		
+Movement	Reason	Value
+All Up trains departing from Down platform	Via slow speed crossover	{1⁄2}
+""		
+Dwell Time	1	
+""		
+Minimum Turnround Time	For EMUs	6
+""		
+Platform Reoccupation	"Minimum time allowed between one traindeparting and another arriving in the sameplatform including conflicting movementstowards platforms. Subject to future review"	2

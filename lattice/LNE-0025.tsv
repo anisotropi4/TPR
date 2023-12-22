@@ -1,0 +1,91 @@
+""									
+""												
+""	LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION											
+""												
+""	TIMING POINT		DOWN		UP		CODE		NOTES			
+""												
+""												
+""												
+""	Newark North Gate		–		–				Platform detail must be shown			
+""												
+""												
+""	Signal D83		–		–		S					
+""												
+""	Newark Crossing South Jn								To/from Newark Crossing East Jn – LN210			
+""												
+""	Newark Flat Crossing		– DPL		–							
+""												
+""												
+""	Carlton Loops		–		–				"For train planning purposes, this location isknown as Carlton On Trent Loop"			
+""												
+""												
+""	D1341 G.P.S.		–				S		P1 to P2 shunt/access to Worksop line			
+""												
+""	Retford		– SL		– UPL				"Platform detail must be shown for stoppingtrains and non-stopping via platform lines"			
+""												
+""												
+""	Retford Western Jn								To/from Thrumpton West Jn – LN748			
+""												
+""	Retford Signal D156				_		S					
+""												
+""	Babworth Loop		–				S		Bi–directional loop, down slow after Retford			
+""												
+""	Ranskill Loops		–		–		S					
+""												
+""	Loversall Carr Jn		WSL  –		–				To/From Flyover West Jn – LN160			
+""												
+""												
+""	Loversall Jn								From Flyover East Jn – LN155			
+""												
+""	Black Carr Jn		ESL		ESL  –				"Timing point for all trains on the East SlowLineTo/from Bessacarr Jn – LN220"			
+""												
+""	Potteric Carr Jn		– ESL		ESL  –				"Timing point for all trains on the East SlowLineTo/from Low Ellers Curve Jn – LN764"			
+""												
+""	Doncaster Railport				–		S					
+""												
+""	Doncaster Up Decoy		ESL		–		S					
+""												
+""	Doncaster Sig D254				ESL		S		Crew relief point on Up East Slow			
+""												
+""	Decoy North Junction		"DFLDS1DS2DR –"				X		To/from Decoy South Jn – LN150			
+""												
+""	Doncaster Signal D249		–				S					
+""												
+""	Doncaster Belmont Down Yard		–		–		S					
+""												
+""	Doncaster Carr IEP Depot		–				S					
+""												
+""	Sandbank Junction		–		–		X		"For access to/from Doncaster Carr IEPDepot"			
+""												
+""	Bridge Junction		–		–				"To/from St James Jn – LN832Timing point for all trains on the West Slowline"			
+""												
+""	South Yorkshire Junction								To/from Hexthorpe Jn – LN826			
+""												
+""	Doncaster		–		"–  FLESLWSL"				Platform detail must be shown			
+""												
+""												
+""	Doncaster West Yard		–		–		S					
+""												
+""	Marshgate Junction		–		–		S		"To/from Leeds – LN836To/from Hull/Cleethorpes – LN752"			
+""												
+""	Doncaster Signal D300				SL  TS		X		"Timing point for all trains crossing to the UpSlow or Thorne Lines at 2481pts"			
+""												
+""	Arksey Loop		–				S					
+""												
+""	Shaftholme Junction		–		–				"To/from Temple Hirst Jn LN600To/from Haywood Jn – LN889"			
+""												
+""												
+Newark North Gate
+""
+Newark Flat Crossing
+""
+Carlton Loops
+""
+Retford
+""
+Loversall Carr Jn
+""
+Doncaster
+""
+Shaftholme Junction
+""

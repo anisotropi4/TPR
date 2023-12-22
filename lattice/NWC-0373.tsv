@@ -1,0 +1,40 @@
+Hazel Grove		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Down train passes from Hazel Grove HighLevel Jn"	Up train passes to Hazel Grove High Level Jn	21⁄2
+Pass from Hope Valley passenger	Depart towards Buxton	1
+Pass from Hope Valley freight	Depart towards Buxton	11⁄2
+Pass towards Buxton	Pass from Hope Valley	3
+Pass from Hope Valley passenger	Pass towards Buxton	11⁄2
+Pass from Hope Valley freight	Pass towards Buxton	2
+Depart to Down or Up Sidings	"Arrive/Pass from Edgeley Jn No.1SB/Woodsmoor"	3
+"Depart Platform 1 to signal HG14 on DownHope Valley"	"Arrive/Pass Platform 1 from Edgeley Jn No.1SB/Woodsmoor"	3
+"Depart signal HG14 on Down Hope Valley toPlatform 1"	"Arrive/Pass Platform 2 from DownBuxton/Hope Valley"	3
+"Arrive Platform 1 from Down Siding or signalHG14"	"Arrive/Pass Platform 2 from DownBuxton/Hope Valley"	3
+Depart Platform 1 to Down Siding	"Arrive/Pass Platform 2 from DownBuxton/Hope Valley"	3
+""	NW9005 CHINLEY NORTH JN TO BUXTON		
+""			
+""	Chinley South Jn		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement (Up)	Reason	Value
+""	Pass to Chinley East Jn	Approach control	1
+""	Pass to Chinley North Jn	Approach control	1*
+""			
+""	"*Only to be applied if pathing time is applied between Chinley South Jn and Chinley North Jn, or if a pathing stopis planned at Chinley North Jn"		
+Peak Forest Up Sidings			
+""			
+For Light Engine moves to and from Peak Forest Up Sidings to Great Rocks			
+For westbound departures:		For eastbound arrivals:	
+Peak Forest Up Sidings dep.	XX.00	Great Rocks dep	XX.XX
+Peak Forest South SB arr	XXRM03	Peak Forest South SB arr	XXRM00
+Peak Forest South SB dep	XXRM06	Peak Forest South SB dep	XXRM03
+Great Rocks arr	XX.XX	"Peak Forest Up Sidingsarr."	XX.06
+""			
+For trains to Peak Forest Up Sidings from Great Rocks			
+For eastbound arrivals:	For eastbound departures:		
+Great Rocks dep		"Peak Forest Up Sidingsdep"	XX.00
+Peak Forest South SB arr	XXRM00 #	"Peak Forest South SBpass"	XX/02 $
+Peak Forest South SB dep	XXRM02	Chinley South Jn. pass	XX/XX
+Peak Forest Up Sidings arr	XX.10		

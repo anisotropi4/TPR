@@ -1,0 +1,36 @@
+""	Laira Junction
+""	
+""	Routes to and from this location to Laira Depot
+""	Inbound
+""	"Empty 220s/221s, 80x, GWR Short Form HST (HSTGW4), DMU formations or Loco Hauled Passenger Vehiclesfrom Plymouth to Laira Depot are normally routed via Mount Gould Junction then via the Washing Apron to LairaDepot."
+""	"Empty 220s/221s, 80x, GWR Short Form HST (HSTGW4), DMU formations to Laira Depot may reverse at MountGould Junction without flushing or washing to avoid congestion and will perform these operations on the outwardjourney see the allowances for Mount Gould Junction. Such working must be agreed by the TOC with the DepotManager at Laira."
+""	"Empty trains may only be routed via Laira Junction where it is possible for the driver to walk through the train asthere is no walking route."
+""	Loco hauled NPCCS vehicles are normally routed via Mount Gould Junction to reverse.
+""	Light Diesel locomotives between Plymouth station and Laira Depot will normally be routed via Laira Junction.
+""	Outbound
+""	"Empty 80x & GWR Short Form HST (HSTGW4) departing from Laira Depot to Plymouth station will normally berouted via Mount Gould Junction where they will reverse.  However, it is possible to route them via Laira JunctionDGL to correct the orientation of the train."
+""	Empty 220s/221s single sets will normally be routed via Laira Junction.
+""	Empty loco hauled trains departing from Laira depot will normally be routed via Mount Gould Junction.
+""	"Empty trains where it is not possible to walk through the train may only be routed via Laira Jn if reversing on theDown Goods line. Empty trains where it is possible to walk through the train may reverse on either the DownGoods line or Main line."
+""	Light Diesel locomotives between Laira Depot and Plymouth station will normally be routed via Laira Junction.
+""	
+""	Method of working loco hauled trains
+""	"Loco hauled trains are normally worked from Mount Gould Junction to Laira Depot by the Depot pilot locomotivewith the train engine remaining attached or following."
+""	Mount Gould Junction
+""	"Two 80x, GWR Short Form HST (HSTGW4), DMU formations or Class 220/1 units may be timetabled to be held inthe section between Lipson Jn and Mount Gould Junction awaiting entry to the flushing apron."
+""	Mount Gould Platform	
+""		
+""	Reoccupation	5
+""	GW637 ST BUDEAUX JUNCTION TO GUNNISLAKE	
+""		
+""	St. Budeaux Victoria Road	
+""		
+""	Dwell Time	
+""	150 to 153	11⁄2*
+""	* : Includes allowance for token	
+""	Bere Ferrers	
+""		
+""	Dwell Time	
+""	150 to 153	1⁄2
+""	Bere Alston
+""	

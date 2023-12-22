@@ -1,0 +1,42 @@
+""	NW5009 COLWICH JN TO CHEADLE HULME
+""	
+""	Colwich Jn
+""	
+""	See entry under route NW1001 Armitage Jn (inclusive) to Preston Fylde Jn
+""	Stone			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	"Down from Norton Bridge (After Stoneapproaching next timing point)"	Differential Junction Speed	"1 Class 390 &221T"	
+""	"Down from Colwich (approaching next timingpoint)"	"Differential Junction Speed (SRTs based onthe slower route from Norton Bridge)"	-1⁄2 XC 221	
+""				
+""	Movement Up	Reason	Value	
+""	Up to Norton Bridge (Approaching Stone)	Differential Junction Speed	"1 Class 390 &221T"	
+""	Up to Colwich	"Differential Junction Speed (SRTs based onthe slower route to Norton Bridge)"	-1⁄2 XC 221	
+""				
+""	Dwell time			
+""	Class 350	1		
+""	Stoke on Trent		
+""			
+""	Dwell Time		
+""	15x/170/350	1	
+""	LH/HST	11⁄2	
+""			
+""	Junction Margins		
+""	First movement	Second movement	Margin
+""	Arrive into platform 3	Depart platform 2 towards Kidsgrove	1
+""	Depart platform 2 towards Kidsgrove	Arrive into platform 3	3
+""	Depart platform 3	Arrive platform 2 from Stoke Jn	21⁄2
+""	Arrive platform 2 from Stoke Jn	Depart platform 3	2
+""	Arrive platform 3	Arrive platform 2 from Stoke Jn	21⁄2
+""	Arrive platform 2 from Stoke Jn	Arrive platform 3	3
+""	"Arrive from Kidsgrove direction into platforms 2or 3"	Arrive from Kidsgrove direction into platform 1	2
+""			
+""	Minimum Turnround Time – Trains changing direction at end of journey		
+""	Any train with power operated doors with an inward journey of less than 30 minutes and no shunt	6	
+""	"Any train with power operated doors with an inward journey of less than 30 minutes includingshunt or inward journey of between 30 and 60 minutes"	10	
+""	Any train with power operated doors with an inward journey of more than 60 minutes	15	
+""			
+""	Minimum Turnround Time – Trains changing direction during a journey		
+""	Any train with power operated doors not completing any station duties	3	
+""			

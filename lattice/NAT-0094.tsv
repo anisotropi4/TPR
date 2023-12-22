@@ -1,0 +1,33 @@
+Name
+Name
+Name	Frequency	Start Date	Weeks Run In	Route	TID	Day	Dep	From	To	Arr.	Model Train	TOC
+Name	Frequency	Start Date	Weeks Run In	Route	TID	Day	Dep	From	To	Arr.	Model Train	TOC
+PLP313	4 - weekly	02/01/2024	"40, 44, 48, 52, 04,08, 12, 16, 20, 24,28, 32 & 36"	"Derby RTC -Leicester -Victoria -EastCroydon -TonbridgeWest Yard"	1Q71BA	MO	19.39	"DERBYR.T.C.(NETWORKRAIL)"	"TONBRIDGE WESTYARD"	06.45	LD75	RG
+PLP314	4 - weekly	30/01/2024	"44, 48, 52, 04,08, 12, 16, 20, 24,28, 32 & 36"	"TonbridgeWest Yard -Victoria -EastCroydon -LondonBridge -TonbridgeWest Yard"	1Q72BA	TO	18.13	"TONBRIDGE WESTYARD"	LONDON BRIDGE	01.20	LD75	RG
+""		31/01/2024	"44, 48, 52, 04,08, 12, 16, 20, 24,28, 32 & 36"	1Q72BB	WO	01.30	LONDON BRIDGE	"TONBRIDGE WESTYARD"	06.13	LD75	RG	
+"PLP316A"	4 - weekly	04/01/2024	"40, 44, 48, 52, 04,08, 12, 16, 20, 24,28, 32 & 36"	"Tonbridge -SouthLondon -MaidstoneWest -Tonbridge"	1Q73BA	ThO	18.13	"TONBRIDGE WESTYARD"	"LONDON CHARINGCROSS"	03.19	LD75	RG
+05/01/2024	"40, 44, 48, 52, 04,08, 12, 16, 20, 24,28, 32 & 36"	1Q73BB	FO	03.29	"LONDON CHARINGCROSS"	SEVENOAKS	09.12	LD75	RG			
+Frequency
+Frequency
+Start Date
+Start Date
+Weeks Run In
+Weeks Run In
+Route
+Route
+TID
+TID
+Day
+Day
+Dep
+Dep
+From
+From
+To
+To
+Arr.
+Arr.
+Model Train
+Model Train
+TOC
+TOC

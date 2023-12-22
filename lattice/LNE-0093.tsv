@@ -1,0 +1,27 @@
+"LN627 LONGLANDS JUNCTION TO NEWCASTLE EAST JUNCTION VIA THECOASTUp Direction"				
+HEADWAY AT	"FOLLOWPASSENGER"	FOLLOW TWM	FOLLOW FREIGHT	NOTES
+High Level Bridge Jn	21⁄2	n/a	n/a	
+"Pelaw MetroJunction"	n/a	21⁄2	n/a	
+"Boldon West/Brockley Whins"	21⁄2	21⁄2	51⁄2*	"*High figure due tosignalling restriction;see Margins"
+Sunderland	5	n/a	5	
+Ryhope Grange Jn	4	n/a	51⁄2	
+Seaham	AB+1*	n/a	AB+2*	"*Freight trains toSeahamHarbour can passSeaham 5” afterpreceding train"
+Horden Signal 7148	6	n/a	7	
+Hartlepool	5*	n/a	41⁄2	"*If 1st train stopping;4 if not"
+Greatham SB	4	n/a	41⁄2	
+Billingham Jn	4	n/a	41⁄2	
+Norton South Jn	4	n/a	4	
+Hartburn Jn	4	n/a	4	
+Stockton Cut Jn	4	n/a	4	
+Eaglescliffe	51⁄2*	n/a	4	"*If 1st train stoppingYarm; 31⁄2 if not"
+Yarm	5*	n/a	41⁄2	"*If 1st train stoppingYarm; 4 if not"
+"Northallerton EastJn"	n/a	n/a	31⁄2	
+"Boroughbridge RoadLC"	n/a	n/a	31⁄2	
+""	LN628 SOUTH HYLTON TO SUNDERLAND SOUTH JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	South Hylton to Sunderland	4	4	
+""	LN631 DARLINGTON SOUTH JUNCTION TO EAGLESCLIFFE SOUTH JUNCTION			
+""	TIMING POINT	DOWN	UP	NOTES
+""				
+""	Standard Headway	5	5	

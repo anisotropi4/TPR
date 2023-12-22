@@ -1,0 +1,43 @@
+Yoker C.S.		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Depot from East or West	Depart Depot to East or West	3
+Arrive Depot from East or West	Arrive Depot from East or West	3
+Depart Depot to East or West	Arrive Depot from East or West	3
+Depart Depot to East or West	Depart Depot to East or West	3
+""		
+"RestrictionsNo pathing to be used between Garscadden and Yoker C.S"		
+Yoker		
+""		
+Adjustments to Sectional Running Times		
+Movement Up	Reason	Value
+"Up Train to Yoker CS approaching Yoker (notstopping at Yoker)"	Approach control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down arrive/pass	Depart to Yoker CS	1
+Down arrive/pass	Pass to Yoker CS	21⁄2
+Depart/pass to Yoker CS	Down arrive	31⁄2
+Depart/pass to Yoker CS	Down pass (calling Garscadden)	3
+Depart/pass to Yoker CS	Down pass (not calling at Garscadden)	31⁄2
+SC129 SPRINGBURN TO BELLGROVE JUNCTION
+""
+Springburn		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down train arriving Platform 2, 3 or 4 fromBellgrove (not stopping Barnhill) betweenBellgrove and Springburn"	Approach control	1⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive Platform 3 or 4	Pass from Cowlairs South Junction to Barnhill	2
+Arrive Platform 3 or 4	Pass from Cowlairs West Junction to Barnhill	3
+Depart to Stepps	Arrive from Stepps when conflicting	51⁄2
+Depart to Barnhill	"Arrive Platform 1, 2, 3 or 4 from Barnhill whenconflicting"	3
+Depart Platform 1 to Barnhill	Depart Platform 2 to Stepps	2
+Depart Platform 2 to Stepps	Depart Platform 1 to Barnhill	2
+Pass Platform 2 to Barnhill	Arrive Platform 2, 3 or 4 from Barnhill	21⁄2
+Depart Platform 1 to Cowlairs West Junction	"Arrive Platform 1 or 2 from Cowlairs SouthJunction"	21⁄2
+"Arrive / Pass Platform 2 from Cowlairs SouthJunction"	"Arrive / Pass Platform 1 from either Barnhill orStepps"	3
+Arrive Platform 1 from either Barnhill or Stepps	"Arrive / Pass Platform 2 from Cowlairs SouthJunction"	3

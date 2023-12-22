@@ -1,0 +1,38 @@
+""	Macclesfield		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Down	Reason	Value
+""	"Down train arriving Platform 1 simultaneous orwithin 2 minutes of a train departing Platform 2or 3 in the Down direction"	"Approach control due to restricted signallingoverlap"	1⁄2
+""	Down train to Platforms 2 or 3	Approach control and slow speed crossovers	1
+""			
+""	Movement Up	Reason	Value
+""	Up train to Platform 3	Approach control and slow speed crossover	1⁄2
+""	Up train from Platform 3	Slow speed crossover on departure	"1⁄2approachingnext timingpoint"
+""	Dwell Time		
+""	EMU	1	
+""	Class 390/80x/LH	11⁄2	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Depart Platform 2 in the Down direction	Arrive Platform 3 in the Up direction	3
+""	Depart Platform 3 in the Down direction	Arrive Platform 2 in the Up direction	3
+""	Arrive Platform 3 in the Down direction	Arrive Platform 2 in the Up direction	2
+""	Depart/Pass Platform 2 in the Up direction	Depart Platform 3 in the Up direction	2*
+""	Depart Platform 3 in the Up direction	Arrive Platform 2 in the Up direction	2
+""	* The normal headway applies at the next mandatory timing point – see section 5.2		
+""			
+""	Platform Reoccupation Time	3	
+Cheadle Hulme
+See entry under route NW5001 Crewe North Jn to Manchester Piccadilly
+""	NW5011 HEATON NORRIS JN TO GUIDE BRIDGE STATION JN
+""	
+""	Ash Bridge Jn
+""	
+""	Planning Note
+""	"Trains planned to reverse on the Down Branch at signal HN49 should be timed at Ash Bridge Jn. This will blockthe Down Branch and not the Up Branch or Up Goods Loop"
+""	NW5015 HADFIELD TO ARDWICK JN	
+""		
+""	Hadfield	
+""		
+""	Minimum Turnround Time – Trains changing direction at end of journey	
+""	Class 319 and 323 EMUs	3

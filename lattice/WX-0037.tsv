@@ -1,0 +1,16 @@
+SW210A HOUNSLOW JUNCTION TO WHITTON JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Hounslow Junction	-	-		To/from Hounslow - SW230
+Whitton Junction	-	-		To/from Whitton - SW210
+SW210B READING SPUR JUNCTION TO READING NEW JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Reading Spur Junction	-	-		To/from Earley - SW210
+Reading New Junction	DML	-		"To/From Reading – GW103 Refer toWestern & Wales Timetable PlanningRules"
+SW210C READING TO READING SOUTHERN JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Reading	-	-		"Western Route timing pointRefer to Western & Wales TimetablePlanning Rules – GW103"
+Reading Signal TR1691	-		S	"Western Route timing pointRefer to Western & Wales TimetablePlanning Rules – GW103"
+Reading Southern Junction	-	-	X	"To/from Reading Spur Junction SW210 /SW210B"

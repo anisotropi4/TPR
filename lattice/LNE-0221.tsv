@@ -1,0 +1,40 @@
+Marchey’s House		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to West Sleekburn Junction	Pass from Winning Junction	4
+Pass to Winning Junction	Pass to West Sleekburn Junction	4
+Pass to Winning Junction	Pass from Winning Junction	4
+Pass from Ashington	Pass to West Sleekburn Junction	5
+Pass from Ashington	Depart to Ashington	2
+Ashington		
+""		
+Minimum Turnround	5	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Passenger depart Ashington	"Freight pass from Lynemouth to Marchey’sHouse"	21⁄2
+Passenger arrive Ashington	"Freight pass from Marchey’s House toLynemouth"	11⁄2
+"Freight pass from Marcheys House toLynemouth"	Passenger arrive Ashington	21⁄2
+"Freight pass from Marcheys House toLynemouth"	Passenger depart Ashington	21⁄2
+Passenger depart Ashington	"Freight pass from Marcheys House toLynemouth"	3
+Depart bay platform	Arrive bay platform	21⁄2
+LN706 WEST SLEEKBURN JUNCTION TO NORTH BLYTH		
+Winning		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Marchey’s House	Pass from West Sleekburn	6
+Pass from West Sleekburn	Pass to Marchey’s House	4
+LN736 CLEETHORPES TO NUNNERY MAIN LINE JUNCTION VIA RETFORD		
+Cleethorpes		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Arrive from Grimsby	Depart to Grimsby	1
+""		
+Minimum Turnround	8 Barton services	
+""	10 Lincoln services	
+""	15 Doncaster/Newark and beyond	
+""		
+Train Watering Points	Available at the station	

@@ -1,0 +1,42 @@
+""	Wembley Central			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement Down	Reason	Value	
+""	"Train from Wembley Reception and Departure Lines 1-7, Wembley Yard, Carriage Line or Up and Down Relief toDown Slow hauled by Diesel traction *"			
+""	Class 6 up to 400t (inclusive)	Acceleration Allowance	1⁄2	
+""	Class 6 600t	Acceleration Allowance	1	
+""	Class 6 800t	Acceleration Allowance	11⁄2	
+""	Class 6 1000t (inclusive) to 1500t (inclusive)	Acceleration Allowance	2	
+""	Class 6 1600t (inclusive) to 1800t (inclusive)	Acceleration Allowance	21⁄2	
+""	Class 6 2000t (inclusive) to 2200t (inclusive)	Acceleration Allowance	3	
+""	Class 6 over 2200t 2400t (inclusive)	Acceleration Allowance	31⁄2	
+""	Class 4 up to 400t	Acceleration Allowance	1	
+""	Class 4 600t	Acceleration Allowance	11⁄2	
+""	Class 4 800t (inclusive) to 1500t (inclusive)	Acceleration Allowance	2	
+""	Class 4 over 1500t	Acceleration Allowance	21⁄2	
+""				
+""	"Train from Wembley Reception and Departure Lines 1-7, Wembley Yard, Carriage Line or Up and Down Relief toDown Slow hauled by Electric traction *"			
+""	Class 6 up to 800t (inclusive)	Acceleration Allowance	1⁄2	
+""	Class 6 1000t (inclusive) to 1500t (inclusive)	Acceleration Allowance	1	
+""	Class 6 1600t (inclusive) to 2000t (inclusive)	Acceleration Allowance	11⁄2	
+""	Class 6 over 2200t	Acceleration Allowance	2	
+""	Class 4 up to 600t (inclusive)	Acceleration Allowance	1⁄2	
+""	Class 4 800t (inclusive) to 1500t (inclusive)	Acceleration Allowance	1	
+""	Class 4 1600t (inclusive) to 1800t (inclusive)	Acceleration Allowance	11⁄2	
+""	Class 4 over 1800t	Acceleration Allowance	2	
+""	* All values apply approaching next timing point, not applicable if train is crossing at North Wembley Jn			
+""				
+""	Movement Up	Reason	Value	
+""	"Train to Wembley Reception and DepartureLines 1-7, Carriage Line or Up and Down Relieffrom Up Slow"	Differential Junction speed	1	
+""				
+""	Dwell Time			
+""	Class 350 EMU	1		
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Non-stop Down train passes Wembley Centralon the Down Slow"	"Train from Wembley Yards, Reception andDeparture Lines 1-7, Wembley DBC Fan A &B, Carriage Line to Down Slow"	2 $	
+""	"Down train Departs Wembley Central on theDown Slow"	"Train from Wembley Yards, Reception andDeparture Lines 1-7, Wembley DBC Fan A &B, Carriage Line to Down Slow"	3$	
+""	Train from Up and Down Relief to Down Slow	"Train passes Wembley Central towardsWillesden West London Jn on the Up Slow"	4	
+""	Train from Up and Down Relief to Down Slow	"Train departs Wembley Central towardsWillesden West London Jn on the Up Slow"	2	
+""	"Train from Wembley Reception and DepartureLines 1-7, Wembley DBC Fan A & B, CarriageLine to Down Slow"	"Train departs/passes Wembley Centraltowards Willesden West London Jn on the UpSlow"	4 1⁄2	
+""	$ The normal headway applies at the next mandatory timing point – see section 5.2			

@@ -1,0 +1,30 @@
+Leagrave Junction		
+station starters (WH107/307) protect the junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+All conflicting moves except for below:		"3 before orafter"
+Up Fast to Up Fast pass	"Down Fast to Down Slow having stopped atLeagrave"	2
+""		
+Planning Note		
+"No timing allowances should be applied between Leagrave Junction and Leagrave as there are no intermediatesignals"		
+Sundon South Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up Slow to Up Slow	Sundon Up Loop to Up Slow	2
+Sundon Up Loop to Up Slow	Up Slow to Up Slow	"1st train passingLeagrave Jn + 1⁄2minute"
+""		
+Planning Notes		
+"Sundon Loop is not electrified and therefore cannot be used by electric trains.There is an intermediate signal and it is therefore possible to accommodate two trains in Sundon Loop – themaximum standage in the southern section (to Signal WH518) is 274 SLU/1756 metres and the maximumstandage in the northern section (to Signal WH522) is 94 SLU/602 metres."		
+Harlington			
+""			
+Headway following movement into Sundon Up Loop			
+First Movement	Second Movement	Margin	
+"Up Slow to Sundon UpLoop"	Up to 2000 tonnes	Up Slow to Up Slow	4
+2200 – 2400 tonnes	4		
+2600 tonnes	41⁄2		
+Flitwick
+""
+Planning Note
+"No timing allowances should be applied between Flitwick and Flitwick Junction as there are no intermediatesignals"

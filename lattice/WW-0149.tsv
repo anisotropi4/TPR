@@ -1,0 +1,46 @@
+""	Exeter St Thomas	
+""		
+""	Dwell Time	
+""	Class 15x	1
+""	Starcross	
+""		
+""	Dwell Time	
+""	Class 15x	1
+""	Dawlish Warren		
+""			
+""	Dwell Time		
+""	Class 22x/80x London services	11⁄2	
+""	Class 15x	1	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Up stopping train arrives Platform 2	"Up fast train passes UML (has notcalled at Dawlish)"	21⁄2
+""	Up stopping train arrives Platform 2	"Up fast train passes UML (has called atDawlish"	4
+""	"Up fast train passes UML (does not call atStarcross)"	Up stopping train departs Platform 2	2
+""	Down stopping train arrives Platform 1	"Down fast train passes DML (has notcalled at Starcross)"	21⁄2
+""	Down fast train passes DML	Down stopping train departs Platform 1	2
+""			
+""	Platform Re-occupation	4	
+""	Dawlish	
+""		
+""	Dwell Time	
+""	22x	11⁄2*
+""	Class 80x	11⁄2
+""	Class 15x	1
+""	* Dwell to be 2 minutes on Summer Saturdays (Periods E, F and G) for trains arriving between 09:00 – 18:00	
+""	Teignmouth		
+""			
+""	Dwell Time		
+""	22x		11⁄2*
+""	Class 80x		11⁄2
+""	Class 15x		1
+""	* Dwell to be 2 minutes on Summer Saturdays (Periods E, F and G) for trains arriving between 09:00 – 18:00		
+Newton Abbot			
+""			
+Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+Movement	Reason	Timing Load	Value
+Down train crossing to platform 3	Slower speed crossover	All	{1⁄2}
+""			
+Junction Margins			
+First Movement	Second Movement	Margin	
+An Up departure from P1 or P2	A down arrival into P2 or P1	4	

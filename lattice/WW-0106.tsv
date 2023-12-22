@@ -1,0 +1,44 @@
+STANDARD VALUES – MINIMUM														
+Dwell Time – NW routes														
+22X	11⁄2													
+390	2													
+DMU/EMU	1⁄2													
+LH	1													
+""														
+Minimum Passenger to ECS Dwell Time – GWR Services														
+"150/158/16x – West Countryonly (Not LTV)"	2													
+""														
+Minimum Passenger to ECS dwell time – SWR Services														
+Trains formed of 1 to 6 cars	2													
+Trains formed of 7 or more cars	4													
+""														
+Junction Margin – NW routes														
+First Movement	Second Movement	Margin												
+Arrival	Conflicting departure	1												
+Departure	Conflicting arrival	3												
+"All other conflicting movements, except:Where second move is a crossing move"	"32"													
+""														
+""														
+Junction Margin – GW routes														
+"Allowances are shown in a matrix giving the time required for the second train to cross after the first train using ajunction on a conflicting move has passed, unless otherwise stated in 5.3.  Elements used in the construction of themargin are signal spacing, junction resetting time and speed of the junction turnout (see table below).Note: if first train is a pass/arrive and second train a conflicting departure, 1 minute may be applied as per platformend margins (when trains are travelling in opposite directions)."														
+""														
+STANDARD VALUES - MINIMUM														
+First Train	Transit speed													
+Length	5	10	15	20	25	30	40	60	70	75	90	100	110	125
+Single Loco	4	31⁄2	3	3	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2				
+2 Car	41⁄2	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2			
+3 Car	41⁄2	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2			
+4 Car	5	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2
+"5/6 Car(GWR ShortForm HST(HSTGW4))"	5	31⁄2	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2
+8/9 Car / D245	51⁄2	4	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2
+10 Car, / HST8	51⁄2	4	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2	21⁄2
+Freights														
+Up to 40 SLUs	6	41⁄2	31⁄2	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2			
+Up to 50 SLUs	61⁄2	41⁄2	4	31⁄2	3	3	3	21⁄2	21⁄2	21⁄2	21⁄2			
+Up to 60 SLUs	7	5	4	31⁄2	31⁄2	3	3	21⁄2	21⁄2	21⁄2	21⁄2			
+Up to 80 SLUs	81⁄2	51⁄2	41⁄2	4	31⁄2	31⁄2	3	3	3	21⁄2	21⁄2			
+Over 80 SLUs	91⁄2	6	41⁄2	4	4	31⁄2	3	3	3	3	21⁄2			
+Times shown are for the second movement														
+""														
+Platform End Conflicts – GW routes														
+"Trains may arrive 1 minute before or 3 minutes after a conflicting departureExcept for Westbury (east end), Exeter St David’s and Plymouth where 2 before or 3 after applies. Unlessotherwise stated in 5.3"														

@@ -1,0 +1,38 @@
+""	SO350 GROVE PARK TO BROMLEY NORTH
+""	
+""	Grove Park
+""	See entry under route SO130
+""	Bromley North		
+""			
+""	Berthing Facilities		
+""	Location	Cars	Notes
+""	Platform 1	8	
+""	Platform 2	8	
+""			
+""	Permissive working for attaching/detaching and platform sharing is authorised as shown below:		
+""	Platform 1	Attaching/Detaching and Platform Sharing	
+""	Platform 2	Attaching/Detaching and Platform Sharing	
+""	"SO400 LONDON ST PANCRAS INTERNATIONAL TO HIGH SPEED 1/ETBOUNDARY"
+""	
+""	"Dot StopsDot stops are not permitted in any train at any location on this route"
+""	London St Pancras International		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	All conflicting moves except as shown below:	3	
+""	Any arrival	Departure crossing behind	1
+""	Any departure	Any arrival involving a conflicting movement	"3$4#"
+""	"$ Where both trains are domestic# Where both trains are International"		
+""			
+""	Platform Reoccupation	Value	
+""	Platforms 5 to 10 (International)	4	
+""	Platforms 11 to 13 (Domestic)	3	
+""			
+""	Permissive working for attaching/detaching and platform sharing is authorised as shown below:		
+""	Platform 11	Attaching/Detaching and Platform Sharing	
+""	Platform 12	Attaching/Detaching and Platform Sharing	
+""	Platform 13	Attaching/Detaching and Platform Sharing	
+""	York Way South Junction		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement Up	Reason	Value

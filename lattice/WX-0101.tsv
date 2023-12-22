@@ -1,0 +1,33 @@
+""	St. Denys			
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	
+""	"Down Fast to Down Slow line Non-Stop Freighttrain"	Down Fast line Non-Stop Passenger train	4	
+""	Train passes/departs Platform 2 to Down Fast	"Train arrives/passes Platform 3 from UpFast/Up Slow"	2	
+""				
+""	Overlap Restrictions			
+""	First Movement	Second Movement	Signal	Margin
+""	"Train passes/departs Platform 4 toDown Fast/Up Fast LOS/SouthamptonUp Yard"	"Train arrives at Platform 2 fromEastleigh"	E705	3
+""	"Train arrives at Platform 2 fromEastleigh"	"Train passes Platform 4 to DownFast/Up Fast LOS/Southampton UpYard"	E705	3
+""	"Train arrives at Platform 2 fromEastleigh"	"Train departs Platform 4 to DownFast/Up Fast LOS/Southampton UpYard"	E705	1
+""	"Train arrives at Platform 2 fromEastleigh"	"Train arrives/passes Platform 3 from UpFast/Up Slow/Southampton Up Yard"	E705	2
+""	"Train arrives/passes Platform 3 from UpFast/Up Slow/Southampton Up Yard"	"Train arrives at Platform 2 fromEastleigh"	E705	2
+""				
+""	Limit of Shunt			
+""			Length Limit	
+""	Platform 4 (clear of E703)	167 yards	4 cars/5 444	
+""	Up Fast Line (clear of E704)		12 cars/10 444	
+""				
+""	Note for Up Trains Calling in Platform 1:			
+""	"Up trains formed of 8 or more vehicles calling in St. Denys platform 1 should, where possible, be routed via the UpSlow between Northam Junction and St. Denys. An 8-car train routed via the Up Fast standing in St. Denysplatform 1 will foul 493A points at St. Denys Junction, preventing a following movement towards the Down Netleyuntil after the first train has departed platform 1.A 10-car train via the Up Slow calling in St. Denys platform 1 will stand foul of 495A points, preventing a followingmovement from the Up Slow towards the Down Netley; however access to the Down Netley will be available viathe Up Fast."			
+""	Northam Junction		
+""			
+""	Adjustment to Sectional Running Times		
+""	"Up trains crossing to the Up Slow and Down trains crossing towards Southampton Eastern Docks do not requirethe standard {1⁄2} as it is already included in the SRT’s."		
+""			
+""	Length and Pathing Restrictions		
+""	"Trains exceeding the following lengths will foul Mount Pleasant LC:Down Slow line (E711 signal): 306m (but foul of access to Northam Nos.1 and 2 Receptions)Down Slow line (E711 signal): 258m (clear of access to Northam Nos.1 and 2 Receptions)Down Fast line (E713 signal): 238m (can be 306m but E705 signal at St Denys becomes approach controlled)"		
+""	"The above figures represent total length from signal to block joint. Signal standback allowance is not included –stand-back from signals must be deducted from these values."		
+""	"Pathing and dwell times must not exceed 2 minutes unless the train concerned is shorter than the above lengthlimits."		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin

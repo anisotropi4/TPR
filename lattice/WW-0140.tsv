@@ -1,0 +1,36 @@
+""	"From Bristol Temple Meads to Weston-super-Mare Start to Pass"	"Approach controlledsignal for slow junction"	"80X22X/HST"	"+{1}*+{11⁄2}*"
+""			D245 to D455	+{1}*
+""	"From Bristol Temple Meads to Uphill via theavoiding line"	"Minus allowance as theSRTs are for the slowerroute"	"15x/16x/GWRShort Form HST(HSTGW4)"	-{1⁄2}*
+""	"Yatton to Uphill via avoiding Line Start topass."	"Minus allowance as theSRTs are for the slowerroute"	D245 to D455	-{1}*
+""	"From Uphill Jn via the avoiding line andwith a subsequent stop at Worle"	"Not passing Worle Jn atlinespeed (deceleration)"	80x	+{1}
+""	*These adjustments do not apply to trains that have called at Worle			
+""				
+""	Adjustment to Sectional Running Times (to be shown after this location)			
+""	Movement	Reason	Timing load	Value
+""	"To Uphill Jn via the avoiding line havingstopped at Worle"	"Not passing Worle Jn atlinespeed (acceleration)"	80x	+{1}
+""				
+""	Planning Note			
+""	15x/HSTGW4 SRTs are based on running to/from Weston Super-Mare therefore no adjustment is required.			
+""	Uphill Junction			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	"From Highbridge & Burnham to Weston-super-Mare Pass to Pass"	"To Weston-super-Marewith slow speed at UphillJunction"	"HST80x22X/80x"	"+{1⁄2}+{1}+{11⁄2}"
+""	"From Highbridge & Burnham to Weston-super-Mare Start to Pass"	"To Weston-super-Marewith slow speed at UphillJunction"	HST/22X/80x	+{1⁄2}
+""	"From Highbridge & Burnham to Worle Jnvia the avoiding line"	"SRTs based on slowerspeed route"	"15x/16x/GWRShort Form HST(HSTGW4)"	-{1⁄2}
+""				
+""	Adjustment to Sectional Running Times (to be shown after this location)			
+""	Movement	Reason	Timing Load	Value
+""	"From Worle Jn via the avoiding line havingstopped at Worle"	"Not passing Uphill Jn atlinespeed (acceleration)"	80x	+{1⁄2}*
+""	*Adjustment does not apply if the train stops at Highbridge & Burnham			
+""				
+""	Planning Note			
+""	15x/HSTGW4 SRTs are based on running to/from Weston Super-Mare therefore no adjustment is required.			
+""				
+""	Junction Margins			
+""	First Movement	Second Movement	Margin	Notes
+""	"Down train towards Taunton passes UphillJn on Down Main"	"Down train from Weston-Super-Mare passesUphill Jn from the branchto the Down Main"	21⁄2	"Headway mustbe compliant atnext mandatoryTIPLOC"
+""	Highbridge & Burnham			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value

@@ -1,0 +1,25 @@
+LN101 LONDON KING’S CROSS TO SHAFTHOLME JUNCTION			
+LOCATION	DIRECTION	"USABLELENGTHSLU/METRES"	NOTES
+""			
+Claypole	Up	92/588	
+Claypole	Down	113 / 723	"In Down directions, train in excess of 350yards (50 SLU) in length are only permittedto stand for a maximum of 15 minutes"
+Newark Northgate	Up/Down	76/486	Bi–directional
+Carlton	Up	118 / 755	
+Carlton	Down	118 / 755	
+Retford	Up	118 / 755	Up Platform Loop
+Ranskill	Up	118 / 755	
+Ranskill	Down	118 / 755	
+LN125 HITCHIN CAMBRIDGE JUNCTION TO ROYSTON (INCLUSIVE)			
+LOCATION	DIRECTION	"USABLELENGTHSLU/METRES"	NOTES
+""			
+Royston	Down	28 / 181	
+LN150 FLYOVER EAST JUNCTION TO DECOY NORTH JUNCTION			
+LOCATION	DIRECTION	"USABLELENGTHSLU/METRES"	NOTES
+""			
+Down Decoy Reception Siding 1	Down	261 / 1672	
+Down Decoy Reception Siding 2	Down	258 / 1650	
+Down Decoy Reception Siding 3	Down	264 / 1694	
+Down Decoy Reception Siding 4	Down	264 / 1694	
+Down Decoy Reception Siding 5	Down	223 / 1430	
+Down Decoy South Loop	Down	55 / 352	
+Doncaster Royal Mail Terminal	Down	275 / 1760	

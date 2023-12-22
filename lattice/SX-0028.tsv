@@ -1,0 +1,24 @@
+SO500 LONDON VICTORIA TO BRIGHTON				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Balcombe	"UMLDML"	"DMLUML"	S	Platform detail must be shown
+Copyhold Junction	"-DMLDLHULH"	"-DMLUML"		To/from Ardingly - SO500B
+Haywards Heath Signal 1225		-		"Shunt Signal T1225 availableUse TIPLOC HYWR225"
+Haywards Heath Up Siding North		-		"Use TIPLOC HYWRUSShunt Signal T1226 availableUse TIPLOC HYWR226"
+Haywards Heath	"UMLDML"	"UMLDLHULH"		Platform detail must be shown
+"Haywards Heath Down SidingNorth"				"Shunt Signal T1227 availableUse TIPLOC HYWRDSN"
+"Haywards Heath Down SidingSouth"				"Shunt Signals T1228 & T1231 availableUse TIPLOC HYWRDSS"
+Haywards Down Neck Siding	-	-		"T1230 signal availableUse TIPLOC HYWRDNK"
+Wivelsfield	"DMLUML"	"UMLDML"	S	Platform detail must be shown
+Keymer Junction	"-DMLUML"	"-UMLDML"		To/from Plumpton - SO590
+Burgess Hill	"DMLUML"	"DMLUML"		Platform detail must be shown
+Hassocks	"DMLUML"	"DMLUML"	S	Platform detail must be shown
+Preston Park Up Sidings	-			"Signal T1241 available for Preston ParkUp SidingsUse TIPLOC PRSPSDGHand points set by the driver between thetwo roads"
+Preston Park	"-CRDML"	"-UMLDML"		"Platform detail must be shown.Show CR for ECS moves to Lovers WalkT&RSMD and passenger train movementsfrom Preston Park to Brighton along theCarriage Road (Signal Box Instruction)To/from Hove - SO500C"
+Preston Park Signal T1244		-		"Shunt Signal T1244 availableUse TIPLOC PRSP244"
+Shunt Signal 1252	DML	UML		"Shunt Signal available for ECSmovementsUse TIPLOC BRGH252"
+Lovers Walk Signal T1243	"-WCR"	"-  CRWCR"		"Shunt Signal T1243 availableUse TIPLOC LOVR243"
+Lovers Walk Signal T1246	"-WCR"	"-  CRWCR"		"Shunt Signal T1246 availableUse TIPLOC LOVR246"
+Lovers Walk Signal T1247	"-WCR"	"-  CRWCR"		"Shunt Signal T1247 availableUse TIPLOC LOVR247"
+Lovers Walk Signal T1250	"-WCR"	"-  CRWCR"		"Shunt Signal T1250 availableUse TIPLOC LOVR250"
+Lovers Walk Signal T1255	-	-  CR		Shunt Signal T1255 available

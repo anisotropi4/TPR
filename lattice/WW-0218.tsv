@@ -1,0 +1,41 @@
+""		
+""	Dwell Time	
+""	Power	1
+""	"Freight services for Chirk Kronospan to be allowed a minimum of 10 minutes dwell for shunting duties to beundertaken"	
+""	Wrexham General		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	Trains from Platform 3 towards Ruabon	Slow speed junction	"{1} afterWrexham"
+""	Trains from Ruabon towards Platform 3	Slow speed junction	"{1}approachingWrexham"
+""			
+""	Dwell Time		
+""	LH	11⁄2	
+""	Slam	1*	
+""	Power	1*	
+""	* - 1⁄2 minute for trains to/from Bidston (LH/HST stop not permitted)		
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrive Plat.1 from Saltney Jn.	"Depart Plat.3 or Up Bay Sidings towards CroesNewydd"	4
+""	Arrive Plat.1 from Saltney Jn.	"Arrive Wrexham from Croes Newydd N.F. viaUp Main"	51⁄2
+""	"Depart Plat.3 or Up Bay Sidings towards CroesNewydd"	Arrive Plat.1 from Saltney Jn.	6
+""	"Arrive Plat.3 or Up Bay Sidings from CroesNewydd North Fork."	Arrive Plat.1 from Saltney Jn.	41⁄2
+""	Depart Plat.3 towards Croes Newydd	Arrive Plat.2/3 from Gobowen	51⁄2
+""			
+""	Platform Reoccupation		
+""	Platform 1	6	
+""			
+""	Turnaround Allowance		
+""	Class 230	4	
+""	Class 197	3	
+""	GW733 SUTTON BRIDGE JUNCTION TO ABERYSTWYTH			
+""				
+""	Sutton Bridge Jn			
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	From Shrewsbury to Cambrian Line	Slow speed crossover	DMU	{1⁄2}
+""				
+""	Reoccupation of Single Lines			
+""	"At Sutton Bridge Junction a minimum of 3 minutes is to be allowed before planned reoccupation of the single linesection."			

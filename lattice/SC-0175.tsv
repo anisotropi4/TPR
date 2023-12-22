@@ -1,0 +1,29 @@
+Portobello Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down trains from Monktonhall Junction to Leithbranch between Monktonhall Junction andPortobello Junction"	For Approach control	1
+"Down Trains from Niddrie South or NiddrieWest Junctions between Portobello Junctionand Craigentinny Junction"	For acceleration differential.	"1⁄2 Passenger1 Freight"
+""		
+Movement Up	Reason	Value
+"Up Trains from Leith Branch to MonktonhallJunction between Portobello Junction andMonktonhall Junction"	For acceleration differential.	1
+"Up Trains from Craigentinny Junction to NiddrieSouth or Niddrie West Junctions betweenCraigentinny Junction and Portobello Junction"	For Approach control	"1 except 22X11⁄2 22X"
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Down Train pass towards Leith	Up train pass from Edinburgh	"3 Passenger4 Freight"
+"Up Train pass towards Monktonhall/NiddrieJunctions"	Down Train pass towards Leith	4
+Up/Down Train Pass	"Down train pass from Niddrie Junctionstowards Leith"	6
+"Up Train pass from Leith towards NiddrieJunctions"	Up train pass from Edinburgh	"3 Passenger4 Freight"
+Down Train pass to Craigentinny Junction	Up Depart towards Brunstane	1
+Craigentinny Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Down Trains from Craigentinny Depot betweenCraigentinny Junction and Abbeyhill Junction"	For acceleration differential	1*
+*Reduce to 1⁄2 if stopping at Abbeyhill Junction		
+""		
+Movement Up	Reason	Value
+"Up Trains from Powderhall Branch betweenCraigentinny Junction and Portobello Junction"	For acceleration differential.	1
+Up train pass to Craigentinny TMD	Approach Control/Slow Speed Route	11⁄2
+""		

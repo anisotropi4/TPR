@@ -1,0 +1,10 @@
+"A shunt move at W722 signal prevents any moves from Westbury or Westbury DMU Sidings towardsHawkeridge Jcn or Bradford Jcn."			
+"Up train to Heywood Road Jcn departs orpasses Westbury"	"Conflicting shunt moveto W722 signal orDown TrowbridgeSiding departsWestbury"	"Applystandardjunctionmarginmatrix"	
+"Up train to Heywood Road Jcn departs orpasses Westbury"	"Conflicting movedeparts WestburyDMU Sidings"	"21⁄2 -followingpassenger31⁄2*  –followingfreight"	"Apply passenger margin whenfollowing light engine or ECS.* If freight departs from astanding start, margin isincreased to 41⁄2 minutes."
+Up train departs or passes Westbury	"Conflicting shunt movedeparts W722 signalor Down TrowbridgeSiding"	"21⁄2  –followingpassenger31⁄2* –followingfreight"	"Apply passenger margin whenfollowing light engine or ECS.* If freight departs from astanding start, margin isincreased to 41⁄2 minutes."
+"Shunt move arrives W722 signal or DownTrowbridge Siding"	"Conflicting shunt movedeparts W722 signalor Down TrowbridgeSiding"	11⁄2	
+"Down train from Heywood Road Jcn orBradford Jcn arrives or passes Westbury"	"Conflicting shunt movedeparts W722 signalor Down TrowbridgeSiding"	11⁄2	
+"Shunt move from W722 signal or DownTrowbridge Siding arrives Westbury orWestbury DMU Sidings"	"Conflicting Down trainfrom Bradford Jcnarrives or passesWestbury"	3	
+Train departs Westbury DMU Sidings	"Conflicting Up train orshunt move departsWestbury"	4	
+Train arrives Westbury DMU Sidings	"Conflicting movedeparts Westbury,W722 signal or DownTrowbridge Siding"	11⁄2	
+"Up train departs or passes Westbury URline towards Bradford Jn or Heywood RoadJcn"	"Up train arrivesWestbury platform 3"	"3 –followingLD orECS4* –followingfreight"	"* If freight departs from astanding start at W211 signal,margin is increased to 5minutes."

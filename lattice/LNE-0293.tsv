@@ -1,0 +1,21 @@
+Gascoigne Wood		
+Pass to Sherburn Junction	Pass from Milford Junction/West Yard	5
+Pass to Sherburn Junction	Pass from Sherburn Junction	41⁄2*
+Freight depart/pass from Milford Junction	Pass to Micklefield	31⁄2
+Freight depart/pass from Milford Junction	Freight pass to Milford Junction	3
+Freight pass to Milford Junction	Freight pass from Milford Junction	6
+* 4 if non–stop at Sherburn		
+Hambleton West Junction		
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass to Hambleton South Junction	Pass from Selby	31⁄2
+Pass from Selby	Pass to Hambleton South Junction	21⁄2
+Hambleton East Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Trains from Hambleton North JunctionApproaching Selby"	Differential junction speed	1⁄2
+""		
+Movement Up	Reason	Value
+"Trains to Hambleton North JunctionApproaching Hambleton East Junction"	Approach control	1⁄2

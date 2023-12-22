@@ -1,0 +1,29 @@
+""	MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	"Kilburn Up and Down GoodsLoop"	Up & Down	96	617	Between signals WM722 and WM723
+""	Up & Down Goods No1	Up & Down	169	1083	Between signals WM781 and WM758
+""	Up & Down Goods No2	Up & Down	169	1083	Between signals WM783 and WM756
+""	Brent Reception & Departure 1	Up & Down	38	243	Between signals WM785 and WM778
+""	Brent Reception & Departure 2	Up & Down	38	243	Between signals WM787 and WM780
+""	Up Kings Langley Loop	Up	124	794	
+""	"Rugby Up and Down ThroughSiding"	Up & Down	105	672	Rear of Signal RN4184
+""	Rugby Up Goods Loop	Up	118	756	Rear of Signal RN4182
+""	MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	"Up Northampton Fast (throughline)"	Up	50	322	Between signals RY1022 and RY1209
+""	"Northampton Down GoodsLoop"	Down	128	823	Between signals RY1043 and RY1220
+""	Northampton Up & Down Slow	Up/Down	94	602	Between signals RY1038 and RY1041
+""	MD137 HARLESDEN JN TO WEMBLEY CENTRAL (WEMBLEY YARD LINES)				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Railnet Reception 1	Up & Down	39	248	Between signals WY32 and 764
+""	Railnet Reception 2	Up & Down	39	248	Between signals WY34 and 766
+""	Railnet Reception 3	Up & Down	39	248	Between signals WY36 and 768
+""	Railnet Reception 4	Up & Down	39	248	Between signals WY38 and 770
+""	"Up and Down High LevelGoods"	Up & Down	39	250	Between signals WM767 and WM772
+""	MD140 BLETCHLEY TO BEDFORD ST JOHNS (INCLUSIVE)				
+""	LOCATION	DIRECTION	USABLE LENGTH	NOTES	
+""			SLU	METRES	
+""	Forders Sidings	"Arrival &Departure"	83	536	Between signals MV157 and MV156

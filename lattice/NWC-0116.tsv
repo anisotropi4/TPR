@@ -1,0 +1,33 @@
+""	NW9005 CHINLEY NORTH JN TO BUXTON				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Chinley North Jn	–	–		"Single line from Chinley North Jn to/fromChinley South JnTo/from New Mills South Jn – NW9001"
+""	Chinley South Jn	–	–		To/from Chinley East Jn – NW9003
+""	Chinley Signal CY168	–			Timing point for all Down trains
+""	Peak Forest Cemex Sidings	–	–	S	
+""	Peak Forest South SB	–	–		
+""	Peak Forest Up Sidings	–	–	S	
+""	Peak Forest Long Sidings	–	–	S	
+""	Down and Up Through Siding	–	–	S	
+""	Great Rocks Jn	–	–		"Single line from Great Rocks Jn to/fromBuxton SBTo/from Tunstead Sidings"
+""	Tunstead Sidings	–	–	S	
+""	Topley Pike	–	–		
+""	Buxton SB	–	–		"To/from Brigg’s Sidings – NW9019To/from Buxton – NW9021"
+""	Buxton Up Relief Sidings		–	S	
+""	NW9007 NEW MILLS SOUTH JN TO ASHBURYS EAST JN				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	New Mills South Jn	–	–		"To/from Chinley – NW9001Track detail must be shown for UpServices:UR - Up RomileyUGL - Up Goods LoopUM - Up Main"
+""	New Mills Central	–	–		Platform detail must be shown
+""	New Mills Central Up Siding	–	–	S	
+""	New Mills Central Signal 30	–	–	S	"Timing point used for shunting betweenplatforms at New Mills Central"
+""	Strines	–	–	S	
+""	Marple	–	–	S	
+""	Romiley	–	–		Platform detail must be shown
+""	Romiley Jn				To/from Woodley – NW9011
+""	Bredbury	–	–	S	
+""	Brinnington	–	–	S	
+""	Reddish North	–	–		
+""	Ryder Brow	–	–	S	
+""	Belle Vue	–	–	S	
+""	Ashburys East Jn				To/from Ashburys – NW5015

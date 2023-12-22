@@ -1,0 +1,42 @@
+SC067 WEMYSS BAY JUNCTION TO WEMYSS BAY				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Wemyss Bay Junction	–	–		"To/from Paisley Gilmour Street – SeeSC065"
+Whinhill	–	–	S	
+Drumfrochar	–	–	S	
+Branchton	–	–	S	
+Dunrod	–	–		"Platform / Running Line detail must beshown"
+Inverkip	–	–	S	
+Wemyss Bay		–		Platform detail must be shown
+SC073 KILWINNING TO LARGS				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Kilwinning	–	–		"Platform detail must be shownTo/from Dalry – SC059"
+Dubbs Junction	–	–	X	"To/from Byrehill Junction – SC081Trains to and from Byrehill only"
+Stevenston DGL	–		S	
+Stevenston	–	–	S	
+Saltcoats	–	–		
+Ardrossan South Beach	UDL	–		"To/from Ardrossan Town – SC077To/from West Kilbride – See below"
+West Kilbride	UDL	UDL	S	"To/from Ardrossan South Beach – Seeabove"
+Hunterston Junction	–	UDL UFL		
+Hunterston HL Sidings	–	–	F	
+Hunterston LL Sidings	–	–	F	
+Hunterston DRS	–	–	F	
+Fairlie	–	–	S	
+Largs		–		Platform detail must be shown
+SC077 ARDROSSAN SOUTH BEACH TO ARDROSSAN HARBOUR				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Ardrossan South Beach	–	–		To/From Saltcoats – SC073
+Ardrossan Town	–	–		
+Ardrossan Harbour		–		
+SC081 BYREHILL TO DUBBS JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Byrehill Junction	–	–	X	Trains to and from Irvine – SC059
+Dubbs Junction	–	–	X	To/From Saltcoats – SC073
+SC085 AYR HARBOUR TO NEWTON JUNCTION				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Ayr Harbour	–	–	F	
+Newton Junction	–	–	F	To/from Annbank – SC087

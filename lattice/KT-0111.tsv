@@ -1,0 +1,30 @@
+""	Sevenoaks		
+""			
+""	"Trains timed to run between platform 4 at Sevenoaks and Sevenoaks Down Sidings should include Gussett Sidingwith an OP stop.Trains timed to run between platform 3 at Sevenoaks and Sevenoaks Down Sidings should not include GussettSiding."		
+""			
+""	Permissive Working for attaching/detaching and platform sharing is authorised as shown below:		
+""	Platform 1	Up Main	Attaching/Detaching in Up direction ONLY
+""	Platform 2	Up Loop	Attaching/Detaching in Both directions
+""	Platform 3	Down Main	Attaching/Detaching in Both directions
+""	Platform 4	Down Loop	"Attaching/Detaching in Both directionsSubject to Sectional Appendix conditions"
+Tonbridge		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Arrive Platform 4 from Sevenoaks	Approach Control	1
+Pass from Sevenoaks to Somerhill Tunnel	Approach Control	1⁄2
+Pass/arrive platform 1 or 2 from Sevenoaks	Slow Speed Crossovers	1⁄2
+Pass from Edenbridge towards Paddock Wood	Acceleration	"1⁄2* Class 4 800T or less1* Class 4 1000T orgreater"
+*Applied approaching next timing point. Does not apply to trains routed to Down Goods Loop		
+""		
+Movement Up	Reason	Value
+"Pass from Paddock Wood via Up Fast to Edenbridgeor Tonbridge West Yard"	Approach Control	1
+"Arrive/Pass platform 1 or 2 from Paddock Wood viaUp Fast"	Approach Control	1⁄2
+"Arrive/Pass platform 1 from Paddock Wood via UpLoop"	Approach Control	1⁄2
+Pass from Somerhill Tunnel to Sevenoaks	Acceleration	"1⁄2* Class 6 400T or less1* Class 6 600T11⁄2* Class 6 800T-1200T2* Class 6 1400T-1600T3* Class 6 1800T-2000T31⁄2* Class 6 2200T4* Class 6 2400T orgreater"
+*Applied approaching next timing point		
+""		
+Propelling Movements	Reason	Value
+"Propelling movements from Tonbridge towardsTonbridge West Yard"	"Slow speed movementwhen propelling."	5
+"Propelling movements from Tonbridge West Yardtowards Tonbridge"	"Slow speed movementwhen propelling."	21⁄2
+""		

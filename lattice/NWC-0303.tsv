@@ -1,0 +1,40 @@
+""	"NW3001 CREWE NORTH JN TO HOLYHEADPlease refer to Western and Wales edition of the Timetable Planning Rules for NW3001 Saltney Jn toHolyhead"
+""	Chester		
+""			
+""	Adjustments to Sectional Running Times		
+""	Movement	Reason	Value
+""	"Down trains arriving at Platform 3B via Down &Up Main."	Approach control	2
+""	Up trains arriving at Platform 2	Approach control	1
+""	"Arrival at Platform 7 from either direction whenalready occupied"	Approach Control	1⁄2
+""			
+""	Dwell Time		
+""	All	2 (including TfW Loco Hauled services which are not reversing), except:	
+""	LH/HST (Slam door stock)	3	
+""			
+""	Junction Margins		
+""	First Movement	Second Movement	Margin
+""	Arrival at Platform 7	Arrival at Platform 7 from opposite direction	3
+""	Depart Platform 7	Depart Platform 7 in opposite direction	simultaneous
+""	"Depart Platform 7B towards Hooton / ChesterSouth Jn"	Arrival at Platform 7A from opposite direction	2
+""	"Depart Platform 7A towards Beeston Castle &Tarporley/Mickle Trafford"	Arrival at Platform 7B from opposite direction	2
+""	"Arrival at Platform 7A from Beeston Castle &Tarporley/Mickle Trafford"	"Depart Platform 7B towards Hooton / ChesterSouth Jn"	1
+""			
+""	Minimum Turnround Time – Trains changing direction during a journey		
+""	DVT	5 when operating in DVT mode and where new traincrew are involved.	
+""			
+""	Other Restrictions		
+""	"Only Platform 7 is DC electrified. Electric services should normally plan to use Platform 7B.The maximum permitted station dwell time of 5 minutes for Merseyrail DC services does not apply.Steam Hauled services must not use Platform 7.TfW Loco Hauled services to Manchester, calling at Helsby, must only use platforms 1 or 4"		
+""			
+""	Permissive Working		
+""	Attaching/Detaching and Platform Sharing is authorised as shown below:		
+""	Platform 1	Attaching/Detaching and Platform Sharing	
+""	Platform 2	Attaching/Detaching and Platform Sharing	
+""	Platform 3	Attaching and Detaching only	
+""	Platform 4	Attaching and Detaching only	
+""	Platform 5	Attaching/Detaching and Platform Sharing	
+""	Platform 6	Attaching/Detaching and Platform Sharing	
+""	Platform 7	Attaching/Detaching and Platform Sharing+	
+""	Down and Up Main	"Permissive for freight including light engines in Down directiononly"	
+""	"+ Maximum train length for permissive working in Platform 7 is as follows:Platform 7a – 163m from top of ramp to block jointPlatform 7b – 146m from signal CR93 to block joint"		
+""			
+""	Train Watering Points	On Platform 1	

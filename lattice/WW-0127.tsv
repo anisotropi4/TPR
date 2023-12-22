@@ -1,0 +1,26 @@
+Reading West Junction			
+""			
+Adjustment to Sectional Running Time (to be shown approaching location)			
+Movement	Reason	Timing Load	Value
+Crossing from the Up Relief to Festival Line	Slower speed junction	All traffic	{1⁄2}
+"Crossing from the Up Relief to Up WestCurve"	Approach control	"All passengertraffic"	{1}
+"Crossing from the Up Relief to Up WestCurve"	Approach Control	"All Class 4 and 6trains"	{11⁄2}
+"Crossing from the Down Relief to the UpPassenger Loop"	Approach control	All traffic	{1}
+""			
+Adjustment to Sectional Running Time (to be shown after this location)			
+Movement	Reason	Timing Load	Value
+"Reading to Reading West Junction RL –having stopped at Reading"	"Not at line speed passingReading West Junction"	"Class 4 and 61000TClass 4 and 61200TClass 4 and 61400T and 1600TClass 6 1800TClass 6 2000Tand 2200TClass 6 2400T"	"{1⁄2}{1}{11⁄2}{2}{21⁄2}{3}"
+"Crossing from the Up or Down West Curveor Festival Line"	Acceleration	All traffic	{1⁄2}*
+"Crossing from Reading West Curve andcrossing at Tilehurst East Junction."	Acceleration	"All Class 4 trafficClass 4 1600TAll Class 6 traffic"	"{1⁄2} approachingTilehurst East Jn{1⁄2} afterTilehurst East Jn(additional to theabove).{1⁄2} approachingTilehurst East Jnand {1⁄2} afterTilehurst East Jn"
+"Crossing from Reading West Curve andrunning RL"	Acceleration	"All Class 4 and 6traffic"	"{1} approachingGoring andStreatley"
+*Does not apply to 22x when using the Festival Line			
+""			
+Planning note			
+"Care must be taken when dwelling/ pathing a train between Reading West Jn and Oxford Road Jn on the WestCurve lines, to ensure held train does not block access to other lines (see 5.4.1 GW220)"			
+Tilehurst East Junction		
+""		
+Crossing and conflicting moves		
+First Movement	Second Movement	Margin
+"An Up train on the main line crossing to the Uprelief at Tilehurst East Junction"	An Up train on the relief line following	"Headway plus 1minute"
+An Up train on the relief line	"An Up train on the main line crossing to theUp relief at Tilehurst East Junction"	"Headway plus 2minutes"
+A down train from Scours Lane	An Up relief line service	"Junction marginmatrix for the"

@@ -1,0 +1,23 @@
+EA1330 SOUTH ACTON JUNCTION TO OLD & NEW KEW JUNCTIONS			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+"South Acton toKew East Junction"	AB+2	AB+2	TCB timed as AB
+"Kew East Junction toNew Kew Junction"	AB+2	AB+2	TCB timed as AB
+"Kew East Junction toOld Kew Junction"	AB+2	AB+2	TCB timed as AB
+EA1340 STRATFORD LEA JUNCTION TO HIGH MEADS JUNCTION			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+"Lea Junction toHigh Meads Junction"	4	4	
+EA1350 CHANNELSEA NORTH JUNCTION TO TEMPLE MILLS EAST JUNCTION			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+"Channelsea North Junction toTemple Mills East Junction"	4	4	
+EA1360 DUDDING HILL JUNCTION TO ACTON WELLS JUNCTION			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+"Dudding Hill Junction toActon Canal Wharf"	AB+2	AB+2	
+"Acton Canal Wharf Junction toActon Wells Junction"	AB+2	AB+2	
+EA1370 GOSPEL OAK JUNCTION TO BARKING TILBURY LINE JUNCTION WEST			
+TIMING POINTS INCLUDED	DOWN	UP	NOTES
+Gospel Oak to Upper Holloway	3	3	
+"Upper Holloway toHarringay Park Junction"	"4 followingnon-stop5 followingstopping"	"4 followingnon-stop5 followingstopping"	
+"Harringay Park Junction toSouth Tottenham"	5	5	
+"South Tottenham toLeyton Midland Road"	6	6	
+"Leyton Midland Road toWoodgrange Park Junction(exclusive)"	5	5	
+"Woodgrange Park Junction(inclusive) to Barking"	3	3	

@@ -1,0 +1,41 @@
+Tursdale Junction		
+Pass Slow Line to Down Fast	Acceleration	"1⁄2 Passenger400t – 1⁄2600t to 1600t – 11800t to 2600t -11⁄22800t and above – 2Applied at the nexttiming point"
+Movements Up	Reason	Value
+Pass Up Fast to Slow Line	Approach control	11⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass Up Fast	Pass Slow Line to Down Fast	4
+Pass Up Fast	Depart Slow Line to Down Fast	1
+Up Fast to Slow Line	Pass Up Fast	31⁄2*
+Pass to Slow Line	Pass from Slow Line to Down Fast	4*
+Pass to Slow Line	Depart from Slow Line to Down Fast	11⁄2*
+Pass from Slow Line	Pass to Slow Line	3*
+Pass from Slow Line	Pass Up Fast	4*
+Depart Slow Line to Down Fast	Pass Up Fast	4*
+Down Fast Pass (Passenger)	Depart Slow Line to Down Fast	21⁄2
+Down Fast Pass (Passenger)	Pass from Slow Line to Down Fast	31⁄2
+* If the first train is longer than 600m in length then the margin is increased by 1⁄2		
+Durham				
+""				
+Adjustment to Sectional Running Times				
+Movement Up	Reason		Value	
+Terminating train in Down platform	Approach control		1⁄2	
+""				
+Movement Down	Reason		Value	
+Down Fast to Down Slow passing Durham station	Deceleration		"1⁄2 FreightapproachingDurham"	
+""				
+Dwell Time				
+DMU/EMU	1			
+LH/HST/22x/802	11⁄2			
+LNER all services	2 – May be reduced to 11⁄2 with prior agreement from the operator			
+""				
+Junction Margins				
+First Movement	Second Movement	Margin		
+Down Passenger clear to platform/SL	Next train passes	4		
+Down Freight clear to platform/SL	Next train passes	5		
+Up train terminating shunt, arrive to DF	Next Up service pass	8		
+Up train arriving on Down side	Next Down/Up pass	4		
+""				
+Minimum Turnround				
+DMU	"5 trains from Newcastle area. 10 minutes must be allowed if the service is tobe re-platformed."			

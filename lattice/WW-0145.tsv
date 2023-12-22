@@ -1,0 +1,35 @@
+""	Dwell Time			
+""	Class 15x	1		
+""	"Class 22x / Class 80x LondonServices"	11⁄2		
+""				
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	Passing to Tiverton Down Loop	"Approach control anddeceleration"	All traffic	{1⁄2}
+""	Tiverton Up Loop			
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	Crossing into the Up Loop	"Slow turnout speed intothe loop (25 mph)"	All traffic	{1}
+""	Cowley Bridge Jn			
+""	Adjustments to Sectional Running Times (allowance to be shown approaching this location)			
+""	Movement	Reason	Timing Load	Value
+""	"From Tiverton Parkway passing to theDown and Up Goods/Riverside Yard"	"Approach control anddeceleration"	All traffic	{11⁄2}
+""	"Approaching Cowley Bridge Jn towardsCrediton"	Slow speed turnout	158	{1}
+""				
+""	Planning Note			
+""	150 SRTs are based on running to/from Crediton therefore no adjustment is required.			
+""				
+""	Junction Margins (Southbound trains)			
+""	First Movement	Second Movement	Margin	Notes
+""	"A down train from TivertonParkway direction passesCowley Bridge Jn on the DownMain Toward Exeter St David’s"	"A train from Crediton directionpasses Cowley Bridge Jn to theDown Main towards Exeter StDavid’s"	3	"Headway must be compliantat next mandatory TIPLOC"
+""	Train towards Crediton	Train towards Taunton	3	
+""	Exeter St Davids			
+""				
+""	Adjustments to Sectional Running Times			
+""	Movement	Reason	Timing Load	Value
+""	"Arrive/pass Platform 1, 3, 4 or 6 fromDawlish Warren"	Slow speed crossover	"DMU/HSTGW4HST/80x/22x"	"{1⁄2}{1}"
+""	"Arrive/pass Platform 2, 3, 5 or 6 fromCowley Bridge Jn"	Slow speed crossover	"DMU/HSTGW4HST/80x/22x"	"{1⁄2}{1}"
+""	"Depart/pass Platform 1, 2, 3, 4 or 6 toCowley Bridge Jn"	Slow speed crossover	22x	"{1⁄2} approachingnext timing point"
+""	"Approaching Exeter St David’s fromCrediton"	Slow speed turnout	158	{1}
+""				
+""	Overlap Restrictions			
+""	First Movement	Second Movement	Margin	

@@ -1,0 +1,33 @@
+""	MD101 EUSTON TO ARMITAGE JN (EXCLUSIVE)					
+""	TIMING POINT	DOWN	UP	CODE	NOTES	
+""						
+""	Canal Farm Jn	SL			"Timing point for trains that have travelledfrom Nuneaton Midland Yard JnFrom Nuneaton Midland Yard Jn – MD233"	
+""	Atherstone	SL	SL	S		
+""	Polesworth	SL		S		
+""	Amington Jn	"FL SLUFL"	SL FL		"UFL line code for Down trains travelling bi-directionally on the Up Trent Valley Fast"	
+""	Tamworth Low Level	SL	SL	S		
+""	Lichfield Trent Valley Low Level	SL USL	SL –	S X	"Platform detail must be shownTiming point for trains via the Chord Lineto Lichfield Trent Valley JnTo/from Lichfield Trent Valley Jn – MD355"	
+""	Lichfield Down Siding	–		S		
+""	Lichfield Signal LS1303	SL		S	"Departure Signal from Lichfield DownSiding"	
+""	Lichfield Signal LS1306		–	S	"All Down trains from Amington Jn toLichfield Down Siding reverse at thissignal."	
+""	Lichfield North Jn	SL FL	"FL SLDFL"		"To/from Rugeley North Jn – NW1001DFL line code for Up trains travelling bi-directionally on the Down Trent Valley Fast"	
+""	Lichfield Signal LS1308		"SL FLUFL USL"	S X	"For trains reversing at Lichfield North Jn.USL line code only for trains to LS1306and Lichfield Down Siding"	
+""	Curborough Jn		DFL UFL	X	"Use for Up Slow to Up Fast crossover andfor bi-di timetable planningTo/from Rugeley North Jn – NW1001"	
+""	MD105 HANSLOPE JN TO RUGBY (VIA NORTHAMPTON)				
+""	TIMING POINT	DOWN	UP	CODE	NOTES
+""					
+""	Hanslope Jn	–	FL SL		To/from Milton Keynes Central – MD101
+""	Courteenhall Jn	–	–		To/from Northampton Gateway
+""	Northampton Gateway	–	–	F	
+""	Collingtree Road Jn	–	–	X	"Timing point for trains to/from NorthamptonGateway"
+""	Northampton South Jn				To/from Brackmills – MD175
+""	Northampton	–	–		Platform detail must be shown
+""	Northampton Riverside Sidings	–		S	Siding A or Siding B must be shown
+""	Northampton Castle Yard	–	–	S	
+""	Northampton North Jn	– UDS	–	S X	"Timing point in Down direction for allmovements to the Down Goods or KingsHeath Traincare Depot; all movementsto/from the Up and Down Slow or sidingsand for reversing trains"
+""	"Northampton Kings HeathTraincare Depot"	–	–	S	Also known as Northampton EMD
+""	Northampton Down Goods Loop	–	–	S	
+""	Northampton Up Reception	–	–	S	
+""	Northampton Up Sidings	–	–	S	
+""	Mill Lane Jn	–	– UDS	S X	
+""	Long Buckby	–	–		

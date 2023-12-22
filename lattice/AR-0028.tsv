@@ -1,0 +1,37 @@
+EA1040 ROMFORD TO UPMINSTER					
+TIMING POINT	DOWN	UP		CODE	NOTES
+""					
+Romford	-	-			"Timing point for all trains routed via EA1040To/from Ilford – EA1011"
+Romford Signal L450	-	-			Tiploc - ROMF450
+Emerson Park	- (Single)	- (Single)		S	
+Upminster	- (Single)	- (Single)			
+EA1050 SHENFIELD JUNCTION TO SOUTHEND VICTORIA				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Shenfield Junction				To/from Shenfield Platforms 1, 2 and 3
+Shenfield Southend Loop				To/from Shenfield Platforms 4 and 5
+Mountnessing Junction	-	-		
+Billericay	-	-	S	
+Wickford Down Siding	-		S	
+Wickford	"-DML *"	-		"Platform detail must be shown* For ARS purposes, through trains which arereversing from the Southminster directiontowards Southend Victoria and using Platform2 must have DML shown in the Route/LineCode field"
+Wickford Junction				To/from Southminster - EA1060
+Wickford Signal L5150		-	S	
+Rayleigh	-	-	S	
+Hockley	-	-		
+Rochford	-	-	S	
+Southend Airport	-	-	S	
+Prittlewell	-	-	S	
+Southend Up Carriage Sdgs	-	-	S	North and South
+"Southend Down CarriageSdgs"	-	-	S	North and South
+Southend Victoria	-	-		Platform detail must be shown
+EA1060 WICKFORD JUNCTION TO SOUTHMINSTER				
+TIMING POINT	DOWN	UP	CODE	NOTES
+""				
+Wickford Junction				To/from Wickford/Southend - EA1050
+Battlesbridge	-	-	S	
+South Woodham Ferrers	-	-	S	
+North Fambridge	-	-		
+Althorne	-	-	S	
+Burnham-on-Crouch	-	-	S	
+Southminster CEGB	-	-	F	
+Southminster	-	-		

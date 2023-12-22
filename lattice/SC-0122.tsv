@@ -1,0 +1,41 @@
+Newton-on-Ayr/Newton Junction
+""
+"RestrictionPathing time must not be used between Newton Junction and Falkland Yard and vice versa.Pathing time must not be used between Newton Junction and Signal PA335 and vice versa.Trains travelling from Newton Junction towards Annbank / Mauchline must not be allowed on to the Branch tostand at Signal PA335, awaiting acceptance from Mauchline Signal Box.   Trains must not be planned to leaveFalkland Yard or pass from Harbour until 2 minutes after the previous train has arrived at Mauchline."
+Ayr		
+""		
+Dwell Time		
+DMU	1	
+ECS / Passenger forming ECS	2	
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Train going to Bay Platforms 1 or 2	Approach Control	11⁄2
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Up train arriving Platform 3 or 4	Down train arriving Platform 1 or 2	4
+Down train arriving Platform 1 or 2	Up train arriving Platform 3 or 4	3
+Down train arriving Platform 1 or 2	Up train departing Platform 3 or 4	1*
+Train from Townhead Sidings arrive at Ayr	Departure from Townhead Sidings towards Ayr	1
+Train from Ayr arriving at Townhead Sidings	Departure from Ayr towards Townhead Sidings	1
+Train from Ayr arriving at Townhead Sidings	Departure from Townhead Sidings towards Ayr	1
+Train from Ayr arriving at Townhead Sidings	"Train from Ayr depart/pass towards DalrympleJunction from Platform 3"	1
+*Must have minimum dwell or turnaround of 5 minutes.		
+""		
+"NoteTownhead (Ayr CSD):   Trains arrive from Station on Carriage Washer Line (nearest to Up Girvan); train depart toStation from By-pass Loop Signal PA854 (the line furthest from Up Girvan).   Attaching of units in throughplatforms only permitted during periods of significant disruption.   An EMU can reverse on Down Girvan behindSignal PA858 subject to a maximum length of 8 vehicles."		
+""		
+"RestrictionTrains arriving Platform 3 as Class 1 or Class 2 and then departing as Class 5 to Ayr CSD require a minimumdwell of 2 minutes due to approach control timeout."		
+Dalrymple Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+Down train going to Chalmerston	Approach Control	1
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+Pass from Girvan	Pass to Girvan	31⁄2
+Pass from Girvan	Pass to Chalmerston	41⁄2
+Pass from Chalmerston	Pass to Girvan	41⁄2
+Pass from Chalmerston	Pass to Chalmerston	5
+Pass to Girvan	Pass from Chalmerston	3
+Pass to Chalmerston	Pass from Girvan	3

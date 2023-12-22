@@ -1,0 +1,35 @@
+Chesterfield South Junction
+"minutes after the departure from Chesterfield.2) With a route set from Chesterfield Platform 1 to the Up Main, it is not possible to set a route for a train fromChesterfield Platform 2 to the Up Barrow Hill line.  Therefore, time movements from Platform 2 to passChesterfield South Jn 3 minutes before the departure from Chesterfield Platform 1, or 3 minutes after thedeparture from Chesterfield Platform 1."
+Chesterfield		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Freight crossing Down Main to Down BarrowHill"	Deceleration	1⁄2
+""		
+Dwell Time		
+DMU	1	
+22X	11⁄2	
+""		
+Junction Margins		
+First Movement	Second Movement	Margin
+"Depart/Pass Platform 1 or 2 to Barrow HillLines"	Arrive/Pass Platform 2 from Tapton Junction	31⁄2
+""		
+Minimum Turnaround	5 from Sheffield (Empty DMU to form passenger service)	
+10 from Sheffield, Derby or Nottingham		
+20 from beyond Sheffield, Derby or Nottingham		
+""		
+Planning Restriction		
+"Services turning back from Derby to run on the Up Erewash Line are not permitted to use Platform 1, all suchservices must be planned on Platform 2/3"		
+""		
+Planning Note		
+"No timing allowances should be applied in the Up direction between Tapton Junction and Chesterfield as there areno intermediate signals"		
+Tapton Junction		
+""		
+Adjustments to Sectional Running Times		
+Movement Down	Reason	Value
+"Passenger crossing Down Main to DownBarrow Hill.* Approaching Tapton Jn** After Tapton Jn"	Differential Junction Speed	1⁄2*
+""	Acceleration	1⁄2**
+"Freight crossing Down Main to Down BarrowHill.  ** After Tapton Jn"	Acceleration	11⁄2**
+"Passenger crossing Down Barrow Hill to DownMain.  *** After Tapton Jn"	Acceleration	1***
+"Freight crossing Down Barrow Hill to DownMain.*Approaching Tapton Jn***After Tapton Jn"	Differential Junction Speed	1⁄2*
+Acceleration	"***Class 4 trains400t 21⁄2600t/TR40 3800t – 1,000t 31⁄21,200t – 1,400t/TR70 41,600t 41⁄2"	
