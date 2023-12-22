@@ -22,7 +22,7 @@ This creates unstructure text files named `<route code>-<page number>.txt` in th
 
 ## Data
 
-A link to the raw text is [here]("TPR-txt.md"), and a markdown representation of the TSV files is [here]("TPR-tsv.md")
+A link to the raw text is [here](TPR-txt.md), and a markdown representation of the TSV files is [here](TPR-tsv.md)
 
 
 ## Acknowledgment
