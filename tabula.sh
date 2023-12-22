@@ -1,7 +1,5 @@
 #!/bin/sh
-
 TABULA=1.0.5
-
 TABULAFILE=tabula-${TABULA}-jar-with-dependencies.jar
 
 if [ ! -f ${TABULAFILE} ]; then
@@ -17,18 +15,18 @@ if [ ! -d pdf ]; then
     exit 1
 fi
 
-for FILE in $(cd pdf; ls *.pdf | sed 's/.pdf//')
+for FILESTUB in $(cd pdf; ls *.pdf | sed 's/.pdf//')
 do
-    echo ${FILE}
-    OUTFILE=$(echo ${ROUTE}-${FILE}.tsv | sed 's/pg_//')
+    OUTFILE=$(echo ${ROUTE}-${FILESTUB}.tsv | sed 's/pg_//')
+    echo ${OUTFILE}
     #if [ ! -s stream/${FILE}.tsv ]; then
     #    java -Dfile.encoding=utf-8 -Xms256M -Xmx2048M -jar ../${TABULAFILE} -t -f TSV -o ../stream/${OUTFILE} pdf/${FILE}.pdf
     #fi
-    if [ ! -f ../lattice/${ROUTE}-${FILE}.tsv ]; then
-        java -Dfile.encoding=utf-8 -Xms256M -Xmx2048M -jar ../${TABULAFILE} -l -f TSV -o ../lattice/${OUTFILE} pdf/${FILE}.pdf
-        if [ ! -s lattice/${FILE}.tsv ]; then
-            echo WARNING: processing lattice "pdf ${FILE}.pdf" with page cut
-            java -Dfile.encoding=utf-8 -Xms256M -Xmx2048M -jar ../${TABULAFILE} -l --area 210,0,3500,2500 -f TSV -o ../lattice/${OUTFILE} pdf/${FILE}.pdf
+    if [ ! -f ../lattice/${OUTFILE} ]; then
+        java -Dfile.encoding=utf-8 -Xms256M -Xmx2048M -jar ../${TABULAFILE} -l -f TSV -o ../lattice/${OUTFILE} pdf/${FILESTUB}.pdf
+        if [ ! -s ../lattice/${OUTFILE} ]; then
+            echo WARNING: processing lattice "pdf ${OUTFILE}.pdf" with page cut
+            java -Dfile.encoding=utf-8 -Xms256M -Xmx2048M -jar ../${TABULAFILE} -l --area 100,0,3500,2500 -f TSV -o ../lattice/${OUTFILE} pdf/${FILESTUB}.pdf
         fi
     fi
 done
